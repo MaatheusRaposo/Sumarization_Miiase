@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Miíase humana por Dermatobia hominis (Linneaus Jr.) (Diptera, Cuterebridae) e Cochliomyia hominivorax (Coquerel) (Diptera, Calliphoridae) em Sucessão Parasitária</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">Antonio</forename><surname>Batista-Da-Silva¹</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Humberto</forename><surname>De Castro</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Abádio²</forename><surname>Margareth</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><surname>De Carvalho Queiroz³</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> . FIOCRUZ , Laboratório de Eco-Epidemiologia de doença de Chagas , Autor para correspondência .</note>
+								<orgName type="laboratory">Laboratório de Eco-Epidemiologia de doença de Chagas</orgName>
+								<orgName type="institution" key="instit1">FIOCRUZ</orgName>
+								<orgName type="institution" key="instit2">Autor para correspondência</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> . Secretaria Municipal de Agricultura de Itaboraí-RJ ,</note>
+								<orgName type="institution">Secretaria Municipal de Agricultura de Itaboraí-RJ</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Miíase humana por Dermatobia hominis (Linneaus Jr.) (Diptera, Cuterebridae) e Cochliomyia hominivorax (Coquerel) (Diptera, Calliphoridae) em Sucessão Parasitária</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1983-0572</idno>
+					</monogr>
+					<idno type="MD5">3FE7B9AA4344FE3BA85FBC93E1F72400</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Inseto</term>
+					<term>mosca</term>
+					<term>parasita Fly</term>
+					<term>insect</term>
+					<term>parasite</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C o m u N I C a ç ã o C I E N t í f I C a</head><p>Resumo. O objetivo deste trabalho foi relatar um caso raro de sucessão parasitária de duas espécies de larvas de moscas produtora de miíase primária, Dermatobia hominis e Cochliomyia hominivorax, em um jovem de 12 anos atendido em um hospital público no município de São Gonçalo (RJ).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>M</head><p>iíase é a infestação de vertebrados vivos, por larvas de moscas, que em seu período imaturo, ou em parte dele se alimentam de tecidos vivos ou mortos, ou de suas substâncias corporais, ou ainda do alimento pelo hospedeiro ingerido <ref type="bibr" target="#b3">(GUIMARÃES &amp; PAPAVERO 1999;</ref><ref type="bibr" target="#b15">REY 2001;</ref><ref type="bibr" target="#b16">SERRA-FREIRE &amp; MELLO 2006)</ref>.</p><p>É uma parasitose comum em ambiente rural, infestando homens e animais domésticos, proporcionando graves problemas econômicos e de saúde pública <ref type="bibr" target="#b12">(QUEIROZ et al. 2005)</ref>. Em humanos, as espécies mais encontradas se restringem a Dermatobia hominis (Linneaus Jr., 1781) e Cochliomyia hominivorax (Coquerel, 1858) que são espécies biontófagas.</p><p>Segundo GUIMARÃES &amp; PAPAVERO (1999), Gabriel Soares de Souza descreveu em 1587, na Bahia, uma infestação por Cochliomyia sp. e relatou que o tratamento usado na época para matar as larvas que infestavam feridas e úlceras de pessoas carentes, era o sumo do tabaco. Este tipo de tratamento ainda é utilizado em algumas regiões de nosso país.</p><p>O primeiro relato de C. hominivorax ocorreu na Guiana Francesa, em 1858, pelo médico Coquerel, sendo uma parasitose comum em humanos. Apesar deste fato raramente as ocorrências são notificadas por profissionais de serviços de saúde.</p><p>Segundo GUIMARÃES &amp; PAPAVERO (1999), o tipo de infestação pode ser classificado por características da larva e da lesão que esta produz, sendo biontófagas, aquelas que parasitam tecidos vivos e necrobiontófagas, as que parasitam tecidos necrosados em indivíduos vivos. As lesões furuncolóides, individualizadas com secreção serosa ou purulenta, são características da infestação por D. hominis. Feridas extensas, crônicas, de evolução prolongada ou com freqüente exposição são geralmente infestadas por C. hominivorax.</p><p>Pacientes apresentando tecido necrosado em suas lesões podem ser acometidos por larvas de Cochiomyia macellaria <ref type="bibr">(Fabricius, 1775)</ref>, que é geralmente referida como invasora secundária, muitas vezes após o abandono das larvas de C. hominivorax <ref type="bibr" target="#b16">(SERRA-FREIRE &amp; MELLO 2006)</ref>.</p><p>Tem sido observado na literatura a associação do baixo nível social, etilismo, outras doenças mentais ou neurológicas, hábitos precários de higiene, pacientes com úlceras varicosas, diabéticos, desnutridos, pacientes com câncer em estágio avançados, pediculose, imunodeprimidos, pacientes com DST, pacientes com gengivite e outras lesões na cavidade oral e os extremos de idade <ref type="bibr" target="#b0">(ALBERNAZ 1933;</ref><ref type="bibr" target="#b18">ZUCOLOTO &amp; ROSSI 1971;</ref><ref type="bibr" target="#b8">MADEIRA 1978;</ref><ref type="bibr" target="#b14">REGO &amp; FRAIHA 1982;</ref><ref type="bibr" target="#b17">SMITH &amp; CLEVENGER 1986;</ref><ref type="bibr" target="#b6">KAMINSKY 1993;</ref><ref type="bibr" target="#b11">PACINI et al. 2000;</ref><ref type="bibr" target="#b1">BANGSGAARD et al. 2000;</ref><ref type="bibr" target="#b10">MARTINEZ et al. 2003;</ref><ref type="bibr" target="#b13">RAMALHO et al. 2003;</ref><ref type="bibr" target="#b5">HOFHEINZ et al. 2003;</ref><ref type="bibr" target="#b2">GOMEZ et al. 2003;</ref><ref type="bibr" target="#b9">MARQUEZ et al. 2007</ref>), e até mesmo pacientes debilitados em leitos hospitalares. Este trabalho teve como objetivo identificar as espécies de larvas de moscas causadoras de miíases em paciente atendido em hospital público, relatando um caso raro de sucessão parasitária envolvendo duas espécies biontófagas e apresentar a metodologia empregada para a correta extração das larvas.</p><p>O menor D. J. A. de 12 anos morador do bairro Barro Vermelho, área urbanizada do município de São Gonçalo (RJ) foi encaminhado a um hospital público local apresentando dor localizada no couro cabeludo. A equipe do ambulatório ao observar o paciente, detectou a presença de lesão furuncular única causada por larva de berne (Figura 1). Foi utilizada vaselina sólida e curativo como tampão temporário por 60 minutos para asfixia da larva de D. hominis. Em seguida a larva foi retirada de forma mecânica, utilizando-se para tal uma pinça. Após limpeza e curativo, a criança foi liberada, sendo seu responsável orientado a retornar no dia seguinte para refazer o curativo.</p><p>Após dez dias o paciente retornou a unidade hospitalar apresentando um quadro clínico agravado pela infestação de 8 larvas de C. hominivorax no mesmo orifício causado pelo berne, anteriormente (Figura 2). As larvas foram retiradas utilizando-se a mesma metodologia para retirada de D. hominis, evitando-se a utilização de éter ou álcool para asfixia das larvas. Após todo procedimento ambulatorial, foi recomendada a utilização de toca hospitalar industrializada, ou confeccionada de gaze, com o propósito se evitar nova infestação primária ou até mesmo secundária. Foram realizados curativos durante 30 dias, até que o tecido lesado fosse totalmente regenerado (Figura 3). Figura 2. Orifícios provocados por larvas de Cochliomyia hominivorax Figura 3. Cicatrização total da área parasitada As larvas retiradas das lesões, foram encaminhadas para o Laboratório de Eco-Epidemiologia de Doença de Chagas, -IOC/ FIOCRUZ, para serem identificadas de acordo com as chaves dicotômicas propostas por LAAKE et al. (1936) e GUIMARÃES <ref type="bibr">&amp; PAPAVERO (1983</ref><ref type="bibr">&amp; PAPAVERO ( e 1999))</ref>. Todos os procedimentos utilizados foram realizados dentro das normas de biossegurança e ainda, tal relato foi autorizado por escrito pelo responsável do menor.</p><p>Duas larvas de C. hominivorax no segundo instar foram coletadas e acondicionadas individualmente em recipientes de vidro identificados, contendo carne bovina fresca onde foi aguardada a emergência dos adultos. Houve eclosão de apenas 1 mosca , que foi identificada de acordo com chave dicotômica para gênero e espécie.</p><p>A ocorrência de miíases em seres humanos, tal qual este caso aqui relatado, deve ser encarada sempre como uma patologia que inspira cuidados imediatos, diante da possibilidade de agravamento do quadro por infecções secundárias e até mesmo uma reinfestação por sucessão de parasitos capazes de produzir miíase primária, invasão de cavidades ou áreas nobres, ou ainda pela ocorrência de infestações maciças que, por seu caráter devastador causam rapidamente lesões potencialmente irreversíveis. Entretanto, é imprescindível avaliar a ocorrência destas miíases para dar subsídios às ações de prevenção e/ou tratamento desta parasitose.</p><p>O controle de animais de rua, como cães, gatos, cavalos e gado bovino, pode representar um ponto de partida para o controle desta parasitose, minimizando problemas como a dispersão das principais espécies causadoras de miíases em centros urbanos e em sua periferia.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos</head><p>A todos os profissionais de saúde envolvidos que realizaram as coletas, ao paciente e seus responsáveis, que aceitaram participar deste trabalho, assinando um termo de consentimento de divulgação de dados e imagens.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figura 1 .</head><label>1</label><figDesc>Figura 1. Orifício causado por larva de Dermatobia hominis</figDesc><graphic coords="2,42.86,142.41,241.92,181.44" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">De algumas localizações raras de miíases</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Albernaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Oto-Laringológica</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">226</biblScope>
+			<date type="published" when="1933">1933</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Palpebral myiasis a Danish traveler caused by the humam bot-fly (Dermatobia hominis)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bangsgaard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Holst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Krogh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Heegaard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Opthalmologica Scandinavica</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="487" to="489" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Oral myiasis by screwworm Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Perdigão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J G S</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Rios-Leite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Tanos-Lacerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Custódio-Neto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Oral &amp; Maxillofacial Surgery</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="115" to="116" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Editora. Plêiade</publisher>
+			<biblScope unit="page">308</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">As Miíases na Região Neotropical</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Miasis del cuero cabelludo em niño inmigrante</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Hofheinz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Martín</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Ponferrada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Amador</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Fernández</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anales de Pediatría</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="114" to="116" />
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Barcelona</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nasocomial myiasis by Cochliomyia hominivorax in Honduras</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Kaminsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transactions of the Royal Society of Tropical Medicine and Hygiene</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="199" to="200" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Biology of the primary screw worm fly, Cochliomyia americana, and a comparison of its stages with those of Cochliomyia marcellaria</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Laake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Cushing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Parish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin United States Department Agriculture</title>
+		<imprint>
+			<biblScope unit="volume">500</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="1936">1936</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Miíase da cavidade bucal</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Madeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Catarinense de Odontologia</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="12" to="18" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Miíases associadas com alguns fatores sócio-conômicos em cinco áreas urbanas do Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Marquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mattos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nascimento</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista da Sociedade Brasileira de Medicina Tropical</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="180" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Miíase Vulvar: Relato de Caso</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A R</forename><surname>Martinez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Romani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Priolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P P</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A G</forename><surname>Dalbem</surname></persName>
+		</author>
+		<ptr target="www.periodico.ebras.bio.brEntomoBrasilis" />
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Ginecologia e Obstetrícia</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="291" to="295" />
+			<date type="published" when="2003">2003. 2009</date>
+			<pubPlace>Maio -Agosto</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Pacini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L P</forename><surname>Amaral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Pacini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transmissíveis</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">44</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Miíases Humanas por Cochliomyia hominivorax no Estado do Rio de Janeiro e Suas Conseqüências</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M O</forename><surname>Cabral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E M</forename><surname>Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Norberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitología Latinoamericana</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">167</biblScope>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Santiago, Chile</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R O</forename><surname>Ramalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C C</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P V C</forename><surname>Cintra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Pinto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Otorrinolaringologia</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="81" to="86" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+	<note>Nasal Myiasis: Case Report</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Miíases Humanas na Amazonia -II: Miíase Anal. Considerações a propósito de um caso</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fraiha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista da Fundação SESP</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="7" to="11" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rey</surname></persName>
+		</author>
+		<editor>Parasitologia. 5a.ed., Ed. Guanabara Koogan</editor>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Rio de Janeiro</publisher>
+			<biblScope unit="page" from="629" to="630" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<title level="m">Entomologia &amp; Acarologia na Medicina Veterinária. Rio de Janeiro, Editora L. F. Livros de Veterinária Ltda</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">200</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Nasocomial nasal myiasis. Archives of Pathology and Laboratory Medicine</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Clevenger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="439" to="440" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Miíase facial com extensão para a caixa craniana</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zucoloto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rossi</surname></persName>
+		</author>
+		<idno>em: 13/03/2009</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Medicina</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="13" to="16" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+	<note>Recebido</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Miíase humana por Dermatobia hominis (Linneaus Jr.) (Diptera, Cuterebridae) e Cochliomyia hominivorax (Coquerel) (Diptera, Calliphoridae) em Sucessão Parasitária</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Abádio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+		</author>
+		<idno>em: 07/04</idno>
+		<ptr target="www.periodico.ebras.bio.br/ojs" />
+	</analytic>
+	<monogr>
+		<title level="m">Aceito</title>
+		<imprint>
+			<date type="published" when="2009">2009. 2009</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="61" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

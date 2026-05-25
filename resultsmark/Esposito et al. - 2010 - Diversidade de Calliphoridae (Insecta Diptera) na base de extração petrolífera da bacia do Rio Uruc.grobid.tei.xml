@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Diversidade de Calliphoridae (Insecta: Diptera) na Base de Extração Petrolífera da Bacia do Rio Urucu, na Amazônia brasileira</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Maria</forename><forename type="middle">Cristina</forename><surname>Esposito</surname></persName>
+							<email>esposito@amazon.com.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Universidade Federal do Pará -UFPA ,</note>
+								<orgName type="institution">Universidade Federal do Pará -UFPA</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">Roberto</forename><surname>Pereira De Sousa</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Universidade Federal do Pará -UFPA ,</note>
+								<orgName type="institution">Universidade Federal do Pará -UFPA</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><surname>Da</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Silva</forename><surname>Carvalho-Filho</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Universidade Federal do Pará -UFPA ,</note>
+								<orgName type="institution">Universidade Federal do Pará -UFPA</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><surname>Resumo</surname></persName>
+						</author>
+						<title level="a" type="main">Diversidade de Calliphoridae (Insecta: Diptera) na Base de Extração Petrolífera da Bacia do Rio Urucu, na Amazônia brasileira</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1F34E5A9F2C15F0AF1FA1D62CF4D8A48</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Calliphoridae</term>
+					<term>moscas varejeiras</term>
+					<term>abundância</term>
+					<term>riqueza de espécies</term>
+					<term>Amazônia Calliphoridae</term>
+					<term>blow flies</term>
+					<term>abundance</term>
+					<term>richness</term>
+					<term>Amazon</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A diversidade e abundância de dípteros califorídeos de três ambientes (clareira artificial, clareira natural e mata) de Porto Urucu/AM foram avaliadas em coletas anuais realizadas em 2004, 2005 e 2006. Ao longo destes três anos foram coletados 2.121 exemplares pertencentes a 14 espécies. As espécies mais abundantes foram Chloroprocta idioidea (Robineau-Desvoidy), Eumesembrinella randa (Walker) e Hemilucilia semidiaphana (Rondani). Os habitats de matas e clareiras naturais apresentaram maior abundância de califorídeos quando comparados às clareiras artificiais, com índices de diversidade e equitabilidade também maiores do que em clareiras artificiais, onde a dominância foi mais elevada.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>As moscas são conhecidas por utilizarem matéria orgânica em decomposição para alimentação e desenvolvimento de seus imaturos, desempenhando importante papel como organismos saprófagos. Vários graus de associações das moscas com o homem são encontrados, desde uma associação total, tornando-se dependentes de ambientes modificados pelo homem, até espécies que ocorrem apenas em ambientes naturais <ref type="bibr">(Povolny, 1971)</ref>. Essa sensibilidade em relação aos ambientes, aliada à rapidez de resposta em termos populacionais às modificações antrópicas, confere às moscas a capacidade de funcionarem como indicadores de interferências humanas nos ambientes naturais <ref type="bibr" target="#b7">(Esposito, 1999)</ref> Tanto os trabalhos mais recentes como os das décadas de 70 e 80 revelam o predomínio das espécies invasoras de Chrysomya Robineau-Desvoidy, 1830 e sua interferência sobre as espécies nativas de Cochliomyia macellaria (Fabricius, 1775) e Lucilia eximia Wiedemann, 1819 na maioria dos ambientes amostrados das regiões brasileiras <ref type="bibr">(Baumgartner e Greenberg, 1984)</ref>. No entanto, na Bacia do Alto Rio Urucu <ref type="bibr" target="#b16">(Paraluppi, 1996)</ref> e na Floresta Nacional de Caxiuanã <ref type="bibr" target="#b6">(Esposito, 1997</ref><ref type="bibr" target="#b7">(Esposito, , 1999))</ref>, que são ambientes ainda bastante preservados da Amazônia foi constatado que não estavam colonizados pelas espécies invasoras de Chrysomya na década de 90.</p><p>A região da bacia do rio Urucu oferece uma oportunidade para o estudo das populações de moscas em vários tipos de ambientes, inclusive os livres da influência humana, porque apresenta extensas áreas de florestas preservadas, bem como algumas áreas de clareiras que foram abertas para a prospecção de petróleo e gás natural pela Petrobrás S.A.</p><p>O objetivo deste estudo foi avaliar a diversidade e abundância de dípteros muscóideos da família Calliphoridae (Mesembrinellinae, Calliphorinae, Chrysomyinae) em três ambientes (clareira artificial, clareira natural e mata) de Porto Urucu/AM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL E MÉTODOS</head><p>O presente estudo foi desenvolvido na bacia do Rio Urucu, Amazonas ( 4° 53' 7"; S 65° 20' 59" W), na área de exploração petrolífera da Petrobrás a 600 Km oeste de Manaus. As coletas foram realizadas nos meses de setembro de 2004, junho de 2005 e junho de 2006, utilizando armadilhas com isca de 50 gramas de pulmão bovino. As armadilhas são de fabricação caseira, similar a descrita por <ref type="bibr" target="#b2">Almeida et al. (2003)</ref> e utilizada por <ref type="bibr">Parallupi (1996)</ref> e <ref type="bibr" target="#b6">Esposito (1997)</ref>.</p><p>Em cada coleta foram expostas 120 armadilhas durante 48 horas. Nas duas primeiras coletas, três tipos de ambientes foram amostrados: 05 matas primárias, 05 clareiras artificiais (abertas para atividades da Petrobrás) e 05 clareiras naturais decorrentes principalmente da queda natural de árvores na mata. Na terceira coleta, dois tipos de ambientes foram amostrados: 15 clareiras artificiais e 15 matas.</p><p>As moscas foram preparadas e depositadas na coleção do Museu Paraense Emílio Goeldi (MPEG). A identificação dos dípteros foi realizada a partir das descrições e chaves de identificação de <ref type="bibr" target="#b9">Guimarães (1977)</ref>, <ref type="bibr" target="#b14">Mariluis (1982)</ref>, <ref type="bibr">Peris e Mariluis (1984)</ref>, <ref type="bibr" target="#b5">Dear (1985)</ref>, <ref type="bibr" target="#b22">Toma (1995)</ref>, <ref type="bibr">Ribeiro e Carvalho (1998)</ref> e <ref type="bibr">Carvalho e Ribeiro (2000)</ref>. A subfamília Mesembrinellinae foi considerada como tal, apesar de <ref type="bibr" target="#b9">Guimarães (1977)</ref> ter elevado este táxon para o nível de Família. Este critério foi adotado porque trabalhos de sistemática de <ref type="bibr" target="#b21">Rognes (1986)</ref> e Toma e Carvalho (1995) continuam a considerá-la como um grupo interno á Calliphoridae.</p><p>Os índices de diversidade de Shannon-Weaner (H'), equitabilidade (Shannon J') e dominância (Berger-Parker_D) foram utilizados para análise faunística dos três ambientes (clareiras artificiais, clareiras naturais e matas) <ref type="bibr" target="#b13">(Magurran, 1988)</ref>. Estes índices foram calculados pelo programa Species Diversity &amp; Richness 2.5 (Henderson e Seaby, 1997) com base nos dados das duas primeiras coletas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS E DISCUSSÃO</head><p>A riqueza em Porto Urucu passou de sete espécies <ref type="bibr" target="#b16">(Paraluppi, 1996)</ref> para um total de 14 espécies de califorídeos coletados neste trabalho, com o primeiro registro de Paralucilia adespota <ref type="bibr" target="#b5">(Dear, 1985)</ref>, Co. hominivorax, C. megacephala e as cinco espécies de mesembrinelíneos. Um total de 2.121 exemplares foi coletado e as espécies mais abundantes foram Chloroprocta idioidea (Robineau-Desvoidy, 1830), Eumesembrinella randa (Walker, 1849) e Hemilucilia semidiaphana (Rondani, 1850). As espécies Cochliomyia hominivorax (Coquerel, 1858), Chrysomya megacephala (Fabricius, 1805) e Cochliomyia macellaria (Fabricius, 1775) foram representadas por apenas um individuo (Tabela 1).</p><p>Estudos sobre a fauna de moscas na Floresta Nacional de Caxiuanã, Melgaço, PA e matas na região do Jarí, Monte Dourado, PA, verificaram também a predominância das mesmas espécies nativas Ch. idiodea, H. semidiaphana e E. randa <ref type="bibr">(Esposito,1999;</ref><ref type="bibr">Esposito e Linhares 2002;</ref><ref type="bibr">Melo e Esposito 2006)</ref>.</p><p>A espécie Ch. idioidea, que aparece em alta abundância, tem se mostrado um componente importante da fauna de califorídeos na região <ref type="bibr" target="#b16">(Paraluppi, 1996)</ref>. Já a coleta de apenas um indivíduo de Co. macellaria contrasta com os resultados anteriores, quando esta espécie representou Diversidade de Calliphoridae (Insecta: Diptera) na Base de Extração Petrolífera da Bacia do Rio Urucu, na Amazônia brasileira cerca de 86% dos indivíduos coletados <ref type="bibr" target="#b16">(Paraluppi, 1996)</ref>, o que pode estar relacionado a uma possível alteração nas comunidades de Calliphoridae da região. Vários trabalhos relatam drásticos decréscimos populacionais de Co. macellaria após a chegada das espécies exóticas de Chrysomya no Brasil <ref type="bibr" target="#b10">(Guimarães et al., 1979;</ref><ref type="bibr">Prado e Guimarães, 1982)</ref>. No entanto, este não parece ser o motivo da referida alteração, pois apenas quatro indivíduos do gênero Chrysomya foram coletados, demonstrando que, quase doze anos após o trabalho de <ref type="bibr" target="#b16">Paraluppi (1996)</ref>, a situação não se alterou em relação à colonização das espécies deste gênero na região.</p><p>Comparando os três ambientes com base nas duas primeiras coletas, as matas e clareiras naturais apresentaram abundância de califorídeos maiores do que as clareiras artificiais (Tabela 2 e Figura 1). Apesar das mesmas três espécies terem predominado nos diferentes ambientes (Figura 2), a espécie E. randa foi mais abundante nos ambientes de clareiras naturais e matas. Os mesembrinelineos de maneira geral apresentam hábito silvestre, vivendo em matas densas e úmidas <ref type="bibr">(Peris e Mariluis, 1984)</ref>.</p><p>A comunidade de califorídeos é mais diversa nas matas e clareiras naturais, pois estes ambientes apresentaram os maiores índices de diversidade e equitabilidade quando comparado às clareiras artificiais. Os índices de dominância das matas e clareiras naturais foram menores que o das clareiras artificiais (Figura 3). A tendência de redução na diversidade de califorídeos nos ambientes mais antropizados foi registrada por <ref type="bibr" target="#b7">Esposito (1999)</ref> na Floresta Nacional de Caxiuanã, Melgaço, PA e no município de Portel, PA.</p><p>No entanto, percebe-se que há uma forte influência do ambiente de mata do entorno, tanto nas clareiras naturais quanto nas artificiais. Resultados semelhantes também foram obtidos entre dípteros fitosaprófitos e aves da região, demonstrando que, apesar do forte impacto da produção das clareiras de poços e jazidas, a paisagem do Urucu ainda continua pouco alterada, com forte influência da mata primária <ref type="bibr" target="#b1">(Aleixo et al., 2004)</ref>.</p><p>Tabela 1 -Composição e abundância das espécies de Calliphoridae (Insecta, Diptera) coletadas na Província Petrolífera de Porto Urucu nos meses de setembro de 2004, junho de 2005 e junho de 2006. Subfamílias Espécies Total Chrysomyinae Chrysomya albiceps (Wiedemann, 1819) 3 Chrysomya megacephala (Fabricius, 1805) 1 Chloroprocta idioidea (Robineau-Desvoidy,1830) 896 Cochliomyia macellaria (Fabricius,1775) 1 Cochliomyia hominivorax (Coquerel,1858) 1 Hemilucilia semidiaphana (Rondani, 1850) 272 Hemilucilia segmentaria (Fabricius, 1805) 8 Paralucilia adesposta Dear, 1985 17 Calliphorinae Lucilia eximia (Fabricius,1805) 112 Mesembrinellinae Eumesembrinella randa (Walker, 1849) 671 Eumesembrinella quadrilineata (Fabricius, 1805) 39 Mesembrinella bellardiana (Séguy,1925) 76 Mesembrinella bicolor (Fabricius, 1805) 2 Mesembrinella batesi (Aldrich, 1922) 22 Total 2.121 Diversidade de Calliphoridae (Insecta: Diptera) na Base de Extração Petrolífera da Bacia do Rio Urucu, na Amazônia brasileira Espécies Ambientes CLA CLN MT Total Chrysomya albiceps (Wiedemann, 1819) 3 0 0 3 Chrysomya megacephala (Fabricius, 1805) 0 0 1 1 Chloroprocta idioidea (Robineau-Desvoidy,1830) 356 213 289 858 Cochliomyia macellaria (Fabricius,1775) 1 0 0 1 Cochliomyia hominivorax (Coquerel,1858) 0 0 1 1 Hemilucilia semidiaphana (Rondani, 1850) 34 127 96 257 Hemilucilia segmentaria (Fabricius, 1805) 2 1 5 8 Paralucilia adesposta Dear, 1985 10 1 6 17 Lucilia eximia (Fabricius,1805) 4 6 8 18 Eumesembrinella randa (Walker, 1849) 48 194 152 394 Eumesembrinella quadrilineata (Fabricius, 1805) 3 17 5 25 Mesembrinella bellardiana (Séguy,1925) 12 22 29 63 Mesembrinella bicolor (Fabricius, 1805) 1 0 1 2 Mesembrinella batesi (Aldrich, 1922) 1 5 14 20 Total 475 586 607 1.668 Tabela 2 -Padrões de abundância das espécies de Calliphoridae (Insecta, Diptera) nos três ambientes (Clareiras artificiais-CLA, Clareiras naturais-CLN e Matas-MT) amostrados na Província Petrolífera de Porto Urucu nos meses de setembro de 2004 e junho de 2005.  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figura 1 -</head><label>1</label><figDesc>Figura 1 -Padrões de abundância de Calliphoridae (Insecta, Diptera) nos três ambientes (Clareiras artificiais -CLA, Clareiras naturais-CLN e Matas) amostrados da Província Petrolífera de Porto Urucu nos meses de setembro de 2004 e junho de 2005.</figDesc><graphic coords="4,47.09,515.42,232.96,151.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figura 2 -</head><label>2</label><figDesc>Figura 2 -Padrões de Abundância das espécies predominantes de Calliphoridae (Insecta, Diptera) nos três ambientes amostrados (Clareiras artificiais-CLA, Clareiras naturais-CLN e Matas) da Província Petrolífera de Urucu nos meses de setembro de 2004 e junho de 2005.</figDesc><graphic coords="4,297.40,502.29,221.97,166.01" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Diversidade de Calliphoridae (Insecta: Diptera) na Base de Extração Petrolífera da Bacia do Rio Urucu, na Amazônia brasileira BIBLIOGRAFIA CITADA</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Evaluation of fauna composition at gaps that will be recupered after exploration</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aleixo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L M</forename><surname>Videira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Poletto</surname></persName>
+		</author>
+		<idno>Acesso:12/07/2007</idno>
+		<ptr target="http://projetos.inpa.gov.br/ctpetro/Iworkshop/pt1/pt1-02.pdf" />
+	</analytic>
+	<monogr>
+		<title level="m">Workshop de Avaliação Técnica e Cientifica da rede CT-Petro Amazônia</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Collection, conservation, preparation and identification manual of insects. Série Manuais Práticos em Biologia-1</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Ribeiro-Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marinoni</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Ribeirão Preto</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Holos Editora. 78 pp (in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The genus Chrysomya (Diptera: Calliphoridae) in the New World</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="105" to="113" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Identification key to Calliphoridae species (Diptera) in Southern Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>in Portuguese with abstract in English</note>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A revision of the New World Chrysomyini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="169" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The exotic species of Chrysomya (Diptera, Calliphoridae) in the Amazonia: Why they don´t occur in the Ferreira Penna Cientific Station</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Caxiuanã. CNPq-Museu Paraense Emílio Goeldi</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">L B</forename><surname>Lisboa</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Belém, Pará</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="361" to="367" />
+		</imprint>
+	</monogr>
+	<note>in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">The blowflies fauna (Diptera, Calliphoridae) in the Amazon and their ecology at the Caxiuanã region and Portel City/ State of Pará.Tese de doutorado</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">134</biblScope>
+			<pubPlace>Manaus, Amazonas</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Instituto Nacional de Pesquisas da Amazônia/Fundação Universidade do Amazonas</orgName>
+		</respStmt>
+	</monogr>
+	<note>in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Caxiaunã. Tradicionals populations, Phisic conditions &amp; Biological DiversityCNPq-Museu Paraense Emílio Goeldi</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+		<editor>P. L. B. Lisboa</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page" from="579" to="585" />
+			<pubPlace>Belém, Pará</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Calliphorids and other muscoids of the Ferreira Penna Cientific Station in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A systematic revision of the Mesembrinellidae stat. nov. (Diptera, Cyclorrhapha)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zoologia (São Paulo)</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="109" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+	<note>Arquivos de</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Dispersal and distribution of three newly introduced species of Chrysomya Robineau-Desvoid in Brazil (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Buralli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The myiases of Neotropical region (Identification, Biology and Bibliograph)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Species Diversity &amp; Richness v. 2.5. User Manual and Tutorial</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Henderson</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Pisces Conservation</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M H</forename><surname>Seaby</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">Pisces Conservation</orgName>
+			</affiliation>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<pubPlace>Pennington &amp; Lymington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Magurran</surname></persName>
+		</author>
+		<title level="m">Ecological Diversity and its measurement</title>
+		<meeting><address><addrLine>Princeton, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page">179</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Contribuition to the knowledge of Argentina Calliphoridae. (Insecta, Diptera)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opera Lilloana</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1" to="58" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note>in Spanish with abstract in English</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Abundance patterns and distribuition of muscoids flies in the Jari Celulose Forest</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G D</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">191</biblScope>
+			<pubPlace>Monte Dourado, PA; Belém</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Abstracts of the XVII Seminário de Iniciação Cientifica da Universidade Federal do Pará</orgName>
+		</respStmt>
+	</monogr>
+	<note>in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) in the Alto Urucu river basin, Central Amazonian, Brazil</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Paraluppi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>in Portuguese with abstract in English</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Notes on Mesembrinellidae</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Peris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="251" to="265" />
+		</imprint>
+		<respStmt>
+			<orgName>EOS -Revista Española de Entomologia</orgName>
+		</respStmt>
+	</monogr>
+	<note>in Portuguese with abstract in English</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Synanthropy</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Polvony</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Flies and Disease, Ecology, classification, and biotic associations</title>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Princeton, N. J.</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton Univ. Press</publisher>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="17" to="54" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Current state of the distribuition and dispersal of the species Chrysomya R-D genus in the Neotropical region (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="225" to="231" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note>in Portuguese with abstract in English</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Pictorial Key to Calliphoridae Genera (Diptera) In Southern Brazil</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="140" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The systematic position of the genus Helicobosca Bezzi with a discussion of the monophyly of the calyptrate families Calliphoridae, Rhinophoridae, Sarcophagidae and Tachinidae (Diptera)</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Rognes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomologica Escandinavica</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="75" to="92" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Filogenetic study of Mesembrinellinae with emphasis in the Eumesembrinella Townsend, 1931 (Diptera, Calliphoridae) genus</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Toma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="127" to="144" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+	<note>in Portuguese with abstract in English</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

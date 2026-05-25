@@ -1,0 +1,2077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evolution of genes involved in feeding preference and metabolic processes in Calliphoridae (Diptera: Calyptratae)</title>
+				<funder ref="#_m7X7CYA #_PUYJPv9 #_f5Atjyw #_zzfh8Yt">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundação de Amparo à Pesquisa</orgName>
+				</funder>
+				<funder ref="#_dAJbneJ">
+					<orgName type="full">Brazilian National Council for Scientific and Technological Development (CNPq</orgName>
+				</funder>
+				<funder ref="#_CCkVyPZ #_qWsmjUR">
+					<orgName type="full">CNPq</orgName>
+				</funder>
+				<funder ref="#_AWtBwpn">
+					<orgName type="full">National Council for Scientific and Technological Development</orgName>
+				</funder>
+				<funder ref="#_kB3SmzK #_QZmTfdD #_pPDVUKA #_SfdTwJc #_3EnnpdH #_wtsdqsH #_kdqY5xA">
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+				<funder ref="#_GbC62qN #_pmyjbe9">
+					<orgName type="full">Fundação de Amparo à Pesquisa do Estado de São Paulo</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>PeerJ</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-10-27">27 October 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Gisele</forename><forename type="middle">Antoniazzi</forename><surname>Cardoso</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Genetics and Evolutionary Biology , University of Sao Paulo , Sao Paulo , Brazil</note>
+								<orgName type="department">Department of Genetics and Evolutionary Biology</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+								<address>
+									<settlement>Sao Paulo</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marco</forename><forename type="middle">Antonio Tonus</forename><surname>Marinho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Raquel</forename><forename type="middle">Dietsche</forename><surname>Monfardini</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Genetics and Evolutionary Biology , University of Sao Paulo , Sao Paulo , Brazil</note>
+								<orgName type="department">Department of Genetics and Evolutionary Biology</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+								<address>
+									<settlement>Sao Paulo</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Maria Lima De Azeredo</forename><surname>Espin</surname></persName>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Tatiana</forename><forename type="middle">Teixeira</forename><surname>Torres</surname></persName>
+							<email>tttorres@ib.usp.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Genetics and Evolutionary Biology , University of Sao Paulo , Sao Paulo , Brazil</note>
+								<orgName type="department">Department of Genetics and Evolutionary Biology</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+								<address>
+									<settlement>Sao Paulo</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evolution of genes involved in feeding preference and metabolic processes in Calliphoridae (Diptera: Calyptratae)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">PeerJ</title>
+						<idno type="eISSN">2167-8359</idno>
+						<imprint>
+							<publisher>PeerJ</publisher>
+							<biblScope unit="volume">4</biblScope>
+							<biblScope unit="page">e2598</biblScope>
+							<date type="published" when="2016-10-27">27 October 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8A868477355F40A4EE3C851B6033CDFD</idno>
+					<idno type="DOI">10.7717/peerj.2598</idno>
+					<note type="submission">Submitted 20 June 2016 Accepted 23 September 2016</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Chrysomya</term>
+					<term>Candidate genes</term>
+					<term>Parasitism</term>
+					<term>qPCR</term>
+					<term>Cochliomyia</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background. The genotype-phenotype interactions among traits governing feeding preference are of fundamental importance to behavioral genetics and evolutionary biology. The genetic basis of behavioral traits has been explored in different taxa using different approaches. However, the complex nature of the genetic mechanisms undergirding behavior is poorly understood. Here, we present an evolutionary study of candidate genes related to parasitism in Calliphoridae (Diptera: Calyptratae). Closely related species in this family exhibit distinct larval feeding habits, most notably necrosaprophagy and obligate parasitism. Methods. To understand the genetic and molecular bases underlying these habits, expression levels of eight candidate genes for feeding behavior-Cyp6g2, foraging, glutamate dehydrogenase, Jonah65aiv, Malvolio, PGRP-SC2, RPS6-p70-protein kinase, and smooth-were measured in four species using qPCR. Moreover we used expression values and sequence information to reconstruct the relationship among species and the d N /d S rate to infer possible sites under selection. Results. For most candidate genes, no statistically significant differences were observed, indicating a high degree of conservation in expression. However, Malvolio was differentially expressed between habits. Evolutionary analyses based on transcript levels and nucleotide sequences of Malvolio coding region suggest that transcript levels were correlated to feeding habit preferences among species, although deviations under a strictly neutral model were also observed in statistical tests. Discussion. Malvolio was the only gene demonstrating a possible connection to feeding habit. Differences in gene expression may be involved in (or be a result of) the genetic regulation of Calliphoridae feeding habit. Our results are the first steps towards understanding the genetic basis and evolution of feeding behavior in Calliphoridae using a functional approach.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>One of the most interesting and complex phenotypic traits that challenges molecular biologists is behavior. Behavioral traits are very plastic and can be influenced by multiple genes, organism needs, and environmental factors. Despite the complexity of behavioral genetics, previous studies were able to successfully identify genes underlying specific behaviors, especially in model species as Drosophila melanogaster <ref type="bibr" target="#b33">(Sokolowski, 2001)</ref>. A large number of genes have been described to play a role in behaviors including aggressiveness (fruitless), courtship dynamics (courtless), and circadian rhythms (period) <ref type="bibr" target="#b16">(Greenspan &amp; Ferveur, 2000;</ref><ref type="bibr" target="#b30">Ryner et al., 1996;</ref><ref type="bibr" target="#b41">Waddell &amp; Quinn, 2001)</ref>. Understanding the genetic complexity and evolution of these traits is of fundamental importance to elucidate the behavioral influences on ecological diversification, adaptation, and speciation. Variations in gene expression patterns are responsible for a large proportion of phenotypic differences among species <ref type="bibr" target="#b13">(Enard et al., 2002;</ref><ref type="bibr" target="#b21">King &amp; Wilson, 1975)</ref>. These differences may be due to mutations in coding or regulatory regions or changes in the chromatin structure that affect accessibility of transcriptional machinery to the genetic template <ref type="bibr" target="#b13">(Enard et al., 2002;</ref><ref type="bibr" target="#b43">Yang et al., 2006)</ref>. Traditionally, researchers have focused on coding regions, but there is now a growing number of studies investigating evolution through differentiation of gene expression patterns. Many of these studies have attempted to address the question of how phenotypic differences among closely related species are connected with differences in gene expression. In Darwin finches, for example, differences in expression patterns of the bone morphogenetic protein 4 (Bmp4) and calmodulin (CaM ) genes have been shown to be involved in beak shape variation among closely related species, a trait that directly influences diet and exploitation of food resources <ref type="bibr" target="#b0">(Abzhanov et al., 2006;</ref><ref type="bibr" target="#b1">Abzhanov et al., 2004)</ref>. In addition, regulatory differences in the Pituitary homeobox 1 gene (Pitx1) between marine and fresh water populations of Gasterosteus aculeatus have been shown to be associated with the progressive reduction of pelvic spines, which have an adaptive function in defense against predation <ref type="bibr" target="#b31">(Shapiro et al., 2004)</ref>. These differences in regulatory regions are to a large extent responsible for the morphological variation on which natural selection can act.</p><p>In this context, the Calliphoridae family (Diptera: Calyptratae) constitutes an ideal system to investigate differential patterns of gene expression related to the evolution of feeding behavior. Most species in this family exhibit two main feeding habits in their immature stage: necro-saprophagous and parasitic. Necro-saprophagous larvae feed on decaying organic matter such as feces, animal carcasses, and other decomposing organic substrates <ref type="bibr" target="#b45">(Zumpt, 1965;</ref><ref type="bibr" target="#b11">De Jong, 1976)</ref>. These larvae are not able to develop in living tissues, but may be found feeding on necrotic tissues of wounded animals <ref type="bibr" target="#b34">(Stevens &amp; Wall, 1997)</ref>. The parasitic habit refers to larvae that can, in an obligate or facultative manner, feed on living tissues of warm-blooded vertebrates, causing infestations called myiasis <ref type="bibr" target="#b45">(Zumpt, 1965;</ref><ref type="bibr" target="#b17">Hall &amp; Wall, 1995)</ref>. Unlike other parasites, larvae of Calliphoridae species are only capable of initiating an infestation in open wounds or body orifices (mucosal tissues). Once the host is infested, the larvae can cause extensive tissue damage, usually a cavernous wound <ref type="bibr" target="#b17">(Hall &amp; Wall, 1995)</ref>.</p><p>The necro-saprophagous habit of blowflies seems to comprise the ground-plan for the group and, according to the current phylogenetic hypothesis for this family, obligate parasitism appears to have evolved independently at least three times <ref type="bibr" target="#b36">(Stevens &amp; Wallman, 2006)</ref>. In the most parsimonious scenario, the primitive necro-saprophagous habit evolved to an obligate parasitic habit through the appearance of opportunistic infestations of living animals, which were weak or with partly necrotic wounds <ref type="bibr" target="#b14">(Erzinçlioglu, 1989;</ref><ref type="bibr" target="#b45">Zumpt, 1965)</ref>. Two Calliphoridae genera in the subfamily Chrysomyinae, Chrysomya and Cochliomyia, contain both obligate parasites and necro-saprophagous species, allowing the comparison of different feeding habits among closely related species.</p><p>Here, we use a candidate gene approach as a first step to investigate the evolution of feeding habits in Calliphoridae. The qPCR analyses of transcripts from eight candidate genes in four closely related species, Chrysomya albiceps, Chrysomya megacephala, Cochliomyia macellaria (all with necro-saprophagous larvae), and Cochliomyia hominivorax (whose larvae are obligate parasites of mammals) were used to determine genetic associations with different feeding habits and the types of selection potentially influencing gene expression. Furthermore, the results from the gene expression analysis correlated with the results from molecular evolution and sequence analyses of the candidate genes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head><p>Fly collection and rearing: adult flies of the necro-saprophagous Calliphoridae species were collected using a hand net and decaying meat or fish as baits. Adults of Ch. albiceps, Ch. megacephala, and Co. macellaria were collected in three cities in the São Paulo state in Brazil: Campinas, Rio Claro, and Sorocaba, respectively. Co. hominivorax larvae were collected from infested wounds in cattle breeding farms in Caiapônia, Goiás, Brazil. Larvae of the four species were reared at 30 • ± 5 • . Co. hominivorax larvae were maintained in a medium consisting of fresh ground meat supplemented with bovine blood and water (2:1). The necro-saprophagous larvae were fed on euthanized rats donated by the Multidisciplinary Center for Biological Research in the Laboratory of Animal Science (CEMIB, Unicamp). Mature larvae of the four species were allowed to pupate in sawdust. Adults were maintained in cages (34 × 50 × 26) at 25 • C and fed with a diet composed of dried milk, sugar and brewer's yeast (3:2:1).</p><p>Candidate gene selection and primer design: candidate genes were selected from previous studies in Diptera (Table <ref type="table">S1</ref>). To expand our search, the Gene Ontology (GO) database was also used (available at <ref type="url" target="http://www.geneontology.org">http://www.geneontology.org</ref>). Sequences of the selected genes were obtained from Flybase (<ref type="url" target="http://flybase.org/">http://flybase.org/</ref>). The sequences of the twelve Drosophila species with whole genome sequenced <ref type="bibr">(Clark et al., 2007)</ref> were aligned against all Co. hominivorax transcriptome contigs <ref type="bibr" target="#b7">(Carvalho, Azeredo-Espin &amp; Torres, 2010)</ref> to identify corresponding orthologs (50% of identity at least in 40% of the sequence). Identified contigs were aligned against the BLAST database repository (nt database) using blastn with default parameters <ref type="bibr" target="#b2">(Altschul et al., 1990)</ref> to search for orthologs in closely related species. Primers for each gene were then designed in conserved regions among the selected orthologs with Primer3 <ref type="bibr" target="#b29">(Rozen &amp; Skaletsky, 2000)</ref> considering the respective criteria: melting temperatures 55-60 • C, primers lengths 15-22 bp and amplicon lengths 100-150 bp.</p><p>RNA isolation and complementary DNA (cDNA) synthesis: RNA extractions were performed on two separate generations of early 3rd instar (feeding) larvae, and newly emerged adult males and females of each species <ref type="bibr">(Ch. megacephala Ch. albiceps, Ch. megacephala, Co. hominivorax, and Co. macellaria)</ref>. Total RNA was extracted from 10 individuals from each generation using TRIzol R reagent (Invitrogen, USA) according to the manufacturer's protocol. For subsequent analyses, individuals of the same generation were combined into two RNA samples, each containing five individuals, for a total of four biological replicates.</p><p>All RNA extractions were treated with TURBODNase (Ambion R Life Technologies, ThermoFisher, MA USA) to degrade any remaining genomic DNA. DNase was inactivated by heating samples at 75 • for 10 min followed by the addition of EDTA to a final concentration of 2.5 mM. After DNAse treatment, a PCR was performed using Rp49 primers (as described in the Amplification section) to test the treated samples.</p><p>Total RNA was quantified with a Qubit R fluorometer (Invitrogen TM , ThermoFisher, MA USA) using the Qubit RNA R assay kit. Synthesis of cDNA was performed using the First Strand cDNA Synthesis Kit (Thermo Fisher Scientific, Waltham, MA USA), following the manufacturer's protocol and using 0.5 µg of total RNA as template. PCR amplification of selected genes: to test the candidate gene primers (Table <ref type="table">S2</ref>), a PCR was performed using the cDNA of the four Calliphoridae species as template. PCR reactions were conducted in in a GeneAmp PCR system 9700 (Applied Biosystems, Life Technologies) for a final volume of 20 µL containing 2.0 mM MgCl 2 , 0.6 µM of each primer, 200 µM dNTPs, and 1 U Taq DNA polymerase (Thermo Scientific, MA, USA). Reaction conditions consisted of an initial denaturing step of 3 min at 94 • C, followed by 35 cycles of 50 s at 94 • C, 30 s at 60 • C, and 30 s at 72 • C, and a final extension step at 72 • C for 5 min.</p><p>Quantitative PCR (qPCR): qPCR were performed in a final volume of 12.5 µL using the SYBR Green PCR Master Mix (Applied Biosystems, Foster City, CA, USA) according to manufacturer's instructions. In each reaction, 1 µL of cDNA was used and primers were added to a final concentration of 200 nM. The qPCRs were run in two technical replicates to assess intra-assay variation on an ABI 7500 Fast Real Time PCR System (Applied Biosystems, Foster City, CA, USA) using the following cycling conditions: 2 min at 50 • C, 10 min at 95 • C, and 40 cycles consisting of 15 min at 95 • C and 60 s at 60 • C. After the 40th cycle, the temperature was gradually increased from 60 • C to 95 • C (1 • C per minute for 35 min) to obtain a dissociation curve. This step was performed to confirm the formation of a single product during the reaction. A five point standard curve was used to access the efficiency of each primer. Efficiency values were calculated according to the E = 10 1/slope -1 <ref type="bibr" target="#b18">(Higuchi et al., 1993)</ref>. To determine the relative steady-state mRNA levels (which we will refer to as gene expression levels), the raw expression values, the cycle thresholds (Ct s), were normalized using genes with stable expression among different conditions/species. The efficiency of the amplification reactions were also measured and used for the normalization. This step was done to allow the comparison among different species <ref type="bibr" target="#b42">(Wong &amp; Medrano, 2005)</ref>. The mean normalized expression (MNE) formula proposed by <ref type="bibr" target="#b32">Simon (2003)</ref> was used to calculate the relative gene expression values. MNE is the ratio of the mean of the reference and target genes cycle thresholds (Ct s), including efficiency values: MNE = (E reference ) Ct reference /(E target ) Ct target . All mRNA levels were normalized using the mean of the reference genes Gapdh and Rp49, both validated in a previous study <ref type="bibr" target="#b6">(Cardoso et al., 2014)</ref>.</p><p>Multivariate analyses: statistically significant differences (α = 0.01) in steady-state mRNA levels between the studied species and different feeding habits were determined using two-way Analyses of Variance (ANOVA) (species × feeding habit). The MNE values were used as input data for all statistical analyses. All tests were performed in the statistical package R <ref type="bibr" target="#b40">(Team, 2008)</ref>. Genes differently expressed among species were candidates to be under neutral evolution or positive selection and genes with no significant difference were candidates to be under purifying selection.</p><p>Gene expression analyses: to test the hypothesis that species divergence in mRNA expression evolves neutrally, pair-wise differences in mRNA transcript levels were compared with a matrix of pair-wise genetic distances using linear regression analyses and the Pearson's correlation index.</p><p>Differences in mRNA levels were calculated using the square difference between each species pair. Pair-wise genetic distances among given species were based on a published concatenated dataset of COI, 16S, 28S, and ITS2 sequences <ref type="bibr" target="#b22">(Marinho et al., 2012)</ref>, and estimated using the Maximum Composite Likelihood method (with the TN93+G substitution model) in MEGA 5 <ref type="bibr" target="#b38">(Tamura et al., 2011)</ref>.</p><p>Gene expression trees (clustering analyses): pair-wise differences (absolute values) in expression levels among species, sexes, and developmental stages for each candidate gene were used to generate distance matrices for clustering analyses. These matrices were then analyzed using FastME software <ref type="bibr" target="#b12">(Desper &amp; Gascuel, 2002)</ref>, which computes distance trees using the Minimum Evolution principle. Cluster diagrams (expression trees) were estimated separately for sex and developmental stage and with combined data. The resulting trees were then compared with the known phylogenetic relationships among these species, used as a null hypothesis for the observed pattern of gene expression data.</p><p>Sanger sequencing of candidate genes: five of the candidate genes (for, Gdh, Jon65aiv, Mvl. and S6k) showing the most promising results in the expression analyses were selected for further investigation using coding sequence data. Primers for PCR-amplification and sequencing of these gene regions were designed (Table <ref type="table">S3</ref>), using the previously synthesized cDNA as a template.</p><p>PCR reactions of coding regions were performed in a 25 µL final volume, containing 0.45 µM of each primer, 200 µM dNTPs, and 1.25 U of DreamTaq DNA polymerase (Thermo Scientific, MA USA). Reaction conditions comprised an initial denaturing step of 3 min at 92 • , followed by 30 cycles of 30 s at 95 , 30 s at specific primers' annealing temperatures (Table <ref type="table">S3</ref>) and 30 s at 72 • , witha final step of extension at 72 • for 5 min.</p><p>PCR products were purified with Exonuclease I and FastAP Alkaline Phosphatase (ExoFap, Thermo Scientific) and sequenced in an ABI 3730 DNA Analyzer Sanger platform (Applied Biosystems, Foster City, CA, USA) using the BigDye R Terminator v3.1 Cycle Sequencing Kit (Life Technologies, Carlsbad, CA, USA).</p><p>Phylogenetic analyses (sequence dendrograms): sequences of the five genes obtained in the previous section were used to infer phylogenetic relationships among the species under study. Sequence alignments were generated using the module G-INS-I of MAFFT v 7.149 software <ref type="bibr" target="#b19">(Katoh et al., 2002;</ref><ref type="bibr" target="#b20">Katoh &amp; Standley, 2013)</ref> and resultant alignments were checked for out-of-frame indels and premature stop codons using the ''Alignment Explorer'' tool available in MEGA 6 software <ref type="bibr" target="#b39">(Tamura et al., 2013)</ref>. Maximum-likelihood (ML) and Bayesian Inference (BI) trees were inferred using GARLI v2.0 <ref type="bibr" target="#b46">(Zwickl, 2006)</ref> and MrBayes v3.2.3 <ref type="bibr" target="#b28">(Ronquist et al., 2012)</ref>, respectively. In both analyses, the substitution model was estimated using jModelTest v2.1.5 <ref type="bibr" target="#b10">(Darriba et al., 2012)</ref>, and the best-fit model was selected for analyses. Resulting phylogenies were compared with the known phylogenetic relationships among the species, the latter of which were used as the null hypothesis for primary sequence evolution (i.e., neutral if coding sequences have evolved following lineage diversification; selection if there are forces constraining evolution based on larval alimentary habit).</p><p>Moreover, a maximum-likelihood (ML) tree was constructed for the Mvl gene (as described above) using the sequences of eight flies with different feeding habits: necro-saprophagous (Ch. albiceps, Ch. megacephala, Co. macellaria, and Lucilia sericata), obligate myiasis-causing parasites (Co. hominivorax, Dermatobia hominis, and Oestrus ovis), facultative myiasis-causing parasites (Lucilia cuprina), obligate hematophagous parasites (Glossina morsitans), and generalists (Musca domestica).</p><p>Coding sequence evolution: to perform a quantitative evaluation of the neutral hypothesis of sequence evolution, the Tajima's Relative Rates Test <ref type="bibr" target="#b37">(Tajima, 1993)</ref> was conducted as implemented in MEGA v.6 <ref type="bibr" target="#b39">(Tamura et al., 2013)</ref>. This test provides a statistical framework to compare the evolutionary rates of two ingroup sequences in relation to a third (outgroup) sequence, and checks for deviations from the molecular clock hypothesis. For these analyses, the two Cochliomyia species (one necro-saprophagous and one obligate parasite) were defined as the ingroup taxa, and both Chrysomya species were tested as the outgroup.</p><p>In addition, a maximum-likelihood method was used to estimate the ratio of the rate of non-synonymous (non-silent) substitutions per site to the rate of synonymous (silent) substitutions per site (d N /d S , Ka/Ks, or ω) for Mvl and to obtain the likelihoods ratio, using as input a neighbor joining (NJ) phylogeny. The codeml program from the PAML v.4 package <ref type="bibr" target="#b44">(Yang, 2007)</ref> was used to test five models: (a) the null expectation from a neutral model with a fixed ω = 1 (neutral model); (b) average ω for the whole tree (model 1); (c) specific ω for Co. hominivorax and an average ω for all other species (model 2); (d) an average ω for all parasites (Co. hominivorax, D. hominis, G. morsitans, L. cuprina, and O. ovis) and an average ω for the remaining species (model 3); and (e) average ω for parasites feeding on living tissues and blood (Co. hominivorax, D. hominis, and G. morsitans) and an average ω for all other species (model 4). The likelihood estimate for the neutral model was compared to the likelihoods of each model in test (model 1-model 4) using a χ 2 statistics. The possible evolutionary processes involved in sequence evolution (neutral: ω = 1, purifying selection ω &lt; 1 and positive selection ω &gt; 1) were evaluated for the significant comparisons (α = 0.05).</p><p>Phylogenetic independent contrasts analysis: to evaluate the effects of autocorrelation in feeding habits due to phylogenetic relationships among the species under study, we performed a phylogenetic independent contrasts (PIC) analysis. For the PIC analysis, the average MNE for the four replicates per species and the phylogeny based on <ref type="bibr" target="#b22">Marinho et al. (2012)</ref> were used as inputs in the ape package of the R environment <ref type="bibr" target="#b26">(Paradis, Claude &amp; Strimmer, 2004)</ref>. Each species was assigned a number corresponding to its feeding preference (0: obligate parasite and 1: necro-saprophagous).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Candidate gene selection: From the 21 possible candidates, eight genes were amplified and resulted in a clear and unique amplicon with high qPCR efficiency: Cyp6g2, foraging, Glutamate dehydrogenase, Jonah 65 aiv, Malvolio, PGRP-SC2, RPS6-p70-protein kinase, and smooth (see Tables <ref type="table">S1-S3</ref> and supplemental text for details).</p><p>Gene expression analyses: we used the comparative Ct method with efficiency correction (Mean Normalized Expression or MNE; <ref type="bibr" target="#b32">(Simon, 2003)</ref> to compare mRNA levels among Calliphoridae species with different feeding habits in four biological replicates. PCR efficiencies were obtained from the standard curve of each primer, ranging from 91 to 104% (Table <ref type="table">S2</ref>).</p><p>To identify genes potentially correlated with distinct feeding habits or with species diversification patterns, subsequent statistical inferences were conducted using a two-way ANOVA. Statistical inferences and mRNA levels values are shown in Tables <ref type="table">S5-S7</ref>.</p><p>Possible candidate genes could be classified into three groups according to the divergence in gene expression patterns among the different species, by sex and developmental stage: (i) genes with conserved mRNA levels among all species; (ii) genes with different mRNA levels in at least one comparison, and (iii) genes with different mRNA levels in which the strongest factor was feeding preference.</p><p>The comparisons within larvae demonstrated low variation in mRNA levels in all genes, except Mvl. For them, no statistically significant differences were observed among species that might be correlated with feeding habit (P &gt; 0.01; Fig. <ref type="figure" target="#fig_0">S1</ref>). This finding indicates a high degree of conservation in mRNA levels of these genes in the larval stage. For the adult stage, no delimited and clear pattern was observed, with two genes (Cyp6g2 and Gdh) showing no statistically significant differences in comparisons between sexes and among species. The remaining genes showed significant differences in at least one comparison, but without any particular correlation with sex or species.</p><p>mRNA levels of Pgrp-SC2 and for varied within species only in adult females (P = 0.0003 and 0.002; respectively) and were conserved in males. A similar result was observed for S6k, but mRNA levels were conserved in adult males instead (P = 0.01). The difference observed in Jon65aiv in females was significantly correlated with feeding habit (P = 0.009) and in adult males there was a difference among species (P = 0.006). The gene sm was differentially expressed among the different species in both sexes (adult males P = 0.001 and females P = 0.01).</p><p>Linear correlation analyses were then used to test if evolution in gene expression levels of the candidate genes were correlated with overall genetic distances among species (neutral sequence evolution represented the null hypothesis). Pair-wise nucleotide sequence distances were calculated and correlated with the pair-wise gene expression divergence. None of the genes showed a significant correlation after the application of multiple testing corrections.</p><p>Interestingly, among all our candidate genes, only Malvolio showed a significant difference in mRNA levels between feeding habits in larvae (P = 0.00002) and both adult males and females (P = 0.0007 and P = 0.00003, respectively). The Mvl gene is expressed at higher levels in species with parasitic habit, while the necro-saprophagous species share a common pattern and level of gene expression, revealing a habit-specific expression pattern (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>These analyses, however, do not account for the evolutionary dependence among the species. Hence, we used PIC analysis to include the phylogeny of the chosen species and correlate feeding habit with mRNA levels. To this end, we corroborated our previous result that Mvl is somehow related to feeding habit (larvae: r 2 = 0.9929, P = 0.01). Surprisingly, Gdh had a similar significant result (r 2 = 1, P &lt; 0.001 for all comparisons), indicating that it might be related to a feeding habit trait but is not specific to parasitism as shown previously.</p><p>Evolution of gene expression and coding sequence: Expression divergence (all genes) and coding sequence data (five of the candidate genes -see Methods section for details) were used to infer trees. Evolution of each gene was considered to be independent and tested against a standard neutral model using the phylogeny proposed by <ref type="bibr" target="#b22">Marinho et al. (2012)</ref>.</p><p>Dendrograms (trees) constructed with mRNA level differences for all developmental stages and sexes showed a complex pattern among species. Dendrograms were built for each sex and developmental stage separately. A clear pattern relating gene expression of hominivorax from the necro-saprophagous species. This finding corroborates the idea that divergence in expression of Mvl is associate with feeding behavior. The scale bar represents the branch length estimated by expression divergence.</p><p>the Mvl gene with feeding habits was observed, with obligate parasite species separated from the necro-saprophagous species (Fig. <ref type="figure" target="#fig_1">2</ref>). Indeed, feeding behavior was the major determinant of mRNA levels divergence, supporting previous statistical analyses.</p><p>For five of the candidate genes, we also inferred phylogenetic trees using coding sequence data. In all cases, neither the maximum likelihood (ML) nor the Bayesian inference (BI) methods showed deviations from the expectations under a neutral evolution model (i.e., grouping congeneric species together). However, results of the Tajima's Relative Rates Test (Table <ref type="table">S8</ref>) showed a significant deviation from neutrality for at least two genes, Mvl (in both comparisons using different outgroups) and for (only when Ch. megacephala was specified as the outgroup taxon).</p><p>Further, we generated a phylogenetic tree adding six more Diptera species (parasites and non-parasites). All obligate parasites except D. hominis have a longer branch (the branch length represent the amount of genetic change) when compared to non-parasitic species (Fig. <ref type="figure" target="#fig_2">3</ref>). The longer branch belongs to G. morsitans, the only species with a 69-bp indel in its sequence. Another notable observation is the clustering of D. hominis with Cochliomyia species.</p><p>To expand our knowledge of the evolutionary processes involved in Mvl coding sequence, we estimated the rate ratio of synonymous to non-synonymous substitutions per site using the sequence and phylogeny of ten Diptera species (Table <ref type="table">S9</ref>). First, we estimated the average ω for the whole tree and compared its likelihood with the tree generated from expectations under a neutral model (fixed ω = 1). The result was statistically significant, allowing us to reject the null hypothesis in favor of a model in which this gene is evolving under a strong purifying selection (ω = 0.027, P &lt; 000.1). To test for differences in the selective processes constraining the tree, we performed the same test considering specific branches (see Methods). We found an elevated ω rate ratio in the Co. hominivorax branch compared to all other species (0.111 and 0.023, respectively), indicating relaxation of constraint at this branch.</p><p>Together, these results indicate that Mvl is associated with feeding preferences among Calliphoridae species, largely due to differences in mRNA levels and also with some influence of coding sequence variation. The molecular mechanisms of these sequence variations are probably located in specific sites (i.e., small segments of the coding sequence and/or regulatory region), thus accounting for the discordance between the coding sequence tree and gene expression data.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>A candidate gene approach was used to study the evolution of feeding habit in Calliphoridae. Messenger RNA levels of eight candidate genes were measured in larvae, adult males, and adult females of three necro-saprophagous species and one obligate parasite using quantitative PCR (qPCR).</p><p>A high degree of conservation in gene expression (transcript) levels was found in larvae of the four species. This suggests that regulatory variation in these genes is constrained by purifying selection and that these genes have an important function in development. The pervasive role of purifying selection has been described previously in genome-wide reports of various organisms, including mammals and flies <ref type="bibr" target="#b5">(Brawand et al., 2011;</ref><ref type="bibr" target="#b23">Nuzhdin et al., 2004)</ref>.</p><p>Some genes appear to be under different evolutionary selective pressures during different developmental stages. One of the most promising candidate genes, for, encodes a cGMPdependent protein kinase (PKG), which participates in the modulation of the division of labor in social insect species and foraging behavior in Drosophila melanogaster <ref type="bibr" target="#b3">(Ben-Shahar, 2005;</ref><ref type="bibr" target="#b15">Fitzpatrick &amp; Sokolowski, 2004)</ref>. This gene was differentially expressed among species in adult females, but neither in males nor larvae. This difference between sexes and stages requires the presence of different regulatory modules and the action of different selection regimes in each module. There was a difference in gene expression among species in one sex but not in the other for S6K , Jon65aiv, and Pgrp-sc2 as well. Different phenotypes mediated by the presence of different regulatory factors has already been observed in stickleback fish <ref type="bibr" target="#b8">(Chan et al., 2010)</ref>. Chan and colleagues documented that the deletion of an enhancer in the gene Pitx1 causes a contrasting variation of the pelvic skeleton between stickleback populations by reducing transcript levels. The result of this mutation is the presence of a population with reduced pelvises; however, the expression of this gene in other tissues essential for organism viability (non-candidate housekeeping genes) is similar between populations. These findings suggest that different regulatory factors are involved in the regulation of specific and essential structures by Pitx1 during the fish development <ref type="bibr" target="#b31">(Shapiro et al., 2004)</ref>.</p><p>To test the hypothesis that the evolution of expression of these seven genes (in each stage or sex) was predominantly neutral (i.e., that regulatory variation accumulates in the absence of selection), we tested measures of expression and sequence divergence. In a neutral scenario, divergences in expression should accumulate linearly with respect to time. Pair-wise nucleotide sequence distances between species were calculated using four genetic markers. No significant evidence of gene expression evolving under neutrality was found. Together, our observations suggest that candidate gene expression levels are not strictly evolving under a standard neutral model of evolution. These findings are consistent with several studies that have demonstrated that gene expression is, in large part, subject to selection <ref type="bibr" target="#b23">(Nuzhdin et al., 2004;</ref><ref type="bibr" target="#b24">Ometto et al., 2011;</ref><ref type="bibr" target="#b27">Rifkin, Kim &amp; White, 2003)</ref>.</p><p>In this study, Malvolio was found to deviate from neutral expectations with respect to gene expression levels between habits in all comparisons. Mvl is involved in the gustatory signal transduction via metal-ion transport into neurons regulating the sensory perception of sweet taste <ref type="bibr" target="#b4">(Ben-Shahar, Dudek &amp; Robinson, 2004;</ref><ref type="bibr" target="#b25">Orgad et al., 1998)</ref>. In D. melanogaster, behavioral studies have revealed the association of this gene with food preference <ref type="bibr" target="#b25">(Orgad et al., 1998)</ref>. In contrast, in the honeybee Apis mellifera, Mvl can define specialized tasks in the hive. Forager bees have higher Mvl mRNA transcript levels and increased responsiveness to sugar, while nurse bees exhibit lower expression levels and decreased responsiveness to sugar <ref type="bibr" target="#b4">(Ben-Shahar, Dudek &amp; Robinson, 2004)</ref>. Indeed, Mvl plays an important role in foraging and food preference. According to our expression data, the obligate parasite, Co. hominivorax, has higher Mvl mRNA transcript levels compared to the necro-saprophagous species. In addition, taking into consideration the phylogenetic dependence among species, this study demonstrates a remarkable correlation between feeding habit and Mvl expression level. Although no information is available for Calliphoridae species, the MVL protein may also participate in the transduction of the gustatory signal, and play a role in food assessment. Differences in the expression and/or sequence of this gene may, in turn, result in differences of preferences for specific substrates.</p><p>Analyses under a phylogenetic framework, constructing dendrograms based on expression level differences and phylogenies based on the nucleotide sequence of coding regions, provided additional evidence for a possible role of Mvl in feeding habit differences among species. In the dendrogram generated for this gene, almost all parasites had a longer branch than the necro-saprophagous species. Additionally, the parasite D. hominis clustered with the genus Cochliomyia. However, it was previously observed that the affinities of Oestridae species with the remaining Oestroidea lineages are more difficult to recover with confidence and the group is usually recovered with variable placements in the superfamily's phylogeny <ref type="bibr" target="#b22">(Marinho et al., 2012)</ref>.</p><p>The correlation of Mvl with feeding behavior may be attributable to differences in transcript levels between necro-saprophagous and obligate parasitic species, although there may be some influence by signatures of sites under selection or similar molecular evolutionary processes (as suggested by the Tajima's test statistics). We confirmed with ω analysis that Mvl is constrained by purifying selection, but it is important to note that this is just a part of Mvl coding sequence. We might find molecular evolutionary signatures in other portions of the coding region or even in regulatory regions of the gene as well. The for gene might also be under influence of these differences, but these are probably due to specific sites under selection in the coding region. No evident pattern or significant difference in expression level was observed for the for gene.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSION</head><p>In this study, we tested the hypothesis that variation in gene expression is directly involved in feeding behavior. To date, most previous studies in this subject have been based on phylogenetic information alone <ref type="bibr" target="#b34">(Stevens &amp; Wall, 1997;</ref><ref type="bibr" target="#b35">Stevens, 2003)</ref>. The results of the present study represent the first and expanded effort to understand the evolution of parasitism in Calliphoridae combining functional and molecular evolutionary approaches. Our findings indicate that Malvolio may be involved in the evolutionary genetic regulation of Calliphoridae feeding behavior, and additional studies into the molecular mechanisms undergirding the adaptive evolution of this candidate gene are needed and underway.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 mRNA levels of Malvolio in larvae (A), adult females (B), and adult males (C). The three boxplots show that the obligate parasite, Co.hominivorax, has a specific pattern of expression while necro-saprophagous species have a similar pattern among them. The highest expression difference observed was between Ch. albiceps and Co. hominivorax larvae. This gene was approximately 210 times more expressed in the obligate parasite. The smallest difference was among necro-saprophagous species. Ch. megacephala had 1.2 times higher expression thanCo. macellaria. Calb: Ch.  albiceps; Chom: Co. hominivorax; Cmac: Co. macellaria; Cmeg: Ch. megacephala. .    </figDesc><graphic coords="8,34.02,85.98,540.00,165.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Dendrogram of Mvl expression using qPCR data. The diagram shows the separation of Co. hominivorax from the necro-saprophagous species. This finding corroborates the idea that divergence in expression of Mvl is associate with feeding behavior. The scale bar represents the branch length estimated by expression divergence.</figDesc><graphic coords="9,184.31,85.98,383.94,287.23" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Dendrogram of the Mvl gene including a broader range of species. Species include obligate parasites Co. hominivorax, D. hominis, L. cuprina, G. morsitans, and O. ovis, and non-parasites Ch. albiceps, Ch. megacephala, Co. macellaria, L. sericata, and M. domestica. The majority of parasitic blowflies have longer branches compared to non-parasite species. The scale bar represents 0.04 substitutions per site.</figDesc><graphic coords="10,184.31,85.98,384.19,289.45" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Cardoso et al. (2016), PeerJ, DOI 10.7717/peerj.2598</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGEMENTS</head><p>The authors thank <rs type="person">Rosangela A. Rodrigues</rs> for technical assistance and <rs type="person">Maria Salete Couto</rs> for maintaining fly stocks. In addition, the authors thank <rs type="person">Professor Cláudio José Von Zubem, PhD</rs> (<rs type="affiliation">UNESP, Rio Claro campus</rs>) for providing Ch. megacephala stocks and <rs type="person">Professor Ana Cláudia Lessinger, PhD</rs> (<rs type="affiliation">UFSCar, Sorocaba campus</rs>) for providing Co. macellaria stocks. The authors are grateful for statistical support provided by <rs type="person">Bárbara Bitarello</rs> for PAML analyses. We thank <rs type="person">Dr Erika Braga</rs>, <rs type="person">Dr Rasa Bernotiene</rs>, and three anonymous referees for their insightful comments and suggestions that improved our manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><head>Funding</head><p>This work was supported by grants to TTT from <rs type="funder">Fundação de Amparo à Pesquisa do Estado de São Paulo</rs> (<rs type="funder">FAPESP</rs>, grants <rs type="grantNumber">2008/58106-0</rs> and <rs type="grantNumber">2014/13933-8</rs>)  and from the <rs type="funder">Brazilian National Council for Scientific and Technological Development (CNPq</rs>, <rs type="grantNumber">477335/2009-8</rs>), and by a grant to AMLAE from <rs type="funder">Fundação de Amparo à Pesquisa</rs> (<rs type="funder">FAPESP</rs>, grant <rs type="grantNumber">2009/51723-7</rs>). GAC and RDM were supported by a fellowship from <rs type="funder">FAPESP</rs> (<rs type="grantNumber">2009/13463-3</rs> and <rs type="grantNumber">2014/01600-4</rs>, and <rs type="grantNumber">2012/19987-7</rs>, respectively). MATM received a fellowship from <rs type="funder">CNPq</rs> and <rs type="funder">FAPESP</rs> (<rs type="grantNumber">150441/2016-9</rs> and <rs type="grantNumber">2012/23200-2</rs>, respectively). TTT received a fellowship from <rs type="funder">CNPq</rs> (<rs type="grantNumber">307502/2011-2</rs>). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></div>
+<div><head>Grant Disclosures</head><p>The following grant information was disclosed by the authors: <rs type="funder">Fundação de Amparo à Pesquisa do Estado de São Paulo</rs>: <rs type="grantNumber">2008/58106-0</rs>, <rs type="grantNumber">2014/13933-8</rs>.  Brazilian <rs type="funder">National Council for Scientific and Technological Development</rs>: <rs type="grantNumber">477335/2009-8. FAPESP: 2009/51723-7</rs>, <rs type="grantNumber">2009/13463-3</rs>, <rs type="grantNumber">2014/01600-4</rs>, <rs type="grantNumber">2012/19987-7</rs>.  <rs type="funder">CNPq</rs> and <rs type="grantNumber">FAPESP: 150441/2016-9, 2012/23200-2. CNPq: 307502/2011-2</rs>.   </p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_kB3SmzK">
+					<idno type="grant-number">2008/58106-0</idno>
+				</org>
+				<org type="funding" xml:id="_QZmTfdD">
+					<idno type="grant-number">2014/13933-8</idno>
+				</org>
+				<org type="funding" xml:id="_dAJbneJ">
+					<idno type="grant-number">477335/2009-8</idno>
+				</org>
+				<org type="funding" xml:id="_pPDVUKA">
+					<idno type="grant-number">2009/51723-7</idno>
+				</org>
+				<org type="funding" xml:id="_SfdTwJc">
+					<idno type="grant-number">2009/13463-3</idno>
+				</org>
+				<org type="funding" xml:id="_3EnnpdH">
+					<idno type="grant-number">2014/01600-4</idno>
+				</org>
+				<org type="funding" xml:id="_wtsdqsH">
+					<idno type="grant-number">2012/19987-7</idno>
+				</org>
+				<org type="funding" xml:id="_kdqY5xA">
+					<idno type="grant-number">150441/2016-9</idno>
+				</org>
+				<org type="funding" xml:id="_CCkVyPZ">
+					<idno type="grant-number">2012/23200-2</idno>
+				</org>
+				<org type="funding" xml:id="_m7X7CYA">
+					<idno type="grant-number">307502/2011-2</idno>
+				</org>
+				<org type="funding" xml:id="_GbC62qN">
+					<idno type="grant-number">2008/58106-0</idno>
+				</org>
+				<org type="funding" xml:id="_pmyjbe9">
+					<idno type="grant-number">2014/13933-8</idno>
+				</org>
+				<org type="funding" xml:id="_AWtBwpn">
+					<idno type="grant-number">477335/2009-8. FAPESP: 2009/51723-7</idno>
+				</org>
+				<org type="funding" xml:id="_PUYJPv9">
+					<idno type="grant-number">2009/13463-3</idno>
+				</org>
+				<org type="funding" xml:id="_f5Atjyw">
+					<idno type="grant-number">2014/01600-4</idno>
+				</org>
+				<org type="funding" xml:id="_qWsmjUR">
+					<idno type="grant-number">2012/19987-7</idno>
+				</org>
+				<org type="funding" xml:id="_zzfh8Yt">
+					<idno type="grant-number">FAPESP: 150441/2016-9, 2012/23200-2. CNPq: 307502/2011-2</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data Availability</head><p>The following information was supplied regarding data availability:</p><p>The raw data has been supplied as Supplemental File.</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ADDITIONAL INFORMATION AND DECLARATIONS Competing Interests</head><p>The authors declare there are no competing interests.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>• Gisele Antoniazzi Cardoso conceived and designed the experiments, performed the experiments, analyzed the data, wrote the paper, prepared figures and/or tables, reviewed drafts of the paper.</p><p>• Marco Antonio Tonus Marinho analyzed the data, wrote the paper, prepared figures and/or tables, reviewed drafts of the paper.</p><p>• Raquel Dietsche Monfardini performed the experiments, analyzed the data.</p><p>• Ana Maria Lima de Azeredo Espin contributed reagents/materials/analysis tools.</p><p>• Tatiana Teixeira Torres conceived and designed the experiments, analyzed the data, contributed reagents/materials/analysis tools, wrote the paper, prepared figures and/or tables, reviewed drafts of the paper.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DNA Deposition</head><p>The following information was supplied regarding the deposition of DNA sequences: Genebank: KU234347-KU234388.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supplemental Information</head><p>Supplemental information for this article can be found online at <ref type="url" target="http://dx.doi.org/10.7717/peerj.2598#supplemental-information">http://dx.doi.org/10.7717/  peerj.2598#supplemental-information</ref>.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">The calmodulin pathway and evolution of elongated beak morphology in Darwin&apos;s finches</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abzhanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Kuo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hartmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tabin</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature04843</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">442</biblScope>
+			<biblScope unit="page" from="563" to="567" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Bmp4 and morphological variation of beaks in Darwin&apos;s finches</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Abzhanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Protas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Grant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tabin</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1098095</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">305</biblScope>
+			<biblScope unit="page" from="1462" to="1465" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Basic local alignment search tool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0022-2836(05)80360-2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">215</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The foraging gene, behavioral plasticity, and honeybee division of labor</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ben-Shahar</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00359-005-0025-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Comparative Physiology. A, Neuroethology, Sensory, Neural, and Behavioral Physiology</title>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="page" from="987" to="994" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Phenotypic deconstruction reveals involvement of manganese transporter malvolio in honey bee division of labor</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ben-Shahar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">L</forename><surname>Dudek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Robinson</surname></persName>
+		</author>
+		<idno type="DOI">10.1242/jeb.01151</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Biology</title>
+		<imprint>
+			<biblScope unit="volume">207</biblScope>
+			<biblScope unit="page" from="3281" to="3288" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The evolution of gene expression levels in mammalian organs</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Brawand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Soumillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Necsulea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Julien</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Csardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Harrigan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Weier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Liechti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Aximu-Petri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kircher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Zeller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Khaitovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Grutzner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bergmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Paabo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kaessmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature10532</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">478</biblScope>
+			<biblScope unit="page" from="343" to="348" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Selection and validation of reference genes for functional studies in the Calliphoridae family</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Matiolli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/jis/14.1.2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Insect Science</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2164-11-695</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Genomics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Adaptive evolution of pelvic reduction in sticklebacks by recurrent deletion of a Pitx1 enhancer</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Marks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Villarreal</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Brady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Southwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Absher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Grimwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Schmutz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Petrov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schluter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kingsley</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1182213</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">327</biblScope>
+			<biblScope unit="page" from="302" to="305" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Eisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Bergman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oliver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Markow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kellis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gelbart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">N</forename><surname>Iyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Pollard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Sackton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Larracuente</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Abad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Abt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Adryan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aguade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Akashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Aquadro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Ardell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Arguello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Artieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Barbash</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Barker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Barsanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Batterham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Batzoglou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Begun</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bhutkar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Blanco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bosak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Bradley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Brand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Brent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Butlin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Caggese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Calvi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernardo</forename><surname>De Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caspi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Castrezana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Celniker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Chapple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Chatterji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chinwalla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Civetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Clifton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Comeron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Costello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Coyne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Daub</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Delcher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Delehaunty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Do</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Ebling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Edwards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Eickbush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Filipski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Findeiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Freyhult</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fulton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Gardiner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Garvin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Gnerre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Godfrey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Good</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gotea</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gravely</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Griffiths-Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Guigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gustafson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Haerty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Halligan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Halter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Han</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Heger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Hillier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hinrichs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Holmes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hoskins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hubisz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hultmark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Huntley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Jaffe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Jagadeeshan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Jeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Jordan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Karpen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Kataoka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Keightley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Kheradpour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kirkness</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Koerich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Kristiansen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kudrna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Kulathinal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kwok</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Langley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Lapoint</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lazzaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Levesque</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Lin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Lindblad-Toh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Llopart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Long</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Low</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lozovsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Luo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Makalowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Marzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matzkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mcallister</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mcbride</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mckernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Mckernan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mendez-Lago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Minx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mollenhauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">U</forename><surname>Montooth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Mount</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Mu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Negre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Newfeld</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Noor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>'grady</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pachter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Papaceit</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Parisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Parts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pedersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Pesole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Phillippy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Ponting</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Pop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Porcelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Powell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Prohaska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pruitt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Puig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Quesneville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Rand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Reed</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">K</forename><surname>Reenan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Reily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Remington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Rieger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Ritchie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robin</forename><forename type="middle">C</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Rohde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Rozas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rubenfield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Ruiz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Russo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Salzberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Sanchez-Gracia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Saranga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Sato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schaeffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Schatz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Schlenke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Segarra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Singh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Sirot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Sirota</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sisneros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Spieth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1038/nature06341</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">450</biblScope>
+			<biblScope unit="page" from="203" to="218" />
+		</imprint>
+	</monogr>
+	<note>et al. 2007. Evolution of genes and genomes on the Drosophila phylogeny</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">jModelTest 2: more models, new heuristics and parallel computing</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Darriba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Taboada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Doallo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Posada</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nmeth.2109</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Methods</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">A model of competition for food. I. Frequency dependent viabilities</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Jong</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/283124</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="1013" to="1027" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Fast and accurate phylogeny reconstruction algorithms based on the minimum-evolution principle</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Desper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gascuel</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/106652702761034136</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Computational Biology</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="687" to="705" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Intra-and interspecific variation in primate gene expression patterns</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Enard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Khaitovich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Klose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Zollner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Heissig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Giavalisco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Nieselt-Struwe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Muchmore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Varki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ravid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Doxiadis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Bontrop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Paabo</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1068996</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">296</biblScope>
+			<biblScope unit="page" from="340" to="343" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The origin of parasitism in blowflies</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Z</forename><surname>Erzinçlioglu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Entomology and Natural History</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="125" to="127" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">In search of food: exploring the evolutionary link between cGMP-dependent protein kinase (PKG) and behaviour</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Fitzpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Sokolowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/icb/44.1.28</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Integrative and Comparative Biology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="28" to="36" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Greenspan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Ferveur</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.genet.34.1.205</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Courtship in Drosophila</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="205" to="232" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Myiasis of humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0065-308X(08)60073-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Kinetic PCR analysis: real-time monitoring of DNA amplification reactions</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Higuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fockler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dollinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Watson</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nbt0993-1026</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnology (N Y)</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Katoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Misawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Kuma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Miyata</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/nar/gkf436</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="3059" to="3066" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">MAFFT multiple sequence alignment software version 7: improvements in performance and usability</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Katoh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Standley</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/mst010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="772" to="780" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Evolution at two levels in humans and chimpanzees</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>King</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1090005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">188</biblScope>
+			<biblScope unit="page" from="107" to="116" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Molecular phylogenetics of Oestroidea (Diptera: Calyptratae) with emphasis on Calliphoridae: insights into the inter-familial relationships and additional evidence for paraphyly among blowflies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Junqueira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Paulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Villet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ympev.2012.08.007</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Phylogenetics and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="840" to="854" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Common pattern of evolution of gene expression level and protein sequence in Drosophila</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Nuzhdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Wayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Harmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Mcintyre</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msh128</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1308" to="1317" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Evolution of gene expression in fire ants: the effects of developmental stage, caste, and species</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ometto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Shoemaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G</forename><surname>Ross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Keller</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msq322</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1381" to="1392" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Metal ions suppress the abnormal taste behavior of the Drosophila mutant malvolio</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Orgad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nelson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Segal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Biology</title>
+		<imprint>
+			<biblScope unit="volume">201</biblScope>
+			<biblScope unit="page" from="115" to="120" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">APE: analyses of phylogenetics and evolution in R language</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Paradis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Claude</forename><forename type="middle">J</forename><surname>Strimmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btg412</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="289" to="290" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Evolution of gene expression in the Drosophila melanogaster subgroup</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Rifkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>White</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/ng1086</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Genetics</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="138" to="144" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">MrBayes 3.2: efficient Bayesian phylogenetic inference and model choice across a large model space</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ronquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Teslenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Der Mark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Ayres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Darling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Hohna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Larget</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Suchard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Huelsenbeck</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/sysbio/sys029</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Systematic Biology</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="539" to="542" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Primer3 on the WWW for general users and for biologist programmers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rozen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skaletsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="365" to="386" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Control of male sexual behavior and sexual orientation in Drosophila by the fruitless gene</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Ryner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Goodwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Castrillon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Anand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Villella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Wasserman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0092-8674(00)81802-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Cell</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="1079" to="1089" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Genetic and developmental basis of evolutionary pelvic reduction in threespine sticklebacks</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Shapiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Marks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Peichel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Blackman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Nereng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Jonsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schluter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kingsley</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/nature02415</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">428</biblScope>
+			<biblScope unit="page" from="717" to="723" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Q-Gene: processing quantitative real-time RT-PCR data</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Simon</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btg157</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Drosophila: genetics meets behaviour</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Sokolowski</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/35098592</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reviews Genetics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="879" to="890" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The evolution of ectoparasitism in the genus Lucilia (Diptera:Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0020-7519(96)00155-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal for Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="51" to="59" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The evolution of myiasis in blowflies (Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0020-7519(03)00136-X</idno>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal for Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The evolution of myiasis in humans and other animals in the Old and New Worlds (part I): phylogenetic analyses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Wallman</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pt.2006.01.008</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends In Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="129" to="136" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Simple methods for testing the molecular evolutionary clock hypothesis</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Tajima</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="599" to="607" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msr121</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2731" to="2739" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">MEGA6: molecular evolutionary genetics analysis version 6.0</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Filipski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/mst197</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="2725" to="2729" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title level="m" type="main">R: a language and environment for statistical computing</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Team</surname></persName>
+		</author>
+		<ptr target="http://www.R-project.org/" />
+		<imprint>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Flies, genes, and learning</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Waddell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Quinn</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.neuro.24.1.1283</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Neuroscience</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Real-time PCR for mRNA quantitation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Medrano</surname></persName>
+		</author>
+		<idno type="DOI">10.2144/05391RV01</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechniques</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="75" to="85" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Tissue-specific expression and regulation of sexually dimorphic genes in mice</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Schadt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ingram-Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Drake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lusis</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/gr.5217506</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Research</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="995" to="1004" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">PAML4: phylogenetic analysis by maximum likelihood</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Yang</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msm088</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Butterworths</publisher>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">Genetic algorithm approaches for the phylogenetic analysis of large biological sequence datasets under the maximum likelihood criterion</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Zwickl</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Texas at Austin</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

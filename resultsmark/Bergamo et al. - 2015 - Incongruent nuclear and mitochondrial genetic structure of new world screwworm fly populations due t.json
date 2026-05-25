@@ -1,0 +1,4295 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Incongruent Nuclear and Mitochondrial Genetic Structure of New World Screwworm Fly Populations Due to Positive Selection of Mutations Associated with Dimethyl- and Diethyl-Organophosphates Resistance",
+    "authors": [
+      "Luana Bergamo",
+      "Pablo Fresia",
+      "Ana Azeredo-Espin"
+    ],
+    "doi": "10.1371/journal.pone.0128441",
+    "hash": "5188D0F533DBCFFBE07C44CFF7CDF30A",
+    "publication_date": "2015-06-01",
+    "publication_year": 2015,
+    "publisher": "Public Library of Science (PLoS)",
+    "journal": "PLOS ONE",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Livestock production is an important economic activity in Brazil, which has been suffering significant losses due to the impact of parasites. The New World screwworm (NWS) fly, Cochliomyia hominivorax, is an ectoparasite and one of the most important myiasis-causing flies endemic to the Americas. The geographic distribution of NWS has been reduced after the implementation of the Sterile Insect Technique (SIT), being eradicated in North America and part of Central America. In South America, C. hominivorax is controlled by chemical insecticides, although indiscriminate use can cause selection of resistant individuals. Previous studies have associated the Gly137Asp and Trp251Leu mutations in the active site of carboxylesterase E3 to resistance of diethyl and dimethyl-organophosphates insecticides, respectively. Here, we have sequenced a fragment of the carboxylesterase E3 gene (ChαE7), comprising part of intron iII, exon eIII, intron iIII and part of exon eIV, and three mitochondrial gene sequences (CR, COI and COII), of NWS flies from 21 locations in South America. These markers were used for population structure analyses and the ChαE7 gene was also investigated to gain insight into the selective pressures that have shaped its evolution. Analysis of molecular variance (AMOVA) and pairwise FST analysis indicated an increased genetic structure between locations in the ChαE7 compared to the concatenated mitochondrial genes. Discriminant analysis of principal components (DAPC) and spatial analysis of molecular variance (SAMOVA) indicated different degrees of genetic structure for all markers, in agreement with the AMOVA results, but with low correlation to geographic data. The NWS fly is considered a panmitic species based on mitochondrial data, while it is structured into three groups considering the ChαE7 gene. A negative association between the two mutations related to organophosphate resistance and Fay & Wu's H significant negative values for the exons, suggest that these mutations evolved under positive selection.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_e5d1ed84",
+      "text": "Livestock production is an important economic activity in Brazil that is strongly affected by parasites. The New World screwworm (NWS), Cochliomyia hominivorax (Diptera: Challiphoridae) [1], is a myiasis-causing fly endemic from the Americas that is one of the main ectoparasites [2,3]. Larvae of the NWS fly feed on living tissues from natural cavities and wounds of warm-blooded vertebrates, mostly of domestic animals.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "[1]",
+          "offset_start": 186,
+          "offset_end": 189
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "[2,",
+          "offset_start": 280,
+          "offset_end": 283
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "3]",
+          "offset_start": 283,
+          "offset_end": 285
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_f7ef0abc",
+      "text": "The current distribution of the NWS fly is neotropical, including Cuba, the Dominican Republic, Haiti, Jamaica and all South American countries [4]. Originally, the NWS fly was distributed from southern United States of America to Argentina and Uruguay [2][3][4] but the implementation of an area-wide integrated management approach (AW-IPM) based on the Sterile Insect Technique (SIT) reduced its distribution [4][5][6]. Because of the success of this approach, the implementation of a NWS fly control program in its current distribution is under discussion [7]. There are many crucial biological questions involving the management of insect pest populations that should be investigated in addition to political decisions and interests in order to achieve the objectives. These include understanding population distribution, detecting geographic barriers or environmental discontinuities limiting gene flow and determining population sizes in target areas [7,8].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4]",
+          "offset_start": 144,
+          "offset_end": 147
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "[2]",
+          "offset_start": 253,
+          "offset_end": 256
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "[3]",
+          "offset_start": 256,
+          "offset_end": 259
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4]",
+          "offset_start": 259,
+          "offset_end": 262
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4]",
+          "offset_start": 411,
+          "offset_end": 414
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "[5]",
+          "offset_start": 414,
+          "offset_end": 417
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "[6]",
+          "offset_start": 417,
+          "offset_end": 420
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7]",
+          "offset_start": 559,
+          "offset_end": 562
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7,",
+          "offset_start": 957,
+          "offset_end": 960
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "8]",
+          "offset_start": 960,
+          "offset_end": 962
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_7a979fa4",
+      "text": "A fundamental factor for effectively applying the SIT program against NWS fly is the low density of target populations [9]. The first step of such a program relies on the use of insecticides to decrease population sizes. However, it will not be effective if populations have a high insecticide resistance level. In Brazil, like in other South American and Caribbean countries, ectoparasite control is performed exclusively by the use of chemical insecticides [10]. However, the indiscriminate use of these compounds has resulted in an increased frequency of resistant individuals and a consequent decreased efficacy [11,12].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "[9]",
+          "offset_start": 119,
+          "offset_end": 122
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "[10]",
+          "offset_start": 459,
+          "offset_end": 463
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "[11,",
+          "offset_start": 616,
+          "offset_end": 620
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "12]",
+          "offset_start": 620,
+          "offset_end": 623
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_ac14d764",
+      "text": "The molecular basis of resistance mechanisms involve alterations in target sensitivity and/or metabolic detoxification of the chemical compound before it hits the target [13]. An example of this is related to acetylcholinesterase (AChE), which has decreased sensitivity to carbamates and organophosphates insecticides, leading to resistance in many insect species [14][15][16][17]. Previous studies have associated changes in 'ali-esterase' activity of carboxylesterase E3, from carboxylesterase to organophosphate hydrolase, with two types of organophosphate insecticide resistance in Chrysomya putoria, Musca domestica and Lucilia cuprina [18]. Both resistance types, named 'diazinon' and 'malathion', confer broad spectrum resistance to OPs. However, 'diazinon' shows high resistance levels to diethyl OPs and low to dimethyl OPs, while 'malathion' shows high resistance levels to dimethyl OPs, specially to malathion, and low to diethyl OPs. 'Ali-esterase' and OP hydrolase activities are reduced and increased in both resistance types, respectively. Malathion carboxylesterase (MCE) activity, which is the hydrolysis of the carboxylester groups of malathion, is high in 'malathion' and low in 'diazinon' resistance type [18][19][20][21]. The increased resistance to diethyl-organophosphates in 'diazinon' resistance type is conferred by the Gly137Asp mutation in the oxyanion hole of the carboxylesterase E3 [22], while resistance to dimethyl-organophosphates in 'malathion' resistance type is conferred by the Trp251Leu mutation in the acyl pocket of the enzyme target site [21], which is also associated to pyrethroids resistance [23]. The two mutations could not be present in the same allele by recombination, once the Gly137Asp mutation abolishes the enzymes native MCE activity, which is fundamentally necessary for malathion resistance [21]. However, double resistance can be found due to duplications of esterase gene, with each copy of the gene carrying each resistance type [24].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "[13]",
+          "offset_start": 170,
+          "offset_end": 174
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "[14]",
+          "offset_start": 364,
+          "offset_end": 368
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "[15]",
+          "offset_start": 368,
+          "offset_end": 372
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "[16]",
+          "offset_start": 372,
+          "offset_end": 376
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "[17]",
+          "offset_start": 376,
+          "offset_end": 380
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "[18]",
+          "offset_start": 641,
+          "offset_end": 645
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "[18]",
+          "offset_start": 1225,
+          "offset_end": 1229
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "[19]",
+          "offset_start": 1229,
+          "offset_end": 1233
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "[20]",
+          "offset_start": 1233,
+          "offset_end": 1237
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "[21]",
+          "offset_start": 1237,
+          "offset_end": 1241
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "[22]",
+          "offset_start": 1413,
+          "offset_end": 1417
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "[21]",
+          "offset_start": 1580,
+          "offset_end": 1584
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "[23]",
+          "offset_start": 1637,
+          "offset_end": 1641
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "[21]",
+          "offset_start": 1848,
+          "offset_end": 1852
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "[24]",
+          "offset_start": 1989,
+          "offset_end": 1993
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_27c2e19b",
+      "text": "The first molecular structure of an insect carboxylesterase E3 protein was recently solved for L. cuprina (LcαE7) and elucidates the function of this enzyme, both in its native (associated with lipids metabolism) and phosphorylated (associated to OP resistance) forms, enabling a better understanding of the effects of both mutations on the wild-type function of the enzyme [25].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "[25]",
+          "offset_start": 374,
+          "offset_end": 378
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b14484c6",
+      "text": "The two mutations (Gly137Asp and Trp251Leu) were identified in the NWS fly and it is hypothesized that these confer resistance through a similar mechanism based on homology with mutations in other species for which resistance has been proven through bioassays [18,22,[26][27][28]. Because of the absence of a susceptible lineage, bioassays are difficult to conduct in NWS fly and the detection of positive selection signals in field populations represents an alternative approach to indirectly demonstrate the association of both mutations with insecticide resistance [29,30].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "[18,",
+          "offset_start": 260,
+          "offset_end": 264
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "22,",
+          "offset_start": 264,
+          "offset_end": 267
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[26]",
+          "offset_start": 267,
+          "offset_end": 271
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[27]",
+          "offset_start": 271,
+          "offset_end": 275
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "[28]",
+          "offset_start": 275,
+          "offset_end": 279
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "[29,",
+          "offset_start": 568,
+          "offset_end": 572
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "30]",
+          "offset_start": 572,
+          "offset_end": 575
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_96da0383",
+      "text": "Another important factor to successfully implement a control program based on SIT is the adequate delimitation of the geographic areas to be targeted [31]. Many population genetic studies, based on several molecular markers, were conducted with this aim in the NWS fly, which resulted in different population structure scenarios and interpretations [32][33][34][35][36][37][38][39]. At least four genetic regional groups were described for the NWS fly throughout its current geographical range, including Cuba (CG), the Dominican Republic (DRG), and North and South of the Amazon Region (NAG and SAG, respectively), with island populations being derived from mainland ones [38]. In the mainland, a split between populations from North/Central America and South America, preceded by an expansion process initiated in North America, occurred after the Last Glacial Maximum. A subsequent split between the Pleistocene and Holocene epochs resulted in the NAG and SAG regions in South America [39]. Within these two areas, the NWS fly did not share mitochondrial haplotypes [38] and the genetic structure was associated with a barrier in the north of the Amazon basin, with NWS fly populations from the Amazon only sharing haplotypes with those in the SAG but not in the NAG region [40]. Despite the wide area sampled, a low population differentiation was observed without a geographic correlation in the SAG group [38], probably due to the population expansion process [39].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "[31]",
+          "offset_start": 150,
+          "offset_end": 154
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "[32]",
+          "offset_start": 349,
+          "offset_end": 353
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "[33]",
+          "offset_start": 353,
+          "offset_end": 357
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "[34]",
+          "offset_start": 357,
+          "offset_end": 361
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "[35]",
+          "offset_start": 361,
+          "offset_end": 365
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "[36]",
+          "offset_start": 365,
+          "offset_end": 369
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "[37]",
+          "offset_start": 369,
+          "offset_end": 373
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 373,
+          "offset_end": 377
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "[39]",
+          "offset_start": 377,
+          "offset_end": 381
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 673,
+          "offset_end": 677
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "[39]",
+          "offset_start": 988,
+          "offset_end": 992
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 1069,
+          "offset_end": 1073
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "[40]",
+          "offset_start": 1277,
+          "offset_end": 1281
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 1410,
+          "offset_end": 1414
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "[39]",
+          "offset_start": 1465,
+          "offset_end": 1469
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_2db9ee5a",
+      "text": "In this study, we characterized a fragment of carboxylesterase E3 gene (ChαE7) and investigated the geographic distribution of its genetic variability in NWS fly populations from SAG group locations. We also carried out comparative analyses of ChαE7 variability by also investigating the same parameters of mitochondrial genes. Neutrality tests based on frequency spectrum and linkage disequilibrium tests were also used to detect positive selection signals in the mutations associated with insecticide resistance.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b0d8f6eb",
+      "text": "Samples were obtained in private farms and no specific permissions were required for the present studies. Additionally, we confirm that the field studies did not involve endangered or protected species.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Materials and Methods",
+      "head_section": "Ethics Statement"
+    },
+    {
+      "id": "p_6b82d47e",
+      "text": "The total genomic DNA of five NWS fly individuals from Brazil (2) and Uruguay (3) was extracted by the phenol:chloroform method with modifications [36]. Polymerase chain reaction (PCR) amplification of a ChαE7 fragment comprising intron iII, exon eIII, intron iIII and part of exon eIV (Fig 1) was carried out initially using the specific primers 7F0a (5´-GGTATACCA TACGCCCAAC -3´) and RN2 (5´-AACAGTAATCCCTCGTACG-3´). Both primers were designed based on NWS fly cDNA [41] using Primer 3 software [42]. PCR amplifications were conducted in 15μL containing 10X PCR buffer, 200 μM of each dNTP, 1 unit of bovine serum albumin (BSA, New England Biolabs, Ipswich, MA, USA), 2.5 μM MgCl 2 , 1 μM of each primer, 1 unit of Taq DNA polymerase (Fermentas International Inc., Canada) and ~15-20 ng of DNA. Amplifications were performed with an initial denaturing step of 3 min at 96°C, followed by 35 cycles of 1 minute at 95°C, 1 minute at 62°C and 2 minutes at 72°C, and ending with a final elongation step of 10 minutes at 72°C. The reaction products were sequenced and used for nested PCR with new primers (7FIn1: 5´-ATTGTGTCTCCCTGCAAGTG-3´and 7R1aN: 5",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "[36]",
+          "offset_start": 147,
+          "offset_end": 151
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "[41]",
+          "offset_start": 468,
+          "offset_end": 472
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "[42]",
+          "offset_start": 497,
+          "offset_end": 501
+        }
+      ],
+      "head_section": "Carboxylesterase E3 (ChαE7) gene characterization"
+    },
+    {
+      "id": "p_3e4f3036",
+      "text": "´-CGTTTAGTTTCTGGAGCC-3´) based on the obtained sequences. The nested PCRs were conducted as above but with a reduced MgCl 2 concentration (1.5 μM) and an annealing temperature of 52°C. PCR products were purified with the Illustra GFX PCR DNA and Gel Band purification Kit according to manufacturer's instructions (GE Healthcare, Little Chalfont, UK) and cloned into the pGEM-T vector (Promega Co., Madison, WI, USA). Clones were sequenced with forward and reverse M13 primers using the Big Dye Terminator Cycle Sequencing ABI Kit 3.1 in an automatic sequencer ABI 3700 (Applied Biosystems, Inc.; Foster City, CA, USA). Chromatograms were inspected with FinchTV 1.4.0 software (Geospiza Inc., Seattle, WA, USA) taking into account Phred values [43,44]. Contiguous, overlapping bidirectional sequences (contigs) of each individual were obtained using CAP3 software [45], aligned with the algorithms of ClustalX2 [46] and Muscle [47], as implemented in Mega 5.2 software [48], and manually edited. Sequence length and nucleotide composition (A%, T%, C%, G%, A+T%, C+G%, AT-skew = [A-T]/[A+T] and GC-skew = [G-C]/[G+C]) of forward strands were compared with Lucilia cuprina (GenBank accession numbers: U56636 and AY691508), Drosophila melanogaster (GenBank accession number: NM079537) and Musca domestica (GenBank accession number: AF133341).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "[43,",
+          "offset_start": 743,
+          "offset_end": 747
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "44]",
+          "offset_start": 747,
+          "offset_end": 750
+        },
+        {
+          "type": "bibr",
+          "target": "#b44",
+          "text": "[45]",
+          "offset_start": 863,
+          "offset_end": 867
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "[46]",
+          "offset_start": 910,
+          "offset_end": 914
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "[47]",
+          "offset_start": 926,
+          "offset_end": 930
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "[48]",
+          "offset_start": 968,
+          "offset_end": 972
+        }
+      ],
+      "head_section": "Carboxylesterase E3 (ChαE7) gene characterization"
+    },
+    {
+      "id": "p_b9895418",
+      "text": "Stored genomic DNA (-80°C) from 201 NWS fly larvae collected in 21 sampling locations from South America, previously analyzed in [36] and [38], were used in this study (Table 1).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "[36]",
+          "offset_start": 129,
+          "offset_end": 133
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 138,
+          "offset_end": 142
+        }
+      ],
+      "head_section": "Population samples and sequencing"
+    },
+    {
+      "id": "p_22ac10a6",
+      "text": "Fragments of three mitochondrial genes, the cytochrome c oxidase subunit I (COI) and subunit II (COII) and the B domain of the control region (CR), were amplified and sequenced using the same protocols and conditions for 54 flies that were not previously analyzed by [38]. Part of the ChαE7 fragment previously characterized, including 157 bp from intron iII, the exon eIII (150 bp), the intron iIII (63 bp) and 282 bp from exon eIV, was amplified from all the individuals using the forward primer 7FIn2 (5´-ACCATCGGTGAGTTGAGAG-3´) and reverse primers RN2 (5´-AACAGTAATCCCTCGTACG-3´) or 7R3a (5´-ATCCTTATCATTATTTT CACCC -3´) (Fig 1), leading to a predicted fragment size of 652 bp. The forward primer Exons and introns were named according to L. cuprina (e = exon; I = intron) [27]. The position of primers used for gene region characterization (7F0a, RN2, 7FIn1 and 7R1aN) and for posterior populational analyses (7FIn2, RN2 and 7R3a) are indicated by blue and red arrows, respectively. RN2 is indicated by a green arrow (used for both characterization and population analyses). doi:10.1371/journal.pone.0128441.g001 (7Fln2) was designed based on sequences previously obtained in this study, with Primer 3 software [42]. The reverse primer 7R3a was designed as described previously [28]. PCR amplifications were performed in a final volume of 25μL containing 10X PCR buffer, 100 μM of each dNTP, 1 unit of bovine serum albumin (BSA, New England Biolabs, Ipswich, MA, USA), 2.5 mM MgCl 2 , 0.2 μM of each primer, 1 unit of Taq DNA polymerase (Fermentas International Inc., Canada) and ~15-20 ng of DNA. An initial denaturing step of 3 minutes was performed at 96°C, followed by 35 cycles of 1 minute at 95°C, 1 minute at 56°C and 2 minutes at 72°C, and a final elongation step of 10 minutes at 72°C. The PCR products were purified and sequenced as before. Sequences were trimmed, evaluated for quality and assembled in contigs using the Geneious 6.0.6 software (Biomatters Ltd.; Auckland, NZ). When heterozygotes with alleles containing insertions/deletions (indels) of different lengths within intron iII were detected, PCR amplifications were repeated and the products were purified and cloned into the pGEM-T vector (Promega Corp). At least 6 clones from each individual were sequenced, in order to obtain sequences from both alleles.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 267,
+          "offset_end": 271
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[27]",
+          "offset_start": 777,
+          "offset_end": 781
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "[42]",
+          "offset_start": 1216,
+          "offset_end": 1220
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "[28]",
+          "offset_start": 1283,
+          "offset_end": 1287
+        }
+      ],
+      "head_section": "Population samples and sequencing"
+    },
+    {
+      "id": "p_45aeaaf6",
+      "text": "Sequences from all the 201 individuals were aligned with the algorithms of ClustalX2 [46] and Muscle [47], manually edited in Mega 5.2 [48] and inspected for quality with the Gblock Server 0.91b [49]. Mitochondrial sequences were aligned considering each fragment separately (CR, COI and COII) and subsequently concatenated for analyses. COI, COII and ChαE7 exons (eIII and eIV) were checked for open reading frames using Mega 5.2 [48]. For the CR fragment and ChαE7 intron iII sequences, each indel was considered as a single mutation and all indels were recoded as single positions in the final alignment. Individual sequences were collapsed into unambiguous haplotypes using FaBox [50], and these were compared and named according to sequences reported previously in the case of the mitochondrial data [38][39][40].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "[46]",
+          "offset_start": 85,
+          "offset_end": 89
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "[47]",
+          "offset_start": 101,
+          "offset_end": 105
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "[48]",
+          "offset_start": 135,
+          "offset_end": 139
+        },
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "[49]",
+          "offset_start": 195,
+          "offset_end": 199
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "[48]",
+          "offset_start": 431,
+          "offset_end": 435
+        },
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "[50]",
+          "offset_start": 684,
+          "offset_end": 688
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 805,
+          "offset_end": 809
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "[39]",
+          "offset_start": 809,
+          "offset_end": 813
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "[40]",
+          "offset_start": 813,
+          "offset_end": 817
+        }
+      ],
+      "head_section": "Sequences analyses"
+    },
+    {
+      "id": "p_fbff64b1",
+      "text": "General diversity indices, such as number of haplotypes, haplotype diversity or expected heterozygosity (Ĥ) and nucleotide diversity (π) [51], were calculated for each dataset (mitochondrial CR, COI, COII and nuclear ChαE7) independently using the DnaSP 5.0 [52] and Arlequin 3.5 [53] softwares.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "[51]",
+          "offset_start": 137,
+          "offset_end": 141
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "[52]",
+          "offset_start": 258,
+          "offset_end": 262
+        },
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "[53]",
+          "offset_start": 280,
+          "offset_end": 284
+        }
+      ],
+      "head_section": "Population analyses"
+    },
+    {
+      "id": "p_26c6c978",
+      "text": "The genetic structure of NWS fly populations was first investigated using the Analysis of Molecular Variance (AMOVA) and pairwise F ST . This was performed using the Arlequin 3.5 software [53] separately for each dataset and considered each sampled location as a population and all as belonging to a unique population. The statistical significance values were accessed using 10,000 permutations. We also carried out a discriminant analysis of principal components (DAPC) [54] implemented in adegenet 1.3-8 from the R package [55]. This is a multivariate analysis without an a priori population model that identifies clusters (K) of individuals independent from geographic origin. The analysis was performed considering K = 2 to K = 10.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "[53]",
+          "offset_start": 188,
+          "offset_end": 192
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "[54]",
+          "offset_start": 471,
+          "offset_end": 475
+        },
+        {
+          "type": "bibr",
+          "target": "#b54",
+          "text": "[55]",
+          "offset_start": 525,
+          "offset_end": 529
+        }
+      ],
+      "head_section": "Population analyses"
+    },
+    {
+      "id": "p_bd942932",
+      "text": "In order to describe genetic and geographically concordant groups of sampling locations we used spatial analysis of molecular variance (SAMOVA) [56]. This was performed based on genetic pairwise differences between sequences and geographic coordinates of sampling locations, through 100 annealing processes and 1,000 permutations using the SAMOVA software [56]. Different numbers of groups were tested (K = 2 to K = 10) and the F SC , F ST and F CT indices were plotted to investigate the number of groups (K) that best represent the spatial distribution of genetic variability.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "[56]",
+          "offset_start": 144,
+          "offset_end": 148
+        },
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "[56]",
+          "offset_start": 356,
+          "offset_end": 360
+        }
+      ],
+      "head_section": "Population analyses"
+    },
+    {
+      "id": "p_cf649c8b",
+      "text": "Mantel tests [57] were performed using the mitochondrial and nuclear datasets to detect signals of isolation by distance (IBD). These tests were carried out considering a genetic distance matrix, constructed based on Slatkin's linearized F ST 's [58], and a geographic distance matrix, that contains linear distances in kilometers between each pair of locations. Tests were performed using the Isolation By Distance Web Service (IBDWS) 3.23 [59] through 10,000 randomizations.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b56",
+          "text": "[57]",
+          "offset_start": 13,
+          "offset_end": 17
+        },
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "[58]",
+          "offset_start": 246,
+          "offset_end": 250
+        },
+        {
+          "type": "bibr",
+          "target": "#b58",
+          "text": "[59]",
+          "offset_start": 441,
+          "offset_end": 445
+        }
+      ],
+      "head_section": "Population analyses"
+    },
+    {
+      "id": "p_d370d6cc",
+      "text": "Tajima's D [60], Fu's Fs [61], Fu and Li's D Ã and F Ã [62] summary statistics were estimated after defining the best grouping configuration of sampling locations to investigate deviations from neutrality of NWS fly samples. For all tests, values near zero indicate that population sizes are stable, significant negative values indicate an excess of low frequency variants which are associated with positive selection or a demographic scenario of population expansion, and positive values indicate that a population has an excess of intermediary frequency variants resulting from the action of a balancing selection or population bottleneck [60][61][62]. Tests were performed for the concatenated mitochondrial sequences (CR, COI, COII) and each part of the ChαE7 gene separately (introns iII and iIII, exons eIII and eIV) using DnaSP 5.0 [52]. The significance of Fu's Fs was obtained by coalescence, with 1,000 replicates and a 95% confidence interval, and two tailed tests were used to determine the statistical significances of the other three tests.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b59",
+          "text": "[60]",
+          "offset_start": 11,
+          "offset_end": 15
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "[61]",
+          "offset_start": 25,
+          "offset_end": 29
+        },
+        {
+          "type": "bibr",
+          "target": "#b61",
+          "text": "[62]",
+          "offset_start": 55,
+          "offset_end": 59
+        },
+        {
+          "type": "bibr",
+          "target": "#b59",
+          "text": "[60]",
+          "offset_start": 641,
+          "offset_end": 645
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "[61]",
+          "offset_start": 645,
+          "offset_end": 649
+        },
+        {
+          "type": "bibr",
+          "target": "#b61",
+          "text": "[62]",
+          "offset_start": 649,
+          "offset_end": 653
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "[52]",
+          "offset_start": 839,
+          "offset_end": 843
+        }
+      ],
+      "head_section": "Demographic analyses"
+    },
+    {
+      "id": "p_0d2be0a2",
+      "text": "Mismatch distribution analysis based on the distribution of pairwise differences between sequences was performed to better understand the demographic scenario of NWS fly samples. A unimodal distribution indicates recent expansion, while a multimodal distribution indicates population contraction, structure, influence of migration or subdivision [63][64][65][66][67][68][69]. This analysis was performed using the Arlequin 3.5 software [53], with the significance obtained by 10,000 permutations. The sum of the square deviations (SSD) and the Raggedness index (rg) were used to measure the adjustment to a population expansion model.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "[63]",
+          "offset_start": 346,
+          "offset_end": 350
+        },
+        {
+          "type": "bibr",
+          "target": "#b63",
+          "text": "[64]",
+          "offset_start": 350,
+          "offset_end": 354
+        },
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": "[65]",
+          "offset_start": 354,
+          "offset_end": 358
+        },
+        {
+          "type": "bibr",
+          "target": "#b65",
+          "text": "[66]",
+          "offset_start": 358,
+          "offset_end": 362
+        },
+        {
+          "type": "bibr",
+          "target": "#b66",
+          "text": "[67]",
+          "offset_start": 362,
+          "offset_end": 366
+        },
+        {
+          "type": "bibr",
+          "target": "#b67",
+          "text": "[68]",
+          "offset_start": 366,
+          "offset_end": 370
+        },
+        {
+          "type": "bibr",
+          "target": "#b68",
+          "text": "[69]",
+          "offset_start": 370,
+          "offset_end": 374
+        },
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "[53]",
+          "offset_start": 436,
+          "offset_end": 440
+        }
+      ],
+      "head_section": "Demographic analyses"
+    },
+    {
+      "id": "p_a0186db3",
+      "text": "The investigation of ChαE7 positive selection signals was done based on the population structure of the sampling locations.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_a4c3d338",
+      "text": "The frequencies of polymorphic nucleotides in the two codons associated to insecticide resistance (Gly137Asp and Trp251Leu) and the Hardy-Weinberg equilibrium between these were obtained with the Arlequin 3.5 software [53].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "[53]",
+          "offset_start": 218,
+          "offset_end": 222
+        }
+      ],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_73f3b6d2",
+      "text": "Fay and Wu's H neutrality test [70] was performed using the DnaSP 5.0 software [52]. The orthologous sequence of D. melanogaster (GenBank accession number: NM079537) was used as the outgroup and statistical significance was accessed by coalescence through 1000 replicates, considering a confidence interval of 95%.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b69",
+          "text": "[70]",
+          "offset_start": 31,
+          "offset_end": 35
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "[52]",
+          "offset_start": 79,
+          "offset_end": 83
+        }
+      ],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_2666ab0e",
+      "text": "ChαE7 sequences from five individuals were obtained (GenBank accession numbers: KR067547-KR067551), although two of these were partial due to the absence of the initial sequence of intron iII. Sequences were approximately 3 Kb, comprising 111 bp of exon eII, around 2000 bp of intron iII (variable sizes due to presence of indels), 150 bp of exon eIII, 63 bp of intron iIII and 318 bp of exon eIV (Fig 1). Although the NWS fly eII, eIII, iIII and eIV regions have been described previously [41], this is the first report of the intron iII sequence. The two mutations associated with insecticide resistance, Gly137Asp and Trp251Leu, are located in exons eIII and eIV, respectively.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "[41]",
+          "offset_start": 490,
+          "offset_end": 494
+        }
+      ],
+      "head_paragraph": "Results",
+      "head_section": "Carboxylesterase E3 (ChαE7) Gene Characterization"
+    },
+    {
+      "id": "p_8fe6a7c7",
+      "text": "Nucleotide composition of exons (eIII and eIV) and introns (iII and iIII) of the five NWS fly individuals and the other Muscomorpha species (L. cuprina, D. melanogaster and M. domestica) is presented in Table 2. For introns, M. domestica was excluded due to absence of sequence.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Carboxylesterase E3 (ChαE7) Gene Characterization"
+    },
+    {
+      "id": "p_0f951dcb",
+      "text": "A high A+T content is observed in both exons and introns of NWS fly individuals, with minimum and maximum values of 60.06% and 80.95%. This was related to a higher proportion of T than A, indicated by the negative AT-skew. The GC-skew shows positive values for all individuals when exons were considered (indicating more Gs than Cs), while this was negative for most of the individuals in the case of the introns. However, both AT-skew and GC-skew were near to zero for intron iII (0.01-0.05), indicating that A and T nucleotides, as well as G and C, occurred in similar proportions.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Carboxylesterase E3 (ChαE7) Gene Characterization"
+    },
+    {
+      "id": "p_93105a0c",
+      "text": "L. cuprina had a more similar pattern to the NWS fly, consistent with their closer phylogenetic relationship, with an A+T content of 64.67% and 56.29% for eIII and eIV exons, respectively. The AT-skew was negative and the GC-skew positive for both exons of L. cuprina. However, the values were near to zero for exon eIV (-0.04 and 0.01).",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Carboxylesterase E3 (ChαE7) Gene Characterization"
+    },
+    {
+      "id": "p_992904c6",
+      "text": "D. melanogaster and M. domestica showed a more balanced distribution of nucleotide frequencies. However, D. melanogaster also had a high A+T content for intron iIII and iII sequences with values of 64.91 and 76.19%, respectively.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Carboxylesterase E3 (ChαE7) Gene Characterization"
+    },
+    {
+      "id": "p_fb939d53",
+      "text": "The CR, COI and COII fragment lengths were 488, 731 and 511 bp after alignment, defining 59, 44 and 35 haplotypes, respectively. Among these haplotypes, 10 of CR, 5 of COI and 1 of COII sequences were novel. The GenBank accession numbers are KR067531-KR067540 for the CR, KR067541-KR067545 for COI and KR067546 for COII. The mean genetic distance among haplotypes (uncorrected p-distance) was 0.005 for CR (range 0-0.015), 0.003 for COI (range 0-0.010) and 0.004 for COII (range 0-0.012). Next the CR, COI and COII sequences were concatenated in a 1726 bp fragment, defining 96 haplotypes that had been found previously [38] and 19 that were novel (haplotypes 283 to 301). As described previously [38], haplotype 140 was the most frequent (38/201), followed by haplotypes 78 (10/201) and 187 (7/201) (Table 3). The mean genetic distance (uncorrected p-distance) for the concatenated haplotypes was 0.004 (range 0-0.011). Intron iII, exon eIII, intron iIII and exon eIV of the ChαE7 gene were 157, 150, 63 and 282 bp length, respectively, resulting in a total sequence length of 652 bp. Based on this, we defined 49 haplotypes (GenBank accession numbers: KR067482-KR067530). Haplotypes 1 (133/402), 2 (132/402) and 3 (52/402) were the most frequent (Table 3). The mean uncorrected genetic pdistance among the haplotypes was 0.019 (range 0-0.034).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 620,
+          "offset_end": 624
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 697,
+          "offset_end": 701
+        }
+      ],
+      "head_section": "Genetic diversity of populations"
+    },
+    {
+      "id": "p_8199f1fd",
+      "text": "Haplotype distribution in sampling locations, nucleotide diversity (π) and haplotype diversity/expected heterozygosity (Ĥ) estimated from concatenated mitochondrial and ChαE7 gene sequences are shown in Table 3. Low nucleotide diversity was observed for both mitochondrial and nuclear genes, ranging from 0.0015 to 0.0055 in mitochondrial and 0.0052 to 0.0227 in the ChαE7 datasets. However, high haplotype diversity was found, ranging from 0.7556 to 1 and 0.1895 to 0.8929 in the mitochondrial and ChαE7 datasets, respectively.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Genetic diversity of populations"
+    },
+    {
+      "id": "p_a1762738",
+      "text": "The non-hierarchical AMOVA, considering all sampled locations as a unique population, showed higher structure when considering the ChαE7 gene, with fixation indexes (F ST ) of 0.235 and 0.094 for the ChαE7 and mitochondrial datasets respectively (Table 4). Pairwise F ST estimates with the ChαE7 gene showed significant values between approximately 65% of all locations pairs (137/210) (S1 Table ), decreasing to 33% (70/210) when considering mitochondrial data (S2 Table ). In the latter case, BCR, BSA and APL were the locations which had the most significant values (18/20, 14/20 and 12/20, respectively).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Structure analyses"
+    },
+    {
+      "id": "p_83ac4ead",
+      "text": "Examination of the mitochondrial data showed that the NWS fly populations were genetically and geographically homogeneous, according to DAPC and SAMOVA analyses.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Structure analyses"
+    },
+    {
+      "id": "p_9174c56d",
+      "text": "The demographic history of NWS fly was inferred based on the groups defined by DAPC and SAMOVA, considering one group for mitochondrial data and three for the ChαE7 gene. Tajima's D, Fu's Fs and Fu & Li's D Ã and F Ã summary statistics yielded significant negative values for the mitochondrial data, while no significant results were found for the ChαE7 gene, except the Tajima's D and Fu & Li's F Ã for the intron iII in group I (Table 5). Mismatch distribution analysis resulted in a unimodal distribution of pairwise differences between mitochondrial sequences, adjusted to the theoretical distribution of a demographic scenario of recent population expansion (P [SSD] = 0.4442, P [raggedness] = 0.6298). This analysis resulted in multimodal distributions for the three groups of populations with significant values of SSD and raggedness index for the ChαE7 gene, rejecting the null hypothesis of population expansion (Fig 3).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Demographic inference"
+    },
+    {
+      "id": "p_7e40d3ac",
+      "text": "From a total of 49 alleles, 31 had a glycine and 18 had an aspartate in position 137, while 43 had a tryptophan, 5 a serine and 1 a leucine in position 251 (S3 Table ). The presence of glycine (coded by GGG or GGC) and aspartate (coded by GAC or GAT) in position 137 are associated, respectively, with susceptibility and resistance to diethyl-organophosphates in dipterous species. The presence of tryptophan in position 251 (coded by TGG) defines the susceptible genotype, while serine and leucine (coded by TCG and TTG, respectively) are associated with dimethyl-organophosphates resistance. The substitution of the amino acid tryptophan by a leucine in position 251 was associated previously with dimethyl-organophosphates resistance in L. cuprina [24]. However, another study found that dimethyl-organophosphate resistant lineages of M. domestica have a serine substitution in place of a tryptophan [71], suggesting that substitution with small residues, such as leucine, glycine or serine could be the factor that leads to the increase of insecticide hydrolysis by carboxylesterase E3. No alleles with residues predicted to confer resistance in both sites positions were observed (i.e. aspartate in position 137; serine or leucine in position 251).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "[24]",
+          "offset_start": 751,
+          "offset_end": 755
+        },
+        {
+          "type": "bibr",
+          "target": "#b70",
+          "text": "[71]",
+          "offset_start": 903,
+          "offset_end": 907
+        }
+      ],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_16428a55",
+      "text": "Residue combinations in these two positions for 25 susceptible alleles and 24 resistant alleles did not reflect the real frequency of susceptibility and resistance in field populations. To explore this issue further, we specifically analyzed the two residues associated with insecticide resistance at the nucleotide level and considering allele frequencies taking into account the three groups for the ChαE7 gene.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_e330b6df",
+      "text": "Considering codon 137, the nucleotide present in the second position defines the susceptibility (guanine; named Gly137-G) or resistance (adenine; named Asp137-A). Similarly, the nucleotide present in the second position of codon 251 defines susceptibility (guanine; named Trp251-G) and the two resistant types (thymine and cytosine; named Leu251-T and Ser251-C, respectively). The frequencies of each nucleotide in these two codon positions for each group of sampling locations are showed in Fig 4.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_844d0dd0",
+      "text": "Group I (consisting only of BTO) showed the same frequencies of Gly137-G and Ser251-C (56%), and Asp137-A and Trp251-G (44%). Group II showed the same pattern of complementary frequencies for the Gly137-G and Ser251-C (75%) and for Asp137-A and Trp251-G (25%). In group III, the frequency of Asp137-A was 64% and that of Trp251-G was 82%, while the frequencies of Gly137-G and Ser251-C were 36% and 16%, respectively. This showed that there was a higher frequency of individuals in groups I and II with a genotype conferring resistance to dimethyl-organophosphates, while there was a higher frequency of diethyl-organophosphates resistant flies in group III. Another difference between these groups is the low frequency (less than 3%) of Leu251-T that appeared only in group III.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_e182e8ec",
+      "text": "These two polymorphic codon positions (second codon positions from codons 137 and 251) were not in Hardy-Weinberg equilibrium in the three groups of sampled locations, as the observed heterozygosity was smaller than expected (Table 6).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Positive selection"
+    },
+    {
+      "id": "p_1fb57496",
+      "text": "Partial characterization of the carboxylesterase E3 ChαE7 gene allowed its use as a nuclear molecular marker for comparisons with previously studied mitochondrial markers [38,39] and for investigation of the genetic and geographic structure, demographic history and selection pressure of NWS fly populations inhabiting the southern region of the Amazon river basin.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38,",
+          "offset_start": 171,
+          "offset_end": 175
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "39]",
+          "offset_start": 175,
+          "offset_end": 178
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_4f6ccfc6",
+      "text": "Based on the homologous ChαE7 sequence from L. cuprina [27], we expected to generate a fragment of around 921 bp following PCR amplification, instead of the approximately 2600 bp obtained for the NWS fly. This difference was due to the increased length of intron iII in the NWS fly. L. cuprina has a length of only approximately 280 bp [27], which is almost seven times smaller than the observed length for NWS fly (around 2000 bp). As a further comparison, the length of intron iII in D. melanogaster is 85 bp [72] and that in M. domestica is 63 bp [26]. This indicates that the length of intron iII has high variability within Muscomorpha. In contrast, intron iIII showed a smaller variation in length in the same species, as this was 63 bp in the NWS fly, 56 bp in L. cuprina [27], 58 bp in D. melanogaster [72] and 62 bp in M. domestica [26]. Unlike introns, the sequences of exons eIII and eIV are conserved with respect to the length, with only the D. melanogaster exon eIV presenting three more base pairs in the region analyzed, totalizing 321bp.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[27]",
+          "offset_start": 55,
+          "offset_end": 59
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[27]",
+          "offset_start": 336,
+          "offset_end": 340
+        },
+        {
+          "type": "bibr",
+          "target": "#b71",
+          "text": "[72]",
+          "offset_start": 511,
+          "offset_end": 515
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[26]",
+          "offset_start": 550,
+          "offset_end": 554
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[27]",
+          "offset_start": 779,
+          "offset_end": 783
+        },
+        {
+          "type": "bibr",
+          "target": "#b71",
+          "text": "[72]",
+          "offset_start": 810,
+          "offset_end": 814
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[26]",
+          "offset_start": 841,
+          "offset_end": 845
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_161faf8f",
+      "text": "The NWS fly ChαE7 nucleotide composition was similar to that of L. cuprina, consistent with their closer phylogenetic relationship. Both species showed a bias toward A+T content, which was suggested previously to be a remarkable feature of the mitochondrial genome of Calliphoridae species [73,74]. In general, a negative AT-skew and a positive GC-skew was observed, indicating different nucleotides usage. The skewness is a measure of the relative number of As to Ts, in the case of AT-skew, and Gs to Cs, in the case of GC-skew [75].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b72",
+          "text": "[73,",
+          "offset_start": 290,
+          "offset_end": 294
+        },
+        {
+          "type": "bibr",
+          "target": "#b73",
+          "text": "74]",
+          "offset_start": 294,
+          "offset_end": 297
+        },
+        {
+          "type": "bibr",
+          "target": "#b74",
+          "text": "[75]",
+          "offset_start": 530,
+          "offset_end": 534
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a1666a31",
+      "text": "The low genetic distance among haplotypes in both datasets reflects the low nucleotide diversity (π), although haplotype diversity (Ĥ) was high in both cases. This pattern of diversity is typically observed in a demographic scenario of recent populations expansion [76].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b75",
+          "text": "[76]",
+          "offset_start": 265,
+          "offset_end": 269
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_1269d4fd",
+      "text": "All population analyses pointed to an increased genetic structure of the carboxylesterase E3 ChαE7 gene in relation to the mitochondrial gene sequences. This was indicated by the AMOVA F ST value which was 2.5 times greater and a higher percentage of pairwise F ST significant values for the ChαE7 gene. In a similar manner, the DAPC and SAMOVA data showed the ChαE7 genetic structure of NWS fly populations, revealing three geographically non-concordant groups (K = 3). There was also an apparent North-South pattern of variability distribution, which did not appear to result from isolation-by-distance (IBD), as indicated by the non-significant Mantel tests between genetic and geographic distances. A previous investigation suggested that IBD can lead to false positives in tests of population structure and detection of loci evolving under selection [77], although the present finding of no correlation between geographic and genetic distances matrices indicates that the population structure detected is not biased or confounded by IBD. In this scenario, the three ChαE7 groups could result from selection because of regional differences of insecticide usage.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b76",
+          "text": "[77]",
+          "offset_start": 855,
+          "offset_end": 859
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_3abcdd11",
+      "text": "For mitochondrial data, the AMOVA F ST value was low and the BCR, BSA and APL locations showed the highest percentage of pairwise F ST significant values. BCR is located in Mato Grosso do Sul (MS), the central region of Brazil, while BSA is located in Rio Grande do Sul (RS), the southern region of Brazil. Both states are noted for high Brazilian cattle production, being the second and tenth in amount of slaughter in 2013, respectively [78]. Not all locations sampled in these two states showed an increased percentage of significant pairwise F ST values, indicating an unusual pattern of both locations which could be linked to the central points for cattle interchange between places. APL is the unique population sampled in Argentina (located near southern Brazil), which is also a region of high cattle production. The results of the DAPC and SAMOVA analyses supported a panmixia scenario for the mitochondrial gene data, consistent with a previous study [38], and therefore did not reveal a genetic/geographic structure of the sampled locations.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b77",
+          "text": "[78]",
+          "offset_start": 439,
+          "offset_end": 443
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 962,
+          "offset_end": 966
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2caeaf4d",
+      "text": "These findings are similar to results from other insect pests. The codling moth Cydia pomonella exhibits a low level of genetic structure in four countries (France, Italy, Armenia and Chile) based on seven microsatellite loci, probably due to its high capacity of migration, while a higher population differentiation was detected with insecticide resistance markers [79]. In addition, population differences in resistance are larger than differences in microsatellite variation for the Australian diamondback moth (Plutella xylostella), without evidence of spatial structure for resistance through IBD [80].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b78",
+          "text": "[79]",
+          "offset_start": 366,
+          "offset_end": 370
+        },
+        {
+          "type": "bibr",
+          "target": "#b79",
+          "text": "[80]",
+          "offset_start": 602,
+          "offset_end": 606
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_fdbd19f6",
+      "text": "Tajima's D, Fu's Fs and Fu & Li's D Ã and F Ã significant negative values and unimodal distribution of pairwise differences indicate a history of population expansion according to mitochondrial gene data. However, the finding of no significant results for these neutrality tests and multimodal distribution of pairwise differences for the ChαE7 gene indicates a different history which, in addition to the population analysis, supports the potential role of selection.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_41437268",
+      "text": "The results of Fay & Wu's H [70] neutrality test indicated positive selection on both exons (eIII and eIV) from groups II and III but not for group I. The absence of a positive selection signal in the case of group I could be due to sampling size since it was composed of only nine individuals from one location (BTO). Resistant genotypes had a high frequency in all sampled areas (Fig 4), with dimethyl-organophosphate resistance represented more in lower latitudes and diethyl-organophosphate resistance was greater in higher latitudes. These differences of ChαE7 allele frequencies could reflect the usage of different insecticide compounds in each geographic location. Alternatively, they could reflect differences in alleles frequencies of a Modifier locus, which has been related to a fitness compensation of the negative effects of both resistant mutations Gly137Asp and Trp251Leu (i.e. developmental instability) in L. cuprina [81][82][83].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b69",
+          "text": "[70]",
+          "offset_start": 28,
+          "offset_end": 32
+        },
+        {
+          "type": "bibr",
+          "target": "#b80",
+          "text": "[81]",
+          "offset_start": 935,
+          "offset_end": 939
+        },
+        {
+          "type": "bibr",
+          "target": "#b81",
+          "text": "[82]",
+          "offset_start": 939,
+          "offset_end": 943
+        },
+        {
+          "type": "bibr",
+          "target": "#b82",
+          "text": "[83]",
+          "offset_start": 943,
+          "offset_end": 947
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2ea82dee",
+      "text": "High levels of insecticide resistance are also observed for Aedes aegypti in three Brazilian states (Rio de Janeiro, Espírito Santo and Ceará) [84,85] and for the house fly Musca domestica in three Argentinean populations [86]. The horn fly, Haematobia irritans, showed high frequencies of the kdr mutation, associated with high levels of pyrethroid resistance, in southern Chile [87]. Our results, in addition to many other studies, indicate that insecticide resistance is widespread throughout South America. It is likely that use of different compounds for control of distinct insect species has led to resistance through multiple mechanisms, which should be cause for great concern.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b83",
+          "text": "[84,",
+          "offset_start": 143,
+          "offset_end": 147
+        },
+        {
+          "type": "bibr",
+          "target": "#b84",
+          "text": "85]",
+          "offset_start": 147,
+          "offset_end": 150
+        },
+        {
+          "type": "bibr",
+          "target": "#b85",
+          "text": "[86]",
+          "offset_start": 222,
+          "offset_end": 226
+        },
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": "[87]",
+          "offset_start": 380,
+          "offset_end": 384
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_ebb8b149",
+      "text": "A negative association between the mutations in the carboxylesterase E3 ChαE7 gene that confer resistance was detected, indicating that they are not present in the same allele. This was reported previously for L. cuprina [88] and NWS fly in four of the locations under investigation in the present study (UST, UDA, UBM and UCC) [89].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b87",
+          "text": "[88]",
+          "offset_start": 221,
+          "offset_end": 225
+        },
+        {
+          "type": "bibr",
+          "target": "#b88",
+          "text": "[89]",
+          "offset_start": 328,
+          "offset_end": 332
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_26522f05",
+      "text": "Taken together, the observed low heterozygosity in the two polymorphic codon positions associated with susceptibility and resistance, the negative association between nucleotides in the same codons and the significant negative Fay & Wu's H values for exons suggest that the ChαE7 gene may be undergoing evolution under positive selection. The present findings indicate that this could be due to the use of organophosphate compounds on NWS fly populations in South America. This is consistent with previous studies on the demographic history of this species [38,39]. Many recent population studies have investigated effects on mitochondrial and nuclear markers together, in attempts to understand the history of the species through genetic variation comparisons (for example, see [90,91]).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38,",
+          "offset_start": 557,
+          "offset_end": 561
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "39]",
+          "offset_start": 561,
+          "offset_end": 564
+        },
+        {
+          "type": "bibr",
+          "target": "#b89",
+          "text": "[90,",
+          "offset_start": 779,
+          "offset_end": 783
+        },
+        {
+          "type": "bibr",
+          "target": "#b90",
+          "text": "91]",
+          "offset_start": 783,
+          "offset_end": 786
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_8f2af8a2",
+      "text": "Livestock production began in the Americas around 500 years ago, resulting in the likely passive distribution and unclear geographic structure of this species and of some concordant insect pests. For example, approximately half of tick species have a genetic structure based mainly on the movement capacity of their respective hosts. Less mobile hosts typically support a low gene flow with highly structured tick populations. In contrast, highly mobile hosts allow a higher gene flow between ticks, leading to a low population structure [92]. As in the case of tick populations, the NWS fly has a notorious relation with its host during the larval stage and can be dispersed through host movement. However, the geographic structure of NWS fly populations has not been completely resolved and no clear boundaries between groups of populations have been identified. Genotyping-By-Sequencing (GBS) is a recent promising method that could be used to help achieve this aim, as this could lead to identification of hundreds or thousands of molecular markers (single nucleotide polymorphisms, SNPs) without the requirement of a completely sequenced genome [93].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b91",
+          "text": "[92]",
+          "offset_start": 538,
+          "offset_end": 542
+        },
+        {
+          "type": "bibr",
+          "target": "#b92",
+          "text": "[93]",
+          "offset_start": 1150,
+          "offset_end": 1154
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_f4e55301",
+      "text": "When selecting a target region for a SIT based program, it is important to analyze the insecticide susceptibility of populations. Here, we have confirmed that the two mutations in the carboxylesterase E3 ChαE7 gene associated with organophosphate resistance in many species, Gly137Asp and Trp251Leu, are also related to this mechanism in NWS fly through Darwinian selection. Additionally, we showed that NWS fly populations from SAG have high frequencies of organophosphate resistant genotypes, which can represent a barrier for the success of a control program based on SIT.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_97966ecb",
+      "text": "The genetic data presented here showed that at least three groups of NWS fly populations can be found in SAG, but with no clear geographic correlation, and resistance to organophosphate insecticides is widespread and found in high frequency in most of the analyzed locations. These aspects may represent barriers to implement a successful control program based on SIT. New studies based on dense SNP genotyping will be necessary in order to refine previous results of population structure and to identify additional molecular markers that could have evolved under positive selection. This will allow the detection and monitoring of other genes involved in insecticide resistance and their frequencies in natural populations.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusions"
+    },
+    {
+      "id": "p_50699b61",
+      "text": "We would like to thank Rosangela A. Rodrigues and Maria Salete Couto for laboratory and technical assistance.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgments"
+    },
+    {
+      "id": "p_3ac20812",
+      "text": "This work was supported by Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP, http://www.fapesp.br/) grant 2012/11654-9. LWB received a fellowship from FAPESP (2011/ 15739-6). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_176db2a8",
+      "text": "The five sequences obtained in characterization section, all new mitochondrial haplotypes and all esterase alleles sequences are available from the GenBank database (accession numbers KR067482 to KR067551).",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_d06d971c",
+      "text": "Application of Fay & Wu's H neutrality test showed statistically significant negative values for the exons eIII and eIV in groups II and III, indicating positive selection (Table 7). Both exons showed no significant results in group I, indicating that there was no positive selection signature. Intron iIII showed no significant values for any group, although this was expected since introns normally undergo neutral evolution. However, this test was not performed for intron iII due to absence of the corresponding sequence from another species that gives a good and reliably alignment, which is a prerogative for the test.",
+      "coords": [],
+      "refs": []
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig 1 .",
+      "type": "figure",
+      "desc": "Fig 1. Carboxylesterase E3 ChαE7 schematic view. Comparison of exon and intron lengths and position between (A) L. cuprina and (B) C. hominivorax.Exons and introns were named according to L. cuprina (e = exon; I = intron)[27]. The position of primers used for gene region characterization (7F0a, RN2, 7FIn1 and 7R1aN) and for posterior populational analyses (7FIn2, RN2 and 7R3a) are indicated by blue and red arrows, respectively. RN2 is indicated by a green arrow (used for both characterization and population analyses).",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 36.0,
+          "width": 78.01,
+          "height": 530.87
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "In addition, application of the Mantel test showed no correlation between geographic and genetic distances (r = 0.0445, p > 0.05; S1 Fig), indicating an absence of isolation-by-distance and no limited gene flow among NWS fly sampled locations. Therefore, all locations analyzed were considered as belonging to a unique group (K = 1) based on the mitochondrial data. In contrast, an increased degree of genetic structure was detectable based on the carboxylesterase E3 (ChαE7) gene according to DAPC and SAMOVA analyses, with K = 3 as the most probable geographic arrangement (Fig 2). SAMOVA indicated that K = 3 was the most probable scenario due to high F CT and low F SC values (Fig 2A). A North-South pattern was observed based on the DAPC results, with a higher frequency of individuals belonging to group Red and group Green in higher and lower latitudes, respectively (Fig 2B). Group Yellow was more frequent in some southern locations, such as BSA and UCO. The three genetically and geographically distinct groups, based on both analyses, were: I) BTO; II) BGN, BGO, BCA, BSS, BES, BFV and III) BCR, BAQ, BCI, PYB, BSA, UST, UPM, UDA, BPM, UBM, UCC, UCO, UJS, APL (Fig 2B). Mantel testing indicated no correlation between geographic and genetic distances (r = 0.2458, p = 0.05) (S1 Fig), with absence of isolation-by-distance among NWS flysampled locations.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_2",
+      "label": "2",
+      "head": "Fig 2 .",
+      "type": "figure",
+      "desc": "Fig 2. Structure analyses results for esterase data (K = 3). (A) SAMOVA F indices. F CT : differentiation between groups; F SC : differentiation between sampling locations within groups; F ST : differentiation between sites between groups. (B) Pie charts of the posterior probability to be from a group estimated by DAPC (i.e. Red, Yellow and Green) and SAMOVA grouping (i.e. I, II and III). SAMOVA groups (I, II and III), considered for posterior analyses, are defined by the grey, purple and blue contours.doi:10.1371/journal.pone.0128441.g002",
+      "note": "",
+      "coords": [
+        {
+          "x": 11.0,
+          "y": 200.01,
+          "width": 78.01,
+          "height": 299.0
+        }
+      ]
+    },
+    {
+      "id": "fig_3",
+      "label": "3",
+      "head": "Fig 3 .",
+      "type": "figure",
+      "desc": "Fig 3. Mismatch distribution analyses results. (A) Mitochondrial sequences considering the complete sample in a group. (B) ChαE7 sequences considering Group I. (C) ChαE7 sequences considering Group II. (D) ChαE7 sequences considering Group III from SAMOVA, respectively. doi:10.1371/journal.pone.0128441.g003",
+      "note": "",
+      "coords": [
+        {
+          "x": 13.0,
+          "y": 200.01,
+          "width": 78.01,
+          "height": 336.2
+        }
+      ]
+    },
+    {
+      "id": "36c7f2fc",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 14.0,
+          "y": 36.0,
+          "width": 78.01,
+          "height": 530.14
+        }
+      ]
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1 .",
+      "type": "table",
+      "desc": "NWS fly sampling locations.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Country",
+            "ID",
+            "Location",
+            "State/District",
+            "Latitude",
+            "Longitude",
+            "N"
+          ],
+          [
+            "Brazil",
+            "BTO",
+            "Touros",
+            "Rio Grande do Norte",
+            "05°17'S",
+            "35°33'W",
+            "9"
+          ],
+          [
+            "",
+            "BGN",
+            "Goianira",
+            "Goiás",
+            "16°32'S",
+            "49°22'W",
+            ""
+          ],
+          [
+            "",
+            "BGO",
+            "Goiânia",
+            "Goiás",
+            "16°43'S",
+            "49°15'W",
+            ""
+          ],
+          [
+            "",
+            "BCA",
+            "Caiapônia",
+            "Goiás",
+            "16°57'S",
+            "51°48'W",
+            ""
+          ],
+          [
+            "",
+            "BCR",
+            "Costa Rica City",
+            "Mato Grosso do Sul",
+            "18°32'S",
+            "53°07'W",
+            ""
+          ],
+          [
+            "",
+            "BAQ",
+            "Aquidauana",
+            "Mato Grosso do Sul",
+            "19°35'S",
+            "56°05'W",
+            ""
+          ],
+          [
+            "",
+            "BSS",
+            "São Seb. Paraíso",
+            "Minas Gerais",
+            "20°55'S",
+            "46°59'W",
+            ""
+          ],
+          [
+            "",
+            "BES",
+            "Estiva",
+            "Minas Gerais",
+            "22°27'S",
+            "46°01'W",
+            "9"
+          ],
+          [
+            "",
+            "BCI",
+            "Carambeí",
+            "Paraná",
+            "24°55'S",
+            "50°05'W",
+            ""
+          ],
+          [
+            "",
+            "BFV",
+            "Fagundes Varela",
+            "Rio Grande do Sul",
+            "28°52'S",
+            "51°41'W",
+            "9"
+          ],
+          [
+            "",
+            "BSA",
+            "Sto. Ant. Missões",
+            "Rio Grande do Sul",
+            "29°04'S",
+            "56°19'W",
+            ""
+          ],
+          [
+            "",
+            "BPM",
+            "Pinheiro Machado",
+            "Rio Grande do Sul",
+            "31°34'S",
+            "53°23'W",
+            ""
+          ],
+          [
+            "Paraguay",
+            "PYB",
+            "Ybytymi",
+            "Paraguarí",
+            "25°46'S",
+            "56°41'W",
+            ""
+          ],
+          [
+            "Uruguay",
+            "UPM",
+            "Paso Muñoz",
+            "Salto",
+            "31°27'S",
+            "56°23'W",
+            ""
+          ],
+          [
+            "",
+            "UST",
+            "San Antonio",
+            "Salto",
+            "31°24'S",
+            "57°58'W",
+            ""
+          ],
+          [
+            "",
+            "UDA",
+            "Daymán",
+            "Paysandú",
+            "31°33'S",
+            "57°57'W",
+            "7"
+          ],
+          [
+            "",
+            "UBM",
+            "Bañado de Medina",
+            "Cerro Largo",
+            "32°23'S",
+            "54°21'W",
+            ""
+          ],
+          [
+            "",
+            "UCC",
+            "Cerro Colorado",
+            "Florida",
+            "33°52'S",
+            "55°33'W",
+            ""
+          ],
+          [
+            "",
+            "UCO",
+            "Colonia",
+            "Colonia",
+            "34°28'S",
+            "57°51'W",
+            ""
+          ],
+          [
+            "",
+            "UJS",
+            "Juaquín Suarez",
+            "Canelones",
+            "34°44'S",
+            "56°02'W",
+            "9"
+          ],
+          [
+            "Argentina",
+            "APL",
+            "Lezama",
+            "Buenos Aires",
+            "35°52'S",
+            "57°53'W",
+            "4"
+          ]
+        ],
+        "metadata": {
+          "row_count": 22,
+          "column_count": 7,
+          "has_headers": false
+        }
+      },
+      "note": "ID = site identification code; N = number of sampled individuals. doi:10.1371/journal.pone.0128441.t001",
+      "coords": []
+    },
+    {
+      "id": "tab_1",
+      "label": "2",
+      "head": "Table 2 .",
+      "type": "table",
+      "desc": "Nucleotide composition of ChαE7 sequences from five NWS fly individuals and three Muscomorpha species.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Gene Region",
+            "Sample/Species",
+            "",
+            "",
+            "",
+            "Nucleotide Composition (%)",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "A",
+            "C",
+            "T",
+            "G",
+            "A+T",
+            "G+C",
+            "AT skew",
+            "GC skew"
+          ],
+          [
+            "exon eIII",
+            "BrCR20",
+            "29.33",
+            "13.33",
+            "36.67",
+            "20.67",
+            "66.00",
+            "34.00",
+            "-0.11",
+            "0.22"
+          ],
+          [
+            "",
+            "Ch22",
+            "29.33",
+            "12.67",
+            "37.33",
+            "20.67",
+            "66.67",
+            "33.33",
+            "-0.12",
+            "0.24"
+          ],
+          [
+            "",
+            "UyPa24",
+            "31.33",
+            "13.33",
+            "36.67",
+            "18.67",
+            "68.00",
+            "32.00",
+            "-0.08",
+            "0.17"
+          ],
+          [
+            "",
+            "UyPa12",
+            "30.00",
+            "14.00",
+            "36.67",
+            "19.33",
+            "66.67",
+            "33.33",
+            "-0.01",
+            "0.16"
+          ],
+          [
+            "",
+            "UySa21",
+            "30.00",
+            "14.67",
+            "36.00",
+            "19.33",
+            "66.00",
+            "34.00",
+            "-0.09",
+            "0.14"
+          ],
+          [
+            "",
+            "Lucilia cuprina*",
+            "29.33",
+            "14.67",
+            "35.33",
+            "20.67",
+            "64.67",
+            "35.33",
+            "-0.09",
+            "0.17"
+          ],
+          [
+            "",
+            "Drosophila melanogaster",
+            "22.00",
+            "20.67",
+            "26.00",
+            "31.33",
+            "48.00",
+            "52.00",
+            "-0.08",
+            "0.21"
+          ],
+          [
+            "",
+            "Musca domestica",
+            "23.33",
+            "19.33",
+            "32.00",
+            "25.33",
+            "55.33",
+            "44.67",
+            "-0.16",
+            "0.13"
+          ],
+          [
+            "exon eIV",
+            "BrCR20",
+            "27.36",
+            "16.67",
+            "33.65",
+            "22.33",
+            "61.01",
+            "38.99",
+            "-0.01",
+            "0.15"
+          ],
+          [
+            "",
+            "Ch22",
+            "27.36",
+            "16.67",
+            "33.65",
+            "22.33",
+            "61.01",
+            "38.99",
+            "-0.01",
+            "0.15"
+          ],
+          [
+            "",
+            "UyPa24",
+            "27.36",
+            "17.30",
+            "32.70",
+            "22.64",
+            "60.06",
+            "39.94",
+            "-0.09",
+            "0.13"
+          ],
+          [
+            "",
+            "UyPa12",
+            "27.99",
+            "16.67",
+            "32.70",
+            "22.64",
+            "60.69",
+            "39.31",
+            "-0.08",
+            "0.15"
+          ],
+          [
+            "",
+            "UySa21",
+            "27.36",
+            "17.30",
+            "32.70",
+            "22.64",
+            "60.06",
+            "39.94",
+            "-0.09",
+            "0.13"
+          ],
+          [
+            "",
+            "Lucilia cuprina*",
+            "27.04",
+            "21.70",
+            "29.25",
+            "22.01",
+            "56.29",
+            "43.71",
+            "-0.04",
+            "0.01"
+          ],
+          [
+            "",
+            "Drosophila melanogaster",
+            "24.92",
+            "26.48",
+            "22.43",
+            "26.17",
+            "47.35",
+            "52.65",
+            "0.05",
+            "-0.01"
+          ],
+          [
+            "",
+            "Musca domestica",
+            "27.36",
+            "22.64",
+            "24.53",
+            "25.47",
+            "51.89",
+            "48.11",
+            "0.05",
+            "0.06"
+          ],
+          [
+            "intron iII",
+            "BrCR20",
+            "34.49",
+            "14.51",
+            "35.06",
+            "15.95",
+            "69.55",
+            "30.45",
+            "-0.01",
+            "0.05"
+          ],
+          [
+            "",
+            "Ch22",
+            "34.49",
+            "14.51",
+            "35.06",
+            "15.95",
+            "69.55",
+            "30.45",
+            "-0.01",
+            "0.05"
+          ],
+          [
+            "",
+            "UyPa24",
+            "34.12",
+            "14.38",
+            "36.04",
+            "15.46",
+            "70.16",
+            "29.84",
+            "-0.03",
+            "0.04"
+          ],
+          [
+            "",
+            "UyPa12",
+            "33.26",
+            "16.67",
+            "34.40",
+            "15.67",
+            "67.66",
+            "32.34",
+            "-0.02",
+            "-0.03"
+          ],
+          [
+            "",
+            "UySa21",
+            "33.63",
+            "16.56",
+            "33.99",
+            "15.82",
+            "67.62",
+            "32.38",
+            "-0.01",
+            "-0.02"
+          ],
+          [
+            "",
+            "Lucilia cuprina**",
+            "32.22",
+            "4.44",
+            "47.41",
+            "15.93",
+            "79.63",
+            "20.37",
+            "-0.19",
+            "0.56"
+          ],
+          [
+            "",
+            "Drosophila melanogaster",
+            "34.52",
+            "11.90",
+            "41.67",
+            "11.90",
+            "76.19",
+            "23.81",
+            "-0.09",
+            "0.00"
+          ],
+          [
+            "intron iIII",
+            "BrCR20",
+            "34.92",
+            "12.70",
+            "42.86",
+            "9.52",
+            "77.78",
+            "22.22",
+            "-0.01",
+            "-0.14"
+          ],
+          [
+            "",
+            "Ch22",
+            "34.92",
+            "12.70",
+            "42.86",
+            "9.52",
+            "77.78",
+            "22.22",
+            "-0.01",
+            "-0.14"
+          ],
+          [
+            "",
+            "UyPa24",
+            "38.10",
+            "11.11",
+            "42.86",
+            "7.94",
+            "80.95",
+            "19.05",
+            "-0.06",
+            "-0.17"
+          ],
+          [
+            "",
+            "UyPa12",
+            "38.10",
+            "11.11",
+            "42.86",
+            "7.94",
+            "80.95",
+            "19.05",
+            "-0.06",
+            "-0.17"
+          ],
+          [
+            "",
+            "UySa21",
+            "36.51",
+            "12.70",
+            "42.86",
+            "7.94",
+            "79.37",
+            "20.63",
+            "-0.08",
+            "-0.23"
+          ],
+          [
+            "",
+            "Lucilia cuprina**",
+            "37.04",
+            "11.11",
+            "48.15",
+            "3.70",
+            "85.19",
+            "14.81",
+            "-0.13",
+            "-0.50"
+          ],
+          [
+            "",
+            "Drosophila melanogaster",
+            "29.82",
+            "19.30",
+            "35.09",
+            "15.79",
+            "64.91",
+            "35.09",
+            "-0.08",
+            "-0.01"
+          ],
+          [
+            "BrCR20, Ch22, UyPa12, UyPa24 and UySa21 indicate the five C. hominivorax individuals. Exons (eIII and eIV) and introns (iII and iIII) are",
+            ""
+          ],
+          [
+            "considered separately.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 34,
+          "column_count": 8,
+          "has_headers": false
+        }
+      },
+      "note": "* L. cuprina GenBank accession number U56636. ** L. cuprina GenBank accession number AY691508. doi:10.1371/journal.pone.0128441.t002",
+      "coords": []
+    },
+    {
+      "id": "tab_2",
+      "label": "3",
+      "head": "Table 3 .",
+      "type": "table",
+      "desc": "General diversity indices for mitochondrial CR, COI, COII and ChαE7 data in NWS fly sampling locations.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "ID",
+            "Concatenated CR,COI and COII",
+            "",
+            "",
+            "",
+            "ChαE7"
+          ],
+          [
+            "",
+            "Nh Haplotypes (no. of individuals)",
+            "Ĥ",
+            "π",
+            "Nh* Haplotypes (no. of individuals)",
+            "Ĥ*",
+            "π"
+          ],
+          [
+            "BTO",
+            "53(2), 64(2), 78(1), 140(2), 159(1), 166(1)",
+            "0.9167 0.0050 3",
+            "2(8), 3(8), 15(2)",
+            "0.6275 0.0164"
+          ],
+          [
+            "BGN",
+            "43(2), 59(1), 66(1), 80(1), 96(1), 134(1), 165(1), 286",
+            "0.9778 0.0055 3",
+            "1(2), 2(15), 3(3)",
+            "0.4263 0.0123"
+          ],
+          [
+            "",
+            "(1), 287(1)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BGO",
+            "1(2), 111(1), 185(2), 191(1), 283(3), 288(1)",
+            "0.8889 0.0043 2",
+            "2(18), 3(2)",
+            "0.1895 0.0052"
+          ],
+          [
+            "BCA",
+            "1(1), 51(1), 140(4), 150(1), 155(1), 169(1), 183(1)",
+            "0.8667 0.0032 4",
+            "1(3), 2(14), 3(2), 25(1)",
+            "0.5000 0.0144"
+          ],
+          [
+            "BCR",
+            "120(1), 125(1), 140(2), 143(5), 146(1)",
+            "0.7556 0.0015 6",
+            "1(6), 2(2), 3(9), 8(1), 26(1), 27(1)",
+            "0.7263 0.0155"
+          ],
+          [
+            "BAQ",
+            "112(1), 140(2), 141(2), 142(1), 189(1), 284(2), 289(1) 0.9333 0.0036 7",
+            "1(4), 2(2), 4(4), 7(4), 16(2), 17(2), 18(2)",
+            "0.8842 0.0206"
+          ],
+          [
+            "BSS",
+            "41(2), 118(1), 140(4), 187(2), 190(1)",
+            "0.8222 0.0038 3",
+            "2(16), 3(2), 13(2)",
+            "0.3579 0.0055"
+          ],
+          [
+            "BES",
+            "15(1), 50(1), 77(1), 103(1), 140(2), 187(2), 192(1)",
+            "0.9444 0.0044 5",
+            "1(3), 2(10), 3(3), 8(1), 28(1)",
+            "0.6667 0.0181"
+          ],
+          [
+            "BCI",
+            "51(1), 140(3), 147(1), 154(1), 169(1), 187(2), 193(1),",
+            "0.9394 0.0040 5",
+            "1(10), 2(8), 3(4), 5(1), 6(1)",
+            "0.7138 0.0199"
+          ],
+          [
+            "",
+            "290(1), 291(1)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BFV",
+            "14 (2), 19(1), 23(1), 78(1), 82(1), 140(1), 145(1), 292",
+            "0.9722 0.0040 4",
+            "1(4), 2(10), 11(2), 12(2)",
+            "0.6536 0.0165"
+          ],
+          [
+            "",
+            "(1)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BSA 21(1), 65(1), 67(1), 83(1), 115(1), 140(1), 170(1), 171",
+            "1",
+            "0.0043 3",
+            "1(15), 3(4), 31(1)",
+            "0.4158 0.0079"
+          ],
+          [
+            "",
+            "(1), 178(1), 293(1)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BPM",
+            "78(2), 85(1), 100(1), 122(1), 139(1), 140(1), 186(1),",
+            "0.9273 0.0046 7",
+            "1(13),2(2), 3(1), 5(2), 14(2), 29(1), 30(1) 0.6494 0.0164"
+          ],
+          [
+            "",
+            "188(3)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "PYB",
+            "9(1), 49(1), 63(1), 78(2), 137(1), 140(2), 167(1), 188",
+            "0.9556 0.0043 6",
+            "1(8), 2(7), 3(2), 4(1), 32(1), 33(1)",
+            "0.7368 0.0197"
+          ],
+          [
+            "",
+            "(1)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "UPM",
+            "75(1), 78(1), 99(1), 140(5), 296(1), 297(1)",
+            "0.7778 0.0041 8",
+            "1(8), 2(2), 3(3), 21(2), 22(2), 44(1), 45",
+            "0.8211 0.0202"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(1), 46(1)"
+          ],
+          [
+            "UST",
+            "42(1), 50(2), 81(1), 114(1), 140(2), 187(1), 294(1),",
+            "0.9556 0.0043 8",
+            "1(10), 2(1), 3(1), 6(3), 23(2), 47(1), 48",
+            "0.7421 0.0110"
+          ],
+          [
+            "",
+            "295(1)",
+            "",
+            "",
+            "",
+            "(1), 49(1)"
+          ],
+          [
+            "UDA",
+            "105(1), 119(1), 140(2), 152(2), 298(1)",
+            "0.9048 0.0029 5",
+            "1(6), 3(1), 4(2), 20(2), 24(2)",
+            "0.7912 0.0178"
+          ],
+          [
+            "UBM",
+            "25(1), 31(1), 74(1), 78(2), 86(1), 111(1), 140(2), 176",
+            "0.9455 0.0049 4",
+            "1(17), 2(3), 5(1), 36(1)",
+            "0.3983 0.0128"
+          ],
+          [
+            "",
+            "(2)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "UCC",
+            "27(2), 43(1), 97(1), 108(1), 113(1), 136(1), 140(1),",
+            "0.9778 0.0054 6",
+            "1(7), 2(8), 3(2), 8(1), 42(1), 43(1)",
+            "0.7368 0.0193"
+          ],
+          [
+            "",
+            "162(1), 177(1)",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "UCO",
+            "16(1), 140(2), 179(2), 185(1), 285(2), 299(1), 300(1)",
+            "0.9333 0.0055 9",
+            "1(6), 2(5), 3(3), 5(1), 37(1), 38(1), 39(1),",
+            "0.8526 0.0209"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "40(1), 41(1)"
+          ],
+          [
+            "UJS",
+            "5(1), 6(1), 71(3), 72(1), 121(1), 128(1), 301(1)",
+            "0.9167 0.0047 6",
+            "1(8), 9(3), 10(3), 19(2), 34(1), 35(1)",
+            "0.7712 0.0182"
+          ],
+          [
+            "APL",
+            "52(1), 68(2), 78(1)",
+            "0.8333 0.0027 6",
+            "1(3), 2(1), 3(1), 4(1), 5(1), 6(1)",
+            "0.8929 0.0227"
+          ]
+        ],
+        "metadata": {
+          "row_count": 34,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "Most frequent haplotypes are in bold. ID = site identification code; Nh = number of haplotypes; Nh* = number of phased haploid sequences; Ĥ = haplotipic diversity; Ĥ* = expected heterozygosity; π = nucleotidic diversity. doi:10.1371/journal.pone.0128441.t003",
+      "coords": []
+    },
+    {
+      "id": "tab_3",
+      "label": "4",
+      "head": "Table 4 .",
+      "type": "table",
+      "desc": "AMOVA results for mitochondrial (CR, COI and COII) and ChαE7 genes.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "CR, COI and COII",
+            "ChαE7"
+          ]
+        ],
+        "metadata": {
+          "row_count": 1,
+          "column_count": 2,
+          "has_headers": false
+        }
+      },
+      "note": "ST : Phi-ST parameter (fixation index). doi:10.1371/journal.pone.0128441.t004",
+      "coords": []
+    },
+    {
+      "id": "tab_4",
+      "label": "5",
+      "head": "Table 5 .",
+      "type": "table",
+      "desc": "Neutrality tests for mitochondrial (MIT) and ChαE7 sequence data.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Marker",
+            "Group",
+            "Gene Part",
+            "Tajima's D",
+            "Fu's Fs",
+            "Fu and Li's D*",
+            "Fu and Li's F*"
+          ],
+          [
+            "MIT",
+            "1 group",
+            "CR,COI,COII",
+            "-1,90249",
+            "-127,565",
+            "-4,81061",
+            "-4,13967"
+          ],
+          [
+            "ChαE7",
+            "Group I",
+            "intron iII",
+            "2,18639",
+            "5,10400",
+            "1,30779",
+            "1,78900"
+          ],
+          [
+            "",
+            "Group I",
+            "intron iIII",
+            "1,21656",
+            "1,66400",
+            "1,02360",
+            "1,23379"
+          ],
+          [
+            "",
+            "Group I",
+            "exon eIII",
+            "1,44464",
+            "3,85800",
+            "1,25898",
+            "1,50893"
+          ],
+          [
+            "",
+            "Group I",
+            "exon eIV",
+            "1,84421",
+            "3,52600",
+            "1,19899",
+            "1,58319"
+          ],
+          [
+            "",
+            "Group II",
+            "intron iII",
+            "0,89852",
+            "7,66100",
+            "1,46209",
+            "1,50027"
+          ],
+          [
+            "",
+            "Group II",
+            "intron iIII",
+            "1,51772",
+            "3,65300",
+            "0,67407",
+            "1,09669"
+          ],
+          [
+            "",
+            "Group II",
+            "exon eIII",
+            "1,10336",
+            "4,42200",
+            "1,02433",
+            "1,24009"
+          ],
+          [
+            "",
+            "Group II",
+            "exon eIV",
+            "0,90966",
+            "1,34100",
+            "0,13287",
+            "0,46537"
+          ],
+          [
+            "",
+            "Group III",
+            "intron iII",
+            "0,76406",
+            "0,449",
+            "-1,70743",
+            "-0,82276"
+          ],
+          [
+            "",
+            "Group III",
+            "intron iIII",
+            "-0,35839",
+            "-2,62800",
+            "1,30897",
+            "0,83630"
+          ],
+          [
+            "",
+            "Group III",
+            "exon eIII",
+            "0,12338",
+            "-4,53300",
+            "-1,48298",
+            "-1,05786"
+          ],
+          [
+            "",
+            "Group III",
+            "exon eIV",
+            "-0,48626",
+            "-2,91300",
+            "0,98188",
+            "0,49412"
+          ],
+          [
+            "Statistically significant values are in bold.",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "doi:10.1371/journal.pone.0128441.t005",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 16,
+          "column_count": 7,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_5",
+      "label": "7",
+      "head": "Table 7 .",
+      "type": "table",
+      "desc": "Fay and Wu's H neutrality test for the ChαE7 gene.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Grouping",
+            "",
+            "Gene Part",
+            "Fay & Wu's H"
+          ],
+          [
+            "3 groups",
+            "I",
+            "intron iII",
+            "-"
+          ],
+          [
+            "",
+            "",
+            "intron iIII",
+            "0.1569"
+          ],
+          [
+            "",
+            "",
+            "exon eIII",
+            "-2.8497"
+          ],
+          [
+            "",
+            "",
+            "exon eIV",
+            "-0.0523"
+          ],
+          [
+            "",
+            "II",
+            "intron iII",
+            "-"
+          ],
+          [
+            "",
+            "",
+            "intron iIII",
+            "-0.5043"
+          ],
+          [
+            "",
+            "",
+            "exon eIII",
+            "-3.1535"
+          ],
+          [
+            "",
+            "",
+            "exon eIV",
+            "-3.8918"
+          ],
+          [
+            "",
+            "III",
+            "intron iII",
+            "-"
+          ],
+          [
+            "",
+            "",
+            "intron iIII",
+            "0.1391"
+          ],
+          [
+            "",
+            "",
+            "exon eIII",
+            "-4.4285"
+          ],
+          [
+            "",
+            "",
+            "exon eIV",
+            "-6.6635"
+          ],
+          [
+            "Statistically significant values are in bold.",
+            "",
+            ""
+          ],
+          [
+            "doi:10.1371/journal.pone.0128441.t007",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 15,
+          "column_count": 4,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Note sur une larve d'oestride extraite du bras d'un homme à Cayenne",
+      "authors": "C Coquerel",
+      "journal": "Rev Mag Zool",
+      "publication_date": "1859",
+      "volume": "2",
+      "pages": "356"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Myiasis of humans and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Adv Parasitol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "257",
+      "page_end": "334",
+      "pmid": "7709854"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Myiasis in man and animals in the neotropical region",
+      "authors": [
+        "J Guimarães",
+        "N Papavero"
+      ],
+      "publisher": "FAPESP/Editora Plêiade",
+      "publication_date": "1999",
+      "year": 1999,
+      "pages": "308"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Screwworm eradication in the Americas",
+      "authors": "J Wyss",
+      "journal": "Ann N Y Acad Sci",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "916",
+      "page_start": "186",
+      "page_end": "193",
+      "pmid": "11193620"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Possibilities of insect control or eradication through the use of sexually sterile males",
+      "authors": "E Knipling",
+      "journal": "J Econ Entomol",
+      "publication_date": "1955",
+      "year": 1955,
+      "volume": "48",
+      "page_start": "459",
+      "page_end": "462"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "History of the sterile insect technique. Sterile insect technique: principles and practice in area-wide integrated pest management",
+      "authors": [
+        "W Klassen",
+        "C Curtis"
+      ],
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "3",
+      "page_end": "36"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Applying GIS and population genetics for managing livestock insect pests: case studies of tsetse and screwworm flies",
+      "authors": [
+        "U Feldmann",
+        "P Ready"
+      ],
+      "journal": "Acta Trop",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "138",
+      "doi": "10.1016/j.actatropica.2014.03.025",
+      "pmid": "24713196",
+      "notes": "Suppl: S1-5"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Applying spatial analysis of genetic and environmental data to predict connection corridors to the New World screwworm populations in South America",
+      "authors": [
+        "P Fresia",
+        "M Silver",
+        "T Mastrangelo",
+        "Aml Azeredo-Espin",
+        "M Lyra"
+      ],
+      "journal": "Acta Trop",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "138",
+      "doi": "10.1016/j.actatropica.2014.04.003",
+      "pmid": "24742908",
+      "notes": "Suppl: S34-41"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "The basic principles of insect population suppression and management. Washington",
+      "authors": [
+        "E Knipling",
+        "D"
+      ],
+      "publisher": "U.S. Dept. of Agriculture",
+      "publication_date": "1979",
+      "year": 1979,
+      "pages": "659"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Impact of screwworm eradication programmes using the sterile insect technique. Sterile insect technique: principles and practice in area-wide integrated pest management",
+      "authors": [
+        "M Vargas-Terán",
+        "H Hofmann",
+        "N Tweddle"
+      ],
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "629",
+      "page_end": "650"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Overview of insecticide resistance",
+      "authors": "G Georghiou",
+      "journal": "ACS Symp Ser",
+      "publication_date": "1990",
+      "year": 1990,
+      "volume": "421",
+      "page_start": "18",
+      "page_end": "41"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Molecular biology of insecticide resistance",
+      "authors": "R Feyereisen",
+      "journal": "Toxicol Lett",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "82",
+      "page_start": "83",
+      "page_end": "90",
+      "pmid": "8597150"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "The molecular basis of insecticide resistance in mosquitoes",
+      "authors": [
+        "J Hemingway",
+        "N Hawkes",
+        "L Mccarroll",
+        "H Ranson"
+      ],
+      "journal": "Insect Biochem Mol Biol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "34",
+      "page_start": "653",
+      "page_end": "665",
+      "pmid": "15242706"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Cholinesterase Inhibition in Spider Mites Susceptible and Resistant to Organophosphate",
+      "authors": "H Smissaert",
+      "journal": "Science",
+      "publication_date": "1964",
+      "year": 1964,
+      "volume": "80",
+      "page_start": "129",
+      "page_end": "131"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Comparative genomics: Insecticide resistance in mosquito vectors",
+      "authors": [
+        "M Weill",
+        "G Lutfalla",
+        "K Mogensen",
+        "F Chandre",
+        "A Berthomieu",
+        "C Berticat"
+      ],
+      "journal": "Nature",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "423",
+      "page_start": "136",
+      "page_end": "137",
+      "pmid": "12736674"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Mutations of acetylcholinesterase which confer insecticide resistance in insect populations",
+      "authors": "D Fournier",
+      "journal": "Chem Biol Interact",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "157",
+      "page_start": "257",
+      "page_end": "261"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Point mutations associated with organophosphate and carbamate resistance in Chinese strains of Culex pipiens quinquefasciatus (Diptera: Culicidae)",
+      "authors": [
+        "M Zhao",
+        "Y Dong",
+        "X Ran",
+        "Z Wu",
+        "X Guo",
+        "Y Zhang"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "9",
+      "pages": "95260",
+      "doi": "10.1371/journal.pone.0095260",
+      "pmid": "24788312"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Biochemistry of Esterases Associated with Organophosphate Resistance in Lucilia cuprina with Comparisons to Putative Orthologues in Other Diptera",
+      "authors": [
+        "P Campbell",
+        "J Trott",
+        "C Claudianos",
+        "K-A Smyth",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "Biochem Genet",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "35",
+      "page_start": "17",
+      "page_end": "40",
+      "pmid": "9238516"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Biochemical and Physiological Differences in the Malathion Carboxylesterase Activities of Malathion-Susceptible and -Resistant Lines of the Sheep Blowfly, Lucilia cuprina",
+      "authors": [
+        "K-A Smyth",
+        "V Walker",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "Pestic Biochem Physiol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "54",
+      "page_start": "48",
+      "page_end": "55"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Cross-Resistance Patterns Among Lucilia cuprina (Diptera: Calliphoridae) Resistant to organophosphorus Insecticides",
+      "authors": [
+        "P Campbell",
+        "J Yen",
+        "A Masoumi",
+        "R Russell",
+        "P Batterham",
+        "J Mckenzie"
+      ],
+      "journal": "J Econ Entomol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "91",
+      "page_start": "367",
+      "page_end": "375"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Two different amino acid substitutions in the ali-esterase, E3, confer alternative types of organophosphorus insecticide resistance in the sheep blowfly",
+      "authors": [
+        "P Campbell",
+        "R Newcomb",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "Lucilia cuprina. Insect Biochem Mol Biol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "28",
+      "page_start": "139",
+      "page_end": "150"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "A single amino acid substitution converts a carboxylesterase to an organophosphorus hydrolase and confers insecticide resistance on a blowfly",
+      "authors": [
+        "R Newcomb",
+        "P Campbell",
+        "D Ollis",
+        "E Cheah",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "Proc Natl Acad Sci",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "94",
+      "page_start": "7464",
+      "page_end": "7468",
+      "pmid": "9207114"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Hydrolysis of pyrethroids by carboxylesterases from Lucilia cuprina and Drosophila melanogaster with active sites modified by in vitro mutagenesis",
+      "authors": [
+        "R Heidari",
+        "A Devonshire",
+        "B Campbell",
+        "S Dorrian",
+        "J Oakeshott",
+        "R Russell"
+      ],
+      "journal": "Insect Biochem Mol Biol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "35",
+      "page_start": "597",
+      "page_end": "609",
+      "pmid": "15857765"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Multiple mutations and gene duplications conferring organophosphorus insecticide resistance have been selected at the Rop-1 locus of the sheep blowfly, Lucilia cuprina",
+      "authors": [
+        "R Newcomb",
+        "D Gleeson",
+        "C Yong",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "J Mol Evol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "60",
+      "page_start": "207",
+      "page_end": "220",
+      "pmid": "15785849"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Structure and function of an insect α-carboxylesterase (αEsterase7) associated with insecticide resistance",
+      "authors": [
+        "C Jackson",
+        "J-W Liu",
+        "P Carr",
+        "F Younus",
+        "C Coppin",
+        "T Meirelles"
+      ],
+      "journal": "Proc Natl Acad Sci U S A",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "110",
+      "page_start": "10177",
+      "page_end": "10182",
+      "doi": "10.1073/pnas.1304097110",
+      "pmid": "23733941"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "The same amino acid substitution in orthologous esterases confers organophosphate resistance on the house fly and a blowfly",
+      "authors": [
+        "C Claudianos",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "Insect Biochem Mol Biol",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "29",
+      "page_start": "675",
+      "page_end": "686",
+      "pmid": "10451921"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "cDNA cloning, baculovirus-expression and kinetic properties of the esterase, E3, involved in organophosphorus resistance in Lucilia cuprina",
+      "authors": [
+        "R Newcomb",
+        "P Campbell",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "journal": "Insect Biochem Mol Biol",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "27",
+      "page_start": "15",
+      "page_end": "25",
+      "pmid": "9061925"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "A survey of mutations in the Cochliomyia hominivorax (Diptera: Calliphoridae) esterase E3 gene associated with organophosphate resistance and the molecular identification of mutant alleles",
+      "authors": [
+        "R Carvalho",
+        "T Torres",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Vet Parasitol",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "140",
+      "page_start": "344",
+      "page_end": "351",
+      "pmid": "16701956"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Field, genetic, and modeling approaches show strong positive selection acting upon an insecticide resistance mutation in Anopheles gambiae s.s",
+      "authors": [
+        "A Lynd",
+        "D Weetman",
+        "S Barbosa",
+        "Egyir Yawson",
+        "A Mitchell",
+        "S Pinto",
+        "J"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "27",
+      "page_start": "1117",
+      "page_end": "1125",
+      "doi": "10.1093/molbev/msq002",
+      "pmid": "20056691"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Pre-invasion history and demography shape the genetic variation in the insecticide resistance-related acetylcholinesterase 2 gene in the invasive Colorado potato beetle",
+      "authors": [
+        "S Piiroinen",
+        "L Lindström",
+        "A Lyytinen",
+        "J Mappes",
+        "Y Chen",
+        "V Izzo"
+      ],
+      "journal": "BMC Evol Biol",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "13",
+      "pages": "13",
+      "doi": "10.1186/1471-2148-13-13",
+      "pmid": "23331855"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Making a case for molecular population genetic studies of arthropod vectors",
+      "authors": [
+        "W Tabachnick",
+        "W Black"
+      ],
+      "journal": "Parasitol Today",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "11",
+      "page_start": "27",
+      "page_end": "30"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Genetic variability in mitochondrial DNA of the screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae), from Brazil",
+      "authors": [
+        "Mei Vargas",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Biochem Genet",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "33",
+      "page_start": "237",
+      "page_end": "256",
+      "pmid": "8595051"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Random amplified polymorphic DNA of screwworm fly populations (Diptera: Calliphoridae) from Southeastern Brazil and Northern Argentina",
+      "authors": [
+        "Infante-Malachias Me Yotoko",
+        "Ksc Azeredo-Espin",
+        "Aml"
+      ],
+      "journal": "Genome",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "42",
+      "page_start": "772",
+      "page_end": "779"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Analysis of Mitochondrial DNA Variability and Genetic Structure in Populations of New World Screwworm Flies (Diptera: Calliphoridae) from Uruguay",
+      "authors": [
+        "M Lyra",
+        "P Fresia",
+        "S Gama",
+        "Cristina Klaczko",
+        "L Azeredo-Espin",
+        "Aml"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "42",
+      "page_start": "589",
+      "page_end": "595",
+      "pmid": "16119547"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Genetic approaches for studying myiasis-causing flies: molecular markers and mitochondrial genomics",
+      "authors": [
+        "Aml Azeredo-Espin",
+        "A Lessinger"
+      ],
+      "journal": "Genetica",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "126",
+      "page_start": "111",
+      "page_end": "131",
+      "pmid": "16502089"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Complex patterns of genetic variability in populations of the New World screwworm fly revealed by mitochondrial DNA markers",
+      "authors": [
+        "M Lyra",
+        "L Klaczko",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "issue": "Suppl 1",
+      "page_start": "32",
+      "page_end": "42",
+      "doi": "10.1111/j.1365-2915.2008.00776.x",
+      "pmid": "19335828"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Population genetics of New World screwworm from the Caribbean: insights from microsatellite data",
+      "authors": [
+        "T Torres",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "issue": "1",
+      "page_start": "23",
+      "page_end": "31",
+      "doi": "10.1111/j.1365-2915.2008.00786.x",
+      "pmid": "19335827"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Genetic Structure and Demographic History of New World Screwworm Across Its Current Geographic Range",
+      "authors": [
+        "P Fresia",
+        "M Lyra",
+        "A Coronado",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "48",
+      "page_start": "280",
+      "page_end": "290",
+      "pmid": "21485363"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "The Phylogeographic History of the New World Screwworm Fly, Inferred by Approximate Bayesian Computation Analysis",
+      "authors": [
+        "P Fresia",
+        "Aml Azeredo-Espin",
+        "M Lyra"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "8",
+      "pages": "76168",
+      "doi": "10.1371/journal.pone.0076168",
+      "pmid": "24098436"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Genetic diversity and population structure of the New World screwworm fly from the Amazon region of Brazil",
+      "authors": [
+        "T Mastrangelo",
+        "P Fresia",
+        "M Lyra",
+        "R Rodrigues",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Acta Trop",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "138",
+      "doi": "10.1016/j.actatropica.2014.04.002",
+      "pmid": "24731964",
+      "notes": "Suppl: S26-33"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Molecular characterization of esterase E3 gene associated with organophosphorus insecticide resistance in the New World screwworm fly, Cochliomyia hominivorax",
+      "authors": [
+        "R Carvalho",
+        "T Torres",
+        "M Paniago",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "issue": "1",
+      "page_start": "86",
+      "page_end": "91",
+      "doi": "10.1111/j.1365-2915.2008.00788.x",
+      "pmid": "19335834"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Primer3 on the WWW for general users and for biologist programmers",
+      "authors": [
+        "S Rozen",
+        "H Skaletsky"
+      ],
+      "journal": "Bioinformatics: methods and protocols",
+      "publication_date": "2000",
+      "year": 2000,
+      "page_start": "365",
+      "page_end": "386"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Base-Calling of Automated Sequencer Traces Using Phred. II. Error Probabilities",
+      "authors": [
+        "B Ewing",
+        "P Green"
+      ],
+      "journal": "Genome Res",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "8",
+      "page_start": "186",
+      "page_end": "194",
+      "pmid": "9521922"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Base-Calling of Automated Sequencer Traces Using Phred",
+      "authors": [
+        "B Ewing",
+        "L Hillier",
+        "M Wendl",
+        "P Green"
+      ],
+      "journal": "I. Accuracy Assessment. Genome Res",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "8",
+      "page_start": "175",
+      "page_end": "185",
+      "pmid": "9521921"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "title": "CAP3: A DNA Sequence Assembly Program",
+      "authors": [
+        "X Huang",
+        "A Madan"
+      ],
+      "journal": "Genome Res",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "9",
+      "page_start": "868",
+      "page_end": "877",
+      "pmid": "10508846"
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+      "authors": "J Thompson",
+      "journal": "Nucleic Acids Res",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "25",
+      "page_start": "4876",
+      "page_end": "4882",
+      "pmid": "9396791"
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "MUSCLE: multiple sequence alignment with high accuracy and high throughput",
+      "authors": "R Edgar",
+      "journal": "Nucleic Acids Res",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "32",
+      "page_start": "1792",
+      "page_end": "1797",
+      "pmid": "15034147"
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "MEGA5: molecular evolutionary genetics analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods",
+      "authors": [
+        "K Tamura",
+        "D Peterson",
+        "N Peterson",
+        "G Stecher",
+        "M Nei",
+        "S Kumar"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "28",
+      "page_start": "2731",
+      "page_end": "2739",
+      "doi": "10.1093/molbev/msr121",
+      "pmid": "21546353"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "Selection of Conserved Blocks from Multiple Alignments for Their Use in Phylogenetic Analysis",
+      "authors": "J Castresana",
+      "journal": "Mol Biol Evol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "17",
+      "page_start": "540",
+      "page_end": "552",
+      "pmid": "10742046"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "FaBox: an online toolbox for fasta sequences",
+      "authors": "P Villesen",
+      "journal": "Mol Ecol Notes",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "7",
+      "page_start": "965",
+      "page_end": "968"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "Simple methods for estimating the numbers of synonymous and nonsynonymous nucleotide substitutions",
+      "authors": [
+        "M Nei",
+        "T Gojobori"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "3",
+      "page_start": "418",
+      "page_end": "426",
+      "pmid": "3444411"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "DnaSP v5: a software for comprehensive analysis of DNA polymorphism data",
+      "authors": [
+        "P Librado",
+        "J Rozas"
+      ],
+      "journal": "Bioinformatics",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "25",
+      "page_start": "1451",
+      "page_end": "1452",
+      "doi": "10.1093/bioinformatics/btp187",
+      "pmid": "19346325"
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows",
+      "authors": [
+        "L Excoffier",
+        "Hel Lischer"
+      ],
+      "journal": "Mol Ecol Resour",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "10",
+      "page_start": "564",
+      "page_end": "567",
+      "doi": "10.1111/j.1755-0998.2010.02847.x",
+      "pmid": "21565059"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "Discriminant analysis of principal components: a new method for the analysis of genetically structured populations",
+      "authors": [
+        "T Jombart",
+        "S Devillard",
+        "F Balloux"
+      ],
+      "journal": "BMC Genet",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "11",
+      "pages": "94",
+      "doi": "10.1186/1471-2156-11-94",
+      "pmid": "20950446"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "title": "R: A language and environment for statistical computing",
+      "publisher": "R Development core team",
+      "publication_date": "2011",
+      "year": 2011,
+      "doi": "10.1016/j.neuroimage.2011.01.013",
+      "pmid": "21238596",
+      "urls": [
+        "http://www.R-project.org/",
+        "http://www.R-project.org/"
+      ]
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "A simulated annealing approach to define the genetic structure of populations",
+      "authors": [
+        "I Dupanloup",
+        "S Schneider",
+        "L Excoffier"
+      ],
+      "journal": "Mol Ecol",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "11",
+      "page_start": "2571",
+      "page_end": "2581",
+      "pmid": "12453240"
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "The Detection of Disease Clustering and a Generalized Regression Approach",
+      "authors": "N Mantel",
+      "journal": "Cancer Res",
+      "publication_date": "1967",
+      "year": 1967,
+      "volume": "27",
+      "page_start": "209",
+      "page_end": "220",
+      "pmid": "6018555"
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "A measure of population subdivision based on microsatellite allele frequencies",
+      "authors": "M Slatkin",
+      "journal": "Genetics",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "139",
+      "page_start": "457",
+      "page_end": "462",
+      "pmid": "7705646"
+    },
+    {
+      "id": "b59",
+      "target": "b58",
+      "title": "Isolation by distance, web service",
+      "authors": [
+        "J Jensen",
+        "A Bohonak",
+        "S Kelley"
+      ],
+      "journal": "BMC Genet",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "6",
+      "issue": "13",
+      "pmid": "15760479"
+    },
+    {
+      "id": "b60",
+      "target": "b59",
+      "title": "The Effect of Change in Population Size on DNA Polymorphism",
+      "authors": "F Tajima",
+      "journal": "Genetics",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "123",
+      "page_start": "597",
+      "page_end": "601",
+      "pmid": "2599369"
+    },
+    {
+      "id": "b61",
+      "target": "b60",
+      "title": "Statistical Tests of Neutrality of Mutations Against Population Growth, Hitchhiking and Background Selection",
+      "authors": "Y Fu",
+      "journal": "Genetics",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "147",
+      "page_start": "915",
+      "page_end": "925",
+      "pmid": "9335623"
+    },
+    {
+      "id": "b62",
+      "target": "b61",
+      "title": "Statistical Tests of Neutrality of Mutations",
+      "authors": [
+        "Y Fu",
+        "W Li"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "133",
+      "page_start": "693",
+      "page_end": "709",
+      "pmid": "8454210"
+    },
+    {
+      "id": "b63",
+      "target": "b62",
+      "title": "Analysis of Molecular Variance Inferred From Metric Distances Among DNA Haplotypes: Application to Human Mitochondrial DNA Restriction Data",
+      "authors": [
+        "L Excoffier",
+        "P Smouse",
+        "J Quattro"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "131",
+      "page_start": "479",
+      "page_end": "491",
+      "pmid": "1644282"
+    },
+    {
+      "id": "b64",
+      "target": "b63",
+      "title": "Population growth makes waves in the distribution of pairwise genetic differences",
+      "authors": [
+        "A Rogers",
+        "H Harpending"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "9",
+      "page_start": "552",
+      "page_end": "569",
+      "pmid": "1316531"
+    },
+    {
+      "id": "b65",
+      "target": "b64",
+      "title": "Pairwise comparisons of mitochondrial DNA sequences in subdivided populations and implications for early human evolution",
+      "authors": [
+        "P Marjoram",
+        "P Donnelly"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "136",
+      "page_start": "673",
+      "page_end": "683",
+      "pmid": "8150290"
+    },
+    {
+      "id": "b66",
+      "target": "b65",
+      "title": "The number of segregating sites in expanding human populations, with implications for estimates of demographic parameters",
+      "authors": [
+        "G Bertorelle",
+        "M Slatkin"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "12",
+      "page_start": "887",
+      "page_end": "892",
+      "pmid": "7476134"
+    },
+    {
+      "id": "b67",
+      "target": "b66",
+      "title": "Mitochondrial mismatch analysis is insensitive to the mutational process",
+      "authors": [
+        "A Rogers",
+        "A Fraley",
+        "M Bamshad",
+        "W Watkins",
+        "L Jorde"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "13",
+      "page_start": "895",
+      "page_end": "902",
+      "pmid": "8751998"
+    },
+    {
+      "id": "b68",
+      "target": "b67",
+      "title": "Estimation of Past Demographic Parameters From the Distribution of Pairwise Differences When the Mutation Rates Vary Among Sites: Application to Human Mitochondrial DNA",
+      "authors": [
+        "S Schneider",
+        "L Excoffier"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "152",
+      "page_start": "1079",
+      "page_end": "1089",
+      "pmid": "10388826"
+    },
+    {
+      "id": "b69",
+      "target": "b68",
+      "title": "Intra-deme molecular diversity in spatially expanding populations",
+      "authors": [
+        "N Ray",
+        "M Currat",
+        "L Excoffier"
+      ],
+      "journal": "Mol Biol Evol",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "20",
+      "page_start": "76",
+      "page_end": "86",
+      "pmid": "12519909"
+    },
+    {
+      "id": "b70",
+      "target": "b69",
+      "title": "Hitchhiking Under Positive Darwinian Selection",
+      "authors": [
+        "J Fay",
+        "C Wu"
+      ],
+      "journal": "Genetics",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "155",
+      "page_start": "1405",
+      "page_end": "1413",
+      "pmid": "10880498"
+    },
+    {
+      "id": "b71",
+      "target": "b70",
+      "title": "Determination of malathion and diazinon resistance by sequencing the MdαE7 gene from Guatemala, Colombia, Manhattan and Thailand housefly (Musca domestica) strains",
+      "authors": [
+        "V Taskin",
+        "M Kence",
+        "B Göçmen"
+      ],
+      "journal": "Russ J Genet",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "40",
+      "page_start": "377",
+      "page_end": "380"
+    },
+    {
+      "id": "b72",
+      "target": "b71",
+      "title": "Duplication and divergence of the genes of the α-esterase cluster of Drosophila melanogaster",
+      "authors": [
+        "C Robin",
+        "R Russell",
+        "K Medveczky",
+        "J Oakeshott"
+      ],
+      "journal": "J Mol Evol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "43",
+      "page_start": "241",
+      "page_end": "252",
+      "pmid": "8703090"
+    },
+    {
+      "id": "b73",
+      "target": "b72",
+      "title": "The mitochondrial genome of the primary screwworm fly Cochliomyia hominivorax (Diptera: Calliphoridae)",
+      "authors": [
+        "A Lessinger",
+        "Acm Junqueira",
+        "T Lemos",
+        "E Kemper",
+        "F Da Silva",
+        "A Vettore"
+      ],
+      "journal": "Insect Mol Biol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "page_start": "521",
+      "page_end": "529",
+      "pmid": "11029671"
+    },
+    {
+      "id": "b74",
+      "target": "b73",
+      "title": "The mitochondrial genome of the blowfly Chrysomya chloropyga (Diptera: Calliphoridae)",
+      "authors": [
+        "Acm Junqueira",
+        "A Lessinger",
+        "T Torres",
+        "F Silva",
+        "A Vettore",
+        "P Arruda"
+      ],
+      "journal": "Gene",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "339",
+      "page_start": "7",
+      "page_end": "15",
+      "pmid": "15363841"
+    },
+    {
+      "id": "b75",
+      "target": "b74",
+      "title": "Patterns of nucleotide composition at fourfold degenerate sites of animal mitochondrial genomes",
+      "authors": [
+        "N Perna",
+        "T Kocher"
+      ],
+      "journal": "J Mol Evol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "41",
+      "page_start": "353",
+      "page_end": "358",
+      "pmid": "7563121"
+    },
+    {
+      "id": "b76",
+      "target": "b75",
+      "title": "Phylogeography: The history and formation of species",
+      "authors": "J Avise",
+      "publisher": "Harvard University Press",
+      "publication_date": "2000",
+      "year": 2000,
+      "pages": "447"
+    },
+    {
+      "id": "b77",
+      "target": "b76",
+      "title": "The trouble with isolation by distance",
+      "authors": "P Meirmans",
+      "journal": "Mol Ecol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "21",
+      "page_start": "2839",
+      "page_end": "2846",
+      "doi": "10.1111/j.1365-294X.2012.05578.x",
+      "pmid": "22574758"
+    },
+    {
+      "id": "b78",
+      "target": "b77",
+      "title": "Associação Brasileira das Indústrias Exportadoras de Carne",
+      "authors": "Abiec",
+      "publication_date": "2013",
+      "year": 2013,
+      "urls": [
+        "www.abiec.com.br",
+        "www.abiec.com.br"
+      ]
+    },
+    {
+      "id": "b79",
+      "target": "b78",
+      "title": "Genetic architecture in codling moth populations: comparison between microsatellite and insecticide resistance markers",
+      "authors": [
+        "P Franck",
+        "M Reyes",
+        "J Olivares",
+        "B Sauphanor"
+      ],
+      "journal": "Mol Ecol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "16",
+      "page_start": "3554",
+      "page_end": "3564",
+      "pmid": "17845430"
+    },
+    {
+      "id": "b80",
+      "target": "b79",
+      "title": "The effects of local selection versus dispersal on insecticide resistance patterns: longitudinal evidence from diamondback moth (Plutella xylostella (Lepidoptera: Plutellidae)) in Australia evolving resistance to pyrethroids",
+      "authors": [
+        "N Endersby",
+        "P Ridland",
+        "A Hoffmann"
+      ],
+      "journal": "Bull Entomol Res",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "98",
+      "page_start": "145",
+      "page_end": "157",
+      "doi": "10.1017/S0007485307005494",
+      "pmid": "18211723"
+    },
+    {
+      "id": "b81",
+      "target": "b80",
+      "title": "The effect of genetic background on the fitness of diazinon resistance genotypes of the Australian sheep blowfly",
+      "authors": [
+        "J Mckenzie",
+        "M Whitten",
+        "M Adena"
+      ],
+      "journal": "Lucilia cuprina. Heredity (Edinb)",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "49",
+      "page_start": "1",
+      "page_end": "9"
+    },
+    {
+      "id": "b82",
+      "target": "b81",
+      "title": "Modification of developmental instability and fitness: Malathion-resistance in the Australian sheep blowfly, Lucilia cuprina",
+      "authors": [
+        "J Mckenzie",
+        "O' Farrell",
+        "K"
+      ],
+      "journal": "Genetica",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "89",
+      "page_start": "67",
+      "page_end": "76"
+    },
+    {
+      "id": "b83",
+      "target": "b82",
+      "title": "Asymmetry-where evolutionary and developmental genetics meet",
+      "authors": [
+        "P Batterham",
+        "A Davies",
+        "A Game",
+        "J Mckenzie"
+      ],
+      "journal": "Bioessays",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "18",
+      "page_start": "841",
+      "page_end": "845",
+      "pmid": "8885722"
+    },
+    {
+      "id": "b84",
+      "target": "b83",
+      "title": "Resistance of Aedes aegypti to organophosphates in several municipalities in the state of Rio de Janeiro and Espírito Santo, Brazil",
+      "authors": [
+        "Jbp Lima",
+        "M Cunha",
+        "Rcs Junior",
+        "Akr Galardo",
+        "S Soares",
+        "I Braga"
+      ],
+      "journal": "Am J Trop Med Hyg",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "68",
+      "page_start": "329",
+      "page_end": "333",
+      "pmid": "12685640"
+    },
+    {
+      "id": "b85",
+      "target": "b84",
+      "title": "Insecticide resistance in Aedes aegypti populations from Ceará",
+      "authors": [
+        "E Lima",
+        "Mhs Paiva",
+        "A Araújo",
+        "Evg Silva",
+        "U Silva",
+        "L Oliveira"
+      ],
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "4",
+      "pages": "5"
+    },
+    {
+      "id": "b86",
+      "target": "b85",
+      "title": "Insecticide resistance of house fly, Musca domestica (L.) from Argentina",
+      "authors": [
+        "G Acevedo",
+        "M Zapater",
+        "A Toloza"
+      ],
+      "journal": "Parasitol Res",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "105",
+      "page_start": "489",
+      "page_end": "493",
+      "doi": "10.1007/s00436-009-1425-x",
+      "pmid": "19340457"
+    },
+    {
+      "id": "b87",
+      "target": "b86",
+      "title": "High Levels of Insecticide Resistance in Introduced Horn Fly (Diptera: Muscidae) Populations and Implications for Management",
+      "authors": [
+        "M Oyarzún",
+        "A Li",
+        "C Figueroa"
+      ],
+      "journal": "J Econ Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "104",
+      "page_start": "258",
+      "page_end": "265",
+      "pmid": "21404866"
+    },
+    {
+      "id": "b88",
+      "target": "b87",
+      "title": "MCE activities and malathion resistances in field populations of the Australian sheep blowfly (Lucilia cuprina)",
+      "authors": [
+        "K-A Smyth",
+        "T Boyce",
+        "R Russell",
+        "J Oakeshott"
+      ],
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "84",
+      "page_start": "63",
+      "page_end": "72"
+    },
+    {
+      "id": "b89",
+      "target": "b88",
+      "title": "Changes in the frequency of the G137D and W251S mutations in the carboxylesterase E3 gene of Cochliomyia hominivorax (Diptera: Calliphoridae) populations from Uruguay",
+      "authors": [
+        "R Carvalho",
+        "Ceg Limia",
+        "C Bass",
+        "Aml Azeredo-Espin"
+      ],
+      "journal": "Vet Parasitol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "170",
+      "page_start": "297",
+      "page_end": "301",
+      "doi": "10.1016/j.vetpar.2010.02.029",
+      "pmid": "20299151"
+    },
+    {
+      "id": "b90",
+      "target": "b89",
+      "title": "Population and demographic structure of Ixodes scapularis Say in the eastern United States",
+      "authors": [
+        "J Sakamoto",
+        "J Goddard",
+        "J Rasgon"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "9",
+      "pages": "101389",
+      "doi": "10.1371/journal.pone.0101389",
+      "pmid": "25025532"
+    },
+    {
+      "id": "b91",
+      "target": "b90",
+      "title": "Assessing the phylogeographic history of the montane caddisfly Thremma gallicum using mitochondrial and restriction-site-associated DNA (RAD) markers",
+      "authors": [
+        "J-N Macher",
+        "A Rozenberg",
+        "S Pauls",
+        "R Tollrian",
+        "R Wagner",
+        "Leese"
+      ],
+      "journal": "Ecol Evol",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "5",
+      "page_start": "648",
+      "page_end": "662",
+      "doi": "10.1002/ece3.1366",
+      "pmid": "25691988"
+    },
+    {
+      "id": "b92",
+      "target": "b91",
+      "title": "Thirty years of tick population genetics: A comprehensive review",
+      "authors": [
+        "A Araya-Anchetta",
+        "J Busch",
+        "G Scoles",
+        "D Wagner"
+      ],
+      "journal": "Infect Genet Evol",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "29",
+      "page_start": "164",
+      "page_end": "179"
+    },
+    {
+      "id": "b93",
+      "target": "b92",
+      "title": "A robust, simple genotyping-by-sequencing (GBS) approach for high diversity species",
+      "authors": [
+        "R Elshire",
+        "J Glaubitz",
+        "Q Sun",
+        "J Poland",
+        "K Kawamoto",
+        "E Buckler"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "6",
+      "doi": "10.1371/journal.pone.0019379",
+      "pmid": "21573248"
+    }
+  ]
+}

@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">First Report of Human Myiasis in Goiás State, Brazil: Frequency of Different Types of Myiasis, Their Various Etiological Agents, and Associated Factors</title>
+				<funder ref="#_6my7RAn">
+					<orgName type="full">unknown</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Cientı ´fico e Tecnolo ´gico-CNPq</orgName>
+				</funder>
+				<funder ref="#_X8WBV4q #_aZ5Dckd">
+					<orgName type="full">Fundac ¸a ˜o de Apoio a `Pesquisa-UFG</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>American Society of Parasitologists</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2009-02">2009-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Ly</forename><forename type="middle">F</forename><surname>Fernandes</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Fabiana</forename><forename type="middle">C</forename><surname>Pimenta</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><forename type="middle">F</forename><surname>Fernandes</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>*</label> Setor de Microbiologia do Instituto de Patologia Tropical e Sau ´de Pu ´blica (IPTSP) da UFG . Universidade Federal de Goia ´s , Goia ˆnia , Goia ´s , 74.605-050 , Cx. Postal 131 , Brazil.</note>
+								<orgName type="department">Setor de Microbiologia do Instituto de Patologia Tropical e Sau ´de Pu ´blica (IPTSP)</orgName>
+								<orgName type="institution" key="instit1">UFG</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Goia ´s</orgName>
+								<address>
+									<addrLine>Goia ˆnia Goia ´s 74.605-050 Cx. Postal 131</addrLine>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">First Report of Human Myiasis in Goiás State, Brazil: Frequency of Different Types of Myiasis, Their Various Etiological Agents, and Associated Factors</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Parasitology</title>
+						<title level="j" type="abbrev">Journal of Parasitology</title>
+						<idno type="ISSN">0022-3395</idno>
+						<idno type="eISSN">1937-2345</idno>
+						<imprint>
+							<publisher>American Society of Parasitologists</publisher>
+							<biblScope unit="volume">95</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="32" to="38"/>
+							<date type="published" when="2009-02" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">AFBCFF9C4D6D384B4E308A44D6F8160B</idno>
+					<idno type="DOI">10.1645/ge-1103.1</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>FIRST REPORT OF HUMAN MYIASIS IN GOIA ´S STATE, BRAZIL: FREQUENCY OF DIFFERENT TYPES OF MYIASIS, THEIR VARIOUS ETIOLOGICAL AGENTS, AND ASSOCIATED FACTORS</head><p>Ly F. Fernandes, Fabiana C. Pimenta*, and Fernando F. Fernandes † Universidade Federal de Goia ´s (UFG), Faculdade de Medicina da UFG. Departamento de Clı ´nica Ciru ´rgica do Hospital das Clı ´nicas da UFG. Servic ¸o de Cirurgia Vascular. Primeira Avenida S/N Setor Universita ´rio CEP 74605-020, Goia ˆnia-Goia ´s, Brazil. e-mail: lyffreitas@gmail.com ABSTRACT: The objective of this study was to show which species of flies are responsible for human myiasis in the Brazilian state of Goia ´s and to determine the frequency of cases. Patients at the Clinical Hospital of the Federal University of Goia ´s (UFG) were examined, and any fly larvae found in their wounds were collected for taxonomic identification. First instar larvae were observed using light microscopy; second and third instars were examined using stereoscopy. The following screwworm flies were observed, in decreasing order of prevalence: Cochliomyia hominivorax, Sarcodexia lambens, Dermatobia hominis, Chrysomya albiceps, Chrysomya megacephala, Lucilia cuprina, and Eristalis tenax. Myiasis was most frequent in the legs in adults, male patients, elderly people, and people of reproductive age. It was lowest in children, females, and patients with neurologic or psychiatric disorders. Frequency was high in patients living in low socioeconomic conditions with poor personal hygiene. Education and sanitation measures are needed to counteract this situation.</p><p>Myiases (derived from the Greek term myia, meaning fly) are infestations of animal and human tissue by larvae of Diptera. Certain species of dipterans, particularly those of Muscomorpha, lay eggs or larvae on food, open wounds, skin, or mucosal tissue. Their larvae feed on live or necrotic tissues of the host or on foodstuffs <ref type="bibr" target="#b19">(Millikan, 1999;</ref><ref type="bibr" target="#b18">Linhares, 2005;</ref><ref type="bibr" target="#b20">Nascimento et al., 2005)</ref>.</p><p>Myiasis can be classified as obligatory, facultative, or pseudomyiasis, depending on the biology of the fly. Obligatory myiases are caused by larvae that develop while feeding in live tissues of the host. These species are the most harmful to mammalian hosts, including humans. The facultative myiases are caused by species whose larvae usually develop in decomposing organic matter (free-living larvae), but which also can act as parasites when developing in necrotic tissues of hosts. In pseudomyiasis, the eggs or larvae are accidentally swallowed with ingested food or contaminated water <ref type="bibr" target="#b19">(Millikan, 1999;</ref><ref type="bibr" target="#b18">Linhares, 2005)</ref>. The types of myiasis can also be clinically defined by the site of infection or affected tissues as follows: traumatic (or wound) myiasis; myiasis of the mouth (palate and periodontal), nose, nasopharynx, and accessory sinuses; lung myiasis; aural myiasis; ocular myiasis (internal and external); myiasis of the anal region and vagina; myiasis of the bladder and urinary tract; furuncular dermal or subdermal myiasis; creeping dermal eruption (cutaneous); and enteric myiasis (gastrointestinal, gastric, or intestinal) <ref type="bibr" target="#b14">(James, 1947)</ref>. The fly groups that are most commonly responsible for obligatory myiasis include Cuterebrinae <ref type="bibr">(Fernandes and Linardi, 2002;</ref><ref type="bibr" target="#b5">Fernandes, Chiarini-Garcia, and Linardi, 2004)</ref>, Sarcophagidae, and a few species of Calliphoridae that cause cutaneous and subdermal disease, mainly C. hominivorax in the New World <ref type="bibr">(Fernandes, Pimenta, and Linardi, 2004)</ref> and Chrysomya bezziana in the Old World, as well as Gasterophilinae in the digestive tract (mainly of equids) <ref type="bibr">(Fernandes et al., 2005)</ref>, Oestrinae in nasopharyngeal cavities (mainly of sheep), and Muscidae (Philornis sp.) in birds. Among those that cause accidental myiasis are Syrphidae (E. tenax), Stratiomyidae (Hermetia illuscens), and Tephritidae (Ceratitis capitata). Several species of Calliphoridae, Sarcophagidae, and Muscidae are known to cause facultative myiasis <ref type="bibr" target="#b10">(Guimara ˜es and Papavero, 1999)</ref>.</p><p>The importance of myiasis depends on the tissues attacked. It can be a serious problem to the host, especially when it occurs in tissue with no space for expansion due to proximity of bone, i.e., the eyes, nose, face, and ears <ref type="bibr" target="#b19">(Millikan, 1999)</ref>. However, in some instances, myiasis can be beneficial to the host, since the larvae of some species produce lysozymes that kill certain bacteria. These are then ingested, resulting in cleaning and digestion of necrotic tissues. Other species are able to stimulate angiogenesis through the movements of the larvae on the surface of the wound, with this being an accepted method of alternative healing therapy <ref type="bibr" target="#b17">(Lemos and Terra, 1991;</ref><ref type="bibr" target="#b13">Ito et al., 1995;</ref><ref type="bibr" target="#b19">Millikan, 1999)</ref>.</p><p>The absence of knowledge on the frequency or prevalence of the different kinds of myiases in the Brazilian state of Goia ´s State motivated the present study. Our study was designed to identify the etiologic agents of these myiases, to examine the different behaviors and biology of Muscomorpha species, and to develop new and more efficient strategies of control and prophylaxis against the flies that cause myiasis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head><p>Patients arrived for treatment at the emergency room of the Hospital das Clı ´nicas (HC) of the UFG, the most important, and only public, teaching hospital in the state, between February 2005 and August 2006. Those diagnosed with myiasis were selected for the present study. Lesions were treated and necrotic tissue and/or larvae found in patients were removed on admission. The wounds were washed with saline solution, and all standard care procedures were employed. Dipteran larvae from patients were collected in 2 polyethylene disposable containers, 1 containing 10% formaldehyde solution and the other empty.</p><p>The containers were taken to the Laboratory of Medical and Veterinary Artropodology of the Institute of Tropical Pathology and Public Health at UFG for identification of the larvae according to taxonomic keys <ref type="bibr" target="#b14">(James, 1947;</ref><ref type="bibr" target="#b25">Zumpt, 1965;</ref><ref type="bibr" target="#b23">Teskey, 1981;</ref><ref type="bibr" target="#b15">James, 1985;</ref><ref type="bibr" target="#b16">Leite and Lopes, 1989;</ref><ref type="bibr" target="#b21">Pape, 1996;</ref><ref type="bibr" target="#b22">Queiroz et al., 1997;</ref><ref type="bibr" target="#b10">Guimara ˜es and Papavero, 1999;</ref><ref type="bibr" target="#b24">Wells et al., 1999;</ref><ref type="bibr" target="#b0">Amorim and Ribeiro, 2001)</ref>. The larvae were then isolated until pupation was complete. Larval instars were maintained in Biological Oxygen Demand incubators at 27 Ϯ 1 C, (relative humidity) RH Ն80% under a 12:12 hr photoperiod, according to <ref type="bibr">Fernandes et al. (2002)</ref>, and fed with beef until pupation occurred. The newly pupated flies were then identified <ref type="bibr" target="#b15">(James, 1985;</ref><ref type="bibr" target="#b10">Guimara ˜es and Papavero, 1999)</ref>.</p><p>Patients and their relatives were interviewed to obtain information regarding socioeconomic levels and acquisition of the myiases, as well as to obtain permission to photograph and treat the wounds </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>Sixty-six patients were seen and treated between February 2005 and August 2006 at HC/UFG. Myiasis occurred in patients of both sexes aged 2-91 yr, although it was more common in males. Both furuncle and multiple forms were seen.</p><p>The myiases were subsequently classified: 47 (71.2%) were found to be obligatory, 16 (24.2%) facultative, and 2 (3.0%) both obligatory and facultative. Pseudomyiasis was observed in only 1 (1.5%) patient, who vomited larvae that were subsequently identified as E. tenax (Syrphidae) (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>The frequency of larval fly species identified in human wounds is shown in Figure <ref type="figure">2</ref>. These included C. hominivorax (41/66, 62.1%), S. lambens (8/66, 12.1%), D. hominis (7/66, 10.6%), C. albiceps (4/66, 6.1%), C. megacephala (3/66, 4.5%), L. cuprina (1/66, 1.5%), and E. tenax (1/66, 1.5%). Double infection occurred twice (3.0%), i.e., C. hominivorax and C. albiceps occurred together once, as did C. hominivorax and S. lambens.</p><p>Third instar larvae were the most common, occurring in 66.7% (44/66) of the cases, with first and second larval instars representing only 9.1% of the total (6/66). All instars were present in 24.2% (16/66) of the cases. Lesions harbored 1-261 larvae.</p><p>The interaction between myiases, disease, and predisposing factors is shown in Figure <ref type="figure" target="#fig_2">3</ref>. Myiasis was the result of wounds from various causes and necrosis was associated with myiasis in 19 (28.8%) of the cases. Other associated conditions included diabetes (15 cases, 22.7%); neuropathic ulcers caused by diabetes, alcoholism, and leprosy (14 cases, 21.2%); varicose ulcers and sequelae of leprosy (both in 7 cases, 10.6%); activities such as trips to forests, farms, or for fishing (6 cases, 9.1%) (D. hominis); alcoholism (5 cases, 7.6%); and neurologic pathologies (4 cases, 6.1%). These conditions also included 1 case of a sequel to cerebral ischemia in childbirth, 2 cases of strokes resulting from cerebral vascular accident, and another case as a sequel of a rote cerebral aneurysm. Infections were associated with other lesions such as traumatic lesions (3 cases, 4.5%); erysipelas (2 cases, 3.0%); osteomyelitis, impetigo, pediculosis, and otitis (4 cases, 6.1%); and rhinitis (2 cases, 3.0%).</p><p>Other factors included tumors (cancer) (3 cases, 4.5%) (breast, ovary, bladder); visual deficiency (1 case, 1.5%); drug dependence; surgical wounds such as tracheotomies (1 case, 1.5%); mycoses and oral breathing (2 cases each, 3.0%); lack of hygiene (4 cases, 6.1%); and schizophrenia (1 case, 1.5%). Factors indirectly associated included ischemia in 11 (16.7%) cases, i.e., ischemic ulcers as a result of chronic arterial obstruction caused by arteriosclerosis and peripheral arteriopathies.</p><p>Some cases showed arterial hypertension (3 cases, 4.5%), as well as cardiac disease and hyperuricemia (1 case each, 1.5%). Unidentified factors were noted in 5 cases (7.6%).</p><p>The patients were aged 2-91 yr, including 37 (56.1%) of working age (23-67 yr). Eighteen cases occurred in elderly patients (27.3%) and 11 in children (16.7%); prevalence was higher in adults (55 cases, 83.33%) than in children and nearly twice as frequent in males (43 cases, 65.1%) compared with females (23 cases, 34.8%). Myiasis was also more frequent in people of working age (37 cases, 56.1%) than in elderly, retired citizens (18 cases, 27.3%).</p><p>The frequency of myiasis treated were classified in relation to the localization of the lesions (clinical classification). Thirty cases (30/66, 45.4%) were observed in the feet, most commonly those of diabetics (11/30, 36.7%), and legs (14/66, 21.2%), including 3 diabetics (3/14, 21.4%). Others sites included the scalp (9/66, 13.6%), ears (3/66, 4.5%), retro-auricular (2/66, 3.0%), palate (1/66, 1.5%), tongue and gums (1/66, 1.5%), perorbital (1/66, 1.5%), nasal (2/66, 3.0%), tracheal (1/66, 1.5%), breast (1/66, 1.5%), and digestive tract (1/66, 1.5%). Multiple myiases occurred mainly on the legs (44/66, 66.7%), usually due to lack of care and parental attention, poor hygiene, and improper bandaging and cleansing of wounds. These factors produced odors that attracted flies. Several cases of children with multiple scalp myiasis were associated with pediculosis and impetigo.</p><p>Most clinical cases observed were associated with the lack of care and hygiene and low socioeconomic conditions (90.9%). Most of the patients earned the Brazilian minimum wage as their sole family income, with only 9.1% (6/66) receiving a slightly higher salary.</p><p>These myiases were in some cases related to mental, neurologic, or psychiatric deficiency or to ulcers of the legs due to deep vein thrombosis, complications of diabetes, bedridden patients, and children.</p><p>The interaction between climatic parameters and myiasis distribution found in the present study is shown in Figure <ref type="figure" target="#fig_3">4</ref>.</p><p>The chi-square test at P Ͻ 0.05 was used to show that associated environmental factors, necrosis, varicose veins, neuropathies, diabetes, sequelae of hanseniasis, alcoholism, osteomyelitis, erysipelas, mycoses, lack of hygiene, trauma, cancer, oral breathing, visual deficiency, drug dependence, tracheotomy, psychiatric and neurologic deficiencies, otitis, rhinitis, pe- diculosis, and impetigo (chi-square ϭ 0.001), as well as age (chi-square ϭ 0.006), all influenced the occurrence of the diagnosed myiases significantly. There was no significant difference in myiasis occurrence between the sexes (chi-square ϭ 0.218).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Among our group of patients, myiasis was most commonly found in poor and malnourished people who lived alone or were cared for by relatives who had little concern for their wellbeing. These results are consistent with those of studies conducted by <ref type="bibr" target="#b4">Durighetto et al. (1995)</ref>, which associated the appearance of myiases with improper care, substandard living and hygienic conditions, malnutrition, alcoholism, mental retardation, senility, trauma, paralysis, oral breathing during sleep, and the presence of necrosis or infection; all of these conditions can be attractive to flies <ref type="bibr" target="#b4">(Durighetto et al., 1995)</ref>.</p><p>Although other studies have shown myiasis to occur in people with good living conditions, high income, and education, most of those cases occurred among patients in intensive care units <ref type="bibr" target="#b1">(Beckendorf et al., 2002;</ref><ref type="bibr" target="#b2">Chigusa, Kirinoki, and Matsuda, 2005;</ref><ref type="bibr">Chigusa, Nemoto et al., 2005)</ref>. These individuals did not receive special attention for wound dressing; loss of motility and consciousness, puncture wounds, draining of abscesses, assisted breathing and tracheal tubes, and other injuries resulting from the continuous exposure of mucosae to secretions seem to favor the occurrence of these pathologies.</p><p>Recent studies indicate that D. hominis and C. hominivorax are the predominant agents of human myiases in the New Word <ref type="bibr" target="#b20">(Nascimento et al., 2005)</ref>, as well as of human and domestic or wild animals worldwide <ref type="bibr" target="#b11">(Hall and Wall, 1995;</ref><ref type="bibr" target="#b10">Guimara ˜es and Papavero, 1999)</ref>. The latter species was also predominant in the myiases diagnosed in our study (Fig. <ref type="figure">2</ref>).</p><p>Myiases generally caused by D. hominis include a furuncular skin variety in which the larva is commonly known in Brazil as a ''berne.'' Furuncular myiasis observed in the present study always resulted from trips to farms, contact with forests, or fishing trips. This form occurs mainly among inhabitants of forested area habitats where flies that act as phoretic hosts of the egg are abundant. These hosts include day-flying mosquitoes and zoophilic flies (Culicidae, Simuliidae, some members of Tabanidae, Fanniidae, Anthomyiidae, Muscidae, Sarcophagidae, Calliphoridae) (Guimara ˜es and Papavero, 1999). These phoretic dipterans are detected by female D. hominis on their hosts by olfactory sensilla, microscopic sensorial organs that contain pores for penetration of the odors and are associated with neurons in the hypodermis <ref type="bibr">(Halberg and Hansson, 1999)</ref>. These neurons are located mainly in the antennae <ref type="bibr">(Fernandes et al., 2002;</ref><ref type="bibr">Fernandes, Pimenta, and Linardi, 2004</ref>) and mouthparts of D. hominis <ref type="bibr">(Fernandes and Linardi, 2002)</ref>. Other sensilla of the gustatory type (also known as contact-chemoreceptor sensilla) are used at close distances for locating phoretic dipterans, sexual partners, foods, and oviposition sites. These sensilla contain an apical pore and are present mainly around the labella, genae, ovipositor, and tarsi of the Muscomorpha <ref type="bibr">(Fernandes and Linardi, 2002;</ref><ref type="bibr" target="#b5">Fernandes, Chiarini-Garcia, and Linardi, 2004;</ref><ref type="bibr">Fernandes et al., 2005)</ref>.</p><p>The absence of larvae of the Neotropical calliphorid Cochliomyia macellaria can be explained by its increasing rarity as a result of competition with introduced Old World species with superior biotic potential (Guimara ˜es and Papavero, 1999). These include C. albiceps, which was collected during the present study (Fig. <ref type="figure">2</ref>).</p><p>Diabetics and people with sequelae of leprosy, alcoholism with neuropathy, and digit wounds, as well as those with hyperkeratosic lesions of the skin, have a greater tendency to suffer infestations, due to their lack of sensitivity and the higher probability of having lesions. Venous ulcers (Fig. <ref type="figure" target="#fig_4">5A</ref>), ischemia, and necrosis (Fig. <ref type="figure" target="#fig_4">5B</ref>) are often associated with myiases.</p><p>Patients with neurologic and psychiatric pathologies such as strokes, medullar lesions, and physical deficiencies, as well as bedridden individuals, presented lesions with higher numbers of larvae in unusual regions, such as the periorbital and periodontal regions and tongue. Although a higher prevalence of myiases was expected in patients with neurologic sequelae, they occurred more frequently in professionally active people.</p><p>Most infestations, however, occurred in people with inadequate hygiene and care rather than in bedridden individuals. There was a higher prevalence in people with lower economic conditions, which can be related to inadequate care. Many more cases were recorded in patients with low socioeconomic levels, substandard living conditions, a lack of hygiene or housing, inadequate care for lesions, or daily failure to change dressings and maintain cleanliness of the wounds. Larvae were observed to pass through dressings wet with secretion (Fig. <ref type="figure" target="#fig_4">5F</ref>).</p><p>Myiasis was also associated with pediculosis, impetigo, and parental negligence of children who were often taken care of by other children (Figs. <ref type="figure" target="#fig_4">5C-D</ref>). It is very important to change wound dressings daily or whenever the lesion becomes wet with secretion to prevent the attraction of flies. Flies are also attracted to odor associated with chronic otitis media. Although myiasis is generally very harmful, in one case of necrotic erysipelas, infestation with L. cuprina larvae (Fig. <ref type="figure" target="#fig_4">5E</ref>) helped cleanse the wound and promoted good granulation of the subdermal tissues. This suggests that further studies should be made of larval use in wound therapy.</p><p>Temperature appeared to exert minor influence, with little variation observed in the evolution of cases. However, tropical climates are presumably favorable to the development of Muscomorpha species throughout the year. Relative humidity and rainfall positively influenced the occurrence of myiasis from November of 2005 to March 2006 (Fig. <ref type="figure" target="#fig_3">4</ref>).</p><p>Although the present study was conducted in the most important public hospital of the Goia ´s State, we believe that it does not reflect the true prevalence of human myiasis in this state. The findings are in agreement with those of <ref type="bibr" target="#b20">Nascimento et al. (2005)</ref> in discounting the view prevalent in the literature that myiasis is rare in humans.</p><p>In the present study, underreporting of the disease was observed to be due to factors such as (1) myiasis not being an illness of obligatory registration; (2) general revulsion toward the patient by health professionals, leading to larvae and dressings being discarded without further examination; (3) health professionals judging myiasis to be a disease of minor importance; (4) domestic, empirical treatment of patients by family members; and (5) treatment of cases in health facilities close to where patients reside.</p><p>Other difficulties in determining the true prevalence include lack of computerized data entry due to scarcity of resources and staff, inability to carry out retrospective studies, and ignorance on the part of many health professionals regarding the different types of myiasis and their characteristics, resulting in the lack of detailed reports. However, on rare occasions, physicians may send samples of larvae to entomology laboratories specializing in Muscomorpha taxonomy and identification.</p><p>The present study is the first to deal with the occurrence of human myiasis in Goia ´s. We hope to increase awareness of health professionals as to the importance of recording cases of myiasis and identifying the species involved. These data may indicate which treatment or prophylactic measures should be used for each patient and help in the design of control strategies.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>FIGURE 1 .</head><label>1</label><figDesc>FIGURE 1. Parasitological classification of myiasis in patients of the UFG-Hospital das Clı ´nicas belonging to different sex and age groups, February 2005-August 2006. FIGURE 2. Etiology of myiasis diagnosed in patients at the UFG-Hospital das Clı ´nicas, February 2005-August 2006.</figDesc><graphic coords="3,318.55,77.00,250.81,176.44" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>. The study was conducted under the regulations established by the Ethics Commission in Human and Animal Medical Research (CEPMHA/HC/UFG nЊ 044/2005).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>FIGURE 3 .</head><label>3</label><figDesc>FIGURE 3. Factors associated with cases of myiasis diagnosed in patients at the UFG-Hospital das Clı ´nicas, February 2005-August 2006.</figDesc><graphic coords="4,119.30,77.00,362.43,506.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>FIGURE 4 .</head><label>4</label><figDesc>FIGURE 4. Correlation between climatic parameters and myiasis distribution from patients attending the UFG-Hospital das Clı ´nicas, February 2005-August 2006.</figDesc><graphic coords="5,55.25,77.00,513.49,284.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>FIGURE 5 .</head><label>5</label><figDesc>FIGURE 5. (A-F) Myiasis caused by C. hominivorax. (A) Varicose ulcer in right leg with larvae. (B) Larvae removal. (C) Child with pediculosis, impetigo, and scalp myiasis (D). High magnification of area (box) showing scalp lesion with larvae (E). Nasal myiasis. (F) Myiasis on calcaneus. (G) C. hominivorax larvae. (H) Adult C. hominivorax. (I) Myiasis by Sarcophagidae on feet with necrosis. (J) Adult Sarcophagidae. (K) Retroauricular Dermatobiosis. (L) Adult D. hominis. a, b, c, and d, scalp myiasis; arrow, dead larvae; arrowhead, posterior spiracles of live larvae.</figDesc><graphic coords="6,96.75,77.00,407.47,465.23" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>We thank the <rs type="funder">Conselho Nacional de Desenvolvimento Cientı ´fico e Tecnolo ´gico-CNPq</rs> (Brazilian government entity promoting scientific and technological development) and <rs type="funder">Fundac ¸a ˜o de Apoio a `Pesquisa-UFG</rs> for partial financial support, as well as colleagues of the LAMV that helped with the creation of part of the studied specimens and employees, nurses, and medical staff who sent patients, particularly <rs type="person">Elisa T. Gomes</rs> and <rs type="person">J. Jurandir Moraes</rs>. We also thank <rs type="person">Professor Dr. Nelder F. Gontijo</rs> for photographs used in Figures <ref type="figure">5H</ref> and <ref type="figure">5L</ref>. This research is part of <rs type="person">L. F. Fernandes</rs>' <rs type="projectName">Master Dissertation in Tropical Medicine/Pro-grama de Po ´s-Graduac ¸a ˜o em Medicina Tropical</rs>, <rs type="affiliation">Institute of Tropical Pathology and Public Health, Federal University of Goia ´s</rs>.</p></div>
+			</div>
+			<div type="funding">
+<div><p>† <rs type="institution">Laborato ´rio de Artropodologia Me ´dica e Veterina ´ria (LAMV) do Setor de Parasitologia do (IPTSP) da UFG</rs>, <rs type="person">Rua 235</rs>, s/n.Њ, Setor Universita ´rio-Caixa Postal <rs type="grantNumber">131 CEP 74.605-050</rs> Goia ˆnia-Goia ´s, Brazil.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_X8WBV4q">
+					<idno type="grant-number">5H</idno>
+				</org>
+				<org type="funded-project" xml:id="_aZ5Dckd">
+					<idno type="grant-number">5L</idno>
+					<orgName type="project" subtype="full">Master Dissertation in Tropical Medicine/Pro-grama de Po ´s-Graduac ¸a ˜o em Medicina Tropical</orgName>
+				</org>
+				<org type="funding" xml:id="_6my7RAn">
+					<idno type="grant-number">131 CEP 74.605-050</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Distinction among the puparia of three blowfly species (Diptera: Calliphoridae) frequently found on unburied corpses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memo ´ria do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="781" to="784" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Nasal myiasis in an intensive care unit linked to hospital wide mouse infestation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Beckendorf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Klotz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Hinkle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">And</forename><forename type="middle">W</forename><surname>Bartholomew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="638" to="640" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Nosocomial myiasis due to Sarcophaga peregrina in an intensive care unit (ICU) in Japan</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Chigusa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kirinoki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Matsuda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Entomology and Zoology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="355" to="358" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Oral myiasis due to Lucilia sericata (Diptera: Calliphoridae) on a patient suffered from cerebral contusion, which was discovered in an intensive care unit (ICU) of a general hospital</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nemoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kirinoki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Matsuda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Entomology and Zoology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="251" to="255" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Miı ´ases orais: Aspectos clı ´nico-laboratoriais de um caso humano</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Durighetto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Favoreto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>˜es</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista de Odontologia do Brasil Central</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="19" to="22" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Scanning electron microscopy studies of sensilla and other structures of adult Dermatobia hominis (L. Jr., 1781) (Diptera: Cuterebridae)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chiarini-Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">And</forename><forename type="middle">P M</forename><surname>Linardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="552" to="560" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ultrastructure of contact-chemoreceptor sensilla found among the genae of female Gasterophilus nasalis</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P S</forename><surname>Freitas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Linardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F P</forename><surname>Pimenta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1218" to="1220" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Morphology of the antenna of Dermatobia hominis (Diptera: Cuterebridae) based on scanning electron microscopy</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Linardi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Chiarini-Garcia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="36" to="46" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Observations on mouthparts of Dermatobia hominis (Linneaus Jr., 1781) (Diptera: Cuterebridae) by scanning electron microscopy</title>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="191" to="194" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Antennal sensilla of the new world screwworm fly Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F P</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Linardi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="545" to="551" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Myiasis in man and animals in the Neotropical region; bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ple ˆiade/FAPESP</title>
+		<imprint>
+			<biblScope unit="page">308</biblScope>
+			<date type="published" when="1999">1999</date>
+			<publisher>Sa ˜o Paulo</publisher>
+			<pubPlace>Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Myiasis of humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J R</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Arthropod sensilla: Morphology and phylogenetici considerations</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hallberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Hansson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Microscopy Research and Technique</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="428" to="439" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Insect lysozyme from house fly (Musca domestica) larvae: Possible digestive function based on sequence and enzymatic properties</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Imoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="546" to="551" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The flies that cause myiasis in man. United States Department of Agriculture/Miscellaneous publication 631</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1947">1947</date>
+			<publisher>Washington, D.C</publisher>
+			<biblScope unit="page">175</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A revision of the New World Chrysomyini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>James</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="169" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Studies on male genitalia of Sarcophagidae (Diptera) based on scanning electron microscope observations</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C R</forename><surname>Leite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memo ´rias do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="189" to="199" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Digestion of bacteria and the role of midigut lysozyme in some insect larvae</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Terra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comparative Biochemistry and Physiology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page" from="265" to="268" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Miı ´ases</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Parasitologia humana</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Neves</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="387" to="395" />
+		</imprint>
+	</monogr>
+	<note>th ed. Atheneu, Sa ˜o Paulo</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Millikan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Myiasis. Clinics in Dermatology</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="191" to="195" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M F</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E R</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L F</forename><surname>Leal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya Borja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Miı ´ases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera, Calliphoridae) em hospitais pu ´blicos na Cidade do Recife</title>
+		<meeting><address><addrLine>Pernambuco</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="37" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Catalogue of the Sarcophagidae of the world (Insecta: Diptera)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memoirs of Entomology International</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="5" to="58" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Morphological aspects of the larval instars of Chrysomya albiceps (Diptera, Calliphoridae) reared in the laboratory</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P L</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Marli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memo ´ria do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="187" to="196" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Key to families-larvae</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Teskey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agriculture Canada Monograph</title>
+		<editor>
+			<persName><forename type="first">Manual</forename><surname>Of</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Neartic</forename><surname>Dip-Tera</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">1</forename><forename type="middle">J F</forename><surname>Macalpine</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="125" to="147" />
+			<date type="published" when="1981">1981</date>
+			<pubPlace>Ottawa, Ontario</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Key to third-instars Chrysomyinae (Diptera: Calliphoridae) from carrion in the continental United States</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Tantawi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="638" to="641" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World. Butterworths</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">ECTOPARASITOS EM REBANHOS DE CAPRINOS E OVINOS NA MICRORREGIÃO DO ALTO MEARIM E GRAJAÚ, ESTADO DO MARANHÃO</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Danilo</forename><forename type="middle">R B</forename><surname>Brito</surname></persName>
+							<email>danilobbrito@hotmail.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Parasitologia Veterinária , Departamento de Patologia , Universidade Estadual do Maranhão (UEMA) , Cidade Universitária Paulo VI , Caixa Postal 09 , São Luís , 65055-970 Maranhão , Brasil.</note>
+								<orgName type="department">Departamento de Patologia</orgName>
+								<orgName type="laboratory">Laboratório de Parasitologia Veterinária</orgName>
+								<orgName type="institution" key="instit1">Universidade Estadual do Maranhão (UEMA)</orgName>
+								<orgName type="institution" key="instit2">Cidade Universitária Paulo VI</orgName>
+								<address>
+									<addrLine>Caixa Postal 09</addrLine>
+									<postCode>65055-970</postCode>
+									<settlement>São Luís Maranhão</settlement>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Ana</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Clara</forename><forename type="middle">G</forename><surname>Santos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rita</forename><forename type="middle">M S N C</forename><surname>Guerra</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Departamento de Patologia , Universidade Estadual do Maranhão , Cidade Universitária Paulo VI , Caixa Postal 09 , São Luís , MA 65055- 970 .</note>
+								<orgName type="department">Departamento de Patologia</orgName>
+								<orgName type="institution" key="instit1">Universidade Estadual do Maranhão</orgName>
+								<orgName type="institution" key="instit2">Cidade Universitária Paulo VI</orgName>
+								<address>
+									<addrLine>Caixa Postal 09</addrLine>
+									<postCode>65055- 970</postCode>
+									<settlement>São Luís</settlement>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Bolsista da FAPEMA-UEMA . 2 Pesquisadora Bolsista da FAPEMA-UEMA.</note>
+								<orgName type="department">FAPEMA-UEMA</orgName>
+								<orgName type="institution">Bolsista da FAPEMA-UEMA</orgName>
+								<address>
+									<addrLine>2 Pesquisadora Bolsista da</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">ECTOPARASITOS EM REBANHOS DE CAPRINOS E OVINOS NA MICRORREGIÃO DO ALTO MEARIM E GRAJAÚ, ESTADO DO MARANHÃO</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">1FFEE94A7BC198F4B26EAD9F1752A12D</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>PALAVRAS-CHAVE: Ectoparasitos</term>
+					<term>Caprino</term>
+					<term>Ovino</term>
+					<term>Maranhão Ectoparasites</term>
+					<term>goat</term>
+					<term>sheep</term>
+					<term>Maranhão</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESUMO</head><p>Rebanhos de caprinos e ovinos da microrregião do Alto Mearim e Grajaú, estado do Maranhão foram examinados por inspeção e palpação manual, para a coleta de ectoparasitos. Os espécimes foram acondicionados em frascos individuais, por hospedeiro amostrado, contendo álcool a 70ºGL como líquido preservador. As identificações foram feitas no Laboratório de Parasitologia Veterinária da Universidade Estadual do Maranhão. Os carrapatos foram examinados em estereomicroscópio e identificados através da chave dicotômica de Aragão e Fonseca (1961); os piolhos foram montados entre lâmina e lamínula segundo a técnica de Pinto (1938), examinados em microscópio óptico e identificados através das chaves de <ref type="bibr" target="#b23">Tuff (1977)</ref> e Furman e Catts (1977); as larvas de moscas foram examinadas em estereornicroscópio e identíficadas pela morfologia das placas peritremáticas e espiráculos, respiratórios. Dos 380 animais amostrados, 143 (37,64%) apresentavam-se infestados por ectoparasitos. Foram identificados os seguintes ectoparasitos: Bovicola caprae, Boophilus microplus, larvas de Cochliomya hominivorax (bicheira) e de Dermatobia hominis (berne). Associações parasitárias foram observadas apenas em caprinos nos municípios de Grajaú e Sítio Novo (piolho+carrapato; piolho+berne; piolho+bicheira e piolho+bicheira+carrapato). A análise estatística demonstrou que a ocorrência de ectoparasitos no período chuvoso foi significantemente maior que no período seco do ano (P&lt;0,02).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>O Brasil tem um grande mercado potencial para produtos derivados da pele de pequenos ruminantes domésticos, apresentando, também, condições favoráveis para a produção de calçados e vestuário em quantidades suficientes para suprir a demanda interna e gerar excedentes exportáveis. A ovinocultura de corte brasileira vem crescendo em todas as regiões do País, tendo, inclusive, se destacado nas regiões Nordeste e Centro-Oeste. Quanto a caprinocultura de corte, a região Nordeste ainda tem a maior participação no mercado pecuário <ref type="bibr" target="#b2">(ANUALPECUÁRIO, 1998)</ref>.</p><p>Entre as potencialidades, econômicas do estado do Maranhão, vem crescendo em importância a ovinocaprinocultura de corte e de pele, até porque nunca na história brasileira houve um momento de tamanha taxa de crescimento nos negócios dessa atividade. Justamente por ser uma terra de transição entre o Semi-Árido e a Amazônia, o Maranhão constitui o local ideal para o "acabamento" dos pequenos animais, tanto para carne como para leite <ref type="bibr">(O BERRO, 2001)</ref>.</p><p>Existem diversos fatores que limitam a produção e produtividade dos ovinos e caprinos, dentre eles as parasitoses, responsabilizadas por elevadas perdas econômicas, em decorrência de crescimento retardado, redução no consumo de alimentos, queda na produção, baixa fertilidade e alta mortalidade <ref type="bibr" target="#b25">(VIEIRA, 1991;</ref><ref type="bibr" target="#b17">PADILHA, 1982)</ref>. Com relação aos ectoparasitos especificamente, a qualidade da pele produzida no Nordeste é afetada por esses parasitos, principalmente piolhos e ácaros causadores de sarna, que prejudicam a comercialização do couro. Problemas de natureza física, como os provocados por riscos em cercas e espinhos, além do processo de retirada da pele, também afetam significativamente a qualidade do produto <ref type="bibr" target="#b6">(BARROS, 1994)</ref>.</p><p>Os piolhos são os ectoparasitos que ocorrem com maior freqüência em ovinos e caprinos, causando a doença conhecida como pediculose; no Brasil, as espécies responsáveis por esta parasitose são Bovicola caprae e Linognathus stenopsis <ref type="bibr" target="#b26">(VIEIRA et al., 1987)</ref>.</p><p>Ao estudarem os ectoparasitos permanentes de caprinos e ovinos em Sobral, Ceará, <ref type="bibr">Costa e Vieira (1984)</ref> verificaram parasitismo em ovinos por Boophilus microplus, sendo pela primeira vez identificada esta espécie parasitando ovinos no Nordeste brasileiro. Já, <ref type="bibr">Guerra e Brito (2004)</ref>, estudando a ixodofauna de mamíferos domésticos da Ilha de São Luís, Maranhão, identificaram B. microplus parasitando caprinos, sendo segundo dados bibliográficos, o primeiro registro na região Nordeste. <ref type="bibr">Silva Jr. et al. (1998)</ref> relataram parasitismo por larvas de Dermatobia hominis em caprinos no município de Paracambí, Rio de Janeiro; os animais apresentavam nódulos de berne na comissura nasal, na escápula e na área da garupa.</p><p>Informações acerca de ectoparasitos presentes nos rebanhos de ovinos de São Paulo foram fornecidas por <ref type="bibr" target="#b14">Madeira et al. (2000)</ref>, quando relataram a presença de larvas de Cochliomyia hominivorax e D. hominis, carrapatos Amblyomma cajennense e B. microplus e piolhos Damalinia ovis. A maioria dos proprietários registrou a presença de um ou mais ectoparasitas e 50,3% dos proprietários consideraram as infestações por larvas de C. hominivorax o grande problema de saúde para o rebanho, seguida de larvas de D. hominis e infestações por piolhos e carrapatos.</p><p>O trabalho foi elaborado com o objetivo de conhecer os ectoparasitos predominantes em rebanhos de caprinos e ovinos da microrregião do Alto Mearim e Grajaú, estado do Maranhão.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL E MÉTODOS</head><p>Oito propriedades da microrregião de Alto Mearim e Grajaú com criação de caprino/ovino foram cadastradas para a coleta de ectoparasitos no período chuvoso (dezembro a abril) e no período seco (maio a novembro).</p><p>Um total de 380 animais foram amostrados na microrregião do Alto Mearim e Grajaú, sendo eles distribuídos em três municípios representativos dos rebanhos de caprinos e ovinos dessa microrregião, Grajaú, Sítio Novo e Formosa da Serra Negra. Em cada propriedade inspecionava-se pelo menos 10% do rebanho.</p><p>Os animais foram examinados por inspeção e palpação manual, recolhendo-se os ectoparasitos encontrados no corpo. Os espécimes coletados foram acondicionados em frascos individuais, por hospedeiro amostrado, contendo álcool a 70ºGL como líquido preservador. A identificação dos espécimes foi feita no Laboratório de Parasitologia Veterinária da Universidade Estadual do Maranhão. Os carrapatos foram examinados em estereomicroscópio e identificados através da chave dicotômica <ref type="bibr">de Aragão e Fonseca (1961)</ref>; os piolhos foram montados entre lâmina e lamínula segundo a técnica de <ref type="bibr">Pinto (1938)</ref>, examinados em microscópio óptico e identificados através das chaves <ref type="bibr">de Tuff (1977)</ref> e <ref type="bibr">Furman e Catts (1977)</ref>, as larvas de moscas foram examinadas em estereomicroscópio e identificadas pela morfologia das placas peritremáticas e espiráculos respiratórios.</p><p>A avaliação dos dados foi realizada através do teste de qui-quadrado.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS E DISCUSSÃO</head><p>O número de propriedades e de animais amostrados e parasitados por município encontra-se sumarizado na Tabela 1. Do total de animais amostrados, 143 (37,64%) apresentavam infestação por ectoparasitos.</p><p>Na Tabela 1 quando comparou-se a infestação por ectoparasitos em caprinos e ovinos foi verificado que os animais pertencentes aos municípios de Grajaú e Sítio Novo apresentaram parasitismo por ectoparasitos, porém a diferença não foi significativa. No entanto, quando se comparou os animais de Grajaú e Formosa da Serra Negra houve uma diferença estatística significativa (P &lt; 0,0001), o mesmo evento ocorreu com os animais (caprinos e ovinos) pertencentes aos municípios de Sítio Novo e Formosa da Serra Negra.</p><p>Os espécimes de piolhos coletados foram da espécie B.</p><p>caprae. As larvas causadoras de miíase foram da espécie C. hominivorax (bicheira) e D. hominis (berne), estas últimas foram encontradas apenas em caprinos criados em uma propriedade de Grajaú. Os carrapatos coletados pertencem à família Ixodidade, sendo a espécie identificada B. microplus. As espécies hospedeiras e o número de animais infestados por espécie identificada estão discriminados na Tabela 2. Pela análise do qui-quadrado constatou-se uma associação significativa entre os espécimes B. caprae, C. homini-vorax e B. microplus (P&lt;0,0001). No entanto não foi observada uma associação entre C. hominivorax e B. microplus, considerando-se as espécies de animais (caprinos e ovinos). Conforme os resultados obtidos observou-se parasitismo por B. caprae em caprinos, concordando com os achados de Costa e Vieira (1984), ao estudarem os aspectos da pediculose em caprinos no estado do Ceará e com Santos e Faccini (1996), ao realizarem um estudo seccional da piolheira caprina causada por D. caprae na região do semiárido do estado da Paraíba. Entretanto, Santos et al. (2004a) não detectaram esta espécie de piolhos quando amostraram caprinos da região da Baixada Maranhense, divergindo dos resultados aqui apresentados. Mazyad e Helmy (2001) no norte do Sinai e Baky (2001) no sudeste do Egito, relataram, além do B. caprae, outras duas espécies parasitando caprinos, L. africanus e L. stenopis. Apenas um ovino apresentava parasitismo por B. caprae, o que difere dos relatos de <ref type="bibr" target="#b14">Madeira et al. (2000)</ref>, que ao estudarem os ectoparasitos presentes nos rebanhos de ovinos no estado de São Paulo, observaram parasitismo por D. ovis. <ref type="bibr">Santos et al. (2004b)</ref> não observaram parasitismo por piolhos em rebanhos ovinos da Baixada Maranhense. Já <ref type="bibr" target="#b9">Gabaj et al. (1993)</ref> na Líbia, relataram quatro espécies de piolhos parasitando ovinos: B. ovis, L. pedalis, L. afilcanus e L. ovilIus.</p><p>Observou-se parasitismo por larvas de C. hominivorax em caprinos, não sendo encontrados dados sobre infestações por essas larvas na literatura. Em ovinos, foi observado esse parasitismo, estando de acordo com estudos realizados por <ref type="bibr" target="#b13">Madeira et al. (1998</ref><ref type="bibr" target="#b14">Madeira et al. ( , 2000) )</ref> em rebanhos de ovinos no estado de São Paulo e com os de <ref type="bibr" target="#b4">Azazy (1992)</ref> na Líbia.</p><p>O carrapato, B. microplus foi identificado parasitando caprinos. Esse resultado está de acordo com <ref type="bibr">Guerra e Brito (2004)</ref> para caprinos da Ilha de São Luís, Maranhão e com <ref type="bibr">Santos et al. (2004a)</ref> para região da Baixada Maranhense. Os resultados de <ref type="bibr">Ugochukwu e Apeli (1985)</ref> na Nigéria, <ref type="bibr" target="#b11">Horak et al. (2001)</ref> na África do Sul, <ref type="bibr" target="#b16">Osman (1997)</ref> no Sudão e <ref type="bibr" target="#b12">Latha et al. (2004)</ref> na Índia, diferem dos resultados deste trabalho, uma vez que os caprinos apresentaram parasitismo por diferentes espécies de carrapatos. A presença de B. microplus parasitando ovinos, observada nesta pesquisa, está de acordo os resultados obtidos por Costa e <ref type="bibr" target="#b7">Vieira (1984)</ref> em Sobral, Ceará e Santos et al. (2004b) na Baixada Maranhense. Contudo, <ref type="bibr" target="#b14">Madeira et al. (2000)</ref>, além do B. microplus, relataram A. cajennense parasitando rebanhos ovinos no estado de São Paulo. Tais resultados estão em desacordo com <ref type="bibr" target="#b16">Osman (1997)</ref> no Sudão e <ref type="bibr" target="#b12">Latha et al. (2004)</ref> na Índia, que relataram maior diversidade de espécies de carrapatos em ovinos.</p><p>Não foi observado parasitismo por larvas de D. hominis em ovinos, embora a literatura cite parasitismo por essas larvas em ovinos no estado de São Paulo <ref type="bibr" target="#b14">(MADEIRA et al., 2000)</ref>. Já em caprinos, larvas de D. hominis foram coletadas, concordando com resultados obtidos <ref type="bibr">por Silva Jr.et al. (1998)</ref> no município de Paracambí, Rio de Janeiro.</p><p>Houve associação parasitária em 42 caprinos dos municí-</p><p>Tabela 1. Número de propriedades e de animais amostrados e parasitados nos municípios de Grajaú, Sítio Novo e Formosa da Serra Negra, microrregião de Alto Mearim e Grajaú, MA. Municípios Número de Número de Número de Número de Número de propriedades caprinos caprinos ovinos ovinos amostrados infestados Amostrados infestados Grajaú 4 130 79 90 12 Sítio Novo 3 60 29 60 5 Formosa da 1 20 6 20 12 Serra Negra Total 8 210 114 170 29 Tabela 2. Número de animais infestados por espécie de ectoparasito, identificada em caprInos e ovinos da microrregião de Alto Mearim e Grajaú, MA. Espécie Animais Animais infestados animal positivos B. caprae C. hominivorax D. hominis B. microplus Caprinos 114 92 12 12 43 Ovinos 29 1 6 o 20 Total 143 93 18 12 63</p><p>pios de Grajaú e Sítio Novo (Tabela 3). Não foi observada associação parasitária em ovinos, embora já tenha sido relatada em rebanhos de ovinos no estado de São Paulo <ref type="bibr">(MADEI-RA et al., 2000)</ref>.</p><p>No período chuvoso foram amostrados 200 animais, 86 (43%) estavam infestados. No período seco foram amostrados 180 animais, dos quais, 57 (31,7%) estavam infestados. Avaliando a ocorrência de ectoparasitos, pelo teste do qui-quadrado demonstrou-se haver diferença significativa entre os dois períodos amostrados (P&lt;0,02) (Tabela 4).</p><p>Quanto ao local de parasitismo no corpo do animal foi observado que o B. caprae tem preferência pela parte externa da região do glúteo, onde nos caprinos geralmente há uma concentração maior de pêlos. Esta observação está de acordo com os achados de Mázyad e Helmy (2001). As larvas de D. hominis foram encontradas em diferentes locais do corpo dos caprinos estudados (pescoço, região da escápula, patas dianteiras e traseiras, tórax e coxa). Somente uma propriedade localizada no município de Grajaú apresentou caprinos parasitados por berne, pois nessa localidade existiam áreas de bosques e vegetação florestal, habitat ideal da D. hominis e dos dípteros vetores de seus ovos. As larvas de C. hominivorax foram encontradas na região da cabeça, perianal, ventre e pescoço. As principais causas da presença dessas larvas, segundo os tratadores eram ferimentos com arames farpados e farpas de troncos de madeira e árvores, que servem como porta de entrada para postura de ovos de C. hominvorax com posterior eclosão das larvas e instalação da miíase. Os carrapatos foram retirados principalmente do escroto, úbere, face interna da coxa, região da cabeça, em especial o pavilhão auricular, sendo observado com mais freqüência em uma propriedade de caprinos do município de Sítio Novo, na qual os animais pastejam na mesma área que os bovinos.</p><p>A ovinocaprinocultura na microrregião do Alto Mearim e Grajaú vêm crescendo em importância, mas através das visitas feitas nas propriedades de três municípios dessa microrregião observou-se que ainda há necessidade de orientações técni-cas, que na maioria das vezes são medidas simples, mas que precisam ser aplicadas correta e constantemente.</p><p>Tabela 3. Associação parasitária por ectoparasitos em caprinos do município de Grajaú e Sítio Novo.</p><p>Tipo de associação parasitária Número de caprinos infestados Piolho + carrapato 23 Piolho + berrie 10 Piolho + bicheira 8 Piolho + carrapato + bicheira 1 Tabela 4. Animais infestados com artrópodes ectoparasitos, de acordo com o período do ano. Período do ano Animais positivos Animais negativos Total Seco 57 123 180 Chuvoso 86 114 200 Total 143 237 380 X cal =5.185 (P&lt;0,02).</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Rev. Bras. Parasitol. Vet., 14, 2, 59-63 (2005)   (Brazil. J. Vet. Parasitol.)</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. J. Vet. Parasitol.)</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="59" to="63" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>Rev. Bras. Parasitol. Vet.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Referências</forename><surname>Bibliográficas</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Anuário da pecuária brasileira. São Paulo: FNP Consultoria e Comércio Ltda</title>
+		<author>
+			<persName><surname>Anualpecuário</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="332" to="333" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Aragão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fonseca</surname></persName>
+		</author>
+		<title level="m">Notas de ixodologia. VII Lista e chave para os representantes da fauna ixodológica brasileira. Memórias do Instituto Owaldo Cruz</title>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="115" to="129" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Observations on the New World screwworm fly in Libya and the risk of its entrance into Egypt</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M</forename><surname>Azazy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="303" to="310" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Prevalence of external parasites in the south eastern desert of Egypt</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Baky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Joumal Egyptian Society Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="223" to="232" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Métodos de conservação de peles de caprinos e ovinos. Sobral: Embrapa</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Barros</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Embrapa Caprinos. Documentos</publisher>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A F</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vieira</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Da S</surname></persName>
+		</author>
+		<title level="m">Ectoparasitos permanentes de caprinos e ovinos em Sobral, Ceará. Pesquisa Agropecuária Brasileira</title>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="639" to="646" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Manual of Medical Entomology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">Y</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Catts</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Mayfleld Publication Company</publisher>
+			<biblScope unit="page">1977</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Lice of farm animals in Libya</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Gabaj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Beesley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Awan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medical Veterinary Entomology</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="13" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M S N C</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R B</forename><surname>Brito</surname></persName>
+		</author>
+		<title level="m">Ixodofauna de mamíferos domésticos da Ilha de São Luís, MA-Entomologia y Vectores</title>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="435" to="444" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">GREEFF, C1 Parasites of domestic and wild animals m South Africa. XXXIX. Helminth and arthropod parasites of Angora goats in the southern Karoo</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">G</forename><surname>Horak</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Macivor Km</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Onderstepoor Journal Veterinary Research</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="27" to="35" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Seasonal activity of ticks on small ruminants in Tamil Nadu State, India. Tropical Animal Health Production</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Latha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Aiyasami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pattabiraman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Sivaraman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rajavelu</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="123" to="133" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Effect of management practices, on screw-worm among sheep in São Paulo state, Brazil. Tropical Animal Health Production</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F T</forename><surname>Amarante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Padovani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="149" to="157" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Diversity of ectoparasites in sheep flocks in São Paulo, Brazil. Tropical Animal Health Production</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F T</forename><surname>Amarante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Padovani</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="225" to="232" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Studies on lice infesting goats in North Sinai</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Mazyad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Helmy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Egyptian Society Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="511" to="516" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Ticks infesting sheep and goats in the Sudan</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Osman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parassitologia</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="139" to="142" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Doenças parasitárias dos caprinos nas regi-ões áridas e semi-áridas do Nordeste brasileiro. Petrolina -PE. EMBRAPA-CPTSA</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Padilha</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<publisher>EMBRAPACPTSA. Documentos</publisher>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Zooparasitos de interesse médico veterinírio</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pinto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pimenta de Melo</title>
+		<imprint>
+			<biblScope unit="volume">XXVI</biblScope>
+			<biblScope unit="page" from="369" to="1938" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Estudo seccional da piolheira caprina causada por Damalinia caprae (Gurlt, 1843) (Trichodectidae: Mallophaga) na região do semiárido do estado da Paraíba. Revista Brasileira de Parasitologia Vetetinária</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C G</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L H</forename><surname>Faccini</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="43" to="46" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Levantamento de ectoparasitos em ovinos (Ovis aries L.) deslanados da Baixada Maranhense, Brasil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C G</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M S N C</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A M</forename><surname>Waquim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Santos-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L T</forename><surname>Feitosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Teixeira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>COONGRESSO BRASILEIRO DE MEDICINA VETERINÁRIA</publisher>
+			<biblScope unit="volume">31</biblScope>
+			<pubPlace>São Luís</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Anais... São Luís: Minasplan, 2004b. CD-ROM</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Prevalência de artrópodes ectoparasitos em caprinos (Capra hircus L.) naturalmente infestados da Baixada Maranhense, Brasil. In: CONGRESSO BRASILEI-RO DE MEDICINA VETERINÁRIA</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C G</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A M</forename><surname>Waquim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M S N C</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Santos-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L T</forename><surname>Feitosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Teixeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">São Luís. Anais.</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+	<note>São Luís Minasplan, 2004a. CD-ROM</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Ocorrência do berne, Dermatobia hominis (Díptera: Cuterebridae) em vários hospedeiros no Rio de Janeiro, Brasil. Parasitologia al Dia</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">P</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Leandro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Borja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="97" to="101" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A key to the lice of man and domestic animals</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Tuff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Texas Journal of Science. v</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="145" to="148" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Prevalence of ectoparasites of small ruminants in Nsukka</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Ugochukwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">O</forename><surname>Apeh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nigéria. International Journal Zoonoses</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="313" to="317" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Epidemiologia e controle das principais endoparasitoses de caprinos e ovinos</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vieira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S ; Reunião Anu-Al Da Sociedade Brasileira De Zootec-Nia</forename><surname>Da</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sociedade Brasileira de Zootecnia</title>
+		<meeting><address><addrLine>João Pessoa, Anais</addrLine></address></meeting>
+		<imprint>
+			<publisher>Caprinocultura e Ovinocultura</publisher>
+			<date type="published" when="1991">1991. 1991</date>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="27" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">Epiderniologia e controle das principais parasitoses de caprinos nas regiões semi-áridas do Nordeste</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vieira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C R</forename><surname>Cavalcante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">J F</forename><surname>Ximenes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<publisher>Embrapa Caprinos / IVOMEC</publisher>
+			<biblScope unit="page">50</biblScope>
+			<pubPlace>Sobral</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Relato de Caso MIÍase assoCIada a eRIsIPela BolHosa</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Lorena</forename><surname>Bianchi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ferro</forename><surname>Braga</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nathalia</forename><forename type="middle">Raposo</forename><surname>Thompson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Bárbara</forename><surname>De Queiroz Gadelha</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">André</forename><surname>Ricardo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Accacio</forename><surname>Veloso</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marina</forename><forename type="middle">Oliveira</forename><surname>Hoerlle</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Valéria</forename><surname>Magalhães</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Aguiar</forename><surname>Coelho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cláudia</forename><surname>Soares</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Santos</forename><surname>Lessa</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Resumo</surname></persName>
+						</author>
+						<title level="a" type="main">Relato de Caso MIÍase assoCIada a eRIsIPela BolHosa</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6961F08AF848C949B804B8BD3A17F818</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Miíase é a presença de larvas de moscas em tecidos do homem ou de outros animais vertebrados, onde se nutrem e evoluem como parasitos. Erisipela é uma celulite superficial que apresenta comprometimento do plexo linfático subjacente, cujo principal agente etiológico é Streptococcus (Rosenbach,1884) beta hemolítico do grupo A de Lancefield. Caracteriza-se por placas eritematosas acompanhadas de dor e edema. Este é o relato de um caso raro de paciente idosa internada em hospital público para tratamento de erisipela bolhosa no membro inferior esquerdo, em cujas lesões, durante a internação, foi detectada a presença de miíase. Foram retiradas várias larvas vivas com auxílio de pinça e prescrita ivermectina para erradicar possíveis larvas remanescentes. O diagnóstico precoce e o tratamento correto das lesões primárias são fundamentais para evitar a ocorrência de afecções como a miíase, cuja instalação atrasa o tratamento e pode agravar o prognóstico.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>DESCRITORES: Enfermidades cutâneas. Miíase. Dípteros. Doenças tropicais.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>Define-se miíase como a infecção de vertebrados vivos por larvas de dípteros que, pelo menos por um determinado período, se alimentam dos tecidos vivos ou mortos do hospedeiro, de suas substâncias corporais ou do alimento por ele ingerido <ref type="bibr" target="#b9">(10,</ref><ref type="bibr" target="#b21">22)</ref>.</p><p>Sua localização preferida em humanos é na pele. Também é descrita nas cavidades naturais, como boca, nariz, ouvidos, olhos, vagina e ânus <ref type="bibr" target="#b7">(8)</ref>. O quadro clínico geralmente envolve prurido, associado ou não a dor local <ref type="bibr" target="#b12">(13)</ref>. A patologia da miíase assume importância em algumas especialidades médicas, como: otorrinolaringologia, proctologia, ginecologia, psiquiatria, oncologia, dermatologia, angiologia, geriatria e traumatologia <ref type="bibr" target="#b10">(11)</ref>.</p><p>Na América do Sul, os agentes etiológicos mais comuns de miíase humana são larvas de Cochliomyia hominivorax (Coquerel, 1858), que causam uma forma mais frequente e grave de miíase -a não furunculosa -e larvas de Dermatobia hominis (Linaeus Jr., 1781), que ocasionam a miíase furunculosa, popularmente conhecida como "berne" <ref type="bibr" target="#b11">(12)</ref>. Esta última, também conhecida como miíase nodular cutânea, é causada por uma única larva, limitada ao folículo piloso, diferente da miíase ocasionada por larvas de C. hominivorax, em que pode ocorrer uma destruição tecidual muito extensa <ref type="bibr" target="#b16">(17)</ref>. Existem casos raros de associação de miíase não furunculosa por larvas de C. hominivorax com miíase furunculosa por larvas de D. hominis <ref type="bibr" target="#b8">(9)</ref>.</p><p>O diagnóstico requer a demonstração da larva no tecido e é importante preservá-la para uma posterior identificação entomológica <ref type="bibr" target="#b18">(19)</ref>. O tratamento é baseado na remoção mecânica das larvas, podendo haver associação de desbridamento cirúrgico de tecidos desvitalizados (18) com uso de ivermectina.</p><p>A ivermectina é um anti-helmíntico sistêmico que vem sendo utilizado em humanos desde 1987 para tratamento de diversas doenças parasitárias <ref type="bibr" target="#b3">(4,</ref><ref type="bibr" target="#b5">6)</ref>. O uso de ivermectina sistêmica e/ou tópica tem se mostrado uma arma eficiente no tratamento das miíases, com taxa de 100% de sucesso <ref type="bibr" target="#b22">(23)</ref>, visto que ajuda na remoção das larvas quando se encontram alojadas tanto na superfície como em profundidade, desde que não estejam enclausuradas nos tecidos <ref type="bibr" target="#b18">(19)</ref>. A administração da ivermectina por via oral é prática, pois é feita em dose única de 150-200 µg/kg de peso. Apresenta absorção rápida, com elevada concentração sanguínea em relativamente pouco tempo <ref type="bibr" target="#b4">(5)</ref>.</p><p>Os casos de miíase em humanos são mais comuns no verão e em locais de clima tropical. Configuram um importante problema de saúde pública em razão do forte componente social ligado ao seu aparecimento. Há estreita relação com a pobreza, a falta de cuidados primários com a saúde e de saneamento básico <ref type="bibr" target="#b13">(14)</ref>. A miíase pode instalar-se em locais previamente acometidos por outras enfermidades (ou dermatoses), como já referido em área endêmica de filariose no Brasil, o que indica um maior risco de infecção bacteriana secundária em pacientes com linfangiomatose associada à miíase <ref type="bibr" target="#b6">(7)</ref>.</p><p>A erisipela é uma infecção da derme e epiderme com importante comprometimento do plexo linfático subjacente, cujo principal agente etiológico é Streptococcus beta hemolítico do grupo A de Lancefield (1) ou, eventualmente, dos grupos B, C e G. Há casos descritos como de etiologia estafilocócica, porém o mais provável é que o estafilococo se estabeleça secundariamente ou que sejam casos de celulite (3). Caracteriza-se por placas eritematosas acompanhadas de dor e edema, podendo dar à pele um aspecto de casca de laranja <ref type="bibr" target="#b20">(21)</ref>. As lesões expandem-se perifericamente, tornam-se quentes e com limite demarcado. Acomete ambos os sexos, sendo a quinta e a sexta décadas de vida as mais atingidas e os membros inferiores e face os locais mais acometidos <ref type="bibr" target="#b0">(1)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RELATO DO CASO</head><p>Paciente do sexo feminino, 80 anos, hipertensa, tabagista e etilista moderada, encontrava-se internada no Hospital Federal do Andaraí em condições precárias de higiene. Seu estado geral era ruim e mostrava-se desorientada, febril, corada, hidratada, com edema e eritema em membros inferiores, lesões bolhosas dolorosas e pruriginosas, com intensa descamação, exsudato seropurulento, odor fétido e presença de larvas nas lesões do membro inferior esquerdo. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSÃO</head><p>Relata-se um caso de paciente internada em hospital público para tratamento de lesões de erisipela bolhosa, nas quais houve instalação de miíase, afecção comum em localidades de clima tropical e que mantém estreita relação com a pobreza e a falta de cuidados primários com a saúde.</p><p>Feridas abertas, como lesões de erisipela, inclusive do tipo bolhosa, podem funcionar como atrativo para a oviposição de dípteros cujo desenvolvimento pode levar ao agravamento da lesão inicial. Fêmeas de C. hominivorax realizam as posturas em ferimentos recentes da pele ou cavidades; cada fêmea põe até 350 ovos aglomerados, podendo efetuar várias posturas, com intervalos de três a quatro dias. O ciclo evolutivo completa-se geralmente em 21 a 23 dias em temperatura ambiente, entre 22°C e 25°C; à medida que se desenvolvem, as larvas causam sintomatologia cada vez mais exuberante. A degradação tecidual consequente à liberação de enzimas proteolíticas pelas larvas origina uma lesão do tipo ulcerada que progride, aumentando de tamanho e exalando odor fétido característico. Tais lesões são um atrativo para fêmeas fertilizadas realizarem seguidas reinfecções <ref type="bibr" target="#b8">(9)</ref>.</p><p>O tratamento consiste na limpeza da ferida; no uso de anestésicos, se necessário; na remoção das larvas com auxílio de pinça e, conforme a apresentação da lesão, no uso de medicação local e sistêmica. No caso relatado, foi usada para eliminar possíveis larvas remanescentes a ivermectina, antiparasitário de uma classe de compostos conhecida por avermectinas, endectocida macrolídeo com atividade contra endo e ectoparasitos <ref type="bibr" target="#b4">(5)</ref>. Quanto à erisipela, na maioria dos casos é utilizada a penicilina benzatina ou cristalina, conforme se verificou na literatura revisada (1), na dosagem de Penicilina G 10-20 Milhões UI/dia de 4/4h ou 6/6h pela via endovenosa <ref type="bibr" target="#b1">(2)</ref>. A paciente encontrava-se internada por tratar-se de um caso de complicação da erisipela e já recebia tratamento com penicilina cristalina.</p><p>O prognóstico da doença depende do tempo de infecção, das condições clínicas do paciente e do local acometido <ref type="bibr" target="#b15">(16)</ref> e pode levar à necrose tecidual, entre outras complicações posteriores. Neste caso, a paciente não soube relatar o tempo de surgimento das larvas; porém pode-se deduzir que a infecção cursava há mais de uma semana. O local acometido já se encontrava previamente lesionado pela erisipela e evoluía para a forma bolhosa. Existe a possibilidade de tanto a necrose do tecido como o surgimento de secreção purulenta serem decorrentes da infecção miodária.</p><p>Sendo o Brasil um país que apresenta condições favoráveis ao desenvolvimento das principais espécies causadoras de miíases humanas, atenção especial deverá ser dada aos pacientes portadores de miíase. Estes muitas vezes são vítimas de maus-tratos e descaso por parte dos responsáveis ou mesmo dos profissionais de saúde, o que favorece a instalação e a evolução clínica desta doença parasitária, podendo, até mesmo, retardar o tratamento da doença primária ou agravar seu curso clínico.</p><p>Portanto, é importante o relato de casos raros como este para reforçar a atenção e ampliar o conhecimento do manejo de tais pacientes por parte do corpo de saúde.</p><p>São fundamentais o diagnóstico precoce e o tratamento adequado de lesões primárias, pois, dessa forma, evita-se a ocorrência de afecções como a miíase cuja associação torna pior o prognóstico.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ABSTRACT</head><p>Case report: myiasis associated to bullous erysipelas Myiasis is the presence of fly larvae in tissues of humans or other vertebrates, where they feed and develop as parasites. Erysipelas is a superficial cellulitis with involvement of underlying lymphatic plexus, characterized by erythematous plaques accompanied by pain and swelling. We report a case of an aged patient admitted to a public hospital for treatment of bullous erysipelas in the left lower limb, who developed cutaneous myiasis during hospitalization. Several larvae were removed with the aid of forceps and ivermectin was prescribed to eradicate possible remaining larvae. Early diagnosis and correct treatment of the lesions are essential to prevent the occurrence of diseases such as myiasis. KEY WORDS: Skin diseases. Myiasis. Diptera. Tropical diseases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REFERÊNCIAS</head></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1</head><figDesc>Disciplina de Parasitologia, Universidade Federal do Estado do Rio de Janeiro (UNIRIO) Endereço de correspondência: E-mail: lorenabfb@yahoo.com.br Recebido para publicação em: 20/11/2010. Revisto em: 28/4/2011. Aceito em: 11/10/2011.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figura 1 .</head><label>1</label><figDesc>Figura 1. Perna esquerda da paciente de 80 anos acometida por erisipela bolhosa associada a miíase.</figDesc><graphic coords="3,225.19,221.58,163.81,218.41" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Experiência clínica na avaliação de 284 casos de erisipela</title>
+		<author>
+			<persName><forename type="first">Cha</forename><surname>Bernardes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">T</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jca</forename><surname>Augusto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">An Bras Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="605" to="609" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Artigo de revisão -Erisipela</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caetano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Amorim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Med Port</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="385" to="394" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Cutaneous (non HIV) infections</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Callahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Adal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Tomecki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dermatol Clin</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="497" to="505" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Uso da ivermectina no tratamento da miíase bucal</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Capelari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vhp</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Marzola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlt</forename><surname>Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista da Academia Tiradentes de Odontologia</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="150" to="172" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Antiparasitários. Farmacologia e terapêutica ocular</title>
+		<author>
+			<persName><forename type="first">Dao</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jbv</forename><surname>Sobrinho</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Cultura Médica</publisher>
+			<biblScope unit="page">59</biblScope>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Ivermectin: pharmacology and application in dermatology</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Dourmishev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Dourmishev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Schwartz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="981" to="988" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Myiasis in a bancroftian filariasis endemic area</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dreyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mattos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Fraiha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Lymphoedema</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="10" to="16" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Miíase em Paciente de 10 Anos de Idade: Relato de Caso e Revisão de Literatura</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Fares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">V</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Stucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Carvalhosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Phs</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Crb</forename><surname>Siqueira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Clin Pesq Odontol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="49" to="54" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Raro caso de miíases por Cochliomyia hominivorax (Diptera: Calliphoridae) e Dermatobia hominis (Diptera: Oestridae) em paciente humano</title>
+		<author>
+			<persName><forename type="first">Cpa</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Vilela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Prem</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vma</forename><surname>Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Css</forename><surname>Lessa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Ciênc Saúde</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="142" to="144" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">Parasitologia</forename><surname>Fortes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Veterinária</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<pubPlace>Sulina. Porto Alegre</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<author>
+			<persName><forename type="first">Fraiha</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Leão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rnq</forename><surname>Miíases</surname></persName>
+		</author>
+		<title level="m">Doenças infecciosas e parasitárias: Enfoque amazônico</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">N Q</forename><surname>Leão</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Coord</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Belém</addrLine></address></meeting>
+		<imprint>
+			<publisher>CEJUP / UEPA/ Instituto Evandro Chagas</publisher>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="819" to="831" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical Region. Bibliographic database. Plêiade/Fapesp</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: a case study</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Henry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dent Update</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="372" to="373" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Miíase associada com alguns fatores sócio-econômicos em cinco áreas urbanas do Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mattos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nascimento</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Soc Bras Med Trop</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="175" to="180" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chave para identificação das formas adultas das espécies da família Calliphoridae (Diptera: Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol Vect</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<author>
+			<persName><forename type="first">Emf</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ala</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santos</forename><forename type="middle">Jr</forename><surname>Er</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlf</forename><surname>Leal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moya-Borja</forename><surname>Ge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Miíases humanas por Cochliomyia hominivorax (Coquerel,1858) (Diptera, Calliphoridae) em hospitais públicos na cidade do Recife</title>
+		<meeting><address><addrLine>Pernambuco</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="37" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Miíase furunculóide de localização atípica</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Acp</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vma</forename><surname>Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Css</forename><surname>Lessa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medicina (Ribeirão Preto)</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="164" to="166" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Pierce</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Myiasis</surname></persName>
+		</author>
+		<title level="m">Braud AI. Medical microbiology and infectious diseases</title>
+		<meeting><address><addrLine>Philadelphia, W.B. Saunders</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="page" from="1704" to="1710" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ivermectina no Tratamento da Miíase Orbitária: Relato de Caso</title>
+		<author>
+			<persName><forename type="first">Mhl</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Aoki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Agb</forename><surname>Nicoletti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matayoshi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jbv</forename><surname>Fernandes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Bras Oftalmol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="19" to="21" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Serra-Freire Nm</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Entomologia</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Acarologia Na Medicina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">L F</forename><surname>Veterinária</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Livros</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Amu</forename><surname>Tanaka</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Erisipela</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ars Cvrandi</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="79" to="81" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Use of ivermectin in the treatment of orbital myiasis caused by Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Tarso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Pierre-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Minguini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Pierre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scand J Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="503" to="505" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Myiasis: a successfull treatment with topical Ivermectin</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Victoria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Trujillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barreto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="142" to="144" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

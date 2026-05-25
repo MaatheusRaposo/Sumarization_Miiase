@@ -1,0 +1,3599 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Evaluating the Effects of Different Vegetation Types on Necrophagous Fly Communities (Diptera: Calliphoridae; Sarcophagidae): Implications for Conservation",
+    "authors": [
+      "José Pereira De Sousa",
+      "Fernando Carvalho-Filho",
+      "Leandro Juen",
+      "Maria Esposito"
+    ],
+    "doi": "10.1371/journal.pone.0164826",
+    "hash": "5E010CD7298D259F774CF364401CB11B",
+    "publication_date": "2016-10-31",
+    "publication_year": 2016,
+    "publisher": "Public Library of Science (PLoS)",
+    "journal": "PLOS ONE",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "The present study was conducted in five different phytogeographic zones of the Brazilian state of Maranhão, three of which (the Amazon Forest, Cerrado, and Palm Groves) are more heterogeneous, whereas the other two (Marshlands and Mangroves) are more homogeneous. In each zone, nine sites were visited for the collection of necrophagous flies using bait traps in 2010, 2011, and 2012. The calliphorid and sarcophagid communities observed at each site were compared in terms of species richness, composition, and abundance. The more heterogeneous zones had higher species richness, except in the case of the sarcophagids in the forest habitats. The calliphorids Chloroprocta idioidea (Robineau-Desvoidy, 1830), Mesembrinella bicolor (Fabricius, 1805), Hemilucilia semidiaphana (Rondani, 1850) and Lucilia eximia (Wiedemann, 1819) were more closely associated with the Cerrado, Palm Grove and Amazon Forest zones, and Chrysomya megacephala (Fabricius, 194)  with the Mangrove. In the sarcophagids, Peckia (Euboettcheria) subducta (Lopes, 1935) and P. (Pattonella) palidipilosa (Curran & Walley,  1934)  were associated with the Amazon Forest, and P. (Sarcodexia) lambens (Wiedemann, 1830) and Tricharaea (Sarcophagula) occidua (Fabricius, 1794) with the Palm Grove and Cerrado zones. In the calliphorids, the greatest dissimilarity was recorded between the Amazon Forest and the Mangrove and Lowland grassland zones. In the sarcophagids, by contrast, the greatest dissimilarities were recorded between the Amazon Forest and all the other four zones. In general, then, the phytogeographic zones with the highest environmental heterogeneity were characterized by the greatest species richness and abundance of necrophagous flies.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_eb87a42b",
+      "text": "The type of vegetation found in a given area plays a fundamental role in habitat structure, given that the variation in the height, density, and distribution of trees within the environment creates new conditions and habitats with a larger number of subdivisions. This diversity of conditions is considered to be one of the primary determinants of variation in the species richness levels found within different environments [1][2][3][4][5][6][7][8][9][10][11].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "[1]",
+          "offset_start": 425,
+          "offset_end": 428
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "[2]",
+          "offset_start": 428,
+          "offset_end": 431
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "[3]",
+          "offset_start": 431,
+          "offset_end": 434
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4]",
+          "offset_start": 434,
+          "offset_end": 437
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "[5]",
+          "offset_start": 437,
+          "offset_end": 440
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "[6]",
+          "offset_start": 440,
+          "offset_end": 443
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7]",
+          "offset_start": 443,
+          "offset_end": 446
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "[8]",
+          "offset_start": 446,
+          "offset_end": 449
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "[9]",
+          "offset_start": 449,
+          "offset_end": 452
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "[10]",
+          "offset_start": 452,
+          "offset_end": 456
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "[11]",
+          "offset_start": 456,
+          "offset_end": 460
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_cc95c48b",
+      "text": "A number of different organisms, especially vertebrates [7], tend to occur at higher densities in structurally more complex environments, in which species with distinct ecological needs can coexist [12,13]. The environmental heterogeneity hypothesis predicts that animal species richness will tend to increase in more complex environments, where a broader range of niches are available for the different species [14]. More spatially heterogeneous environments may accommodate a larger number of species because they encompass a larger number of microhabitats and a broader range of microclimates, as well as a greater abundance of refuges from predators [15].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7]",
+          "offset_start": 56,
+          "offset_end": 59
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "[12,",
+          "offset_start": 198,
+          "offset_end": 202
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "13]",
+          "offset_start": 202,
+          "offset_end": 205
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "[14]",
+          "offset_start": 412,
+          "offset_end": 416
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "[15]",
+          "offset_start": 654,
+          "offset_end": 658
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_327b0cb1",
+      "text": "In the case of invertebrates, by contrast, and especially for insects, the evidence indicates that patterns of species distribution and diversity are related primarily to the type of vegetation [9], the degree of shade and exposure [16,17], and temperature and humidity [16]. These features may determine the occurrence of different animal species in a given habitat, depending on how they favor behaviors such as reproduction, nest-building, development, and foraging [12,18,19].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "[9]",
+          "offset_start": 194,
+          "offset_end": 197
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "[16,",
+          "offset_start": 232,
+          "offset_end": 236
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "17]",
+          "offset_start": 236,
+          "offset_end": 239
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "[16]",
+          "offset_start": 270,
+          "offset_end": 274
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "[12,",
+          "offset_start": 469,
+          "offset_end": 473
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "18,",
+          "offset_start": 473,
+          "offset_end": 476
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "19]",
+          "offset_start": 476,
+          "offset_end": 479
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_2802b480",
+      "text": "The influence of the heterogeneity of the landscape on the spatial distribution of species has been investigated in some dipteran groups [11, 20 -22]. The levels of habitat disturbance, substrate cover, and the height of the vegetation all had a significant influence on the distribution of Chironomidae species [21]. In the Empididae, the use of different habitats by different species indicates that they respond to the environmental heterogeneity in different ways, and may thus be sensitive to different spatial scales [20]. In drosophilid flies, differences in the species composition between different environments (Cerrado savanna and gallery forest) were related to climatic stability and the greater environmental heterogeneity of the gallery forest [11,22].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "[11, 20 -22]",
+          "offset_start": 137,
+          "offset_end": 149
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "[21]",
+          "offset_start": 312,
+          "offset_end": 316
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "[20]",
+          "offset_start": 523,
+          "offset_end": 527
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "[11,",
+          "offset_start": 759,
+          "offset_end": 763
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "22]",
+          "offset_start": 763,
+          "offset_end": 766
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_72288f42",
+      "text": "The dipterans of the families Calliphoridae and Sarcophagidae are necrophagous, widely distributed, and occur in a wide diversity of environments [23][24][25][26]. Many of these flies are forensically useful, due to the fact that their larvae feed on dead organic matter, acting as decomposers and providing a potential estimate of the postmortem interval [27]. The adults are also potential vectors of pathogens [28], while the larvae of some species parasitize humans and other vertebrates, causing myiasis, a condition known as blowfly strike [29 -31].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "[23]",
+          "offset_start": 146,
+          "offset_end": 150
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "[24]",
+          "offset_start": 150,
+          "offset_end": 154
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "[25]",
+          "offset_start": 154,
+          "offset_end": 158
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[26]",
+          "offset_start": 158,
+          "offset_end": 162
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[27]",
+          "offset_start": 356,
+          "offset_end": 360
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "[28]",
+          "offset_start": 413,
+          "offset_end": 417
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "[29 -31]",
+          "offset_start": 546,
+          "offset_end": 554
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b20021fd",
+      "text": "Both families include species associated with forest environments and more open types of vegetation, as well as urban and rural environments [32,33]. Studies in Argentina indicated that sites of intermediate impact had a higher diversity of calliphorids and sarcophagids than those where disturbance was either intense or totally absent [34]. Research on calliphorids in the Brazilian Amazon Forest, Atlantic Forest and Mangroves [35][36][37][38][39][40] indicates that the greatest variation in species composition and abundance is found between areas with different degrees of forestation, with the highest species richness being found in the forested environments. In sarcophagids, in contrast, the highest species richness in found typically in clearings and other open areas rather than forest [41,42]. Given this, the type of vegetation and the heterogeneity of the environment appear to be key factors determining the characteristics of calliphorid and sarcophagid communities.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "[32,",
+          "offset_start": 141,
+          "offset_end": 145
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "33]",
+          "offset_start": 145,
+          "offset_end": 148
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "[34]",
+          "offset_start": 337,
+          "offset_end": 341
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "[35]",
+          "offset_start": 430,
+          "offset_end": 434
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "[36]",
+          "offset_start": 434,
+          "offset_end": 438
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "[37]",
+          "offset_start": 438,
+          "offset_end": 442
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "[38]",
+          "offset_start": 442,
+          "offset_end": 446
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "[39]",
+          "offset_start": 446,
+          "offset_end": 450
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "[40]",
+          "offset_start": 450,
+          "offset_end": 454
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "[41,",
+          "offset_start": 799,
+          "offset_end": 803
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "42]",
+          "offset_start": 803,
+          "offset_end": 806
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_242346dd",
+      "text": "The Brazilian state of Maranhão encompasses a large area located strategically at the interface of the Amazon, Cerrado, and Caatinga biomes [43]. The vegetation of the state reflects the transition from the semi-arid climate of the Brazilian Northeast to the more humid climates of the northern region [44,45], which comprises enormous diversity of phytophysiognomies, with five main phytogeographic zones-Amazon Forest, Palm Groves (Mata de cocais), Cerrado, Marshlands, and Mangroves [43,46]. The vegetation of these zones varies considerably, with major differences in the physical structure of the environment [47], which varies according to plant species richness and abundance [7]. These zones can be divided into two main types, the more heterogeneous zones, that is, the Amazon Forest [48][49][50], Cerrado savannas [51][52][53][54] and Palm Groves [55,56], and the more homogeneous zones, characterized by a reduced plant diversity, that is, the Marshlands [46] and the Mangroves [57,58].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "[43]",
+          "offset_start": 140,
+          "offset_end": 144
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "[44,",
+          "offset_start": 302,
+          "offset_end": 306
+        },
+        {
+          "type": "bibr",
+          "target": "#b44",
+          "text": "45]",
+          "offset_start": 306,
+          "offset_end": 309
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "[43,",
+          "offset_start": 486,
+          "offset_end": 490
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "46]",
+          "offset_start": 490,
+          "offset_end": 493
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "[47]",
+          "offset_start": 614,
+          "offset_end": 618
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7]",
+          "offset_start": 683,
+          "offset_end": 686
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "[48]",
+          "offset_start": 793,
+          "offset_end": 797
+        },
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "[49]",
+          "offset_start": 797,
+          "offset_end": 801
+        },
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "[50]",
+          "offset_start": 801,
+          "offset_end": 805
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "[51]",
+          "offset_start": 824,
+          "offset_end": 828
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "[52]",
+          "offset_start": 828,
+          "offset_end": 832
+        },
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "[53]",
+          "offset_start": 832,
+          "offset_end": 836
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "[54]",
+          "offset_start": 836,
+          "offset_end": 840
+        },
+        {
+          "type": "bibr",
+          "target": "#b54",
+          "text": "[55,",
+          "offset_start": 857,
+          "offset_end": 861
+        },
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "56]",
+          "offset_start": 861,
+          "offset_end": 864
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "[46]",
+          "offset_start": 966,
+          "offset_end": 970
+        },
+        {
+          "type": "bibr",
+          "target": "#b56",
+          "text": "[57,",
+          "offset_start": 989,
+          "offset_end": 993
+        },
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "58]",
+          "offset_start": 993,
+          "offset_end": 996
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_e0847af7",
+      "text": "Given this basic difference, this study evaluated the structure of the necrophagous dipteran communities of the Calliphoridae and Sarcophagidae families in the five phytogeographic zones of the Brazilian state of Maranhão. The study tested the hypothesis that the more heterogeneous phytogeographic zones (Amazon Forest, Cerrado and Palm Groves) are characterized by a greater species richness and abundance of these dipterans than found in the Marshlands and Mangroves.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_853c5c7d",
+      "text": "The present study was conducted in 45 areas of natural vegetation located in 14 municipalities of the Brazilian state of Maranhão (Fig",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_72c6b536",
+      "text": "1, Table 1). There are two types of climate found in the state, according to the Köppen classification system, type Am in the western extreme (Amazon Forest Zone), which is characterized by a tropical monsoon type of climate with a short dry season, while the Aw type prevails in the rest of the state (Cerrado, Palm groves, Marshlands and Mangrove), characterized as a tropical savanna climate, with dry winters and intense summer rains [59].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b58",
+          "text": "[59]",
+          "offset_start": 438,
+          "offset_end": 442
+        }
+      ],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_837663c1",
+      "text": "The Cerrado vegetation is a heterogeneous mosaic of habitats, with grasslands at one extreme and forest formations at the other, forming a gradient of tree height and density [61,62]. Based on the size and density of its trees and shrubs, the Cerrado can be divided into four habitat subgroups-savanna woodland (Cerradão), tree savanna, park savanna and grassyshrubby savanna [63]. Savanna woodland areas (Fig 1 ) were selected for this study. This is a forest formation with a non-grassy herbaceous stratum dominated by seedlings and shrubs, with relatively well-developed tree cover and taller trees than those found in the other savanna subtypes [64].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "[61,",
+          "offset_start": 175,
+          "offset_end": 179
+        },
+        {
+          "type": "bibr",
+          "target": "#b61",
+          "text": "62]",
+          "offset_start": 179,
+          "offset_end": 182
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "[63]",
+          "offset_start": 376,
+          "offset_end": 380
+        },
+        {
+          "type": "bibr",
+          "target": "#b63",
+          "text": "[64]",
+          "offset_start": 649,
+          "offset_end": 653
+        }
+      ],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_a144055e",
+      "text": "The predominant vegetation in the Amazon Forest is dense rainforest (Fig 1), which is the region's most exuberant type of habitat, with trees reaching 20 m in height [63]. Tropical forests are known for their high plant diversity [65], which is sustained in large part by niche differentiation [66] and is closely related to the spatial heterogeneity of the forest.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "[63]",
+          "offset_start": 166,
+          "offset_end": 170
+        },
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": "[65]",
+          "offset_start": 230,
+          "offset_end": 234
+        },
+        {
+          "type": "bibr",
+          "target": "#b65",
+          "text": "[66]",
+          "offset_start": 294,
+          "offset_end": 298
+        }
+      ],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_50fb4b0e",
+      "text": "The Palm Groves are located between the Cerrado and the Amazon Forest, and are characterized by a mixture of plant species found in these vegetation types (Fig 1). This forest is evergreen with prevailing babaçu palm (Orbignya phalerata), and trees of reduced height in comparison with the typical dense Amazon broadleaf forest.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_069d94ed",
+      "text": "The Marshland zone (Fig 1) is an immense area formed by a series of lakes with extensive marshes and flooded grassland, which are dry during approximately seven months of the year. These floodplains are dominated by open vegetation, with several taller trees and palms, in addition to the igapó swamp, found at the banksof streams, rivers, and lakes, lasting four to six months of the year (Fig 1). The areas selected for this study were open fields dominated by herbaceous vegetation interspersed with a few trees and lianas.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_a2057485",
+      "text": "The mangrove is a microphanerophyte community found in brackish environments, generally at the mouths of rivers and in coastal channels, where the muddy soils support a specialized Table 1. Geographic coordinates of the area surveyed in the Brazilian state of Maranhão (2010-2012) and their respective municipalities and phytogeographic zones. Area Municipality South West Phytogeographic zones Number of traps by area 1 Carolina 07˚22'10.80\" 047˚15'56.93\" Cerrado-C 2 Carolina 07˚20'11.28\" 047˚15'59.87\" Cerrado-C 3 Carolina 07˚21'21.60\" 047˚12'46.00\" Cerrado-C 4 Riachão 07˚25'28.79'' 046˚38'51.17'' Cerrado-C 5 Riachão 07˚42'53.85'' 046˚45'4.53'' Cerrado-C 6 Riachão 07˚38'22.85'' 046˚45'53.15'' Cerrado-C 7 Balsas 07˚26'44.07'' 046˚08'29.99'' Cerrado-C 8 Balsas 07˚28'28.75'' 046˚06'03.23'' Cerrado-C 9 Balsas 07˚29'09.59'' 046˚07'20.99'' Cerrado-C 10 Esperantinopolis 04˚55'09.02'' 044˚57'09.43'' Palm Grove-PG 11 Esperantinopolis 04˚56'04.83'' 044˚58'07.58'' Palm Grove-PG 12 Esperantinopolis 04˚55'25.86'' 044˚55'56.33'' Palm Grove-PG 13 Poc ¸ãodePedras 04˚49'10.95'' 044˚55'35.55'' Palm Grove-PG 14 Poc ¸ãodePedras 04˚48'5.55'' 044˚54'06.22'' Palm Grove-PG 15 Poc ¸ãodePedras 04˚46'23.22'' 044˚53'00.38'' Palm Grove-PG 16 LagodoJunco 04˚36'51.45'' 045˚02'26.62'' Palm Grove-PG 17 LagodoJunco 04˚35'56.37'' 045˚02'01.28'' Palm Grove-PG 18 LagodoJunco 04˚33'23.03'' 045˚03'04.09'' Palm Grove-PG 19 Cajari 03˚19'18.03'' 044˚52'13.06'' Marshlands-ML 20 Cajari 03˚18'49.3'' 044˚54'26.08'' Marshlands-ML 21 Cajari 03˚17'10.0' 044˚57'21.01'' Marshlands-ML 22 Cajapio ´02˚51'33.5'' 044˚41'31.08'' Marshlands-ML 23 Cajapio ´02˚51'12.6'' 044˚42'46.06'' Marshlands-ML 24 Cajapio ´02˚49'07.67'' 044˚44'31.22'' Marshlands-ML 25 Viana 03˚14'16.2'' 044˚56'25.3'' Marshlands-ML 26 Viana 03˚12'51.6'' 045˚02'19.5'' Marshlands-ML 27 Viana 03˚12'21.59'' ,045˚03'51.25'' Marshlands-ML 28 Cedral 01˚57'44.3' 044˚30'41.6'' Mangrove-M 29 Cedral 01˚59'13.79'' 044˚29'41.21'' Mangrove-M 30 Cedral 02˚00'20.2'' 044˚34'20.2'' Mangrove-M 31 Guimaraes 02˚03'50.54'' 044˚31'05.21'' Mangrove-M 32 Guimaraes 02˚02'54.2'' 044˚29'47.7'' Mangrove-M 33 Guimaraes 02˚02'11.37'' 044˚33'03.09'' Mangrove-M 34 Ca ˆndido Mendes 01˚25'54.39'' 045˚30'45.12'' Mangrove-M 35 Ca ˆndido Mendes 01˚29'30.67'' 045˚32'39.54'' Mangrove-M 36 Turiac ¸u ´01˚31'07.4'' 045˚25'47.2'' Mangrove-M 37 Centro Novo do MA 03˚37'09.1'' 046˚43'22.6'' Amazon Forest-AF 38 Centro Novo do MA 03˚35'47.34'' 046˚42'54.56'' Amazon Forest-AF 39 Centro Novo do MA 03˚36'34.6'' 046˚44'20.8'' Amazon Forest-AF 40 Centro Novo do MA 03˚35'39.8'' 046˚45'48.3'' Amazon Forest-AF 41 Centro Novo do MA 03˚33'57.90'' 046˚45'32.78'' Amazon Forest-AF 42 Centro Novo do MA 03˚33'35.14'' 046˚50'17.11'' Amazon Forest-AF 43 Centro Novo do MA 03˚35'34.60'' 046˚50'25.40'' Amazon Forest-AF 44 Centro Novo do MA 03˚32'07.16'' 046˚47'39.95'' Amazon Forest-AF 45 Centro Novo do MA 03˚34'52.4'' 046˚46'43.6'' Amazon Forest-AF doi:10.1371/journal.pone.0164826.t001",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_ad87f904",
+      "text": "vegetation adapted to highly saline conditions and include: Rhizophora mangle L., Avicennia spp. (the local species depends on its latitude), and Laguncularia racemosa L. which grows on the highest terrain and is only flooded at high tide (Fig 1). One or two of these elements may be missing from some areas, however, a homogeneous Rhizophora mangrove is typical of some parts of the Maranhão coast [63].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "[63]",
+          "offset_start": 399,
+          "offset_end": 403
+        }
+      ],
+      "head_paragraph": "Material and Methods",
+      "head_section": "Study area"
+    },
+    {
+      "id": "p_e21d3e64",
+      "text": "The permits for the collection and transportation of zoological specimens (necrophagous Diptera) were provided by the Chico Mendes Institute for the Conservation of Biodiversity (ICM-Bio) / Sisbio, in accordance with federal law and the regulations of the Brazilian Environmental Ministry, through process number 1403-1 (for private properties) and 29342-1 (for the conservation unit, the Gurupi Biological Reserve in the state of Maranhão). In private sampling sites, permission from the owner or manager was obtained prior to sampling. None of the sampled species were protected by Brazilian law or red-listed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Data collection"
+    },
+    {
+      "id": "p_bc0552c4",
+      "text": "The campaigns for the collection of fly specimens were conducted during the dry season, between August and October in 2010, April through October in 2011, and May through November in 2012.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Data collection"
+    },
+    {
+      "id": "p_d240992e",
+      "text": "The 45 areas (sampling units) were distributed evenly among the five phytogeographic zones, three of which (Cerrado, Amazon Forest and Palm Groves) are more heterogeneous in terms of the complexity of their vegetation, whereas the other two zones (Marshlands and Mangrove) were more homogeneous. Nine well-conserved areas (replicates) were sampled in each zone, always in natural habitats, with a minimum distance of 2 km between sites. Each area was sampled twice, with five traps per area, making a total of 225 traps, with 450 samples (two per trap) being collected by the end of the study.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Data collection"
+    },
+    {
+      "id": "p_38084433",
+      "text": "The specimens were collected in traps designed specifically for the capture of saprophagous dipterans [32], as described by Almeida et al. [67] and used successfully by Sousa et al [37]. The traps were baited with 50 g of cow lung, and were placed in shaded locations, along a 1 km transect at intervals of 200 m, for 48 h. A total of 45 traps were set in each of the nine phytogeographic zones.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "[32]",
+          "offset_start": 102,
+          "offset_end": 106
+        },
+        {
+          "type": "bibr",
+          "target": "#b66",
+          "text": "[67]",
+          "offset_start": 139,
+          "offset_end": 143
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "[37]",
+          "offset_start": 181,
+          "offset_end": 185
+        }
+      ],
+      "head_section": "Data collection"
+    },
+    {
+      "id": "p_8569df6f",
+      "text": "The calliphorid specimens were identified using the keys of Mello [68], Carvalho & Mello-Patiu [69], and Kosmann et al. [70]. The sarcophagids were identified using the species keys available for the genera Thexysarcodexia Townsend [71,72] and Peckia Robineau-Desvoidy [73] and other references, including the studies of Lopes [74][75][76][77], Tibana [78,79], Tibana & Xerez [80], and Guimarães [81].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b67",
+          "text": "[68]",
+          "offset_start": 66,
+          "offset_end": 70
+        },
+        {
+          "type": "bibr",
+          "target": "#b68",
+          "text": "[69]",
+          "offset_start": 95,
+          "offset_end": 99
+        },
+        {
+          "type": "bibr",
+          "target": "#b69",
+          "text": "[70]",
+          "offset_start": 120,
+          "offset_end": 124
+        },
+        {
+          "type": "bibr",
+          "target": "#b70",
+          "text": "[71,",
+          "offset_start": 232,
+          "offset_end": 236
+        },
+        {
+          "type": "bibr",
+          "target": "#b71",
+          "text": "72]",
+          "offset_start": 236,
+          "offset_end": 239
+        },
+        {
+          "type": "bibr",
+          "target": "#b72",
+          "text": "[73]",
+          "offset_start": 269,
+          "offset_end": 273
+        },
+        {
+          "type": "bibr",
+          "target": "#b73",
+          "text": "[74]",
+          "offset_start": 327,
+          "offset_end": 331
+        },
+        {
+          "type": "bibr",
+          "target": "#b74",
+          "text": "[75]",
+          "offset_start": 331,
+          "offset_end": 335
+        },
+        {
+          "type": "bibr",
+          "target": "#b75",
+          "text": "[76]",
+          "offset_start": 335,
+          "offset_end": 339
+        },
+        {
+          "type": "bibr",
+          "target": "#b76",
+          "text": "[77]",
+          "offset_start": 339,
+          "offset_end": 343
+        },
+        {
+          "type": "bibr",
+          "target": "#b77",
+          "text": "[78,",
+          "offset_start": 352,
+          "offset_end": 356
+        },
+        {
+          "type": "bibr",
+          "target": "#b78",
+          "text": "79]",
+          "offset_start": 356,
+          "offset_end": 359
+        },
+        {
+          "type": "bibr",
+          "target": "#b79",
+          "text": "[80]",
+          "offset_start": 376,
+          "offset_end": 380
+        },
+        {
+          "type": "bibr",
+          "target": "#b80",
+          "text": "[81]",
+          "offset_start": 396,
+          "offset_end": 400
+        }
+      ],
+      "head_section": "Data collection"
+    },
+    {
+      "id": "p_15dcb79a",
+      "text": "Part of the material collected was prepared in a dry medium and deposited in the Entomology Collection of the Goeldi Museum (MPEG) and the Zoology Museum at the Biological Sciences Institute of UFPA, both in Belém. The rest of the specimens were conditioned in liquid medium (70% ethanol) and then included in the teaching collection of Prof. Clésio Fonseca Zoology Laboratory at the Imperatriz campus of Maranhão State University.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Data collection"
+    },
+    {
+      "id": "p_394404c7",
+      "text": "The species richness was estimated for each phytogeographic zone using a first-order jackknife approach [82] run in EstimateS, version 9.0 [83]. The sampling efficiency was evaluated through cumulative species curves, using the same estimator, with 1,000 randomizations based on the number of traps [84]. Richness estimators were used to evaluate the heterogeneity of the data. Each occurrence of a species considered rare [83] increases the heterogeneity of the dataset and the probability of encountering a new species. In this case, the first-order jackknife estimator is less strict than other estimators, with species occurring in only one sample (\"unique species\") being considered rare [85], and was thus considered the most appropriate estimator for this study. We emphasize that we also performed the analyses using the first-order Chao estimator in addition to the jackknife estimate, but the result obtained using the two estimators were congruent. Therefore, we chose to present the article only the results of the first-order jackknife. A confidence interval-based inference approach was used to test the hypothesis that the differences found among the phytogeographic zones influenced the species richness of calliphorids and sarcophagids. This approach was also based on first-order jackknife estimates [84], with the zones being considered significantly different when their respective confidence intervals did not overlap the mean values of the other zone.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b81",
+          "text": "[82]",
+          "offset_start": 104,
+          "offset_end": 108
+        },
+        {
+          "type": "bibr",
+          "target": "#b82",
+          "text": "[83]",
+          "offset_start": 139,
+          "offset_end": 143
+        },
+        {
+          "type": "bibr",
+          "target": "#b83",
+          "text": "[84]",
+          "offset_start": 299,
+          "offset_end": 303
+        },
+        {
+          "type": "bibr",
+          "target": "#b82",
+          "text": "[83]",
+          "offset_start": 423,
+          "offset_end": 427
+        },
+        {
+          "type": "bibr",
+          "target": "#b84",
+          "text": "[85]",
+          "offset_start": 693,
+          "offset_end": 697
+        },
+        {
+          "type": "bibr",
+          "target": "#b83",
+          "text": "[84]",
+          "offset_start": 1318,
+          "offset_end": 1322
+        }
+      ],
+      "head_section": "Data analysis"
+    },
+    {
+      "id": "p_2ec637f8",
+      "text": "Species composition was analyzed using non-metric multidimensional scaling (NMDS) based on a Bray-Curtis dissimilarity matrix [86,87], with the data being log (x+1) transformed to reduce the effect of discrepant values. To test the hypothesis that differences among the phytogeographic zones influence the composition and abundance of calliphorid and sarcophagid species, a nonparametric permutational analysis of variance (PERMANOVA) for models with multiple factors was applied, based on a Bray-Curtis similarity index, with 9,999 permutations [88]. When significant results were obtained for the PERMANOVA, multiple pairwise a posteriori tests were applied for comparisons between zones.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b85",
+          "text": "[86,",
+          "offset_start": 126,
+          "offset_end": 130
+        },
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": "87]",
+          "offset_start": 130,
+          "offset_end": 133
+        },
+        {
+          "type": "bibr",
+          "target": "#b87",
+          "text": "[88]",
+          "offset_start": 546,
+          "offset_end": 550
+        }
+      ],
+      "head_section": "Data analysis"
+    },
+    {
+      "id": "p_1b0b4963",
+      "text": "The mean similarity of the zones based on the structure of the calliphorid and sarcophagid community, and the species that most contributed to the similarity among environments were determined by a percentage similarity analysis, or SIMPER [87]. The dissimilarity between zones and the species that most contributed to this dissimilarity were also analyzed using SIM-PER [87].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": "[87]",
+          "offset_start": 240,
+          "offset_end": 244
+        },
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": "[87]",
+          "offset_start": 371,
+          "offset_end": 375
+        }
+      ],
+      "head_section": "Data analysis"
+    },
+    {
+      "id": "p_bad622ea",
+      "text": "A total of 6,498 calliphorid specimens were collected, distributed in seven genera and 12 species (Table 2; S1 Table). The most abundant were Chrysomya albiceps (Wiedemann) (29.38% of the specimens) and Cochliomyia macellaria (Fabricius) (23.07%). A total of 2,921 sarcophgid specimens (Table 3; S2 Table) were collected, representing 11 genera and 40 species, of which the most abundant were Tricharaea (Sarcophagula) occidua (Fabricius) (32.80%) and Peckia (Sarcodexia) lambens (Wiedemann) (20.16%).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_77ff72e5",
+      "text": "The sampling efficiency varied between 63% and 82% for the family Calliphoridae, and between 70% and 83% for the Sarcophagidae, indicating that the sampling effort was sufficient to estimate species richness. In some zones, however, the cumulative species curve did not stabilize (Figs 2 and 3, Table 4). The highest calliphorid species richness was estimated for the Cerrado zone (13.96±2.76), followed by the Amazon Forest (13.91±3.81), and Palm Grove (10.98±1.98), but with no significant difference among the zones (Fig 4). The highest sarcophagid richness was also recorded in the Cerrado (34.8±6.05) and Palm Grove (26.84±8.42), which were statistically similar (Fig 4). The Amazon Forest (9.93±3.33) returned the lowest estimated richness of sarcophagid species for any zone.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Species richness"
+    },
+    {
+      "id": "p_6abb7e4f",
+      "text": "Significant differences were found in the composition and abundance of both calliphorid (pseudo-F = 54.01; d.f. = 4; p < 0.001) and sarcophagid (pseudo-F = 6.69; d.f. = 4; p < 0.001) species in the different phytogeographic zones (Table 5). The results were significant (p < 0.01) for all the comparisons among zones, in both the Calliphoridae and the Sarcophagidae (Table 6), which predominate in the Cerrado (40.97% of the Calliphoridae and 48.61% of the Sarcophagidae) and Palm Grove, with 20.85% and 27.80%, respectively (Tables 2 and 3).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Composition and abundance"
+    },
+    {
+      "id": "p_520fb17d",
+      "text": "The ordination analysis showed a segregation of the calliphorid and sarcophagid communities among zones. In the calliphorids, there was a clear gradient from the more homogeneous zones (Marshlands and Mangrove) to the most heterogeneous ones, i.e., Amazon Forest, Cerrado, and Palm Grove (Fig 5A ; axis 1). In the sarcophagids, however, the Amazon Forest was clearly separated from the other zones (Fig 6A ; axis 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Composition and abundance"
+    },
+    {
+      "id": "p_b357d885",
+      "text": "A strong association was observed between the calliphorids Chloroprocta idioidea (Robineau-Desvoid), Mesembrinella bicolor (Fabricius), Hemilicilia semidiaphana (Rondani) and Lucilia eximia (Wiedemann) and the Cerrado, Palm Grove, and Amazon Forest zones, and of Chrysomya megacephala (Fabricius) with the Mangrove zone (Fig 5B). Similarly, the sarcophagids Peckia (Euboettcheria) subducta (Lopes) and Peckia (Pattonella) palidipilosa were associated with the Amazon Forest, P.(S.) lambens with the Palm Grove and Cerrado, and T. (S.) occidua with the Cerrado (Fig 6B).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Lopes)",
+          "offset_start": 390,
+          "offset_end": 397
+        }
+      ],
+      "head_section": "Composition and abundance"
+    },
+    {
+      "id": "p_89aa8d4b",
+      "text": "The mean similarity between zones varied from 77% to 86% in the calliphorids, and from 31% to 57% in the sarcophagids (Table 7). The calliphorids C. albiceps, L. eximia, C. macellaria, C. megacephala and C. idioidea contributed most to the observed pattern. The sarcophagid species that most contributed to the similarity among zones were P. (S.) lambens, P. (P). chrysostoma and Oxysarcodexia intona (Curran & Walley).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Similarities among zones"
+    },
+    {
+      "id": "p_d81e3b97",
+      "text": "In the case of the calliphorids, C. albiceps and C. macellaria were the main species responsible for the mean levels of similarity in the Cerrado and Marshland zones, whereas C. megacephala and C. albiceps were the key species for the Mangrove, L. eximia and C. idioidea contributed most to the similarity in the Palm Grove, and C. idioidea and M. bicolor in the Amazon Forest (Table 6).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Similarities among zones"
+    },
+    {
+      "id": "p_7655e55f",
+      "text": "Table 2. Composition and abundance of calliphorid species in the different phytogeographic zones surveyed in the Brazilian state of Maranhão, between 2010 and 2012. SPECIES PZ-C PZ-PG PZ-AF PZ-ML PZ-M TOTAL % Chrysomya albiceps (Wiedemann, 1819) 1,270 194 30 109 306 1,909 29.32 Chrysomya megacephala (Fabricius, 1794) 106 54 0 0 578 738 11.33 Chrysomya putoria (Wiedemann, 1819) 34 6 0 0 38 78 1.20 Chloroprocta idioidea (Robineau-Desvoidy,1830) 382 234 426 12 0 1,054 16.19 Cochliomyia hominivorax (Coquerel, 1858) 3 0 1 0 1 5 0.08 Cochliomyia macellaria (Fabricius, 1775) 647 317 22 419 94 1,499 23.02 Hemilucilia benoisti Se ´guy, 1925 0 1 0 0 0 1 0.02 Hemilucilia segmentaria (Fabricius, 1805) 2 0 1 0 0 3 0.05 Hemilucilia semidiaphana (Rondani, 1850) 6 6 156 0 0 168 2.58 Lucilia eximia (Wiedemann, 1819) 135 540 108 10 0 793 12.18 Mesembrinella bicolor (Fabricius, 1805) 66 0 169 0 0 235 3.61 Paralucilia paraensis (Mello, 1969) 11 3 1 0 0 15 0.23 ABUNDANCE 2,662 1,355 914 550 1,017 6,498 100 ABUNDANCE % 40.97 20.85 14.07 8.46 15.65 100 RICHNESS (S) 11 9 9 4 5 Legend: PZ = Phytogeographic Zones; C = Cerrado; PG = Palm Grove; AF = Amazon Forest; ML = Marshlands; M = Mangrove. doi:10.1371/journal.pone.0164826.t002 Table 3. Composition and abundance of sarcophagid species in the different phytogeographic zones surveyed in the Brazilian state of Maranhão, between 2010 and 2012. SPECIES PZ-C PZ-PG PZ-AF PZ-ML PZ-M TOTAL % Blaesoxipha (Gigantotheca) stallengi 2 0 0 0 0 2 0.07 Helicobia aurescens (Townsend, 1927) 1 1 0 0 0 2 0.07 Helicobia borgmeieri Lopes,1939 1 0 0 0 0 1 0.03 Helicobia morionella (Aldrich, 1930) 6 2 0 0 1 9 0.31 Helicobia pilifera Lopes, 1939 11 0 0 0 0 11 0.38 Helicobia pilipleura Lopes 1939 0 2 0 0 0 2 0.07 Helicobia rapax (Walker, 1849) 0 4 0 0 0 4 0.14 Oxysarcodexia admixta (Lopes, 1933) 0 4 0 0 0 4 0.14 Oxysarcodexia amorosa (Schiner, 1868) 0 0 0 1 15 16 0.55 Oxysarcodexia aura (Hall,1937) 1 0 0 0 0 1 0.03 Oxysarcodexia avuncula (Lopes, 1933) 1 11 0 0 0 12 0.41 Oxysarcodexia bakeri (Aldrich, 1916) 0 0 0 0 1 1 0.03 Oxysarcodexia fringidae (Curran & Walley, 1934) 0 1 0 18 2 21 0.72 Oxysarcodexia intona (Curran & Walley, 1934) 0 213 0 214 28 455 15.58 Oxysarcodexia modesta Lopes, 1946 8 0 0 0 0 8 0.27 Oxysarcodexia thornax (Walker, 1849) 37 43 0 0 0 80 2.74 Oxysarcodexia timida (Aldrich, 1916) 11 1 0 0 11 23 0.79 Oxysarcodexia vilosa Lopes, 1946 0 0 0 0 3 3 0.1 Peckia (Euboettcheria) anguilla (Curran & Walley, 1934) 3 10 2 0 1 16 0.55 Peckia (Euboettcheria) collusor (Curran & Walley, 1934) 28 62 5 4 21 120 4.11 Peckia (Euboettcheria) subducta (Lopes, 1935) 0 0 1 0 0 1 0.03 Peckia (Peckia) chrysostoma (Wiedemann, 1830) 67 121 0 83 126 397 13.59 Peckia (Peckia) pexata (Wulp, 1895) 8 15 0 10 0 33 1.13 Peckia (Peckia) uncinata (Hall, 1933) 0 0 0 2 0 2 0.07 Peckia (Pattonella) intermutans(Walker, 1861) 11 3 0 0 0 14 0.48 Peckia (Pattonella) palidipilosa (Curran & Walley, 1934) 0 0 1 0 0 1 0.03 Peckia (Squamatodes) ingens (Walker,1849) 39 35 6 0 0 80 2.74 Peckia (Squamatodes) trivitata (Curran, 1927) 1 1 0 0 0 2 0.07 Peckia (Sarcodexia) lambens (Wiedemann, 1830) 290 237 13 34 15 589 20.16 Ravinia belforti (Prado & Fonseca, 1932) 1 1 0 0 0 2 0.07 Ravinia effrenata (Walker, 1861) 20 0 0 0 0 20 0.68 Retrocitomyia mizuguchiana Tibana & Xerez, 1985 4 0 0 2 0 6 0.21 Retrocitomya uromajoensis Lopes, 1985 0 0 0 0 5 5 0.17 Sarcophaga (Lipoptilocnema) misella Lopes, 1938 1 0 0 0 0 1 0.03 Sarcofahrtiopsis cuneata Townsend, 1935 2 0 0 0 0 2 0.07 Sarcophaga polistensis Hall, 1933 1 0 0 0 0 1 0.03 Titanogrypa (Cucullomyia) larvicida (Lopes, 1935) 1 0 0 0 0 1 0.03 Tricharaea (Sarcophagula) canuta Wulp, 1896 0 0 0 0 13 13 0.45 Tricharaea (Sarcophagula) occidua (Fabricius, 1794) 864 45 1 18 30 958 32.8 Villegasia almeidai (Lopes, 1938) 0 0 0 0 2 2 0.07 ABUNDANCE 1,420 812 29 386 274 2,921 100 ABUNDANCE % 48.61 27.8 0.99 13.21 9.38 100 RICHNESS (S) 26 20 7 10 15 6).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Similarities among zones"
+    },
+    {
+      "id": "p_97177c48",
+      "text": "In the calliphorids, the highest dissimilarity scores were obtained for the comparisons between the Amazon Forest and the Mangrove and Marshland zones. The highest values for the sarcophagids were found between the Amazon Forest and all the other four zones, in other words, the Palm Grove, Cerrado, Marshlands, and Mangrove (Table 8).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Dissimilarity among zones"
+    },
+    {
+      "id": "p_570b67de",
+      "text": "The calliphorid and sarcophagid communities varied considerably among the different phytogeographic zones found in the Brazilian state of Maranhão. The communities in the more structured and heterogeneous vegetation types had higher species richness than those observed in the less complex zones, with the exception of the sarcophagids in the Amazon Forest zone.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_4c3b49b7",
+      "text": "The lower sarcophagid species richness recorded in the Amazon Forest may be related to microclimatic variables and the dense vegetation characteristics of this environment, which may be unfavorable to many species that depend on exposure to sunlight [89][90][91]. In a number of studies, larger numbers of sarcophagid flies were collected on bait exposed in sunny areas in comparison with more shaded sites [91]. Furthermore, adults were observed flying or visiting flowers during the sunniest hours of the day [89,90]. The color of the abdominal cuticle of the sarcophagids has a high capacity for thermal reflectance [90], which could help minimize overheating. Sousa and colleagues [42] also recorded a lower species richness of sarcophagids in forests, in comparison to neighboring environments, with varying degrees of vegetation cover (clearings at different stages of recuperation) in the Amazon Forests.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b88",
+          "text": "[89]",
+          "offset_start": 250,
+          "offset_end": 254
+        },
+        {
+          "type": "bibr",
+          "target": "#b89",
+          "text": "[90]",
+          "offset_start": 254,
+          "offset_end": 258
+        },
+        {
+          "type": "bibr",
+          "target": "#b90",
+          "text": "[91]",
+          "offset_start": 258,
+          "offset_end": 262
+        },
+        {
+          "type": "bibr",
+          "target": "#b90",
+          "text": "[91]",
+          "offset_start": 407,
+          "offset_end": 411
+        },
+        {
+          "type": "bibr",
+          "target": "#b88",
+          "text": "[89,",
+          "offset_start": 511,
+          "offset_end": 515
+        },
+        {
+          "type": "bibr",
+          "target": "#b89",
+          "text": "90]",
+          "offset_start": 515,
+          "offset_end": 518
+        },
+        {
+          "type": "bibr",
+          "target": "#b89",
+          "text": "[90]",
+          "offset_start": 619,
+          "offset_end": 623
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "[42]",
+          "offset_start": 685,
+          "offset_end": 689
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_45a73302",
+      "text": "In the case of the calliphorids, studies in the Brazilian Atlantic Forest [38-40, 92, 93] and Amazonia [35][36][37] have invariably recorded higher species richness in forests in comparison to open habitats. This positive relationship between species richness and habitat complexity appears to be typical of these dipterans [7], and is based on the premise that a more complex environment will provide a greater abundance of potential niches, enabling the coexistence of a larger number of species [3]. For the calliphorids, in particular, the more complex formations (Cerrado, Amazon Forest, and Palm Grove) may provide a greater diversity of potential feeding resources for both adults and larvae, such as feces and animal carcasses, as well as providing more shaded and stable environments. The resources available in open environments are more exposed to rainfall and dehydration, which makes them more ephemeral. As the sarcophagids are viviparous or ovoviviparous [94], their larvae remain in the substrates where they breed for shorter periods, and they are therefore less exposed to these environmental conditions. In this case, less sarcophagid diversity was lost in the more open formations (mangrove and marshlands) than in the more complex habitats, in contrast with the pattern observed in the calliphorids. However, sarcophagid diversity was also higher in the more complex and heterogeneous environments, such as the Cerrado and palm groves, which are naturally more open than the Amazon Forest. This may also account for the lower abundance and species richness of sarcophagids found in the Amazon Forest, where the incidence of sunlight is limited by the closed canopy, restricting the occurrence of many species.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "[38-40, 92, 93]",
+          "offset_start": 74,
+          "offset_end": 89
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "[35]",
+          "offset_start": 103,
+          "offset_end": 107
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "[36]",
+          "offset_start": 107,
+          "offset_end": 111
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "[37]",
+          "offset_start": 111,
+          "offset_end": 115
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7]",
+          "offset_start": 324,
+          "offset_end": 327
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "[3]",
+          "offset_start": 498,
+          "offset_end": 501
+        },
+        {
+          "type": "bibr",
+          "target": "#b93",
+          "text": "[94]",
+          "offset_start": 970,
+          "offset_end": 974
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_f9dbce40",
+      "text": "Table 4. Sampling efficiency (observed and estimated species richness) of the calliphorid and sarcophagid species in the different phytogeographic zones (Cerrado, Palm Grove, Marshlands, Mangroves, and Amazon Forest) surveyed in the Brazilian state of Maranhão between 2010 and 2012. Family Calliphoridae PZ-Cerrado PZ-Palm Grove PZ-Amazon Forest PZ-Marshlands PZ-Mangrove Observed Richness 11 9 9 4 5 Estimated Richness 14 11 14 6 8 Sampling Efficiency (%) 79 82 64 67 63 Family Sarcophagidae PZ-Cerrado PZ-Palm Grove PZ-Amazon Forest PZ-Marshlands PZ-Mangrove Observed Richness 26 20 7 10 15 Estimated Richness 35 27 10 12 18 Sampling Efficiency (%) 74 74 70 83 83 Legend: PZ = Phytogeographic Zones doi:10.1371/journal.pone.0164826.t004 The calliphorid and sarcophagid communities were distributed along a vegetation complexity gradient (homogenous-heterogeneous), with patterns of occurrence and abundance typical of each zone. The species C. idioidea, M. bicolor and H. semidiaphana and L. eximia, which were associated with the Amazon Forest, Cerrado and Palm Grove, have already been recorded in forest environments [35-37, 39,95] and C. megacephala, which was associated with the Mangrove zone, has been registered in the mangroves of the Brazilian state of Rio de Janeiro [40,96]. Peckia (Euboettcheria) subducta (Lopes) and Peckia (Pattonella) palidipilosa (Curran & Walley) were associated with the Amazon Forest, P. (S.) lambens with the Palm Grove and Cerrado zones, and T. (S.) occidua the Cerrado.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "[35-37, 39,95]",
+          "offset_start": 1123,
+          "offset_end": 1137
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "[40,",
+          "offset_start": 1281,
+          "offset_end": 1285
+        },
+        {
+          "type": "bibr",
+          "target": "#b95",
+          "text": "96]",
+          "offset_start": 1285,
+          "offset_end": 1288
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Lopes)",
+          "offset_start": 1322,
+          "offset_end": 1329
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_801d0257",
+      "text": "The distribution pattern of the calliphorids resulted in greater mean similarity among the areas surveyed in each zone than the sarcophagids. This appears to be related to the much greater species diversity of the Sarcophagidae, which is double that of the Calliphoridae [97]. The Calliphoridae is known to include 1525 species, while the Sarcophagidae has close to 3094 [97]. While only 130 calliphorid species are found in the Neotropical region [98], there are about 800 sarcophagids [99], and in Brazil, only 38 calliphorid species have been recorded [100] compared with 350 sarcophagids [101]. These differences alone would be enough to account for the greater similarities found within the group with the lowest diversity (i.e., the Calliphoridae). It is important to note that the restriction of a species to forested areas may filter its distribution in an extremely selective way, although it may also result in a wider niche for other factors, such as feeding and egg-laying substrates, which would favor niche overlap, Table 6. Multiple a posteriori pairwise comparisons for the results of the Permutational Analysis of Variance (PERMANOVA) of the community structure of the calliphorids and sarcophagids recorded in the five phytogeographic zones of the Brazilian state of Maranhão. PHYTOGEOGRAPHIC ZONES Calliphoridae Sarcophagidae t P(perm) perms t P(perm) perms Cerrado x Palm Grove 2.65 0.0005 8123 1.93 0.0008 8166 Cerrado x Marshlands 4.9 0.0001 8139 3.60 0.0002 8159 Cerrado x Mangrove 5.62 0.0001 8117 2.76 0.0002 8166 Cerrado x Amazon Forest 6.8 0.0001 8164 2.66 0.0008 4328 Palm Grove x Marshlands 5.67 0.0003 8136 2.47 0.0004 8171 Palm Grove x Mangrove 8 0.0001 8154 2.12 0.0006 8192 Palm Grove x Amazon Forest 8.22 0.0001 8199 2.58 0.0002 4324 Marshlands x Mangrove 5.94 0.0001 8163 1.92 0.0017 8183 Marshlands x Amazon Forest 10.34 0.0002 8121 3 0.0001 4314 Mangrove x Amazon Forest 16.66 0.0002 8141 2.56 0.0001 4311 doi:10.1371/journal.pone.0164826.t006 Fig 6. Multi-dimensional non-metric scaling (NMDS) of the 45 study areas representing the five principal phytogeographic zones (Cerrado, Palm Grove, Amazon Forest, Marshlands, and Mangrove) found in the Brazilian state of Maranhão, between 2010 and 2012, based on the composition and abundance of sarcophagid species. A) Groups defined by the analysis; B) Association of species with the phytogeographic zones. doi:10.1371/journal.pone.0164826.g006",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b96",
+          "text": "[97]",
+          "offset_start": 271,
+          "offset_end": 275
+        },
+        {
+          "type": "bibr",
+          "target": "#b96",
+          "text": "[97]",
+          "offset_start": 371,
+          "offset_end": 375
+        },
+        {
+          "type": "bibr",
+          "target": "#b97",
+          "text": "[98]",
+          "offset_start": 448,
+          "offset_end": 452
+        },
+        {
+          "type": "bibr",
+          "target": "#b98",
+          "text": "[99]",
+          "offset_start": 487,
+          "offset_end": 491
+        },
+        {
+          "type": "bibr",
+          "target": "#b99",
+          "text": "[100]",
+          "offset_start": 555,
+          "offset_end": 560
+        },
+        {
+          "type": "bibr",
+          "target": "#b100",
+          "text": "[101]",
+          "offset_start": 592,
+          "offset_end": 597
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_ffb2d31e",
+      "text": "with no competitive exclusion of species. The calliphorid species that most contributed to the similarity found within each zone included species associated with more forested and well-preserved habitats, such as C. idioidea and L. eximia [32,33,37,102], as well as those associated with more open and urbanized environments, like C. albiceps, C. megacephala and C. macellaria [103]. The sarcophagids P. (S.) lambens, P. (P.) chrysostoma and O. intona have been recorded in both forests and more open or urbanized environments [104]. The greatest dissimilarities in calliphorid diversity were found between the most complex and heterogeneous zone (forest) and the most homogeneous ones (Marshlands and Mangroves). In the case of the sarcophagids, however, the greatest dissimilarities were found between the forests and all other zones, including the Cerrado and the Palm Grove. This indicates the influence of some additional factor that affects the diversity of sarcophagids in Amazon forested habitats, probably related to microclimatic factors and the greater shading in these environments, which reduces the potential exposure of the flies to sunlight. Given this, the selection of areas for the conservation of these and other taxa, should consider not only the contribution of the structurally more complex habitats, but areas representative of all the biomes, including the more homogeneous ones, such as the mangroves and Marshlands.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "[32,",
+          "offset_start": 239,
+          "offset_end": 243
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "33,",
+          "offset_start": 243,
+          "offset_end": 246
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "37,",
+          "offset_start": 246,
+          "offset_end": 249
+        },
+        {
+          "type": "bibr",
+          "target": "#b101",
+          "text": "102]",
+          "offset_start": 249,
+          "offset_end": 253
+        },
+        {
+          "type": "bibr",
+          "target": "#b102",
+          "text": "[103]",
+          "offset_start": 377,
+          "offset_end": 382
+        },
+        {
+          "type": "bibr",
+          "target": "#b103",
+          "text": "[104]",
+          "offset_start": 527,
+          "offset_end": 532
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_11fdb49e",
+      "text": "Our results have shown that the natural environments found in the different phytogeographic zones are inhabited by distinct sets of species. The composition of the fly communities varies because of the different climatic conditions of the distinct zones and the characteristics of their plant cover, which combine to create a unique set of environmental conditions under which the species survive, reproduce, and interact. These differences reinforce the need to take into account the characteristics of each distinct area when planning the conservation of a given region. Of the five vegetation types sampled in this study in the state of Maranhao, only the Cerrado and the Amazon rainforest have full conservation protection units, in other words, those with a higher degree of restriction of use by man (Cerrado 3%, Amazon Forest 2%) [43]. Furthermore, given the differences observed in the present study, and the local history of land use for farming and ranching, there is also an urgent need for the investigation of the effects of anthropogenic impacts on the calliphorid and sarcophagid communities found in each phytophysiognomy. These data will be essential for a more systematic understanding of the conservation status of the two groups within each study area.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "[43]",
+          "offset_start": 837,
+          "offset_end": 841
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_3f70fda5",
+      "text": "Table. Full list of dipteran necrophagous fauna of Calliphoridae family, sampling locations and environments. (XLS) S2 Table. Full list of dipteran necrophagous fauna of Sarcophagidae family, sampling locations and environments. (XLS)",
+      "coords": [],
+      "refs": [],
+      "head_section": "Supporting Information"
+    },
+    {
+      "id": "p_0e5d87ac",
+      "text": "We thank the Maranhão State Research Foundation for funding and for providing the first author with a doctoral stipend. Leandro Juen (process: 303252/2013-8) and Maria Cristina Esposito (process: 309572/2013-4) would like to thank CNPq for research fellowships. The authors are also grateful to Dr. Stephen F. Ferrari and to the editor J. Joe Hull for revising our manuscript and to the anonymous reviewer who has contributed substantially to the improvement of manuscript.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgments"
+    },
+    {
+      "id": "p_8d79efa9",
+      "text": "The authors acknowledge the Maranhão State Research Foundation for funding and for providing the first author with a doctoral stipend (JRPS), and the National Counsel of Technological and Scientific Development, for research fellowships (LJ and MCE).",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_ed892d0e",
+      "text": "All relevant data are within the paper and its Supporting Information files. (S1 Table: Full list of dipteran necrophagous fauna of Calliphoridae family, sampling locations and environments. S2 Table: Full list of dipteran necrophagous fauna of Sarcophagidae family, sampling locations and environments.)",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_938687ba",
+      "text": "Conceptualization: JRPS FSCF LJ MCE.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Author Contributions"
+    },
+    {
+      "id": "p_a5d6a79b",
+      "text": "Data curation: JRPS.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Author Contributions"
+    },
+    {
+      "id": "p_c1fec7e9",
+      "text": "Funding acquisition: JRPS LJ MCE.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Formal analysis: JRPS LJ."
+    },
+    {
+      "id": "p_bf203468",
+      "text": "Resources: JRPS MCE.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Methodology: JRPS."
+    },
+    {
+      "id": "p_a15bf299",
+      "text": "Writing -review & editing: JRPS LJ MCE.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Writing -original draft: JRPS FSCF LJ MCE."
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig 1 .",
+      "type": "figure",
+      "desc": "Fig 1. a: Location in Brazil; b: Location of the municipalities in the Brazilian state of Maranhão (modified from Sousa et al. 2015 [60]), in which the samples were collected and their respective phytogeographic zones (Cerrado, Amazon Forest, Palm Groves, Marshlands and Mangrove), sampled between 2010 and 2012. (Key: 1 -Balsas; 2 -Riachão; 3 -Carolina; 4 -Esperantino ´polis; 5 -Poc ¸ão de Pedras; 6 -Lago do Junco; 7 -Cajari; 8 -Viana; 9 -Cajapio ´; 10 -Guimarães; 11 -Cedral; 12 -Turiac ¸u ´; 13 -Ca ˆndido Mendes; 14 -Centro Novo do Maranhão. This map was prepared using \"shapefile\" data from the Brazilian Institute of Geography and Statistics-IBGE (www.ibge.gov.br). doi:10.1371/journal.pone.0164826.g001",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 149.27,
+          "width": 78.01,
+          "height": 426.61
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "Legend: PZ = Phytogeographic Zones; C = Cerrado; PG = Palm Grove; AF = Amazon Forest; ML = Marshlands; M = Mangrove. doi:10.1371/journal.pone.0164826.t003 In the sarcophagids, the key species contributing to similarity were P. (S.) lambens and T. (S.) occidua in the Cerrado; P.(P.) chrysostoma and P. (S.) lambens in the Palm Grove; O. intona and P. (P.) chrysostoma in the Marshlands; P. (S.) lambens and P. (Euboettcheria) anguilla (Curran & Walley) in the Amazon Forest; and P. (P.) chrysostoma (Wiedemann, 1830) and P. (Euboettcheria) collusor (Curran & Walley) in the Mangrove (Table",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_2",
+      "label": "2",
+      "head": "Fig 2 .",
+      "type": "figure",
+      "desc": "Fig 2. Cumulative species curves (Observed [Mao Tau] and Estimated [Jackknife1] species richness) for the family Calliphoridae (traps as pseudoreplicates) in the different phytogeographic zones surveyed in the Brazilian state of Maranhão between 2010 and 2012. Axis Y: estimated species richness (Jackknife).",
+      "note": "",
+      "coords": [
+        {
+          "x": 10.0,
+          "y": 153.86,
+          "width": 70.58,
+          "height": 422.08
+        }
+      ]
+    },
+    {
+      "id": "fig_3",
+      "label": "10",
+      "head": "doi: 10 .",
+      "type": "figure",
+      "desc": "1371/journal.pone.0164826.g002",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_4",
+      "label": "3",
+      "head": "Fig 3 .",
+      "type": "figure",
+      "desc": "Fig 3. Cumulative species curves (Observed [Mao Tau] and Estimated [Jackknife1] species richness) for the family Sarcophagidae (traps as pseudoreplicates) in the different phytogeographic zones surveyed in the Brazilian state of Maranhão between 2010 and 2012. Axis Y: estimated species richness (Jackknife). doi:10.1371/journal.pone.0164826.g003",
+      "note": "",
+      "coords": [
+        {
+          "x": 11.0,
+          "y": 174.5,
+          "width": 78.01,
+          "height": 401.44
+        }
+      ]
+    },
+    {
+      "id": "fig_5",
+      "label": "4",
+      "head": "Fig 4 .",
+      "type": "figure",
+      "desc": "Fig 4. Estimated species richness (mean±confidence interval) of the Calliphoridae and Sarcophagidae (Jackknife 1) in the five phytogeographic zones sampled in the Brazilian state of Maranhão between 2011 and 2012. The values indicated by different letters are significantly different from one another. Legend: C = Cerrado; PG = Palm Grove; AF = Amazon Forest; ML = Marshlands; M = Mangrove. Axis Y: estimated species richness (Jackknife).doi:10.1371/journal.pone.0164826.g004",
+      "note": "",
+      "coords": [
+        {
+          "x": 13.0,
+          "y": 200.01,
+          "width": 78.01,
+          "height": 263.91
+        }
+      ]
+    },
+    {
+      "id": "fig_6",
+      "label": "56",
+      "head": "Fig 5 .Fig 6 .",
+      "type": "figure",
+      "desc": "Fig 5. Multi-dimensional non-metric scaling (NMDS) of the 45 study areas representing the five main phytogeographic zones (Cerrado, Palm Grove, Amazon Forest, Marshlands, and Mangrove) found in the Brazilian state of Maranhão, between 2010 and 2012, based on the composition and abundance of calliphorid species. A) Groups defined by the analysis; B) Association of species with the phytogeographic zones. doi:10.1371/journal.pone.0164826.g005",
+      "note": "",
+      "coords": [
+        {
+          "x": 15.0,
+          "y": 137.54,
+          "width": 78.01,
+          "height": 438.41
+        }
+      ]
+    },
+    {
+      "id": "tab_6",
+      "label": "5",
+      "head": "Table 5 . Results of the Permutational Analysis of Variance (PERMANOVA) of the community structure of the calliphorids and sarcophagids recorded in the different phytogeographic zones (Cerrado, Palm Grove, Amazon Forest, Marshlands and Mangrove) of the Brazilian state of Mar- anhão",
+      "type": "table",
+      "desc": ". d.f. = degrees of freedom.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "PERMANOVA-Calliphoridae",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Treatment",
+            "d.f.",
+            "F",
+            "p",
+            "Contribution"
+          ],
+          [
+            "Zones",
+            "4",
+            "54.01",
+            "0.0001",
+            "36.18"
+          ],
+          [
+            "Residues",
+            "40",
+            "",
+            "",
+            "14.9"
+          ],
+          [
+            "PERMDISP-Calliphoridae",
+            "4",
+            "6.52",
+            "0.0001",
+            ""
+          ],
+          [
+            "PERMANOVA-Sarcophagidae",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Treatment",
+            "d.f.",
+            "F",
+            "p",
+            "Contribution"
+          ],
+          [
+            "Zones",
+            "4",
+            "6.69",
+            "0.0001",
+            "31.95"
+          ],
+          [
+            "Residues",
+            "37",
+            "",
+            "",
+            "38.72"
+          ],
+          [
+            "PERMDISP -Sarcophagidae",
+            "4",
+            "2.97",
+            "0.0756",
+            ""
+          ],
+          [
+            "doi:10.1371/journal.pone.0164826.t005",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 11,
+          "column_count": 5,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_8",
+      "label": "7",
+      "head": "Table 7 . Similarity of the zones based on the structure of the calliphorid and sarcophagid communities.",
+      "type": "table",
+      "desc": "MS = Mean Similarity; % C = Contribution of the species to the similarity index. % AC = Accumulated Contribution.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Phytogeographic Zones",
+            "",
+            "Calliphoridae",
+            "",
+            "",
+            "",
+            "Sarcophagidae",
+            "",
+            ""
+          ],
+          [
+            "",
+            "% MS",
+            "SPECIES",
+            "% C",
+            "% AC",
+            "% MS",
+            "SPECIES",
+            "% C",
+            "% AC"
+          ],
+          [
+            "Cerrado",
+            "74",
+            "C. albiceps",
+            "30",
+            "30",
+            "55",
+            "P. (S.) lambens",
+            "31",
+            "31"
+          ],
+          [
+            "",
+            "",
+            "C. macellaria",
+            "24",
+            "54",
+            "",
+            "T. (S.) occidua",
+            "18",
+            "49"
+          ],
+          [
+            "",
+            "",
+            "C. idioidea",
+            "22",
+            "77",
+            "",
+            "P. (P.) chrysostoma",
+            "17",
+            "66"
+          ],
+          [
+            "Palm Grove",
+            "83",
+            "L. eximia",
+            "27",
+            "27",
+            "53",
+            "P. (P.) chrysostoma",
+            "29",
+            "29"
+          ],
+          [
+            "",
+            "",
+            "C. idioidea",
+            "24",
+            "51",
+            "",
+            "P. (S.) lambens",
+            "21",
+            "50"
+          ],
+          [
+            "",
+            "",
+            "C. macellaria",
+            "20",
+            "71",
+            "",
+            "P. (E.) collusor",
+            "19",
+            "68"
+          ],
+          [
+            "Amazon Forest",
+            "86",
+            "C. idioidea",
+            "30",
+            "30",
+            "31",
+            "P. (S.) lambens",
+            "85",
+            "85"
+          ],
+          [
+            "",
+            "",
+            "M. bicolor",
+            "23",
+            "53",
+            "",
+            "P. (E.) anguilla",
+            "6",
+            "91"
+          ],
+          [
+            "",
+            "",
+            "H. semidiaphana",
+            "22",
+            "74",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Marshlands",
+            "77",
+            "C. macellaria",
+            "58",
+            "58",
+            "57",
+            "O. intona",
+            "46",
+            "46"
+          ],
+          [
+            "",
+            "",
+            "C. albiceps",
+            "38",
+            "97",
+            "",
+            "P. (P.) chrysostoma",
+            "31",
+            "77"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "P. (S.) lambens",
+            "12",
+            "89"
+          ],
+          [
+            "Mangrove",
+            "86",
+            "C. megacephala",
+            "41",
+            "41",
+            "41",
+            "P. (P.) chrysostoma",
+            "48",
+            "48"
+          ],
+          [
+            "",
+            "",
+            "C. albiceps",
+            "33",
+            "74",
+            "",
+            "P. (E.) collusor",
+            "11",
+            "59"
+          ],
+          [
+            "",
+            "",
+            "C. macellaria",
+            "23",
+            "98",
+            "",
+            "O. intona",
+            "8",
+            "68"
+          ],
+          [
+            "Legend: %",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 18,
+          "column_count": 9,
+          "has_headers": false
+        }
+      },
+      "note": "doi:10.1371/journal.pone.0164826.t007",
+      "coords": []
+    },
+    {
+      "id": "tab_10",
+      "label": "8",
+      "head": "Table 8 . Dissimilarity between zones (significant results of the a posteriori pairwise tests of the PERMANTOVA) based on the structure of the cal- liphorid and sarcophagid communities.",
+      "type": "table",
+      "desc": "Legend: % MD = Mean Similarity; % C = Contribution of the species to the similarity index. % AC = Accumulated Contribution.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Phytogeographic Zones",
+            "",
+            "Calliphoridae",
+            "",
+            "",
+            "",
+            "Sarcophagidae",
+            ""
+          ],
+          [
+            "",
+            "% MD",
+            "Espe ´cie",
+            "% C",
+            "% AC",
+            "% MD",
+            "Espe ´cie",
+            "% C",
+            "% AC"
+          ],
+          [
+            "Cerrado x Palm Grove",
+            "29",
+            "L. eximia",
+            "19",
+            "19",
+            "54",
+            "T. (S.) occidua",
+            "15"
+          ],
+          [
+            "",
+            "",
+            "C. albiceps",
+            "19",
+            "38",
+            "",
+            "O. intona",
+            "12"
+          ],
+          [
+            "",
+            "",
+            "C. megacephala",
+            "12",
+            "50",
+            "",
+            "P. (S.) lambens",
+            "10"
+          ],
+          [
+            "Cerrado x Marshlands",
+            "49",
+            "C. idioidea",
+            "23",
+            "23",
+            "70",
+            "O. intona",
+            "16"
+          ],
+          [
+            "",
+            "",
+            "C. albiceps",
+            "17",
+            "40",
+            "",
+            "P. (S.) lambens",
+            "14"
+          ],
+          [
+            "",
+            "",
+            "L. eximia",
+            "14",
+            "55",
+            "",
+            "T. (S.) occidua",
+            "13"
+          ],
+          [
+            "Palm Grove x Marshlands",
+            "47",
+            "L. eximia",
+            "33",
+            "33",
+            "58",
+            "O. intona",
+            "15"
+          ],
+          [
+            "",
+            "",
+            "C. idioidea",
+            "25",
+            "58",
+            "",
+            "P. (S.) lambens",
+            "14"
+          ],
+          [
+            "",
+            "",
+            "C. megacephala",
+            "16",
+            "74",
+            "",
+            "P.(E.) collusor",
+            "13"
+          ],
+          [
+            "Cerrado x Mangrove",
+            "46",
+            "C. idioidea",
+            "26",
+            "26",
+            "71",
+            "P. (S.) lambens",
+            "17"
+          ],
+          [
+            "",
+            "",
+            "C. megacephala",
+            "16",
+            "42",
+            "",
+            "T. (S.) occidua",
+            "14"
+          ],
+          [
+            "",
+            "",
+            "L. eximia",
+            "15",
+            "57",
+            "",
+            "P. (S.) ingens",
+            "8"
+          ],
+          [
+            "Palm Grove x Mangrove",
+            "49",
+            "L. eximia",
+            "30",
+            "30",
+            "64",
+            "P. (S.) lambens",
+            "14"
+          ],
+          [
+            "",
+            "",
+            "C. idioidea",
+            "25",
+            "55",
+            "",
+            "O. intona",
+            "12"
+          ],
+          [
+            "",
+            "",
+            "C. megacephala",
+            "18",
+            "73",
+            "",
+            "P. (S.) ingens",
+            "10"
+          ],
+          [
+            "Marshlands x Mangrove",
+            "47",
+            "C. megacephala",
+            "48",
+            "48",
+            "60",
+            "O. intona",
+            "20"
+          ],
+          [
+            "",
+            "",
+            "C. macellaria",
+            "16",
+            "64",
+            "",
+            "P. (P.) chrysostoma",
+            "12"
+          ],
+          [
+            "",
+            "",
+            "C. albiceps",
+            "12",
+            "76",
+            "",
+            "P. (S.) lambens",
+            "10"
+          ],
+          [
+            "Cerrado x Amazon Forest",
+            "53",
+            "C. albiceps",
+            "20",
+            "20",
+            "81",
+            "P. (S.) lambens",
+            "17"
+          ],
+          [
+            "",
+            "",
+            "C. macellaria",
+            "17",
+            "38",
+            "",
+            "T. (S.) occidua",
+            "17"
+          ],
+          [
+            "",
+            "",
+            "H. semidiaphana",
+            "15",
+            "52",
+            "",
+            "P. (P.) chrysostoma",
+            "13"
+          ],
+          [
+            "Palm Grove x Amazon Forest",
+            "48",
+            "M. bicolor",
+            "21",
+            "21",
+            "80",
+            "P. (P.) chrysostoma",
+            "20"
+          ],
+          [
+            "",
+            "",
+            "H. semidiaphana",
+            "18",
+            "39",
+            "",
+            "P. (S.) lambens",
+            "14"
+          ],
+          [
+            "",
+            "",
+            "C. macellaria",
+            "16",
+            "54",
+            "",
+            "O. intona",
+            "14"
+          ],
+          [
+            "Marshlands x Amazon Forest",
+            "74",
+            "C. idioidea",
+            "21",
+            "21",
+            "86",
+            "O. intona",
+            "31"
+          ],
+          [
+            "",
+            "",
+            "M. bicolor",
+            "19",
+            "40",
+            "",
+            "P. (P.) chrysostoma",
+            "22"
+          ],
+          [
+            "",
+            "",
+            "H. semidiaphana",
+            "18",
+            "58",
+            "",
+            "P. (S.) lambens",
+            "11"
+          ],
+          [
+            "Mangrove x Amazon Forest",
+            "85",
+            "C. megacephala",
+            "19",
+            "19",
+            "88",
+            "P. (P.) chrysostoma",
+            "25"
+          ],
+          [
+            "",
+            "",
+            "C. idioidea",
+            "18",
+            "37",
+            "",
+            "P. (E.) collusor",
+            "10"
+          ],
+          [
+            "",
+            "",
+            "M. bicolor",
+            "14",
+            "51",
+            "",
+            "O. intona",
+            "9"
+          ]
+        ],
+        "metadata": {
+          "row_count": 32,
+          "column_count": 8,
+          "has_headers": false
+        }
+      },
+      "note": "doi:10.1371/journal.pone.0164826.t008",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "On bird species diversity",
+      "authors": [
+        "R Macarthur",
+        "J Macarthur"
+      ],
+      "journal": "Ecology",
+      "publication_date": "1961",
+      "year": 1961,
+      "volume": "42",
+      "page_start": "594",
+      "page_end": "598"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "The structure of lizard communities",
+      "authors": "E Pianka",
+      "journal": "Annu Rev Ecol Evol Syst",
+      "publication_date": "1973",
+      "year": 1973,
+      "volume": "4",
+      "page_start": "53",
+      "page_end": "74"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Plant species diversity in old-field successional ecosystems in southern Illinois",
+      "authors": "F Bazzaz",
+      "journal": "Ecology",
+      "publication_date": "1975",
+      "year": 1975,
+      "volume": "56",
+      "page_start": "485",
+      "page_end": "488"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Small mammal populations of brasilian cerrado: the dependence of abundance and diversity on habitat complexity",
+      "authors": "Cjr Alho",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "41",
+      "page_start": "223",
+      "page_end": "230"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Spatial separation of Afrotropical dung beetle guilds: a trade-off between competitive superiority and energetic constraints (Coleoptera: Scarabaeidae)",
+      "authors": [
+        "F Krell",
+        "S Westerwalbesloh",
+        "I Weib",
+        "P Eggleton",
+        "K Linsenmair"
+      ],
+      "journal": "Ecography",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "26",
+      "page_start": "210",
+      "page_end": "222"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Rapid turnover and edge effects in dung beetle assemblages (Scarabaeidae) at a Bolivian Neotropical forest-savanna ecotone",
+      "authors": [
+        "S Spector",
+        "S Ayzama"
+      ],
+      "journal": "Biotropica",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "35",
+      "page_start": "394",
+      "page_end": "404"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Animal species diversity driven by habitat heterogeneity/diversity: the importance of keystone structures",
+      "authors": [
+        "J Tews",
+        "U Brose",
+        "V Grimm",
+        "K Tielborger",
+        "M Wichmann",
+        "M Schwager"
+      ],
+      "journal": "J Biogeogr",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "31",
+      "page_start": "79",
+      "page_end": "92"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Dung beetle (Coleoptera: Scarabaeidae) assemblages across a natural forest-cerrado ecotone in Minas Gerais",
+      "authors": [
+        "R Durães",
+        "W Martins",
+        "F Vaz-De-Mello"
+      ],
+      "journal": "Brazil. Neotrop Entomol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "34",
+      "page_start": "721",
+      "page_end": "731"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Estrutura da comunidade de Scarabaeinae (Scarabaeidae: Coleoptera) em fitofisionomias do cerrado e sua importa ˆncia para a conservac ¸ão",
+      "authors": [
+        "Ssp Almeida",
+        "Jnc Louzada"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "38",
+      "page_start": "32",
+      "page_end": "43"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Diversidade de Scarabaeinae (Coleoptera, Scarabaeidae) coletados com armadilha de interceptac ¸ão de vo ˆo no Refu ´gio Ecolo ´gico Charles Darwin, Igarassu-PE",
+      "authors": [
+        "Cmq Costa",
+        "Fab Silva",
+        "A Farias",
+        "R Moura"
+      ],
+      "journal": "Brasil. Rev Bras Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "53",
+      "page_start": "88",
+      "page_end": "94"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "The relative roles of habitat heterogeneity and disturbance in drosophilid assemblages (Diptera, Drosophilidae) in the Cerrado",
+      "authors": [
+        "Da Mata",
+        "R Tidon",
+        "R"
+      ],
+      "journal": "Insect Conserv Divers",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "663",
+      "page_end": "670"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "The role of habitat complexity and heterogeneity in structuring tropical mammal communities",
+      "authors": "P August",
+      "journal": "Ecology",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "64",
+      "page_start": "1495",
+      "page_end": "1507"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Primate species richness in relation to habitat structure in Amazonian rainforest fragments",
+      "authors": [
+        "L Schwarzkopf",
+        "A Rylands"
+      ],
+      "journal": "Biol Conserv",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "48",
+      "page_start": "1",
+      "page_end": "12"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Evolution of body size: varanid lizards as a model system",
+      "authors": "E Pianka",
+      "journal": "Am Nat",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "146",
+      "page_start": "398",
+      "page_end": "414"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "authors": [
+        "C Townsend",
+        "M Begon",
+        "J Harper"
+      ],
+      "journal": "Fundamentos em Ecologia. Porto Alegre: Editora ARTMED",
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "On definition and quantification of heterogeneity",
+      "authors": [
+        "H Li",
+        "J Reynolds"
+      ],
+      "journal": "Oikos",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "73",
+      "page_start": "280",
+      "page_end": "284"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Riqueza, abunda ˆncia e diversidade de Euglossina (Hymenoptera, Apidae) em três a ´reas da Reserva Biolo ´gica Guaribas, Paraı ´ba",
+      "authors": [
+        "A Souza",
+        "Mim Herna ´ndez",
+        "C Martins"
+      ],
+      "journal": "Brasil. Rev Bras Zool",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "22",
+      "page_start": "320",
+      "page_end": "325"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Historical and ecological factors determining the geographical distribution of beetles (Coleoptera: Scarabaeidae: Scarabaeinae)",
+      "authors": "G Halffter",
+      "journal": "Folia Entomol Mex",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "82",
+      "page_start": "195",
+      "page_end": "238"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Relative effects of biotic and abiotic factors on the composition",
+      "authors": [
+        "E Franklin",
+        "W Magnusson",
+        "F Luizão"
+      ],
+      "journal": "Appl Soil Ecol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "29",
+      "page_start": "259",
+      "page_end": "273"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Local biodiversity and multihabitat use by Empididae (Diptera)",
+      "authors": [
+        "R Delettre",
+        "N Morvan",
+        "Tre ´hen",
+        "P Grootaert",
+        "P"
+      ],
+      "journal": "Biodivers Conserv",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "7",
+      "page_start": "9",
+      "page_end": "25"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Short-range spatial patterning of terrestrial Chironomidae (Insecta: Diptera) and farmland heterogeneity",
+      "authors": "Y Delettre",
+      "journal": "Pedobiologia",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "49",
+      "page_start": "15",
+      "page_end": "27"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Relationships between drosophilids (Diptera, Drosophilidae) and the environment in two contrasting tropical vegetations",
+      "authors": "R Tidon",
+      "journal": "Biol J Linn Soc Lond",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "87",
+      "page_start": "233",
+      "page_end": "247"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Manual of Nearctic Diptera. Ottawa: Research Branch Agriculture",
+      "authors": [
+        "G Shewell",
+        "Calliphoridae"
+      ],
+      "editors": "McAlpine JF",
+      "publication_date": "1987",
+      "year": 1987,
+      "page_start": "1133",
+      "page_end": "1145"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Manual of Neartic Diptera. Ottawa: Research Branch Agriculture",
+      "authors": [
+        "G Shewell",
+        "Sarcophagidae"
+      ],
+      "editors": "McAlpine JF",
+      "publication_date": "1987",
+      "year": 1987,
+      "page_start": "1159",
+      "page_end": "1186"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "journal": "Erzinc ¸lioglu Z. Blowflies. Naturalist's Handbooks",
+      "publisher": "Richmond Publishing Co. Ltd",
+      "publication_date": "1996",
+      "year": 1996
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Catalogue of the Sarcophagidae of the World (Insecta: Diptera)",
+      "authors": "T Pape",
+      "journal": "Mem Entomol Int",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "8",
+      "page_start": "1",
+      "page_end": "558"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "The science of forensic entomology",
+      "authors": [
+        "D Rivers",
+        "G Dahlem"
+      ],
+      "publisher": "John Wiley & Sons Ltd",
+      "publication_date": "2014",
+      "year": 2014
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Flies and disease ecology, classification and biotic association",
+      "authors": "B Greenberg",
+      "publisher": "University Press",
+      "publication_date": "1971",
+      "year": 1971
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Myiasis in man and animals in the Old World",
+      "authors": "F Zumpt",
+      "publisher": "Butterworths",
+      "publication_date": "1965",
+      "year": 1965
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Myiasis of human and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Adv Parasitol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "257",
+      "page_end": "334",
+      "pmid": "7709854"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Myasis of man and animals in the neotropical region",
+      "authors": [
+        "J Guimarães",
+        "N Papavero"
+      ],
+      "publisher": "Editora Plêiade",
+      "publication_date": "1999",
+      "year": 1999
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Sinantropia de dı ´pteros musco ´ides de Curitiba, Parana ´. I. Calliphoridae",
+      "authors": "Mjm Ferreira",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "38",
+      "page_start": "445",
+      "page_end": "454"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas",
+      "authors": "A Linhares",
+      "journal": "Rev Bras Entomol",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "25",
+      "page_start": "189",
+      "page_end": "215"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Assessment of the abundance and diversity of Calliphoridae and Sarcophagidae (Diptera) in Sites With Different Degrees of Human Impact in the Ibera Wetlands (Argentina)",
+      "authors": [
+        "M Dufek",
+        "E Oscherov",
+        "M Damborsky",
+        "P Mulieri"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2016",
+      "year": 2016,
+      "page_start": "1",
+      "page_end": "9"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Diversidade de Calliphoridae (insecta, Diptera) em ambientes de matas e pro ´ximos de habitac ¸ões da Estac ¸ão Cientı ´fica Ferreira Penna (ECFPn), Melgac ¸o/PA, e da cidade de Portel/PA",
+      "authors": [
+        "M Esposito",
+        "Jrp Sousa",
+        "F Carvalho-Filho"
+      ],
+      "editors": "Lisboa PLB",
+      "publication_date": "2009",
+      "year": 2009,
+      "page_start": "461",
+      "page_end": "469",
+      "notes": "Caxiuanã: Desafios para a Conservac ¸ão de uma Floresta na Amazo ˆnia. Bele ´m: Museu Paraense Emı ´lio Goeldi"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Diversidade de Calliphoridae (Insecta: Diptera) na base de extrac ¸ão petrolı ´fera da Bacia do Rio Urucu, na Amazo ˆnia brasileira",
+      "authors": [
+        "M Esposito",
+        "Jrp Sousa",
+        "Carvalho Filho",
+        "F"
+      ],
+      "journal": "Acta Amazon",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "40",
+      "page_start": "579",
+      "page_end": "584"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "A fauna de califorı ´deos (Dı ´ptera) das matas e clareiras com diferentes coberturas vegetais da Base de Extrac ¸ão Petrolı ´fera, bacia do Rio Urucu",
+      "authors": [
+        "Jrp Sousa",
+        "M Esposito",
+        "F Carvalho-Filho"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "54",
+      "page_start": "270",
+      "page_end": "276"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Ana ´lise faunı ´stica de Calliphoridae (Diptera) da Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u, Rio de Janeiro",
+      "authors": [
+        "Acp Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "53",
+      "page_start": "620",
+      "page_end": "628"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u",
+      "authors": [
+        "Acp Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Braz J Biol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "70",
+      "page_start": "55",
+      "page_end": "63",
+      "pmid": "20231960",
+      "notes": "RJ"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Inventa ´rio de Calliphoridae (Diptera) em manguezal e fragmento de Mata Atla ˆntica na região de Barra de Guaratiba, Rio de Janeiro",
+      "authors": [
+        "L Gonc ¸alves",
+        "A Dias",
+        "C Espindola",
+        "F Almeida"
+      ],
+      "journal": "Brasil. Rev Bras Biocienc",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "9",
+      "page_start": "50",
+      "page_end": "55"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Flesh flies species (Diptera: Sarcophagidae",
+      "authors": [
+        "P Mulieri",
+        "J Schnack",
+        "J Mariluis",
+        "J Torretta"
+      ],
+      "journal": "Nature Reserve of Buenos Aires",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "56",
+      "page_start": "1287",
+      "page_end": "1294",
+      "pmid": "19419045",
+      "notes": "Argentina. Rev Biol Trop"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Composition, abundance and richness of Sarcophagidae (Diptera: Oestroidea) in Forests and Forest Gaps with Different Vegetation Cover",
+      "authors": [
+        "Jrp Sousa",
+        "M Esposito",
+        "F Carvalho-Filho"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "40",
+      "page_start": "20",
+      "page_end": "27",
+      "pmid": "21437478"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Atlas Escolar do Maranhão: espac ¸o geo-histo ´ricocultural",
+      "authors": [
+        "A Feitosa",
+        "J Trovão"
+      ],
+      "publisher": "Grafset",
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Vegetac ¸ão",
+      "authors": [
+        "L Filho",
+        "H Veloso",
+        "Mas Japiassu",
+        "P Leite"
+      ],
+      "editors": [
+        "Radam Projeto",
+        "Brasil"
+      ],
+      "publisher": "MME/DNPM",
+      "publication_date": "1973",
+      "year": 1973,
+      "page_start": "71",
+      "page_end": "72"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "authors": [
+        "Maranhão",
+        "Atlas",
+        "São Maranhão",
+        "Luis"
+      ],
+      "publisher": "GEPLAN-LABGE/UEMA",
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Ecossistemas Maranhenses: Se ´rie Ecolo ´gica",
+      "authors": "Acg Azevedo",
+      "publisher": "Editora Universidade Estadual do Maranhão",
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Effects of habitat complexity on ant assemblages",
+      "authors": [
+        "S Lassau",
+        "D Hochuli"
+      ],
+      "journal": "Ecography",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "27",
+      "page_start": "157",
+      "page_end": "164"
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "Fenologia de espe ´cies arbo ´reas tropicais na Amazo ˆnia Central",
+      "authors": "J Alencar",
+      "editors": [
+        "C Gascon",
+        "P Moutinho"
+      ],
+      "publisher": "MCT/INPA",
+      "publication_date": "1998",
+      "year": 1998,
+      "page_start": "25",
+      "page_end": "40"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "On the role of microenvironmental heterogeneity in the ecology and diversification of Neotropical rain-forest palms (Arecaceae)",
+      "authors": "J Svenning",
+      "journal": "Bot Rev",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "67",
+      "page_start": "1",
+      "page_end": "53"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "Efeito da heterogeneidade da floresta na composic ¸ão de espe ´cies de palmeiras na Amazo ˆnia Central",
+      "authors": [
+        "S Raupp",
+        "R Cintra"
+      ],
+      "journal": "Rev Biol Neotrop",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "7",
+      "page_start": "13",
+      "page_end": "26"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "Diversity, floristics and structural patterns of cerrado vegetation in central Brazil",
+      "authors": [
+        "J Felfili",
+        "Silva Ju ´nior",
+        "Mc",
+        "A Sevilha",
+        "C Fagg",
+        "Bmt Walter",
+        "P Nogueira"
+      ],
+      "journal": "Plant Ecol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "175",
+      "page_start": "37",
+      "page_end": "46"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "Estrutura e composic ¸ão florı ´stica da vegetac ¸ão de um Cerradão",
+      "authors": [
+        "N Figueiredo",
+        "G Andrade"
+      ],
+      "editors": "L Barreto",
+      "series": "Cerrado Norte do Brasil",
+      "publisher": "USEB",
+      "publication_date": "2007",
+      "year": 2007,
+      "page_start": "141",
+      "page_end": "155"
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "Estrutura da vegetac ¸ão de um cerradão e a heterogeneidade regional do Cerrado no Maranhão",
+      "authors": [
+        "H Silva",
+        "N Figueiredo",
+        "G Andrade"
+      ],
+      "journal": "Brasil. Rev A ´rvore",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "32",
+      "page_start": "921",
+      "page_end": "930"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "Floristic and structural comparisons of two woody communities of typical and rocky cerrado in the state of Mato Grosso",
+      "authors": [
+        "L Gomes",
+        "E Lenza",
+        "L Maracahipes",
+        "B Marimon",
+        "E Oliveira"
+      ],
+      "journal": "Brazil. Acta Bot Brasilica",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "25",
+      "page_start": "865",
+      "page_end": "875"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "title": "Proposta de uma ma ´quina para colheita mecanizada de babac ¸u (Orbignya phalerata Mart.) para a agricultura familiar",
+      "authors": [
+        "D Albiero",
+        "Ajs Maciel",
+        "A Lopes",
+        "C Mello",
+        "C Gamero"
+      ],
+      "journal": "Acta Amaz",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "37",
+      "page_start": "337",
+      "page_end": "346"
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "Caracterizac ¸ão da fauna eda ´fica em sistemas de manejo para produc ¸ão de forragens no Estado do Piauı ´",
+      "authors": [
+        "Lapl Nunes",
+        "Dib Silva",
+        "Arau ´jo Asf",
+        "Lfc Leite",
+        "Mef Correia"
+      ],
+      "journal": "Rev Ciênc Agron",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "43",
+      "page_start": "30",
+      "page_end": "37"
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "Novas formas de gestão dos manguezais brasileiros: A Baı ´a de Paranagua ´como estudo de caso",
+      "authors": "P Lana",
+      "journal": "Desenvolvimento e Meio Ambiente",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "10",
+      "page_start": "169",
+      "page_end": "174"
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "Manguezais amazo ˆnicos: status para conservac ¸ão e a sustentabilidade na zona costeira maranhense",
+      "authors": "F Rebêlo-Mochel",
+      "editors": [
+        "M Martins",
+        "T Oliveira"
+      ],
+      "publication_date": "2011",
+      "year": 2011,
+      "page_start": "93",
+      "page_end": "116"
+    },
+    {
+      "id": "b59",
+      "target": "b58",
+      "title": "Updated world map of the Ko ¨ppen-Geiger climate classification",
+      "authors": [
+        "M Peel",
+        "B Finlayson",
+        "T Mcmahon"
+      ],
+      "journal": "Hydrol Earth Syst Sci",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "11",
+      "page_start": "1633",
+      "page_end": "1644"
+    },
+    {
+      "id": "b60",
+      "target": "b59",
+      "title": "Distribution and Abundance of Necrophagous Flies (Diptera: Calliphoridae and Sarcophagidae) in Maranhão, Northeastern Brazil",
+      "authors": [
+        "Jrp Sousa",
+        "M Esposito",
+        "F Carvalho-Filho"
+      ],
+      "journal": "J Insect Sci",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "15",
+      "pages": "70",
+      "doi": "10.1093/jisesa/iev054",
+      "pmid": "26078304"
+    },
+    {
+      "id": "b61",
+      "target": "b60",
+      "title": "The cerrado vegetation of Brazil",
+      "authors": "G Eiten",
+      "journal": "Bot Rev",
+      "publication_date": "1972",
+      "year": 1972,
+      "volume": "38",
+      "page_start": "201",
+      "page_end": "341"
+    },
+    {
+      "id": "b62",
+      "target": "b61",
+      "title": "Brazilian savannas",
+      "authors": "G Eiten",
+      "editors": [
+        "B Huntley",
+        "B Walker"
+      ],
+      "publisher": "Springer-Verlag",
+      "publication_date": "1982",
+      "year": 1982,
+      "page_start": "25",
+      "page_end": "47"
+    },
+    {
+      "id": "b63",
+      "target": "b62",
+      "title": "Manual te ´cnico da vegetac ¸ão brasileira: sistema fitogeogra ´fico, inventa ´rio das formac ¸ões florestais e campestres, te ´cnicas e manejo de colec ¸ões bota ˆnicas, procedimentos para mapeamentos",
+      "authors": "Ibge",
+      "publisher": "Gra ´fica do Instituto Brasileiro de Geografia e Estatı ´stica",
+      "publication_date": "2012",
+      "year": 2012
+    },
+    {
+      "id": "b64",
+      "target": "b63",
+      "title": "Cerrado: conhecimento cientı ´fico quantitativo como subsı ´dio para ac ¸ões de conservac ¸ão",
+      "authors": [
+        "J Marinho-Filho",
+        "R Machado",
+        "Rpb Henriques"
+      ],
+      "editors": [
+        "I Diniz",
+        "J Marinho-Filho",
+        "R Machado",
+        "R Cavalcanti"
+      ],
+      "journal": "Brası ´lia",
+      "publisher": "Thesaurus",
+      "publication_date": "2010",
+      "year": 2010,
+      "page_start": "15",
+      "page_end": "34",
+      "notes": "Evoluc ¸ão do conhecimento e da conservac ¸ão do Cerrado Brasileiro"
+    },
+    {
+      "id": "b65",
+      "target": "b64",
+      "title": "Microhabitat specialization in a species-rich palm community in Amazonian Ecuador",
+      "authors": "J Svenning",
+      "journal": "J Ecol",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "87",
+      "page_start": "55",
+      "page_end": "65"
+    },
+    {
+      "id": "b66",
+      "target": "b65",
+      "title": "On the role of microenvironmental heterogeneity in the ecology and diversification of Neotropical rain-forest palms (Arecaceae)",
+      "authors": "J Svenning",
+      "journal": "Bot Rev",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "67",
+      "page_start": "1",
+      "page_end": "53"
+    },
+    {
+      "id": "b67",
+      "target": "b66",
+      "title": "Conservac ¸ão, Montagem e Identificac ¸ão de Insetos",
+      "authors": [
+        "I Almeida",
+        "Ribeiro-Costa Cs",
+        "L Marioni",
+        "De Coleta"
+      ],
+      "publisher": "Holos Editora",
+      "publication_date": "2003",
+      "year": 2003
+    },
+    {
+      "id": "b68",
+      "target": "b67",
+      "title": "Chave para identificac ¸ão das formas adultas das espe ´cies da famı ´lia Calliphoridae (Dı ´ptera, Brachycera, Cyclorrhapha) encontradas no Brasil",
+      "authors": "R Mello",
+      "journal": "Entomol Vectores",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b69",
+      "target": "b68",
+      "title": "Keys to the adults of the most common forensic species of Diptera in South America",
+      "authors": [
+        "Cjb Carvalho",
+        "C Mello-Patiu"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "390",
+      "page_end": "406"
+    },
+    {
+      "id": "b70",
+      "target": "b69",
+      "title": "A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species",
+      "authors": [
+        "C Kosmann",
+        "R Mello",
+        "E Harterreiten-Souza",
+        "Pujol-Luz ´s",
+        "Jr"
+      ],
+      "publisher": "Entomo-Brasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "74",
+      "page_end": "85"
+    },
+    {
+      "id": "b71",
+      "target": "b70",
+      "title": "Contribuic ¸ão ao conhecimento das espe ´cies do gênero Oxysarcodexia Townsend, 1917 (Diptera, Sarcophagidae)",
+      "authors": "H Lopes",
+      "publisher": "Bol Esc Nac Vet",
+      "publication_date": "1946",
+      "year": 1946,
+      "volume": "1",
+      "page_start": "62",
+      "page_end": "134"
+    },
+    {
+      "id": "b72",
+      "target": "b71",
+      "title": "On Oxysarcodexia (Diptera, Sarcophagidae), with descriptions of five new species, key, list and geographic distribution of the species",
+      "authors": [
+        "H Lopes",
+        "R Tibana"
+      ],
+      "journal": "Rev Bras Biol",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "47",
+      "page_start": "329",
+      "page_end": "347"
+    },
+    {
+      "id": "b73",
+      "target": "b72",
+      "title": "Revision of the New World genus Peckia Robineau-Desvoidy (Diptera: Sarcophagidae)",
+      "authors": [
+        "E Buenaventura",
+        "T Pape"
+      ],
+      "journal": "Zootaxa",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "3622",
+      "page_start": "1",
+      "page_end": "87",
+      "pmid": "25320760"
+    },
+    {
+      "id": "b74",
+      "target": "b73",
+      "title": "Contribuic ¸ão ao conhecimento do gênero Helicobia Coquillett (Diptera, Sarcophagidae)",
+      "authors": "H Lopes",
+      "journal": "Rev Entomolo ´gica",
+      "publication_date": "1939",
+      "year": 1939,
+      "volume": "10",
+      "page_start": "497",
+      "page_end": "517"
+    },
+    {
+      "id": "b75",
+      "target": "b74",
+      "title": "Considerac ¸ões sobre as espe ´cies de Peckia Desvoidy, 1830 e de gêneros afins. (Diptera, Sarcophagidae). An Acad Bras Cien",
+      "authors": "H Lopes",
+      "publication_date": "1958",
+      "year": 1958,
+      "volume": "30",
+      "page_start": "211",
+      "page_end": "239"
+    },
+    {
+      "id": "b76",
+      "target": "b75",
+      "title": "On the holotypes, mostly females of Sarcophagidae (Diptera) described by Francis Walker",
+      "authors": "H Lopes",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1976",
+      "year": 1976,
+      "volume": "36",
+      "page_start": "629",
+      "page_end": "146"
+    },
+    {
+      "id": "b77",
+      "target": "b76",
+      "title": "On american Sarcophagidae (Diptera) with revision of Pekiamyia Dodge",
+      "authors": "H Lopes",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "49",
+      "page_start": "837",
+      "page_end": "845"
+    },
+    {
+      "id": "b78",
+      "target": "b77",
+      "title": "Duas redescric ¸ões e uma descric ¸ão de espe ´cie nova do gênero Helicobia (Diptera, Sarcophagidae)",
+      "authors": "R Tibana",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1976",
+      "year": 1976,
+      "volume": "36",
+      "page_start": "723",
+      "page_end": "729"
+    },
+    {
+      "id": "b79",
+      "target": "b78",
+      "title": "Estudo sobre 7 espe ´cies de Helicobia Coquillett, 1895. (Diptera,Sarcophagidae)",
+      "authors": "R Tibana",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "41",
+      "page_start": "625",
+      "page_end": "634"
+    },
+    {
+      "id": "b80",
+      "target": "b79",
+      "title": "Uma nova espe ´cie de Retrocitomyia Lopes, 1982, (Diptera, Sarcophagidae)",
+      "authors": [
+        "R Tibana",
+        "R Xerez"
+      ],
+      "journal": "Rev Bras de Biol",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "45",
+      "page_start": "485",
+      "page_end": "488"
+    },
+    {
+      "id": "b81",
+      "target": "b80",
+      "title": "Redescric ¸ão dos machos de dez espe ´cies Neotropicais de Ravinia Robineau-Desvoidy, 1863 (Diptera, Sarcophagidae)",
+      "authors": "J Guimarães",
+      "journal": "Arq Mus Nac Rio Janeiro",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "62",
+      "page_start": "45",
+      "page_end": "66"
+    },
+    {
+      "id": "b82",
+      "target": "b81",
+      "title": "Estimating terrestrial biodiversity through extrapolation",
+      "authors": [
+        "R Colwell",
+        "J Coddington"
+      ],
+      "journal": "Philos Trans R Soc Lond",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "345",
+      "page_start": "101",
+      "page_end": "118"
+    },
+    {
+      "id": "b83",
+      "target": "b82",
+      "title": "EstimateS: Statistical estimation of species richness and shared species from samples. Version 9. User's Guide and application published",
+      "authors": "R Colwell",
+      "publication_date": "2013",
+      "year": 2013
+    },
+    {
+      "id": "b84",
+      "target": "b83",
+      "title": "Interpolating, extrapolating, and comparing incidence-based species accumulation curves",
+      "authors": [
+        "R Colwell",
+        "C Mao",
+        "J Chang"
+      ],
+      "journal": "Ecology",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "85",
+      "page_start": "2717",
+      "page_end": "2727"
+    },
+    {
+      "id": "b85",
+      "target": "b84",
+      "title": "Estimativas de riqueza em espe ´cies",
+      "authors": [
+        "Aj ; Santos",
+        "L Cullen",
+        "C Valladares-Padua",
+        "R Rudran"
+      ],
+      "publisher": "Editora da UFRP",
+      "publication_date": "2009",
+      "year": 2009
+    },
+    {
+      "id": "b86",
+      "target": "b85",
+      "authors": [
+        "P Legendre",
+        "L Legendre"
+      ],
+      "journal": "Numerical Ecology",
+      "publisher": "Elsevier",
+      "publication_date": "1998",
+      "year": 1998
+    },
+    {
+      "id": "b87",
+      "target": "b86",
+      "title": "Change in marine communities: an approach to statistical analysis and interpretation",
+      "authors": [
+        "K Clarke",
+        "R Warwick"
+      ],
+      "publication_date": "2001",
+      "year": 2001
+    },
+    {
+      "id": "b88",
+      "target": "b87",
+      "title": "PERMANOVA: A Fortran computer Program for Permutational Multivariate Analysis of Variance",
+      "authors": "M Anderson",
+      "publication_date": "2005",
+      "year": 2005
+    },
+    {
+      "id": "b89",
+      "target": "b88",
+      "title": "Field analyses of insect heat budgets: reflectance, size and heating rates",
+      "authors": [
+        "P Willmer",
+        "D Unwin"
+      ],
+      "journal": "Oecologia",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "50",
+      "page_start": "250",
+      "page_end": "255"
+    },
+    {
+      "id": "b90",
+      "target": "b89",
+      "title": "Thermoregulatory mechanisms in Sarcophaga",
+      "authors": "P Willmer",
+      "journal": "Oecologia",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "53",
+      "page_start": "382",
+      "page_end": "385"
+    },
+    {
+      "id": "b91",
+      "target": "b90",
+      "title": "Diversity and seasonal dynamics of an assemblage of sarcophagid Diptera in a gradient of urbanization",
+      "authors": [
+        "P Mulieri",
+        "L Patitucci",
+        "J Schnack",
+        "J Mariluis"
+      ],
+      "journal": "J Insect Sci",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "11",
+      "page_start": "1",
+      "page_end": "15"
+    },
+    {
+      "id": "b92",
+      "target": "b91",
+      "title": "Influência clima ´tica e antro ´pica na abunda ˆncia e riqueza de Calliphoridae (Diptera) em fragmento florestal da Reserva Biolo ´gica do Tingua ´",
+      "authors": [
+        "Acp Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "RJ. Neotrop Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "39",
+      "page_start": "476",
+      "page_end": "485"
+    },
+    {
+      "id": "b93",
+      "target": "b92",
+      "title": "Diversity and synanthropy of Calliphoridae (Diptera) in the Region of Rio Claro, SP, Brazil",
+      "authors": [
+        "C Souza",
+        "Von Zuben",
+        "Cjv"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "41",
+      "page_start": "243",
+      "page_end": "248",
+      "doi": "10.1007/s13744-012-0037-9",
+      "pmid": "23950050"
+    },
+    {
+      "id": "b94",
+      "target": "b93",
+      "title": "Manual of neartic Diptera",
+      "authors": [
+        "G Shewell",
+        "Sarcophagidae"
+      ],
+      "editors": "McAlpine JF",
+      "publication_date": "1987",
+      "year": 1987,
+      "notes": "Research Branch Agriculture"
+    },
+    {
+      "id": "b95",
+      "target": "b94",
+      "title": "Calliphoridae (Diptera) da Bacia do Alto Rio Urucu, Amazo ˆnia Central",
+      "authors": "N Paraluppi",
+      "journal": "Brasil. Rev Bras Zool",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "13",
+      "page_start": "553",
+      "page_end": "559"
+    },
+    {
+      "id": "b96",
+      "target": "b95",
+      "title": "Effect of lunar phases, tides, and wind speed on the abundance of Diptera Calliphoridae in a mangrove swamp",
+      "authors": "J Batista-Da-Silva",
+      "journal": "Neotrop Entomol",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "43",
+      "page_start": "48",
+      "page_end": "52",
+      "doi": "10.1007/s13744-013-0181-x",
+      "pmid": "27193403"
+    },
+    {
+      "id": "b97",
+      "target": "b96",
+      "title": "Animal biodiversity: an outline of higher-level classification and survey of taxonomic richness",
+      "authors": [
+        "T Pape",
+        "V Blagoderov",
+        "M Mostovski"
+      ],
+      "editors": "Z Zhang",
+      "journal": "Zootaxa",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "3148",
+      "page_start": "222",
+      "page_end": "229",
+      "notes": "Order Diptera Linnaeus, 1758"
+    },
+    {
+      "id": "b98",
+      "target": "b97",
+      "title": "Keys to the adults of the most common forensic species of Diptera in South America",
+      "authors": [
+        "Cjb Carvalho",
+        "C Mello-Patiu"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "390",
+      "page_end": "406"
+    },
+    {
+      "id": "b99",
+      "target": "b98",
+      "title": "Catalogue of the Sarcophagidae of the World (Insecta: Diptera)",
+      "authors": "T Pape",
+      "journal": "Mem Entomol Int",
+      "publication_date": "1996",
+      "year": 1996,
+      "issue": "8",
+      "page_start": "1",
+      "page_end": "558"
+    },
+    {
+      "id": "b100",
+      "target": "b99",
+      "title": "A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species",
+      "authors": [
+        "C Kosmann",
+        "R Mello",
+        "E Harterreiten-Souza",
+        "Pujol-Luz ´s",
+        "Jr"
+      ],
+      "publisher": "Entomo-Brasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "74",
+      "page_end": "85"
+    },
+    {
+      "id": "b101",
+      "target": "b100",
+      "title": "Estado do Conhecimento dos Diptera Neotropicais",
+      "authors": [
+        "D Amorim",
+        "V Silva",
+        "Mipa ; Balbi",
+        "C Costa",
+        "S Vanin",
+        "J Lobo",
+        "A Melic"
+      ],
+      "journal": "PRIBES",
+      "publisher": "Sociedad Entomolo ´gica Aragoneza",
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b102",
+      "target": "b101",
+      "title": "Contribuic ¸ão ao conhecimento da fauna de Calliphoridae (Diptera) sinantro ´picos de Pampulha",
+      "authors": [
+        "N Madeira",
+        "E Dias",
+        "C Mascarenhas"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "26",
+      "page_start": "137",
+      "page_end": "140"
+    },
+    {
+      "id": "b103",
+      "target": "b102",
+      "title": "Estado atual de dispersão e distribuic ¸ão do gênero Chrysomya Robineau-Desvoidy na Região Neotropical (Diptera: Calliphoridae)",
+      "authors": [
+        "A Prado",
+        "J Guimarães"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "26",
+      "issue": "1",
+      "page_start": "225",
+      "page_end": "248"
+    },
+    {
+      "id": "b104",
+      "target": "b103",
+      "title": "Synanthropy Of Sarcophagidae (Diptera) In La Pintada, Antioquia-Colombia",
+      "authors": [
+        "D Yepes-Gaurisas",
+        "J Sanchez-Rodriguez",
+        "C Mello-Patiu",
+        "E Wolff"
+      ],
+      "journal": "Rev Biol Trop",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "61",
+      "page_start": "1275",
+      "page_end": "1287",
+      "pmid": "24027923"
+    }
+  ]
+}

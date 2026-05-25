@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Insects Associated with Pig Carrion in Two Environments of the Brazilian Savanna</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-04-08">01 8 April 2 7</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>De Faria</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Paseto</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Depto de Biologia Animal, IB , Univ de Campinas (UNICAMP) , Campinas , SP , Brasil</note>
+								<orgName type="department">Depto de Biologia Animal, IB</orgName>
+								<orgName type="institution">Univ de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> Museu Nacional , Univ Federal do Rio de Janeiro (UFRJ) , Rio de Janeiro , RJ , Brasil</note>
+								<orgName type="institution" key="instit1">Museu Nacional</orgName>
+								<orgName type="institution" key="instit2">Univ Federal do Rio de Janeiro (UFRJ)</orgName>
+								<address>
+									<settlement>Rio de Janeiro</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> Museu Nacional , Univ Federal do Rio de Janeiro (UFRJ) , Rio de Janeiro , RJ , Brasil</note>
+								<orgName type="institution" key="instit1">Museu Nacional</orgName>
+								<orgName type="institution" key="instit2">Univ Federal do Rio de Janeiro (UFRJ)</orgName>
+								<address>
+									<settlement>Rio de Janeiro</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+							<email>jmendes@ufu.br</email>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Instituto de Ciências Biomédicas , Setor de Parasitologia ,</note>
+								<orgName type="institution">Instituto de Ciências Biomédicas</orgName>
+								<address>
+									<addrLine>Setor de Parasitologia</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">ICBIM , Univ Federal de Uberlândia (UFU) , Uberlândia , MG , Brasil</note>
+								<orgName type="institution" key="instit1">ICBIM</orgName>
+								<orgName type="institution" key="instit2">Univ Federal de Uberlândia (UFU)</orgName>
+								<address>
+									<settlement>Uberlândia</settlement>
+									<region>MG</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<note type="raw_affiliation">Instituto de Ciências Biomédicas , Setor de Parasitologia ,</note>
+								<orgName type="institution">Instituto de Ciências Biomédicas</orgName>
+								<address>
+									<addrLine>Setor de Parasitologia</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<note type="raw_affiliation">ICBIM , Univ Federal de Uberlândia (UFU) , Av. Amazonas, s/n, Uberlândia , MG 593 38400-902 , Brasil;</note>
+								<orgName type="department">Federal de Uberlândia (UFU)</orgName>
+								<orgName type="institution">ICBIM</orgName>
+								<address>
+									<addrLine>Av. Amazonas, s/n, Uberlândia</addrLine>
+									<postCode>593 38400-902</postCode>
+									<region>MG</region>
+									<country>Univ Brasil;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Insects Associated with Pig Carrion in Two Environments of the Brazilian Savanna</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Neotropical Entomology</title>
+						<title level="j" type="abbrev">Neotrop Entomol</title>
+						<idno type="ISSN">1519-566X</idno>
+						<idno type="eISSN">1678-8052</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">47</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="181" to="198"/>
+							<date type="published" when="2017-04-08">01 8 April 2 7</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A17146EE997449F5658AE82975AC9B5A</idno>
+					<idno type="DOI">10.1007/s13744-017-0518-y</idno>
+					<note type="submission">Received 7 July 2016 and accepted 20 March 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Carrion fauna</term>
+					<term>diversity</term>
+					<term>necrophagous</term>
+					<term>pretators</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Studies of carrion fauna have increased in Brazil and have contributed to the knowledge of this fauna in the national territory. Brazil has continental dimensions and presents various biomes in its territorial area. Most of the carrion fauna have seldom been studied, and this is especially true for the Savanna or "Cerrado." The present research examined the fauna visiting carrion in two environments and two seasons in a rural area situated in a region of Cerrado in southeastern Brazil. The two environments studied were a pasture and a fragment of semi-deciduous forest. Samples were collected during the dry and humid seasons of the year. The study identified the diversity and relative abundance of species attracted to pig carcasses (Sus scrofa L.) exposed in each environment and season. Eight pig carcasses (10 ± 1 kg) were placed in traps, and adult insects attracted to the traps were collected during the decay of the carcasses. A total of 92,489 insects were collected during the experiments. The Diptera was the most frequent order (92.2%) represented by 27 families and at least 124 species. This was followed by Coleoptera (4.4%) represented by 14 families and at least 65 species. Sarcophagidae had the greatest diversity of species, followed by Muscidae and Calliphoridae. Several species were collected only during a specific period of the year or in a single environment. The results are important from an ecological point of view and for Medico-Legal Forensic Entomology.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Exposed carrion in outdoor environments attracts a great diversity of necrophagous insects that use the organic matter as a source of food for their immature and/or adult stages. Omnivorous insects feed on the remains of carcasses and on the associated arthropods, which may be also hosts to parasitic insects. Predators also visit the carcasses to interact with other species. Additionally, the adventives species use the carrion as an extension of their habitat? <ref type="bibr" target="#b47">(Smith 1986</ref><ref type="bibr" target="#b21">, Hanski 1987</ref><ref type="bibr" target="#b7">, Campobasso et al 2001)</ref>.</p><p>Coleoptera and Diptera are the main groups of insects associated with carrion <ref type="bibr" target="#b21">(Hanski 1987</ref><ref type="bibr" target="#b12">, Catts &amp; Goff 1992</ref><ref type="bibr" target="#b19">, Goff 2000</ref><ref type="bibr" target="#b7">, Campobasso et al 2001</ref><ref type="bibr" target="#b11">, Carvalho et al 2004)</ref>. Members of other orders, such as Hymenoptera, Homoptera, Isoptera, and Dermaptera, also use this substrate <ref type="bibr" target="#b12">(Catts &amp; Goff 1992</ref><ref type="bibr" target="#b44">, Rosa et al 2011</ref><ref type="bibr" target="#b35">, Moretti et al 2013)</ref>. The richness of the carrion fauna and the time required for its decomposition vary according to several factors including geographic region and climatic conditions <ref type="bibr" target="#b7">(Campobasso et al 2001</ref><ref type="bibr" target="#b2">, Anderson 2010)</ref>.</p><p>Studies of carrion fauna have increased in the last 20 years in Brazil and have presented a rich fauna associated with carrion in natural and anthropic environments. These studies have increased knowledge on the subject and also on the biodiversity associated with carrion in this country <ref type="bibr" target="#b4">(Barros et al 2008</ref><ref type="bibr">, Pujol-Luz et al 2008</ref><ref type="bibr" target="#b6">, Biavati et al 2010</ref><ref type="bibr" target="#b33">, Mise et al 2010</ref><ref type="bibr" target="#b44">, Rosa et al 2011</ref><ref type="bibr" target="#b17">, Faria et al 2013)</ref>.</p><p>The Brazilian Savanna or "Cerrado" is the second largest biome in this country and considered one of the 25 areas of most interest for research in the world. It is the largest and richest tropical Savanna. Presently, this region is composed of natural and anthropic areas used for agro-pastoral activities. The extensive biodiversity of the area, however, has been little studied <ref type="bibr" target="#b42">(Ratter et al 1997</ref><ref type="bibr" target="#b36">, Myers et al 2000</ref><ref type="bibr" target="#b23">, Klink &amp; Machado 2005)</ref>. This biome is composed of various profiles of vegetation that include "campo limpo" (clean fields), "campo sujo" (dirty fields), "Cerrado stricto sensu," and "Mata mesofítica" (mesophitic forest). The physiognomy of this last profile refers to erect and mesophytic trees and is generally close to rivers and streams in the Cerrado region <ref type="bibr" target="#b16">(Eiten 1972)</ref>.</p><p>Studies of carrion fauna in the Cerrado have been initiated only in the last few years in this country <ref type="bibr" target="#b41">(Pujol-Luz et al 2008</ref><ref type="bibr" target="#b44">, Rosa et al 2011</ref><ref type="bibr" target="#b17">, Faria et al 2013</ref><ref type="bibr" target="#b30">, Mello-Patiu et al 2014)</ref>. Moreover, knowledge of carrion fauna in any given region requires studies of the prevailing environment. Studies developed in this region have reported dipteran species breeding in pig carrion, discovered a rich carrion fauna, and presented new observations of several species of Sarcophagidae found in this biome <ref type="bibr" target="#b43">(Rosa et al 2009</ref><ref type="bibr" target="#b44">, Rosa et al 2011</ref><ref type="bibr" target="#b17">, Faria et al 2013</ref><ref type="bibr" target="#b30">, Mello-Patiu et al 2014)</ref>.</p><p>This study was conducted in a rural area where the Cerrado is the predominant biome and the agro-pastoral activities are of great economic importance. To complement previous studies <ref type="bibr" target="#b43">(Rosa et al 2009</ref><ref type="bibr" target="#b44">, Rosa et al 2011</ref><ref type="bibr" target="#b17">, Faria et al 2013)</ref>, data, both in the pasture and in a fragment of semideciduous forest, were collected. The experiments were conducted to study the fauna, attracted to the pig carrion, and its breeding in the two areas and two marked seasons. Data on the breeding insects have been published separately in <ref type="bibr" target="#b17">Faria et al (2013)</ref>. The data presented in <ref type="bibr" target="#b17">Faria et al (2013)</ref> were restricted to 17 species of Diptera and two species of Coleoptera that developed in the carcasses in different seasons, environments, and stages of decomposition. The present study focused on the diversity and abundance of insects attracted to pig carrion in the two environments and seasons of the rural area of Uberlândia, State of Minas Gerais.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study area</head><p>The study was conducted at an Experimental Farm belonging to the Universidade Federal de Uberlândia (UFU), located 2 km from the urban region of the city of Uberlândia (18°57′ S and 48°12′ W), in the State of Minas Gerais, southeastern Brazil. The first site was a pasture with grass (Brachiaria brizantha, Grisebach) and direct sunlight on the vegetation at ground level. The second was a fragment of semi-deciduous forest with predominant woody vegetation composed of heterogeneous natural formations and gradual transition to a gallery forest with abrupt transitions to borders composed of artificial grassland <ref type="bibr">(Haridasan &amp; Araújo 2005</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>The experiments</head><p>The experiments were conducted during the two seasons: the first was in the wet summer season, from February to March, and the second was performed during the dry, winter season, from July to September, 2010. Four domestic pig carcasses (Sus scrofa) were used in each of these two seasons: two in the pasture and two in the forest, totaling four carcasses exposed in each area and eight pig carcasses during the total experiment. Carcasses weighing 10 ± 1 kg were placed in cages of 40 × 60 × 40 cm constructed using mesh of 15 × 2 cm.</p><p>A pyramidal trap with a metal frame covered by thin cotton gauze was placed above the cages to collect adult winged insects. Removable trays, 2 cm deep, containing sawdust were placed under the cages to retain ambulatory and immature insects (data from the breeding insects have been published separately <ref type="bibr" target="#b17">(Faria et al 2013)</ref>. Adult insects were captured in the traps and collected daily in the sawdust. They were sacrificed using ethyl ether and maintained in 70% ethanol for later identification.</p><p>The temperature and relative humidity of the air were monitored by thermo-hygrometers placed close to the carcasses in each area, during the study. Rainfall data were obtained from the weather station at UFU, located 6 km from the study areas. Data on the temperature, humidity, and rainfall were registered daily throughout the decomposition process. More details of the procedures adopted in the research are described in <ref type="bibr" target="#b44">Rosa et al (2011)</ref> and <ref type="bibr" target="#b17">Faria et al (2013)</ref>. The insect identifications were made with the aid of taxonomists (third and fourth authors) and using the following keys: <ref type="bibr" target="#b29">McAlpine et al (1981)</ref>, <ref type="bibr" target="#b0">Almeida &amp; Mise (2009)</ref>, Pinto e Vairo et al <ref type="bibr">(2011), and</ref><ref type="bibr" target="#b25">Kosmann et al (2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statistical and faunal analyses</head><p>The frequencies of the main insect groups including Calliphoridae, Sarcophagidae, Muscidae, and Fanniidae (Diptera) as well as Staphylinidae and Histeridae (Coleoptera) in each season and area studied were compared using ANOVA. Thereafter, the Pearson's correlation coefficients were calculated to test for relationships between the duration of the stages of decomposition and the frequencies of the previously mentioned families. Their frequencies were transformed into log 10 + 1 before being subjected to comparisons. The Shannon-Wiener (H′) and equitability (J) indices were used to determine the dimension of diversity and the degree of uniformity of the distribution of species in the environments and seasons studied <ref type="bibr" target="#b39">(Odum 1988)</ref>. The daily temperatures and relative humidity, as well as the indices of diversity obtained in each environment and season, were compared using the t test <ref type="bibr" target="#b52">(Zar 1999)</ref>. Statistical analyses were performed using the 5% level of significance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Decomposition of the pig carcasses lasted 33 days in the two environments studied during the humid season. In the dry season, this process lasted 65 days in the pasture and 51 days in the forest. The two periods presented marked differences between their climatic conditions, with the largest discrepancies being observed in mean relative humidity and in the total rainfall. The wet season was warmer and significantly more humid than the dry season (t = 18.387; P &lt; 0.01), with average daily temperatures of 25.7 ± 2°C, relative humidity of 67.6 ± 9.3%, and total precipitation of 172.4 mm 3 . The dry season presented average temperatures of 21.8 ± 3.2°C and relative humidity of 30.3 ± 7.9% but without pluvial precipitation records ( conducted presents Aw climate, with two defined seasons: dry winter and wet summer. The average annual rainfall and the daily temperatures are around 1500 mm and 19 to 27°C, respectively <ref type="bibr" target="#b46">(Silva &amp; Assunção 2004)</ref>. Although its absence of rainfall is not common for more than 2 months in the dry season in this area, the observed physical conditions corroborate those expected for the respective seasons of the study <ref type="bibr" target="#b1">(Alvarez et al 2014)</ref>. Different physical conditions were also observed between the pasture and forest environments. In general, the pasture was dryer (t = 11.540; P &lt; 0.01) and hotter (t = 9.235; P &lt; 0.01) than the forest (Fig <ref type="figure" target="#fig_1">2</ref>). The carcasses attracted a total of 92,489 insects belonging to seven orders: Diptera (92.2%), Coleoptera (4.4%), Hemiptera (1.9%), Lepidoptera (0.9%), Hymenoptera (.5%), Odonata (0.002%), and Orthoptera (0.002%) (Table <ref type="table" target="#tab_0">1</ref>). Diptera were numerous in all environments and seasons with 85,302 of the individuals belonging to 27 families and at least 124 species. Sarcophagidae presented was the most abundant (48.3%) among the dipterans, followed by Ulidiidae (18.1%) and Muscidae (11.3%). The other Diptera that were considerable abundant were Calliphoridae (9.3%), Tachinidae (4.9%) and Fanniidae (2.3%) (Table <ref type="table" target="#tab_3">2</ref>). A total of 17 species of Diptera and two Coleoptera reproduced in the carcasses. Data on the breeding fauna including abundance and diversity, seasons, and areas where species were reared, and description and duration of the decay stages of the carcasses have been published separately in <ref type="bibr" target="#b17">Faria et al (2013)</ref>.</p><p>In general, the dry season had a greater abundance of insects (63.2%). Low humidity, prevalent during the dry season, accelerated the dehydration of the carcasses and would have restricted their colonization by the breeding fauna, retarding the decomposition process <ref type="bibr" target="#b17">(Faria et al 2013)</ref>. The correlation coefficient between duration of the decomposition and frequencies of insects was positive and significant (r = 0.49; P &lt; 0.01). For this reason, the higher abundance of insects attracted in the dry season was, at least in part, due to the longer duration of the decomposition process, attracting the insects for a longer time. This event has been observed in other studies in Brazil <ref type="bibr" target="#b48">(Souza &amp; Linhares 1997</ref><ref type="bibr" target="#b9">, Carvalho &amp; Linhares 2001</ref><ref type="bibr" target="#b44">, Rosa et al 2011)</ref>.</p><p>Daily collection of insects during the longer period of the dry season resulted in a greater number of insects collected during this period. These results were influenced by the frequency obtained for Sarcophagidae, the most abundant family. Sarcophagidae represented, respectively, 48 and 44% of all dipterans and insects collected. This family presented a greater abundance in this period of the year (F = 7.274, P = 0.007) and would have been influenced significantly by this factor (Table <ref type="table" target="#tab_0">1</ref>).</p><p>The humid period presented greater diversity and uniformity of indices for the main families: Sarcophagidae (H′ = 1.979; J = 0.519 versus H′ = 1.3166; J = 0.3383) (t = 36.829; P &lt; 0.01), Muscidae (H′ = 2.029; J = 0.689 versus H′ = 1.4099; J = 0.4878) (t = 24.478; P &lt; 0.01), and Calliphoridae (H′ = 0.550; J = 0.250 versus H′ = 0.3244; J = 0.1667) (t = 10.935; P &lt; 0.01). Only Fanniidae presented higher faunal indices in the dry period (H′ = 1.254; J = 0.644 versus H′ = 0.5574; J = 0.5077) (t = 23.779; P &lt; 0.01). The pasture showed higher faunal indices for Muscidae (H′ = 1.510; J = 0.522 versus H′ = 1.384; J = 0.4545) (t = 4.1709; P &lt; 0.01), while Sarcophagidae presented higher indices in the forest (H′ = 1.843; J = 0.484 versus H′ = 1.200; H = 0.3118) (t = 23.106; P &lt; 0.01). The reduced richness of species observed in Sarcophagidae in the pasture was probably due to the lower phenotypic plasticity of part of its members to adapt to the physical and biological conditions of this environment. The environmental homogeneity of the pasture probably restricted the diversity of species of this group <ref type="bibr" target="#b15">(Diniz et al 2010</ref><ref type="bibr" target="#b37">, Newbold et al 2015)</ref>. If it is the case, the results strengthen the relevance of the remaining natural (forest) environment in the rural area to preserve the biodiversity of necrophagous insects in this region <ref type="bibr" target="#b37">(Newbold et al 2015)</ref>.</p><p>Studies by <ref type="bibr" target="#b4">Barros et al (2008)</ref>   <ref type="bibr" target="#b49">(Souza &amp; Paseto 2015)</ref> with specimens of this species collected in this same study area. Oxysarcodexia was the most diverse genus with at least 17 species and occurred in all stages of decomposition of the carcasses. This genus is characteristically Neotropical and prefers to breed in feces <ref type="bibr" target="#b27">(Lopes 1973)</ref>. The reasons that its members are attracted to carrion include the search for a source of nourishment for development of female ovocites <ref type="bibr" target="#b31">(Mendes &amp; Linhares 1993</ref><ref type="bibr" target="#b3">, Archer &amp; Elgar 2003)</ref> and for mates. Oxysarcodexia thornax (Walker) was the most abundant and was collected in all seasons, environments, and stages of carcass decomposition. Oxysarcodexia diana <ref type="bibr">(Lopes)</ref>, Tricharaea (Sarcophagula) occidua (Fabricius), Sarcodexia lambens (Wiedemann), Peckia (Euboettcheria) collusor (Curran &amp; Walley), and Ravinia belforti (Prado &amp; Fonseca) were also quite abundant in the two periods of the year (Table <ref type="table" target="#tab_3">2</ref>).</p><p>The Muscidae family was represented mainly by Biopyrellia bipuncta (Wiedeman), Atherigona orientalis (Schiner), and Ophyra aenescens (Wiedemann), collected in all stages of decomposition. Stomoxys calcitrans (Linnaeus) occurred only in the last two stages of decomposition. This was the first occurrence of Fannia carvalhoi Couri (Fanniidae) in the Cerrado. 53 100.0 0 0.0 53 100.0 Others Diptera Asilidae 3 100.0 13 100.0 16 100.0 Bombyliidae 3 100.0 23 100.0 26 100.0 Chloropidae 183 100.0 123 100.0 306 100.0 Dolichopodidae 21 100.0 1 100.0 22 100.0 Drosophilidae 8 100.0 1 100.0 9 100.0 Lonchaeidae 0 0.0 5 100.0 5 100.0 Milichidae 480 100.0 1 100.0 481 100.0 Mycropezidae 1 100.0 1 100.0 2 100.0 Neriidae 3 100.0 1 100.0 4 100.0 Piophilidae 4 100.0 0 0.0 4 100.0 Ropalomeridae 1 100.0 3 100.0 4 100.0 Sepsidae 656 100.0 365 100.0 1021 100.0 Sphaeroceridae 46 100.0 9 100.0 55 100.0 Tabanidae 0 0.0 9 100.0 9 100.0 Tachinidae 131 100.0 4048 100.0 4179 100.0 Tanypezidae 1 100.0 5 100.0 6 100.0 Tephritidae 0 0.0 22 100.0 22 100.0 Tethinidae 425 100.0 0 0.0 425 100.0 Ulidiidae spp. (4 morphs) 11,592 100.0 3851 100.0 15,443 100.0 Total Diptera 31,374 100.0 53,917 100.0 85,291 100.0</p><p>Table 1 (continued) Orders/families/species Humid season Dry season Total A. F. R. F. (%) A. F. R. F. (%) A. F. R. F. (%) Coleoptera Chrysomelidae Chrysomelidae sp. 134 100.0 17 100.0 100.0 Cleridae Necrobia rufipes (De Geer, 1775) 76 100.0 501 100.0 100.0 Coccinellidae Coccinellidae sp. 11 100.0 0 0.0 100.0 Curculionidae Curculionidae sp. 1 100.0 0 0.0 100.0 Dermestidae Dermestes maculatus (De Geer, 1774) 72 100.0 1.748 100.00 100.00 Histeridae Euspilotus spp. (6 morfos) 282 47.7 178 95.2 59.1 Hister curvatus (Erichson, 1834) 266 45.0 8 4.3 35.2 Hister spp. 3 0.5 0 0.0 0.4 Holoptera sp. 0 0.0 1 0.5 0.1 Histeridae spp. (3 morphs) 20 3.4 0 0.0 2.6 Omalodes sp. 20 3.4 0 0.0 2.6 Total Histeridae 591 100.0 187 100.0 100.0 Hydrophilidae Hydrophilidae sp. 0 0.0 6 100.0 100.0 Lagriidae Lagria villosa (Fabricius, 1781) 0 0.0 1 100.0 100.0 Nitidulidae Nitidulidae spp. (5 morphs) 5 100.0 8 100.0 100.0 Scarabaeidae Deltochilum sp. 24 28.6 0 0.0 27.9 Dichotomius nisus (Olivier, 1789) 10 11.9 0 0.0 11.6 Dichotomius spp. (3 morphs) 13 15.5 0 0.0 15.1 Eurysternus spp. (2 morphs) 12 14.3 0 0.0 13.9 Ontophagus buculus (Mannerheim, 1829) 13 15.5 2 100.0 17.4 Ontophagus spp. (2 morphs) 6 7.1 0 0.0 7.0 Trichilum externepunctatum Preudhomme de Borre, 1880 5 6.0 0 0.0 5.8 Trichilum sp. 1 1.2 0 0.0 1.2 Total Sacarabaeidae 84 100.0 2 100.0 100.0 Silphidae Oxelytrum discicolle (Brullé, 1840) 1 100.0 2 100.0 100.0 Staphylinidae Aleochara spp. (3 morphs) 10 2.2 85 69.1 16.6 Cryptobium sp. 1 0.2 0 0.0 0.2 Eulissus chalybaeus (Mannerheim, 1830) 58 12.9 0 0.0 10.2 Philonthus flavolimbatus (Erichson, 1840) 0 0.0 5 4.1 0.9 Philonthus spp. (2 morphs) 218 48.7 14 11.4 40.6 Platydracus ochropygus (Nordman, 1837) 2 0.4 0 0.0 0.3 Staphylinidae spp. (4 morphs) 57 12.7 16 13.0 12.8 Xanthopygus spp. (2 morphs) 102 22.8 3 2.4 18.4 Total Staphylinidae 448 100.0 123 100.0 100.0 Table 1 (continued) Orders/families/species Humid season Dry season Total A. F. R. F. (%) A. F. R. F. (%) A. F. R. F. (%) Tenebrionidae Tenebrionidae spp. (3 morphs) 3 100.0 1 100.0 100.0 Trogidae Omorgus suberosus (Fabricius, 1775) 6 75.0 0 0.0 75.0 Omorgus sp. 1 12.5 0 0.0 12.5 Trogidae sp. 1 12.5 0 0.0 12.5 Total Trogidae 8 100.0 0 0.0 100.0 Other Coleoptera Coleoptera spp. (5 morphs) 4 0.3 34 1.3 0.9 Total Coleoptera 1439 100.0 2630 100.0 100.0 Hymenoptera Andrenidae Andrenidae sp.1 1 100.0 0 0.0 100.0 Apidae Trigona spinipes sp.1 13 22.4 0 0.0 14.0 Trigona spinipes sp. 2 20 34.5 2 5.7 23.7 Apis mellifera (Linnaeus, 1758) 9 15.5 11 31.4 21.5 Apidae sp.1 1 1.7 0 0.0 1.1 Apidae sp.2 0 0.0 1 2.9 1.1 Meliponini spp. (4 morphs) 15 25.9 21 60.0 38.7 Total Apidae 58 100.0 35 100.0 100.0 Chrysididae Chrysididae spp. 49 100.0 58 100.0 100.0 Colletidae Colletidae spp. (4 morfos) 0 0.0 4 100.0 100.0 Formicidae Atta sp.1 3 12.5 12 9.4 9.9 Camponotus crassus (Mayr, 1862) 0 0.0 89 69.5 58.5 Camponotus sp.2 2 8.3 4 3.1 3.9 Camponotus vittatus (Forel, 1904) 10 41.7 9 7.0 12.5 Cylindromyrmex sp. 1 4.2 0 0.0 0.6 Linepithema humile (Mayr, 1868) 8 33.3 0 0.0 5.3 Formicidae sp.1 0 0.0 12 9.4 7.9 Formicidae sp.2 0 0.0 2 1.6 1.3 Total Formicidae 24 100.0 128 100.0 100.0 Halictidae Halictidae spp. (5 morphs) 0 0.0 8 100.0 100.0 Ichneumonidae Ichneumonidae spp. (3 morphs) 3 100.0 2 100.0 100.0 Megachilidae Megachilidae spp. (2 morphs) 3 100.0 0 0.0 100.0 Pteromalidae Pteromalidae sp. 0 0.0 42 100.0 100.0 Sphecidae Trypoxylon figulus (Linnaeus, 1758) 0 0.0 1 50.0 11.1 Typoxyloninae sp.1 1 14.3 0 0.0 11.1 Larrinae sp.1 1 14.3 0 0.0 11.1</p><p>Among the Calliphoridae, Chrysomya albiceps (Wiedemann) was the most abundant species. Chrysomya have been found to present a high degree of adaptability to conditions created by man <ref type="bibr" target="#b38">(Nuorteva 1963</ref>). Members of this genus have caused myiases and transmitted pathogens to human and other animals in various parts of the world <ref type="bibr" target="#b53">(Zumpt 1965</ref><ref type="bibr" target="#b20">, Greenberg 1971</ref><ref type="bibr">, Guimarães &amp; Papavero 1999)</ref>. Chrysomya albiceps is also considered to be of great forensic importance in Brazil as well as in several other countries <ref type="bibr" target="#b10">(Carvalho et al 2000</ref><ref type="bibr" target="#b19">, Grassberger et al 2003</ref><ref type="bibr" target="#b51">, Vanin et al 2009</ref><ref type="bibr" target="#b24">, Kosmann et al 2011)</ref>. This species has been the most abundant among the blowflies and has been collected in all stages of decomposition of carcasses <ref type="bibr" target="#b9">(Carvalho &amp; Linhares 2001</ref><ref type="bibr" target="#b50">, Souza et al 2008)</ref>. It was also the most abundant species in the forest in the present study and has also been the dominant species in carrion exposed in other natural areas of Cerrado in Brazil <ref type="bibr" target="#b6">(Biavati et al 2010</ref><ref type="bibr" target="#b44">, Rosa et al 2011</ref><ref type="bibr" target="#b17">, Faria et al 2013)</ref>. This finding reinforces the assumption that C. albiceps is highly adapted to this region, despite its recent introduction into the Americas (Guimarães et al 1979, <ref type="bibr" target="#b26">Linhares 1981</ref><ref type="bibr" target="#b5">, Baumgartner &amp; Greenberg 1984)</ref>. Cochliomyia macellaria (Fabricius) and Lucilia eximia (Wiedemann) were both present in the two experiments and at all stages of decomposition of the carcasses. On the other hand, Hemilucilia segmentaria (Fabricius) was encountered only in the first two stages of decomposition of the carcasses. The presence of Cochliomyia hominivorax (Coquerel) in the first stage of decomposition must also be noted. This species is commonly attracted to living tissues, and its larvae cause obligatory myiasis in humans and other animals of the New World (Guimarães &amp; Papavero 1999).</p><p>The Coleoptera order was the second most abundant, represented mainly by Dermestidae (44.7%), Histeridae (19.1%), Cleridae (14.1%), Staphylinidae (14.0%), Chrysomelidae (3.7%), and Scarabaeidae (2.1%). While Staphylinidae and Histeridae were represented by several species, Dermestidae, Cleridae, and Silphidae were represented by only one species each. Staphylinidae and Histeridae occurred in greater abundance during the wet season. In the dry season, Dermestidae and Cleridae were collected in great abundance. Dermestes maculatus (De Geer) was the most abundant beetle species (44.7%) and was collected mainly in the pasture and in the dry season. The presence of large numbers of individuals of this species in the dry season was probably due to the predominance of low humidity during this period since it prefers dry and warm environments <ref type="bibr" target="#b32">(Mise et al 2007)</ref>. Dermestes maculatus has also been associated with the skeletization of human corpses, a fact that demonstrates its importance for forensic entomology <ref type="bibr" target="#b45">(Schroeder et al 2002)</ref>. Hister curvatus (Erichson) was the main representative of Histeridae during the wet period and Philonthus spp. (Staphylinidae) predominated in the pasture (62.4%), also in the wet season (48.6%) (Table <ref type="table" target="#tab_3">2</ref>). These two families have been the most diverse among the beetles collected in carrion in other states of this country including São Paulo, Pernambuco, Paraná, and Amazonas <ref type="bibr" target="#b48">(Souza &amp; Linhares 1997</ref><ref type="bibr" target="#b18">, Ganho &amp; Marinoni 2003</ref><ref type="bibr" target="#b13">, Cruz &amp; Vasconcelos 2006</ref><ref type="bibr" target="#b33">, Mise et al 2010)</ref>. This emphasizes the greater richness of Staphylinidae and Histeridae in the area. They are predators, and their action on the</p><p>Table 1 (continued) Orders/families/species Humid season Dry season Total A. F. R. F. (%) A. F. R. F. (%) A. F. R. F. (%) Sphecidae sp.1 5 71.4 1 50.0 6 66.7 Total Sphecidae 7 100.0 2 100.0 9 100.0 Vespidae Agelaia pallipes (Olivier, 1792) 0 0.0 3 0.9 3 3.4 Tachytini 0 0.0 0 0.0 1 1.1 Polistinae spp. (4 morphs) 39 100.0 40 12.2 79 89.8 Vespidae spp. (3 morphs) 0 0.0 5 1.5 5 5.7 Total Vespidae 39 100.0 49 100.0 88 100.0 Total Hymenoptera 184 100.0 328 100.0 512 100.0 Other insects Hemiptera 241 100.0 1531 100.0 1772 100.0 Lepidoptera 795 100.0 46 100.0 841 100.0 Odonata 1 100.0 1 100.0 2 100.0 Orthoptera 2 100.0 0 0.0 2 100.0 Total general 34,035 100.0 58,454 100.0 92,489 100.0 A.F. absolute frequency, R.F. relative frequency. carrion fauna interferes indirectly with the rate of decay in the carrion <ref type="bibr" target="#b29">(Marinoni et al 2001)</ref>. Hymenoptera presented smaller overall abundance as compared to Coleoptera and Diptera. However, the samples collected belonged to a great diversity of species from ten families. Formicidae stood out with 29.7% of the total sample of the order. This was followed by Chrysididae (20.9%), Apidae (18.2%), and Vespidae (17.2%). Camponotus crassus (Mayr) (For micida e) was the most abundant species representing 58.6% of the family. This species was restricted to the dry season and was more abundant in the forest. It was also noted that members of this species were observed causing skin lesions on the carcasses at the beginning of the decomposition process. Some Hymenoptera feed on body fluids as an additional source of food but are not essentially scavengers <ref type="bibr" target="#b7">(Campobasso et al 2001)</ref>. Ants, in turn, can feed on dipterous larvae and pupae <ref type="bibr" target="#b35">(Moretti et al 2013</ref><ref type="bibr" target="#b39">, Paula et al 2016)</ref>. Lesions caused by C. crassus on the carcasses are of special interest to forensic entomology because when ants act as scavengers, they can mutilate and cause other lesions leading to misinterpretations during forensic investigation <ref type="bibr" target="#b34">(Moretti et al 2007</ref><ref type="bibr" target="#b8">, Campobasso et al 2009)</ref>.</p><p>Various species were collected during specific periods of the year. These Helicobia borgmeieri Lopes, Titanogrypa (Cucullomyia) larvicida (Lopes), Hemichlora scordalus (Walker), Morellia nigricosta (Hough), Hermetia illuscens (Linnaeus), Tethinidae, Dichotomius nissus (Olivier),  <ref type="table" target="#tab_3">2</ref>).</p><p>The results presented here are important from an ecological point of view as well as for Medico-Legal Forensic Entomology. They present a great diversity of insects associated with pig carrion in an area belonging to a biome whose biodiversity is little known. The species richness observed in the forest and pasture indicated the possible occurrence of some species only in the natural (forest) environment in this region. Additional studies need to be conducted to confirm the specificity of environmental and seasonal priorities of several species. Such studies would improve knowledge of the biodiversity of necrophilous insects and could corroborate the results presented here, pointing </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Fig 1 Aerial image of the study area pointing out the trap location.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 2</head><label>2</label><figDesc>Fig 2 Environmental conditions [temperature (°C), relative humidity (%) and rainfall (mm 3 )] during the experiments in the pasture and forestduring the humid (1) and dry (2) seasons of the year.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>and Rosa et al (2011) carried out in other natural areas of Cerrado and pasture also encountered great richness of the carrion fauna belonging to Sarcophagidae. The following six species of this family were recently recorded for the first time in the Cerrado: B l a e s o x i p h a ( A c r i d i o p h a g a ) c a r i d e i ( B r è t e s ) , Malacophagomyia filamenta (Dodge), Nephochaetopteryx cyaneiventris (Lopes), Nephochaetopteryx orbitalis (Curran &amp; Walley), Nephochaetopteryx pallidiventris (Townsend), and Ravinia effrenata (Walker) (details in: Mello-Patiu et al 2014). Oxysarcodexia mineirensis Souza &amp; Paseto was recently described</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>Trichilum externepunctatum Preudhomme de Borre, Eulissus chalybaeus (Mannerheim), and Omorgus suberosus (Fabricius) occurred only in the wet period. In contrast: Dexosarcophaga transita Townsend, Lepidodexia (Harpagopyga) sp. 1, M. filamenta, Oxysarcodexia fluminensis Lopes, Oxysarcodexia riograndensis Lopes, M y o s p i l a o b s o l e t a ( B r a u e r &amp; B e r g e n s t a m m ) , Sarcopromusca pruna (Shannon &amp; Del Ponte), and F. carvalhoi occurred only in the dry period. Other species occurred only in a single environment: B l a e s o x i p h a ( A c a n t h o d o t h e c a ) l a n e i ( L o p e s ) . N. orbitalis, M. obsoleta, and H. segmentaria occurred exclusively in the forest. The opposite was observed in the cases of D. transita, Microcerella erythropyga, T. (C.) larvicida, Lucilia cuprina (Wiedemann), and Philonthus flavolimbatus (Erichson) that were collected only in the pasture (Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Insects associated to pig carrion during the dry and humid seasons in a rural area of Cerrado, southeastern Brazil.</figDesc><table><row><cell>Orders/families/species</cell><cell cols="2">Humid season</cell><cell>Dry season</cell><cell></cell><cell>Total</cell></row><row><cell></cell><cell>A. F.</cell><cell>R. F. (%)</cell><cell>A. F.</cell><cell>R. F. (%)</cell><cell>A. F.</cell><cell>R. F. (%)</cell></row><row><cell>Diptera</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anthomyiidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anthomyia sp.</cell><cell>3</cell><cell>42.8</cell><cell>9</cell><cell>18.3</cell><cell></cell><cell>21.4</cell></row><row><cell>Craspedochaeta sp.</cell><cell>0</cell><cell>0.0</cell><cell>8</cell><cell>16.3</cell><cell></cell><cell>14.2</cell></row><row><cell>Emmesiomyia sp.</cell><cell>0</cell><cell>0.0</cell><cell>31</cell><cell>63.2</cell><cell></cell><cell>55.3</cell></row><row><cell>Pegomyia sp.</cell><cell>4</cell><cell>57.1</cell><cell>1</cell><cell>2.0</cell><cell></cell><cell>8.9</cell></row><row><cell>Total Anthomyiidae</cell><cell>7</cell><cell>100.0</cell><cell>49</cell><cell>100.0</cell><cell></cell><cell>100.0</cell></row><row><cell>Calliphoridae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Chloroprocta idiodea (Townsend, 1935)</cell><cell>18</cell><cell>0.4</cell><cell>1</cell><cell>0.0</cell><cell></cell><cell>0.2</cell></row><row><cell>Chrysomya albiceps (Wiedemann, 1819)</cell><cell>3779</cell><cell>87.6</cell><cell>3411</cell><cell>93.1</cell><cell></cell><cell>90.1</cell></row><row><cell>Chrysomya megacephala (Fabricius, 1794)</cell><cell>240</cell><cell>5.5</cell><cell>7</cell><cell>0.2</cell><cell></cell><cell>3.1</cell></row><row><cell>Chrysomya putoria (Wiedemann, 1818)</cell><cell>41</cell><cell>0.9</cell><cell>26</cell><cell>0.7</cell><cell></cell><cell>0.8</cell></row><row><cell>Cochliomyia hominivorax (Coquerel, 1858)</cell><cell>2</cell><cell>0.1</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.0</cell></row><row><cell>Cochliomyia macellaria (Fabricius, 1775)</cell><cell>122</cell><cell>2.8</cell><cell>158</cell><cell>4.3</cell><cell></cell><cell>3.5</cell></row><row><cell>Hemilucilia segmentaria (Fabricius, 1805)</cell><cell>8</cell><cell>0.2</cell><cell>5</cell><cell>0.1</cell><cell></cell><cell>0.2</cell></row><row><cell>Lucilia cuprina (Wiedemann, 1830)</cell><cell>4</cell><cell>0.1</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.1</cell></row><row><cell>Lucilia eximia (Wiedemann, 1819)</cell><cell>96</cell><cell>2.2</cell><cell>56</cell><cell>1.5</cell><cell></cell><cell>1.9</cell></row><row><cell>Total Calliphoridae</cell><cell>4310</cell><cell>100.0</cell><cell>3664</cell><cell>100.0</cell><cell></cell><cell>100.0</cell></row><row><cell>Fanniidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fannia carvalhoi Couri, 2005</cell><cell>0</cell><cell>0.0</cell><cell>21</cell><cell>2.1</cell><cell></cell><cell>1.0</cell></row><row><cell>Fannia pusio (Wiedemann, 1830)</cell><cell>27</cell><cell>2.6</cell><cell>265</cell><cell>27.1</cell><cell></cell><cell>13.2</cell></row><row><cell>Fannia (subgroup pusio)</cell><cell>836</cell><cell>81.3</cell><cell>421</cell><cell>43.1</cell><cell></cell><cell>13.2</cell></row><row><cell>Fannia tumidifemur (Stein, 1911)</cell><cell>0</cell><cell>0.0</cell><cell>1</cell><cell>0.1</cell><cell></cell><cell>0.1</cell></row><row><cell>Fannia yenhedi (Albuquerque, 1957)</cell><cell>165</cell><cell>16.0</cell><cell>397</cell><cell>40.7</cell><cell></cell><cell>19.9</cell></row><row><cell>Fannia sp. 1</cell><cell>0</cell><cell>0.0</cell><cell>15</cell><cell>1.5</cell><cell></cell><cell>0.7</cell></row><row><cell>Fannia sp. 2</cell><cell>0</cell><cell>0.0</cell><cell>10</cell><cell>1.0</cell><cell></cell><cell>0.5</cell></row><row><cell>Total Fanniidae</cell><cell>1028</cell><cell>100.0</cell><cell>975</cell><cell>100.0</cell><cell></cell><cell>100.0</cell></row><row><cell>Muscidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Atherigona orientalis (Schiner, 1868)</cell><cell>507</cell><cell>20.2</cell><cell>1209</cell><cell>16.8</cell><cell></cell><cell>17.7</cell></row><row><cell>Biopyrellia bipuncta (Wiedeman, 1830)</cell><cell>201</cell><cell>8.0</cell><cell>4226</cell><cell>58.7</cell><cell></cell><cell>45.6</cell></row><row><cell>Brontaea debilis (Williston, 1896)</cell><cell>8</cell><cell>0.3</cell><cell>3</cell><cell>0.0</cell><cell></cell><cell>0.1</cell></row><row><cell>Cyrtoneurina geminata (Stein, 1904)</cell><cell>80</cell><cell>3.2</cell><cell>70</cell><cell>0.9</cell><cell></cell><cell>1.5</cell></row><row><cell>Cyrtoneurina sp.</cell><cell>27</cell><cell>1.0</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.2</cell></row><row><cell>Cyrtoneuropsis multomaculata (Stein, 1904)</cell><cell>1</cell><cell>0.0</cell><cell>1</cell><cell>0.0</cell><cell></cell><cell>0.0</cell></row><row><cell>Cyrtoneuropsis pararescita (Couri, 1995)</cell><cell>78</cell><cell>3.1</cell><cell>6</cell><cell>0.1</cell><cell></cell><cell>0.8</cell></row><row><cell>Cyrtoneuropsis similata (Couri, 1982)</cell><cell>134</cell><cell>5.3</cell><cell>54</cell><cell>0.7</cell><cell></cell><cell>1.9</cell></row><row><cell>Graphomya maculata (Scopoli, 1763)</cell><cell>3</cell><cell>0.1</cell><cell>5</cell><cell>0.1</cell><cell></cell><cell>0.1</cell></row><row><cell>Hemichlora scordalus (Walker, 1861)</cell><cell>23</cell><cell>0.9</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.2</cell></row><row><cell>Morellia dendropanacis Pamplona &amp; Couri, 1995</cell><cell>124</cell><cell>4.9</cell><cell>460</cell><cell>6.4</cell><cell></cell><cell>6.0</cell></row><row><cell>Morellia humeralis (Stein, 1918)</cell><cell>2</cell><cell>0.1</cell><cell>246</cell><cell>3.4</cell><cell></cell><cell>2.5</cell></row><row><cell>Morellia nigricosta (Hough, 1900)</cell><cell>3</cell><cell>0.1</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.0</cell></row><row><cell>Morellia paulistensis Pamplona &amp; Mendes, 1995</cell><cell>93</cell><cell>3.7</cell><cell>131</cell><cell>1.8</cell><cell></cell><cell>2.3</cell></row><row><cell>Musca domestica (Linnaeus, 1758)</cell><cell>505</cell><cell>20.1</cell><cell>273</cell><cell>3.8</cell><cell></cell><cell>8.0</cell></row><row><cell>Myospila obsoleta (Brauer &amp; Bergenstamm, 1891)</cell><cell>0</cell><cell>0.0</cell><cell>4</cell><cell>0.1</cell><cell></cell><cell>0.0</cell></row><row><cell>Ophyra aenescens (Wiedemann, 1830)</cell><cell>694</cell><cell>27.7</cell><cell>474</cell><cell>6.5</cell><cell></cell><cell>12.0</cell></row><row><cell>Ophyra solitaria (Albuquerque, 1958)</cell><cell>2</cell><cell>0.1</cell><cell>16</cell><cell>0.2</cell><cell></cell><cell>0.2</cell></row><row><cell>Sarcopromusca pruna (Shannon &amp; Del Ponte, 1926)</cell><cell>0</cell><cell>0.0</cell><cell>3</cell><cell>0.0</cell><cell></cell><cell>0.0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 2</head><label>2</label><figDesc>Insects attracted to pig carrion (Sus scrofa L.) in two environments of a rural area of the Cerrado, southeastern Brazil.</figDesc><table><row><cell>Orders/families/species</cell><cell>Pasture</cell><cell></cell><cell>Forest</cell><cell></cell><cell>Total</cell></row><row><cell></cell><cell>A.F.</cell><cell>R.F. (%)</cell><cell>A.F.</cell><cell>R.F. (%)</cell><cell>A.F.</cell><cell>R.F. (%)</cell></row><row><cell>Diptera</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anthomyiidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Anthomyia sp.</cell><cell>4</cell><cell>36.4</cell><cell>8</cell><cell>17.9</cell><cell></cell><cell>21.4</cell></row><row><cell>Craspedochaeta sp.</cell><cell>3</cell><cell>27.3</cell><cell>5</cell><cell>11.1</cell><cell></cell><cell>14.3</cell></row><row><cell>Emmesiomyia sp.</cell><cell>3</cell><cell>27.3</cell><cell>28</cell><cell>62.2</cell><cell></cell><cell>55.4</cell></row><row><cell>Pegomyia sp.</cell><cell>1</cell><cell>9.1</cell><cell>4</cell><cell>8.9</cell><cell></cell><cell>8.9</cell></row><row><cell>Total Anthomyiidae</cell><cell>11</cell><cell>100.0</cell><cell>45</cell><cell>100.0</cell><cell></cell><cell>100.0</cell></row><row><cell>Calliphoridae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Chloroprocta idiodea (Townsend, 1935)</cell><cell>5</cell><cell>0.1</cell><cell>14</cell><cell>0.5</cell><cell></cell><cell>0.2</cell></row><row><cell>Chrysomya albiceps (Wiedemann, 1819)</cell><cell>4452</cell><cell>89.7</cell><cell>2738</cell><cell>90.9</cell><cell></cell><cell>90.2</cell></row><row><cell>Chrysomya megacephala (Fabricius, 1794)</cell><cell>194</cell><cell>3.9</cell><cell>53</cell><cell>1.8</cell><cell></cell><cell>3.1</cell></row><row><cell>Chrysomya putoria (Wiedemann, 1818)</cell><cell>43</cell><cell>0.9</cell><cell>24</cell><cell>0.8</cell><cell></cell><cell>0.8</cell></row><row><cell>Cochliomyia hominivorax (Coquerel, 1858)</cell><cell>2</cell><cell>0.0</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.</cell></row><row><cell>Cochliomyia macellaria (Fabricius, 1775)</cell><cell>167</cell><cell>3.4</cell><cell>113</cell><cell>3.7</cell><cell></cell><cell>3.5</cell></row><row><cell>Hemilucilia segmentaria (Fabricius, 1805)</cell><cell>0</cell><cell>0.0</cell><cell>13</cell><cell>0.4</cell><cell></cell><cell>0.2</cell></row><row><cell>Lucilia cuprina (Wiedemann, 1830)</cell><cell>4</cell><cell>0.1</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.1</cell></row><row><cell>Lucilia eximia (Wiedemann, 1819)</cell><cell>97</cell><cell>1.9</cell><cell>55</cell><cell>1.8</cell><cell></cell><cell>1.9</cell></row><row><cell>Total Calliphoridae</cell><cell>4964</cell><cell>100.0</cell><cell>3010</cell><cell>100.0</cell><cell></cell><cell>100.00</cell></row><row><cell>Fanniidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Fannia carvalhoi Couri, 2005</cell><cell>13</cell><cell>0.8</cell><cell>8</cell><cell>1.9</cell><cell></cell><cell>1.0</cell></row><row><cell>Fannia pusio (Wiedemann, 1830)</cell><cell>217</cell><cell>13.8</cell><cell>75</cell><cell>17.5</cell><cell></cell><cell>13.2</cell></row><row><cell>Fannia (subgroup pusio)</cell><cell>868</cell><cell>55.1</cell><cell>234</cell><cell>54.8</cell><cell></cell><cell>13.3</cell></row><row><cell>Fannia tumidifemur (Stein, 1911)</cell><cell>1</cell><cell>0.1</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.1</cell></row><row><cell>Fannia yenhedi (Albuquerque, 1957)</cell><cell>453</cell><cell>28.7</cell><cell>109</cell><cell>25.5</cell><cell></cell><cell>19.9</cell></row><row><cell>Fannia sp. 1</cell><cell>15</cell><cell>0.9</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.7</cell></row><row><cell>Fannia sp. 2</cell><cell>10</cell><cell>0.6</cell><cell>0</cell><cell>0.0</cell><cell></cell><cell>0.5</cell></row><row><cell>Total Fanniidae</cell><cell>1576</cell><cell>100.0</cell><cell>427</cell><cell>100.0</cell><cell></cell><cell>100.0</cell></row><row><cell>Muscidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Atherigona orientalis (Schiner, 1868)</cell><cell>1388</cell><cell>42.3</cell><cell>328</cell><cell>5.1</cell><cell></cell><cell>17.7</cell></row><row><cell>Biopyrellia bipuncta (Wiedeman, 1830)</cell><cell>262</cell><cell>8.0</cell><cell>4165</cell><cell>64.9</cell><cell></cell><cell>45.7</cell></row><row><cell>Brontaea debilis (Williston, 1896)</cell><cell>7</cell><cell>0.2</cell><cell>4</cell><cell>0.1</cell><cell></cell><cell>0.1</cell></row><row><cell>Cyrtoneurina geminata (Stein, 1904)</cell><cell>3</cell><cell>0.1</cell><cell>147</cell><cell>2.3</cell><cell></cell><cell>1.5</cell></row><row><cell>Cyrtoneurina sp.</cell><cell>4</cell><cell>0.1</cell><cell>23</cell><cell>0.4</cell><cell></cell><cell>0.3</cell></row><row><cell>Cyrtoneuropsis multomaculata (Stein, 1904)</cell><cell>0</cell><cell>0.0</cell><cell>2</cell><cell>0.03</cell><cell></cell><cell>0.0</cell></row><row><cell>Cyrtoneuropsis pararescita (Couri,1995)</cell><cell>63</cell><cell>1.9</cell><cell>21</cell><cell>0.3</cell><cell></cell><cell>0.9</cell></row><row><cell>Cyrtoneuropsis similata (Couri, 1982)</cell><cell>8</cell><cell>0.2</cell><cell>180</cell><cell>2.8</cell><cell></cell><cell>1.9</cell></row><row><cell>Graphomya maculata (Scopoli, 1763)</cell><cell>6</cell><cell>0.2</cell><cell>2</cell><cell>0.0</cell><cell></cell><cell>0.9</cell></row><row><cell>Hemichlora scordalus (Walker, 1861)</cell><cell>4</cell><cell>0.1</cell><cell>21</cell><cell>0.3</cell><cell></cell><cell>0.2</cell></row><row><cell>Morellia dendropanacis Pamplona &amp; Couri, 1995</cell><cell>4</cell><cell>0.1</cell><cell>580</cell><cell>9.0</cell><cell></cell><cell>6.0</cell></row><row><cell>Morellia humeralis (Stein, 1918)</cell><cell>8</cell><cell>0.2</cell><cell>240</cell><cell>3.7</cell><cell></cell><cell>2.6</cell></row><row><cell>Morellia nigricosta (Hough, 1900)</cell><cell>0</cell><cell>0.0</cell><cell>3</cell><cell>0.1</cell><cell></cell><cell>0.0</cell></row><row><cell>Morellia paulistensis Pamplona &amp; Mendes, 1995</cell><cell>47</cell><cell>1.4</cell><cell>177</cell><cell>2.8</cell><cell></cell><cell>2.3</cell></row><row><cell>Musca domestica (Linnaeus, 1758)</cell><cell>708</cell><cell>21.6</cell><cell>70</cell><cell>1.1</cell><cell></cell><cell>8.0</cell></row><row><cell>Myospila obsoleta (Brauer &amp; Bergenstamm, 1891)</cell><cell>0</cell><cell>0.0</cell><cell>4</cell><cell>0.1</cell><cell></cell><cell>0.0</cell></row><row><cell>Ophyra aenescens (Wiedemann, 1830)</cell><cell>736</cell><cell>22.4</cell><cell>432</cell><cell>6.7</cell><cell></cell><cell>12.0</cell></row><row><cell>Ophyra solitaria (Albuquerque, 1958)</cell><cell>10</cell><cell>0.3</cell><cell>8</cell><cell>0.1</cell><cell></cell><cell>0.2</cell></row><row><cell>Sarcopromusca pruna (Shannon &amp; Del Ponte, 1926)</cell><cell>1</cell><cell>0.0</cell><cell>2</cell><cell>0.0</cell><cell></cell><cell>0.0</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 2</head><label>2</label><figDesc>A.F. absolute frequency, R.F. relative frequency.out bioindicators for inferences in Ecology and Forensic Entomology in this Cerrado region.</figDesc><table><row><cell>(continued)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Orders/families/species</cell><cell>Pasture</cell><cell></cell><cell>Forest</cell><cell></cell><cell>Total</cell><cell></cell></row><row><cell></cell><cell>A.F.</cell><cell>R.F. (%)</cell><cell>A.F.</cell><cell>R.F. (%)</cell><cell>A.F.</cell><cell>R.F. (%)</cell></row><row><cell>Sphecidae sp.1</cell><cell>6</cell><cell>85.7</cell><cell>0</cell><cell>0.0</cell><cell>6</cell><cell>66.7</cell></row><row><cell>Total Sphecidae</cell><cell>7</cell><cell>100.0</cell><cell>2</cell><cell>100.00</cell><cell>9</cell><cell>100.00</cell></row><row><cell>Vespidae</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Agelaia pallipes (Olivier, 1792)</cell><cell>0</cell><cell>0.0</cell><cell>3</cell><cell>7.9</cell><cell>3</cell><cell>3.4</cell></row><row><cell>Tachytini</cell><cell>0</cell><cell>0.0</cell><cell>1</cell><cell>2.6</cell><cell>1</cell><cell>1.1</cell></row><row><cell>Polistinae spp. (4 morphs)</cell><cell>48</cell><cell>96.0</cell><cell>31</cell><cell>81.6</cell><cell>79</cell><cell>89.8</cell></row><row><cell>Vespidae spp. (3 morphs)</cell><cell>2</cell><cell>4.0</cell><cell>3</cell><cell>7.9</cell><cell>5</cell><cell>5.7</cell></row><row><cell>Total Vespidae</cell><cell>50</cell><cell>100.0</cell><cell>38</cell><cell>100.0</cell><cell>88</cell><cell>100.0</cell></row><row><cell>Total Hymenoptera</cell><cell>229</cell><cell>100.0</cell><cell>283</cell><cell>100.0</cell><cell>512</cell><cell>100.0</cell></row><row><cell>Other insects</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Hemiptera</cell><cell>1283</cell><cell>100.0</cell><cell>489</cell><cell>100.0</cell><cell>1772</cell><cell>100.0</cell></row><row><cell>Lepidoptera</cell><cell>477</cell><cell>100.0</cell><cell>364</cell><cell>100.0</cell><cell>841</cell><cell>100.0</cell></row><row><cell>Odonata</cell><cell>1</cell><cell>100.0</cell><cell>1</cell><cell>100.0</cell><cell>2</cell><cell>100.0</cell></row><row><cell>Orthoptera</cell><cell>2</cell><cell>100.0</cell><cell>0</cell><cell>100.0</cell><cell>2</cell><cell>100.0</cell></row><row><cell>Total general</cell><cell>56,606</cell><cell>100.0</cell><cell>35,883</cell><cell>100.0</cell><cell>92,489</cell><cell>100.0</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Diagnosis and key of the main families and species of South American Coleoptera of forensic importance</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Mise</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Ent</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="227" to="244" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Köppen&apos;s climate classification map for Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Alvarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Stape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Sentelhas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlm</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sparovek</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Meteorol Z</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="711" to="728" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Factors that influence insect succession on carrion</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Forensic entomology: the utility of arthropods in legal investigations</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Byrd</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Castner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Boca Raton</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="201" to="250" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Effects of decomposition on carcass attendance in a guild of carrion-breeding flies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Archer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Elgar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="263" to="271" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Sarcophagidae (Insecta, Diptera) associados à decomposição de carcaças de Sus scrofa Linnaeus (Suidae) em área de Cerrado do Distrito Federal</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="606" to="609" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The genus Chrysomya (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="105" to="113" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">A checklist of Calliphoridae blowflies (Insecta, Diptera) associated with a pig carrion in Central Brazil</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Biavati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fha</forename><surname>Santana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Forensic Sci</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="1603" to="1606" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Factors affecting decomposition and Diptera colonization</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Campobasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Di</forename><surname>Vella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Introna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Sci Int</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="18" to="27" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Postmortem artifacts made by ants and the effect of ant activity on decompositional rates</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Campobasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marcheti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Introna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Colonna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Forensic Med Pathol</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="84" to="87" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Seasonality of insect succession and pig carcass decomposition in a natural forest area in Southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Lml</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Forensic Sci</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="604" to="608" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">A checklist of arthropods associated with pig carrion and human corpses in Southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Lml</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fab</forename><surname>Palhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Ins. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="135" to="138" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Observations on the succession patterns of necrophagous insects on a pig carcass in an urban area of southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Lml</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aggrawal&apos;s Int J For Med Toxicol</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Forensic entomology in criminal investigations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Catts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Entomol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="253" to="272" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Brasil</forename><surname>Pernambuco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biociencias</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="193" to="201" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Species richness in natural and disturbed habitats: Asteraceae and flower-head insects (Tephritidae: Diptera)</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Diniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Lewinsohn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="163" to="171" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The Cerrado vegetation of Brazil</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bot Rev</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="201" to="341" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Insects breeding in pig carrion in two environments of a rural area of the State of Minas Gerais, Brazil</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Paseto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Franco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Perdigão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Capel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="216" to="222" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Abundância e riqueza das famílias capturadas através de armadilhas malaise</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Ganho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Marinoni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Zool</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="727" to="736" />
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Ponta Grossa, Paraná, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Fauna de Coleoptera no Parque Estadual de Vila Velha</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The blowfly Chrysomya albiceps (Wiedemann) (Diptera: Calliphoridae) as a new forensic indicator in central Europe</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grassberger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Friedrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reiter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Legal Med</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="75" to="81" />
+			<date type="published" when="2000">2000. 2003</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+	<note>A fly for the prosecution: how insect evidence helps solve crimes</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Princeton 856 p Guimarães JH, Papavero N (1999) Myiasis in man and animals in the Neotropical region. Bibliographic database, EP Editora Pêiade 308 p Guimarães JH, Prado AP, Buralli GM (1979) Dispersal and distribution of three newly introduced species of Chrysomya (Robineau-Desvoidy) in Brazil (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+			<date type="published" when="1971">1971</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+	<note>Flies and diseases ecology classification and biotic associations</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Carrion fly community dynamics: patchiness, seasonality and coexistence</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hanski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Entomol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="257" to="266" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Perfil nutricional de espécies lenhosas de duas florestas semidecíduas em Uberlândia</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Haridasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Araujo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MG. Rev Bras Bot</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="295" to="303" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Klink</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Machado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">A conservação do Cerrado brasileiro. Megadiversidade</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="147" to="155" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Chrysomya albiceps (Wiedemann) and Hemilucilia segmentaria (Fabricius) (Diptera, Calliphoridae) used to estimate the postmortem interval in a forensic case in Minas Gerais</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Macedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Taf</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="621" to="623" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas south of Mexico with key to the Brazilian species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Pinto De Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Harterreiten-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="189" to="215" />
+			<date type="published" when="1981">1981</date>
+			<pubPlace>São Paulo, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Collecting and rearing sarcophagid flies (Diptera) in Brazil during forty years</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">An Acad Bras Cienc</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="279" to="291" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Caracterização ecológica e distribuição diamétrica da vegetação arbórea em um remanescente de floresta estacional semidecidual, na Fazenda Experimental do Glória</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Schiavini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Prado</forename><surname>Júnior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Gusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Souza</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Vale</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">S</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dias</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioscience J</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="322" to="335" />
+			<date type="published" when="2011">2011</date>
+			<pubPlace>Uberlândia, MG</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Hábitos alimentares em Coleoptera (Insecta)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Marinoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Ganho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Monné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jrm</forename><surname>Mermudes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>; P Mcalpine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Teskey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Vockeroth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1981">2001. 1981</date>
+			<publisher>Manual of Neartic Diptera. Research Branch Agriculture Canada</publisher>
+			<biblScope unit="page">674</biblScope>
+			<pubPlace>Quebec</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Holos Editora, Ribeirão Preto 63</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Sarcophagid flies (Insecta, Diptera) from pig carcasses in Minas Gerais, Brazil, with nine new records from the Cerrado, a threatened Neotropical biome</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Paseto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Brasil Entomol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="142" to="146" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Atratividade por iscas e estágio de desenvolvimento ovariano em várias espécies sinantrópicas de Calliphoridae (Diptera)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="157" to="166" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Levantamento da fauna de Coleoptera que habita a carcaça de Sus scrofa L., em Curitiba, Paraná</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Mise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Moura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="358" to="368" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Coleoptera associados a carcaças de porco em reserva florestal</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Mise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Asb</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rlr</forename><surname>Keppler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biota Neotrop</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="321" to="324" />
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Manaus, Amazonas, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Formigas coletadas durante investigações forenses no sudeste brasileiro</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wac</forename><surname>Godoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Solis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biológico</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="465" to="467" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Ants (Hymenoptera: Formicidae) collected with carrion-baited traps in Southeast Brazil</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Solis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wac</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Open Forensic Sci J</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Biodiversity hotspots for conservation priorities</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Mittermeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Mittermeier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Fonseca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gab</forename><surname>Kent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">403</biblScope>
+			<biblScope unit="page" from="853" to="858" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Global effects of land use on local terrestrial biodiversity</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Newbold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sll</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Contu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lysenko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Senior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Börger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Choimes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Collen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Day</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Diaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Echeverria-Londoño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Edgar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Feldman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Garon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mlk</forename><surname>Alhusseini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ingram</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Itescu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Kattge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kemp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kirkpatrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kleyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Correia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dlp</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Meiri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Novosolov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hrp</forename><surname>Purves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Robinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Simpson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tuck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Weiher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Ewers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Mace</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Scharlemann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jpw</forename><surname>Purvis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1038/nature14324</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">520</biblScope>
+			<biblScope unit="page">45</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Synanthropy of blowflies (Diptera, Calliphoridae) in Finland</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nuorteva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Entomol Fenn</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1" to="49" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Action of ants on vertebrate carcasses and blow flies (Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Odum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Paula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Morishita</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Cavarson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pra</forename><surname>Tavares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mendonça</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Súarez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Antonialli-Junior</forename><surname>Wf</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="1283" to="1291" />
+			<date type="published" when="1988">1988. 2016</date>
+			<publisher>Ecologia. Editora Guanabara</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Pictorial identification key for species of Sarcophagidae (Diptera) of potential forensic importance in southern Brazil</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pinto E Vairo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="333" to="347" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Arantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cem anos da Entomologia Forense no Brasil</title>
+		<imprint>
+			<date type="published" when="1908">2008. 1908-2008</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="485" to="492" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The Brazilian Cerrado vegetation and threats to its biodiversity</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Ratter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bridgewater</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Bot</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="page" from="223" to="230" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Dípteros de Interesse Forense em Dois Perfis de Vegetação de Cerrado em Uberlândia</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mly</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MG Neotropical Entomol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="859" to="866" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Arthropods associated with pig carrion in two vegetation profiles of Cerrado in the State of Minas Gerais</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mly</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Z</forename><surname>Vaz-De-Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="424" to="434" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Larder beetles (Coleoptera, Dermestidae) as an accelerating factor for decomposition of a human corpse</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schroeder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Klotzbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Oesterhelweg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Püschel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Sci Int</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="231" to="236" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">O clima na cidade de Uberlândia</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Assunção</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Minas Gerais. Soc Nat</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="91" to="107" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">A manual of forensic entomology</title>
+		<author>
+			<persName><forename type="first">Kgv</forename><surname>Smith</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">British Museum of Natural History</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cornell Univ Press</publisher>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="page">205</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Diptera and Coleoptera of potential forensic importance in southeastern Brazil: relative abundance and seasonality</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Ve Entomol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="8" to="12" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Description of a Neotropical new species of Oxysarcodexia Townsend, 1917 (Diptera: Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Paseto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="222" to="225" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Insetos de Importância Forense do Rio Grande do Sul, sul do Brasil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Kirst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Krüger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="641" to="646" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Records of Chrysomya albiceps in Northern Italy: an ecological and forensic perspective</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Vanin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Caenazzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Arseni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cecchetto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cattaneo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Turchetto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Inst Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="555" to="557" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Biostatistical analysis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Zar</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Prentice-Hall</publisher>
+			<biblScope unit="page">666</biblScope>
+			<pubPlace>Upper Saddle River</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the old world</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+			<pubPlace>Butterworths, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

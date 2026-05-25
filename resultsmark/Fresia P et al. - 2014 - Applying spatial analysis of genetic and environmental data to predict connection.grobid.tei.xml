@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Applying spatial analysis of genetic and environmental data to predict connection corridors to the New World screwworm populations in South America</title>
+				<funder ref="#_AHuPAwj">
+					<orgName type="full">Arlequin</orgName>
+				</funder>
+				<funder ref="#_jRgs3HJ">
+					<orgName type="full">Fundac ¸ ão de Amparo à Pesquisa do Estado de São Paulo</orgName>
+					<orgName type="abbreviated">FAPESP</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014-04-14">14 April 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Pablo</forename><surname>Fresia</surname></persName>
+							<email>pfresia@gmail.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Entomologia e Acarologia , Escola Superior de Agricultura &quot;Luiz de Queiroz&quot; , Universidade de São Paulo , Av. Pádua Dias , No. 11 , CEP 13400-970 Piracicaba , SP , Brazil</note>
+								<orgName type="department">Departamento de Entomologia e Acarologia</orgName>
+								<orgName type="institution" key="instit1">Escola Superior de Agricultura &quot;Luiz de Queiroz&quot;</orgName>
+								<orgName type="institution" key="instit2">Universidade de São Paulo</orgName>
+								<address>
+									<addrLine>Av. Pádua Dias No. 11</addrLine>
+									<postCode>13400-970</postCode>
+									<settlement>Piracicaba</settlement>
+									<region>CEP SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Micha</forename><surname>Silver</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Arava Development Co. Ltd. , Arava , Israel</note>
+								<orgName type="institution">Arava Development Co. Ltd</orgName>
+								<address>
+									<settlement>Arava</settlement>
+									<country key="IL">Israel</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thiago</forename><surname>Mastrangelo</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>c</label> Centro de Biologia Molecular e Engenharia Genética and Instituto de Biologia , Universidade Estadual de Campinas , Rua Cândido Rondon No. 400 , CEP 13083-875 Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética and Instituto de Biologia</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas</orgName>
+								<address>
+									<addrLine>Rua Cândido Rondon No. 400</addrLine>
+									<postCode>13083-875</postCode>
+									<settlement>Campinas</settlement>
+									<region>CEP SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Maria L De</forename><surname>Azeredo-Espin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Mariana</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>d</label> Departamento de Zoologia , Instituto de Biociências , Universidade Estadual Paulista , Av. 24 A, No. 1515 , Bela Vista , CEP 13506-970 Rio Claro , SP , Brazil</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biociências</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual Paulista</orgName>
+								<address>
+									<addrLine>Av. 24 A, No. 1515</addrLine>
+									<postCode>13506-970</postCode>
+									<settlement>Bela Vista Rio Claro</settlement>
+									<region>CEP SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>P</label> Departamento de Entomologia e Acarologia , Escola Superior de Agricultura &quot;Luiz de Queiroz&quot; , Universidade de São Paulo. Av. Pádua Dias, No. 11 , CEP 13400-970 , Av. Pádua Dias , No. 11 , CEP 13400-970 Piracicaba , SP , Brazil. . Fresia).</note>
+								<orgName type="department">Departamento de Entomologia e Acarologia</orgName>
+								<orgName type="institution">Escola Superior de Agricultura &quot;Luiz de Queiroz&quot;</orgName>
+								<address>
+									<addrLine>Universidade de São Paulo. Av. Pádua Dias, No. 11 Av. Pádua Dias No. 11</addrLine>
+									<postCode>13400-970 13400-970</postCode>
+									<settlement>Piracicaba</settlement>
+									<region>CEP CEP SP</region>
+									<country>Brazil Fresia</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Applying spatial analysis of genetic and environmental data to predict connection corridors to the New World screwworm populations in South America</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Acta Tropica</title>
+						<title level="j" type="abbrev">Acta Tropica</title>
+						<idno type="ISSN">0001-706X</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">138</biblScope>
+							<biblScope unit="page" from="S34" to="S41"/>
+							<date type="published" when="2014-04-14">14 April 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8A863FE1A32E5E0B4EA722C8FEBEC10C</idno>
+					<idno type="DOI">10.1016/j.actatropica.2014.04.003</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Cochliomyia hominivorax Myiasis GIS Phylogeography Ecological niche Modelling Pest control</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The myiasis causing New World screwworm (NWS) fly is responsible for substantial losses to livestock breeders in the Americas. Due to the negative impact of the NWS fly in animal health, expansion of successful NWS fly eradication programmes is under discussion. However, the effects of geography and environmental diversity on NWS population structure and migration patterns need to be assessed before any political decision is made to implement such a programme. We present a GIS tool to construct potential connection corridors among sampling localities based on genetic and environmental data. We integrate, through a home-made python script, a friction raster based on a Maxent niche model and the pairwise ˚ST statistic. Among 38 NWS fly sampling localities from South America, we find a high population connectivity among the sampling localities from the south of the Amazon region. The region along the Atlantic Ocean was identified as the most probable migration corridor between the north (NAG) and the south (SAG) of the Amazon region. The approach highlighted previously undetected population structure within NAG showing low to medium connectivity through the Andes, correlating with current understanding of NWS fly migration in South America. Also, the approach is flexible, allowing future research to incorporate other niche simulations and genetic differentiation metrics. With this flexibility, the tool could become part of any AW-IPM by helping to target regions for control.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>The myiasis causing fly, Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae), bearing common name the New World Screwworm (NWS) fly, remains an important pest, causing substantial losses to livestock breeders (e.g. <ref type="bibr" target="#b40">Vargas-Teran et al., 2005)</ref>. The species has been eradicated from North America and continental Central America using an area-wide integrated pest management approach (AW-IPM) based on the sterile insect technique (SIT) <ref type="bibr" target="#b22">(Klassen and Curtis, 2005)</ref>. Due to its negative impact on animal health throughout South America and some Caribbean islands, there is an obvious interest to expand the successful NWS fly eradication programmes to the current non-free areas. However, before the implementation of a NWS fly control programme in South America, and in addition to political decisions, some questions about the effect of geography and environmental diversity need to be answered in order to achieve an efficient management of populations. For example detecting geographic barriers or environmental discontinuities that limit gene flow, determining population size and the number of generations in target areas, are some of the important issues that should be addressed before launching any control programme.</p><p>Our earlier studies showed that current NWS fly populations are geographically structured in at least four main regional groups: Cuba, Dominican Republic and the North (NAG) and South Amazon (SAG) regions <ref type="bibr" target="#b27">(Lyra et al., 2009;</ref><ref type="bibr" target="#b8">Fresia et al., 2011)</ref>. <ref type="bibr" target="#b9">Fresia et al. (2013)</ref>, used an approximate Bayesian computation <ref type="bibr">(ABC)</ref> analysis to investigate the phylogeography of the NWS fly; their work suggested that NAG originated from populations of North and Central America and SAG diverged from NAG in a process that involved at least two stages: the first occurred at the end of the Last Glacial <ref type="bibr">Maximum (15,</ref>,000 years before present (YBP)) and the second in the transition between the Pleistocene and the Holocene eras (9100-11,000 YBP). The unique geographic barrier clearly detected in South America in this study seemed to be the Amazon region <ref type="bibr" target="#b29">(Mastrangelo et al., 2014)</ref>. But the identified areas north and south of the Amazon region are too large to be considered as targets for the species control. Furthermore, no investigation of possible migration routes of NWS fly (i.e. path and direction) was done.</p><p>The relatively recent development of statistically rigorous methods based on the coalescent theory <ref type="bibr" target="#b21">(Kingman, 1982</ref><ref type="bibr">, reviewed in Hickerson et al., 2010;</ref><ref type="bibr" target="#b23">Knowles, 2009;</ref><ref type="bibr" target="#b25">Kuhner, 2008;</ref><ref type="bibr" target="#b30">Nielsen and Beaumont, 2009;</ref><ref type="bibr" target="#b36">Riddle et al., 2008)</ref> have enhanced phylogeographical inferences on species historical demography and population divergence based on genetic data. In parallel, geospatial data (e.g. landcover, climate, elevation, geology) and ecological niche modelling (ENMs) <ref type="bibr" target="#b34">(Phillips et al., 2006)</ref> have been applied in phylogeographic studies. A recent review by <ref type="bibr" target="#b2">Chan et al. (2011)</ref> identified many empirical examples that have benefited greatly by merging these data, but as the authors pointed out, relatively few phylogeographic studies have explicitly incorporated geospatial information. The example that identified dispersal corridors and estimated the degree of current and historical migration in populations of Oplurus cuviere, based on nuclear and mitochondrial DNA sequences, is of particular interest to the work developed here. Geographic Information Systems (GIS) are equipped with a variety of visualization and geostatistical tools in an integrated environment that could be useful to investigate phylogeographic patterns and processes (see <ref type="bibr" target="#b20">Kidd and Ritchie, 2006;</ref><ref type="bibr" target="#b24">Kozak et al., 2008;</ref><ref type="bibr" target="#b35">Richards et al., 2007)</ref>.</p><p>The understanding of animal movement and/or gene flow among habitat patches is a central question of phylogeographic studies. Its quantification and the degree to which landscape promotes or hinders the movements for a given species are essential to conservation management decisions <ref type="bibr" target="#b0">(Calabrese and Fagan, 2004)</ref>. Habitat connectivity studies are much used in conservation biology <ref type="bibr" target="#b7">(Fischer and Lindenmayer, 2007)</ref>, but rarely in pest management programmes.</p><p>Temperature, rainfall and moisture have been identified as determinants of the NWS fly life cycle <ref type="bibr" target="#b26">(Lindquist and Barrett, 1945;</ref><ref type="bibr" target="#b32">Parman, 1945;</ref><ref type="bibr" target="#b17">Hightower et al., 1966;</ref><ref type="bibr" target="#b16">Hightower, 1969;</ref><ref type="bibr" target="#b12">Goodenough et al., 1983;</ref><ref type="bibr" target="#b1">Carballo et al., 1991;</ref><ref type="bibr" target="#b37">Stuart et al., 1995;</ref><ref type="bibr" target="#b3">Coronado and Kowalski, 2009)</ref>, pupae and adults being the critical life stages influenced by the weather <ref type="bibr" target="#b14">(Gutierrez and Ponti, 2014)</ref>. The ecotone, between the forest and open savannah were identified as the preferred habitat of the NWS fly <ref type="bibr" target="#b28">(Mangan and Thomas, 1989;</ref><ref type="bibr" target="#b31">Parker et al., 1993;</ref><ref type="bibr" target="#b33">Phillips et al., 2004;</ref><ref type="bibr" target="#b10">Garcia et al., 2007)</ref>. Based on this knowledge, a previous Maxent niche model for the NWS fly <ref type="bibr" target="#b9">(Fresia et al., 2013)</ref> and several trials performed we chose the variables that are most likely to explain the current spatial distribution of the NWS fly. The main objective of this work was to develop a GIS tool to construct and analyse potential migration corridors among sampling localities based on genetic and environmental data. Our purpose is to discuss the migration paths of the NWS fly populations in South America using the ˚ST statistic <ref type="bibr" target="#b6">(Excoffier et al., 1992)</ref> specially developed for DNA sequences, which is analogous to the oldest and most widely used metrics of genetic differentiation (F ST ) <ref type="bibr" target="#b41">(Wright, 1931)</ref>, and the ecological niche modelling approach of Maxent <ref type="bibr" target="#b34">(Phillips et al., 2006)</ref>. We call these corridors "connection corridors" in an attempt to reflect the dual sources of the connection: both genetic distance and environmentally suitable paths of migration from the ecological niche modelling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1.">NWS fly samples and genetic dataset</head><p>The genetic dataset analyzed in this study is a compilation of the data matrices for South American NWS flies from <ref type="bibr" target="#b8">Fresia et al. (2011)</ref> and <ref type="bibr" target="#b29">Mastrangelo et al. (2014)</ref>. It includes sequences of three mitochondrial DNA fragments, corresponding to the B domain of the A + T-rich region ("control region"; CR) and partial sequences of the genes cytochrome c oxidase subunit I (COI) and subunit II (COII) from 408 NWS fly individuals sampled in 38 locations. Table <ref type="table" target="#tab_0">1</ref> shows sample locations, sample sizes and haplotype distributions included in the analyses. For analytical purpose we only include localities with sample size higher than 4 (see <ref type="bibr" target="#b27">Lyra et al., 2009)</ref>. Sampling details, sequencing procedures and haplotype definition are described in <ref type="bibr" target="#b8">Fresia et al. (2011)</ref> and <ref type="bibr" target="#b29">Mastrangelo et al. (2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.">Predicting population connection corridors</head><p>The approach to estimate possible connection corridors among the sampling localities consists of three stages: (1) an estimate of a genetic distance between the NWS fly individuals sampled at different locations, (2) the creation of a species habitat suitability model based on environmental data, and (3) statistical analysis using a GIS framework which combines the genetic distance matrix and habitat suitability model. This approach is a modification of methods described in the Supplementary material of <ref type="bibr" target="#b2">Chan et al. (2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.1.">Genetic distance</head><p>population differentiation was assessed using the pairwise ˚ST values calculated following the method of <ref type="bibr" target="#b19">Hudson et al. (1992)</ref> using Arlequin software v3.5 <ref type="bibr" target="#b5">(Excoffier and Lischer, 2010)</ref>. Statistical significance was assessed by 10,000 permutations. The analysis was performed based on unambiguous haplotypes previously defined from a combined fragment of 1752 bp, that included the CR, COI and COII sequences considering pairwise distance between haplotypes.</p><p>For the interpretation of pairwise ˚ST values, we followed Hartl and Clark 1997 (and references there in) and considered that value lying in the range 0-0.05 indicates little genetic differentiation; values between 0.05 and 0.15, moderate differentiation, values between 0.15 and 0.25, large differentiation; and values above 0.25, very large genetic differentiation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.2.">Ecological niche modelling (ENM)</head><p>A map was generated showing the range of habitat suitability for the species based on it ecological tolerance. The habitat suitability grid was estimated for current climate conditions using the Maxent software v3.3.3k <ref type="bibr" target="#b34">(Phillips et al., 2006)</ref> based on four environmental predictors (BIO5, BIO13, altitude, landcover) and a set of georeferenced NWS fly observations. The list of 134 locations of known NWS infestation over the past decades was compiled from the literature (Table <ref type="table" target="#tab_0">S1</ref>) and formatted as a comma-separatedvalues (CSV) table to be used as the basis for the "presence only" algorithm used by Maxent. The climatic layers, BIO5 (maximum temperature of warmest month) and BIO13 (precipitation of wettest month), and the elevation dataset covering the continent of South America were obtained from WorldClim database (<ref type="url" target="http://www.worldclim.org">http://www.worldclim.org</ref>) at a resolution of 2.5 km. The range of temperatures in BIO5 data was from 7 to 35 degrees average maximum temperatures over a month. Rainfall in the wet months, BIO13, ranged across the continent from 20 to over 850 mm monthly average. The altitude data included elevations from sea level to peaks of over 6200 m in the Andes. Additionally, landcover data was obtained from the Global Landcover 2000 project (<ref type="url" target="http://bioval.jrc.ec.europa.eu/products/glc2000/products.php">http://bioval.jrc.ec.europa.eu/products/glc2000/products.php</ref>    Global Land Cover, 2003) at the same resolution. This landcover data set is based on a land cover classification (LCC) containing 18 broad categories (see Appendix A, Table <ref type="table">S2</ref>). No attempt was made to split the landcover classes, nor to evaluate the influence of each separate class on the final habitat suitability matrix: we considered the LCC as a whole. The landcover and environmental data sets were converted to the ArcInfo ASCII format, required by Maxent, using tools from the Geospatial Data Abstraction Library (GDAL, <ref type="url" target="http://gdal.org">http://gdal.org</ref>) and maintained at their original resolution of 2.5 km.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2.3.">Statistical analysis using a GIS framework</head><p>Spatial analysis of the pair-wise genetic distance matrix together with the habitat suitability model was performed using GRASS-GIS (GR Development Team, 2012, <ref type="url" target="http://grass.osgeo.org">http://grass.osgeo.org</ref>). A custom python script (<ref type="url" target="https://github.com/micha-silver/popgen-gis/r.hsmtolcp.py">https://github.com/micha-silver/popgen-gis/r.hsmtolcp.py</ref>) was developed to loop over all the 38 relevant locality pairs in the pairwise genetic distance matrix, to calculate the connection corridor between each pair of localities (based on the habitat suitability data), and then to merge all the corridors into a continental map of predicted connection corridors. Various GIS map algebra modules were used within the procedure.</p><p>The input parameters to the python script included:</p><p>• The habitat suitability model (hsm). This raster data was inverted to create a "friction" raster by doing the raster map calculation: friction = 1 -hsm.</p><p>• A csv formatted table of the ˚ST pair-wise matrix. • A csv formatted table of the p-values for the ˚ST pair-wise values. • Values for the maximum ˚ST and maximum p-value to be used as a threshold to filter out locality pairs with either a large genetic distance or statistically non-significant values. • A csv formatted list of the localities which were included in the genetic distance analysis. This list contained a 3 letter code for each locality, as well as it's longitude/latitude location. • Two flags to indicate if the script should use ˚ST weighting or not, and if the script should export the resulting corridor map in GeoTiff format.</p><p>The ˚ST pair-wise matrix of the 38 NWS fly localities (potentially 703 possible pairs) also included a statistical significance for each pair (p-value). Those pairs with p &gt; 0.05 were filtered out by the script, and not included in the corridor procedure. In this analysis 200 locality pairs remained after filtering. Additionally, the actual ˚ST value for each pair was used as a weighting coefficient so that the geographic distance, together with the "environmental" distance (the hsm raster) would be enhanced by the genetic distance. The ˚ST values extend from 0 to 1, where ˚ST = 0 indicates genetically identical samples. So higher values indicate greater genetic differentiation. The weighting factor was defined to have values from 0 to 4 as</p><formula xml:id="formula_0">• if (˚S T = 0) then weight coef = 4 • otherwise weight coef = log (1/˚S T ).</formula><p>Thus very small ˚ST (low genetic differentiation) got a large weight coefficient value. Whereas pairs with high ˚ST (highly differentiated) were given an exponentially decreasing weight coefficient. The value of 4 for the edge case of ˚ST = 0 was chosen as follows: since the precision of the values in the matrix was three decimal places then the minimum value above 0 would be 0.001 which, using log(1/˚S T ), got a coefficient of 3. So the values of ˚ST = 0 were given the highest coefficient of 4.</p><p>The procedure for creating migration corridors for each pair of localities took into account three parameters: the environment suitability, the geographic distance, and the genetic differentiation. First the environmental data as represented in the hsm raster was the base layer for calculating a cost raster for each of the individual points in the pair of localities. The standard "least cost path" GRASS module was used to calculate the most suitable path over the hsm raster to migrate to each locality. So, these cost rasters represented the "easiest" environmental distance over the hsm raster to reach each locality. By adding together the two cost rasters for each pair of localities in the analysis, we obtained a corridor raster showing a predicted migration path (least cost path) between the two points in each pair. This corridor reflected both environmental distance and geographic distance. The corridor raster was then weighted using a map algebra expression to divide the corridor raster by the pair's weight coefficient. We divided the corridor raster by the weight coefficient since (as explained above) larger coefficients indicate genetically closer populations. So pairs with low ˚ST values got a high coefficient, and their corridors display as "closer" or more highly connected in the final map. Finally, all corridors were merged together into one continent-wide network map.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results</head><p>The habitat suitability map produced for the NWS fly using Maxent is shown in Fig. <ref type="figure" target="#fig_0">1</ref>. The "Area Under the Curve" (AUC) value obtained for this run was 0.888, indicating the high quality of model output <ref type="bibr" target="#b4">(Elith et al., 2006;</ref><ref type="bibr" target="#b38">Suárez-Seoane et al., 2008;</ref><ref type="bibr" target="#b39">Swets, 1988)</ref>. The map shows large areas of high suitability for the NWS fly in South America, distributed throughout the continent, but interrupted by low suitability areas in the Andes and Amazon regions. Interestingly, the areas near the rivers in the Amazon region showed high suitability.</p><p>We note that in Central America the country of Costa Rica displays as white, i.e. no value. This is due to the way the Maxent software processes null values in the input data. If any one of the inputs shows null values for any raster pixels, those pixels will receive a null value in the output. Indeed, the LCC data set has no values for Costa Rica, thus it caused the null values in the final habitat suitability map. Since our analysis focuses on South America, we do not consider this to detract from the conclusions.</p><p>The Maxent results indicated that the strongest predictor for habitat suitability was indeed the LCC data, and altitude was the second strongest predictor. Initially, several other candidate environment predictors were tested by repeating runs of the Maxent program with other combinations of input data. The "jackknife" routine within the Maxent algorithm (Fig. <ref type="figure" target="#fig_1">2</ref>) drew attention to these predictors, while others had low to negligible influence on the result.</p><p>The pairwise ˚ST matrix of the 38 NWS fly localities showed 200 significant values among the 703 possible pairs (Table <ref type="table">S3</ref>); as thresholds for corridors construction an ˚ST maximum of 0.25 and p-value of 0.05 were used. Thus, pairs of localities with pairwise ˚ST &gt; 0.25 or p-value &gt; 0.05 were filtered out by the script and no connection corridors were plotted. Fig. <ref type="figure" target="#fig_2">3</ref> shows the results for the NWS fly corridors in South America. The region alongside the Atlantic Ocean shows the stronger connectivity between the north of Amazon region (NAG) and the south (SAG), being the region of probable migration. The region through the Northwest of Brazil and Peru also appears as a likely corridor of probable migration between NAG and SAG. Even though all the NWS fly sampled localities in South America showed some degree of connection, the populations within NAG are structured showing low to medium connectivity, and the populations within SAG are not structured showing medium to high connectivity. In the Amazon region, the sampling localities present medium connectivity that could be interpreted as a resistance of the forest to NWS fly migration (for a discussion see <ref type="bibr" target="#b29">Mastrangelo et al., 2014)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Discussion</head><p>Our approach integrates genetic and environmental data within a GIS to map the connection corridors between the NWS fly sampling localities. The results show a good correlation with current understanding of the species migration in South America (for discussion see <ref type="bibr" target="#b27">Lyra et al., 2009;</ref><ref type="bibr" target="#b8">Fresia et al., 2011</ref><ref type="bibr" target="#b9">Fresia et al., , 2013))</ref>. This match between assumed movement of the insect, and the resulting corridor map increases our confidence in the validity of the procedure. Furthermore, each of the three components of the method outlined above: genetic differentiation, habitat suitability, and least cost path analysis is flexible. Many adjustments and calibrations can be applied to adapt the procedure to differing circumstances and other species. We hope therefore that other researchers will adopt the method, and report similar encouraging results.</p><p>The map obtained with Maxent depicts the main NWS fly requirements and shows that the high suitability areas detected are coincident with the most important livestock breeding regions in the continent. Nevertheless, some bias is introduced because most of the 134 geo-referenced NWS fly observations were in livestock breeding regions. Yet we did not observe an over-fitting of the model (Maxent regularization parameter = 2) and in addition some low suitability areas were predicted for geo-referenced observations (see Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>The probable migration corridors illustrated by our GIS approach could be the effect of the Andes region structuring NWS fly populations on each side. Furthermore the populations of SAG went through a recent population expansion that blurred the phylogeographic structure (for a discussion see <ref type="bibr" target="#b8">Fresia et al., 2011</ref><ref type="bibr" target="#b9">Fresia et al., , 2013))</ref>. This genetic diversity distribution could have been produced due to livestock introduction in the Americas about 500 years ago, with Argentina, Brazil, Paraguay and Uruguay having the highest livestock numbers in the continent. Animal movement could surely have helped to augment this distribution pattern with no clear geographic structure.</p><p>This integrative approach could be adopted by any AW-IPM, thus enhancing the understanding of the migration routes of an insect to help in the selection of target regions for treatment. An AW-IPM employing SIT to reduce insect populations could strongly benefit from this approach in a region like South America. The SIT method is particularly efficient at low population densities. Thus it is extremely important to be in a position to identify confined or isolated populations, as well as connection corridors between them, in order to delineate target areas for control. An analysis of migration corridors will assist in the design of a more efficient and effective AW-IPM based on SIT, helping to make it viable in large geographic regions with different biomes. To achieve this aim, we also propose three future improvements to refine the method: defining a high resolution geographic analysis in the NWS fly sampling strategy, adding other variables in the niche modelling simulations (such as livestock distribution), and applying a population genomics approach. The improvement of the species distribution map and the inclusion of nuclear markers would increase our ability to detect the geographic structure of the NWS fly, and help to infer more precise and narrower migration corridors.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Predictive map of the distribution of the New World Screwworm fly derived from Maxent modelling. Costa Rica displays as white because the LCC data set has no values for this country and Maxent gives null values in the final habitat suitability map. Red points indicate the NWS fly observations used as input to the model, and are listed in TableS1. The light green regions indicate less favourable areas for the NWS fly and dark green areas more favourable areas.</figDesc><graphic coords="4,82.26,56.44,441.84,625.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Jackknife evaluation of the contribution of each variable to the Maxent model. alt: altitude, bio5: maximum temperature of warmest month, bio13: precipitation of wettest month, and glc2000: landcover data.</figDesc><graphic coords="5,82.95,55.50,418.32,119.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Map of potential connection corridors between New World Screwworm fly sampling localities in South America. The uncoloured areas (white areas) represent zones where no corridors were identified. Green points indicates the locations of the genotyped NWS fly samples used as input to obtain the "connection corridors". The light orange areas indicate less favourable migration regions and dark red areas more favourable areas.</figDesc><graphic coords="6,82.26,56.44,441.84,625.10" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>New World Screwworm fly sample locations, sample sizes and haplotype distributions. ID: sampling locations identification code, N: number of individuals, and N hap : number of haplotypes.</figDesc><table><row><cell></cell><cell>ID</cell><cell>Country</cell><cell>Geographic locality</cell><cell>Latitude</cell><cell>Longitude</cell><cell>N</cell><cell>N hap</cell><cell>Haplotype number code (N)</cell></row><row><cell>1</cell><cell>VBA</cell><cell>Venezuela</cell><cell>Barquisimeto</cell><cell>10.500</cell><cell>-69.316</cell><cell>10</cell><cell>6</cell><cell>28(1) 36(1) 84(1) 89(3) 106(2) 174(2)</cell></row><row><cell>2</cell><cell>VEN</cell><cell>Venezuela</cell><cell>Encontrados</cell><cell>9.333</cell><cell>-72.216</cell><cell>11</cell><cell>10</cell><cell>26(1) 38(2) 58(1) 87(1) 94(1) 102(1) 106(1) 156(1) 157(1) 158(1)</cell></row><row><cell>3</cell><cell>COT</cell><cell>Colombia</cell><cell>Turbo</cell><cell>7.677</cell><cell>-76.686</cell><cell>12</cell><cell>6</cell><cell>34(2) 37(1) 39(2) 54(5) 89(1) 93(1)</cell></row><row><cell>4</cell><cell>ERV</cell><cell>Ecuador</cell><cell>Rio Verde</cell><cell>-2.325</cell><cell>-80.719</cell><cell>4</cell><cell>3</cell><cell>44(1) 58(1) 60(2)</cell></row><row><cell>5</cell><cell>BBV</cell><cell>Brazil</cell><cell>Boa Vista</cell><cell>2.850</cell><cell>-60.646</cell><cell>14</cell><cell>3</cell><cell>71(12) 241 242</cell></row><row><cell>6</cell><cell>BRB</cell><cell>Brazil</cell><cell>Rio Branco</cell><cell>-9.975</cell><cell>-67.812</cell><cell>34</cell><cell>10</cell><cell>78(14) 250(5) 251(2) 252(3) 253 254 255 256(2) 257(4) 258</cell></row><row><cell>7</cell><cell>BTF</cell><cell>Brazil</cell><cell>Tefé</cell><cell>-3.438</cell><cell>-64.701</cell><cell>8</cell><cell>7</cell><cell>263(2) 264 265 266 267 268 269</cell></row><row><cell>8</cell><cell>BMA</cell><cell>Brazil</cell><cell>Manaus</cell><cell>-3.034</cell><cell>-60.023</cell><cell>11</cell><cell>8</cell><cell>111(2) 243 244 245 246 247 248 249(3)</cell></row><row><cell>9</cell><cell>BAL</cell><cell>Brazil</cell><cell>Alenquer</cell><cell>-1.942</cell><cell>-54.737</cell><cell>9</cell><cell>6</cell><cell>231 232 233 234(3) 235(2) 236</cell></row><row><cell>10</cell><cell>BST</cell><cell>Brazil</cell><cell>Santarém</cell><cell>-2.439</cell><cell>-54.699</cell><cell>13</cell><cell>5</cell><cell>166(4) 259(4) 260(3) 261 262</cell></row><row><cell>11</cell><cell>BBE</cell><cell>Brazil</cell><cell>Belém</cell><cell>-1.367</cell><cell>-48.410</cell><cell>14</cell><cell>7</cell><cell>51(2) 140(2) 167 237 238(5) 239 240(2)</cell></row><row><cell>12</cell><cell>BMC</cell><cell>Brazil</cell><cell>Coroatá</cell><cell>-4.158</cell><cell>-44.158</cell><cell>11</cell><cell>4</cell><cell>51(5) 78(3) 140(2) 167</cell></row><row><cell>13</cell><cell>BTE</cell><cell>Brazil</cell><cell>Teresina</cell><cell>-5.058</cell><cell>-42.806</cell><cell>12</cell><cell>1</cell><cell>71(12)</cell></row><row><cell>14</cell><cell>BTO</cell><cell>Brazil</cell><cell>Touros</cell><cell>-5.199</cell><cell>-35.461</cell><cell>10</cell><cell>8</cell><cell>53(1) 64(2) 78(1) 140(3) 159(1) 166(1) 175(1)</cell></row><row><cell>15</cell><cell>BSM</cell><cell>Brazil</cell><cell>Sta. Ma. das Barreiras</cell><cell>-8.872</cell><cell>-49.713</cell><cell>11</cell><cell>11</cell><cell>3(1) 4(1) 13(1) 50(1) 62(1) 121(1) 124(1) 132(1) 140(1) 163(1) 175(1)</cell></row><row><cell>16</cell><cell>BCO</cell><cell>Brazil</cell><cell>Cocalinhos</cell><cell>-14.367</cell><cell>-51.000</cell><cell>6</cell><cell>6</cell><cell>10(1)11(1) 29(1) 57(1) 69(1) 168(1)</cell></row><row><cell>17</cell><cell>BGN</cell><cell>Brazil</cell><cell>Goianira</cell><cell>-16.496</cell><cell>-49.426</cell><cell>8</cell><cell>8</cell><cell>43(1) 59(1) 66(1) 80(1) 96(1) 131(1) 134(1) 165(1)</cell></row><row><cell>18</cell><cell>BGO</cell><cell>Brazil</cell><cell>Goiânia</cell><cell>-16.679</cell><cell>-49.254</cell><cell>9</cell><cell>8</cell><cell>1(2) 73(1) 88(1) 107(1) 111(1) 164(1) 185(1) 191(1)</cell></row><row><cell>19</cell><cell>BCA</cell><cell>Brazil</cell><cell>Caiapônia</cell><cell>-16.957</cell><cell>-51.810</cell><cell>18</cell><cell>11</cell><cell>1(1) 8(1) 19(2) 24(1) 51(2) 140(6) 145(1) 150(1) 155(1) 169(1) 183(1)</cell></row><row><cell>20</cell><cell>BCR</cell><cell>Brazil</cell><cell>Costa Rica City</cell><cell>-18.544</cell><cell>-53.129</cell><cell>7</cell><cell>6</cell><cell>30(1) 120(1) 125(1) 140(1) 143(2) 146(1)</cell></row><row><cell>21</cell><cell>BAQ</cell><cell>Brazil</cell><cell>Aquidauana</cell><cell>-19.589</cell><cell>-56.088</cell><cell>6</cell><cell>5</cell><cell>112(2) 140(1) 141(1) 142(1) 189(1)</cell></row><row><cell>22</cell><cell>BCG</cell><cell>Brazil</cell><cell>Campo Grande</cell><cell>-20.443</cell><cell>-54.646</cell><cell>10</cell><cell>6</cell><cell>76(1) 129(1) 140(5) 160(1) 172(1) 184(1)</cell></row><row><cell>23</cell><cell>BSS</cell><cell>Brazil</cell><cell>São Seb. Paraíso</cell><cell>-20.917</cell><cell>-46.991</cell><cell>7</cell><cell>5</cell><cell>41(2) 118(1) 140(2) 187(1) 190(1)</cell></row><row><cell>24</cell><cell>BES</cell><cell>Brazil</cell><cell>Estiva</cell><cell>-22.463</cell><cell>-46.017</cell><cell>18</cell><cell>13</cell><cell>15(1) 50(3) 56(1) 77(1) 103(1) 110(1) 123(1) 133(1) 140(3) 184(1) 187(3) 192(1)</cell></row><row><cell>25</cell><cell>BCP</cell><cell>Brazil</cell><cell>Campinas</cell><cell>-22.906</cell><cell>-47.061</cell><cell>11</cell><cell>11</cell><cell>20(1) 55(1) 70(1) 116(1) 117(1) 126(1) 127(1) 135(1) 149(1) 151(1) 181(1)</cell></row><row><cell>26</cell><cell>BCI</cell><cell>Brazil</cell><cell>Carambeí</cell><cell>-24.918</cell><cell>-50.097</cell><cell>13</cell><cell>10</cell><cell>51(1) 123(1) 130(1) 136(1) 140(3) 147(1) 154(1) 169(1) 187(2) 193(1)</cell></row><row><cell>27</cell><cell>BFV</cell><cell>Brazil</cell><cell>Fagundes Varela</cell><cell>-28.881</cell><cell>-51.698</cell><cell>5</cell><cell>5</cell><cell>14(1) 23(1) 78(1) 82(1) 145(1)</cell></row><row><cell>28</cell><cell>BSA</cell><cell>Brazil</cell><cell>Sto. Ant. Missões</cell><cell>-28.511</cell><cell>-55.228</cell><cell>10</cell><cell>10</cell><cell>21(1) 65(1) 67(1) 83(1) 115(1) 140(1) 170(1) 171(1) 178(1) 187(1)</cell></row><row><cell>29</cell><cell>BPM</cell><cell>Brazil</cell><cell>Pinheiro Machado</cell><cell>-31.578</cell><cell>-53.381</cell><cell>9</cell><cell>9</cell><cell>2(1) 67(1) 78(1) 85(1) 100(1) 122(1) 139(1) 186(1) 188(1)</cell></row><row><cell>30</cell><cell>PYB</cell><cell>Paraguay</cell><cell>Ybytymi</cell><cell>-25.767</cell><cell>-56.783</cell><cell>17</cell><cell>14</cell><cell>9(1) 43(1) 49(1) 63(1) 78(2) 137(1) 140(3) 147(1) 148(1) 167(1) 169(1) 176(1) 188(1) 194(1)</cell></row><row><cell>31</cell><cell>UPM</cell><cell>Uruguay</cell><cell>Paso Mu ñoz</cell><cell>-31.450</cell><cell>-56.383</cell><cell>7</cell><cell>4</cell><cell>75(2) 78(1) 99(1) 140(3)</cell></row><row><cell>32</cell><cell>UST</cell><cell>Uruguay</cell><cell>San Antonio</cell><cell>-31.383</cell><cell>-57.717</cell><cell>8</cell><cell>6</cell><cell>42(2) 50(1) 67(1) 81(1) 114(1) 140(2)</cell></row><row><cell>33</cell><cell>UDA</cell><cell>Uruguay</cell><cell>Daymán</cell><cell>-31.550</cell><cell>-57.950</cell><cell>9</cell><cell>9</cell><cell>79(1) 101(1) 104(1) 105(1) 119(1) 140(1) 144(1) 152(1) 169(1)</cell></row><row><cell>34</cell><cell>UBM</cell><cell>Uruguay</cell><cell>Ba ñ. Medina</cell><cell>-32.367</cell><cell>-54.450</cell><cell>12</cell><cell>9</cell><cell>12(1) 25(1) 31(1) 74(1) 78(2) 86(1) 111(1) 140(3) 176(1)</cell></row><row><cell>35</cell><cell>UCC</cell><cell>Uruguay</cell><cell>Cer. Colorado</cell><cell>-33.867</cell><cell>-55.550</cell><cell>16</cell><cell>14</cell><cell>2(2) 27(2) 43(1) 97(1) 98(1) 108(1) 113(1) 136(1) 138(1) 140(1) 161(1) 162(1) 177(1) 180(1)</cell></row><row><cell>36</cell><cell>UCO</cell><cell>Uruguay</cell><cell>Colonia</cell><cell>-34.333</cell><cell>-57.717</cell><cell>7</cell><cell>7</cell><cell>1(1) 16(1) 22(1) 140(1) 159(1) 179(1) 182(1)</cell></row><row><cell>37</cell><cell>UJS</cell><cell>Uruguay</cell><cell>Juaquín Suarez</cell><cell>-34.734</cell><cell>-56.037</cell><cell>6</cell><cell>6</cell><cell>5(1) 6(1) 71(1) 72(1) 121(1) 128(1)</cell></row><row><cell>38</cell><cell>APL</cell><cell>Argentina</cell><cell>Lezama</cell><cell>-35.867</cell><cell>-57.883</cell><cell>5</cell><cell>4</cell><cell>52(1) 68(2) 78(1)140(1)</cell></row></table><note><p>N: number of analyzed individuals. N hap : number of haplotypes. Ĥ and were only estimated for samples with more than four individuals.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We would like to thank the guest editor of this special number and three anonymous reviewers, whose suggestions and comments significantly improved the manuscript. This work was supported by research contracts RE-14844-RO and <rs type="grantNumber">14856-RO</rs> from <rs type="projectName">FAO/IAEA CRP: Applying Population Genetics</rs> and <rs type="grantName">GIS for Managing Livestock Insect Pests</rs>, and the <rs type="funder">Fundac ¸ ão de Amparo à Pesquisa do Estado de São Paulo (FAPESP)</rs> project <rs type="grantNumber">2012/11654-9</rs>. Open source software tools were employed extensively in this research, notably The Geographic Resources Analysis Support System (GRASS), <rs type="funder">Arlequin</rs>, Maxent and the Geospatial Data Abstraction Library (GDAL). We thank the developers for making the tools available to the scientific community.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_jRgs3HJ">
+					<idno type="grant-number">14856-RO</idno>
+					<orgName type="grant-name">GIS for Managing Livestock Insect Pests</orgName>
+					<orgName type="project" subtype="full">FAO/IAEA CRP: Applying Population Genetics</orgName>
+				</org>
+				<org type="funding" xml:id="_AHuPAwj">
+					<idno type="grant-number">2012/11654-9</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Appendix A. Supplementary data</head><p>Supplementary data associated with this article can be found, in the online version, at <ref type="url" target="http://dx.doi.org/10.1016/">http://dx.doi.org/10.1016/</ref> j.actatropica.2014.04.003</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A comparison shopper&apos;s guide to connectivity metrics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Calabrese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">F</forename><surname>Fagan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Front. Ecol. Environ</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="529" to="536" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Datos obtenidos a partir de una encuesta relativo a la incidencia de miasis cutáneas en diferentes zonas del Uruguay</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Carballo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Heinzen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Colombo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Rodríguez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinaria</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="5" to="15" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Integrating statistical genetic and geospatial methods brings new power to phylogeography</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Yoder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Phylogenet. Evol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="523" to="537" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Current status of the New World Screwworm Cochliomyia hominivorax in Venezuela</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kowalski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="106" to="110" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Novel methods improve prediction of species&apos; distributions from occurrence data</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Elith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dudík</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ferrier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guisan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="129" to="151" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Arlequin suite ver 3.5: a new series of programs to perform population genetics analyses under Linux and Windows</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E L</forename><surname>Lischer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol. Res</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="564" to="567" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Smouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Quattro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="479" to="491" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Landscape modification and habitat fragmentation: a synthesis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fischer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Lindenmayer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Ecol. Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="265" to="280" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Genetic structure and demographic history of new world screwworm across its current geographic range</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="280" to="290" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The phylogeographic history of the new world screwworm fly. Inferred by approximate Bayesian computation analysis</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0076168</idno>
+		<ptr target="http://dx.doi.org/10.1371/journal.pone.0076168" />
+	</analytic>
+	<monogr>
+		<title level="j">PLoS One</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page">76168</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Insecticidal wound treatment of livestock on Isla de la Juventud, Cuba: an efficient suppression method of New World screwworm Cochliomyia hominivorax prior to the release of sterile insect</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Gil Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J B</forename><surname>Vreysen</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0076168</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Area-Wide Control of Insect Pests: From Research to Field Implementation</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J B</forename><surname>Vreysen</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Robinson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Hendrichs</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Dordrecht; The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="393" to="403" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><surname>Gdal</surname></persName>
+		</author>
+		<ptr target="//bioval.jrc.ec.europa.eu/products/glc2000/glc2000.php" />
+		<title level="m">GDAL -Geospatial Data Abstraction Library: Version x.x.x, Open Source Geospatial Foundation</title>
+		<imprint>
+			<date type="published" when="2003">2014 201. 2003</date>
+		</imprint>
+	</monogr>
+	<note>Global Land Cover 2000 Database: GLC2000. European Commission Joint Research Centre, ht5tp</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Screwworm eradication program: a review of recent mass-rearing technology Southwest</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Goodenough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Wendel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Tannahill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="16" to="31" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Geographic Resources Analysis Support System (GRASS) Software. Open Source Geospatial Foundation Project</title>
+		<ptr target="http://grass.osgeo.org" />
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>GRASS Development Team</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The new world screwworm: prospective distribution and role of weather in eradication</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ponti</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/afe</idno>
+		<ptr target="http://dx.doi.org/10.1111/afe" />
+	</analytic>
+	<monogr>
+		<title level="j">Agric. For. Entomol</title>
+		<imprint>
+			<date type="published" when="2014">2014. 12046</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Principles of Population Genetics</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hartl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Clark</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/afe</idno>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Sinauer Associates, Inc</publisher>
+			<pubPlace>Sunderland, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Population dynamics of the screwworm fly, Cochliomyia hominivorax (Coquerel), with respect to control by the sterile-male technique</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Hightower</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Ecology and the Sterile-Male Technique</title>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>International Atomic Energy Agency</publisher>
+			<pubPlace>Vienna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Seasonal abundance of the screw-worm in Northern Mexico</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">G</forename><surname>Hightower</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Baumhover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="416" to="420" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Phylogeography&apos;s past, present, and future: 10 years after Avise</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Carstens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cavender-Bares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Crandall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Phylogenet</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="291" to="301" />
+			<date type="published" when="2000">2010. 2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Estimation of levels of gene flow from DNA sequence data</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Hudson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Slatkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Maddison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="583" to="589" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Phylogeographic information systems: putting the geography into phylogeography</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Kidd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Ritchie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1851" to="1865" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kingman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The coalescent. Stoch. Processes Appl</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="235" to="248" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Sterile Insect Technique: Principles and Practice in Area-wide Integrated Pest Management</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Klassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Curtis</surname></persName>
+		</author>
+		<editor>Dyck, V.A., Hendrichs, J., Robinson, A.S.</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer Verlag</publisher>
+			<biblScope unit="page" from="3" to="36" />
+			<pubPlace>Dordrecht, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>History of the sterile insect technique</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Statistical phylogeography</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Knowles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Ecol. Evol. Syst</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="593" to="612" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Integrating GIS-based environmental data into evolutionary biology</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Kozak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wiens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="141" to="148" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Coalescent genealogy samplers: windows into population history</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Kuhner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol. Evol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="87" to="93" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Overwintering of Cochliomyia americana at</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Lindquist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L J</forename><surname>Barrett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="77" to="83" />
+			<date type="published" when="1945">1945</date>
+			<pubPlace>Uvalde, Texas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Complex pattern of genetic distribution in populations of the NewWorld screwworm fly revealed by mitochondrial DNA markers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="32" to="42" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Habitat preferences and dispersal patterns in native screwworm fly (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mangan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Entomol. Soc. Am</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="332" to="339" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Genetic diversity and population structure of the New World screwworm from the Amazon basin</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mastrangelo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Trop</title>
+		<imprint>
+			<biblScope unit="volume">138</biblScope>
+			<biblScope unit="page" from="26" to="S33" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Statistical inferences in phylogeography</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beaumont</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1034" to="1047" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Influence of habitat, season and attractant on adult behavior of the screwworm (Diptera: Calliphoridae) inatropical dry zone in Costa Rica</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Matlock</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="1359" to="1375" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Effect of weather on Cochliomyia americana and a review of methods and economic applications of the study</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Parman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="66" to="76" />
+			<date type="published" when="1945">1945</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Seasonal and spatial and distributions of adult Screwworms (Diptera: Calliphoridae) in the Panama Canal Area, Republic of Panama</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="121" to="129" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Maximum entropy modeling of species geographic distributions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Schapire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Modell</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="231" to="259" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Distribution modelling and statistical phylogeography: an integrative framework for generating and testing alternative biogeographical hypotheses</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Carstens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Knowles</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1833" to="1845" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The role of molecular genetics in sculpting the future of integrative biogeography</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Riddle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Hadly</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Hafner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Mantooth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Prog. Phys. Geogr</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="173" to="202" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Determination of a relationship between soil-moisture and screwworm fly (Diptera Calliphoridae) activity</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Mayer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Atzeni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Mckeon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Spradbery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Maximum entropy niche-based modelling of seasonal changes in little bustard (Tetrax tetrax) distribution</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suárez-Seoane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Garcìa De La Morena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Morales Prieto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Juana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol. Modell</title>
+		<imprint>
+			<biblScope unit="volume">219</biblScope>
+			<biblScope unit="page" from="17" to="29" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Measuring the accuracy of diagnostic systems</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Swets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">240</biblScope>
+			<biblScope unit="page" from="1285" to="1293" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Impact of screwworm eradication programmes using the sterile insect technique</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vargas-Teran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Tweddle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sterile Insect Technique: Principles and Practice in Areawide Integrated Pest Management</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Dyck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Hendrichs</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Robinson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="629" to="650" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Evolution in Mendelian populations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wright</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="97" to="159" />
+			<date type="published" when="1931">1931</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Head and neck myiasis: a case series and review of the literature</title>
+				<funder ref="#_c4ZHwGX">
+					<orgName type="full">Brazilian National Council for Scientific and Technological Development (CNPq)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">CNPq</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017-11">November 2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">Alcides Almeida</forename><surname>De Arruda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Leni</forename><forename type="middle">Verônica</forename><surname>De Oliveira Silva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pedro</forename><forename type="middle">Urquiza Jayme</forename><surname>Silva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Eugênia</forename><forename type="middle">Leal</forename><surname>De Figueiredo</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>DDS</roleName><forename type="first">Gerhilde</forename><surname>Callou</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Department of Oral and Maxillofacial Pathology , School of Dentistry , Universidade de Pernambuco , Recife , Brazil.</note>
+								<orgName type="department" key="dep1">Department of Oral and Maxillofacial Pathology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry</orgName>
+								<orgName type="institution">Universidade de Pernambuco</orgName>
+								<address>
+									<settlement>Recife</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ricardo</forename><forename type="middle">Alves</forename><surname>Mesquita</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Belmiro</forename><forename type="middle">Cavalcanti</forename><surname>Do Egito Vasconcelos</surname></persName>
+						</author>
+						<title level="a" type="main">Head and neck myiasis: a case series and review of the literature</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology</title>
+						<title level="j" type="abbrev">Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology</title>
+						<idno type="ISSN">2212-4403</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">124</biblScope>
+							<biblScope unit="issue">5</biblScope>
+							<biblScope unit="page" from="e249" to="e256"/>
+							<date type="published" when="2017-11">November 2017</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C75B53708C23EF0095EB426325DE2960</idno>
+					<idno type="DOI">10.1016/j.oooo.2017.06.120</idno>
+					<note type="submission">Received for publication May 17, 2017; accepted for publication Jun 28, 2017.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Objective. This study describes 9 cases of myiasis affecting the head and neck region and discusses the demographic distribution, treatment, clinical characteristics, and sequelae of the disease in light of the literature. Study Design. The study was performed in 2 steps. In the first part, 9 cases seen over a period of 10 years at the Emergency Department of Hospital da Restauração in Brazil were studied. In the second part, a literature search was performed in PubMed for articles on head and neck myiasis published from 1975 to March 2017. Results. The case series mainly consisted of male patients in their 30s. The palate was the most commonly affected site. Myiasis was caused by Cochliomyia hominivorax in all patients, who were treated by mechanical removal of the larvae and debridement of necrotic tissue, followed by oral ivermectin. All patients had sequelae resulting from bone destruction. Conclusions. Head and neck myiasis generally affects individuals with poor hygiene habits, drug users, and individuals with neurologic and psychosocial disorders. The treatment of choice is mechanical removal of larvae and surgical debridement combined with oral ivermectin. This study provides information that could help clinicians in the diagnosis and management of this condition. (Oral Surg Oral Med Oral Pathol Oral Radiol 2017;124:e249-e256)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIALS AND METHODS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study design and ethical approval</head><p>This study was performed in 2 steps. In the first part, 9 cases of myiasis affecting the head and neck region were</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The first reports of myiasis in humans and animals in the Neotropical region date back to the sixteenth century. <ref type="bibr" target="#b0">1</ref> Myiasis is the infestation of living tissues by the larvae of fly species within the order Diptera, which are mainly found in tropical and subtropical regions. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> Human myiasis has a worldwide distribution, with involvement of more species and greater abundance in tropical and subtropical countries. In countries where it is not endemic, myiasis is a relevant condition and is the fourth most common travel-associated skin disease. <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5</ref> Myiasis is usually among the 5 most common dermatologic conditions, accounting for 7.3% to 11% of cases. <ref type="bibr" target="#b5">6</ref> Myiasis is classified according to the type of larva present in the wound: (1) Primary myiasis is caused by larvae that feed on living tissues (biophagous); and (2) secondary myiasis is caused by larvae that only feed on dead tissues (necrophagous). <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> Abdo et al. <ref type="bibr" target="#b8">9</ref> classified myiasis as obligatory (when the larvae require living tissue to survive) and facultative (when the larvae develop in necrotic tissue).</p><p>In the head and neck region, the sites most commonly affected by myiasis are the ears, eyes, oral cavity, nose, paranasal sinuses, lymph nodes, mastoid region, and tracheostomy wound. <ref type="bibr" target="#b9">10</ref> Factors that predispose to myiasis in this region include advanced age, low socioeconomic status, and medical comorbidities, such as a history of craniomaxillofacial trauma and malignant tumors. <ref type="bibr" target="#b6">7</ref> Because no standard protocol exists for the treatment of myiasis, different therapies are adopted. Initial treatment normally consists of mechanical removal of the larvae. According to Ribeiro et al. <ref type="bibr" target="#b10">11</ref> and Gealh et al., <ref type="bibr" target="#b11">12</ref> ivermectin is increasingly being used for the treatment of head and neck myiasis. This antiparasitic agent of the macrolide family blocks nerve impulses at the nerve endings of endoparasites, causing paralysis and death of the larvae. <ref type="bibr" target="#b12">13</ref> The sequelae of myiasis include blindness, hearing loss, and even death, and immediate treatment is thus essential. <ref type="bibr" target="#b13">14</ref> This report describes 9 cases of myiasis affecting the head and neck region and discusses the demographic distribution, treatment, clinical characteristics, and sequelae of the disease in light of the literature.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Statement of Clinical Relevance</head><p>Head and neck myiasis is a disease that affects individuals with poor hygiene habits, drug users, and individuals with neurologic and psychosocial disorders. This article provides information that could help clinicians in the diagnosis and management of this condition.</p><p>studied. In the second part, a literature review on head and neck myiasis was conducted in Medline (PubMed) of reports published from 1975 to March 2017. The study was approved by the local Ethics Committee (Approval No. 00670912.1.0000.5207) and was conducted in accordance with the guidelines of the Declaration of Helsinki.</p><p>Step 1: sample A case-series study that involved patients of both genders and different ages with head and neck myiasis was conducted. The sample was determined by spontaneous demand at the Emergency Department of Hospital da Restauração, Recife (PE, Brazil) between January 2006 and January 2016. The data were grouped according to (1) gender, age, location, etiology, presence of local and systemic disorders, duration of treatment, time since onset of the disease, length of hospital stay, and sequelae; (2) fly species involved; and (3) treatment.</p><p>In the case of oral myiasis, the oral conditions of the patients were recorded, and the following conditions were defined as a "poor oral hygiene": gingivitis, halitosis, and dental calculus.</p><p>The diagnosis of myiasis was based on clinical characteristics and the presence of larvae, which were identified by an entomologist. 2</p><p>Step 2: literature review and case series Articles on head and neck myiasis published from 1975 to March 2017 in all languages were analyzed and the cases were mapped according to continent of occurrence of the disease. The Medline (PubMed) database was searched using the following keywords: "oral myiasis," "nasal myiasis," "ophthalmomyiasis," "maxillofacial myiasis," "head and neck myiasis," "ear myiasis," "oral malignancy myiasis," "nasal malignancy myiasis," "ophthalmomyiasis malignancy," "maxillofacial malignancy myiasis," "head and neck malignancy myiasis," and "ear malignancy myiasis."</p><p>Case reports not related to human myiasis, duplicate studies, and articles without abstracts were excluded. The cases were counted and separated by continent for a better understanding of the distribution of the disease in the world.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Case series</head><p>The sample of this study consisted of 9 patients (6 men and 3 women). No association with any malignant tumor was observed. Myiasis was caused by larvae of the same fly species (Cochliomyia hominivorax) in all patients. The mean age of the patients was 38 years. With respect to anatomic location, the submandibular region was involved in 1 case, the orbital region in 2 (Figure <ref type="figure" target="#fig_0">1</ref>), and the retroauricular region in 2. The palate alone was af-fected in 1 patient. In the 3 other patients, in addition to the palate, infestation occurred in the lip and alveolar ridge in 2 and in the alveolar ridge in 1. The patients had a low socioeconomic status and low education level. Regarding etiology, a poor oral hygiene was a cause in 3 patients, and 3 other patients exhibited mental retardation (1 case), drug use (1 case) and cerebral palsy (1 case) as local and systemic conditions.</p><p>First, the patients received surgical intervention under local or general anesthesia (Table <ref type="table">I</ref>), which consisted of mechanical removal of the larvae, debridement of necrotic tissue, and primary closure of the wound. Second, all patients received a systemic antibiotic (cephalothin, 1 g, every 6 hours), anti-inflammatory agent (ibuprofen, 400 mg, every 6 hours), and analgesic (paracetamol, 500 mg, every 8 hours). This protocol was followed by oral administration of a single dose of ivermectin (150 µg/ kg) in all cases. The time since the onset of the disease ranged from 3 to 8 months. The average length of hospital stay was 12 days, with a treatment duration of 9 days. The sequelae observed were bone destruction in all cases, hearing loss on the affected side (2 cases), blindness (2 cases), oroantral communication (1 case), and irreversible salivary gland involvement (1 case).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Literature review</head><p>In the second step, 814 articles were retrieved, and 482 were excluded. The remaining 325 studies (707 cases) were selected according to the inclusion criteria and are indicated on the map in Figure <ref type="figure" target="#fig_1">2</ref>. ORAL AND MAXILLOFACIAL SURGERY OOOO e250 de Arruda et al.</p><p>Table I. Data on patients with head and neck myiasis Case Gender-age Location Etiology Fly species Type of anesthesia Local or systemic disorder Time since onset of disease Treatment duration Established treatment Sequelae 1 M-22 Lip, alveolar ridge, and palate Poor oral hygiene Cochliomyia hominivorax General None 3 months 10 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss 2 F-50 Retroauricular region Trauma Cochliomyia hominivorax Local Intellectual disability 5 months 20 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss; hearing loss on the affected side 3 F-45 Alveolar ridge and palate Poor oral hygiene Cochliomyia hominivorax General None 4 months 12 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss 4 M-33 Retroauricular region Trauma Cochliomyia hominivorax Local None 3 months 8 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss; hearing loss on the affected side 5 M-26 Lip, alveolar ridge, and palate Trauma Cochliomyia hominivorax Local None 3 months 10 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss 6 M-57 Orbital region Trauma Cochliomyia hominivorax General Alcoholism 6 months 22 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Blindness; bone and soft tissue loss 7 F-21 Orbital region Trauma Cochliomyia hominivorax General None 3 months 12 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Blindness; bone and soft tissue loss 8 M-24 Palate Poor oral hygiene Cochliomyia hominivorax General Cerebral palsy 8 months 12 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss; oroantral communication 9 M-65 Submandibular region Trauma Cochliomyia hominivorax Local None 3 months 8 days Surgical debridement, analgesic, antibiotic, and oral ivermectin Bone and soft tissue loss; loss of the salivary gland F, female; M, male.</p><p>A literature review associating myiasis with malignant neoplasms (Table <ref type="table">II</ref>) identified 23 articles. The most significant malignant neoplasms were squamous cell carcinoma, basocellular carcinoma, Hodgkin lymphoma, and melanoma. The most affected countries were India in Asia, Tunisia in Africa, Germany in Europe, Brazil in South America, the United States in North America, and Australia in Oceania.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Myiasis is the infestation of human or animal tissues by larvae of fly species within the order Diptera, <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> which is intimately related to the life cycle of different species of these insects. The prevalence of the disease is high in tropical and subtropical regions. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b6">7</ref> Local factors associated with myiasis are poor oral hygiene, periodontal diseases, suppurative lesions, halitosis, mouth breathing, anterior open bite, lip incompetence, and trauma caused by physical aggression. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b16">[17]</ref><ref type="bibr" target="#b17">[18]</ref><ref type="bibr" target="#b18">[19]</ref> Systemic conditions that predispose to the development of myiasis are intellectual disability, cerebral palsy, epilepsy, alcoholism, and senility, conditions that are related to the socioeconomic profile of patients. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b10">11,</ref><ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref> These conditions seem to play a crucial role in the development of the disease, as demonstrated by the cases reported so far. In the present case series, poor oral hygiene was observed in 3 cases, intellectual disability in 1, alcoholism in 1, and cerebral palsy in 1 patient.</p><p>C. hominivorax, a fly species native to the Neotropical region that is common in Brazil, <ref type="bibr" target="#b22">23</ref> is an obligate parasite of mammals, including humans. The larval stage represents the obligate parasite, whereas the other stages are harmless to the host. At this stage, the larvae feed fiercely on living tissue, including cartilage and bone, <ref type="bibr" target="#b6">7</ref> initiating a feeding cycle that lasts approximately 3 days before migration from the wound. <ref type="bibr" target="#b22">23</ref> In the present study, C. hominivorax was the species involved in all cases, which were classified as primary myiasis. The diagnosis of myiasis is clinical. However, identification of the larval species involved is certainly useful for epidemiologic surveys and, if not for eradication, at least for control of the disease through the cleanup of contaminated areas.</p><p>Although C. hominivorax larvae are the main agent of myiasis, other species, such as Oestrus ovis, Wohlfahrtia magnifica, Chrysomya bezziana, Hypoderma bovis, Cordylobia anthropophaga, Hypoderma tarandi, Calliphora vicina, Musca nebulo, Musca domestica, and Lucilia sericata have been reported in the literature as cases of this infestation. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b16">17,</ref><ref type="bibr" target="#b19">20</ref> In view of the complex and similar morphologies of different species, identification of the larval species should be performed by an experienced entomologist. <ref type="bibr" target="#b1">2</ref> The incidence of extraoral myiasis is higher than that of oral myiasis because tissues of the oral cavity are not permanently exposed to the external environment, <ref type="bibr" target="#b23">24</ref> in agreement with the present study in which 5 of the 9 cases involved extraoral sites. The palate was the most commonly involved site in the oral cavity, and there were cases in which more than one site was affected. The correlation between anatomic location and wound etiology is an important factor in the development of myiasis, as are sanitary conditions and the presence of systemic disorders. The profile of patients with head and neck myiasis agrees with that in the study by Antunes et al., <ref type="bibr" target="#b6">7</ref> who evaluated 10 cases of oral and maxillofacial myiasis over a period of 6 years, and all of those 10 patients had some systemic disease.</p><p>A review of the English literature identified 31 cases of myiasis associated with malignant neoplasms involving the head and neck region. Treatment consisted of mechanical removal of the larvae, surgical debridement, and the administration of antibiotics. The association with a malignant tumor can be attributed to ulcerated and necrotic lesions exposed to the environment in patients with cancer and to inadequate disinfection. <ref type="bibr" target="#b24">25</ref> However, cases of oral myiasis associated with malignant tumors are rare. <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref><ref type="bibr" target="#b25">26</ref> In general, the largest numbers of reports associated with malignancy are found in Asia, particularly India.</p><p>Several authors argue that myiasis occurs predominantly in countries with hot weather. <ref type="bibr" target="#b6">7</ref> The countries most affected by this disease are India, Tunisia, Brazil, and Australia, which are the countries on their respective continents with this climate characteristic. Furthermore, India, Tunisia, and Brazil are underdeveloped or developing countries, thus demonstrating the social nature of the disease.</p><p>The standard treatment of myiasis focuses on antibiotic therapy concomitantly with mechanical removal of necrotic tissues. <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b26">27</ref> This approach was adopted for the 9 patients of this case series, in which antibiotic therapy and mechanical debridement were effective. However, some foreign body-type reactions may occur in cases in which the larvae remain in the surgical wound because Table <ref type="table">II</ref>. Head and neck myiasis associated with malignancy of incomplete removal of contaminated tissue. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b16">17</ref> As in oral myiasis, in which the mechanical removal of larvae from the necrotic area provides adequate outcomes, manual removal of the larvae and cleanup of necrotic tissues were also effective in this series of myiasis cases involving the head and neck region (i.e., superficial sites). Shinohara et al. <ref type="bibr" target="#b7">8</ref> and Alves et al. <ref type="bibr" target="#b50">51</ref> highlighted the need for immediate management of orofacial myiasis to avoid potential complications, such as extensive tissue destruction, palatal perforation, and cavernous sinus thrombosis.</p><p>Ivermectin belongs to the chemical group of avermectins and is a semisynthetic macrolide antibiotic. The drug is widely used for the treatment and control of worm infestations in large animals, such as cattle, horses, sheep, goats, and camelids. Ivermectin is generally administered as a single dose of 150 to 200 µg/kg body weight. Since the drug is rapidly absorbed and reaches high blood concentrations within a relatively short period, the larvae are quickly expelled from the wound. <ref type="bibr" target="#b11">12</ref> The protocol described by Ribeiro et al., <ref type="bibr" target="#b10">11</ref> which recommends oral administration of ivermectin at a dose of up to 300 µg/ kg (i.e., for patients weighing 40-60 kg: 2 tablets (12 mg); and for patients weighing 60-90 kg: 3 tablets [18 mg]) for 3 consecutive days does not cause any intercurrence and eliminates all larvae in cavitary myiasis.</p><p>Although Shinohara et al. <ref type="bibr" target="#b7">8</ref> and Gealh et al. <ref type="bibr" target="#b11">12</ref> recommend the use of ivermectin without debridement for patients with cutaneous myiasis, no standard protocol exists for the treatment of head and neck myiasis. The articles retrieved were analyzed with regard to treatment options for myiasis and routes of administration in humans (Table <ref type="table">III</ref>). The 9 cases of the present study were treated by mechanical removal of the larvae and surgical debridement of necrotic tissues. In addition, the patients received oral ivermectin (a single dose of 150 µg/ kg) as recommended by Antunes et al. <ref type="bibr" target="#b6">7</ref> and Ribeiro et al. <ref type="bibr" target="#b10">11</ref> It should be noted that the protocol adopted at our institution was effective in resolving the disease in the 9 study patients. This alternating or concomitant treatment with ivermectin is believed to exert a beneficial effect within a short period.</p><p>Most authors prefer topical or local infiltrative anesthesia for removal of the larvae and necrotic tissue. <ref type="bibr" target="#b6">7</ref> In cases where the patient does not cooperate, general anesthesia is preferred for larval removal, which was performed in 5 patients of the present study. Three patients did not cooperate: 1 had cerebral palsy, and in 2 patients the site was difficult to access. After treatment, the larvae were completely eradicated in all cases after washing with physiologic saline or spontaneously eradicated (possibly after being swallowed or eliminated to the external environment).</p><p>The existence of a variety of treatments indicates the lack of a protocol; however, control measures of the fly population have emerged as an alternative strategy to prevent infestation. Basic sanitation and eradication of foci of adult fly proliferation are the first steps in combating this disease. Other measures that have been adopted include the application of ultraviolet light to attract flies and then eliminate them by electrocution and the use of boric acid for domestic elimination of this pest. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b23">24,</ref><ref type="bibr" target="#b51">52</ref> These findings highlight the social nature of the disease; its eradication requires the participation of the local community, the state, and the health care network because systemic problems should not be neglected.</p><p>The sequelae observed in this case series were severe and included blindness, hearing loss, and salivary gland involvement, in addition to the development of an oroantral communication and considerable bone and soft tissue loss. Similar or even more severe findings have been reported in the study by McGraw and Turiansky, <ref type="bibr" target="#b52">53</ref> who found that myiasis can lead to massive tissue destruction, loss of vision and hearing, and even death. Establishment of the diagnosis and immediate treatment are therefore necessary to interrupt progression of the disease and to prevent more devastating sequelae.</p><p>The present results show that head and neck myiasis is associated with the socioeconomic profile of patients in underdeveloped countries and that the disease affects persons with poor oral hygiene and low socioeconomic status, homeless individuals, rural residents, drug users, and those with neurologic and psychosocial disorders.</p><p>Table III. Review of treatment options for myiasis in humans Author (year) Management Route of administration Ribeiro et al. (2001) 11 Surgical removal (mechanical treatment) of the larvae and debridement of infected tissues -Antunes et al. (2011) 7 Antibiotic therapy concomitantly with mechanical removal of necrotic tissues Intravenous Villwock &amp; Harris (2014) 27 Hubler et al. (1974) <ref type="bibr" target="#b46">47</ref> Occlusion of the wound with an asphyxiating agent: Vaseline, heavy oil, bee wax, raw meat, mineral oil, varnish, adhesive tape, butter, chewed gum, turpentine oil, tobacco leaf, chloroform, and ether Topical Felices &amp; Ogbureke (1996) <ref type="bibr" target="#b47">48</ref> Lata et al. (1996) <ref type="bibr" target="#b48">49</ref> Messahel et al. (2010) <ref type="bibr" target="#b49">50</ref> Ribeiro et al. (2001) <ref type="bibr" target="#b10">11</ref> Ivermectin (single dose of 150 µg/kg) Oral Antunes et al. (2011) <ref type="bibr" target="#b6">7</ref> Gealh et al. (2009) <ref type="bibr" target="#b11">12</ref> Nitrofurazone (over 3 consecutive days) Topical</p><p>In this respect, myiasis is mainly found to occur in developing countries and close to the tropics.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSIONS</head><p>In summary, the treatment of choice for head and neck myiasis is surgical debridement to remove necrotic tissue, combined with a specific systemic medication, such as ivermectin. This study provides interesting information that could help clinicians in the diagnosis and management of this condition.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Clinical presentation of a 21-year-old female patient with myiasis in the orbital region.</figDesc><graphic coords="2,304.74,70.03,221.28,235.05" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. World distribution of the 707 cases of head and neck myiasis reported in the literature.</figDesc><graphic coords="4,59.82,69.85,221.28,131.46" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Vol. 124 No. 5 November 2017</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>November 2017</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Volume 124, Number 5 de Arruda et al. e251</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>Volume 124, Number 5 de Arruda et al. e253</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>This work was supported by the <rs type="funder">Brazilian National Council for Scientific and Technological Development (CNPq)</rs>. <rs type="projectName">RA Mesquita</rs> is a research fellow at <rs type="funder">CNPq</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_c4ZHwGX">
+					<orgName type="project" subtype="full">RA Mesquita</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><surname>Rey</surname></persName>
+		</author>
+		<title level="m">Parasitologia -Parasitos e Doenças Parasitarias do Homem nos Trópicos Ocidentais</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Rey</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Brazil</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guanabara Koogan</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="755" to="757" />
+		</imprint>
+	</monogr>
+	<note>Dípteros braquíceros: moscas e motucas th ed. Rio de Janeiro</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Flies and the mouth</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Hassona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scully</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Aguida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>De Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Investig Clin Dent</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="98" to="103" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The socioeconomic burden of parasitic zoonoses: global trends</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Torgerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Macpherson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">182</biblScope>
+			<biblScope unit="page" from="79" to="95" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Dermatoses associated with travel to tropical countries: a prospective study of the diagnosis and management of 269 patients presenting to a tropical disease unit</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Caumes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Carrière</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Guermonprez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Bricaire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Danis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gentilini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="542" to="548" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francesconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lupi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Myiasis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Microbiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="79" to="105" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Emerging imported parasitoses in Italy</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Romano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Albanese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Gianni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="58" to="60" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Oral and maxillofacial myiasis: a case series and literature review. Oral Surg Oral Med Oral Pathol Oral Radiol Endod</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Antunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Santos</forename><surname>Tde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Avelar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Martins</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Macedo</forename><surname>Neres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Laureano</forename><surname>Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="page" from="81" to="85" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oral myiasis treated with ivermectin: case report</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Shinohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Martini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Oliveira-Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz Dent J</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="79" to="81" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: a case report</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Abdo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Sette-Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Comunian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Dutra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Aguiar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Oral Patol Oral Cir Bucal</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="130" to="131" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Tracheostomy wound myiasis in a child: case report and review of the literature. Case Rep Pediatr</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Blejter</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012. 2012</date>
+			<biblScope unit="page">317862</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Tratamento da miíase humana cavitária com ivermectina oral</title>
+		<author>
+			<persName><forename type="first">Faq</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Csb</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marcon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Otorrinolaringol</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="755" to="761" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Treatment of oral myiasis caused by Cochliomyia hominivorax: two cases treated with ivermectin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Gealh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Farah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Teodoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Camarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="23" to="26" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Oral myiasis in an adult associated with filariasis and Hansen&apos;s diseases</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Candamourthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Venkatachalan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Yuvaraj</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sujee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nat Sci Biol Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="259" to="262" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Extensive myiasis infestation over a squamous cell carcinoma in the face: case report. Med Oral Patol Oral Cir Bucal</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Gabriel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Verli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Yurgel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cherubini</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="9" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Oral and maxillofacial myiasis associated with epidermoid carcinoma: a case report</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Antunes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="103" to="105" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Myiasis infestation in advanced oral squamous cell carcinoma</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Pessoa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Galvão</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Case Rep</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Oral myiasis: a case report and literature review. Oral Surg Oral Med Oral Pathol Oral Radiol Endod</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Droma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wilamowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schnur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Yarom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Scheuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Schwartz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="92" to="96" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Traumatic wound myiasis: an unusual finding in maxillofacial trauma</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="2083" to="2086" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Noma (Cancrum oris) associated with oral myiasis in an adult</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Aguiar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Enwonwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Pires</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oral Dis</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="158" to="159" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Oral myiasis caused by Chrysomya bezziana</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Sankari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ramakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Pathol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="16" to="18" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Oral myiasis caused by Diptera in epileptic patient</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Bhoyar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">C</forename><surname>Mishra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Indian Dent Assoc</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="535" to="536" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Oral myiasis by screwworm Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Perdigão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Rios-Leite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tanos</forename><surname>De Lacerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Custódio</forename><forename type="middle">-</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="115" to="116" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Generalities about myiasis in the Neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Myiasis in Man and Animals in the Neotropical Region-Bibliographic Database</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo, Brazil</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editora Plêiade</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page">308</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: case report and review of literature</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Singh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Myiasis on squamous cell carcinoma of skin</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wollina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Wien Med Wochenschr</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="79" to="82" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Myiasis associated with oral squamous cell carcinoma: a literature review</title>
+		<author>
+			<persName><forename type="first">Al-Maweri</forename><surname>Sa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Al-Sufyani</forename><surname>Ga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Tarakji</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Abdulrab</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asian Pac J Cancer Prev</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="4997" to="4999" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Head and neck myiasis, cutaneous malignancy, and infection: a case series and review of the literature</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Villwock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Harris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Emerg Med</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="37" to="41" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Non Hodgkins lymphoma of ethmoidal sinus with rhinoorbital myiasis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rupa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Mathai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Nair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Cancer</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="171" to="172" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Orbital myiasis: case report</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Caça</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Unlü</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Cakmak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Bilek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">B</forename><surname>Sakalar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Unlü</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jpn J Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="412" to="414" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Role of ivermectin in the treatment of severe orbital myiasis due to Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Osorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moncada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valderrama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gualtero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Franco-Paredes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="57" to="59" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Myiasis in a giant squamous cell carcinoma</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Hawayek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Mutasim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Acad Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="740" to="741" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Invasive basal cell carcinoma causing skull and dura destruction</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Bouwman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Stigter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Van Baalen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dermatol Surg</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="980" to="981" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Myiasis in different types of carcinoma cases in southern India</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gopalakrishnan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Srinivasan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Saxena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shanmugapriya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Med Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="189" to="192" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Cutaneous manifestation of myiasis in malignant wounds of the head and neck</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Sesterhenn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Pfützner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Braulke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wiegand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Werner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Taubert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="64" to="68" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Massive scalp myiasis with bleeding in a patient with multiple malignancies</title>
+		<author>
+			<persName><forename type="first">U</forename><surname>Wollina</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int Wound J</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="297" to="299" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Orbital myiasis complicating squamous cell carcinoma of eyelid</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Yeung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Chung</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Lai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hong Kong Med J</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="63" to="65" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Orbital myiasis complicating squamous cell carcinoma in xeroderma pigmentosum</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kamal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bodh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Goel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Orbit</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="137" to="139" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Cutaneous myiasis in a malignant wound of the head and neck region</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Bayindir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Cicek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Atambay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kizilay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Craniofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="19" to="20" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Severe myiasis infestation over a giant squamous cell carcinoma of the auricle</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Robati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qaisari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Saeedi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Karimi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="623" to="624" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Oral squamous cell carcinoma associated with myiasis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Dharshiyani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Wanjari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>Wanjari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">N</forename><surname>Parwani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMJ Case Rep</title>
+		<imprint>
+			<date type="published" when="2012">2012. 2012. 2012007178</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Ophthalmomyiasis externa by Musca domestica in a case of orbital metastasis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Tomy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Prabhu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian J Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="671" to="673" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Intranasal myiasis: a rare complication of transnasal skull base surgery</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Jan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Redjal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Walcott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Sheth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1178" to="1180" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Massive myiasis in an advanced metastatic neck tumor</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rowicki</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pietniczka-Załe ˛ska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ear Nose Throat J</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="25" to="29" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Extensive myiasis infestation associated with oral squamous cell carcinoma: report of two cases</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Biradar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wankhede</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Munde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Shaikh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dent Res J (Isfahan)</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="100" to="105" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">A case of orbital myiasis in recurrent eyelid basal cell carcinoma invasive into the orbit</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Pandey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Shrestha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Sitaula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">N</forename><surname>Shah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Case Rep Ophthalmol Med</title>
+		<imprint>
+			<biblScope unit="page">2904346</biblScope>
+			<date type="published" when="2016">2016. 2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Oro-nasal myiasis in a lymphoma patient</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Jorge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>De Santana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Silveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Brunetta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Kaufman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Barroso-Duarte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Haematol</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page">757</biblScope>
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Hubler Wr</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Rudolph</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Dougherty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dermal myiasis. Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="page" from="109" to="110" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: report of case and review of management</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Felices</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">U</forename><surname>Ogbureke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="219" to="220" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Oral myiasis. A case report</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kapila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aggarwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="455" to="456" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">An unusual case of myiasis</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Messahel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Sen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Patel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Infect Public Health</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="43" to="45" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Cavernous sinus thrombosis in a patient with facial myiasis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Borba</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guimaraes</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quintessence Int</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="72" to="74" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Oral myiasis-a case report</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Singla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="1555" to="e1556" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Reprint requests: José Alcides Almeida de Arruda</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Mcgraw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Turiansky</surname></persName>
+		</author>
+		<idno>54.753-020 Brazil</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Acad Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="907" to="926" />
+			<date type="published" when="2008">2008</date>
+			<publisher>Gal</publisher>
+			<pubPlace>Newton Cavalcanti, n°1650, Tabatinga Camaragibe Pernambuco</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>DDS School of Dentistry Universidade de Pernambuco Av</orgName>
+		</respStmt>
+	</monogr>
+	<note>Cutaneous myiasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m">Alcides_almeida@hotmail</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

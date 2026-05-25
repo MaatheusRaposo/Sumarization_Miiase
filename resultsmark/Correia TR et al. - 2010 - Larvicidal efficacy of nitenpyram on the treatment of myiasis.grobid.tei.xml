@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Larvicidal efficacy of nitenpyram on the treatment of myiasis caused by Cochliomyia hominivorax (Diptera: Calliphoridae) in dogs</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Elsevier BV</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-10">2010-10</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Thaís</forename><forename type="middle">R</forename><surname>Correia</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>b</label> Faculdade de Medicina Veterinária de Valenc ¸a , Fundac ¸ão Educacional Dom André Arcoverde ,</note>
+								<orgName type="department">Faculdade de Medicina Veterinária de Valenc ¸a</orgName>
+								<address>
+									<addrLine>Fundac ¸ão Educacional Dom André Arcoverde</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fabio</forename><forename type="middle">B</forename><surname>Scott</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guilherme</forename><forename type="middle">G</forename><surname>Verocai</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>c</label> Department of Ecosystem and Public Health , Faculty of Veterinary Medicine , University of Calgary , 3330 Hospital Dr NW , Calgary AB T2N 4N1 , Canada</note>
+								<orgName type="department" key="dep1">Department of Ecosystem and Public Health</orgName>
+								<orgName type="department" key="dep2">Faculty of Veterinary Medicine</orgName>
+								<orgName type="institution">University of Calgary</orgName>
+								<address>
+									<addrLine>3330 Hospital Dr NW</addrLine>
+									<postCode>T2N 4N1</postCode>
+									<settlement>Calgary</settlement>
+									<region>AB</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Clarissa</forename><forename type="middle">P</forename><surname>Souza</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>d</label> Universidade Estacio de Sá , Campus Vargem Pequena , Estrada Boca do Mato , 850 Rio de Janeiro , RJ 22783-320 , Brazil</note>
+								<orgName type="institution">Universidade Estacio de Sá</orgName>
+								<address>
+									<addrLine>Campus Vargem Pequena Estrada Boca do Mato</addrLine>
+									<postCode>850 22783-320</postCode>
+									<settlement>Rio de Janeiro</settlement>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Julio</forename><forename type="middle">I</forename><surname>Fernandes</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+							<affiliation key="aff6">
+								<note type="raw_affiliation"><label>e</label> Faculdade de Medicina Veterinária , Campus Castanhal , Universidade Federal do Pará , Rua Maximino Porpino 1000 , Castanhal , PA 68743-080 , Brazil</note>
+								<orgName type="department">Faculdade de Medicina Veterinária</orgName>
+								<orgName type="institution">Universidade Federal do Pará</orgName>
+								<address>
+									<addrLine>Campus Castanhal Rua Maximino Porpino 1000</addrLine>
+									<postCode>68743-080</postCode>
+									<settlement>Castanhal</settlement>
+									<region>PA</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Raquel</forename><forename type="middle">M P S</forename><surname>Melo</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vanessa</forename><forename type="middle">P C</forename><surname>Vieira</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Francisco</forename><forename type="middle">A</forename><surname>Ribeiro</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , BR 465 , Km 7</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>BR 465</postBox>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">PSA/UFRRJ , Seropédica , RJ , Brazil</note>
+								<orgName type="department">PSA/UFRRJ</orgName>
+								<address>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Centro de Ensino Superior de Valenc ¸a , Rua Sargento Vitor Hugo , 161 Bairro de Fátima , Valenc ¸a , RJ 27600-000 , Brazil</note>
+								<orgName type="department">Centro de Ensino Superior de Valenc ¸a</orgName>
+								<address>
+									<addrLine>Rua Sargento Vitor Hugo 161 Bairro de Fátima Valenc ¸a</addrLine>
+									<postCode>27600-000</postCode>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Larvicidal efficacy of nitenpyram on the treatment of myiasis caused by Cochliomyia hominivorax (Diptera: Calliphoridae) in dogs</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Veterinary Parasitology</title>
+						<title level="j" type="abbrev">Veterinary Parasitology</title>
+						<idno type="ISSN">0304-4017</idno>
+						<imprint>
+							<publisher>Elsevier BV</publisher>
+							<biblScope unit="volume">173</biblScope>
+							<biblScope unit="issue">1-2</biblScope>
+							<biblScope unit="page" from="169" to="172"/>
+							<date type="published" when="2010-10" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">EA7211CA677D0B2E15CACE5743F986FB</idno>
+					<idno type="DOI">10.1016/j.vetpar.2010.06.019</idno>
+					<note type="submission">Received 29 April 2009 Received in revised form 1 June 2010 Accepted 21 June 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Cochliomyia hominivorax Dogs Myiasis Neonicotinoid Nitenpyram Screwworm</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The purpose of our study was to evaluate the larvicidal efficacy of nitenpyram for the treatment of screwworm myiasis caused by Cochliomyia hominivorax in naturally infested dogs. Seven Beagle dogs presenting with myiasis were treated with nitenpyram twice at an interval of 6 h. The animals received dosages between 1.43 and 4.42 mg/kg body weight of nitenpyram in each given treatment. The criteria used to determine the drug efficacy were larval expulsion and fall. These were quantified at 15 min intervals within the first hour followed by 2, 3, 4, 6, and 18 h post-treatment. The highest larval expulsion happened between 1 and 2 h post-treatment. The spontaneous larval expulsion percentages were 86% and 94.11% for 6 and 18 h after the first treatment, respectively. Larvae were expelled until 18 h post-treatment. After this period the remaining dead larvae were mechanically removed. Nitenpyram showed 100% efficacy on the treatment of myiasis by C. hominivorax in naturally infested dogs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.">Introduction</head><p>Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae) is popularly known as the New World screwworm fly. Historically, its geographical distribution extends throughout Tropical and Subtropical America, from the Southern United States to the North of Chile. Warmblooded animals, particularly mammals are commonly hosts, including livestock, canines, felines, wildlife and E-mail address: gverocai@gmail.com (G.G. Verocai). 1 Tel.: +55 21 26821617; fax: +55 21 26822935. even man <ref type="bibr">(Guimarães and Papavero, 1999;</ref><ref type="bibr" target="#b11">Mendes-de-Almeida et al., 2007)</ref>. Due to its wide host range, this fly has been considered a major cause of obligatory myiasis <ref type="bibr" target="#b14">(Rawlins, 1985)</ref>. Recently, this dipteran was included in the list of Global Early Systems for major Animal Diseases, including zoonoses of the World Health Organization <ref type="bibr" target="#b19">(WHO, 2007)</ref>.</p><p>Infestation in domestic dog has been reported in many Neotropical countries, such as Brazil and Argentina, and it is considered a common problem in small animal practice. Its incidence is higher during warm weather months <ref type="bibr" target="#b10">(Marluis et al., 1994;</ref><ref type="bibr" target="#b0">Cramer-Ribeiro et al., 2002)</ref>.</p><p>Several predisposing factors such as injuries provoked by trauma, dermatological disorders, tick infestations or even other myiasis, for instance caused by the human bot-fly <ref type="bibr" target="#b2">(Guimarães et al., 2001)</ref>, and may be associated to myiasis installation. Surgical interventions also consti-0304-4017/$ -see front matter © 2010 Elsevier B.V. All rights reserved. doi:10.1016/j.vetpar.2010.06.019 tute a major predisposing factor when not properly treated, mainly because of owner's neglect and/or lack of orientation given by veterinarian personnel <ref type="bibr" target="#b18">(Souza et al., 2010)</ref>. Severe infestations can lead to death if not diagnosed and treated in an early stage <ref type="bibr" target="#b2">(Guimarães et al., 2001)</ref>. The diagnosis is based on the characteristic offensive smell of infested animals wounds, and identification of the maggots (Mendes- <ref type="bibr" target="#b11">de-Almeida et al., 2007)</ref>.</p><p>Some divergences have been mentioned in reference to predilection areas in dogs. The mostly cited affected regions were perinasal, periocular, peribucal, perianal and genital <ref type="bibr">(Marcondes, 2001)</ref> or auricular <ref type="bibr" target="#b0">(Cramer-Ribeiro et al., 2002)</ref>.</p><p>In small animal practice, ivermectin and pyrethrin or pyrethroids sprays are commonly used for the treatment of screwworm myiasis <ref type="bibr" target="#b16">(Scott et al., 2001)</ref>. Despite the lack of information in the literature, the use of unguents or sprays containing organophosphates or carbamates are known to be still largely employed.</p><p>Nitenpyram is a highly water-soluble molecule from the class of neonicotinoids. Once orally administered it is rapidly absorbed via host blood, and also rapidly excreted; and therefore is considered of low toxicity for mammals. It leads to insect death by nervous transmission interference <ref type="bibr" target="#b15">(Schenker et al., 2001;</ref><ref type="bibr" target="#b17">Scott et al., 2002;</ref><ref type="bibr" target="#b6">Hovda and Hoser, 2002)</ref>. This drug has been used for flea control in dogs and cats, usually associated to insect growth regulators <ref type="bibr" target="#b1">(Dobson et al., 2000)</ref>. Additionally, it has been routinely used in small animal practice in the treatment screwworm infestations, usually with a single-dose, following the recommended dosage for flea control <ref type="bibr" target="#b9">(Machado and Rodrigues, 2002)</ref>.</p><p>The purpose of the present study is to evaluate the larvicidal efficacy of nitenpyram for the treatment of screwworm myiasis caused by C. hominivorax in naturally infested dogs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.">Materials and methods</head><p>Seven Beagle dogs (six males and 1 female), aging from 9 months to 6 years, and weighting from 7.9 to 13.2 kg were used as subjects. The animals were maintained by the Kennel of the Laboratory of Experimental Chemotherapy in Veterinary Parasitology from the Universidade Federal Rural do Rio de Janeiro, Southeastern Brazil. All dogs were naturally infested by C. hominivorax larvae, constituting cases of primary myiasis. The lesions were distributed in different body areas: mentum (2), preputial (1), left ear (1), right ear (1), interdigital (1) and perianal (1) and appeared during different seasons of the year.</p><p>Myiasis detections were made through visual observation of characteristic injuries containing larvae in addition to their putrid odor. Dogs were medicated orally with nitenpyram tablets (Capstar ® , Novartis Animal Health), following recommended protocol for flea control. A second treatment was administered 6 h after the first administration. The animals received dosages between 1.43 and 4.42 mg/kg body weight of nitenpyram per treatment.</p><p>The dogs were maintained in individual cages measuring 70 cm × 70 cm × 70 cm, with removable trays placed in the bottom. Expelled larvae present on these trays were periodically collected and quantified every 15 min during the first hour and then at 2, 3, 4, 6 and 18 h post-treatment. Maggots were taxonomically identified as C. hominivorax second and third instar larvae, according to <ref type="bibr">Guimarães and Papavero (1999)</ref>. The remaining larvae were mechanically removed with the aid of surgical tweezers and then counted. Later, the wounds were cleaned and treated using antiseptic solution and topical healing ointment. Systemic antibiotic and anti-inflammatory treatment were given.</p><p>The criteria for drug evaluation were the expulsion and consequent fall of larvae from the lesion. Larval expulsion percentage was calculated by the formula [(number of expelled larvae of each animal)/(sum of expelled and mechanically collected larvae of each animal) × 100]. The percentages of expelled larvae per observational period, considering all animals, were calculated by the following formula: [(total of expelled larvae by each time)/(sum of expelled and mechanically collected larvae)].</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.">Results and discussion</head><p>Results for individual number of expelled larvae, number of mechanically removed dead larvae, percentage of expelled larvae and larvicidal efficacy are presented in Table <ref type="table" target="#tab_0">1</ref>. Individual larval counts for each animal (obtained by adding expelled and mechanically removed dead maggots) were 444, 15, 16, 12, 8, 116 and 181 for the animals 1, 2, 3, 4, 5, 6 and 7, respectively, corresponding to 792 specimens. The mean cumulative percentages of expelled larvae were 0%, 0% and 0.1% for 15, 30, and 45 min; 4.2%, 43.7%, 61.9%, 69.7% and 86% for 1, 2, 3, 4, and 6 h, respectively. The second treatment was given 6 h after the first nitempyran administration, as an attempt to kill the remaining active larvae infesting all dogs. We had 95.3% of expelled larvae in 18 h after the first treatment (Table <ref type="table" target="#tab_0">1</ref>).</p><p>Considering the total of expelled larvae for each evaluation time, the mean non-cumulative expulsion was 0%, 0% and 0.1% for <ref type="bibr">15, 30 and 45 min; and 4.2%, 41.4%, 19.1%, 8.2%, 17.1% and 9.8% for 1, 2, 3, 4, 6</ref> and 18 h after the first treatment (Fig. <ref type="figure" target="#fig_1">1</ref>).</p><p>The drug comprised a mean efficacy of 86% and 95.3%, respectively, for 6 and 18 h after the first treatment for the removal of C. hominivorax larvae. Since the remaining maggots were found dead, nitenpyram showed an overall larvicidal efficacy of 100%.</p><p>As stated by <ref type="bibr" target="#b6">Hovda and Hoser (2002)</ref> nitenpyram reaches in 20 min a serum level sufficient to act against the insects. They also affirm that the maximum serum concentration occurs in 1.2 h post-ingestion which justifies the higher larval expulsion obtained between 1 and 2 h posttreatment in the current study (Fig. <ref type="figure" target="#fig_1">1</ref>).</p><p>During the last decade, other insecticidal drugs have been used successfully for the prevention and treatment of screwworm myiasis in different animal species. <ref type="bibr" target="#b5">Hendrix (1991)</ref> used pyrethrin and pyrethroid-based sprays in dogs in order to kill larvae that eventually have persisted after mechanical removal. <ref type="bibr">Moya-Borja et al. (1993)</ref> tested the prophylactic effect of doramectin in calves artificially infested with C. hominivorax first instar larvae, obtaining 100% efficacy. <ref type="bibr" target="#b7">Jayagopala-Reddy et al. (1993)</ref>  a Time when the second treatment was given. Chrysomyia bezziana in dogs and obtained complete larval expulsion within 48 h post-treatment. Conversely, the subcutaneous application is painful and the 48 h period is considered extremely long as the larvae permanence in the wound could aggravate the damage. <ref type="bibr" target="#b9">Machado and Rodrigues (2002)</ref> used a single-dose treatment with nitenpyram for naturally screwworm infested dogs and found that all the maggots were killed 24 h after treatment in 94.1% of the subjects. The double nitenpyram treatment used in the present study might have assisted in the achievement of 100% larvicidal activity, but we cannot assure whether or not it was essential for this. In general, an effective and rapid larval expulsion is desired once it will reduce the extent of tissue damage provoked by larval action and certainly benefit infested animals. Consequently, repeated treatments could be recommended according to the level, location, and severity of infestation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>used subcutaneous ivermectin against infestations caused by</head><p>As shown by <ref type="bibr" target="#b13">Nesbitt and Ackerman (1996)</ref>, the curative treatment of either cutaneous and cavitary myiasis in dogs has the following indications: mechanical removal of maggots, lesion cleansing, hair plucking, and in some cases the patient sedation is necessary. Usually, wound debridement is required, as well as combined anti-inflammatory and antibiotic protocols. Additionally, repellent and larvicidal products are commonly used. Antiparasitic products such as nitenpyram should be largely employed, especially for the treatment of massive or barely accessible infestations, consisting in a useful and efficacious tool for veterinarians.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.">Conclusion</head><p>Oral treatment with nitenpyram promoted hastily larval expulsion when administered to naturally C. hominivorax infested dogs, being considered an effective therapeutical option. This fast and spontaneous expulsion of maggots is a desirable factor for drugs intended for myiasis treatment in small animal practice.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>*</head><figDesc>Corresponding author at: Department of Ecosystem and Public Health, Faculty of Veterinary Medicine, University of Calgary, 3330 University Dr NW, T2N 4N1 Calgary, Alberta, Canada. Tel.: +1 403 210 7869; fax: +1 403 210 7882.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Non-cumulative and cumulative percentages of expelled Cochliomyia hominivorax larvae per observational period after nitenpyram (Capstar ® ) treatment.</figDesc><graphic coords="5,128.50,283.08,334.07,168.46" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="2,166.86,126.77,260.60,358.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Larvicidal efficacy of nitenpyram (Capstar ® ) against naturally acquired Cochliomyia hominivorax infestation on dogs.</figDesc><table><row><cell>Post-treatment period</cell><cell cols="3">Number of expelled larvae per animal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>1</cell><cell>2</cell><cell>3</cell><cell>4</cell><cell>5</cell><cell>6</cell><cell>7</cell></row><row><cell>15</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>30</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>45</cell><cell>0</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>0</cell></row><row><cell>1 h</cell><cell>1 7</cell><cell>8</cell><cell>3</cell><cell>3</cell><cell>0</cell><cell>1</cell><cell>0</cell></row><row><cell>2 h</cell><cell>1 6 4</cell><cell>1</cell><cell>7</cell><cell>6</cell><cell>1</cell><cell>2 2</cell><cell>1 1 2</cell></row><row><cell>3 h</cell><cell>121</cell><cell>0</cell><cell>3</cell><cell>0</cell><cell>2</cell><cell>18</cell><cell>0</cell></row><row><cell>4 h</cell><cell>4 3</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>1 8</cell><cell>0</cell></row><row><cell>6 h a</cell><cell>6 7</cell><cell>1</cell><cell>0</cell><cell>0</cell><cell>0</cell><cell>4 3</cell><cell>1 8</cell></row><row><cell>1 8 h</cell><cell>1 1</cell><cell>0</cell><cell>0</cell><cell>3</cell><cell>5</cell><cell>4</cell><cell>5 1</cell></row><row><cell>Expelled larvae</cell><cell>423</cell><cell>12</cell><cell>13</cell><cell>12</cell><cell>8</cell><cell>106</cell><cell>181</cell></row><row><cell>Removed dead larvae</cell><cell>21</cell><cell>3</cell><cell>3</cell><cell>0</cell><cell>0</cell><cell>10</cell><cell>0</cell></row><row><cell>Total of larvae</cell><cell>444</cell><cell>15</cell><cell>16</cell><cell>12</cell><cell>8</cell><cell>116</cell><cell>181</cell></row><row><cell>Expelled larvae (%)</cell><cell>95.3</cell><cell>80</cell><cell>81.2</cell><cell>100</cell><cell>100</cell><cell>91.4</cell><cell>100</cell></row><row><cell>Larvicidal activity (%)</cell><cell>100</cell><cell>100</cell><cell>100</cell><cell>100</cell><cell>100</cell><cell>100</cell><cell>100</cell></row></table></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Inquiry of cases of myiasis by Cochliomyia hominivorax in dogs of the southern zone of Rio de Janeiro city in 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Cramer-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Rocco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Cardoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz. J. Vet. Res. Anim. Sci</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="171" to="175" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Efficacy of nitenpyram as a systemic flea adulticide in dogs and cats</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dobson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tinembart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Fisch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Junquera</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Rec</title>
+		<imprint>
+			<biblScope unit="volume">147</biblScope>
+			<biblScope unit="page" from="709" to="713" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Tucci</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Barros-Battesti</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ectoparasitos de importância veterinária</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">217</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Correia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">173</biblScope>
+			<biblScope unit="page" from="169" to="172" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Myiasis in Man and Animals in the Neotropical Region-Bibliographic Database</title>
+	</analytic>
+	<monogr>
+		<title level="j">Editora Plêiade/FAPESP</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">308</biblScope>
+			<date type="published" when="1999">1999</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Facultative myiasis in dogs and cats</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Hendrix</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compend. Contin. Educ. Pract. Vet</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">86</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Toxicology of newer pesticides for use in dogs and cats</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Hovda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Hoser</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Clin. North Am. Small Anim. Pract</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="455" to="467" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ivermectin in cutaneous myiasis of dogs</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">R</forename><surname>Jayagopala-Reddy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Setty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Ranganath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E D</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Jagannath</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Indian Vet. J</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="557" to="558" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Entomologia médica e veterinária</title>
+	</analytic>
+	<monogr>
+		<title level="j">Editora Atheneu</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Marcondes</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page">432</biblScope>
+			<date type="published" when="2001">2001</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Emprego do nitenpyram como larvicida em miíases caninas por Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L S</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M P</forename><surname>Rodrigues</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Sci. Vet</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="59" to="62" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Marluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cervinazzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Quintana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cochliomyia hominivorax (Coquerel, 1858) and Phaenicia sericata (Meigen, 1826) parasiting domestic animals in Buenos Aires and vicinities</title>
+		<meeting><address><addrLine>Diptera, Calliphoridae</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">139</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Cochliomyia hominivorax myiasis in a colony of stray cats (Felis catus Linnaeus, 1758) in Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mendes-De-Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Labarthe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guerrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Landau-Remy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J S</forename><surname>Pereira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="376" to="378" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Gonc ¸alves, L.C.B., 1993. Prophylactic and persistent efficacy of doramectin against Cochliomyia hominivorax in cattle</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="95" to="105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Canine and Feline Dermatology. Veterinary Learning</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H</forename><surname>Nesbitt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ackerman</surname></persName>
+		</author>
+		<editor>L.J.</editor>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="page">453</biblScope>
+			<pubPlace>New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Current trends in screwworm myiasis in the Caribbean region</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Rawlins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="241" to="250" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A brief introduction to nitenpyram: a new systemic flea adulticidal for cats and dogs</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schenker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Tinembart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Marnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>White</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compend. Contin. Educ. Pract. Vet</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="4" to="6" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Muller &amp; Kirk&apos;s Small Animal Dermatology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Griffin</surname></persName>
+		</author>
+		<editor>C.E.</editor>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>W. B. Saunders Company</publisher>
+			<biblScope unit="page">1528</biblScope>
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Aspectos gerais do controle da pulga Ctenocephalides felis felis em cães. A. Hora Vet</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V F</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">R</forename><surname>Correia</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="13" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Myiasis caused by the New World screwworm fly Cochliomyia hominivorax (Diptera: Calliphoridae) in cats from Brazil: report of five cases</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Verocai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H R</forename><surname>Ramadinha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Feline Med. Surg</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="166" to="168" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Who</surname></persName>
+		</author>
+		<ptr target="http://www.who.int/zoonoses/outbreaks/glews/en/index.html" />
+		<imprint>
+			<date type="published" when="2007">2007. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

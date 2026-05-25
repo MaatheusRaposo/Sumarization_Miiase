@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Inquiry of cases of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000 Inquérito sobre os casos de miíase por Cochliomyia hominivorax em cães (Canis familiaris) das zonas norte e oeste do município do Rio de Janeiro no ano 2000</title>
+				<funder>
+					<orgName type="full">Veterinary Medicine Regional Council of Rio de Janeiro City</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Bianca</forename><forename type="middle">Chiganer</forename><surname>Cramer-Ribeiro</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Argemiro</forename><surname>Sanavria</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Heloìsa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Helena</forename><surname>Magalh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Es</forename><surname>Soares</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Marcelo</forename><surname>Queiroz De Oliveira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Silva</forename><forename type="middle">De</forename><surname>Souza</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dog</forename><surname>Myiasis</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">BIANCA CHIGANER CRAMER-RIBEIRO Departamento de Epidemiologia e Sa˙de P˙blica Instituto de Veterin•ria Universidade Federal Rural do Rio de Janeiro BR 465 , Km 7 23890-000 -SeropÈdica -RJ</note>
+								<orgName type="department">CRAMER-RIBEIRO Departamento de Epidemiologia e Sa˙de P˙blica</orgName>
+								<orgName type="institution" key="instit1">BIANCA CHIGANER</orgName>
+								<orgName type="institution" key="instit2">Instituto de Veterin•ria Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>BR 465 Km 7 23890-000 -SeropÈdica -RJ</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">πDepartamento de Epidemiologia e Sa˙de P˙blica do Instituto de Veterin•ria da Universidade Federal Rural do Rio de Janeiro , SeropÈdica -RJ ≤ClÌnica Veterin•ria , Rio de Janeiro ñ RJ</note>
+								<orgName type="department">πDepartamento de Epidemiologia e Sa˙de P˙blica do</orgName>
+								<orgName type="institution">Instituto de Veterin•ria da Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>SeropÈdica -RJ ≤ClÌnica Veterin•ria</addrLine>
+									<settlement>Rio de Janeiro ñ RJ</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Inquiry of cases of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000 Inquérito sobre os casos de miíase por Cochliomyia hominivorax em cães (Canis familiaris) das zonas norte e oeste do município do Rio de Janeiro no ano 2000</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">A05CAE5ECC789A967FF46B18759DDC49</idno>
+					<note type="submission">Received: 16/01/2002 Accepted: 21/12/2002</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An inquiry about cases of myiasis by C. hominivorax larvae on dogs presented to 190 veterinary establishments of Rio de Janeiro City in 2000 was performed to contribute to the comprehension of epidemiological features of this myiasis. Cases of screwworm infestation were observed in 184 veterinary establishments: in 104 among 108 establishments of the Northern Zone, and in 80 of 82 establishments of the Western Zone of the city. Most infested dogs were adult, pure breed, long and dark-haired, living in houses, while no preference for sex was observed. Ears were most infested, and the main cause of lesions that led to myiasis was otitis. Screwworm infestation is a very frequent disease on dogs, and prevention programs should be developed, specially during hot weather months (December and January), when incidence was higher. Most infested dogs are the ones that need more care, and prevention of all possible causes of myiasis will help its avoidance. Dirt and lack of hygiene are also causes of screwworm infestation and must be avoided, as other myiasis causes. Pet owners negligence is a contributing factor to the appearance of screwworm infestation on dogs, and pet owners should receive orientation from veterinary clinicians. Additional studies about screwworm infestation on dogs should be performed, in order to identify more predisposing factors to be used in prevention programs.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Cochliomyia hominivorax (Coquerel, Calliphoridae) <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2</ref> is a primary screwworm that invades fresh and uncontaminated skin wounds <ref type="bibr" target="#b2">3</ref> , producing a condition called myiasis, that is the infestation of live vertebrate animals with dipterous larvae <ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> . Larvae may develop in the subcutaneous tissues of the skin or</p><p>Brazilian Journ al of Veterinary Research and Animal Science (2003) 40:13-20 ISSN printed: 1413-9596 ISSN on-line: 1678-4456</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and Method</head><p>In January 2001, formularies were distributed to 190 veterinary establishments of the Northern and Western Zones of Rio de Janeiro City, organs <ref type="bibr" target="#b2">3</ref> . In Brazil, this myiasis is known as ìbicheiraî <ref type="bibr" target="#b5">6</ref> . Adult female flies are attracted to fresh skin wounds on any warm-blooded animal, where they lay their eggs <ref type="bibr" target="#b2">3</ref> , and wide lesions are produced <ref type="bibr" target="#b6">7</ref> , which have an unpleasant odor <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b5">6</ref> . The host becomes unquiet, stops feeding and looses weight, and death can occur due to toxemia, hemorrhage or secondary bacterial infections <ref type="bibr" target="#b0">1</ref> . C. hominivorax occurs mainly in tropical areas <ref type="bibr" target="#b5">6</ref> and it is the most important myiasis-producing fly in man and domestic animals of America, from southern United States to northern Chile <ref type="bibr" target="#b0">1</ref> . The first register of C. hominivorax occurred in 1858, in French Guyana, by Coquerel <ref type="bibr" target="#b7">8</ref> . In Libya, the fist registers were described by El-Azazy <ref type="bibr" target="#b8">9</ref> , and in France the first case of auricular myiasis in a dog (brought from Brazil) was described by Chermette, Prigent and Bourdeau <ref type="bibr" target="#b9">10</ref> . Diagnose is made by fistula and larvae observation <ref type="bibr" target="#b10">11</ref> . In dogs, successfully prevention of myiasis was reported with the use of lufenuron (10 mg/kg, oral, once a month) <ref type="bibr" target="#b11">12</ref> . Doramectin was effective in preventing natural infestations by C. hominivorax in cattle after castration <ref type="bibr" target="#b12">13</ref> , but there are no studies in dogs.</p><p>An inquiry about the cases of myiasis by Cochliomyia hominivorax larvae in dogs presented to veterinary establishments of the Northern and Western Zones of Rio de Janeiro City in 2000 was performed, so we can contribute to the comprehension of the epidemiological features of this myiasis, which causes extreme annoyance of the affected animals and can lead to death <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b2">3</ref> . so the veterinary clinicians could answer questions about epidemiological features of the cases of myiasis by C. hominivorax larvae in dogs observed in 2000. Questions referred to incidence of cases during 2000, phenotypical features of infested dogs (breed, hair color, hair size, sex, and age), infested body regions, causes of lesion that led to myiasis, and type of domicile that infested dogs lived in.</p><p>This inquiry included 108 veterinary establishments of the Northern Zone of Rio de Janeiro City, in the districts of Acari (one veterinary establishment), AndaraÌ (4), Banc•rios (1), Bento Ribeiro (2), Bonsucesso (1), Br•s de Pina (2), Cachambi (4), Cacuia (1), Campinho (1), Cascadura (1), Cavalcante (1), Cocot• (1), Coelho Neto (1), Engenho de Dentro (1), Engenho Novo (4), Graja˙ (2), Guadalupe (1), HigienÛpolis (1), Inha˙ma (1), Iraj• (3), Jabour (1), JacarÈ (1), Jardim AmÈrica (1), Jardim Guanabara (1), Lins de Vasconcelos (3), Madureira (2), Maracan" (2), Marechal Hermes (1), Maria da GraÁa (1), MÈier (9), MonerÛ (1), Olaria (2), Pavuna (2), Penha (3), Penha Circular (2), Piedade (4), Pilares (1), PraÁa da Bandeira (1), Ramos (2), Riachuelo (2), Rio Comprido (3), Rocha Miranda (3), S"o CristÛv"o (1), Tijuca (8), Tom•s Coelho (1), Usina (2), Vaz Lobo (1), Vicente de Carvalho (1), Vila da Penha (2), Vila Isabel (7), Vila Kosmos (1), Vista Alegre (1), and Zumbi (1).</p><p>In the Western Zone, 82 veterinary establishments were included, in the districts of Anil (one veterinary establishment), Bangu (4), Barra da Tijuca (20), Campo Grande (17), Freguesia (7), PaciÍncia (2), Padre Miguel (1), Pechincha (4), Pedra de Guaratiba (1), PraÁa Seca (3), Realengo (5), Recreio dos Bandeirantes (3), Santa Cruz (2), Sepetiba (1), Sulacap (2), Tanque (1), Taquara (4), and Vila Valqueire (4).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Cases of screwworm infestation on dogs were presented to 184 (97.00%) of 190 veterinary establishments included in this inquiry: 104 (96.00%) among 108 establishments in the Northern Zone, and 80 (98.00%) among 82 establishments in the Western Zone of Rio de Janeiro City. Our results disagree with Scott , Miller and Griffin <ref type="bibr" target="#b6">7</ref> , who described that myiasis are not common in dogs and cats. Some forests exist in the Northern and Western Zones, and cattle, horses, and even pigs can be found in some areas, because the existence of slums in the Northern Zone, which is predominantly urban, and the existence of some rural areas in the Western Zone, where poor people can be seen, as in the Northern Zone. These conditions created an adequate environment to flies proliferation and, then, to appearance of myiasis on dogs. It is necessary to correct handling and hygiene of the place where the dogs are kept, what is recommended by Foil <ref type="bibr" target="#b13">14</ref> .</p><p>In the Northern Zone, only 1.00% (of 104) of the clinicians reported higher incidence in cats than in dogs, while 99.00% described that dogs were more infested than cats. 32.00% of the clinicians reported highest incidence in December, 20.00% January, 5.00% February, 5.00% March, 5.00% November, 3.00% October, 2.00% April, 1.00% May, 1.00% July, and 1.00% August, while 13.00% answered that no month had higher incidence than another, and 12.00% did not know to answer (Table <ref type="table">1</ref>). According to 99.00% of the clinicians, most infested dogs lived in houses (Table <ref type="table" target="#tab_5">2</ref>), while 1.00% mentioned the stray dogs that lived in the streets.Pure breed dogs were most infested according to 48.00% of the clinicians (Table <ref type="table" target="#tab_5">2</ref>). Among the 50 clinicians who answered that, 78.00% mentioned the German Shepherd. Incidence was the same for both pure breed and dogs of mixed breeding according to 30.00% of the clinicians, and dogs of mixed breeding were the most affected according to 22.00%. Long-haired dogs were mentioned as the most infested by 56.00% of the clinicians (Table <ref type="table" target="#tab_5">2</ref>), whereas 17.00% answered that the incidence was higher in dogs with short hair, 11.00% mentioned the medium-haired dogs, 13.00% did not notice any predilection for hair size, and 3.00% did not know to answer the question. Besides, 68.00% of the clinicians reported that dogs with dark hair were the most affected (Table <ref type="table" target="#tab_5">2</ref>), whereas 6.00% mentioned light hair, 19.00% did not obser ve higher incidence in dogs with dark or light hair color, and 7.00% did not know to answer this question. No predilection for sex was reported by 49.00% of the clinicians (Table <ref type="table" target="#tab_5">2</ref>), 36.00% mentioned that males were the most infested, and 2.00% females. However, 13% did not know to answer this question. Adult dogs were the most infested according to 59.00% of the clinicians (Table <ref type="table" target="#tab_5">2</ref>), old dogs according to 35.00%, puppies according to 2.00%, and 3.00% answered that no predilection for age was observed, while 1.00% did not know to answer this question.</p><p>Ears were the most infested body regions, as reported by 59.00% of the clinicians, while 14.00% mentioned perianal region, 6.00% lumbar region, 6.00% limbs, 2.00% mouth, 2.00% neck, 2.00% dorsum, 2.00% genital region, 1.00% head, 1.00% thorax, and 1.00% fingers, while no predilection for body region was reported by 4.00% of the clinicians (Table <ref type="table" target="#tab_3">3</ref>). Otitis was mentioned by 58.00% of the clinicians as the most frequent cause of lesion that led to myiasis, dermatitis by 17.00%, unknown cause by 9.00%, perianal sacs inflammation by 6.00%, fights by 3.00%, trampling by 1.00%, tartar by 1.00%, dirt and lack of hygiene by 1.00%, genital secretion by 1.00%, and post parturition by 1.00%, while 2.00% did not notice any cause of lesions more frequent (Table <ref type="table">4</ref>).</p><p>In the Western Zone, incidence</p><p>Inquiry of cases of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000 Table 1 Mentioning frequency by veterinary clinicians about the months of highest incidence of myiasis by C. hominivorax larvae on dogs presented to veterinary establishments of the Northern and Western Zones of Rio de Janeiro City in 2000 Table 2 Mentioning frequency by veterinary clinicians about dogs presenting C. hominivorax larvae infestation and presented to veterinary establishments of the Northern and Western Zones of Rio de Janeiro City in 2000 Table 4</p><p>Mentioning frequency by veterinary clinicians about the causes of lesions that led to myiasis by C. hominivorax larvae in dogs presented to veterinary establishments of the Northern and Western Zones of Rio de Janeiro City in 2000 was higher in dogs than in cats according to 94.00% (of 80) of the clinicians, and higher in cats than in dogs according 4.00%, while 1.00% reported that dogs and cats were equally affected, and 1.00% did not answered the question. 31.00% of the clinicians mentioned highest incidence in December, 20.00% January, 8.00% November, 2.00% October, 1.00% March, 1.00% June, and 1.00% August, while 13.00% reported that no month had higher incidence than another, 13.00% did not know to answer, and 10.00% reported that incidence was higher during the hot weather months of the year but did not mention any particular month (Table <ref type="table">1</ref>). Most infested dogs lived in houses, as reported by 83.00% of the clinicians (Table <ref type="table" target="#tab_5">2</ref>), while 10.00% reported small farms, 4.00% apartments, and 1.00% the stray dogs that lived in the streets. However, 1.00% did not notice predilection for houses, small farms or apartments, and 1.00% did not answered the question. Houses and small farms are very common in the Western Zone.</p><p>Incidence was higher in pure breed dogs according to 44.00% of the clinicians (Table <ref type="table" target="#tab_5">2</ref>). Among the 35 clinicians who answered that, 60.00% mentioned German Shepherds, 6.00% mentioned Poodles, 5.00% Boxers, 5.00% Dobermans, and 5.00% mentioned English Cocker Spaniels. According to 34.00% of the clinicians, incidence was the same for pure breed and mixed breeding dogs, and 21.00% described that mixed breeding dogs were the most affected. According to 51.00% of the clinicians, long-haired dogs were the most infested (Table <ref type="table" target="#tab_5">2</ref>), while 20.00% did not notice any predilection for hair size, 15.00% mentioned the medium-haired dogs, 13.00% mentioned dogs with short hair, and only 1.00% did not answer the question. Besides, 58.00% of the clinicians reported that dogs with dark hair were the most affected (Table <ref type="table" target="#tab_5">2</ref>), while 31.00% did not notice predilection for hair color, 7.00% mentioned light hair, and 4.00% did not know to answer this question.</p><p>According to 58.00% of the clinicians, there was no predilection for sex (Table <ref type="table" target="#tab_5">2</ref>), but 24.00% reported that males were the most infested, and 11.00% females, whereas 7.00% did not answer the question. It was reported by 54.00% of the clinicians that adult dogs were the most infected (  <ref type="table" target="#tab_3">3</ref>). Otitis was described by 45.00% of the clinicians as the most frequent cause of lesion that led to myiasis, dermatitis by 15.00%, fights by 12.00%, unknown cause by 10.00%, perianal sacs inflammation by 6.00%, tartar by 4.00%, post parturition by 3.00%, genital secretion by 1.00%, ulcerated tumor by 1.00%, and pododermatitis by 1.00%, while 1.00% did not notice a more frequent cause, and 1.00% did not know to answer (Table <ref type="table">4</ref>). One clinician spontaneously reported that ectoparasite infestation is a frequent cause of dermatitis in dogs.</p><p>In the Northern and Western Zones of Rio de Janeiro City, most clinicians reported that myiasis by C. hominivorax larvae was more common in dogs than in cats during 2000, data also obtained by Ribeiro et al. <ref type="bibr" target="#b14">15</ref> in the Western Zone and by Ribeiro et al. <ref type="bibr" target="#b15">16</ref> in the Central Zone of the city, both during the same period. It can be influenced by the fact that dogs are the most presented pets to veterinary establishments in Rio de Janeiro City, because they are more populous than cats. Besides, dogs are maintained in house yards more often than cats, specially the large breed dogs used for house guard, and because of this they are more exposed to flies than cats.</p><p>German Shepherd is a very popular breed in Rio de Janeiro City and, as it is a large breed, often kept in house yards. Frequently, adults are also maintained in yards, many times for house guard, while puppies are kept indoors. As flies can easily access yards, large breed and adult dogs are more exposed to flies and, then, to myiasis. In this inquiry, German Shepherd was considered a long and dark-haired breed, and dogs with such features were the most infested according to greatest part of the clinicians. Poodles and English Cockers Spaniels are also very popular in Rio de Janeiro City, and they are longhaired. These three breeds present otitis very often. This disease was mentioned by most clinicians as the main cause of lesions that led to myiasis, what explains why ears were the body regions most infested. So, otitis prevention, as well the prevention of others causes mentioned, will help myiasis avoidance. Some information were spontaneously given by clinicians and contributed to our conclusions. Myiasis is seen as a consequence of the owner negligence <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b13">14</ref> , and it was mentioned by clinicians that carelessness by owners is an important factor to the appearance of myiasis in dogs. This negligence happens very often with long-haired dogs kept in yards for house guarding, and it would be, in part, responsible by the uniform occurrence of myiasis during the year. Another clinician reported that old dogs are predisposed to myiasis because they spend much time sleeping, what makes easier the approach of flies. Some clinicians did not know to answer to the questions of our inquiry, because they could not remember data referred to them. Besides, we noticed a lot of differences when comparing the answers given by some clinicians, despite the nearness among their veterinary establishments in some cases. We also noticed that many clinicians did not consider myiasis as a disease of great importance, probably because it is common in dogs of the Northern and Western Zones of Rio de Janeiro City, as concluded in this inquiry, and it is not necessary to report the cases to authorities, as in the United States, where</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>Screwworm infestation is a very frequent disease on dogs, and prevention programs should be developed, specially during hot weather months, when incidence of screwworm infestation is higher. Most infested dogs ó adults, pure breed, dark and short-haired, living in houses ó are the ones that need more care.</p><p>As pet owners negligence is a contributing factor to the appearance of screwworm infestation on dogs, pet owners should receive orientation from veterinary clinicians. Prevention of all screwworm infestation must be reported to state and federal authorities <ref type="bibr" target="#b2">3</ref> . In Brazil there are 27,000,000 dogs living with owners <ref type="bibr" target="#b16">17</ref> . Although dogs and cats are usually seen as family members and offer psychological, physiologic and social benefits to humans <ref type="bibr" target="#b17">18</ref> , Ribeiro et al. <ref type="bibr" target="#b14">15</ref> , who studied the incidence of myiasis in cats of the Western Zone of Rio de Janeiro City, did not found any similar study performed in Rio de Janeiro City. possible causes of myiasis will help its avoidance. When it is not possible ó as in case of unknown causes ó lesions must be adequately treated in order to avoid C. hominivorax larvae developing from eggs. Besides, if pet owners are warned that some body regions can be infested more frequently, they can be more careful. They should know that dirt and lack of hygiene are also causes of screwworm infestation and must be avoided, as other myiasis causes.</p><p>Additional studies about screwworm infestation on dogs should be performed, in order to identify more predisposing factors and use this information in prevention programs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resumo</head><p>Foi realizado um inquÈrito sobre os casos de miÌases por larvas de C. hominivorax (bicheira) em c"es atendidos em 190 clÌnicas e consultÛrios veterin•rios do MunicÌpio do Rio de Janeiro em 2000, para contribuir na compreens"o das caracterÌsticas epidemiolÛgicas dessa doenÁa. Casos de miÌase foram atendidos em 184 estabelecimentos veterin•rios: em 104 de 108 estabelecimentos da Zona Norte e em 80 de 82 estabelecimentos da Zona Oeste do municÌpio. Os c"es mais acometidos foram os adultos, de raÁa definida, com pelagem longa e escura, que residiam em casas, sem predileÁ"o por sexo. Os ouvidos foram as regiıes do corpo mais afetadas e a principal causa de les"o que levou ‡ miÌase foi a otite. As miÌases s"o comuns em c"es e, assim, programas preventivos devem ser desenvolvidos, principalmente nos meses quentes (dezembro e janeiro), quando a incidÍncia foi maior. Os c"es mais infestados s"o os que necessitam de maiores cuidados e a prevenÁ"o de todas as possÌveis causas de miÌase auxiliar• na prevenÁ"o da mesma. Sujidades e falta de higiene tambÈm s"o causas de miÌase e devem ser evitadas, assim como as outras causas. A negligÍncia dos propriet•rios È um fator que contribui para o aparecimento de miÌases em c"es e os propriet•rios devem receber orientaÁıes por parte dos veterin•rios. Mais estudos sobre miÌases em c"es devem ser realizados para identificar mais fatores predisponentes a serem utilizados nos programas preventivos. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 3</head><label>3</label><figDesc>Mentioning frequency by veterinary clinicians about most infested body regions in dogs presenting C. hominivorax larvae infestation and presented to veterinary establishments of the Northern and Western Zones of Rio de Janeiro</figDesc><table><row><cell>DOGS</cell><cell cols="2">MENTIONING FREQUENCY BY VETERINARY</cell></row><row><cell></cell><cell cols="2">CLINICIANS (%)</cell></row><row><cell></cell><cell>Northern Zone</cell><cell>Western Zone</cell></row><row><cell>Pure breed</cell><cell>48</cell><cell>44</cell></row><row><cell>Adult</cell><cell>59</cell><cell>54</cell></row><row><cell>Long-haired</cell><cell>56</cell><cell>51</cell></row><row><cell>Dark-haired</cell><cell>68</cell><cell>58</cell></row><row><cell>No preference for sex</cell><cell>49</cell><cell>58</cell></row><row><cell>Living in houses</cell><cell>99</cell><cell>83</cell></row><row><cell>City in 2000</cell><cell></cell><cell></cell></row><row><cell>BODY REGION</cell><cell cols="2">MENTIONING FREQUENCY BY</cell></row><row><cell></cell><cell cols="2">VETERINARY CLINICIANS (%)</cell></row><row><cell></cell><cell>Northern Zone</cell><cell>Western Zone</cell></row><row><cell>Ears</cell><cell>59</cell><cell>45</cell></row><row><cell>Perianal region</cell><cell>14</cell><cell>8</cell></row><row><cell>Lumbar</cell><cell>6</cell><cell>9</cell></row><row><cell>Limbs</cell><cell>6</cell><cell>10</cell></row><row><cell>No preference</cell><cell>4</cell><cell>1</cell></row><row><cell>Mouth</cell><cell>2</cell><cell>6</cell></row><row><cell>Neck</cell><cell>2</cell><cell>0</cell></row><row><cell>Dorsal</cell><cell>2</cell><cell>10</cell></row><row><cell>Genital region</cell><cell>2</cell><cell>4</cell></row><row><cell>Pinna</cell><cell>0</cell><cell>4</cell></row><row><cell>Fingers</cell><cell>1</cell><cell>1</cell></row><row><cell>Head</cell><cell>1</cell><cell>0</cell></row><row><cell>Thorax</cell><cell>1</cell><cell>0</cell></row><row><cell>Mammary glands</cell><cell>0</cell><cell>1</cell></row><row><cell>Did not know</cell><cell>0</cell><cell>1</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 2 )</head><label>2</label><figDesc>, byInquiry of cases of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000</figDesc><table><row><cell>CAUSES</cell><cell cols="3">MENTIONING FREQUENCY BY VETERINARY</cell></row><row><cell></cell><cell></cell><cell cols="2">CLINICIANS (%)</cell></row><row><cell></cell><cell></cell><cell>Northern Zone</cell><cell>Western Zone</cell></row><row><cell>Otitis</cell><cell></cell><cell>58</cell><cell>45</cell></row><row><cell>Dermatitis</cell><cell></cell><cell>17</cell><cell>15</cell></row><row><cell>Unknown</cell><cell></cell><cell>9</cell><cell>10</cell></row><row><cell>Fights</cell><cell></cell><cell>3</cell><cell>12</cell></row><row><cell cols="2">Perianal sacs inflammation</cell><cell>6</cell><cell>6</cell></row><row><cell>Tartar</cell><cell></cell><cell>1</cell><cell>4</cell></row><row><cell>Did not know to answer</cell><cell></cell><cell>1</cell><cell>3</cell></row><row><cell>Post parturition</cell><cell></cell><cell>1</cell><cell>3</cell></row><row><cell>Genital secretion</cell><cell></cell><cell>1</cell><cell>1</cell></row><row><cell>No cause more frequent</cell><cell></cell><cell>2</cell><cell>0</cell></row><row><cell>Dirt and lack of hygiene</cell><cell></cell><cell>1</cell><cell>0</cell></row><row><cell>Trampling</cell><cell></cell><cell>1</cell><cell>0</cell></row><row><cell>Ulcerated tumor</cell><cell></cell><cell>0</cell><cell>1</cell></row><row><cell>Pododermatitis</cell><cell></cell><cell>0</cell><cell>1</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Cramer-Ribeiro, B.C. et al.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We would like to thank the <rs type="funder">Veterinary Medicine Regional Council of Rio de Janeiro City</rs> (<rs type="affiliation">CRMV-RJ</rs>) for providing the list with addresses of the veterinary establishments of the city. Thanks also go to veterinary clinicians that answered our formularies.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fortes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Artropodologia</surname></persName>
+		</author>
+		<title level="m">FORTES, E. Parasitologia veterin•ria. S&quot;o Paulo: Õcone</title>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="557" to="559" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the neotropical region -bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimar√es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimar√es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>PlÍiade</publisher>
+			<biblScope unit="page">97</biblScope>
+		</imprint>
+	</monogr>
+	<note>Myiasis caused by obligatory parasites</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">The merck veterinary manual</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Aiello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Aiello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>National Publishing</publisher>
+			<biblScope unit="page" from="650" to="653" />
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Parasitic Skin Diseases</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the neotropical region -bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimar√es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimar√es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>PlÍiade</publisher>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+	<note>Generalities about myiasis in the Neotropical Region</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Intestinal Myiasis in a Dog</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Manch"n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Yb¡-Ez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Alonso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Record</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="479" to="480" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Urquhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Armour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Jennings</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Entomologia Veterin•ria ; Urquhart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Armour</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Duncan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Dunn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Jennings</surname></persName>
+		</author>
+		<title level="m">Parasitologia veterin•ria</title>
+		<meeting><address><addrLine>Rio de Janeiro</addrLine></address></meeting>
+		<imprint>
+			<publisher>Guanabara Koogan</publisher>
+			<date type="published" when="1990">1990</date>
+			<biblScope unit="page">170</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">DoenÁas parasit•rias da pele</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Griffin</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kirk</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>W. B. Saunders</publisher>
+			<biblScope unit="page" from="423" to="427" />
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>dermatologia de pequenos animais</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Campo Grande: ColÈgio Brasileiro de Parasitologia Veterin•ria</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cochliomyia hominivorax (Coquerel, 1858): classificaÁ&quot;o, distribuiÁ&quot;o e biologia</title>
+		<meeting><address><addrLine>Campo Grande. Anais</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1979">1979. 1979</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="337" to="340" />
+		</imprint>
+	</monogr>
+	<note>SEMIN¡RIO NACIONAL SOBRE PARASITOSES DOS BOVINOS</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Wound myiasis caused by Cochliomyia hominivorax in Libya</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">M E</forename><surname>El-Azazy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Record</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="page">103</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Un cas de myiase auriculaire due a Cochliomyia hominivorax chez un chien</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chermette</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Prigent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Bourdeau</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="volume">158</biblScope>
+			<biblScope unit="page" from="583" to="587" />
+		</imprint>
+	</monogr>
+	<note>Recueil de MÈdecine VÈtÈrinaire</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">DoenÁas Parasit•rias</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Willemse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">WILLEMSE, T. Dermatologia clÌnica de c&quot;es e gatos. S&quot;o Paulo: Manole</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="27" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Efic•cia Comprovada no Controle de Bernes e MiÌase. InovaÁ&quot;o: NotÌcias Novartis para o Mercado Pet</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Burt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Lufenuron</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Efic•cia profil•tica de doramectin contra infestaÁıes naturais por Cochliomyia hominivorax (Coquerel, 1858) em bovinos apÛs castraÁ&quot;o. Revista Brasileira de Parasitologia Veterin•ria</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename><surname>Gon«alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Rew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S F</forename><surname>Silva</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="7" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Pediatria veterin•ria: c&quot;es e gatos atÈ 6 meses de idade</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Foil</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pele</surname></persName>
+		</author>
+		<editor>HOSKINS, J. D</editor>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<publisher>Manole</publisher>
+			<biblScope unit="page" from="242" to="243" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Levantamento dos Casos de MiÌase por Cochliomyia hominivorax em Gatos Atendidos em ClÌnicas e ConsultÛrios Veterin•rios da Zona Oeste do MunicÌpio do Rio de Janeiro no Ano 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C C</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CONGRESSO INTERNACIONAL DE MEDICINA FELINA</title>
+		<meeting><address><addrLine>Rio de Janeiro. Anais</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+	<note>Rio de Janeiro: Hotel GlÛria, 2001a., CD-Rom</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">InquÈrito sobre os casos de miÌases por C. hominivorax e D. hominis em c&quot;es e gatos atendidos no Centro do MunicÌpio do Rio de Janeiro no ano 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C C</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Rocco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JORNADA DE INICIA«√O CIENTÕFICA</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="145" to="148" />
+			<date type="published" when="2001">2001. 2001</date>
+			<publisher>Universidade Federal Rural do Rio de Janeiro</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A melhor receita para o totÛ</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scholz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veja</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page">169</biblScope>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Pessoas imunocomprometidas e animais de estimaÁ&quot;o. ClÌnica Veterin•ria, ano VI</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Bahr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Morais</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="17" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Distribution and Abundance of Necrophagous Flies (Diptera: Calliphoridae and Sarcophagidae) in Maranhao, Northeastern Brazil</title>
+				<funder ref="#_vpYyk69">
+					<orgName type="full">Fundac ¸a ˜o de Pesquisa do estado do Maranha ˜o, Process: Universal</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-06-15">2015-06-15</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pereira De Sousa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">F</forename><forename type="middle">D S</forename><surname>Carvalho-Filho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>4</label> Biological Sciences Institute , Universidade Federal do Para ´ , Bele ´m-PA , Brazil</note>
+								<orgName type="department">Biological Sciences Institute</orgName>
+								<orgName type="institution">Universidade Federal do Para ´</orgName>
+								<address>
+									<settlement>Bele ´m-PA</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Distribution and Abundance of Necrophagous Flies (Diptera: Calliphoridae and Sarcophagidae) in Maranhao, Northeastern Brazil</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Insect Science</title>
+						<title level="j" type="abbrev">Journal of Insect Science</title>
+						<idno type="eISSN">1536-2442</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">15</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="70" to="70"/>
+							<date type="published" when="2015-06-15" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">60C71609FD807085DFA308AE017314E7</idno>
+					<idno type="DOI">10.1093/jisesa/iev054</idno>
+					<note type="submission">Received 5 March 2015; accepted 19 May 2015.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>blow fly</term>
+					<term>flesh fly</term>
+					<term>insect sampling</term>
+					<term>neotropical region</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study aimed at surveying the local calliphorid and sarcophagid species in Maranha ˜o State (Brazil) to determine their distribution and abundance, as well as the distribution of exotic Chrysomya species. In total, 18,128 calliphorid specimens were collected, distributed in 7 genera and 14 species. The species Hemilucilia semidiaphana (Rondani, 1850) and Paralucilia paraensis (Mello, 1969)  were new state records. Chrysomya albiceps (Wiedemann, 1819) and Cochliomyia macellaria (F., 1775) were the most abundant species, and the exotic species of Chrysomya together contributed more than 50% of total blow fly abundance. The abundance distribution of the calliphorid community conformed to a log series model, characterized by a steep curve that reflects an assemblage with a high degree of dominance. For the Sarcophagidae, a total of 14,810 specimens were collected and distributed in 15 genera, 11 subgenera, and 52 species. Tricharaea (Sarcophagula) occidua (F., 1794) and Peckia (Sarcodexia) lambens (Wiedemann, 1830) were the most abundant species. The abundance distribution of the species followed a log normal model, with a gentler slope, consistent with a more uniform community. The cumulative species curve for the sarcophagids did not reach the asymptote. Forty-three sarcophagid species were new state records and 22 were new records for the Brazilian northeast, which emphasizes the need for a continued survey in this region.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Flies of the families Calliphoridae and Sarcophagidae are ecologically and forensically important, due to the fact that the larvae of many species feed on dead organic matter, acting as decomposers and potential indicators of the postmortem interval <ref type="bibr" target="#b72">(Rivers and Dahlem 2014)</ref>. From a medical and sanitary viewpoint, the adults are potential vectors of pathogens <ref type="bibr" target="#b33">(Greenberg 1971)</ref>, while the larvae of some species parasitize humans and other vertebrates, causing myiasis, known as blowfly strike <ref type="bibr" target="#b90">(Zumpt 1965</ref><ref type="bibr" target="#b39">, Hall and Wall 1995</ref><ref type="bibr" target="#b36">, Guimara ˜es and Papavero 1999)</ref>.</p><p>There are 1,525 known calliphorid species belonging to 97 genera <ref type="bibr" target="#b64">(Pape et al. 2011)</ref>, of which 130 species are known to occur in the Neotropical Region <ref type="bibr" target="#b7">(Carvalho and Mello-Patiu 2008)</ref> and 38 in Brazil <ref type="bibr" target="#b57">(Mello 2003</ref><ref type="bibr" target="#b43">, Kosmann et al. 2013)</ref>. During the 1970s, the composition of the calliphorid fauna of the Americas was affected by the invasion of three exotic species of the genus Chrysomya, originally from the Old World <ref type="bibr" target="#b26">(Ferreira 1978</ref><ref type="bibr" target="#b37">, Guimara ˜es et al. 1978</ref><ref type="bibr" target="#b45">, Linhares 1981</ref><ref type="bibr">, Paraluppi and Castello ´n 1994)</ref>. Since this time, these species, Chrysomya albiceps (Wiedemann), C. megacephala (F., 1794), and C. putoria <ref type="bibr">(Wiedemann, 1818)</ref>, have become very abundant in Brazil and have come to predominate in both urban environments and forest fragments, where they have even displaced native species, such as Cochliomyia macellaria <ref type="bibr">(F., 1775)</ref> and Lucilia eximia (Wiedemann, 1819) <ref type="bibr" target="#b27">(Ferreira 1979</ref><ref type="bibr" target="#b28">(Ferreira , 1983;;</ref><ref type="bibr" target="#b38">Guimara ˜es et al. 1979;</ref><ref type="bibr">Paraluppi and Castello ´n 1994;</ref><ref type="bibr" target="#b19">Esposito 1997</ref>). A fourth species of Chrysomya, C. rufifacies <ref type="bibr">(Macquart, 1843)</ref>, has been discovered in Brazil, in the states of Maranha ˜o <ref type="bibr">(Silva et al. 2012a</ref>) and Rio de Janeiro <ref type="bibr" target="#b71">(Ribeiro et al. 2013)</ref>. However, <ref type="bibr" target="#b32">Grella et al. (2015)</ref> concluded that the specimens identified as C. rufifacies represent a polymorphic form of the species C. albiceps and that C. rufifacies does not yet occur in Brazil.</p><p>The sarcophagids are a more diverse group, with a total of 3,094 species, distributed in 173 genera <ref type="bibr" target="#b64">(Pape et al. 2011</ref>) and three subfamilies <ref type="bibr">(Miltogrammatinae, Paramacronychiinae, and Sarcophaginae)</ref>. Approximately 800 species are known to occur in the Neotropics, and 350 have been recorded in Brazil <ref type="bibr" target="#b62">(Pape 1996</ref><ref type="bibr" target="#b1">, Amorim et al. 2002)</ref>. The subfamily Sarcophaginae is the richest in species and the most diverse, in biological terms, with approximately 1,800 known species and 51 genera, which have been recorded in all biogeographic regions and are common in the New World <ref type="bibr" target="#b73">(Shewell 1987</ref><ref type="bibr" target="#b62">, Pape 1996</ref><ref type="bibr" target="#b63">, Pape et al. 2006</ref>). Most species are most effectively identified based on the characteristics of the male genitalia <ref type="bibr" target="#b7">(Carvalho and Mello-Patiu 2008)</ref>.</p><p>Most of the available studies of the geographic distribution and occurrence of calliphorid and sarcophagid species in Brazil have focused on the southern and southeastern regions <ref type="bibr" target="#b87">(Viana and Pinheiro 1998;</ref><ref type="bibr" target="#b44">Leandro and D'Almeida 2005;</ref><ref type="bibr" target="#b30">Furusawa and Cassino 2006;</ref><ref type="bibr" target="#b24">Ferraz et al. 2009</ref><ref type="bibr">Ferraz et al. , 2010b;;</ref><ref type="bibr" target="#b77">Souza and Von Zuben 2012;</ref><ref type="bibr" target="#b5">Cabrini et al. 2013;</ref><ref type="bibr" target="#b71">Ribeiro et al. 2013)</ref>, as well as the northern region <ref type="bibr" target="#b6">(Carvalho and Couri 1991;</ref><ref type="bibr">Paraluppi and Castello ´n 1994;</ref><ref type="bibr" target="#b65">Paraluppi 1996;</ref><ref type="bibr" target="#b13">Couri et al. 2000;</ref><ref type="bibr">Esposito et al. 2009</ref><ref type="bibr" target="#b23">Esposito et al. , 2010;;</ref><ref type="bibr" target="#b78">Sousa et al. 2010</ref><ref type="bibr" target="#b79">Sousa et al. , 2011))</ref>, while few studies are available for the other Brazilian regions, as the midwest <ref type="bibr" target="#b31">(Gomes et al. 2000</ref><ref type="bibr" target="#b2">, Barros et al. 2008</ref><ref type="bibr">, Corre ˆa et al. 2010</ref><ref type="bibr" target="#b42">, Koller et al. 2011</ref>) and the northeast <ref type="bibr">(Vasconcelos and Araujo 2012</ref><ref type="bibr">, Silva et al. 2012b</ref><ref type="bibr" target="#b86">, Vasconcelos et al. 2013</ref><ref type="bibr" target="#b85">, Vasconcelos and Salgado 2014)</ref> and many areas have yet to be surveyed.</p><p>The Brazilian state of Maranha ˜o not only covers a vast area but is also characterized by a remarkable diversity of habitats due to its location in the transition zone between the Amazon, Cerrado, and Caatinga biomes <ref type="bibr" target="#b0">(Ab'Saber 1977</ref><ref type="bibr" target="#b60">, Muniz 2006</ref>), a scenario that has stimulated considerable interest from zoologists. Given the lack of data on the fauna of calliphorids and sarcophagids found in Maranha ˜o, this study aimed to survey the local species and determine their distribution and abundance, as well as the distribution and abundance of the exotic Chrysomya species found in the state.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head><p>Study Area. The survey was conducted at 105 sites located in 19 municipalities distributed throughout the state of Maranha ˜o (Table <ref type="table" target="#tab_0">1</ref>; Fig. <ref type="figure" target="#fig_0">1</ref>), in northeastern Brazil, between the coordinates 01 01' to 10 21' S and 41 48' to 48 40' W. The specimens were collected in traps designed specifically for the capture of saprophagous dipterans, containing 50 g of cow's lung as bait <ref type="bibr" target="#b26">(Ferreira 1978</ref>). The traps were set at three to nine sites in each municipality in <ref type="bibr">July-October 2009</ref><ref type="bibr">, August-October 2010</ref><ref type="bibr">, January, April, and October 2011</ref><ref type="bibr">, and February, May, and November 2012.</ref> Between 15 and 30 traps were set at each site, which was considered to be a sampling unit, and were replicated at a minimum distance of 2 km from one another.</p><p>The calliphorid specimens were identified using the taxonomic keys of Guimara ˜es <ref type="bibr">(1977)</ref>, <ref type="bibr" target="#b17">Dear (1985)</ref>, <ref type="bibr" target="#b8">Carvalho and Ribeiro (2000)</ref>, <ref type="bibr" target="#b57">Mello (2003)</ref>, <ref type="bibr" target="#b7">Carvalho and Mello-Patiu (2008)</ref>, and <ref type="bibr" target="#b43">Kosmann et al. (2013)</ref>. The sarcophagid specimens were identified using the specific keys for the genera Oxysarcodexia <ref type="bibr" target="#b47">(Lopes 1946, Lopes and</ref><ref type="bibr" target="#b52">Tibana 1987)</ref> and Peckia (Buenaventura and Pape 2013), as well as other studies, which despite not presenting identification keys as such, do provide illustrations of the genitalia of some genera, that permit an accurate identification of the taxa <ref type="bibr" target="#b46">(Lopes 1939</ref><ref type="bibr" target="#b48">(Lopes , 1958</ref><ref type="bibr" target="#b49">(Lopes , 1976</ref><ref type="bibr" target="#b50">(Lopes , 1989;;</ref><ref type="bibr" target="#b80">Tibana 1976</ref><ref type="bibr" target="#b81">Tibana , 1981;;</ref><ref type="bibr" target="#b51">Lopes and Tibana 1982;</ref><ref type="bibr" target="#b82">Tibana and Xerez 1985;</ref><ref type="bibr" target="#b35">Guimara ˜es 2004)</ref>. This process was further refined by comparisons with voucher specimens deposited in the entomological collection of the Museu Paraense Emı ´lio Goeldi (MPEG) in Bele ´m, Para ´(Brazil).</p><p>The specimens collected in this study were deposited in the MPEG entomological collection, in the Museu de Zoologia da Universidade Federal do Para ´, also in Bele ´m, and in the teaching collection of the Prof. Cle ´sio Fonseca Laboratory of Zoology at the Universidade Estadual do Maranha ˜o in Imperatriz, Maranha ˜o (Brazil).</p><p>Data Analysis. The efficiency of the sampling of the calliphorid and sarcophagid species in the study area was verified using cumulative species curves derived from a first-order nonparametric Jackknife procedure <ref type="bibr" target="#b11">(Colwell and Coddington 1994)</ref>, with one thousand randomizations based on the number of study sites <ref type="bibr" target="#b10">(Colwell 2013)</ref>. The Jackknife 1 estimator is based on the richness of the rarest species, using the formula Jackknife ¼ Sobs þ L (n À 1/n), where Sobs ¼ the number of species observed overall, L ¼ the number of species found in a single sample, and n ¼ the number of samples <ref type="bibr" target="#b61">(Palmer 1991</ref><ref type="bibr" target="#b10">, Colwell 2013)</ref>.</p><p>The estimates of species richness were calculated in EstimateS, version 9.0 <ref type="bibr" target="#b10">(Colwell 2013)</ref>.</p><p>The calliphorid and sarcophagid species were classified in three categories (common, intermediate, and rare), based on their occurrence at the study sites surveyed in Maranha ˜o. The analysis of the records was based on indices of frequency and constancy <ref type="bibr" target="#b76">(Silveira-Neto et al. 1976)</ref>.</p><p>The Frequency Index (FI) is the proportion of individuals of a given species in relation to the total sample, FI ¼ n i /N, where n i ¼ the number of specimens of species i and N ¼ the total number of specimens collected. Based on the FI values, the species were classified as dominant (D) or nondominant (ND). Dominant species were those with a FI value higher than 1/S, where S is species richness, i.e., the total number of species in the community.</p><p>The Constancy Index (CI) is the percentage of samples in which a given species was present, CI ¼ p*100/N, where p ¼ the number of samples in which the species was recorded and N ¼ the total number of samples. This analysis considered the 105 study sites as individual samples. Based on their CI values, the species were classified as constant (CT), when present in more than 50% of the samples (CI &gt; 0.50), accessory (AS) when present in 25-50% of the samples (CI ¼ 0.25-0.50), and accidental (AC) when found in fewer than 25% of samples (CI &lt; 0.25). The species were classified based on the combination of these two indices, as common (DþCT), intermediate (DþAS; DþAC; NDþCT; NDþAS), and rare (NDþAC).</p><p>The species were classified in decreasing order of abundance and these data were compared with four mathematical models of abundance distribution, i.e., geometric, log series, log-normal, and broken stick, to determine the best fit of the data collected. The fit was determined using Chi-square, considering P &lt; 0.05 <ref type="bibr" target="#b55">(Magurran 1988</ref>). These analyses were run in the program Species Diversity and Richness 3.0 <ref type="bibr" target="#b41">(Henderson and Seaby 2002)</ref> and the graphs were produced in Past <ref type="bibr" target="#b40">(Hammer et al. 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>In total, 18,128 calliphorid specimens were collected during this study, representing 3 subfamilies (Chrysomyinae, Luciliinae, and Mesembrinellinae), 7 genera, and 14 species, 10 of which were chrysomyines. The species Hemilucilia semidiaphana (Rondani, 1850) and Paralucilia paraensis <ref type="bibr">(Mello, 1969)</ref> were recorded for the first time in the state of Maranha ˜o (Table <ref type="table" target="#tab_1">2</ref> the most abundant species, and the exotic species of the genus Chrysomya together contributed more than 50% of total abundance. The abundance distribution of the calliphorid community produced a best fit with the log series distribution (Fig. <ref type="figure">2a</ref>: v 2 ¼ 12.185; P ¼ 0.430; df ¼ 12). In contrast, the abundance values recorded for the species of this family did not adjust to the geometric (Fig. <ref type="figure">2b</ref>: v 2 ¼ 995.511; P &lt; 0.05; df ¼ 14), broken stick (Fig. <ref type="figure">2c</ref>: v 2 ¼ 246.508; P &lt; 0.05; df ¼ 14) or log normal (Fig. <ref type="figure">2d</ref>: v 2 ¼ 6.191; P &lt; 0.05; df ¼ 12) models.</p><p>The cumulative species curve based on the total sample of the calliphorids had reached the asymptote by the end of the study (Fig. <ref type="figure">3</ref>), with sampling efficiency (observed species richness divided by estimated   1 1 4 2 7 4 0 5 3 6 6 7 9 9 2 1 0 5 Samples (Areas) 0 5 10 15 20 25 30 Observed (Mao tau) and estimated (Jackknife 1) richness Mao Tau Jackknife 1 Fig. 3. Cumulative species richness curves (observed, Mao Tau, and estimated, Jackknife 1) for the calliphorids sampled in Maranha ˜o, Brazil, 2009-2012.</p><p>richness) of 94%, which indicates that sampling effort was sufficient for the reliable measurement of the species richness of the Calliphoridae in the study area.</p><p>Based on the classification of the frequency and constancy of the different species, four calliphorids (28.5% of the total fauna) were considered to be common in Maranha ˜o, two species (14.3%) were classified as intermediate, and eight (57.2%) as rare (Table <ref type="table" target="#tab_0">1</ref>). The species C. albiceps, Co. macellaria, C. megacephala, and Chloroprocta idioidea (Robineau-Desvoidy, 1830) were all considered to be common, given that they were both dominant and constant, being found at more than half of the sites surveyed.</p><p>The species L. eximia and C. putoria were classified as intermediate, due to the fact that they were not considered to be dominant. The rare group (nondominant and accidental) included three species of the genus Hemilucilia: H. semidiaphana, H. segmentaria (F., 1805), and H. benoisti Se ´guy, 1925 and two of the genus Mesembrinella Giglio-Tos 1893: Mesembrinella bicolor (F., 1805) and Mesembrinella batesi <ref type="bibr">(Aldrich, 1922)</ref>.</p><p>In the case of the Sarcophagidae, a total of 14,810 specimens were collected, all of which were sarcophagines, distributed in 15 genera, 11 subgenera, and 52 species. Forty-three of these species had not previously been recorded in Maranha ˜o and 22 were not known to occur in the Brazilian northeast. Tricharaea (Sarcophagula) occidua (F., 1794) and Peckia (Sarcodexia) lambens (Wiedemann, 1830) were the most abundant species (Table <ref type="table" target="#tab_2">3</ref>).</p><p>The best fit for the abundance distribution of the sarcophagids was the log normal model (Fig. <ref type="figure">4a</ref>: v 2 ¼ 2.289; P ¼ 0.999; df ¼ 13), whereas the data were not consistent with the geometric (Fig. <ref type="figure">4b</ref>: v 2 ¼ 24,864.8; P &lt; 0.05; df ¼ 50), log series (Fig. <ref type="figure">4c</ref>: v 2 ¼ 40.261; P &lt; 0.05; df ¼ 13), or broken stick (Fig. <ref type="figure">4d</ref>: v 2 ¼ 2.153; P &lt; 0.05; df ¼ 13) models.</p><p>The cumulative species curve for the sarcophagids did not reach the asymptote and was still rising at the end of the study period (Fig. <ref type="figure">5</ref>). However, sampling efficiency (observed species richness divided by estimated richness) was 78%, indicating that the sampling effort was sufficient for the measurement of the species richness of necrophagous sarcophagids in the study area.</p><p>Three sarcophagid species (6% of the total) were considered to be common, 5 (9%) intermediate, and the remaining 44 (85%) rare. The common species, T. (S.) occidua, Pe. (S.) lambens, and Pe. (Peckia) chrysostoma (Wiedemann), 1830, were both dominant and constant, being not only abundant but also recorded at a high proportion of the study sites (Table <ref type="table" target="#tab_1">2</ref>). Even though Oxysarcodexia intona (Curran and Walley, 1934) and O. thornax (Walker, 1849) were dominant species, they were classified as intermediate due to their accessory status, being recorded at between 25% and 50% of the study sites. Pe. (Squamatodes) ingens (Walker, 1849) and Pe. (Peckia) pexata (Wulp, 1895), both considered to be accessory, and Pe. (Euboettcheria) collusor (Curran and Walley 1934), which was constant, were all classified as intermediate species because they were not dominant.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The known calliphorid fauna of Maranha ˜o represents 35% of the total number of species predicted to occur in Brazil by <ref type="bibr" target="#b57">Mello (2003)</ref> and <ref type="bibr" target="#b43">Kosmann et al. (2013)</ref>. The estimates of the species richness of the calliphorids (Jackknife 1 and Mao Tau) indicate that the sampling effort was sufficient for the inventory of the full diversity of necrophagous species present within the study area. The number of species recorded was similar to that found in other Brazilian states, such as Para <ref type="bibr">(Esposito et al. 2009, 17 species)</ref>, Amazonas <ref type="bibr">(Sousa et al. 2010, 16 species)</ref>, Rio Grande do Sul <ref type="bibr">(Viana and Pinheiro 1998, 13 species)</ref>, Sa ˜o Paulo <ref type="bibr">(Cabrini et al. 2013, 13 species)</ref>, Roraima <ref type="bibr" target="#b6">(Carvalho and Couri 1991</ref>, nine species), Mato Grosso (Esposito and Carvalho-Filho 2009, seven species), and Pernambuco (Vasconcelos and Salgado 2014, six species). In the state of Rio de Janeiro, however, <ref type="bibr" target="#b25">Ferraz et al. (2010)</ref> recorded the highest species richness (26 species), equivalent to 68% of the total found in Brazil.</p><p>Low species richness of the calliphorid fauna was registered in other regions of South America, such as Argentina, where <ref type="bibr" target="#b9">Centeno et al. (2004)</ref> recorded 12 species in Hudson, and <ref type="bibr" target="#b56">Mariluis et al. (2008)</ref> and <ref type="bibr" target="#b67">Patitucci et al. (2011)</ref> recorded four and six species, respectively, in Patagonia. <ref type="bibr" target="#b3">Beltran et al. (2012)</ref> recorded six species in Bogota</p><p>´, Colombia.</p><p>Of the 14 calliphorid species collected in this study, 10 were chrysomyines, 59% of the 17 species of this subfamily known to occur in Brazil <ref type="bibr" target="#b43">(Kosmann et al. 2013)</ref>. Similarly, of the four species of Hemilucilia found in Brazil <ref type="bibr" target="#b17">(Dear 1985</ref><ref type="bibr" target="#b43">, Kosmann et al. 2013)</ref>, three (H. semidiaphana, H. segmentaria, and H. benoisti) were recorded in Maranha ˜o. In contrast, only one of the four species of the genus Paralucilia known to occur in Brazil (P. paraensis) was collected in this study.</p><p>In the Neotropical region, the only calliphorid species that is an obligate parasite of live tissue (i.e., a source of primary myiasis) is Co. hominivorax (Coquerel, 1858) <ref type="bibr" target="#b38">(Guimara ˜es et al. 1983</ref><ref type="bibr" target="#b17">, Dear 1985)</ref>. Despite this habit, Co. hominivorax also been captured using this type of bait in a number of previous studies <ref type="bibr" target="#b87">(Viana and Pinheiro 1998</ref><ref type="bibr">, Esposito et al. 2009</ref><ref type="bibr" target="#b25">, Ferraz et al. 2010</ref><ref type="bibr">, Sousa et al. 2010)</ref>.</p><p>The subfamily Luciliinae was represented by only two species, of which, L. eximia is a common species in Brazil, being found in rural areas and forests <ref type="bibr" target="#b26">(Ferreira 1978</ref><ref type="bibr" target="#b45">, Linhares 1981</ref><ref type="bibr" target="#b54">, Madeira et al. 1982</ref><ref type="bibr">, Sousa et al. 2010)</ref>. Six species of the genus Lucilia are known to occur in Brazil <ref type="bibr" target="#b8">(Carvalho and Ribeiro 2000</ref><ref type="bibr" target="#b43">, Kosmann et al. 2013</ref><ref type="bibr" target="#b88">, Whitworth 2014)</ref>.</p><p>The subfamily Mesembrinellinae was represented by the species M. bicolor and M. batesi. The mesembrinelline flies are found exclusively in the Neotropics, where they are represented by 30 species, 14 of which occur in Brazil <ref type="bibr" target="#b34">(Guimara ˜es 1977</ref><ref type="bibr" target="#b43">, Kosmann et al. 2013</ref>). These flies are found in natural habitats, such as dense, humid forests <ref type="bibr" target="#b68">(Peris and Mariluis 1984)</ref>.</p><p>The calliphorid fauna recorded in Maranha ˜o was similar to that found in other Brazilian states, especially given that two of the four common species were exotic members of the genus Chrysomya (C. albiceps and C. megacephala), with a third member of this genus (C. putoria) being found among the intermediate species. However, C. albiceps predominated considerably over C. megacephala and C. putoria at most study sites.</p><p>The abundance distribution of the calliphorid community conformed to a log series model, characterized by a steep curve that reflects an assemblage with a high degree of dominance. The log series model <ref type="bibr" target="#b29">(Fisher et al. 1943)</ref> implies that the communities are not independent and require high rates of immigration to maintain their high number of rare species <ref type="bibr" target="#b70">(Preston 1948)</ref>. In these communities characterized by a high degree of dominance and low levels of abundance in the majority of species, the model predicts a smaller number of species than that observed <ref type="bibr" target="#b55">(Magurran 1988)</ref>.</p><p>The predominance of C. albiceps in comparison with other Chrysomya species has been attributed to the feeding behavior of its larvae, which are predators of the immature stages of other dipterans <ref type="bibr" target="#b58">(Mello et al. 1997)</ref>, as well as their short development period, with the larvae incorporating the maximum possible quantity of food during the shortest possible period of time <ref type="bibr">(Prado and Guimara ˜es 1982)</ref>.</p><p>The species Co. macellaria (common) and L. eximia (intermediate) are important components of the necrophilous fly fauna of South America, although the presence of Chrysomya species has been shown to interfere with their abundance. A number of studies have indicated that the exotic species C. albiceps may be responsible for the displacement or reduction in the abundance of the native species through competition <ref type="bibr" target="#b38">(Guimara ˜es et al. 1979</ref><ref type="bibr">, Prado and Guimara ˜es 1982</ref><ref type="bibr" target="#b15">, D'Almeida and Fraga 2007)</ref>. The species Ch. idioidea, which is also considered to be common, is also an important component of the calliphorid fauna and has been collected at a number of different sites in Brazil <ref type="bibr">(Esposito et al. 2009</ref><ref type="bibr" target="#b23">(Esposito et al. , 2010;;</ref><ref type="bibr" target="#b24">Ferraz et al. 2009;</ref><ref type="bibr" target="#b78">Sousa et al. 2010)</ref>.</p><p>The rare calliphorid species include two members of the genus Hemilucilia Brauer, 1985, which are typical of forest habitats (D'Almeida and <ref type="bibr" target="#b16">Lopes 1983)</ref>. The species H. semidiaphana is considered to be hemisynanthropic <ref type="bibr" target="#b87">(Viana and Pinheiro 1998)</ref>. The species M. bicolor and M. batesi and all the other mesembrinellines are considered to be asynanthropic, in contrast, due to the fact that they are found exclusively in forest and apparently do not breed in any of the decomposing substrates so common in anthropogenic environments <ref type="bibr" target="#b34">(Guimara ˜es 1977</ref><ref type="bibr" target="#b26">, Ferreira 1978)</ref>. They were recorded in the Amazon forest zone in this study.</p><p>The number of sarcophagid species recorded in Maranha ˜o represents only around 15% of the total number of species predicted for Brazil. The estimates of species richness (Jackknife 1 and Mao Tau) indicate that the sampling effort was not sufficient for a reliable estimate of sarcophagid species richness, based on the criteria of <ref type="bibr" target="#b83">Toti et al. (2000)</ref>. However, the sampling efficiency of 78% indicates that a large proportion of the local species were recorded, at least the necrophagous species. Even so, given the large number of species known to occur in the Neotropical region, including Brazil <ref type="bibr" target="#b62">(Pape 1996</ref><ref type="bibr" target="#b64">, Pape et al. 2011)</ref>, and the fact that the members of this family occupy an ample diversity of habitats and are members of several different guilds (not all species are regular visitors of decomposing meat), it seems likely that  1 1 4 2 7 4 0 5 3 6 6 7 9 9 2 1 0 5 Samples (Areas) 0 10 20 30 40 50 60 70 80 Observed (Mao tau) and estimated (Jackknife 1) richness Mao Tau Jackknife 1 Fig. 5. Cumulative species richness curves (observed, Mao Tau, and estimated, Jackknife 1) for the sarcophagids sampled in Maranha ˜o, Brazil, 2009-2012.</p><p>additional sampling within the study area will result in an increase in the number of sarcophagid species known to occur in Maranha ˜o. The confirmation of new records of 43 species for Maranha ˜o and 22 for the Brazilian Northeast reinforces the need for further surveys in this region. The sarcophagid fauna of the New World is more diverse than that of the Old World, in terms of the number of species and genera, and the Neotropical region is the most diverse of all <ref type="bibr" target="#b73">(Shewell 1987</ref><ref type="bibr" target="#b62">, Pape 1996</ref><ref type="bibr" target="#b64">, Pape et al. 2011)</ref>. Approximately 800 species have been recorded in the Neotropics, of which, 350 are known to occur in Brazil <ref type="bibr" target="#b62">(Pape 1996</ref><ref type="bibr" target="#b1">, Amorim et al. 2002)</ref>. Even so, it seems likely that these numbers will continue to grow as new surveys are conducted.</p><p>Considering that the common sarcophagid species, T. (S.) occidua and Pe. (S.) lambens, predominate over all other species, including the other common species, Pe. (Peckia) chrysostoma, reinforces their importance as components of the necrophagous sarcophagid fauna of Maranha ˜o. However, the abundance distribution of the species followed a log normal model, with a gentler slope, consistent with a more uniform community.</p><p>The species Pe. (S.) lambens was also the most abundant sarcophagid on Maraca ´Island in the Brazilian state of Roraima <ref type="bibr" target="#b53">(Lopes and Tibana 1991)</ref> and in the Serra do Navio in Amapa ´ <ref type="bibr" target="#b13">(Couri et al. 2000</ref>), whereas T. (S.) occidua was the most abundant species at the sites surveyed in Argentina <ref type="bibr" target="#b59">(Mulieri et al. 2008)</ref>. These two species are able to adapt to a diversity of environments and have been recorded in both open habitats and forests <ref type="bibr" target="#b59">(Mulieri et al. 2008</ref><ref type="bibr" target="#b79">, Sousa et al. 2011)</ref>.</p><p>The sarcophagid species classified as intermediate included Pe. (E.) collusor and Pe. (S.) ingens, which are capable of adapting to an ample diversity of environments. For example, Pe. (E.) collusor has been collected in areas of forest <ref type="bibr" target="#b45">(Linhares 1981</ref><ref type="bibr" target="#b14">, D'Almeida 1984</ref><ref type="bibr" target="#b18">, Dias et al. 1984</ref><ref type="bibr" target="#b89">, Yepes-Gaurisas et al. 2013)</ref> as well as more open habitats <ref type="bibr" target="#b79">(Sousa et al. 2011)</ref>. Similarly, Pe. (S.) ingens has been found in both forests <ref type="bibr" target="#b86">(Vasconcelos et al. 2013</ref>) and more open areas, such as clearings <ref type="bibr" target="#b79">(Sousa et al. 2011)</ref>.</p><p>The large proportion of rare species (85% of the total) found in the sample reinforces the need for further surveys, which should increase the number of necrophagous sarcophagid species known to occur in the state of Maranha ˜o.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Location of the municipalities surveyed in the different mesoregions of the Brazilian state of Maranha ˜o between 2009 and 2012.</figDesc><graphic coords="3,137.71,132.95,336.69,351.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .Fig. 3 .</head><label>23</label><figDesc>Fig. 2. Models of the abundance distribution of calliphorid species in Maranha ˜o: (a) log series, (b) geometric, (c) broken stick, and (d) log normal.</figDesc><graphic coords="4,101.65,55.79,408.68,358.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 4 .Fig. 5 .</head><label>45</label><figDesc>Fig. 4. Models of the abundance distribution of saprophagid species in Maranha ˜o: (a) log series, (b) geometric, (c) broken stick, and (d) log normal.</figDesc><graphic coords="7,77.61,55.79,456.92,364.37" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>). C. albiceps and Co. macellaria were Municipalities surveyed in the different mesoregions (Fig.1) of the Brazilian state of Maranha ˜o between 2009 and 2012</figDesc><table><row><cell>Municı ´pio</cell><cell cols="2">Geographic coordinates</cell><cell>Mesoregion</cell><cell>Study sites</cell><cell>Number of traps</cell></row><row><cell></cell><cell>South</cell><cell>West</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Carolina</cell><cell>07 12' 58.8''</cell><cell>47 25' 54.6''</cell><cell>South Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Riacha ˜o</cell><cell>07 25' 40.1''</cell><cell>46 45' 3.06''</cell><cell>South Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Balsas</cell><cell>07 27' 4.44"</cell><cell>46 24' 57.02"</cell><cell>South Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Estreito</cell><cell>06 33' 39"</cell><cell>47 27' 0.3"</cell><cell>South Maranha ˜o</cell><cell>9</cell><cell>18</cell></row><row><cell>Esperantino ´polis</cell><cell>04 55' 09.02''</cell><cell>44 57' 09.43''</cell><cell>Central Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Poc ¸a ˜o de Pedras</cell><cell>04 49' 10.95''</cell><cell>44 55' 35.55''</cell><cell>Central Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Lago do Junco</cell><cell>04 36' 14.3''</cell><cell>45 01' 03.44''</cell><cell>Central Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Cajari</cell><cell>03 19' 18.03''</cell><cell>44 52' 13.06''</cell><cell>North Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell cols="2">Cajapio ´0 2 50' 19.98''</cell><cell>44 40' 42.72''</cell><cell>North Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Viana</cell><cell>03 12' 39.7''</cell><cell>44 56' 59.3''</cell><cell>North Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Cedral</cell><cell>01 57' 44.3''</cell><cell>44 30' 41.6''</cell><cell>North Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Guimaraes</cell><cell>02 05' 20.3''</cell><cell>44 33' 11.7''</cell><cell>North Maranha ˜o</cell><cell>6</cell><cell>30</cell></row><row><cell>Ca ˆndido Mendes</cell><cell>01 25' 54.39''</cell><cell>45 30' 45.12''</cell><cell>West Maranha ˜o</cell><cell>3</cell><cell>15</cell></row><row><cell cols="2">Turiac ¸u ´0 1 31' 07.4''</cell><cell>45 25' 47.2''</cell><cell>West Maranha ˜o</cell><cell>3</cell><cell>15</cell></row><row><cell>Centro Novo do Maranha ˜o</cell><cell>03 37' 09.1''</cell><cell>46 43' 22.6''</cell><cell>West Maranha ˜o</cell><cell>9</cell><cell>45</cell></row><row><cell>Bom Jardim</cell><cell>04 00' 53.04''</cell><cell>46 46' 48.99''</cell><cell>West Maranha ˜o</cell><cell>3</cell><cell>15</cell></row><row><cell>Cidela ˆndia</cell><cell>05 07' 39.9''</cell><cell>47 45' 37.0''</cell><cell>West Maranha ˜o</cell><cell>3</cell><cell>15</cell></row><row><cell>Vila Nova dos Martı ´rios</cell><cell>05 11' 09.4''</cell><cell>47 56' 41.1''</cell><cell>West Maranha ˜o</cell><cell>3</cell><cell>15</cell></row><row><cell>Imperatriz</cell><cell>05 31' 33''</cell><cell>47 28' 38''</cell><cell>West Maranha ˜o</cell><cell>6</cell><cell>36</cell></row><row><cell>Total</cell><cell></cell><cell></cell><cell></cell><cell>105</cell><cell>504</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Composition and total abundance of the calliphorid species found in the study area inMaranha ˜o,  Brazil, between 2009 and 2012    </figDesc><table><row><cell>Species</cell><cell></cell><cell cols="2">Frequency index</cell><cell></cell><cell></cell><cell>CI</cell><cell></cell><cell>Category</cell><cell>New occurrence a</cell></row><row><cell></cell><cell>AA</cell><cell>FI %</cell><cell>1/S %</cell><cell>C</cell><cell>O</cell><cell>CI%</cell><cell>C</cell><cell></cell><cell></cell></row><row><cell>C. albiceps</cell><cell>7,326</cell><cell>40.41</cell><cell>7.14</cell><cell>D</cell><cell>101</cell><cell>96.19</cell><cell>CT</cell><cell>Common</cell><cell></cell></row><row><cell>Co. macellaria</cell><cell>4,787</cell><cell>26.41</cell><cell>7.14</cell><cell>D</cell><cell>99</cell><cell>94.29</cell><cell>CT</cell><cell>Common</cell><cell></cell></row><row><cell>C. megacephala</cell><cell>2,199</cell><cell>12.13</cell><cell>7.14</cell><cell>D</cell><cell>72</cell><cell>68.57</cell><cell>CT</cell><cell>Common</cell><cell></cell></row><row><cell>Ch. idioidea</cell><cell>1,910</cell><cell>10.54</cell><cell>7.14</cell><cell>D</cell><cell>65</cell><cell>61.90</cell><cell>CT</cell><cell>Common</cell><cell></cell></row><row><cell>L. eximia</cell><cell>1,065</cell><cell>5.87</cell><cell>7.14</cell><cell>ND</cell><cell>61</cell><cell>58.10</cell><cell>CT</cell><cell>Intermediate</cell><cell></cell></row><row><cell>C. putoria</cell><cell>363</cell><cell>2.00</cell><cell>7.14</cell><cell>ND</cell><cell>51</cell><cell>48.57</cell><cell>AS</cell><cell>Intermediate</cell><cell></cell></row><row><cell>M. bicolor</cell><cell>242</cell><cell>1.33</cell><cell>7.14</cell><cell>ND</cell><cell>14</cell><cell>13.33</cell><cell>AC</cell><cell>Rare</cell><cell></cell></row><row><cell>H. semidiaphana</cell><cell>190</cell><cell>1.05</cell><cell>7.14</cell><cell>ND</cell><cell>17</cell><cell>16.19</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell></row><row><cell>P. paraensis</cell><cell>17</cell><cell>0.09</cell><cell>7.14</cell><cell>ND</cell><cell>8</cell><cell>7.62</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell></row><row><cell>Co. hominivorax</cell><cell>11</cell><cell>0.06</cell><cell>7.14</cell><cell>ND</cell><cell>8</cell><cell>7.62</cell><cell>AC</cell><cell>Rare</cell><cell></cell></row><row><cell>L. sericata</cell><cell>10</cell><cell>0.06</cell><cell>7.14</cell><cell>ND</cell><cell>3</cell><cell>2.86</cell><cell>AC</cell><cell>Rare</cell><cell></cell></row><row><cell>H. segmentaria</cell><cell>6</cell><cell>0.03</cell><cell>7.14</cell><cell>ND</cell><cell>4</cell><cell>3.81</cell><cell>AC</cell><cell>Rare</cell><cell></cell></row><row><cell>H. benoisti</cell><cell>1</cell><cell>0.01</cell><cell>7.14</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell></cell></row><row><cell>M. batesi</cell><cell>1</cell><cell>0.01</cell><cell>7.14</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell></cell></row><row><cell>Total</cell><cell>18,128</cell><cell>100</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>2</cell></row><row><cell cols="2">AA, absolute abundance</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>; FI, Frequency Index; S, observed species richness; C, class; O, occurrence; D, dominant; ND, not dominant; CT, constant; AS, accessory; AC, accidental.</p><p>a New occurrence of species in Maranha ˜o.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Composition and total abundance of the sarcophagid species found in the study area inMaranha ˜o, Brazil, between 2009 and 2012    </figDesc><table><row><cell>Species</cell><cell></cell><cell cols="2">Frequency index</cell><cell></cell><cell></cell><cell>CI</cell><cell></cell><cell>Category</cell><cell cols="2">New occurrence (NO)</cell></row><row><cell></cell><cell>AA</cell><cell>FI %</cell><cell>1/S %</cell><cell>C</cell><cell>O</cell><cell>CI%</cell><cell>C</cell><cell></cell><cell>NO a</cell><cell>NO b</cell></row><row><cell>Tricharaea (Sarcophagula) occidua</cell><cell>8,452</cell><cell>57.07</cell><cell>1.92</cell><cell>D</cell><cell>70</cell><cell>66.67</cell><cell>CT</cell><cell>Common</cell><cell></cell><cell></cell></row><row><cell>Pe. (Sarcodexia) lambens</cell><cell>2,562</cell><cell>17.30</cell><cell>1.92</cell><cell>D</cell><cell>84</cell><cell>80.00</cell><cell>CT</cell><cell>Common</cell><cell></cell><cell></cell></row><row><cell>Pe. (Peckia) chrysostoma</cell><cell>1,249</cell><cell>8.43</cell><cell>1.92</cell><cell>D</cell><cell>92</cell><cell>87.62</cell><cell>CT</cell><cell>Common</cell><cell>X</cell><cell></cell></row><row><cell>O. intona</cell><cell>905</cell><cell>6.11</cell><cell>1.92</cell><cell>D</cell><cell>45</cell><cell>42.86</cell><cell>AS</cell><cell>Intermediate</cell><cell></cell><cell></cell></row><row><cell>Oxysarcoxia thornax</cell><cell>358</cell><cell>2.42</cell><cell>1.92</cell><cell>D</cell><cell>41</cell><cell>39.05</cell><cell>AS</cell><cell>Intermediate</cell><cell>X</cell><cell></cell></row><row><cell>Pe. (Euboettcheria) collusor</cell><cell>266</cell><cell>1.80</cell><cell>1.92</cell><cell>ND</cell><cell>53</cell><cell>50.48</cell><cell>CT</cell><cell>Intermediate</cell><cell>X</cell><cell></cell></row><row><cell>Pe. (Squamatodes) ingens</cell><cell>146</cell><cell>0.99</cell><cell>1.92</cell><cell>ND</cell><cell>35</cell><cell>33.33</cell><cell>AS</cell><cell>Intermediate</cell><cell>X</cell><cell></cell></row><row><cell>Pe. (Pattonella) intermutans</cell><cell>129</cell><cell>0.87</cell><cell>1.92</cell><cell>ND</cell><cell>20</cell><cell>19.05</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Sarcofahrtiopsis cuneata</cell><cell>109</cell><cell>0.74</cell><cell>1.92</cell><cell>ND</cell><cell>8</cell><cell>7.62</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>O. fringidea</cell><cell>105</cell><cell>0.71</cell><cell>1.92</cell><cell>ND</cell><cell>16</cell><cell>15.24</cell><cell>AC</cell><cell>Rare</cell><cell></cell><cell></cell></row><row><cell>Pe. (Peckia) pexata</cell><cell>86</cell><cell>0.58</cell><cell>1.92</cell><cell>ND</cell><cell>28</cell><cell>26.67</cell><cell>AS</cell><cell>Intermediate</cell><cell>X</cell><cell></cell></row><row><cell>O. amorosa</cell><cell>67</cell><cell>0.45</cell><cell>1.92</cell><cell>ND</cell><cell>17</cell><cell>16.19</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>O. modesta</cell><cell>53</cell><cell>0.36</cell><cell>1.92</cell><cell>ND</cell><cell>17</cell><cell>16.19</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>O. timida</cell><cell>53</cell><cell>0.36</cell><cell>1.92</cell><cell>ND</cell><cell>18</cell><cell>17.14</cell><cell>AC</cell><cell>Rare</cell><cell></cell><cell></cell></row><row><cell>Ravinia effrenata</cell><cell>49</cell><cell>0.33</cell><cell>1.92</cell><cell>ND</cell><cell>11</cell><cell>10.48</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Pe. (Euboettcheria) anguilla</cell><cell>28</cell><cell>0.19</cell><cell>1.92</cell><cell>ND</cell><cell>16</cell><cell>15.24</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Helicobia morionella</cell><cell>27</cell><cell>0.18</cell><cell>1.92</cell><cell>ND</cell><cell>12</cell><cell>11.43</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Helicobia pilifera</cell><cell>25</cell><cell>0.17</cell><cell>1.92</cell><cell>ND</cell><cell>13</cell><cell>12.38</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>O. avuncula</cell><cell>14</cell><cell>0.09</cell><cell>1.92</cell><cell>ND</cell><cell>5</cell><cell>4.76</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Pe. (Squamatodes) trivittata</cell><cell>13</cell><cell>0.09</cell><cell>1.92</cell><cell>ND</cell><cell>5</cell><cell>4.76</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Tricharaea (Sarcophagula) canuta</cell><cell>13</cell><cell>0.09</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Retrocitomyia mizuguchiana</cell><cell>12</cell><cell>0.08</cell><cell>1.92</cell><cell>ND</cell><cell>10</cell><cell>9.52</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Ravinia belforti</cell><cell>9</cell><cell>0.06</cell><cell>1.92</cell><cell>ND</cell><cell>7</cell><cell>6.67</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Retrocitomyia urumajoensis</cell><cell>9</cell><cell>0.06</cell><cell>1.92</cell><cell>ND</cell><cell>6</cell><cell>5.71</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Pe. (Peckia) uncinata</cell><cell>8</cell><cell>0.05</cell><cell>1.92</cell><cell>ND</cell><cell>5</cell><cell>4.76</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Argoravinia rufiventris</cell><cell>6</cell><cell>0.04</cell><cell>1.92</cell><cell>ND</cell><cell>3</cell><cell>2.86</cell><cell>AC</cell><cell>Rare</cell><cell></cell><cell></cell></row><row><cell>O. bakeri</cell><cell>6</cell><cell>0.04</cell><cell>1.92</cell><cell>ND</cell><cell>4</cell><cell>3.81</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Helicobia rapax</cell><cell>5</cell><cell>0.03</cell><cell>1.92</cell><cell>ND</cell><cell>3</cell><cell>2.86</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Villegasia almeidai</cell><cell>5</cell><cell>0.03</cell><cell>1.92</cell><cell>ND</cell><cell>5</cell><cell>4.76</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>O. admixta</cell><cell>4</cell><cell>0.03</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Titanogrypa (Cucullomyia) larvicida</cell><cell>4</cell><cell>0.03</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Helicobia aurescens</cell><cell>3</cell><cell>0.02</cell><cell>1.92</cell><cell>ND</cell><cell>3</cell><cell>2.86</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Malacophagomyia filamenta</cell><cell>3</cell><cell>0.02</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>O. vilosa</cell><cell>3</cell><cell>0.02</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Blaesoxipha (Gigantotheca) stallengi</cell><cell>2</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Dexosarcophaga (Bezzisca) tupinamba</cell><cell>2</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell></cell><cell></cell></row><row><cell>Dexosarcophaga (Farrimyia) carvalhoi</cell><cell>2</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell></cell><cell></cell></row><row><cell>Helicobia pilipleura</cell><cell>2</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Helicobia setinervis</cell><cell>2</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Sarcophaga (Lipoptilocnema) misella</cell><cell>2</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>2</cell><cell>1.90</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Dexosarcophaga hugoi</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Helicobia borgmeieri</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>O. aurea</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Oxysarcodexia sp1</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell></cell><cell></cell></row><row><cell>Pe. (Euboettcheria) subducta</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Pe. (Pattonella) pallidipilosa</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Peckiamyia abnormalis</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Retrocitomyia retrocita</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Sarcophaga (Lipoptilocnema) crispula</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell></cell></row><row><cell>Sarcophaga (Neobellieria) polistensis</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Titanogrypa (Airypel) cryptopyga</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Titanogrypa (Cucullomyia) luculenta</cell><cell>1</cell><cell>0.01</cell><cell>1.92</cell><cell>ND</cell><cell>1</cell><cell>0.95</cell><cell>AC</cell><cell>Rare</cell><cell>X</cell><cell>X</cell></row><row><cell>Total</cell><cell>14,810</cell><cell>100</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>43</cell><cell>22</cell></row><row><cell cols="11">AA, absolute abundance; FI, frequency index; S, observed species richness; C, class; O, occurrence; D, dominant; ND, not dominant; CT, constant; AS, acces-</cell></row><row><cell>sory; AC, accidental.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>a New occurrence of species in Maranha ˜o. b New occurrence of species in Northeast Brazil.</p></note></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We are grateful to the <rs type="programName">Reforestation Program for the Area of Permanent Preservation</rs> of the Estreito hydroelectric reservoir in the municipality of Estreito in Maranha ˜o, coordinated by <rs type="person">Dr. Paulo Henrique Araga ˜o Catunda</rs> of the Agronomy course at the <rs type="institution">Universidade Estadual do Maranha ˜o in Imperatriz, Maranha ˜o (Brazil)</rs>. This work was supported by the <rs type="funder">Fundac ¸a ˜o de Pesquisa do estado do Maranha ˜o, Process: Universal</rs> <rs type="grantNumber">APP-01180/2010</rs>. Thanks also to <rs type="institution">Universidade Estadual do Maranha ˜o</rs> for providing a doctoral stipend to the first author.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_vpYyk69">
+					<idno type="grant-number">APP-01180/2010</idno>
+					<orgName type="program" subtype="full">Reforestation Program for the Area of Permanent Preservation</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Os domı ´nios morfoclima ´ticos na Ame ´rica do Sul</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Ab'saber</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Geomorfologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1" to="21" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Estado do Conhecimento dos Diptera Neotropicais</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I P A</forename><surname>Balbi</surname></persName>
+		</author>
+		<editor>C. Costa, S. A. Vanin, J. M. Lobo, and A. Melic</editor>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>PRIBES. Sociedad Entomolo ´gica Aragoneza</publisher>
+			<biblScope unit="page" from="29" to="36" />
+			<pubPlace>Zaragoza, Spain</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Sarcophagidae (Insecta, Diptera) associados a? decomposic ¸a ˜o de carcac ¸as de Sus scrofa Linnaeus (Suidae) em a ´rea de Cerrado do Distrito Federal</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="606" to="609" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in Bogota ´, Colombia</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">T P</forename><surname>Beltran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Segura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Bello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="237" to="242" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Revision of the New World genus Peckia Robineau-Desvoidy (Diptera: Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Buenaventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<imprint>
+			<biblScope unit="volume">3622</biblScope>
+			<biblScope unit="page" from="1" to="87" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Richness and composition of Calliphoridae in an Atlantic Forest fragment: implication for the use of dipteran species as bioindicators</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cabrini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Grela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodivers. Conserv</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="2635" to="2643" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Muscidae, Fanniidae and Calliphoridae (Dı ´ptera) do Projeto Maraca ´, Roraima</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Acta Amaz</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="35" to="43" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Keys to the adults of the most common forensic species of Diptera in South America</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Chave de identificac ¸a ˜o das espe ´cies de Calliphoridae (Diptera) do sul do Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diversity of Calliphoridae (Insecta: Diptera) in Hudson</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Centeno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Almorza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Arnillas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="387" to="390" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Argentina</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Estimates: statistical estimation of species richness and shared species from samples. Version 9</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Colwell</surname></persName>
+		</author>
+		<ptr target="http://purl.oclc.org/estimates" />
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Connecticut, USA</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Connecticut</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Estimating terrestrial biodiversity through extrapolation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Colwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Coddington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos. Trans. R. Soc. Lond. B Biol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="101" to="118" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Abundancia relativa e sazonalidade de espe ´cies de Chrysomya (Diptera: Calliphoridae) no Pantanal Sul Mato -Grossense</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev. Bras. Parasitol. Vet</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="85" to="88" />
+			<date type="published" when="2010">2010. 2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Dı ´pteros da Serra do Navio (Amapa ´, Brasil): Asilidae, Bolbilidae, Calliphoridae, Micropezidae, Muscidae, Sarcophagidae, Stratiomyiidae, Syrphidae, Tabanidae and Tachinidae</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J E</forename><surname>Lamas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C C A</forename><surname>Aires</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Maia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Pamplona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Magno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Zoocie ˆnc</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="91" to="100" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="101" to="110" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Efeito de diferentes iscas na atrac ¸a ˜o de califorı ´deos (Diptera) no Campus do Valonguinho</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>D'almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Fraga</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev. Bras. Parasitol. Vet</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="199" to="204" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal Fluminense</orgName>
+		</respStmt>
+	</monogr>
+	<note>RJ Nitero ´i</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Sinantropia de dı ´pteros caliptratos (Calliphoridae) no Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Univ. Fed. Rural Rio de Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A revision of the new world Chrysomyini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Zool</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="169" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Estudos sobre a fauna de Sarcophagidae (Diptera) de Belo Horizonte, Minas Gerais. I. Levantamento taxono ˆmico e sinantro ´pico</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="83" to="91" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">The exotic species of Chrysomya (Diptera, Calliphoridae) in the Amazonia: why they don&apos;t occur in the Ferreira Penna Cientific Station</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Caxiuana ˜. CNPq-Museu Paraense Emı ´lio Goeldi, Bele ´m</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">L B</forename><surname>Lisboa</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Para ´, Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="361" to="367" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+		<title level="m">Moscas Varejeiras</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="30" to="32" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Os Animais da Tanguro Mato Grosso-Diversidade na Zona de Transic ¸a ˜o entre Floresta Amazo ˆnica e o Cerrado. Museu Paraense Emı ´lio Goeldi, Bele ´m</title>
+		<editor>A.C.M. Oliveira, J. B. Santos, and M. C. Santos</editor>
+		<imprint>
+			<pubPlace>Para ´, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Diversidade de Calliphoridae (Insecta, Diptera) em ambientes de matas e pro ´ximos de habitac ¸o ˜es da Estac ¸a ˜o Cientı ´fica Ferreira Penna (ECFPn)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R P</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Caxiuana ˜: Desafios para a Conservac ¸a ˜o de uma Floresta na Amazo ˆnia</title>
+		<editor>
+			<persName><forename type="first">P</forename><forename type="middle">L B</forename><surname>Lisboa</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Para ´, Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="461" to="469" />
+		</imprint>
+	</monogr>
+	<note>Melgac ¸o/PA, e da cidade de Portel/PA</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Diversidade de Calliphoridae (Insecta: Diptera) na base de extrac ¸a ˜o petrolı ´fera da Bacia do Rio Urucu, na Amazo ˆnia brasileira</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R P</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Amaz</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="579" to="584" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Ana ´lise faunı ´stica de Calliphoridae (Diptera) da Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C P</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="620" to="628" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C P</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Braz. J. Biol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="55" to="63" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Sinantropia de dı ´pteros musco ´ides de Curitiba, Parana ´. I. Calliphoridae</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Sinantropia de dı ´pteros musco ´ides de Curitiba, Parana ´. II. Sarcophagidae</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="773" to="781" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Sinantropia de Calliphoridae (Diptera) em Goia ˆnia, Goia ´s</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="199" to="210" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">The relation between the number of species and the number of individuals in a random sample of an animal population</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Corbet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Anim. Ecol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="42" to="58" />
+			<date type="published" when="1943">1943</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Ocorre ˆncia e distribuic ¸a ˜o da Calliphoridae (Dı ´ptera, Oestroidea) em um fragmento de Mata Atla ˆntica secunda ´ria no municı ´pio de Engenheiro Paulo de Frontin, Me ´dio Paraı ´ba</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Furusawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C R</forename><surname>Cassino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Rev. Biol. Cie ˆnc. Terra</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="152" to="164" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Sazonalidade da moscavarejeira, Cochliomyia macellaria (Dı ´ptera: Calliphoridae) na regia ˜o dos cerrados</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Parasitol. Vet</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="125" to="128" />
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Campo Grande, MS</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Phenotypic polymorphism of Chrysomya albiceps (Wiedemann) (Diptera: Calliphoridae) may lead to species misidentification</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Grella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Savino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Paulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Mendes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Trop</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="60" to="72" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Flies and disease-ecology, classification and biotic association</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>University Press</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">856</biblScope>
+			<pubPlace>New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">A systematic revision of the Mesembrinellidae, stat. nov. (Diptera, Cyclorrapha)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Zool</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1" to="109" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Redescric ¸a ˜o dos machos de dez espe ´cies Neotropicais de Ravinia Robineau-Desvoidy, 1863 (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Mus. Nac. Rio de Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="45" to="66" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Myasis of man and animals in the neotropical region, 380 p. Editora Ple ˆiade</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Sa ˜o Paulo</publisher>
+			<pubPlace>Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Three newly introduced blowfly species in southern Brazil (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="53" to="60" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Dispersal and distribution of three newly introduced species of Chrysomya Robineau-Desvoidy in Brazil (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Buralli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Guimara ˜es</title>
+		<imprint>
+			<date type="published" when="1979">1979. 1983</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+		</imprint>
+	</monogr>
+	<note>As miı ´ases na regia ˜o Neotropical: identificac ¸a ˜o, biologia e bibliografia Rev. Bras. Zool.</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Myiasis of human and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">PAST. Paleontological statistics software package for education and data analysis</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Hammer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A T</forename><surname>Harper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Ryan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Palaeontol. Electron</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Henderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Seaby</surname></persName>
+		</author>
+		<title level="m">Species diversity and richness III v 3.0.2. Pisces Conservation Inc</title>
+		<meeting><address><addrLine>Lymington, UK.</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridae) in Southern Pantanal</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Corre ˆa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Rev. Bras. Parasitol. Vet</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="27" to="30" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">´ S</forename><surname>Harterreiten-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Levantamento de Calliphoridae, Fanniidae, Muscidae e Sarcophagidae em um fragmento de mata na Ilha do Governador</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J F</forename><surname>Leandro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Iheringia Ser. Zool</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="377" to="381" />
+			<date type="published" when="2005">2005</date>
+			<publisher>Rio de Janeiro</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas, Sa ˜o Paulo</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="189" to="215" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Contribuic ¸a ˜o ao conhecimento do ge ˆnero Helicobia Coquillett (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="497" to="517" />
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Contribuic ¸a ˜o ao conhecimento das espe ´cies do ge ˆnero Oxysarcodexia Townsend, 1917 (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bol. Esc. Nac. Vet</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="62" to="134" />
+			<date type="published" when="1946">1946</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Considerac ¸o ˜es sobre as espe ´cies de Peckia Desvoidy, 1830 e de ge ˆneros afins. (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">An. Acad. Bras. Cienc</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="211" to="239" />
+			<date type="published" when="1958">1958</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">On the holotypes, mostly females of Sarcophagidae (Diptera) described by Francis Walker</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="629" to="146" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">On American Sarcophagidae (Diptera) with revision of Pekiamyia Dodge</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="837" to="845" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Sarcophagid flies (Diptera) from Sinop, state of Mato Grosso</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="285" to="298" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">On Oxysarcodexia (Diptera, Sarcophagidae), with descriptions of five new species, key, list and geographic distribution of the species</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="329" to="347" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Sarcophagidae (Dı ´ptera) de Roraima</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Acta Amaz</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="151" to="159" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Contribuic ¸a ˜o ao conhecimento da fauna de Calliphoridae (Diptera) sinantro ´picos de Pampulha</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mascarenhas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="137" to="140" />
+			<date type="published" when="1982">1982</date>
+			<pubPlace>Belo Horizonte, Minas Gerais</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Magurran</surname></persName>
+		</author>
+		<title level="m">Ecological diversity and its measurement</title>
+		<meeting><address><addrLine>Princeton, NJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Princeton University Press</publisher>
+			<date type="published" when="1988">1988</date>
+			<biblScope unit="page">179</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) from wild, suburban, and urban sites at three Southeast Patagonian localities</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">P</forename><surname>Mulieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Patitucci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Soc. Entomol. Argent</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="107" to="114" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Chave para identificac ¸a ˜o das formas adultas das espe ´cies da famı ´lia Calliphoridae (Dı ´ptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol. Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Relac ¸o ˜es tro ´ficas entre dı ´pteros caliptrados (Calliphoridae, Faniidae, Muscidae and Sarcophagidae) encontrados no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M P</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol. Vectores</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="111" to="121" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Flesh flies species (Diptera: Sarcophagidae</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mulieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Torretta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reserve of Buenos Aires</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1287" to="1294" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Argentina. Rev. Biol. Trop.</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">A vegetac ¸a ˜o de transic ¸a ˜o entre a Amazo ˆnia e o nordeste: diversidade e estrutura</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Muniz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Se ´rie Agroecol. UEMA</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="53" to="69" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Estimating species richness: the second-order jackknife reconsidered</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Palmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="1512" to="1513" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Catalogue of the Sarcophagidae of the World (Insecta: Diptera)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Entomol. Int</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="558" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dahlem</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giroux</surname></persName>
+		</author>
+		<ptr target="http://www.zmuc.dk/entoweb/sarco-web/sarcweb/Intro/Intro.htm" />
+		<title level="m">The world of flesh flies (Diptera: Sarcophagidae)</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Animal biodiversity: an outline of higher-level classification and survey of taxonomic richness</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Blagoderov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mostovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Order Diptera Linnaeus</title>
+		<editor>
+			<persName><forename type="first">Z</forename><forename type="middle">Q</forename><surname>Zhang</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1758">2011. 1758</date>
+			<biblScope unit="volume">3148</biblScope>
+			<biblScope unit="page" from="1" to="237" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) da Bacia do Alto Rio Urucu, Amazo ˆnia Central</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Paraluppi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev. Bras. Zool</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Castello ´n. 1994. Calliphoridae (Diptera) em Manaus. I. Levantamento taxono ˆmico e sazonalidade</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Paraluppi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="661" to="668" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Species composition and heterogeneity of blowflies assemblages (Diptera: Calliphoridae) in urban-rural gradients at regional scale in Argentinean Patagonia</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Patitucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mulieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stud. Neotrop. Fauna Environ</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="49" to="58" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Notes on Mesembrinellidae</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Peris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EOS Rev. Esp. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="251" to="265" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Estado atual de dispersa ˜o e distribuic ¸a ˜o do ge ˆnero Chrysomya Robineau-Desvoidy na Regia ˜o Neotropical (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="225" to="231" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+	<note>Guimara ˜es</note>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">The commonness, and rarity, of species</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Preston</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="254" to="283" />
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">First Record of Chrysomya rufifacies (Macquart) (Diptera, Calliphoridae) in Southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Lessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="245" to="247" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title level="m" type="main">The science of forensic entomology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rivers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Dahlem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<biblScope unit="page">382</biblScope>
+			<pubPlace>Ltd., West Sussex, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Manual of Neartic Diptera</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ottawa, Canada</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="page" from="1159" to="1186" />
+		</imprint>
+	</monogr>
+	<note>Sarcophagidae</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">First record of Chrysomya rufifacies (Macquart) (Diptera, Calliphoridae) from Brazil</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Reis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="115" to="118" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Califorı ´deos (Diptera) de interesse forense colonizadores de cada ´veres de suı ´nos (Sus scrofa Linnaeus, 1758) em a ´rea de cerrado na A ´rea de Protec ¸a ˜o Ambiental (APA) Municipal do Inhamum</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Editora da Universidade Estadual do Maranha ˜o</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Barros</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="43" to="58" />
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Caxias, MA; Caxias</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Biodiversidade na a ´rea de protec ¸a ˜o ambiental municipal do Inhamum</note>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><surname>Silveira-Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Nakano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Barbin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Villa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Nova</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Manual de Ecologia de Insetos</title>
+		<imprint>
+			<biblScope unit="page">419</biblScope>
+			<date type="published" when="1976">1976</date>
+			<publisher>Sa ˜o Paulo</publisher>
+			<pubPlace>Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Diversity and synanthropy of Calliphoridae (Diptera) in the region of Rio Claro, SP, Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J V</forename><surname>Von Zuben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="243" to="248" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">A fauna de califorı ´deos (Dı ´ptera) das matas e clareiras com diferentes coberturas vegetais da Base de Extrac ¸a ˜o Petrolı ´fera, bacia do Rio Urucu</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R P</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="270" to="276" />
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Coari, Amazonas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Composition, abundance and richness of Sarcophagidae (Diptera: Oestroidea) in forests and forest gaps with different vegetation cover</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R P</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="20" to="27" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Duas redescric ¸o ˜es e uma descric ¸a ˜o de espe ´cie nova do ge ˆnero Helicobia (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="723" to="729" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Estudo sobre 7 espe ´cies de Helicobia Coquillett, 1895. (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="625" to="634" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Uma nova espe ´cie de Retrocitomyia Lopes, 1982, (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xerez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="485" to="488" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">A Structured inventory of Appalachian grass bald and heath bald spider assemblages and a test of species richness estimator performance</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Toti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Coyle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Arachn</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="329" to="345" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Necrophagous species of Diptera and Coleoptera in northeastern Brazil: state of the art and challenges for the forensic entomologist</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C S</forename><surname>Arau ´jo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="7" to="14" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">First record of six calliphoridae (diptera) species in a seasonally dry tropical forest in brazil: evidence for the establishment of invasive species</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Salgado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fla. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="814" to="816" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Dipterans associated with a decomposing animal carcass in a rainforest fragment in Brazil: notes on the early arrival and colonization by necrophagous species</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Salgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">145</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">Conservac ¸a ˜o da biodiversidade em fragmentos florestais</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Viana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A F V</forename><surname>Pinheiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Se ´rie Te ´cnica IPEF</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="25" to="42" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">A revision of the Neotropical species of Lucilia Robineau-Desvoidy (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Whitworth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<imprint>
+			<biblScope unit="volume">3810</biblScope>
+			<biblScope unit="page" from="1" to="76" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Sarcophagidae (Diptera) in La Pintada, Antioquia-Colombia</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yepes-Gaurisas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sanchez-Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Biol. Trop</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1275" to="1287" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

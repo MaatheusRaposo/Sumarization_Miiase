@@ -1,0 +1,16 @@
+# Nasal Myiasis
+Lindsey Baden
+Marco Baptista
+
+Clinics Hospital São Paulo , Brazil
+Clinics Hospital São Paulo
+
+Brazil, Clinics Hospital São Paulo , Brazil
+Clinics Hospital São Paulo
+
+Brazil
+
+Published on January 28, 2026
+
+T h e ne w e ngl a nd jou r na l o f m e dicine n engl j med 372;12 nejm.org march 19, 2015 e17 A 65-year-old man with chronic rhinosinusitis presented with a 7-day history of bleeding from his nose. His medical history included human immunodeficiency virus and hepatitis C virus coinfection and a CD4+ T-cell count of less than 200 per cubic millimeter, and he was not receiving antiretroviral treatment. He had undergone resection of a nasal inverted papilloma 5 years previously with the use of an endonasal approach and remained asymptomatic until the onset of the current symptoms. He reported a 6-day history of a continuous dull ache on the left side of his nose, extending over the maxillary sinus and infraorbital margin, associated with difficulty breathing, a foul smell, and orbital edema. Two days before the medical visit, he noted what appeared to be worms emerging from his left nostril. On nasal endoscopic examination, more than 100 maggots were found in the left nasal cavity, in the floor of the maxillary sinus, and near the eustachian tube and lacrimal duct (see video). The nasal mucosa was erythematous, edematous, ulcerated, and friable. The nasal myiasis was treated with local application of saline solution and daily removal of larvae, guided with the use of nasal endoscopy. After 4 days, the symptoms resolved, and flexible endoscopic examination confirmed that the maggots had been cleared from the nasal cavity. The maggots were identified as Cochliomyia hominivorax. At follow-up after 2 months, the patient had a healed nasal mucosa and no further symptoms.
+

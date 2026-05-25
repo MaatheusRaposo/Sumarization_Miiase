@@ -1,0 +1,2076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">UNIVERSIDADE ESTADUAL PAULISTA &quot;JULIO DE MESQUITA FILHO&quot; FACULDADE DE CIÊNCIAS AGRÁRIAS E VETERINÁRIAS CAMPUS DE JABOTICABAL ATIVIDADE TERAPÊUTICA DO SPINOSAD CONTRA LARVAS DE Cochliomyia hominivorax (L 1 , L 2 E L 3 ) EM BOVINOS INFESTADOS NATURAL E ARTIFICIALMENTE</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Carlos</forename><surname>André De Almeida</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Amos</forename><forename type="middle">Médico</forename><surname>Veterinário</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carlos</forename><surname>André</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Almeida</forename><surname>Amos</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Prof. Dr</roleName><forename type="first">José</forename><surname>Alvimar</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Da Costa</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Oliveira</forename><surname>Gilson</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Pereira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Alvimar</forename><surname>José Da Costa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gilson</forename><surname>Pereira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Fino</forename><forename type="middle">Vi</forename><surname>Dedicatória</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>à</label> JABOTICABAL -SÃO PAULO -BRASIL Dezembro de 2009 Dissertação apresentada Faculdade de Ciências Agrárias e Veterinárias -Unesp , Campus de Jaboticabal , como Dissertação (mestrado) -</note>
+								<orgName type="department">Faculdade de Ciências Agrárias e Veterinárias -Unesp</orgName>
+								<orgName type="institution">JABOTICABAL -SÃO</orgName>
+								<address>
+									<addrLine>Campus de Jaboticabal</addrLine>
+									<postCode>2009</postCode>
+									<settlement>PAULO -BRASIL Dezembro Dissertação (mestrado</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Universidade Estadual Paulista , Faculdade de Ciências Agrárias e Veterinárias , 2009 Oliveira Banca examinadora: Luciano Melo de Souza , Giane Serafim da Silva Bibliografia 1. Spinosad. 2 .</note>
+								<orgName type="department">Faculdade de Ciências Agrárias e Veterinárias</orgName>
+								<orgName type="institution">Universidade Estadual Paulista</orgName>
+								<address>
+									<addrLine>Giane Serafim da Silva Bibliografia 1. Spinosad. 2</addrLine>
+									<postCode>2009</postCode>
+									<settlement>Oliveira Banca examinadora: Luciano Melo de Souza</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Cochliomyia hominivorax. 3. Eficácia. Título. II. Jaboticabal -Faculdade de Ciências Agrárias e Veterinárias . Ficha catalográfica elaborada pela Seção Técnica de Aquisição e Tratamento da Informação - Serviço Técnico de Biblioteca e Documentação -UNESP , Câmpus de Jaboticabal .</note>
+								<orgName type="department" key="dep1">Cochliomyia hominivorax. 3. Eficácia. Título. II. Jaboticabal -Faculdade de Ciências Agrárias e Veterinárias</orgName>
+								<orgName type="department" key="dep2">Câmpus de Jaboticabal</orgName>
+								<orgName type="institution">Ficha catalográfica elaborada pela Seção Técnica de Aquisição e Tratamento da Informação - Serviço Técnico de Biblioteca e Documentação -UNESP</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>v</label> DADOS CURRICULARES DO AUTOR CARLOS ANDRÉ DE ALMEIDA AMOS , nascido em 01 de Dezembro de 1954 , no município de</note>
+								<orgName type="department">DADOS CURRICULARES DO AUTOR CARLOS</orgName>
+								<orgName type="institution">ANDRÉ DE ALMEIDA AMOS</orgName>
+								<address>
+									<postCode>1954</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<note type="raw_affiliation">Rio Claro -SP, é Médico Veterinário graduado pela Universidade estadual Paulista -UNESP , em Janeiro de 1980 .</note>
+								<orgName type="institution" key="instit1">Rio Claro -SP, é Médico Veterinário graduado pela Universidade estadual Paulista -UNESP</orgName>
+								<orgName type="institution" key="instit2">em Janeiro de 1980</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>1</label> Eli Lilly do Brasil Ltda</note>
+								<orgName type="department">Eli Lilly do Brasil Ltda</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<note type="raw_affiliation"><label>2</label> Lepecid BR Spay -Down Agrosciences Industrial Ltda.</note>
+								<orgName type="department">Lepecid BR Spay -Down Agrosciences Industrial Ltda</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff7">
+								<note type="raw_affiliation"><label>3</label> Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda .</note>
+								<orgName type="institution">Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">UNIVERSIDADE ESTADUAL PAULISTA &quot;JULIO DE MESQUITA FILHO&quot; FACULDADE DE CIÊNCIAS AGRÁRIAS E VETERINÁRIAS CAMPUS DE JABOTICABAL ATIVIDADE TERAPÊUTICA DO SPINOSAD CONTRA LARVAS DE Cochliomyia hominivorax (L 1 , L 2 E L 3 ) EM BOVINOS INFESTADOS NATURAL E ARTIFICIALMENTE</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">41524BB7E1D6740F6BE7F87DE9D83F2E</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Iniciou carreira profissional em 1980, atuou com assistência técnica a fazendas de leite e corte durante 13 anos, nas áreas de sanidade, reprodução, clínica médica, cirúrgica e medicina preventiva de rebanhos.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>xi LISTAS DE FIGURAS FIGURA Pág Figura 1. Ciclo de vida da Cochliomyia hominivorax (Diptera:Calliphoridae) (Fonte: <ref type="url" target="http://www.fao.org/DOCREP/U4220T/U4220T0A.HTM">http://www.fao.org/DOCREP/U4220T/U4220T0A.HTM</ref>)............... 4 Figura 2. Distribuição geográfica histórica e atual de Cochliomyia hominivorax....................................................................................... 8 Figura 3. Número de lesões infestadas por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos do Grupo Controle e Tratados (spinosad 1 50 e 150 ppm, chlorpyriphos 2 , chlorphenvinphos + dichlorvos 3 ). Formiga, MG, Brasil................... 41 Figura 4. Eficácia terapêutica do spinosad 1 250 e 400 ppm, chlorpyriphos 2 , chlorphenvinphos + dichlorvos 3 no tratamento de lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (miíases). Formiga, MG, Brasil.......................................................... 53 1 Eli Lilly do Brasil Ltda. 2 Lepecid BR Spay -Down Agrosciences Industrial Ltda. 3 Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda. xii LISTAS DE QUADROS QUADRO Pág Quadro 1. Eficácia terapêutica do spinosad 1 (50 e 150 ppm), administração local (spray), contra larvas de 1º estádio (L 1 ) de Cochliomyia hominivorax presentes em animais experimentalmente infestados, dos grupos controle e tratados. CPPAR/UNESP, Jaboticabal, SP, Brasil..................................................................... Quadro 2. Efeito do spinosad 1 (50 e 150 ppm) na interrupção da metamorfose em larvas de 1º estádio (L 1 ) de Cochliomyia hominivorax recolhidas ou desprendidas de miíases experimentais. CPPAR/UNESP, Jaboticabal, SP, Brasil.......... Quadro 3. Eficácia terapêutica do spinosad 1 (50 e 150 ppm), administração local (spray), contra larvas de 2º estádio (L 2 ) de Cochliomyia hominivorax presentes em animais experimentalmente infestados, dos grupos controle e tratados. CPPAR/UNESP, Jaboticabal, SP, Brasil..................................................................... Quadro 4. Efeito do spinosad 1 (50 e 150 ppm) na interrupção da metamorfose em larvas de 2º estádio (L 2 ) de Cochliomyia hominivorax recolhidas ou desprendidas de miíases experimentais. CPPAR/UNESP, Jaboticabal, SP, Brasil................ Quadro 5. Eficácia terapêutica do spinosad 1 (50 e 150 ppm), administração local (spray), contra larvas de 3º estádio (L 3 ) de Cochliomyia hominivorax presentes em animais experimentalmente infestados, dos grupos controle e tratados. CPPAR/UNESP, Jaboticabal, SP, Brasil........................................................... Quadro 6. Efeito do spinosad 1 (50 e 150 ppm) na interrupção da metamorfose em larvas de 3º estádio (L 3 ) de Cochliomyia hominivorax recolhidas ou desprendidas de miíases experimentais. CPPAR/UNESP, Jaboticabal, SP, Brasil................ Quadro 7. Evolução das lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (míiases) presentes em bovinos tratados com spinosad 1 (50 ppm). Formiga, MG, Brasil... Quadro 8. Evolução das lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com spinosad 1 (150 ppm). Formiga, MG, Brasil. Quadro 9. Evolução das lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (miíases) presente em bovinos tratados com chlorpyriphos 2 . Formiga, MG, Brasil............. QUADRO Pág Quadro 10. Evolução das lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com chlorfenvinphos + dichlorvos 3 . Formiga, MG, Brasil........................................................................................ Quadro 11. Evolução das lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos do Grupo Controle. Formiga, MG, Brasil............................ Quadro 12. Eficácia terapêutica do spinosad 1 (50 e 150 ppm), chlorpyriphos 2 e chlorphenvinphos + dichlorvos 3 no tratamento de lesões induzidas em bovinos e naturalmente infestados por larvas de Cochliomyia hominivorax (miíases). Formiga, MG, Brasil............... Quadro 13. Reinfestações por larvas de Cochliomyia hominivorax das lesões induzidas (miíases) nos bovinos dos grupos tratados. Formiga, MG, Brasil........................................................................................ Quadro 14. Dinâmica terapêutica dos tratamentos contra miíases provocadas por larvas de Cochliomyia hominivorax em bovinos naturalmente infestados. Formiga, MG, Brasil...................................................... Quadro 15. Valores médios* e resultados da análise da variância (dados transformados em "arco seno √Proporção de larvas *"), das ocorrências de miíases provocadas por larvas de Cochliomyia hominivorax presentes em bovinos dos grupos tratados e controle do Experimento II. Formiga, MG, Brasil............................. Quadro 16. Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com spinosad 1 (250 ppm). Formiga, MG, Brasil................................................................................................ Quadro 17. Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com spinosad 1 (400 ppm). Formiga, MG, Brasil................................................................................................ Quadro 18. Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com Chlorpyriphos 2 . Formiga, MG, Brasil................................................................................................ Quadro 19. Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com chlorphenvinphos + dichlorvos 3 . Formiga, MG, Brasi......................................................................................... Quadro 20. Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos do Grupo Controle. Formiga, MG, Brasil............................ QUADRO Pág Quadro 21. Eficácia terapêutica do spinosad 1 (250 e 400 ppm), chlorpyriphos 2 e chlorphenvinphos + dichlorvos 3 no tratamento de lesões induzidas em bovinos e naturalmente parasitadas por larvas Cochliomyia hominivorax (miíases). Formiga, MG, Brasil.... 52 Quadro 22. Reinfestações por larvas de Cochliomyia hominivorax das lesões induzidas (miíases) nos bovinos dos grupos tratados. Formiga, MG, Brasil....................................................................................... 54 Quadro 23. Ocorrência de posturas de Cochliomyia hominivorax em incisões tratadas com spinosad 1 (250 ppm e 400 ppm), chlorpyriphos 2 e chlorphenviphos + dichlorvos 3 e em feridas não tratadas (controle). Formiga, MG -Brasil...................................................... 55 Quadro 24. Dinâmica terapêutica dos tratamentos efetuados contra miíases provocadas por larvas de Cochliomyia hominivorax em bovinos infestados naturalmente. Formiga, MG, Brasil................................ 56 Quadro 25. Valores médios* e resultados da análise da variância (dados transformados em "arco seno √Proporção de larvas *"), das ocorrências de miíases provocadas por larvas de Cochliomyia hominivorax presentes em bovinos dos grupos tratados e controle do Experimento III. Formiga, MG, Brasil........................... 57 ATIVIDADE TERAPÊUTICA DO SPINOSAD CONTRA LARVAS DE Cochliomyia hominivorax (L 1 , L 2 E L 3 ) EM BOVINOS INFESTADOS NATURAL E ARTIFICIALMENTE RESUMO Três experimentos foram conduzidos, um com infestação artificial (I) e outros dois com infestação natural (II, III). No artificial (Exp. I), os animais foram distribuídos em 9 grupos, com três repetições/tratamento. Cada animal foi infestado com 50 larvas em quatro incisões cutâneas, totalizando 200/animal. As larvas L 1 foram infestadas com um intervalo de três a seis horas, de 24 e de 48 horas. Os grupos receberam os ).The results of the two experiments with natural infestation indicate that spinosad 50 and 150 ppm were not effective, showing effectiveness lower than 100%. However, spinosad 250 and 400 ppm reached 100% of efficacy were after 24 hours of the treatment, in which the 400 ppm concentration was already effective 12 hours within the end. Keywords: cattle, Cochliomyia hominivorax; efficacy; natural infestation, spinosad I. INTRODUÇÃO O Brasil assumiu na primeira década deste século lugar de destaque na produção e exportação de carne bovina. O efetivo bovino brasileiro sofreu redução de 3,0% entre 2006 e 2007, passando de 205,8 para 199,7 milhões de cabeças. A população tem a seguinte estratificação: região Centro-Oeste com a maior concentração, 34,09%; seguido pelo Sudeste 19,32%; Norte 18,96%, Nordeste 14,37% e Sul 13,27% (IBGE, 2007). Embora se tenha registrado queda no número de cabeças, sem dúvida, o Brasil ainda detém um dos maiores rebanhos comerciais de bovino do mundo sendo considerado o maior produtor de carne. O abate anual de animais estava em 44,4 milhões de cabeças em 2006 com uma previsão para 43,6 milhões para 2009 (CNPC). Entretanto, a crise mundial que se iniciou no segundo semestre de 2008, afetou diretamente estes números e o abate diminuiu. Mesmo com estas turbulências econômicas o Brasil é e continuará sendo um importante participante deste mercado, capaz de prover tanto o mercado interno, como o externo com uma expressiva capacidade de exportação. Neste contexto de crescimento e evolução, todos os elos da cadeia produtiva do setor buscam a maior eficiência, o que representa minimizar custos de benefícios. Isto implica em ter o máximo controle sobre riscos, e conseqüentes perdas. Dentre estes fatores podemos citar os parasitos, que diminuem o desempenho ou podem até levar o animal a morte.</p><p>Dentre estes parasitos encontra-se a Cochliomyia hominivorax, mosca cuja larva provoca grave lesão externa, sendo os prejuízos responsáveis pelas perdas em ganho de peso, produção de leite, atraso de crescimento, início de reprodução, merecendo atenção especial <ref type="bibr" target="#b43">(GRISI, et al, 2002)</ref>.</p><p>Como o controle sobre as parasitoses dos bovinos se tornou imprescindível na moderna indústria de produção de proteína animal, a procura por novos fármacos também tem-se tornado uma importante demanda para a indústria de saúde animal.</p><p>A ação inseticida do Spinosad, produto da fermentação aeróbica de um microrganismo actinomiceto presente no solo, que vem sendo amplamente explorada para o controle de pragas agrícolas, despertou o interesse na sua utilização no controle de parasitoses de animais. Suas características farmacológicas específicas de segurança e eficácia, o torna uma interessante opção de tratamento contra agentes considerados problemas na área da produção animal, desta forma, são necessários ensaios terapêuticos especialmente delineados para avaliar seu potencial para tal finalidade.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>II. REVISÃO BIBLIOGRÁFICA</head><p>A minima <ref type="bibr">(DEAR,1985)</ref>. As duas primeiras estão relacionadas a casos de miíases, isto é, infestação de tecidos vivos de vertebrados por larvas de moscas. Entretanto a que apresenta maior importância é a C. hominivorax <ref type="bibr" target="#b36">(FAO, 1993)</ref>.</p><p>A C. hominivorax apresenta varias denominações: mosca da bicheira ou mosca varejeira (língua portuguesa), Screwworm (lígua inglesa) e Gusano barreador (língua espanhola) <ref type="bibr" target="#b46">(GUIMARÃES et al, 1983)</ref>.</p><p>O parasitismo por Cochliomyia hominivorax é de caráter obrigatório no período larval, sendo o principal díptero Calliphoridae causador de miíase em animais no novo mundo. Infesta os tecidos secos ao redor das lesões, principalmente bovinos, caprinos, ovinos, suínos e outros animais, incluindo os silvestres e seres humanos.</p><p>Assim, o efeito de repelência atribuído a alguns compostos, poucos benefícios trazem ao controle deste parasito, uma vez que certamente ele vai procurar uma nova lesão para fazer ovoposição. A ação larvicida, é muito mais importante por que vai contribuir para a diminuição do número de parasitos adultos no local <ref type="bibr">MUNIZ et al (1995)</ref>.</p><p>As condições climáticas em grande parte do Brasil durante a maior parte do ano é bastante favorável para as infestações por este parasito, como já descrito por outros autores <ref type="bibr">(MUNIZ et al., 1995;</ref><ref type="bibr" target="#b64">MOYA-BORJA &amp; SALANI, 1997;</ref><ref type="bibr" target="#b18">ANZIANI et al., 1998)</ref>.</p><p>O aparecimento das miíases esta condicionado a ferimentos recentes ou áreas abertas por intervenções cirúrgicas e aberturas naturais. Nestes casos é denominado de miíase primária.</p><p>Quando as larvas invadem aberturas naturais do corpo, denomina-se miíase cavitária e podem ser de diversos tipos: nasal, oral auricular, vaginal e anal, etc.</p><p>Há ainda a possibilidade de miíase cutânea se transformar em cavitária devido ao grande número de larvas. Em alguns casos, larvas podem penetrar ativamente na pele integra e produzir miíase furunculosa <ref type="bibr" target="#b37">(FREITAS et al, 1982)</ref>.</p><p>As picadas de carrapatos são capazes de produzir sítios para o desenvolvimento de miíases <ref type="bibr" target="#b24">(BRAM, 1978)</ref>. PICCININI 1988 relata a postura e o desenvolvimento de larvas de Cochliomyia hominivorax em feridas recentes, em bezerros mestiços, provocadas por morcegos hematófagos da espécie Desmodus rotundus. Estudo em laboratório desenvolvido por OLIVEIRA (1980) sobre a biologia da Cochliomyia hominivorax, obteve as seguintes conclusões: as posturas iniciaram do 7º a 8º dia de vida e variando de 88 a 330 ovos, com média de 191,10 ovos. O período de incubação dos ovos variou de 14 a 18 horas a 27°C e 80,00 a 90,00% de umidade relativa, sendo a média de eclosão de 99,68%. O período larval variou de 3 a 4 dias, tendo 8,26% abandonado o meio a partir do 3º dia, 89,10% no 6º dia e 2,64% no 5º dia; o tempo de duração e a época da ecdise dos instares larvais foram de 24 horas pós eclosão, 61,00% das larvas eram L 2, e 48 horas após 50,00% eram L 3. O período pré-pupa variou entre 12 a 36 horas com média de 24 horas, a emergência dos adultos foi entre 6 a 10 dias com média de 7,3 dias, a razão sexual de 1:1 entre machos e fêmeas foi constatado na criação artificial. Na natureza, após a eclosão, as larvas penetram na pele, mantendo a região posterior voltada para o meio exterior para permitir a respiração pelos espiráculos ali existentes. São gregárias e produzem formações em bolsas, nos tecidos invadidos, consumindo tecido muscular, vasos, nervos e tecido conectivo (JAMES, 1947). O desenvolvimento completo da larva em feridas no hospedeiro varia de cinco a nove dias, quando então sai para desenvolver a fase de pupa, no solo (BAUMHOVER, et al, 1955 apud OLIVEIRA, 1979). BABILONIA e MAKI (1991) observaram melhor desenvolvimento de larvas, em laboratório, em temperaturas entre 36.7 e 37,8°C, com umidade relativa a 65,00%. No entanto, SMITH (1960) obteve melhores índices entre 36,6 e 38,8°C, com UR entre 85,00 e 90,00%. OLIVEIRA (1980) observou em laboratório que a maioria das larvas completava o seu desenvolvimento em quatro dias à temperatura de 35°C e 85,00 e 90,00% de umidade relativa do ar. O estágio de pupa se estende por seis a oito dias a 26,6°C com umidade relativa variando entre 70,00 e 80,00% (SMITH. 1960), podendo aumentar em temperaturas entre 12,3 e 17,4°C e 55,00 e 80,00% de umidade relativa do ar (OLIVEIRA <ref type="bibr">, 1978)</ref>.</p><p>Três a quatro dias após a emergência copulam e no sétimo dia de vida podem realizar a primeira postura <ref type="bibr">(LAAKE et al, 1936</ref><ref type="bibr">apud CRYSTAL, 1967a)</ref>.</p><p>Machos e fêmeas adultas têm hábito diurno e podem voar mais de quarenta quilômetros de distância, sobreviver, em média, quatro semanas, sob temperatura de 25°C e 70,00% de UR do ar <ref type="bibr" target="#b59">(LEITE, 2004)</ref>.</p><p>Entre o 2° e 3 ° dia após a emergência inicia-se a cópula, entretanto, a temperatura de 10°C as fêmeas morrem antes de copular. Os machos apresentamse aptos a cópula entre o 4° e 6° dia pós emergência <ref type="bibr" target="#b46">(GUIMARÃES et al, 1983)</ref>.</p><p>O ciclo completo desse díptero dura aproximadamente 24 dias à temperatura de 22°C (LAACK. CUSHING; PARIS, 1936 apud HALL.1991) e de 18 dias a 29°C THOMAS; <ref type="bibr">MANGAN, 1989</ref><ref type="bibr">apud HALL, 1991)</ref>.</p><p>O período de evolução das fases de pré pupa e de pupa em condições de</p><p>No ar Dentro Ferida No Solo Na Ferida Moscas emergem Adulto 10 -14 dias Início da ovoposição 6º dia da vida adulta Eclosão dos ovos 12-21 horas Larvas 5 -7 dias (L , L , L ) 1 2 3 Pupa 7 -10 dias (&gt; durante inverno)</p><p>laboratório e de campo variam de 1 a 7 dias para as pré pupas e entre 8 a 43 dias para as pupas. <ref type="bibr">(OLIVEIRA, 1986)</ref>.</p><p>Os prejuízos econômicos deste parasito assumem caráter de inegável importância visto que sua disseminação é ampla e realmente danosa. Na Florida (Estados Unidos), <ref type="bibr" target="#b59">JEFERSON (1960)</ref> informou que 80,00 a 85,00% das feridas de bovinos infestadas por Cochliomyia hominivorax causavam prejuízos de 10 milhões de dólares. Estudos feitos por BAUMHOVER (1966) nos Estados Unidos estimaram perdas anuais em 20 milhões de dólares, na região sudeste, e em 50 a 100 milhões na região sudoeste. Enquanto no México, estima-se algo em torno de 156 milhões de dólares. No Panamá atinge cifras de 43 milhões de dólares por ano (SNOW et Figura 1. Ciclo de vida da Cochliomyia hominivorax (Diptera:Calliphoridae) (Fonte: <ref type="url" target="http://www.fao.org/DOCREP/U4220T/U4220T0A.HTM">http://www.fao.org/DOCREP/U4220T/U4220T0A.HTM</ref>) al, 1985). No Brasil, MUCCIOLO (1948) descreveu as miíases como parasitose de grande importância econômica, pois não somente afetava a pele, mas também a musculatura esquelética produzindo lesões crateriformes. Relata ainda que esse quadro induza além do emagrecimento e a irritação dos animais, a desvalorização da pele mesmo as curadas, uma vez que o tecido fibroso resultante da cicatrização apresenta menor resistência o que deprecia a qualidade do couro. TOLEDO (1950) confirmou as observações anteriores e afirmou que um rebanho infestado produz 20% a menos que um rebanho sadio. Mais recentemente, a literatura relata taxas de mortalidade de bezerros, de zero a doze meses, na região pantaneira, de 10,00 a 20,00%; sendo a miíase a principal causadora desta mortalidade, ao lado de picadas de cobras, ataque por onça e outras doenças (SERENO J. R. B; CATTO, J. B.; SERENO, F.T.P.S., 1996). Tais cifras poderiam ser ainda maiores se fossem computados mais 20,00% relativos às perdas no peso do animal durante a infestação, associado ao tipo de exploração extensiva de gado, em nosso país (YARZON, 2005). GRISI (2002) avaliando o impacto econômico das principais ectoparasitoses em bovinos no Brasil chegou a uma estimativa de perdas da ordem de 150 milhões de dólares. Devido ao tamanho do rebanho e do número de cabeças abatidas, a produção de couro no Brasil é bastante expressiva, chegando em 2005, a mais de 38 milhões de peças de couros bovinos, o que representa cerca de 10% do mercado mundial (IBGE, 2005). Entretanto, apesar da importância deste setor, existem entraves relevantes à ampliação da sua eficiência e competitividade no país. O Brasil deixa de ganhar cerca de US$ 900 milhões anuais, em virtude da baixa qualidade do couro produzido e dos descompassos entre a oferta nacional e a demanda pelo produto (CICB, 2001). No Brasil, aproximadamente 85,00% dos couros produzidos apresentam defeitos e, destes, 60,00% ocorrem dentro das propriedades rurais e 40,00% no transporte da propriedade para o curtume. Dos 60,00% dos defeitos do couro dentro da propriedade rural, 40,00% provêm de danos causados por quatro ectoparasitoses, como a bicheira, 10,00% devido à marcação a fogo dos animais e 10,00% decorrente de marcas de arame farpado, galhos e espinhos (IEL, 2000). Com relação às perdas em couros defeituosos, no Brasil, estimam-se em quatrocentos e vinte milhões de dólares, determinados, principalmente por miíases, bernes, moscas-dos-chifres e carrapatos, (COUROBUSSINESS, 2003). Embora se tenha poucos estudos sobre a estimativa de custo dessa praga no Brasil, existe um realizado na região do Caribe (RAWLINGS, 1985) sobre custo teórico que pode ser útil para fazer este calculo. A estimativa de perda anual com monitoramento e tratamento variou de US$ 4,82 a US$ 10,71 por animal. Extrapolando esses dados para o Brasil, com um rebanho de aproximadamente 200 milhões de cabeças de gado, estima-se que o custo médio anual para a pecuária nacional seja de aproximadamente US$ 1,5 bilhão (TORRES, 2006).</p><p>O parasitismo por Cochliomyia hominivorax provoca alterações clínicas <ref type="bibr" target="#b62">(MORAIS et al, 2003</ref>) hematológicas e bioquímicas em bovinos <ref type="bibr">(OLIVEIRA, 1980;</ref><ref type="bibr" target="#b78">SANAVRIA, 1993)</ref>.</p><p>Devido à ovoposição da mosca nas feridas, e a probabilidade de reinfestações, uma das primeiras recomendações é manejar adequadamente os animais para evitar feridas desnecessárias, uma vez que aparentemente não existem animais resistentes à bicheira, qualquer ferimento predispõe a atração para as moscas.</p><p>No Brasil, os bezerros são mais susceptíveis no período neonatal, devido a postura de ovos no cordão umbilical, podendo ocorrer ainda por problemas de parto, quando ocorre retenção de anexos fetais ou por intervenções relacionadas ao manejo como: castração, descorna ou ferimentos em cercas de arame farpado.</p><p>Infestações maciças por carrapatos também aumentam a susceptibilidade a este agente parasitário, devido às feridas que normalmente aparecem neste quadro.</p><p>Caso o tratamento não seja realizado em tempo hábil a infestação poderá determinar na morte dos animais, principalmente dos jovens <ref type="bibr" target="#b43">(GRISI et al, 2002)</ref>.</p><p>Várias formulações de uso tópico e sistêmico são utilizadas atualmente para tratamento destas miíases. Independente da molécula utilizada há necessidade de exames regulares dos animais em grandes áreas de criação. Isto porque, alguns animais podem escapar ao controle e serão expostos a infestações graves e até mesmo fatais.</p><p>Os inseticidas organofosforados foram os primeiros produtos a serem utilizados no controle das larvas de Cochliomyia hominivorax, e até hoje são os mais utilizados e entre as moléculas desta base: coumaphos, ronnel, chlorpyrifos, chlorfenvinfos e trichlorfon. Estes inseticidas têm uma eficácia residual relativamente curta e os animais devem ser inspecionados e tratados com freqüência para evitar reinfestações.</p><p>No início da década de 80 foram lançadas no mercado as avermectinas, com excelentes propriedades endectocidas e uma ação residual maior. Mesmo com advento de novas moléculas, necessita-se de meios de controle que realmente reduzam ou eliminem a possibilidade de re-infestação.</p><p>Assim, alguns pesquisadores concluíram que reduzir ou eliminar a população de insetos seria uma solução melhor do que tratar topicamente os animais após estes serem infestados pelas larvas, motivando iniciativas envolvendo a esterilização de machos e a implementação de um programa de erradicação através da liberação de insetos estéreis <ref type="bibr">(IAEA, 1998;</ref><ref type="bibr" target="#b26">BOWMAN, 2006)</ref>.</p><p>A técnica do inseto estéril SIT ("Sterile Insect Technique") foi idealizada por E. F. <ref type="bibr">Knipling, em 1937</ref>. O objetivo inicial era de que a liberação no campo de um grande número de machos estéreis durante várias gerações sucessivas poderia levar a uma supressão na densidade populacional da mosca da bicheira <ref type="bibr" target="#b55">(KNIPLING, 1955)</ref>. A liberação de machos esterilizados por radiação gama é a forma de controle mais eficiente. Foi testada e aprovada quando da erradicação da C. hominivorax da ilha de Curaçao, Estados Unidos e América Central <ref type="bibr">(BAUMHOVER et al., 1955;</ref><ref type="bibr">GUIMARÃES;</ref><ref type="bibr" target="#b47">PAPAVERO, 1999)</ref>. Essa prática só é possível porque as fêmeas de C. hominivorax copulam uma só vez durante sua vida (BUSHLAND; HOPKINS, 1951; CRYSTAL, 1967a); ou seja, toda fêmea que copular com um macho estéril não deixará descendentes. Na figura 2 (próxima página) observa-se a atual distribuição geográfica de C. hominivorax que compreende algumas ilhas do Caribe e América do Sul, tendo já sido erradicada da América do Norte e Central-continental num programa de manejo integrado de pragas em áreas extensas baseado em SIT (Sterile Insect Technique) (FRESIA et al, 2009). Ainda nesta figura vemos que a Cochliomyia hominivorax já foi erradicada dos USA e dos países centro americanos (México, Belize, Guatemala, El Salvador e Honduras). Mais recentemente na Nicarágua, Costa Rica e Panamá. Neste último está sendo mantida uma barreira permanente através da liberação de insetos estéreis na divisa com a Colômbia com objetivo de impedir a recolonização por moscas advindas da América do Sul (TORRES, 2006). A erradicação também foi alcançada na Líbia e no Norte da África Figura 2: Distribuição geográfica histórica e atual de C. hominivorax. (ASSIS, 2007) (GRAHAM, 1985, VARGAS -TÉRAN, 1991). Na Líbia, após a verificação da presença da C. hominivorax em 1988, temia-se que esta mosca se dispersasse e causasse conseqüências desastrosas para a produção animal e vida selvagem do continente africano o que levou a importação de moscas estéreis do México <ref type="bibr" target="#b26">(BOWMAN, 2006;</ref><ref type="bibr" target="#b72">REICHARD, 2002)</ref>.</p><p>A erradicação por esterilização foi utilizada com sucesso na Líbia, e de dezembro de 1990 a outubro de 1991, mais de 1,2 bilhões de moscas estéreis foram liberadas. Em 1992, a Líbia foi declarada livre desta espécie <ref type="bibr" target="#b57">(KOUBA, 2004)</ref>.</p><p>O custo de erradicação da C. hominivorax nessa região foi aproximadamente US$ 100 milhões, o que comprova o alto custo envolvido neste tipo de operação <ref type="bibr" target="#b36">(FAO, 1993)</ref>.</p><p>Após a erradicação nos EUA começaram a aparecer conseqüências indesejáveis deste processo. A erradicação da Cochliomyia hominivorax do Texas e da Flórida, permitiu o incremento de populações do veado da cauda branca (Odocoileus virginianus), ocasionalndo picos de Rhipicephalus (Boophilus) microplus em áreas onde este carrapato já havia sido controlado <ref type="bibr">(PEDIGO, 1999)</ref>.</p><p>Apesar do sucesso na erradicação nestes locais, o uso da técnica de insetos estéreis apresenta algumas limitações, como a ausência de dados concretos a respeito do problema, ausência de fundos financeiros suficientes, e número limitado de centros que poderiam liderar este processo <ref type="bibr">(IAEA, 1998)</ref>.</p><p>No entanto, para a supressão ou erradicação desses dípteros, são necessárias pesquisas locais e/ou regionalizadas sobre a biologia e fisiologia do parasito.</p><p>Sendo assim, a principal forma de controle de C. hominivorax em sua atual distribuição geográfica é realizada por meio da aplicação de inseticidas, principalmente da classe dos organofosforados. No entanto, há muitos obstáculos relacionados ao uso dessas drogas devido aos riscos de gerar efeitos tóxicos para animais, selecionar parasitas resistentes, deixar resíduos na carne e no leite, e de contaminar o ambiente.</p><p>Outra forma de controle, o uso de iscas artificiais (Swarm Lure) contendo DDVP têm sido utilizada para diminuir as populações dos adultos no campo.</p><p>Armadilhas orientadas pelo vento contendo como iscas de fígado deteriorado são usadas nos estudos de flutuação sazonal dos adultos e podem ser integradas no combate preventivo de C. hominivorax <ref type="bibr">(GRAHAM 1985</ref><ref type="bibr" target="#b34">, DRUMMOND et al. 1988</ref><ref type="bibr" target="#b63">, MOYA BORJA et al. 1993</ref><ref type="bibr">, HALL &amp; WALLl, 1995)</ref>.</p><p>O controle biológico da bicheira embora estudado não constitui o fator principal na redução das populações da praga. Uma tentativa para reduzir a bicheira nos EUA, liberando grandes quantidades do braconídio, Alysía ridibunda, são macrolídeos e contem um único sistema de anel tetracíclico aos quais estas duas diferentes moléculas de açucares estão ligadas (spinosina A e spinosina D) <ref type="bibr">(KIRST, et al, 1992)</ref>.</p><formula xml:id="formula_0">criados</formula><p>A descoberta e o desenvolvimento desta molécula única ofereceram ao mundo uma nova classe de produtos para o controle de insetos denominada de Naturalyte.</p><p>Com ação inseticida e produto da fermentação aeróbica de um microrganismo actinomiceto presente no solo Sacharopolyspora spinosa <ref type="bibr">(SPARKS et al, 1995)</ref>, vem sendo amplamente explorada para o controle de pragas agrícolas desde 1995 <ref type="bibr">(SPARKS et al, 1995</ref><ref type="bibr">(SPARKS et al, e 1997;;</ref><ref type="bibr" target="#b93">THOMPSON et al, 1995)</ref>, principalmente em culturas de fumo e algodão <ref type="bibr" target="#b89">(SPARKS et al, 1998)</ref> e alface (YEE &amp; TOSCANO, 1998) contra insetos da ordem lepidoptera <ref type="bibr" target="#b89">(SPARKS et al, 1998)</ref>.</p><p>Considerado um inseticida de amplo espectro de ação, sua atividade foi observada ainda em insetos das ordens coleóptera, díptera, homóptera, hymenoptera, isoptera, orthoptera, siphonaptera e thysanoptera <ref type="bibr" target="#b76">(SALGADO, 1998)</ref>.</p><p>Uma das principais características da molécula de spinosad é relacionada à sua segurança. Testes de toxicidade crônica demonstraram que a molécula não apresenta efeitos carcinogênico, teratogênico ou neurotóxico. <ref type="bibr">(EPA, Federal Register)</ref>.</p><p>Em vários estudos para avaliação de sensibilização dermal de spinosad não foram observadas nenhuma evidência deste tipo de ocorrência. <ref type="bibr">(SHIBATA, 1996, STEBBINS &amp; BROOKS, 1999e,)</ref>.</p><p>Mostrou também baixa irritação ocular após administração <ref type="bibr">(STEBBINS &amp; BROOKS, 1999d</ref><ref type="bibr">, GILBERT 1994c)</ref>. Nenhuma morte, sinais clínicos de toxicidade, irritação dermal ou lesões patológicas foram observadas após aplicação dermal de spinosad em coelhos <ref type="bibr">(STEBBINS &amp; BROOKS, 1999c</ref><ref type="bibr">, GILBERT, 1994b)</ref>.</p><p>Spinosad apresenta ainda ampla margem de segurança para insetos benéficos ao ambiente <ref type="bibr" target="#b79">(SCHOONOVER &amp; LARSON, 1995)</ref>.</p><p>Nos tecidos animais, ele é prontamente metabolizado e eliminado pelas fezes, urina e bile, nas primeiras 24 horas <ref type="bibr" target="#b21">(BARDEN, 1998)</ref>.</p><p>O modo de ação é diferenciado. Em insetos, caracteriza-se pela excitação do sistema nervoso, provocando contrações involuntárias dos músculos, prostração com tremores e paralisia. Estes efeitos estão ligados à ativação de receptores nicotínicos e acetilcolínicos por um mecanismo de ação ainda desconhecido <ref type="bibr" target="#b93">(THOMPSON et al, 1995)</ref>.</p><p>Algumas moléculas inseticidas, como imidacloprid com ação em receptores nicotínicos agem em sítios de ligação diferentes do spinosad, que também atua no receptor celular do ácido gama amino butírico (GABA). A ivermectina, apesar de ser uma lactona macrocíclica e interferir nos mecanismos de liberação do GABA, tem o desencadeamento do seu efeito por outro receptor que não o do spinosad <ref type="bibr" target="#b75">(SALGADO, 1997;</ref><ref type="bibr" target="#b76">SALGADO, 1998;</ref><ref type="bibr" target="#b77">SALGADO et al, 1998)</ref>.</p><p>A spinosad A, principal constituinte inseticida da molécula spinosad, não interage diretamente com sítios de ligação conhecidos de receptores nicotínicos dos insetos, incluindo os sítios de ligação para imidaclopride, nem com sítios alvos para as avermectinas como a abamectina. Esta ausência de interação com sítios alvos dos inseticidas mais conhecidos suportam a hipótese que a spinosad A realiza seu modo de ação via um singular modo e ação. O atual modo de ativação nicotínica pelo spinosad A sugere que a molécula interage com um subtipo de receptor nicotínico ainda não identificado <ref type="bibr" target="#b30">(CROUSE, et al, 2009)</ref>.  <ref type="bibr">et al, 2009, in press)</ref>.</p><p>No Brasil, ensaios com spinosad foram conduzidos por SABATINI (2001) no controle do Boophilus microplus, sendo verificado seu efeito acaricida em infestações naturais, com 97,6% de eficácia decorridos sete dias pós-tratamento, para a concentração de 1000 ppm. Em infestações artificiais detectou-se 99,8% de eficácia no 27°dia pós-tratamento para a solução 500 ppm.</p><p>Ensaios realizados e descritos na literatura nacional e internacional com o spinosad e seu potencial terapêutico contra insetos nocivos à agricultura demonstram sua eficiente ação inseticida, possibilitando seu uso com sucesso.</p><p>Ainda no Brasil, <ref type="bibr">Souza (2005)</ref>, demonstrou o potencial inseticida de Spinosad no controle de infestações por Alphitobius diaperinus in vitro e em sistemas de produção avícola. Formulações de spinosad em concentrações de 400 e 250 ppm mostraram-se eficazes (99,65% e 99,30% -por até 24 dias Pós Tratamento) quando aplicado diretamente sobre os parasitos adultos (cascudinhos). Sobre estágios larvais, a eficácia também foi elevada (97,96% e 95,92% -por até 24 dias Pós Tratamento) para as duas concentrações de spinosad. Entretanto foi observado que os melhores resultados de ação imediata ocorreram em instares adultos. Apesar de amplamente empregado na agricultura desde 1995, não há informações sobre a ação desde princípio ativo contra larvas de Cochliomyia hominivorax, o que despertou em avaliar a molécula com uma alternativa no controle desta parasitose. Considerando a importância e os prejuízos econômicos ocasionados pelas larvas de Cochliomyia hominivorax, a escassez de fármacos diferentes dos organofosforados para o controle, e tendo em vista a potencial ação inseticida do spinosad, é que se objetivou a realização deste estudo. Assim, o presente estudo teve como objetivo avaliar eficácia de spinosad em diferentes concentrações sobre instares larvais I, II e III da Cochliomyia hominivorax em condições laboratoriais (in vitro), e em infestações naturais (a campo). III. OBJETIVOS 3.1. Geral Avaliar a eficácia do spinosad em diferentes concentrações, formulação spray no controle de larvas de Cochliomyia hominivorax em infestação artificial e natural. 3.2. Específicos Avaliar a eficácia do spinosad, em diferentes concentrações, aplicado via tópica em: a) Larvas I, II e III de Cochliomyia hominivorax, em infestação artificial, utilizando spinosad nas concentrações de 50 e 150 ppm. (Experimento 1). b) Miíases ocasionadas por larvas de Cochliomyia hominivorax em infestações naturais, utilizando spinosad nas concentrações de 50 e 150 ppm. (Experimento 2). c) Miíases ocasionadas por larvas de Cochliomyia hominivorax, em infestações naturais, utilizando spinosad nas concentrações de 250 e 400 ppm. (Experimento 3). % de Eficácia = C -T C x 100 IV. MATERIAL E METODOS Os experimentos foram realizados em dois locais, sendo o experimento com infestação artificial conduzido nas instalações do CPPAR -Centro de Pesquisa em Sanidade Animal -Faculdade de Ciências Agrárias e Veterinárias, UNESP/Jaboticabal. Os outros dois experimentos com infestações naturais foram conduzidos em uma propriedade rural, localizada no município de Formiga, Estado de Minas Gerais. 4.1. CALCULO DA EFICÁCIA TERAPEÚTICA. A eficácia do Spinosad, nas concentrações utilizadas, em cada estudo, foi estimada segundo recomendação da Portaria 48, de 12 de maio de 1997, do Ministério da Agricultura e Abastecimento (MAPA): Em que: C = N° de miíases ativas no grupo controle T = N° de miíases ativas no grupo tratado, 48 horas pós-tratamento. 4.2. EXPERIMENTO l: Infestação artificial 4.2.1. ANIMAIS E LOCAL DO EXPERIMENTO Foram utilizados 27 bovinos clinicamente sadios, mestiços holandêz x zebu, com idade entre 6 e 12 meses, em bom estado nutricional. O experimento foi conduzido nas instalações do "Centro de Pesquisas em Sanidade Animal (CPPAR)", junto à Universidade Estadual Paulista (UNESP), Campus Jaboticabal, Estado de São Paulo -Brasil. 4.2.2 OBTENÇÃO DE LARVAS DE Cochliomyia hominivorax As larvas utilizadas no experimento foram fornecidas pelo Departamento de Biologia/ UNICAMP/ Campinas SP, através de um convênio estabelecido com o CPPAR/ UNESP. As larvas foram transportadas para Jaboticabal-SP logo após eclosão. 4.2.3. FORMULAÇÃO Spinosad<ref type="foot" target="#foot_0">foot_0</ref> : Formulação fornecida pela Eli Lilly do Brasil Ltda. Partida identificada como X-50537, data de Fabricação 29/09/1999, com validade de 2 anos. 4.2.4. DELINEAMENTO EXPERIMENTAL Os animais foram identificados com brinco na orelha esquerda e mantidos em baias individuais suspensas (modelo australiano) do CPPAR/UNESP -Campus de Jaboticabal. Procedeu-se a tricotomia e em seguida anestesia com cloridrato de lidocaína efedrina a 2%, nas quatro posições definidas para a infestação artificial (região compreendida entre a fossa infra espinhosa e a borda dorsal da escápula) e a garupa (ponto médio entre a tuberosidade isquiática e vértebra sacra -região coxofemoral), de ambos os lados. Decorrido 12 horas, foram implantadas 50 larvas (L 1 ) de Cochliomyia hominivorax em cada incisão, totalizando 200 larvas por animal. A eficácia do Spinosad 1 (50 e 150 ppm) foi avaliada contra os três estádios larvais L 1 , L 2 e L 3 . Para isso, os bovinos foram distribuídos aleatoriamente em nove grupos experimentais, conforme descrito na Tabela 1, página seguinte. Concentração Via de Aplicação l 3 1 2 L 1 50 ppm Tópica II 3 12 L 1 150 ppm Tópica III 3 12 L 1 IV 3 12 L 2 50 ppm Tópica V 3 1 2 L 2 150 ppm Tópica VI 3 12 L 2 VII 3 12 L 3 50 ppm Tópica VIII 3 12 L 3 150 ppm Tópica IX 3 12 L 3 Controle Nº mínimo de Miíases Spinosad Controle Controle Grupo Nº mínimo de Bovinos Estádio de C. hominivorax Tabela 1. Grupos experimentais referentes aos tratamentos com duas concentrações de spinosad 1 contra diferentes estádios de Cochliomyia hominivorax induzidas em bovinos. CPPAR/FCAV/UNESP, Setembro de 2000. Baseando-se na biologia da C. hominivorax, os tratamentos realizados com Spinosad 1 , obedeceram aos seguintes cronogramas: G I, G II e G III: 3 a 6 horas pós-implantação de L 1 .</p><p>G IV, G V e G VI: 24 horas pós-implantação de L 1 .</p><p>G VII, G VIII e G IX: 48 horas pós-implantação de L 1 .</p><p>As formulações foram aplicadas nas miíases, a uma distância de aproximadamente 20 cm da ferida, por meio de movimentos circulares e jato contínuo por cinco segundos, correspondendo ao volume de 6.5 mL.</p><p>Todas as miíases foram examinadas nos seguintes tempos: 15 ' , 30 ' , 60 ' , 6 horas, 24 horas e 48, 72, 92 e 108 horas pós tratamento (HPT). Neste período, o conteúdo das baias era lavado e peneirado para a colheita das larvas que eventualmente abandonavam as lesões. As larvas de 3º estádio recolhidas eram colocadas para pupar em vidros de 500 mL contendo vermiculita, mantidos à temperatura de 25ºC e 90,00% de UR, durante aproximadamente 10-15 dias, oferecendo assim, condições para que cada larva pudesse completar o ciclo evolutivo. 4.3. EXPERIMENTO Il: Infestação Natural 4.3.1. ANIMAIS E LOCAL DO EXPERIMENTO Foram utilizados 40 bovinos de corte, machos mestiços holandês x zebu, com idade entre 6 e 11 meses, pertencentes à Fazenda Bela Vista, localizada no município de Formiga, Minas Gerais. Os animais foram selecionados, levando-se em consideração a isenção de resíduos de tratamentos antiparasitários. Para maior segurança, cada animal foi duplamente identificado com brincos de cores diferentes para os tratamentos (orelha esquerda) e da mesma cor, para caracterização de bovino experimental (orelha direita). 4.3.2. FORMULAÇÕES Foram utilizadas 4 formulações para o tratamento dos grupos experimentais: spinosad 1 : Concentração de 50 ppm, aerosol (spray) formulação experimental (Lote X-50537), data de fabricação 29/09/1999, dois anos de validade, fornecida pela Eli Lilly do Brasil Ltda; spinosad 1 : Concentração de 150 ppm, aerosol (spray) formulação experimental (Lote X-50537), data de fabricação 29/09/1999, dois anos de validade, fornecida pela Eli Lilly do Brasil Ltda; chlorpyriphos 2 : Sem especificação de bula, via tópica (spray): Lote NE2834F101 data de fabricação Maio de 1999, formulação comercial adquirida no mercado. chlorphenvinphos (3,4 mL/L) + Dichlorvos (5,2mL/L) 3 , via tópica (spray): Lote 013-2000, data de fabricação Março de 2000, formulação comercial adquirida no mercado. 4.3.3. DELINEAMENTO EXPERIMENTAL Após a identificação e sob ação de anestesia local, foram realizadas duas pequenas incisões cutâneas (duas de cada lado) de aproximadamente quatro centímetros de diâmetro em cada animal. Em seguida, os bovinos foram liberados e mantidos em uma área de pastagem, para que as infestações por larvas de C.hominivorax (miíases) ocorressem naturalmente. Diariamente, os bovinos eram examinados para averiguação e detecção da presença de ovos ou larvas de C. hominivorax. Quando detectada a presença de larvas, o animal era alocado, por sorteio, para um dos grupos experimentais, controle (Grupo V) ou para os demais grupos de tratamento (Grupos I, II, III e IV) e a ferida imediatamente medicada, com o respectivo fármaco previamente sorteado. Os animais foram alocados nos grupos experimentais até perfazer um mínimo de 10 miíases por grupo. Após os tratamentos, os animais foram mantidos em pastagens separadas, com predominância de Brachiaria decumbens, tendo água e suplementação mineral ad libitum, em densidade de um até dois animais por hectare, de acordo com a disponibilidade de alimento. Todas as operações de manejo e observações dos animais durante o período l 1 0 S p i n o s a d 5 0 p p m 0 , 1 1 m g T ó p i c a ( s p r a y ) ll 10 Spinosad 150 ppm 0,33 mg Tópica (spray) III 10 Chlorpyriphos 2 Tópica (spray) Chlorphenvinphos + 3,4 mL/L 0,0748 mL Tópica (spray) Dichlorvos 3 5,1 mL/L 0,1122 mL Tópica (spray) V 1 0 C o n t r o l e Vl 10 Dose / ferida Via de aplicação Sem especificações rotulares Grupo Nº mínimo de Miíases Tratamento Concentração experimental foram realizadas em instalações dotadas de balança, tronco para contenção segura do animal e curral de espera. Durante 30 minutos após o tratamento, os animais foram observados para a detecção de qualquer eventual anormalidade clínica decorrente da aplicação dos compostos Tabela 2. Grupos Experimentais referentes aos tratamentos com duas concentrações de spinosad 1 , chlorpyriphos 2 e chlorphenvinphos + dichlorvos 3 , aplicados por via spray sobre larvas de C. hominivorax em bovinos artificialmente infestados. Março de 2001. 4.4. Experimento III: Infestação Natural 4.4.1. ANIMAIS E LOCAL DO EXPERIMENTO Utilizou-se bovinos de corte, machos mestiços holandês x zebu, com idade entre 6 e 11 meses, pertencentes a Fazenda Bela Vista, localizada no município de Formiga, Minas Gerais. Os animais foram selecionados levando-Eli Lilly do Brasil Ltda Lepecid BR Spay -Down Agrosciences Industrial Ltda. Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda.</p><p>se em consideração a isenção de resíduos de tratamentos antiparasitários.</p><p>Para tanto, foram selecionados animais que não tinham sido medicados (acaricidas de contato e avermectinas) há menos de 90 dias.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4.2.">FORMULAÇÃO</head><p>Foram utilizadas quatro formulações para o tratamento dos grupos experimentais:</p><p>a) spinosad</p><p>1 : Concentração de 250 ppm, via tópica (spray) formulação experimental (Lote LY232105 -SC), fornecida pela Eli Lilly do Brasil Ltda; b) spinosad 1 : Concentração de 400 ppm, via tópica (spray) formulação experimental (Lote LY232105 -SC), fornecida pela Eli Lilly do Brasil Ltda; c) chlorpyriphos 2 , via tópica (spray): N o de partida NE2834F101, data de fabricação Maio 1999, formulação comercial adquirida no mercado. d) chlorphenvinphos + Dichlorvos 3 , nas concentrações de 0,34% e 0,51%, via tópica (spray), N o de partida 013-2000, data de fabricação Março 2000, formulação comercial adquirida no mercado. 4.4.3. DELINEAMENTO EXPERIMENTAL Como descrito no item 4.3.3. do experimento II, após a identificação dos animais e sob ação de anestesia local, até quatro pequenas incisões cutâneas foram realizadas. Em seguida, os bovinos foram liberados e Eli Lilly do Brasil Ltda Lepecid BR Spay -Down Agrosciences Industrial Ltda. Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda. Eli Lilly do Brasil Ltda.</p><p>Lepecid BR Spray -Down Agrosciences Industrial Ltda. Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda.</p><p>Foram utilizados até oito animais por grupo, para obtenção de no mínimo 20 miíases ativas, no dia do tratamento, para cada grupo experimental. Das doze miíases induzidas nos animais do grupo controle, oito se apresentaram ativas (66,60%) durante toda fase experimental.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.5.">ANALISE ESTATÍSTICA</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1.2.">Eficácia terapêutica de Spinosad contra larvas de 2º estádio de</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cochliomyia hominivorax</head><p>Os resultados deste experimento demonstraram que as duas concentrações de spinosad (50 e 150 ppm) obtiveram 100,00% de eficácia 24 horas pós tratamento. Entretanto, na 6 a hora pós-tratamento, este percentual já tinha sido alcançado por spinosad 150 ppm contra ínstar L 2 de Cochliomyia hominivorax.</p><p>OLIVEIRA (1980) avaliando Clorpirifós (Dursban 5%) em aplicação tópica obteve 100,00% de eficácia 1 hora pós-tratamento para este ínstar de</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cochliomyia hominivorax.</head><p>Os efeitos de spinosad 50 ppm foram observados decorridos 15 minutos do tratamento, através do aumento de motilidade das larvas e da evasão de algumas delas do interior da ferida. Passados 30 minutos da medicação, além do aumento de motilidade e de evasão das lesões, algumas se apresentavam imóveis, ou seja, mortas. Esta situação se manteve até o 60º minuto pós-tratamento. Em seguida, ocorreu um aumento substancial de larvas mortas.</p><p>Apenas duas miíases estavam negativas seis horas pós-medicação, porém, o número de larvas mortas era ainda maior do que o observado aos 60 minutos. Todas as miíases tratadas com spinosad (50 ppm) apresentavam-se inativas a partir da 24 a hora pós-tratamento.</p><p>Resultados semelhantes foram obtidos com spinosad na concentração de 150 ppm. A maioria estava imóvel e ausência total na 6 a , 2 a , 48 a e 72 a horas pós-medicação.</p><p>Todas as 12 miíases induzidas nos animais do grupo controle mostravam-se positivas (larvas vivas) durante toda fase experimental.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.1.3.">Eficácia terapêutica de Spinosad contra larvas de 3º estádio de</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cochliomyia hominivorax</head><p>Neste estudo, foi possível observar que as duas concentrações de spinosad (50 e 150 ppm) proporcionaram 100,00% de eficácia 48 horas póstratamento. Entretanto, na 24 a hora pós-tratamento, este percentual já tinha sido alcançado por spinosad 150ppm contra ínstar L 2 de Cochliomyia hominivorax.</p><p>Este resultado é semelhante ao encontrado por <ref type="bibr">Oliveira (1980)</ref> avaliando Clorpirifós (Dursban 5%) em aplicação tópica, que também obteve 100,00% de eficácia 24 horas pós-tratamento para este instar de Cochliomyia Total de Pupas Eficácia em moscas adultas que não larvas tratadas* Animais Larvas Com motilidade Sem motilidade emergidas romperam (%) 2 Grupo II Spinosad (150 ppm) 3 0 0 0 0 0 1 0 0 , 0 Grupo III Controle 3 58 58 0 30 28 -* % Eficácia = (A -B) x 100/ A A = Número de larvas do grupo controle B = Número de larvas do grupo tratado 96,6 Tratamento Spinosad (50 ppm) Tota de Grupo I 3 2 0 2 0 Grupos Nº de Larvas colhidas nas baias e das feridas Efeito do Spinosad (50 e 150 ppm) na interrupção da metamorfose em larvas de 1º estádio (L 1 ) de Cochliomyia hominivorax recolhidas ou desprendidas de miíases experimentais. CPPAR/UNESP, Jaboticabal, SP, Brasil </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.2.">EXPERIMENTO II (Infestação Natural)</head><p>Pelos resultados obtidos neste experimento com infestação natural, ficou comprovado que as duas concentrações de Spinosad (50 e 150 ppm) não apresentaram 100,00% de eficácia, contra larvas de C. hominivorax (miíases) (Tabela 12), até 48 horas pós-tratamento, momento observacional estabelecido pela Portaria 48 de 1997 -MAPA -Ministério da Agricultura e Abastecimento, como exigência para registro de um produto como "matabicheira". Os animais foram observados durante 12 dias do período experimental e somente no 8º dia pós-tratamento a formulação de spinosad 150 ppm atingiu 100,00% de eficácia, mantendo este percentual até o fim do período observacional (12 dias). As reinfestações por larvas de C. hominivorax não ocorreram nos grupos tratados com spinosad (50 e 150 ppm) quando comparado com as duas formulações comerciais utilizadas. Sendo que o grupo tratado com a associação de chlorphenvinphos + dichlorvos apresentou o maior índice de reinfestações, totalizando 9 lesões. Dos grupos tratados, spinosad 150 ppm não diferiu estatisticamente (P&gt;0,05) do grupo controle em todo o período observacional (12 DPT). Enquanto o grupo spinosad 50 ppm diferiu estatisticamente (P&lt;0,05) do grupo controle no segundo dia (48 horas), o que pode ser inferido pela maior penetração do produto em áreas profundas da miíase. Com relação aos outros dois grupos tratados, o grupo chlorpyriphos diferiu do 2º ao 7º dia pós-tratamento, enquanto o grupo com a associação chlorphenvinphos + dichlorvos diferiu apenas no 2º e 3° dia pós-tratamento. Dia zero 1 DPT 2 DPT 3 DPT 4 DPT 5 DPT 6 DPT 7 DPT 8 DPT 9 DPT 10 DPT 11 DPT 12 DPT Anterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 1 1 1 1 1 1 1 1 0 0 0 0 0 Posterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 1 1 1 1 1 0 0 0 0 0 0 0 0 Anterior direito 1 1 1 1 1 1 1 1 0 0 0 0 0 Anterior esquerdo 1 1 1 1 1 1 1 0 0 0 0 0 0 Posterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior direito 1 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 1 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 1 0 0 0 0 0 0 0 0 0 0 0 0 Posterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 1 1 1 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 1 0 0 0 0 0 0 0 0 0 0 0 0 Posterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 1 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 1 1 1 1 1 0 0 0 0 0 0 0 0 Posterior direito Posterior esquerdo 0 0 0 0 0 0 0 0 0 0 0 0 0 Total 11 6 6 5 5 3 3 2 0 0 0 0 0 0 = miíases não ativas ou não ocorrênica de postura 1 = miíases ativas ou ocorrência de ovos 1 Eli Lilly do Brasil Ltda. Número de Larvas Local da Lesão Grupo Bovino Evolução das Lesões 14 15 82 92 87 94 95 Spinosad (150 ppm) (1) Evolução das lesões induzidas e naturalmente infestadas por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com Spinosad 1 (150 ppm). Formiga, MG, Brasil. Valores médios* e resultados da análise da variância (dados transformados em "arco seno √Proporção de larvas *"), das ocorrências de miíases provocadas por larvas de Cochliomyia hominivorax presentes em bovinos dos grupos tratados e controle do Experimento II. Formiga, MG, Brasil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.3.">EXPERIMENTO III (Infestação Natural)</head><p>Neste segundo experimento com infestação natural, os resultados obtidos com as duas concentrações de spinosad (250 e 400 ppm) utilizadas proporcionaram eficácia de 100,00% contra larvas de C. hominivorax.</p><p>A formulação de spinosad 400ppm obteve a eficácia máxima (100,00%)</p><p>nas primeiras doze horas pós-tratamento, enquanto a concentração de 250 ppm a eficácia foi alcançada decorrida 24 horas pós-tratamento.</p><p>Observou-se também, que nenhum dos fármacos comparativos</p><p>(chlorpyriphos e associação de chlorphenvinphos + dichlorvos), utilizados rotineiramente no tratamento curativo e preventivo de miíases, apresentou eficácia semelhante às duas formulações de spinosad.</p><p>Verificou-se que a ocorrência de reinfestações das feridas tratadas nas quarenta e oito horas pós-tratamento (Quadro 23) foi maior naquelas miíases medicadas com spinosad 250 ppm (8,33%), quando comparadas as tratadas na concentração de spinosad 400ppm, chlorpyriphos e chlorphenvinphos + dichlorvos 4,76%, 0,00% e 4,00%, respectivamente. Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax (miíases) presentes em bovinos tratados com spinosad (400 ppm). Formiga, MG, Brasil. Nº do 0 12** 1 2 3 4 5 6 7 8 9 10 11 12 0 12** 1 2 3 4 5 6 7 8 9 10 11 12 Bovino TRAT/TO Anterior direito 13/dez 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 1 1 Anterior esquerdo 13/dez 0 0 0 1 1 1 1 1 0 1 1 0 0 0 0 0 1 1 1 1 Posterior direito 13/dez 0 1 1 1 1 1 1 1 0 1 1 0 0 0 0 0 0 1 1 1 Posterior esquerdo 13/dez 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 0 1 1 1 Anterior direito 13/dez 0 1 1 0 0 0 0 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 1 Posterior direito 13/dez 0 0 0 0 1 1 0 0 1 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 Anterior direito 14/dez 0 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 Anterior esquerdo 13/dez 1 1 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 Posterior esquerdo 16/dez 1 1 1 1 0 0 0 1 1 0 0 0 0 0 0 1 Posterior direito 14/dez 1 0 1 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 Posterior esquerdo 14/dez 0 1 1 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 1 Anterior direito 16/dez 1 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 Anterior esquerdo 14/dez 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 Posterior esquerdo 14/dez 1 1 1 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 Anterior direito 14/dez 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 1 1 1 1 1 1 1 1 Posterior direito 16/dez 1 1 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 Anterior direito 15/dez 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 Anterior esquerdo 15/dez 0 1 1 1 1 0 1 1 0 1 1 0 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 Anterior direito 15/dez 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 Posterior direito 15/dez Posterior esquerdo 15/dez 0 1 1 1 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 = miíases não ativas e/ou não ocorrência de postura 1 = miíases ativas e/ou ocorrência de postura * = Eli Lilly do Brasil Ltda. ** = 12 horas pós tratamento Grupo Local das feridas Óbito 35 DATA DIAS PÓS-TRATAMENTO DIAS PÓS-TRATAMENTO POSTURA LARVAS Óbito Óbito Óbito 32 30 31 17 spinosad (400 ppm)* Óbito 34 33 Óbito Dinâmica terapêutica dos tratamentos efetuados contra miíases provocadas por larvas de Cochliomyia hominivorax em bovinos infestados naturalmente. Formiga, MG, Brasil.</p><p>Quadro 24. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Grupos</head><p>Número médio de miíases ativas/Dias Pós-tratamento Quadro 25.</p><p>Valores médios* e resultados da análise da variância (dados transformados em "arco seno √Proporção de larvas *"), das ocorrências de miíases provocadas por larvas de Cochliomyia hominivorax presentes em bovinos dos grupos tratados e controle do Experimento III. Formiga, MG, Brasil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="5.4.">DISCUSSÃO DOS TRES EXPERIMENTOS</head><p>A ocorrência das miíases após as incisões nos testes de infestação natural nos grupos tratados demonstraram o constante desafio das infestações por larvas de C. hominivorax durante todo o período experimental, o que coincide com observações anteriores nas condições de America Latina <ref type="bibr">(MUNIZ et al., 1995;</ref><ref type="bibr" target="#b64">MOYA-BORJA &amp; SALANI, 1997;</ref><ref type="bibr" target="#b18">ANZIANI et al., 1998)</ref>. A ausência de efeito de repelência observada nas formulações de spinosad é sobreposta por sua ação larvicida, muito mais importante devido as suas conseqüências em relação ao ciclo de vida da C. hominivorax e que são discutidos por <ref type="bibr">MUNIZ et al (1995)</ref>.</p><p>A eficácia comprovada nestes experimentos faz do spinosad um fármaco </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>seguintes tratamentos: spinosad (50 e 150 ppm) e um controle sem tratamento. Os animais foram examinados com: 15, 30, 60 minutos e 6, 24 e 48 horas. Larvas que abandonavam as lesões foram colhidas e colocadas para pupar em BOD a 25°C e 90% de UR. Os resultados demonstraram que spinosad (50 e 125 ppm) atingiu 100% de eficácia no tratamento contra os três estádios larvários de C. hominivorax. A concentração de 125 ppm alcançou este valor mais rapidamente. Nos estudos com infestações naturais (Exp. II e III), os animais após receberem incisões cutâneas foram liberados a pasto para que ocorressem infestações. Detectada a presença de larvas, o animal era alocado, por sorteio, para um dos grupos experimentais. No experimento II utilizou-se spinosad 50 e 150 ppm e no experimento III 250 e 400 ppm. Como tratamentos positivos, foram utilizados: chlorpyriphos e uma associação de chlorphenvinphos + dichlorvos. Os animais foram examinados diariamente do dia zero (D0) até dia 12 (D12). Ficou demonstrado nos experimentos com infestação natural que spinosad 50 e 150 ppm apresentaram eficácia inferior a 100%, enquanto que a 250 e 400 ppm proporcionaram 100% de eficácia decorridas 24 horas do tratamento, a concentração com 400 ppm alcançou este valor decorridos 12 horas pós tratamento Palavras-chaves: bovinos, Cochliomyia hominivorax, eficácia, infestação natural,conducted, the first one with an artificial infestation and the other two with natural infestation. In the first experiment (artificially infested) the animals were divided into 9 experimental groups, three repetition per treatment. Each animal was inoculated with 200 larvae in four skin incisions, two on the palette and two in the rump, each one containing 50 larvae. The placement of L 1 larvae followed a range of 3 to 6 hours, 24 hours and 48 hours. The experimental groups had the following repetitions: spinosad 50 and 125 ppm, and a control group (untreated). After the treatment the animals were examined on the following period: 15, 30, 60 minutes, 6, 24 and 48 hours. Larvae which left the incision were taken for pupation on 25°C and 90% relativity humidity. The results demonstrated spinosad 50 and 125 ppm reached 100% effectiveness on the treatment of artificially caused myiasis by the three larval stages (L1, L2 and L3) of Cochliomyia hominivorax, in which the spinosad 125 ppm achieved it quicker. In the other experiments with natural infestation, after the skin incisions the animals were release on the field for the concurrency of the natural infestation. Once detected the presence of the larvae, the animals were randomly allocated in one of the experimental groups. On the experiment I were used the following concentration: spinosad 50 and 150 ppm on the experiment II spinosad 250 and 400 ppm. On both experiments were used two positives treatments: chlorpyriphos and a association of chlorphenvinphos plus dichlorvos. The animals were daily examined, from day zero (D0) to day 12 (D12</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Cochliomyia hominivorax (Diptera:Calliphoridae) é um inseto parasito formador de miíase. Este termo é definido porZUMPT (1965), como "infestação de seres humanos e outros vertebrados vivos (biontófaga), por meio das larvas, que pelo menos durante um período, se alimentam de tecidos vivos e substâncias corporais líquidas do hospedeiro". Estas miíases são causadas por moscas de diversas famílias, mas principalmente por algumas espécies pertencente a família Calliphoridae. Atualmente considera-se que o gênero Cochliomyia é formado por quatro espécies: C. hominivorax (Coquerel), C. macellaria (Fabricius), C. aldrichi e C.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>no laboratório não teve o êxito desejado. Na Líbia foram encontrados os ácaros Macracheles muscadomesticae e Trichotromídíum muscarum sobre adultos de C. hominivorax, entretanto, é desconhecido seu efeito de parasitismo(McGARRY et al., 1992).Além dos fatores diretamente ligados as perdas de produção, é importante também observar as opções terapêuticas para tratamento disponíveis no mercado.O controle das infestações provocadas pela larva daCochliomyia hominivorax é feito através da medicação individual dos animais empregando-se larvicidas tópicos e sistêmicos. No Brasil, a maioria dos inseticidas utilizados para o controle da mosca da bicheira na pecuária nacional, conhecidos como mata-bicheiras, pertencem à classe dos organofosforados (SINDAN, 2009). Vários produtos tópicos têm sido empregados para o tratamento da fase larvária da Cochliomyia hominivorax. CORREA (1954) utilizou o toxafeno verificando sua eficácia contra ovos e larvas. McGREGOR &amp; BUSHLAND (1957), GRAHAM et al, (1960) e BODDEN (1977) demonstraram a eficácia do Ronnel no tratamento da bicheira. GONÇALVES (1967), estudou a ação curativa e cicatrizante de produtos a base de diazinon e lindane em ovinos, concluindo que o primeiro foi mais efetivo. Mais recentemente, produtos injetáveis de ação prolongada têm sido utilizados no tratamento das larvas de Cochliomyia hominivorax. Após o advento das Lactonas Macrocíclicas, entre elas a doramectina, um endectocida de amplo espectro, derivado das avermectinas, mostrou ser altamente eficaz contra infestações por larvas de Cochliomyia hominivorax (GOUDIE et al, 1993). TREGONING (1983) estudou o efeito do closantel e de ivermectina contra miíase primária de bezerros, fazendo a aplicação no mesmo dia da castração. OLIVEIRA &amp; OLIVEIRA (1992), observaram que nem closantel nem a ivermectina protegeram ovinos contra a infestação induzida de Cochliomyia hominivorax. MOYA BORJA et al, (1993), demonstraram a eficácia profilática e a persistência da doramectina contra infestações induzidas de Cochliomyia hominivorax em bovinos. Devido a multiplicidade de demandas envolvidas no controle de parasitoses bovinas, aliados à busca constante de novas alternativas terapêuticas, pesquisas quimioterápicas devem ser incluídas nos programas de investigação, prevenção e manejo integrado, objetivando-se amenizar os problemas com a seleção de populações resistentes. Assim, pesquisas por novos fármacos levaram em 1982 ao descobrimento de uma nova molécula-Spinosad. A molécula spinosad é o nome comum dado à associação da spinosina A com o spinosina D. Estruturalmente, estes compostos</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>Estudos sobre desempenho de ecotoxicidade do spinosad demonstraram que este princípio ativo é praticamente atóxico para mamíferos e aves nas concentrações terapêuticas. No entanto, possui moderada toxicidade para peixes BARDEN (1998). Ainda segundo este autor, tais características de baixa toxidez para mamíferos sugerem que este composto farmacológico não possui efeitos adversos aos seres humanos. SNYDER et al, 2007, avaliaram a eficácia de spinosad via oral para cães contra infestação de pulgas e demonstraram o potencial desta molécula para uso mensal como um eficaz e seguro adulticida. Em bovinos, estudo demonstrou a eficácia terapêutica e persistência de spinosad contra piolhos mastigadores (Bovicola bovis) e sugadores (Linognathus vituli, Solenopotes capillatus e Haematopinus eurysternus) em bovinos em aplicações pour-on e em pulverização. Os resultados indicaram que spinosad ofereceu um nível de controle residual e terapêutico equivalente ou superior as formulações tópicas disponíveis no mercado com formulação a base de organofosforados (Coumaphos) ou piretroides (Cyflutrina) (WHITE et al, 2007). Embora não haja aprovação do uso de spinosad para o controle de ácaros em cães, um estudo preliminar para avaliar o uso de uma formulação oral contendo 50 e 100 mg/kg de spinosad para cães experimentalmente infestados com carrapato Rhipicephalus sanguineus (LATREILLE, 1806) (Acari: Ixodidae), demonstrou que ambas formulações ofereceram alta eficácia após 24 horas da aplicação e com um poder residual que pode controlar por até um mês. (SNYDER</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>, para que as infestações por larvas de C. hominivorax (miíases) ocorressem naturalmente.Diariamente, os bovinos eram examinados para averiguação da presença de ovos e/ou larvas. Quando detectada a presença de larvas o animal era alocado, por sorteio, para um dos grupos experimentais, como abaixo: imediatamente medicada, com o respectivo fármaco previamente sorteado ou mantido como controle (não tratado).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><figDesc>Para cada um dos dois experimentos (II e III), foi utilizado um delineamento experimental em parcela subdividida, considerando o tratamento principal, os fármacos mais o grupo controle, com diferentes números de repetições (miíases tratadas). Consideraram-se como tratamentos secundários, os locais das lesões, interações e os tratamentos principais(BANZATTO &amp; KRONKA, 1989). As informações de cada lesão, paleta direita e esquerda (PD, PE) e garupa direita e esquerda (GD e GE), foram individualmente transformadas em proporção do total de animais que apresentaram as respectivas lesões, em cada dia de avaliação e, posteriormente, transformadas em arco seno x(SAS, 1989). experimento demonstram que as duas formulações de Spinosad avaliadas (50 e 150 ppm) aplicadas via spray foram eficazes no tratamento de ínstar L 1 de Cochliomyia hominivorax artificialmente infestadas. O tratamento com ambas as formulações proporcionou eficácia de 100,00% seis horas após o tratamento (Quadro 1). Este resultado foi um pouco mais tardio que o encontrado por OLIVEIRA (1980), avaliando Dursban 5% (Clorpirifos) em aplicação tópica em ovinos, que observou eficácia de 100% após 5 minutos do tratamento. Entretanto, obteve eficácia máxima (100,00%) mais rapidamente que aquela observada por MOYA (1993) com uso de Doramectina injetável em bovinos que só alcançou este valor na 48ª hora pós-tratamento.O estudo permitiu ainda demonstrar que a formulação de Spinosad na concentração de 150 ppm, apresentou ação mais rápida que aquela proporcionada pela concentração a 50 ppm, levando à morte a maioria das larvas 30 minutos após a aplicação do composto.A ação das duas concentrações de Spinosad 50 e 150 ppm foi observada a partir de 15 minutos após a aplicação, quando foi notado aumento de motilidade e de mortalidade de parte das larvas (Quadro1). Com 60 minutos esta ação se intensificou e foi possível observar que a maioria das larvas encontravam-se mortas e as restantes continuavam a exibir aumento de motilidade. Na 6ª hora após aplicação todas as larvas tratadas com ambas às concentrações mostravam-se imóveis (mortas).Na 108 a hora pós-tratamento, a miíase localizada no membro posterior direito do animal 124, pertencente ao grupo tratado com spinosad (50 ppm), apresentava exsudação discreta e ausência de motilidade larval, fatores que permitiram registrá-la como miíase inativa. No entanto, a viabilidade destas duas larvas ficou registrada, ao final, pela emergência de duas moscas (Quadro 2). O que levou o grupo a apresentar eficácia de 87,50% neste momento da avaliação.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><figDesc>Quadro 1.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>1 ( 1 ( 2 .. 1 :)</head><label>1121</label><figDesc>Quadro 7.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>O 1 : 2 :: 1 : 2 :: 1 : 2 :: 1 : 2 ::</head><label>12121212</label><figDesc>Quadro 16.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>1 : 2 ::</head><label>12</label><figDesc>seguidas pelo menos por uma letra em comum, na coluna, não diferem entre si pelo teste Tukey (P&gt;0,05).**: Horas pós-tratamento Eli Lilly do Brasil Ltda.Lepecid BR Spray -Dow Agrosciences Industrial Ltda 3 Matabicheira Cyanamid -Fort Dodge Saúde Animal Ltda.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_11"><head>A</head><figDesc>análise conjunta dos resultados dos três experimentos permite recomendar o uso de spinosad no tratamento de bovinos submetidos a altos riscos de miíases por larvas C. hominivorax, uma vez que o tratamento com este fármaco se mostrou eficaz contra os três estádios larvais do parasito. Considerando inicialmente o experimento I, realizado com infestação artificial e com objetivo de encontrar uma dose para início de desenvolvimento, o spinosad proporcionou 100% de eficácia contra os três instares de C. hominivorax dentro de 24 horas pós-tratamento para as duas concentrações avaliadas (50 e 150ppm). Os experimentos complementares (II e III), a campo com infestação natural, evidenciaram que com um desafio maior as concentrações de spinosad de 50 e 150 ppm (experimento II) não apresentaram o mesmo desempenho e em nenhum momento alcançaram 100% de eficácia. No entanto, no experimento III, quando as concentrações experimentais foram elevadas para 250 e 400 ppm, os melhores os resultados foram observados e em ambas foi alcançado 100% de eficácia. Sendo que concentração mais elevada (400 ppm) foi aquela a proporcionar 100% de eficácia mais rapidamente (24° hora pós-tratamento). Resultados semelhantes foram obtidos por OLIVEIRA (1980), utilizando Clorpirifos (Dursban 5%), que também observou 100% de eficácia na 24° hora pós-tratamento. BODDEN (1977) avaliando Ronnel 7,9%, Diazinon 4% e DDVP 0,5%, observaram mortalidade de larvas algumas poucas horas pós-tratamento, e com 60 60 24 horas todos os tratamentos proporcionaram 100% de eficácia com todas as larvas mortas.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><figDesc>de interesse para o desenvolvimento de produtos dirigidos ao tratamento das miíases causadas por larvas de C. hominivorax. Visto que as infestações por este parasito ocorrem ao longo de todo o ano e devido ao fato de que a maioria dos atuais produtos utilizados para o tratamento terem como bases inseticidas da classe dos organofosforados e que o desenvolvimento de resistência é um fato que não podemos ignorar.Spinosad ainda tem como diferencial seu alto perfil de segurança e baixa toxicidade(EPA, Federal Register). Não apresentando evidências de sensibilização dermal que é importante para quem manuseia o produto(STEBBINS &amp; BROOKS, 1999e, SHIBATA, 1996).Outra característica interessante de spinosad é sua ampla margem de segurança para insetos benéficos ao ambiente (SCHOONOVER &amp; LARSON, 1995) e de segurança ambiental já que é classificado pelo U.S. Environmental Protection Agency (EPA) como um produto pesticida de risco reduzido.Como na literatura estão disponíveis poucos e antigos estudos do uso de organofosforados contra larvas de C. hominivorax, e como também não foi possível encontrar outras investigações do uso spinosad contra este parasito, fica difícil uma discussão comparativa mais ampla dos três experimentosVI. CONCLUSÕESA análise conjunta dos resultados dos três experimentos por meio dos delineamentos experimentais utilizados possibilitou extrair as seguintes conclusões:Spinosad, nas concentrações de 50 e 150 ppm, foi 100,00% eficaz no tratamento de miíases artificialmente causadas pelos três estádios larvários (L 1 , L 2 e L 3 ) deCochliomyia hominivorax.As concentrações de Spinosad 50 e 150 ppm não proporcionaram 100% de eficácia contra larvas de C. hominivorax em bovinos naturalmente infestados, Spinosad, nas concentrações de 250 e 400 ppm foi 100% eficaz no tratamento das miíases induzidas e infestadas naturalmente por larvas de C. hominivorax em bovinos, decorridas 24 horas pós-tratamento. A concentração de Spinosad a 400 ppm, mostrou eficácia terapêutica superior à de 250 ppm, contra larvas de C. hominivorax em bovinos naturalmente infestados, apresentando 100% de eficácia decorridos 12 horas pós-tratamento. Chem. Soc., Washington D. C., p. 214-225, 1992 NOVY, J.E.; Screwworm control and eradication in the southern United States www.fao.org/DOCREP/U4220T/U4220T0A.HTM&gt;. Acessado em 06/10/2009 OLIVEIRA, C. M. B.. Biologia, flutuação populacional e patologia da Cochliomyia hominivorax (Coquerel, 1858) em Porto Alegre. Arq. Fac. Vet. UFRGS, 14:93-97, 1986 a. OLIVEIRA, C. M. B.. Desenvolvimento das pupas de C. hominivorax (Coquerel, 1858) no Rio Grande do Sul. Arq. Fac. Vet. UFRGS, 4:87-92, 1986 b. OLIVEIRA, C. M. B.. Cochliomyia hominivorax (Coquerel, 1858): Classificação, distribuição e biologia. In: Seminário Nacional sobre Parasitoses dos Bovinos. Anais do Seminário Nacional sobre Parasitoses dos Bovinos, Campo Grande, MS, 1979. OLIVEIRA, C. M. B., Emprego do Dursban no tratamento de miíases causadas por Cochliomyia hominivorax (Coquerel, 1858), Arq. Fac. Vet. UFRGS, 8: 7-12, 1980 OLIVEIRA, C. M. B.. Biologia, flutuação populacional e patologia da Cochliomyia hominivorax (Coquerel, 1858) (Díptera: Calliphoridae), 92 f. Tese (Doutorado Parasitologia Veterinária) -Universidade Federal Rural do Rio de Janeiro, Rio de Janeiro, 1980. OLIVEIRA, C. M. B.. Flutuação populacional da Cochliomyia hominivorax (Coquerel, 1858) em Porto Alegre, RS, In: CONGRESSO BRASILEIRO DE MEDICINA VETERINÁRIA, 20p, Cuiabá, MT, Anais Cuiabá, MT, Sociedade Brasileira de Medicina veterinária, 286 pp, 1886.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="25,90.93,256.86,430.10,283.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="70,218.38,84.33,205.84,612.91" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Eli Lilly do Brasil Ltda</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p>Eli Lilly do Brasil Ltda.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_2"><p>Lepecid BR Spray -Down Agrociences Industrial Ltda.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_3"><p>Matabicheira Cyanamid Aerosol -Fort Dodge Saúde Animal Ltda.</p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Evolução das lesões induzidas e infestadas naturalmente por larvas de Cochliomyia hominivorax <ref type="bibr">(miíases)</ref> presentes em bovinos do Grupo Controle. Formiga, MG, Brasil. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Objetivo Geral..........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Objetivos Específicos............................................................................... IV. Material e Métodos.........................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">1. Calculo da Eficácia Terapêutica..............................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2. Experimento I -Infestação Artificial......................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.1. Animais e local do experimento.............................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.2. Obtenção das larvas de Cochliomyia hominivorax...................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2.3. Formulação............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Delineamento Experimental...................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Experimento II -Infestação Natural...................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">do experimento................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2 Formulação...............................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">3.3. Delineamento Experimental...................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">Experimento III -Infestação Natural..................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Animais e local</title>
+		<author>
+			<orgName type="collaboration">do experimento................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">2. Formulação................................................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">4.3. Delineamento Experimental...................................................</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<orgName type="collaboration">5. Analise Estatística............................................................................... VII. REFERÊNCIAS BIBLIOGRÁFICAS</orgName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Isolamento e caracterização do gene da esterase relacionado a resistência a inseticidas organofosforados na praga da pecuária Cochliomyia hominivorax (Diptera:Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Assis</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Dissertação de Mestrado</publisher>
+			<biblScope unit="page" from="69" to="2007" />
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Estadual de Campinas, Instituto de Biologia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Efficacy of dicyclanil in the prevention of screwworm infestation (Cochliomyia hominivorax) in cattle castration wounds</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Guglielmone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schmid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="229" to="232" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Mass production of sterile New World screwworm flies in southern Mexico</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Babilonia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Maki</surname></persName>
+		</author>
+		<idno>Acessado em 01/08/2009</idno>
+		<ptr target="http://www.fao.org/ag/aga/agap/FRG/FEEDback/War/u4220b/u" />
+	</analytic>
+	<monogr>
+		<title level="m">4220b0g.htm#mass%20 production%20of%20sterile%20new%20world%20screwworm%20flies%20in%20southe rn%20mexico</title>
+		<imprint/>
+	</monogr>
+	<note>FAO -New World response to emergency -1991</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>Banzato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Kronka</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Experimentação Agrícola</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<pubPlace>Jaboticabal, FUNEP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Evaluation of the new active Spinosad in the products Laser Naturalyte insect Control and Tracer Naturalyte Insect Control, NRA (National Registration Authority for Agricultural and Veterinary Chemical)</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Barden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Med. Assoc., v</title>
+		<imprint>
+			<biblScope unit="volume">196</biblScope>
+			<biblScope unit="page" from="240" to="248" />
+			<date type="published" when="1966">1998. 1966</date>
+			<pubPlace>Canberra., Australia</pubPlace>
+		</imprint>
+	</monogr>
+	<note>BAUMHOVER, A. H. Eradication of the screwworm fly, an agent of myiasis</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Baumhover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">A J</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">B</forename><surname>Biitter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hopkins</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Screwworm control through release of sterilized flies</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Dudley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Bushland R</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol. v</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="462" to="466" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Surveillance and collection of arthropods of veterinary importance. USA-APHIS/ARS-USDA (Agriculture Handbook) 125 pp</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Bram</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<biblScope unit="page">518</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Diazinon e de DDVP com sevin contra os três estágios larvais de Cochliomyia hominivorax (Coquerel, 1858)</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Q</forename><surname>Bodden</surname></persName>
+		</author>
+		<idno>12/05/1997</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Secretaria de Defesa Agropecuária</title>
+		<imprint>
+			<publisher>Eficácia de aerosois a base de Ronnel</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal do Rio Grande do Sul</orgName>
+		</respStmt>
+	</monogr>
+	<note>Tese de Mestrado Portaria nº</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Successful and currently ongoing parasite eradication programs</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Bowman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">139</biblScope>
+			<biblScope unit="page" from="293" to="307" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Experiment with screwworm flies sterilized by xrays</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Bushland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hopkins</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<idno>em: 30/07/2009</idno>
+		<ptr target="www.cnpc.org.br/arquivos/Balanço.xls" />
+	</analytic>
+	<monogr>
+		<title level="m">Site corporativo. Disponível em</title>
+		<imprint>
+			<date type="published" when="1951-10">Oct 1951</date>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="725" to="731" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Contribuição ao estudo da profilaxia das miíases cutâneas pelo emprego do Toxafeno</title>
+		<ptr target="http://www.courobusinesss.com.br/20038.phpCORREA" />
+		<imprint>
+			<date type="published" when="1954">2003. 1954</date>
+			<publisher>COUROBUSSINESS. O site da indústria de couro do Brasil</publisher>
+			<pubPlace>Porto Alegre</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Imprensa Universitária</orgName>
+		</respStmt>
+	</monogr>
+	<note>Qualidade do couro: De quem é a conta? ; Maio -Junho de</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Novel mode of action of spinosad: Receptor binding studies demonstrating lack of interaction with known insecticidal target sites</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Crouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Orr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Shaffner</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Richey K</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesticide Biochemistry and Physiology</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reproductive behavior of laboratory-reared screw-worm flies (Díptera: Calliphoridade)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Crystal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Ent. v</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="443" to="450" />
+			<date type="published" when="1967-11">Nov 1967a</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Longevity of screwworm flies Cochliomyia hominivorax (Coquerel) (Díptera: Calliphoridade): Effect of sex and grouping</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Crystal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Ent. v</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="479" to="482" />
+			<date type="published" when="1967-11">Nov 1967b</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">A revision of the New World Chrysmyini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="169" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Control of arthropod pests: a review of technology</title>
+		<author>
+			<persName><forename type="middle">O</forename><surname>Drummond R</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kunz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1988">1988</date>
+			<publisher>CRC Press</publisher>
+			<pubPlace>Boca Raton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Epa -Federal</forename><surname>Register</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Spinosad</forename></persName>
+		</author>
+		<idno>02/10/2009</idno>
+		<ptr target="&lt;http://www.epa.gov/EPA-PEST/" />
+		<imprint>
+			<date type="published" when="2005-01">2005/January/Day-07/p088</date>
+		</imprint>
+	</monogr>
+	<note>Pesticide Tolerance. Disponivel em</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Food and Agriculture Oraganization of the United Nations. Manual for the control of the screwworm of the Cochliomyia hominivorax</title>
+		<author>
+			<persName><surname>Fao</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">2</biblScope>
+			<pubPlace>Coquerel, 1858</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Freitas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M A</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">O</forename><surname>Costa</surname></persName>
+		</author>
+		<title level="m">IIDE, P, Entomologia e acarologia médica e veterinária</title>
+		<meeting><address><addrLine>Belo Horizonte</addrLine></address></meeting>
+		<imprint>
+			<publisher>Precisa</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page">253</biblScope>
+		</imprint>
+	</monogr>
+	<note>3. ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">Distribuição espacial da variabilidade genética da mosca da bicheira no Caribe e América do Sul</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>CONGRESSO BRASILEIRO DE GENÉTICA</publisher>
+			<biblScope unit="page">55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Gilbert</surname></persName>
+		</author>
+		<idno>No. DR-0323-1194-017C</idno>
+		<title level="m">XDE-105: Primary eye irritation study in New Zealand white rabbits</title>
+		<meeting><address><addrLine>Letcombe, United Kingdom</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Unpublished report</note>
+	<note>Submitted to WHO by Dow AgroSciences</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Gilbert</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Xde-105</surname></persName>
+		</author>
+		<idno>No. DR-0323-1194-017D1</idno>
+		<title level="m">Acute dermal toxicity study in New Zealand white rabbits</title>
+		<imprint/>
+	</monogr>
+	<note type="report_type">Unpublished report</note>
+	<note>Submitted to WHO by Dow AgroSciences, Letcombe, United Kingdom. 1994b</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Symposium on Eradication of the Screwworm from the United States and México</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Misc. Publ. Entomol. Soc. America</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="68" to="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Comparacion entre Ronnel e Coral aplicados em aspersion para el control de Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Wrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kuns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Drummond</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ver. Invest. Ganad</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="274" to="279" />
+			<date type="published" when="1960">1960</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil. Hora Veterinária, Ano 21</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Pereira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="11" to="21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">Ação do 0,0 dietil-0 (2 isopropil 4 -metil pirimidil -6) tiofosfato (Diazinon) em larvas de Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1967">1967</date>
+			<publisher>CONGRESO DA SOCIEDADE DE VETERINÁRIA DO RIO GRANDE DO SUL</publisher>
+			<biblScope unit="volume">5</biblScope>
+			<pubPlace>Porto Alegre/RS, Anais</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Goudie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A F</forename><surname>Gration</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">F</forename><surname>Bishop</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Holdom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Kaye</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Wicks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Weatherley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Bruce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Herbert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Seymour</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="5" to="15" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">As miises na Região Neotropical (identificação, biologia, bibliografia)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Myiasis in man and animals in the neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pleiade l FAPESP cap</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="97" to="117" />
+			<date type="published" when="1999">1999</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title level="m" type="main">Screwworm flies as agents of myasis. World Animal Review, FAO -New World screw-worm response to emergency -1991</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J R</forename><surname>Hall</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.fao.org/ag/aga/agap/FRG/FEEDback/War/u4220b/u4220b07" />
+		<imprint/>
+	</monogr>
+	<note>htm#screwwo rm%20flies%20as%20agents%20of%20wound%20myiasis&gt;</note>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<idno>em: 01/08/2009</idno>
+		<title level="m">Acessado</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Myiases of humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IAEA International Atomic Energy Agency Thematic plan for the Sterile Insect Technique for Old and New World Screwworm. Viena, Áustria -1998</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="258" to="334" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m">IBGE Instituto Brasileiro de Geografia e Estatística -Produção da pecuária municipal</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Diretoria de Pesquisas, Coordenação de Agropecuária, Pesquisa da Pecuária Municipal</title>
+		<ptr target="ftp://ftp.ibge.gov.br/Producao_Pecuaria/Producao_da_Pecuaria_Municipal/2007/IELInstitutoEuvaldoLodi.NúcleoNacional" />
+		<imprint>
+			<date type="published" when="2006">2006-2007 -Acessado em 28/09/2009</date>
+			<publisher>IBGE Instituto Brasileiro de Geografia e Estatística</publisher>
+			<pubPlace>Brasília, DF</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m">Confederação Nacional Da Agricultura</title>
+		<meeting><address><addrLine>Brasília, DF</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Estudo sobre a eficiência econômica e competitividade da cadeia agroindustrial da pecuária de corte no Brasil</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">416</biblScope>
+			<pubPlace>Brasília, DF; Brasília</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Possibilities of insect control or eradication through the use of sexually steriles males</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Knipling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Entomology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="459" to="462" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Biology of the primary screwworm fly Cochliomyia hominivorax and comparison for its stages with those of C</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Kirst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Michel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Mynderse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Chao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Yao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Laake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Cushing</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Parish</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">macelaria. Tech Bull</title>
+		<imprint>
+			<biblScope unit="page" from="24" to="1936" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">History of the screwworm (Cochliomyia hominivorax) eradication in the Earstern Hemisphere</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Kouba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Historia Medicinae Veterinariae</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="43" to="53" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">The flies that cause myiases in man</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1947">1947</date>
+			<biblScope unit="volume">631</biblScope>
+			<biblScope unit="page">175</biblScope>
+			<pubPlace>Washington, USDA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Biologia e controle de Cochliomyia hominivorax (Díptera: Calliphoridade) In: XIII Congresso Brasileiro de Parasitologia Veterinária &amp; Simpósio Latino Americano de Rickettsioses</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Jeferson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C R</forename><surname>Leite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleonics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="74" to="76" />
+			<date type="published" when="1960">1960. 2004</date>
+			<pubPlace>Ouro Preto, MG</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Irradiated males eliminate screwworm flies</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Phoretic and parasitic mites infesting the New World screwworm fly, Cochliomyia hominivorax, following insect sterile releases in Libya</title>
+		<author>
+			<persName><forename type="first">Garry</forename><forename type="middle">J W</forename><surname>Mc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Gusbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J R</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mughadmi K</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="255" to="260" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Test with Dow ET-57 against two species of cattle grub</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Mcgregor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Bushland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="246" to="251" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Alterações clínicas em bovinos infestados experimentalmente com larvas de Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Morais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M K</forename><surname>Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Parasitol. Vet. v</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="154" to="158" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Prophylactic and persistent eficacy of doramectin against Cochliomyia hominivorax in cattle</title>
+		<author>
+			<persName><forename type="first">Moya</forename><surname>Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasit</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="95" to="105" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Eficácia do Fipronil &apos;&apos;Pour-On&apos;&apos; (TOPLINE1) na prevenção da infestação da bicheira (Cochliomyia hominivorax) em bovinos castrados</title>
+		<author>
+			<persName><forename type="first">Moya-Borja</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Salani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">66</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 2</note>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title level="m" type="main">Produção e reparo de couros e peles. Rio de janeiro, Ministério da Agricultura</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mucciolo</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">686</biblScope>
+			<biblScope unit="page">1948</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Efficacy of injectable doramectin in the protection of castrated cattle against field infestations of Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eerrecalde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename><surname>Gonc¸alves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="327" to="333" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Efficacy of doramectin in the protection of neonatal calves and postparturient against field strikes of Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ordonez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Errecalde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Rew</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="155" to="161" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title level="m" type="main">Discovery isolation and structure elucidation of a family of structurally unique fermentation-derived tetracyclic macrolides</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Nakatsukasa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Boeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Occlowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Paschel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Deeter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<idno>Am. 68</idno>
+		<editor>D. R. Baker, J. G. Fenyes and J. J. Steffens</editor>
+		<imprint/>
+	</monogr>
+	<note>Synthesis and chemistry of agrochemicals 111</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Influência da temperatura e da umidade relativa do ar na evolução das pupas de Cochliomyia hominivorax (Coquerel, 1858)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Fac. Vet. UFRRJ</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="35" to="38" />
+			<date type="published" when="1978">1978</date>
+			<pubPlace>Dez</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">CONGRESSO ESTADUAL DE VETERINÁRIA MEDICINA DO RIO GRANDE DO SUL, 11, Gramado/RS</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Associação entre o morcego hematófago Desmodus rotundus (E. Geoffroy, 1810) (Chiroptera: Phyllostomidae) e &quot;Mosca da Bicheira&quot; Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae) e aspectos bioeconomicos de suas miíases</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Piccinini</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Anais; New Jersey; Itaguaí, RJ</addrLine></address></meeting>
+		<imprint>
+			<publisher>Tese de Doutorado</publisher>
+			<date type="published" when="1988">1992. 1999. 1988</date>
+			<biblScope unit="page">233</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal Rural Rio de Janeiro -UFFRJ</orgName>
+		</respStmt>
+	</monogr>
+	<note>Prevenção da miíase cutânea primaria em ovinos rd ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Current trends in screwworm myiasis in the Caribean region</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Rawlings</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="241" to="250" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Area-wide biological control of disease vectors and agents affecting wildlife</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Reichard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revue Scientifique et Technique Office International des Epizooties</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="179" to="185" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title level="m" type="main">Eficácia do spinosad no tratamento de bovinos naturalmente ou artificialmente infestados por Boophilus microplus (Canestrini, 1887)</title>
+		<author>
+			<persName><forename type="first">Usa</forename><surname>Nc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Sabatini</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989 -1996</date>
+			<publisher>SAS@ User&apos;s Guide: Statistics. SAS Institute, Inc. Cary</publisher>
+			<biblScope unit="page">71</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>SAS Institute ; Dissertação de Mestrado -Universidade Estadual Paulista</orgName>
+		</respStmt>
+	</monogr>
+	<note>Faculdade de Ciências Agrárias e 70</note>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jaboticabal</forename><surname>Veterinárias</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="64" to="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">The mode of action of spinosad and other insect control products</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Salgado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Down to Earth</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="44" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Studies on the mode of action of spinosad: Insect symptoms and physiology correlates</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Salgado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesticide Biochemistry and Physiology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="91" to="102" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Studies on the mode of action of spinosad: Internal effective concentration and concentration dependence of neural excitation</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Salgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Sheets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Z</forename><surname>Schimidt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesticide Biochemistry and Physiology</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="103" to="110" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">Alterações Clínicas hematológicas e seroproteicas provocadas por larvas de Cochliomyia hominivorax em bovinos. VIII Seminário Brasileiro de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>Londrina, PR</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title level="m" type="main">Laboratory activity of spinosad on non-target beneficial arthropods</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Schoonover</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Larson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994. 1995</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">357</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Arthropod Management Tests</note>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Prevenção de miíases umbilicais em bezerros criados extensivamente no Pantanal, através de utilização de ivermectina</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sereno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Catto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T P S</forename><surname>Sereno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comunicado Técnico EMBRAPA CPAP</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1" to="5" />
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Corumbá, MS</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<author>
+			<persName><surname>Sindan</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.cpvs.com.br/cpvs/index.html&gt;.Acessadaem01/10/2009" />
+		<title level="m">Compêndio de Produtos Veterinários (CPVS),: Disponivel em</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">A skin sensitization study of DE-105 in guinea pigs (maximisation test)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shibata</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996-04-19">19 April, 1996</date>
+			<publisher>Bozo Research Centre Inc</publisher>
+			<biblScope unit="volume">3106</biblScope>
+			<pubPlace>Tokyo, Japan</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Unpublished report</note>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">The screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae), in Central America and proposed plans for its eradication south to the Darien Gap in Panama</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Snow</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Whitten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salinas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ferrer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Sudlow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Econ. Entomol. v</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="353" to="360" />
+			<date type="published" when="1960-12">Dec 1960. 1985</date>
+		</imprint>
+	</monogr>
+	<note>Mass production of screwworm (Callitroga hominivorax) for eradication program in the southeastern states J. Med. Entomol.</note>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Preliminary studies on the effectiveness of the novel pulicide, spinosad, for the treatment and control of fleas on dogs</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Meyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Zimmermann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Qiao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Gissendanner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Cruthers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Slone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Young</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology v</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="345" to="351" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Preliminary study on the acaricidal efficacy of spinosad administered orally to dogs infested with the brown dog tick, Rhipicephalus sanguineus (LATREILLE, 1806) (Acari: Ixodidae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Snyder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Cruthers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Slone</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">166</biblScope>
+			<biblScope unit="page" from="131" to="135" />
+			<date type="published" when="2009-12-02">1-2, Dec. 2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Biological characteristics of the spinosyns: a new class of naturally derived insect control agents</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sparks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 1995 Beltwide Cotton Production Conference</title>
+		<meeting>the 1995 Beltwide Cotton Production Conference<address><addrLine>Jaboticabal; Memphis TN</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Cotton Council</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="903" to="907" />
+		</imprint>
+		<respStmt>
+			<orgName>Coleoptera:Tenebrionidae), Dissertação de Mestrado -Universidade Estadual Paulista</orgName>
+		</respStmt>
+	</monogr>
+	<note>Avaliações experimentais do spinosad no controle de Alphitobius diaperinus Faculdade de Ciências Agrárias e Veterinárias</note>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sparks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Sheets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Skomp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Worden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Larson</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Penetration and metabolism of spinosyn A in to Lepidopterous larvae</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Thibault</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Wally</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 1997 Beltwide Cotton Production Conference</title>
+		<meeting>the 1997 Beltwide Cotton Production Conference<address><addrLine>National Cotton Council, Memphis TN</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="page" from="1259" to="1264" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Biological activity of the spinosyns, new fermentation derived insect control agents, on tobacco budworm (Iepidoptera: noctuidae) larvae</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sparks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Kirst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Hertlein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">V</forename><surname>Worden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Thibault</surname></persName>
+		</author>
+		<idno>No. DR-0360- 3530-003</idno>
+	</analytic>
+	<monogr>
+		<title level="m">mixture): Acute dermal irritation study in New Zealand white rabbits</title>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Stebbins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Brooks</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">(</forename><surname>Spinosad</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Dow AgroSciences, Indianapolis, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1998-01-07">1998. 07 January 1999. 1999</date>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page">50</biblScope>
+		</imprint>
+	</monogr>
+	<note type="report_type">Unpublished report</note>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Stebbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Brooks</surname></persName>
+		</author>
+		<title level="m">Spinosad (spinosyn A &amp; D, 50:50 mixture): Acute eye irritation study in New Zealand white rabbits. Unpublished report dated 07</title>
+		<meeting><address><addrLine>Dow AgroSciences, Indianapolis, USA</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999-01">January 1999. 1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title level="m" type="main">mixture): Dermal sensitisation potential study in Hartley albino guinea pigs</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Stebbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Brooks</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Spinosad (spinosyn A &amp; D</surname></persName>
+		</author>
+		<idno>No. DR- 360-3530-006</idno>
+		<imprint>
+			<date type="published" when="1999-01-07">07 January 1999. 1999</date>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page">50</biblScope>
+			<pubPlace>Dow AgroSciences, Indianapolis, USA</pubPlace>
+		</imprint>
+	</monogr>
+	<note type="report_type">Unpublished report</note>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Variabilidade genética e estrutura de populações de Cochliomyia hominivorax (Diptera: Calliphoridae): uma nova perspectiva através de marcadores microssatélites</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Toledo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Controle do berne e das bicheiras com BHC</title>
+		<meeting><address><addrLine>Campinas-SP</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1950">1950. 2006</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">138</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Tese de doutorado -Instituto de Biologia. Universidade Estadual de Campinas</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Spinosyns: an overview of new natural insect management systems</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Busacca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Jantz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Kirst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Larson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Sparks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the 1995 Beltwide Cotton Production Conference</title>
+		<meeting>the 1995 Beltwide Cotton Production Conference<address><addrLine>Memphis TN</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Cotton Council</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="page" from="1039" to="1043" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Observaciones sobre el efecto preventive del Closantel y la Ivermectin en miais de castracion en terneros</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tregoning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gaceta Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="issue">381</biblScope>
+			<biblScope unit="page" from="593" to="596" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Eradication of the screwworm from Libya using the Sterile Insect Technique</title>
+		<author>
+			<persName><surname>Vargas-Terán M</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Today</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="119" to="122" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<title level="m" type="main">Cochliomyia hominivorax (Coquerel,1858): Meio alternativo para a produção de larvas e testes prospectivos</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M G</forename><surname>Yarzon</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Campo Grande</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Dissertação Mestrado em Ciência Animal -Universidade Federal de Mato Grosso do Sul</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Old World</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<imprint>
+			<publisher>London. Butterworths</publisher>
+			<biblScope unit="page">1965</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Therapeutic and persistent efficacy of spinosad applied as a pour-on or a topical spray against natural infestationsof chewing and sucking lice on cattle</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>White</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hutchens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Firkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Paul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Snyder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">143</biblScope>
+			<biblScope unit="page" from="329" to="336" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

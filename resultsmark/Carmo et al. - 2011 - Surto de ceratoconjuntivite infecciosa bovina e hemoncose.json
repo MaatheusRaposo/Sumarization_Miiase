@@ -1,0 +1,885 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "",
+    "authors": [
+      "Priscila Carmo",
+      "Agueda Vargas",
+      "Daniel Rissi",
+      "José Oliveira-Filho",
+      "Felipe Pierezan",
+      "Ricardo Lucena",
+      "Fernando Leivas Leite",
+      "Claudio Barros"
+    ],
+    "hash": "BF53DD629357B72BE3874E0E86989C8C",
+    "publisher": "",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "An outbreak of infectious bovine keratoconjunctivitis (IBK) with concomitant haemonchosis is described affecting a group of 116 yearling calves in southern Brazil. Twenty calves were affected and nine died. Clinical signs included wasting, marked oral mucosal pallor, serous ocular discharge, focal central corneal opacity, and reddening of the conjunctiva. More advanced stages displayed copious serous ocular discharge, corneal opacity, keratoconus, keratomalacia, and blindness. The diagnosis of IBK was based on the epidemiological, clinical, and pathological findings and confirmed by bacteriologic culture of a hemolytic strain of Moraxella bovis from the eye globe of two affected calves. The high lethality rate (45%) in this outbreak was caused by concomitant and severe haemonchosis.",
+        "coords": [],
+        "refs": []
+      },
+      {
+        "id": 1,
+        "text": "INDEX TERMS: Diseases of cattle, conjunctivitis, bovine infectious keratoconjunctivitis, Moraxella bovis.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_564b6b3e",
+      "text": "RESUMO.-É descrito um surto de ceratoconjuntivite infecciosa bovina (CIB) e hemoncose intercorrente afetando um grupo de 116 bezerros de 1-2 anos de idade na região central do Rio Grande do Sul. Vinte bezerros foram afetados e nove morreram. Os sinais clínicos incluíam perda de peso, marcada palidez da mucosa oral, lacrimejamento, opacidade focal da córnea e avermelhamento da conjuntiva. Sinais mais avançados incluíam lacrimejamento copioso, opacidade da córnea, ceratocone, ceratomalacia e cegueira. O diagnóstico de CIB foi baseado nos achados epidemiológi-cos e clínico-patológicos e confirmado pela cultura de uma cepa hemolítica de Moraxella bovis dos olhos de dois terneiros afetados. O alto coeficiente de letalidade (45%) neste surto foi atribuído a grave hemoncose intercorrente.",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_72b2839d",
+      "text": "TERMOS DE INDEXAÇÃO: Doenças de bovinos, conjuntivite, ceratoconjuntivite infecciosa bovina, Moraxella bovis.",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_f476477e",
+      "text": "A ceratoconjuntivite infecciosa bovina (CIB), causada por Moraxella bovis, é a doença ocular mais importante de bovinos em todo o mundo e, embora raramente fatal, causa consideráveis perdas na produção do rebanho (Postma et al. 2008). M. bovis é um bacilo aeróbico e Gram-negativo (Kodjo et al. 1997, Angelos 2010a) que habita normalmente a conjuntiva de bovinos saudáveis (Barber et al. 1986). No entanto, cepas produtoras de hemolisina (toxina RTX-representing repeats in the structural toxin) e dotadas de fímbrias são patogênicas e responsáveis pela CIB (Punch & Slatter 1984, Barber et al. 1986, Rogers et al. 1987a,b, Angelos 2010b). A doença afeta principalmente Surto de ceratoconjuntivite infecciosa bovina e hemoncose causando mortalidade em bezerros 1 bovinos, mas ovinos e caprinos também podem ser infectados e apresentar doença clínica (Wilcock 2007).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Postma et al. 2008)",
+          "offset_start": 213,
+          "offset_end": 233
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Kodjo et al. 1997",
+          "offset_start": 281,
+          "offset_end": 299
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Angelos 2010a",
+          "offset_start": 299,
+          "offset_end": 314
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "(Barber et al. 1986)",
+          "offset_start": 373,
+          "offset_end": 393
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Punch & Slatter 1984",
+          "offset_start": 558,
+          "offset_end": 579
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": ", Barber et al. 1986",
+          "offset_start": 579,
+          "offset_end": 599
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Rogers et al. 1987a",
+          "offset_start": 599,
+          "offset_end": 620
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ",b, Angelos 2010b)",
+          "offset_start": 620,
+          "offset_end": 638
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "(Wilcock 2007)",
+          "offset_start": 850,
+          "offset_end": 864
+        }
+      ],
+      "head_section": "INTRODUÇÃO"
+    },
+    {
+      "id": "p_7dd70e6c",
+      "text": "Os sinais clínicos observados inicialmente são lacrimejamento, conjuntivite, blefaroespasmo e fotofobia (Baptista 1979, Punch & Slatter 1984, Brown et al. 1998). Após 2-4 dias do início dos sinais clínicos há edema de córnea associado ao aparecimento de um foco opaco e brancacento ou amarelo-azulado no centro da córnea. Esse foco estende-se centrifugamente de forma gradativa (Baptista 1979, Punch & Slatter 1984, Aikman et al. 1985) e nessa fase pode ser observada ulceração da córnea (Punch & Slatter 1984). As sequelas mais comuns em bovinos afetados pela CIB são ceratocone, hipópion e iridociclite (Baptista 1979, Punch & Slatter 1984, Dziezyc & Millichamp 2006). O objetivo deste trabalho é descrever a epidemiologia e os achados clínico-patológicos de um surto de CIB em bezerros na região Central do Rio Grande do Sul.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Baptista 1979",
+          "offset_start": 104,
+          "offset_end": 118
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", Punch & Slatter 1984",
+          "offset_start": 118,
+          "offset_end": 140
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": ", Brown et al. 1998)",
+          "offset_start": 140,
+          "offset_end": 160
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Baptista 1979",
+          "offset_start": 378,
+          "offset_end": 392
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", Punch & Slatter 1984",
+          "offset_start": 392,
+          "offset_end": 414
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": ", Aikman et al. 1985)",
+          "offset_start": 414,
+          "offset_end": 435
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Punch & Slatter 1984)",
+          "offset_start": 488,
+          "offset_end": 510
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Baptista 1979",
+          "offset_start": 605,
+          "offset_end": 619
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", Punch & Slatter 1984",
+          "offset_start": 619,
+          "offset_end": 641
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": ", Dziezyc & Millichamp 2006)",
+          "offset_start": 641,
+          "offset_end": 669
+        }
+      ],
+      "head_section": "INTRODUÇÃO"
+    },
+    {
+      "id": "p_894ed05c",
+      "text": "Os dados epidemiológicos e os achados clínicos foram obtidos por meio de uma visita à propriedade e informações posteriores do veterinário que atendeu o surto. Na ocasião da nossa visita à propriedade, dois bezerros machos de um ano de idade foram submetidos à eutanásia e necropsiados. Fragmentos de vários órgãos dos dois bovinos necropsiados, incluindo os globos oculares, foram fixados em formol a 10%, processados rotineiramente para histologia e corados pela hematoxilina e eosina. Secções dos olhos foram coradas também pela técnica de Gram. Para comprovação do diagnóstico foram colhidas amostras de secreções oculares de sete bezerros afetados utilizando-se swabs estéreis friccionados no saco conjuntival inferior dos dois olhos. As amostras foram semeadas em meios base de ágar-sangue com 5% de sangue ovino e ágar-MacConkey e incubadas em aerobiose a 37°C por um período de 48 horas. Colônias isoladas foram caracterizadas fenotipicamente (morfologia colonial e celular, reação à coloração de Gram, catalase, oxidase, redução de nitrato, produção de indol, utilização da glicose e teste da deaminação da fenilanina) (MacFaddin 1980, Angelos 2010a). Os isolados após a identificação foram submetidos ao teste de suscetibilidade, aos antimicrobianos, in vitro, pelo método de difusão em disco, segundo o NCCLS (1999), com os seguintes antimicrobianos: estreptomicina (10mcg), gentamicina (10mcg), neomicina (30mcg), oxaciclina (1mcg), penicilina (10UI), sulfazotrim (25mcg), tetraciclina (30mcg).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(MacFaddin 1980",
+          "offset_start": 1128,
+          "offset_end": 1143
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Angelos 2010a)",
+          "offset_start": 1143,
+          "offset_end": 1159
+        }
+      ],
+      "head_section": "MATERIAL E MÉTODOS"
+    },
+    {
+      "id": "p_8d967a23",
+      "text": "Em meados de dezembro de 2009, 116 bezerros cruza Hereford, com idades de 16-20 meses foram adquiridos de uma fazenda em Rio Pardo e transferidos para um estabelecimento localizado em Santa Cruz do Sul, região Central do Rio Grande do Sul, onde foram colocados em um campo com 135 hectares, onde não havia outros animais. Os bezerros não eram recolhidos para mangueira e não foram everminados ou receberam qualquer tipo de vacinação. No início de janeiro de 2010, alguns desses bezerros apresentaram sinais que consistiam inicialmente de lacrimeja-mento e aparecimento de pequenos focos opacos na porção central da córnea (Fig. 1A). Com o tempo, esse foco estendia-se centrifugamente e, em alguns casos, passava a atingir quase toda a córnea (Fig. 1B). Alguns bezerros também apresentavam úlceras, conificação (ceratocone, Fig. 1C) e ruptura da córnea por enfraquecimento e necrose (ceratomalacia, Fig. 1D). Três bezerros afetados apresentaram temperatura de 41,5°C, dois estavam cegos (chocavam-se contra obstáculos em seu caminho). Sinais clínicos adicionais incluíam taquipneia, salivação excessiva e mucosas marcadamente pálidas. Num período de aproximadamente quatro semanas, 20 bezerros foram afetados com sinais clínicos semelhantes e nove morreram.",
+      "coords": [],
+      "refs": [],
+      "head_section": "RESULTADOS Epidemiologia e sinais clínicos"
+    },
+    {
+      "id": "p_48309026",
+      "text": "Ambos os bezerros necropsiados mostravam mucosa oral marcadamente pálida. A conjuntiva ocular estava hiperêmica. A córnea do olho direito do Bezerro 1 estava ulcerada e espessada por tecido de granulação. Em meio ao tecido de granulação, encontravam-se numerosas larvas de Cochliomyia hominivorax (Fig. 2). O centro da córnea do olho esquerdo estava branco opaco e apresentava uma ulceração rasa. A córnea do olho esquerdo do Bezerro 2 estava ulcerada, levemente espessada e brancacenta. O olho direito tinha o centro da córnea branco e opaco. Além das lesões oculares, os dois bezerros apresentavam hidropericárdio, ascite e grande número de exemplares de Haemonchus sp. no abomaso. No intestino delgado havia numerosos exemplares de nematódeos adultos com morfologia compatível com Trichostrongylus sp. Histologicamente foi observado que as três camadas (túnica fibrosa, túnica vascular e túnica neural) do olho direito do Bezerro 1 estavam espessadas por proliferação acentuada de tecido de granulação em meio ao qual havia acentuado infiltrado inflamatório misto, grande quantidade de material fibrilar eosinofílico (fibrina) e larvas de moscas. Sobre a córnea havia grande quantidade de exsudato serocelular contendo numerosos agregados de bactérias Gram-negativas. Na conjuntiva bulbar e no estroma da córnea do olho esquerdo, observou-se infiltrado inflamatório multifocal moderado constituído predominantemente por plasmócitos e, em menor número, por linfócitos. Além disso, foram observados alguns vasos sanguíneos preenchidos por eritrócitos e proliferação leve de tecido conjuntivo fibroso no estroma da córnea desse globo ocular. No corpo ciliar e na íris, havia infiltrado inflamatório multifocal, leve a moderado, constituído por plasmócitos, linfócitos e eosinófilos. As alterações histológicas nos dois globos oculares do Bezerro 2 eram semelhantes às descritas no globo ocular esquerdo do Bezerro 1 (Fig. 3). Não foram encontradas lesões indicativas de febre catarral maligna nos outros órgãos examinados. A partir do histórico, do exame físico e da necropsia foi realizado o diagnóstico clínico de CIB com hemoncose intercorrente. Nenhum dos bovinos que já estavam na propriedade adoeceram, mas esses animais não tinham contato direto com os 116 bezerros que chegaram em dezembro de 2009. Após o diagnóstico dos dois pro- blemas, os bezerros foram tratados para hemoncose com sulfóxido de albendazolfoot_0 na dose de 5ml por cada 100 kg de peso. Nenhum tratamento foi instituído para CIB, embora tenha sido recomendado ao proprietário.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Patologia"
+    },
+    {
+      "id": "p_694bb7ef",
+      "text": "Moraxella bovis foi isolado em meio de ágar-sangue em duas das sete amostras de secreção ocular. Não houve crescimento bacteriano no meio ágar-MacConkey. Os isolados caracterizaram-se como colônias cinzas, friáveis e beta-hemolíticas, sendo Gram negativas e em forma de bastonete. As provas bioquímicas revelaram reações positivas para oxidase e catalase. Reações negativas foram observadas nos testes para produção de indol, fermentação da glicose, redução de nitrato e deaminação da fenilalanina. Os isolados de M. bovis foram sensíveis in vitro a todos os antimicrobianos testados.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bacteriologia"
+    },
+    {
+      "id": "p_5e88ab65",
+      "text": "O diagnóstico de CIB baseou-se na epidemiologia e achados clínico-patológicos e foi confirmado pela presença da bactéria Gram negativa nas lesões e pelo isolamento de uma cepa hemolítica de Moraxella bovis nas amostras de secreções oculares dos bovinos afetados. Os sinais clínicos observados nesse surto caracterizavam a doença desde o seu estágio inicial, com lacrimejamento e formação de focos milimétricos brancos e opacos no centro da córnea, até os estágios mais avançados, caracterizados por ceratocone, ruptura e cegueira. Esses sinais são semelhantes aos descritos em outros casos de CIB (Baptista 1979, Punch & Slatter 1984, Brown et al. 1998, Postma et al. 2008).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Baptista 1979",
+          "offset_start": 597,
+          "offset_end": 611
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", Punch & Slatter 1984",
+          "offset_start": 611,
+          "offset_end": 633
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": ", Brown et al. 1998",
+          "offset_start": 633,
+          "offset_end": 652
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": ", Postma et al. 2008)",
+          "offset_start": 652,
+          "offset_end": 673
+        }
+      ],
+      "head_section": "DISCUSSÃO"
+    },
+    {
+      "id": "p_72260e96",
+      "text": "A CIB é uma enfermidade altamente contagiosa de distribuição mundial e que geralmente ocorre na forma de surtos (Baptista 1979, Punch & Slatter 1984, Wilcock 2007). É considerada uma doença de mortalidade insignificante, mas com alta morbidade e pode afetar até 80% do rebanho (Postma et al. 2008). Excepcionalmente, no surto descrito aqui a mortalidade foi alta em razão da hemoncose intercorrente que afetou os bezerros. Bovinos de todas as idades podem ser afetados pela CIB. No entanto, a doença ocorre mais comumente em bovinos jovens, que usualmente apresentam as lesões mais graves (Webber & Selby 1981, Wilcock 2007). Há indícios de que exista uma predisposição racial para o desenvolvimento de CIB, já que bovinos Hereford e suas cruzas parecem ser mais susceptíveis (Webber & Selby 1981, Brown et al. 1998, Snowder et al. 2005) que as outras raças (Baptista 1979, Webber & Selby 1981, Punch & Slatter 1984, Snowder et al. 2005). No surto aqui relatado, a doença se disseminou rapidamente entre os bovinos mais jovens do rebanho, confirmando seu caráter altamente contagioso e a alta suscetibilidade dos bovinos jovens. A CIB pode ocorrer em qualquer época do ano, porém os surtos ocorrem principalmente no verão e outono (Wilcock 2007). A transmissão ocorre por contato direto (Kopecky et al. 1986) e por meio de fômites e vetores mecânicos, como pastagens altas contaminadas e moscas que carreiam M. bovis (Postma et al. 2008). Alguns fatores ambientais contribuem para um aumento da incidência da CIB por causar lesão na córnea, incluindo radiação solar ultravioleta (Hughes et al. 1965, Vogelweid et al.1986), vento e poeira (Brown et al. 1998). Além disso, fatores estressantes, como transporte, podem agravar a doença (Pugh Jr & McDonald 1986). O surto de CIB aqui relatado ocorreu no verão e após o transporte dos bezerros. Nessa época, ocorrem os maiores picos de radiação ultravioleta e altos índices pluviométricos, associados à grande quantidade de moscas e crescimento excessivo da pastagem na região onde ocorreu o surto. Esses fatores provavelmente influenciaram na disseminação do agente e na gravidade das lesões oculares.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Baptista 1979",
+          "offset_start": 112,
+          "offset_end": 126
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", Punch & Slatter 1984",
+          "offset_start": 126,
+          "offset_end": 148
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": ", Wilcock 2007)",
+          "offset_start": 148,
+          "offset_end": 163
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Postma et al. 2008)",
+          "offset_start": 277,
+          "offset_end": 297
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Webber & Selby 1981",
+          "offset_start": 589,
+          "offset_end": 609
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": ", Wilcock 2007",
+          "offset_start": 609,
+          "offset_end": 623
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Webber & Selby 1981",
+          "offset_start": 776,
+          "offset_end": 796
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": ", Brown et al. 1998",
+          "offset_start": 796,
+          "offset_end": 815
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": ", Snowder et al. 2005",
+          "offset_start": 815,
+          "offset_end": 836
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Baptista 1979",
+          "offset_start": 858,
+          "offset_end": 872
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": ", Webber & Selby 1981",
+          "offset_start": 872,
+          "offset_end": 893
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", Punch & Slatter 1984",
+          "offset_start": 893,
+          "offset_end": 915
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": ", Snowder et al. 2005)",
+          "offset_start": 915,
+          "offset_end": 937
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "(Wilcock 2007)",
+          "offset_start": 1231,
+          "offset_end": 1245
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Kopecky et al. 1986",
+          "offset_start": 1287,
+          "offset_end": 1307
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Postma et al. 2008)",
+          "offset_start": 1417,
+          "offset_end": 1437
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Hughes et al. 1965",
+          "offset_start": 1579,
+          "offset_end": 1598
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Vogelweid et al.1986)",
+          "offset_start": 1598,
+          "offset_end": 1621
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Brown et al. 1998)",
+          "offset_start": 1638,
+          "offset_end": 1657
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Pugh Jr & McDonald 1986)",
+          "offset_start": 1733,
+          "offset_end": 1758
+        }
+      ],
+      "head_section": "DISCUSSÃO"
+    },
+    {
+      "id": "p_e798f6c4",
+      "text": "Dentre os principais diagnósticos diferenciais de con- juntivite em bovinos está a conjuntivite causada pelo vírus da rinotraqueíte infecciosa bovina (BoHV-1). Nesses casos, normalmente não são observadas úlceras corneais, diferente do que ocorre na ceratoconjuntivite causada por M. bovis (Dziezyc & Millichamp 2006). Outro diferencial é a ceratoconjuntivite causada pelo vírus da febre catarral maligna (OvHV-2). Nesses casos são observados outros sinais clínicos como ulceração das mucosas oral e nasal e manifestações neurológicas. Histologicamente há ulceração de mucosas e vasculite generalizada (Garmatz et al. 2004). A infestação ocular por Thelazia spp. usualmente causa lesões oculares brandas em bovinos, com conjuntivite e ceratite superficial. No entanto, essas lesões podem progredir para ulceração e vascularização da córnea.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Dziezyc & Millichamp 2006)",
+          "offset_start": 290,
+          "offset_end": 317
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Garmatz et al. 2004)",
+          "offset_start": 602,
+          "offset_end": 623
+        }
+      ],
+      "head_section": "DISCUSSÃO"
+    },
+    {
+      "id": "p_364a0a37",
+      "text": "A diferenciação da CIB é feita pela observação direta dos nematódeos adultos de Thelazia no saco conjuntival ou nos lavados nasolacrimais (Dziezyc & Millichamp Recentemente foi identificada uma nova espécie de Moraxella isolada de bovinos de leite e de corte com ceratoconjuntivite; essa espécie foi denominada Moraxella bovoculi (Angelos et al. 2007); pode ser encontrada em forma de coco ou diplococo e provavelmente por muito tempo foi erroneamente caracterizada como M. ovis ou como microrganismos relacionados a M. ovis (Angelos 2010a). Embora haja fortes indícios de sua participação na patogenia da CIB, como o isolamento de animais enfermos e a presença de material genético para fatores de virulência semelhantes aos encontrados em M. bovis, não se pôde ainda comprovar a participação de M. ovis na etiologia da CIB, sendo ainda M. bovis o único agente etiológico reconhecido para essa doença (Angelos 2010b).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Dziezyc & Millichamp",
+          "offset_start": 138,
+          "offset_end": 159
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(Angelos et al. 2007)",
+          "offset_start": 330,
+          "offset_end": 351
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Angelos 2010a)",
+          "offset_start": 525,
+          "offset_end": 540
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "(Angelos 2010b)",
+          "offset_start": 902,
+          "offset_end": 917
+        }
+      ],
+      "head_section": "DISCUSSÃO"
+    },
+    {
+      "id": "p_679519e2",
+      "text": "Os bezerros afetados neste surto foram tratados especificamente para hemoncose e as mortes cessaram. Houve cura espontânea das lesões de CIB em cerca de duas semanas após o diagnóstico. A regressão das lesões de CIB não é incomum, à medida que o tamanho da úlcera é reduzido por tecido de granulação e sua superfície é reepitelizada, deixando uma pequena cicatriz. Em outros casos, no entanto, o processo pode tornar-se crônico e a opacidade leva 1-2 meses para resolver (Postma et al. 2008). Neste surto houve grandes prejuízos para o proprietário do rebanho devido à diminuição de peso dos bovinos, aos gastos com exames laboratoriais e à diminuição do valor comercial dos bovinos afetados, e a perda de animais; essas perdas deveram-se tanto à CB como à hemoncose intercorrente. Dessa forma, conclui-se que a CIB merece atenção pela sua ampla distribuição e importância econômica associadas ao seu caráter epidêmico, que está diretamente ligado à rápida disseminação de M. bovis entre os bovinos e à dificuldade de controle dos meios transmissores.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Postma et al. 2008)",
+          "offset_start": 471,
+          "offset_end": 491
+        }
+      ],
+      "head_section": "DISCUSSÃO"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig. 1 .",
+      "type": "figure",
+      "desc": "Fig.1. Bezerro afetado por ceratoconjuntivite infecciosa bovina. (A) Dois pequenos focos opacos, com úlceras rasas ao centro, são observados na porção central da córnea e há hiperemia da conjuntiva bulbar. (B) A opacidade atinge quase toda a superfície da córnea e é circundada por um halo vermelho de hiperemia. (C) Conificação da córnea (ceratocone) em um caso de ceratoconjuntivite infecciosa bovina. (D) Ulceração da córnea e ceratomalacia em um caso de ceratoconjuntivite infecciosa bovina.",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 62.37,
+          "width": 95.16,
+          "height": 467.46
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Fig. 2 .",
+      "type": "figure",
+      "desc": "Fig.2. Complicações oculares em um caso de ceratoconjuntivite infecciosa bovina. (A) Córnea ulcerada e espessada por tecido de granulação. Em meio ao tecido de granulação, encontravam-se numerosas larvas de Cochliomyia hominivorax. (B) Corte sagital do globo ocular mostrado em A. Observam-se larvas de C. hominivorax no interior do vítreo, espessamento da porção anterior do globo ocular por tecido brancacento firme (tecido de granulação) e necrose e perfuração da córnea (ceratomalacia).",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 62.37,
+          "width": 517.35,
+          "height": 467.46
+        }
+      ]
+    },
+    {
+      "id": "fig_2",
+      "label": "3",
+      "head": "Fig. 3 .",
+      "type": "figure",
+      "desc": "Fig.3. Alterações histopatológicas na córnea de um bezerro afetado por ceratoconjuntivite infecciosa bovina. (A) Observam-se infiltrado linfoplasmocítico e vascularização. Essa lesão é responsável pela opacidade da córnea. HE, obj. 20x. (B) Maior aumento de lesão semelhante à mostrada em A. HE, obj.40x.",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 64.87,
+          "width": 95.26,
+          "height": 467.46
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Experimental production of infectious bovine keratoconjunctivitis",
+      "authors": [
+        "J Aikman",
+        "E Allan",
+        "I Selman"
+      ],
+      "journal": "Vet. Rec",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "117",
+      "page_start": "234",
+      "page_end": "239"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "2010a. Moraxella bovoculi and infectious bovine keratoconjunctivitis: Cause or coincidence?",
+      "authors": "J Angelos",
+      "journal": "Vet. Clin. North Am., Food Anim.Pract",
+      "volume": "26",
+      "page_start": "73",
+      "page_end": "78"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Pathogenesis of Bacterial Infections in Animals",
+      "authors": "J Angelos",
+      "editors": [
+        "C Gyles",
+        "J Prescott",
+        "J Songer",
+        "C Thoen"
+      ],
+      "publisher": "Wiley-Blackwell",
+      "publication_date": "2010",
+      "year": 2010,
+      "page_start": "469",
+      "page_end": "481"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Moraxella bovoculi sp. nov., isolated from calves with infectious bovine keratoconjunctivitis",
+      "authors": [
+        "J Angelos",
+        "P Spinks",
+        "L Ball",
+        "L George"
+      ],
+      "journal": "Int. J. System. Evol. Microbiol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "57",
+      "page_start": "789",
+      "page_end": "795"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Infectious bovine keratoconjunctivitis: A review",
+      "authors": "P Baptista",
+      "journal": "Brit. Vet. J",
+      "publication_date": "1979",
+      "year": 1979,
+      "volume": "135",
+      "page_start": "225",
+      "page_end": "242"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Microbial flora of the eyes of cattle",
+      "authors": [
+        "D Barber",
+        "G Jones",
+        "A Wood"
+      ],
+      "journal": "Vet. Rec",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "118",
+      "page_start": "204",
+      "page_end": "206"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Infectious bovine keratoconjunctivitis: A review",
+      "authors": [
+        "M Brown",
+        "A Brightman",
+        "B Fenwick",
+        "M Rider"
+      ],
+      "journal": "J. Vet. Intern. Med",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "12",
+      "page_start": "259",
+      "page_end": "266"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Doenças oculares infecciosas",
+      "authors": [
+        "J Dziezyc",
+        "N Millichamp"
+      ],
+      "editors": "B Smith",
+      "publication_date": "2006",
+      "year": 2006,
+      "page_start": "1164",
+      "page_end": "1178",
+      "notes": "3ª ed. Manole"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Febre catarral maligna em bovinos no Rio Grande do Sul: transmissão experimental para bovinos e caracterização do agente etiológico",
+      "authors": [
+        "S Garmatz",
+        "L Irigoyen",
+        "R Rech",
+        "C Brown",
+        "J Zhang",
+        "C Barros"
+      ],
+      "journal": "Pesq. Vet. Bras",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "24",
+      "page_start": "93",
+      "page_end": "106"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Ultraviolet radiation and Moraxella bovis in the etiology of bovine infectious keratoconjunctivitis",
+      "authors": [
+        "D Hughes",
+        "G Pugh",
+        "B Mcdonald"
+      ],
+      "journal": "Am. J. Vet. Res",
+      "publication_date": "1965",
+      "year": 1965,
+      "volume": "26",
+      "page_start": "1331",
+      "page_end": "1338"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Moraxella boevrei sp. nov., a new Moraxella species found in goats",
+      "authors": [
+        "A Kodjo",
+        "Y Richard",
+        "T Tonjum"
+      ],
+      "journal": "Int. J. System. Bacteriol",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "47",
+      "page_start": "115",
+      "page_end": "121"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Infectious bovine keratoconjunctivitis: Contact transmission",
+      "authors": [
+        "K Kopecky",
+        "G Pugh",
+        "B Mcdonald"
+      ],
+      "journal": "Am. J. Vet. Res",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "47",
+      "page_start": "622",
+      "page_end": "624"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Biochemical test for identification of medical bacteria",
+      "authors": "J Macfaddin",
+      "publisher": "Williams and Wilkins Baltimore",
+      "publication_date": "1980",
+      "year": 1980,
+      "pages": "527"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Moraxella bovis pathogenicity: An update",
+      "authors": [
+        "G Postma",
+        "J Carfagnini",
+        "J Minatel"
+      ],
+      "journal": "Comp. Immunol., Microbiol. Infect. Dis",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "31",
+      "page_start": "449",
+      "page_end": "458"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Identification of bovine carriers of Moraxella bovis by comparative cultural examinations of ocular and nasal secretions",
+      "authors": [
+        "G Pugh",
+        "T Mcdonald"
+      ],
+      "journal": "Am. J. Vet. Res",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "47",
+      "page_start": "2343",
+      "page_end": "2345"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "A review of infectious bovine keratoconjunctivitis",
+      "authors": [
+        "P Punch",
+        "D Slatter"
+      ],
+      "journal": "Vet. Bull",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "54",
+      "page_start": "193",
+      "page_end": "207"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Pathogenesis of corneal lesions caused by Moraxella bovis in gnotobiotic calves",
+      "authors": [
+        "D Rogers",
+        "N Cheville",
+        "G Pugh"
+      ],
+      "journal": "Vet. Pathol",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "24",
+      "page_start": "287",
+      "page_end": "295"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Conjunctival lesions caused by Moraxella bovis in gnotobiotic calves",
+      "authors": [
+        "D Rogers",
+        "N Cheville",
+        "G Pugh"
+      ],
+      "journal": "Vet. Pathol",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "24",
+      "page_start": "554",
+      "page_end": "559"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Genetic and environmental factors associated with incidence of infectious bovine keratoconjunctivitis in preweaned beef calves",
+      "authors": [
+        "G Snowder",
+        "L Vleck",
+        "L Cundiff",
+        "G Bennett"
+      ],
+      "journal": "J. Anim. Sci",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "83",
+      "page_start": "507",
+      "page_end": "518"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Scanning electron microscopy of bovine corneas irradiated with sun lamps and challenge exposed with Moraxella bovis",
+      "authors": [
+        "C Vogelweid",
+        "R Miller",
+        "J Berg",
+        "D Kinden"
+      ],
+      "journal": "Am. J. Vet. Res",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "47",
+      "page_start": "378",
+      "page_end": "384"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Risk factors related to the prevalence of infectious bovine keratoconjunctivitis",
+      "authors": [
+        "J Webber",
+        "L Selby"
+      ],
+      "journal": "J. Am. Vet. Med. Assoc",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "179",
+      "page_start": "823",
+      "page_end": "826"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Infectious bovine keratoconjuctivitis",
+      "authors": "B Wilcock",
+      "editors": "M Maxie",
+      "publisher": "Elsevier",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "1",
+      "page_start": "492",
+      "page_end": "493",
+      "notes": "th ed. Saunders"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Miíase por Lucilia eximia (Diptera: Calliphoridae) em Didelphis albiventris (Mammalia: Didelphidae) no Brasil Central</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Edison</forename><surname>Rogerio</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> . Laboratório de Dipterologia e Entomologia Forense , Departamento de Zoologia ,</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="laboratory">Laboratório de Dipterologia e Entomologia Forense</orgName>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Rafael</forename><surname>Bonorino²</surname></persName>
+							<email>rafabonorino@hotmail.com.</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> . Laboratório de Dipterologia e Entomologia Forense , Departamento de Zoologia ,</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="laboratory">Laboratório de Dipterologia e Entomologia Forense</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Miíase por Lucilia eximia (Diptera: Calliphoridae) em Didelphis albiventris (Mammalia: Didelphidae) no Brasil Central</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1983-0572</idno>
+					</monogr>
+					<idno type="MD5">042DC5EC8499EE110A95259B2E03EEBB</idno>
+					<note type="submission">Recebido em: 04/05/2011 Aceito em: 13/08/2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Brasil</term>
+					<term>Gambás</term>
+					<term>Miíases</term>
+					<term>Mosca-varejeira</term>
+					<term>Parasitologia Brazil</term>
+					<term>Blowfly</term>
+					<term>Myiasis</term>
+					<term>Opossum</term>
+					<term>Parasitology</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C o m u N I C a ç ã o C I E N t í f I C a</head><p>Resumo. Em maio de 2009 foram coletadas 18 larvas de Lucilia eximia (Wiedemann), mosca responsável por miíases primárias e secundárias em animais domésticos e seres humanos. As larvas foram retiradas das regiões anal e auricular de um gambá, Didelphis albiventris (Lund), no Zoológico de Brasília, e posteriormente identificadas em laboratório. Após 15 dias emergiram 15 adultos de L. eximia. Este é o primeiro registro desta mosca causando miíase primária em um marsupial no Cerrado de Brasília.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>O</head><p>ectoparasitismo é a principal forma de relação ecológica entre insetos da ordem Diptera e diferentes grupos de vertebrados <ref type="bibr" target="#b15">(StevenS et al. 2006)</ref>. Uma das apresentações desta relação são as miíases. A miíase é a infestação dos vertebrados por larvas de dípteros muscóides, que se alimentam do tecido vivo ou morto de seu hospedeiro ou de suas substâncias corporais líquidas conforme definição <ref type="bibr">de Zumpt (1965)</ref>. As miíases são classificadas, de acordo com o nível de relação parasitária com o hospedeiro, em obrigatórias ou facultativas <ref type="bibr" target="#b7">(GuimarãeS &amp; papavero 1999)</ref>. As obrigatórias são aquelas cujas larvas desenvolvem-se sobre ou dentro do tecido vivo de seu hospedeiro, e secundárias ou facultativas, as larvas que se desenvolvem normalmente em matéria orgânica em decomposição e, ocasionalmente, em tecido necrosado do hospedeiro vivo <ref type="bibr" target="#b8">(Hall &amp; Wall 1995;</ref><ref type="bibr" target="#b7">GuimarãeS &amp; papavero 1999)</ref>.</p><p>Na região Neotropical, diversas famílias de moscas podem causar miíases, mas apenas a família Calliphoridae foi registrada como causadora de miíase primária cutânea coletiva em animais e humanos <ref type="bibr" target="#b7">(GuimarãeS &amp; papavero 1999)</ref>. Mais de 80 espécies de Calliphoridae já foram relatadas como causadoras de miíases <ref type="bibr" target="#b16">(Zumpt 1965)</ref>. Dentro desta família as espécies dos gêneros Cochliomyia (Townsend), Compsomyiops (Townsend), Lucilia (Robineau-Desvoidy), Calliphora (Robineau-Desvoidy) e Chrysomya (Robineau-Desvoidy) são citadas como agentes causadores de miíases <ref type="bibr" target="#b12">(moretti &amp; tHySSen 2006)</ref>.</p><p>O gênero Lucilia possui 27 espécies descritas. Este grupo de califorídeos é considerado um dos mais importantes para medicina veterinária por causar miíases em diversas espécies de vertebrados e principalmente por representar uma praga para a produção de ovinos na Europa, Sul da África e Oceania <ref type="bibr" target="#b8">(Hall &amp; Wall 1995;</ref><ref type="bibr" target="#b10">mcleod 1995;</ref><ref type="bibr" target="#b14">Snoep et al. 2002)</ref>. Lucilia eximia (Wiedemann) tem ampla distribuição no Brasil e é conhecida popularmente como mosca-varejeira verde <ref type="bibr" target="#b11">(mello 1961;</ref><ref type="bibr" target="#b1">carvalHo &amp; almeida 1983)</ref>. Pode ser facilmente encontrada em áreas urbanas e rurais <ref type="bibr" target="#b9">(madeira et al. 1989;</ref><ref type="bibr" target="#b6">Gião &amp; Godoy 2006)</ref>. Esta espécie pode ser identificada pela parafacialia nua, calíptra nua com a parte inferior e superiores esbranquiçadas, apresentando duas cerdas acrosticais pós-suturais, e proepisterno e proesterno piloso <ref type="bibr" target="#b7">(GuimarãeS &amp; papavero 1999;</ref><ref type="bibr" target="#b2">carvalHo &amp; ribeiro 2000)</ref>. As larvas são saprófagas, os machos adultos são freqüentemente encontrados em flores onde se alimentam de néctar. L. eximia pode ter importância forense por utilizar carcaças em decomposição como recurso <ref type="bibr">(moura et al. 1997)</ref>. Em relação a sua importância na saúde há relatos de miíases primárias por L. eximia em gatos <ref type="bibr">(madeira et al. 1989)</ref>, cães (aZeredo-eSpin &amp; madeira 1996), e coelhos (moretti &amp; tHySSen 2006). madeira et al. (1989) relataram casos de miíases secundárias em humanos. Didelphis albiventris (Lund) é um marsupial da família Didelphidae, conhecido popularmente como gambá de orelha branca. Ocorre desde a região Nordeste até o Centro-Oeste atingindo o sul do Brasil, Paraguai, Uruguai, sul da Bolívia e regiões norte e central da Argentina (cerqueira &amp; tribe 2007). É uma espécie comum em áreas urbanas e rurais (eiSenberG &amp; redford 1999). Poucos foram os relatos de miíases em marsupiais, entretanto em vida livre são hospedeiros típicos das larvas de Cuterebrinae (GuimarãeS &amp; papavero 1999; cruZ et al. 2009). Na região Neotropical, não há nenhum relato de miíase causada por califorídeos em espécies de Didelphis, sendo este, o primeiro registro de miíase cutânea primária causada por Lucilia eximia em um gambá, D. albiventris, silvestre em cativeiro.</p><p>No dia 20 de maio de 2009 foram coletadas 18 larvas de terceiro instar (L3) de calíforídeos, em lesões no ânus e nos ouvidos externos (pavilhão auricular e pina) de um exemplar de D. albiventris adulto macho do plantel dos mamíferos do Zoológico de <ref type="bibr">Brasília (15º50'46,</ref><ref type="bibr">66" S e 47º56' 32,</ref><ref type="bibr">72" O)</ref>. O marsupial apresentava lesões em estágio II: caracterizado pela presença de abrasões e úlceras não necróticas, estes ferimentos eram resultantes da agressão ocorrida um dia anterior por outro marsupial fêmea da mesma espécie. O animal foi diagnosticado, retirado as larvas e realizado os curativos. As larvas, todas no terceiro instar larval (L3), foram acondicionadas em recipientes de amostra biológica de 70 ml contendo um quarto de vermiculita. A seguir, o material foi levado para o laboratório onde foi mantido em estufas do tipo B.O.D. com controle de temperatura de 25±0,5 ºC, umidade relativa de 60±0,5% e fotofase de 14 horas, tendo como substrato alimentar carne bovina moída em putrefação, na proporção um grama para cada larva, até o inicio da pupação. O início da pupação ocorreu a partir do dia 21 de maio de 2009. Após quinze dias emergiram de 15 adultos. Todos os espécimes obtidos foram depositados na Coleção Entomológica do Departamento de Zoologia da Universidade de Brasília.</p><p>Este estudo descreve o primeiro caso de miíase cutânea primária ocasionada por L. eximia em um marsupial da fauna endêmica do Brasil, cuja relação de parasitismo ainda é de escasso conhecimento.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>AgRADECiMEntOs</head><p>Gostaríamos de agradecer ao Conselho Nacional de Desenvolvimento Científico e Tecnológico -CNPq pela bolsa de doutoramento de ERC, e ao Programa de Pós-Graduação em Biologia Animal do Instituto de Ciências Biológicas da Universidade de Brasília pelo suporte acadêmico e científico. Aos professores José Roberto Pujol-Luz (UnB) e Nelson Papavero (MZ/USP) pelas revisões e sugestões.</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Primary myiasis in dog caused by Phaenicia eximia (Diptera: Calliphoridae) and preliminary mitochondrial DNA analysis of the species in Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="839" to="843" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Notas sobre a distribuição geográfica de Phaenicia (Diptera, Calliphoridae) no Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Almeida</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="165" to="171" />
+		</imprint>
+		<respStmt>
+			<orgName>Arquivos da Universidade Federal Rural do Rio de Janeiro</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Chave de identificação das espécies de Calliphoridae (Diptera) do sul do Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Genus Didelphis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cerqueira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Tribe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mammals of South America</title>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Gardner</surname></persName>
+		</editor>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">669</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Prevalence of larvae of the bot fly Cuterebra simulans (Diptera, Oestridae) on Gracilinanus microtarsus (Didelphimorphia, Didelphidae) in southeastern Cerrado from Brazil</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="314" to="317" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Mammals of the Neotropics. The central Neotropics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Eisenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">F</forename><surname>Redford</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>The University of Chicago Press</publisher>
+			<biblScope unit="page">609</biblScope>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Seasonal Population Dynamics in Lucilia eximia (Wiedemann) (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z</forename><surname>Gião</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="753" to="756" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Pleiâde/ FAPESP</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Myiasis of human and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advanced in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">The Occurrence of primary myiasis in cats caused by Phaenicia eximia (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A R</forename><surname>Silveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pavan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Memórias do Instituto Oswaldo Cruz</publisher>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">341</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Costs of major parasites to the Australian livestock industries</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mcleod</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1363" to="1367" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Contribuição ao estudo do gênero Phaenicia (R-D: 1863) (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<publisher>Memórias do Instituto Oswaldo Cruz</publisher>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="259" to="278" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Miíase primária em coelho doméstico causada por Lucilia eximia (Diptera: Calliphoridae) no Brasil: relato de caso</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo Brasileiro de Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="28" to="30" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A preliminary analysis of insects of medico-legal importance in Curitiba, State of Paraná</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Moura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L A</forename><surname>Monteiro-Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memórias do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="269" to="274" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Myiasis in sheep in the Netherlands</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Snoep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Sampimon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Roeters</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R W</forename><surname>Elbers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Scholten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H M</forename><surname>Borgsteede</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="357" to="363" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The evolution of myiasis in humans and other animals in the Old and New Worlds (part II): biological and life-history studies</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Wallman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Otranto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="181" to="188" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Old World</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+			<pubPlace>London, Butterworth</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

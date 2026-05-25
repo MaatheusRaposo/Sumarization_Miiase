@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Thadeu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Barros Entomologista</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Embrapa</forename><surname>Pantanal</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>MS</roleName><surname>Corumbá</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Wanderley</forename><forename type="middle">M</forename><surname>Passos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Layna</forename><forename type="middle">T B</forename><surname>Leite</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Ernande Ravaglia Assistente de Pesquisa Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Waldno da Silva Aquino Assistente de Pesquisa Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Químico Depto de Parasitologia Veterinária ,</note>
+								<orgName type="department">Químico Depto de Parasitologia Veterinária</orgName>
+								<orgName type="institution">Ernande Ravaglia Assistente de Pesquisa Embrapa Pantanal</orgName>
+								<address>
+									<addrLine>MS Waldno da Silva Aquino Assistente de Pesquisa Embrapa Pantanal</addrLine>
+									<postCode>109 79320-900 109 79320-900</postCode>
+									<settlement>Corumbá Corumbá</settlement>
+									<region>CP CP MS</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Instituto de Veterinária , UFRRJ 23890-000 Seropédica , RJ Acadêmica UFMS / Bolsista</note>
+								<orgName type="department">Instituto de Veterinária</orgName>
+								<orgName type="institution">Acadêmica UFMS</orgName>
+								<address>
+									<postCode>23890-000</postCode>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country>UFRRJ Bolsista</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">PIBIC Embrapa Pantanal , CP 109 Corumbá, MS Cir cu lar Té cn ica</note>
+								<orgName type="institution">PIBIC Embrapa Pantanal</orgName>
+								<address>
+									<addrLine>CP 109 Corumbá, MS Cir cu lar Té cn ica</addrLine>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1517-1965</idno>
+					</monogr>
+					<idno type="MD5">344EA0DFCA1108123698CD3A79A2BE16</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Eficácia de Endectocidas em Infestações Naturais por Cochliomyia hominivorax (Mosca-Varejeira) em Bezerros no Pantanal</head><p>O parasitismo pelas larvas da mosca-varejeira (Cochliomyia hominivorax) causa lesões ulcerativas em tecidos vivos, denominadas popularmente de "bicheiras" (miíases). Esta mosca figura dentre os principais ectoparasitas de importância pecuária no país, causando prejuízos estimados em US$ 150 milhões anuais <ref type="bibr" target="#b5">(GRISI et al., 2002)</ref>.</p><p>Agravada por características ambientais, problemas de infra-estrutura e dificuldade de acesso e manejo, as miíases umbilicais são consideradas uma das principais causas de mortalidade de bezerros no Pantanal (BARROS; <ref type="bibr" target="#b1">VAZQUEZ, 2004)</ref>, resultando em significativas perdas econômicas à região.</p><p>A "cura" do umbigo de bezerros no Pantanal, prática tradicionalmente realizada há algumas décadas utilizando-se benzocreol, foi posteriormente substituída pela aplicação tópica da solução de iodo e de produtos quimioterápicos aerossóis ("mata-bicheiras"). A partir da década de 1980, a praticidade e eficácia dos endectocidas injetáveis, inicialmente à base de ivermectina, levaram ao uso rotineiro desses produtos no manejo de bezerros recém-nascidos na região.</p><p>A validade desta prática foi posteriormente confirmada, observando-se redução na ocorrência de miíases umbilicais após um único tratamento com ivermectina injetável (61,0%) ou ivermectina + álcool iodado (66,2%) (BIANCHIN et al., 1992). Sereno et  al. (1996)  observaram uma eficácia de 100% na prevenção de miíases em bezerros tratados com ivermectina injetável + quimioterápico aerossol, enquanto 40,9% dos animais tratados com o quimioterápico apresentaram miíase.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Produtos denominados "endectocidas" pertencem à classe das lactonas macrocíclicas e apresentam ação simultânea contra endo (helmintos) e ectoparasitas (artrópodes). Embora a eficácia de endectocidas como a ivermectina e a doramectina tenha sido avaliada no tratamento de miíases umbilicais em bezerros <ref type="bibr">(BIANCHIN et al., 1992;</ref><ref type="bibr">MUNIZ et al. 1995a</ref><ref type="bibr">MUNIZ et al. , 1995b;;</ref><ref type="bibr">SERENO et al., 1996)</ref>, outros princípios ativos, como a abamectina e a moxidectina, carecem de estudos específicos com relação a este aspecto, particularmente sob condições de manejo extensivo.</p><p>O presente estudo foi conduzido na fazenda Nhumirim, sub-região da Nhecolândia, Pantanal Sul-Mato-Grossense, de propriedade da Embrapa Pantanal. Esta fazenda possui produção média anual de 300 a 400 bezerros, com estação de nascimento de setembro a dezembro. O estudo foi realizado durante as estações de nascimento de 2004 e 2005 e objetivou avaliar a eficácia de produtos endectocidas na prevenção e/ou tratamento de miíases umbilicais em bezerros.</p><p>Foram testados quatro produtos endectocidas comerciais, de empresas idôneas, contendo exclusivamente abamectina, doramectina, ivermectina ou moxidectina, na concentração de 1%. Todos os produtos eram injetáveis e foram aplicados na dose de 1ml/animal, por via sub-cutânea. Além destes endectocidas, foi avaliada a eficácia do tratamento com solução alcoólica de iodo a 5% (10 g de iodeto de potássio, 10 g de iodo ressublimado e álcool comercial q.s.p. 100 ml).</p><p>O estudo foi realizado sob um enfoque aplicado e prático, sob condições de manejo extensivo, como rotineiramente realizado na região. Um mínimo de 20 bezerros foi utilizado em cada tratamento, sendo os animais tratados e manejados tão logo eram encontrados no campo. Desta forma, a diversidade de situações encontradas variou desde animais recém-nascidos, com o umbigo sadio, até bezerros com alguns dias de idade e miíase umbilical em estado avançado.</p><p>No primeiro ano de estudo foi avaliada a eficácia de produtos à base de abamectina, doramectina e ivermectina, tendo sido testado, no ano seguinte, o produto à base de moxidectina e a solução de iodo.</p><p>A cada ano de estudo, a eficácia dos tratamentos foi avaliada em relação a um grupo controle, o qual consistiu de bezerros nascidos em determinada invernada (área de pastagem), mantidos sem tratamento e monitorados a cada 2 a 3 dias até a instalação de miíase ou completa cicatrização do umbigo. Efetuada a observação, animais portadores de miíase foram tratados e excluídos do experimento.</p><p>A primeira avaliação foi realizada até o 3° dia pós-tratamento (dpt</p><p>). Dificuldades inerentes ao manejo extensivo (grande número de animais, pastagens extensas, vegetação arbustiva abundante, etc.) não permitiram o acompanhamento diário de todos os animais experimentais. Entretanto, um adequado monitoramento foi realizado na maioria dos animais, sendo os demais excluídos do estudo. Foram consideradas miíases ativas as feridas com larvas vivas, encontradas após o 2° dpt. Devido ao enfoque aplicado do estudo, optouse por considerar na avaliação da eficácia as observações realizadas até o 5° dpt. Entretanto, todos os animais foram monitorados até a completa cicatrização do umbigo. Animais portadores de miíases consideradas graves foram também tratados com produto larvicida tópico e excluídos do experimento. O delineamento experimental foi inteiramente casualizado, onde cada tratamento apresentou um mínimo de 20 repetições. A eficácia dos tratamentos foi calculada com base na seguinte fórmula: Eficácia (%) = [(Cm -Tm)/Cm] x 100 onde: Cm = % de animais com miíase no grupo controle Tm = % de animais com miíase no grupo tratado com produto endectocida Bezerros utilizados nos dois anos de estudo totalizaram 236, sendo 141 em 2004 e 95 em 2005. Elevada prevalência de miíases umbilicais foi observada nos animais dos grupos controle em 2004 (91,2%) e 2005 (92,5%), denotando a gravidade desta parasitose na região pantaneira.</p><p>No dia 0 (dia em que cada bezerro foi encontrado e tratado), a prevalência de posturas e/ou miíases nos animais dos grupos tratados foi superior a 93% em todos os grupos, evidenciando o efetivo desafio a que foram submetidos os animais tratados.</p><p>A eficácia da solução de iodo a 5% (22,7%) foi significativamente inferior a qualquer dos produtos endectocidas testados, sendo compatível com a observada por <ref type="bibr">Bianchin et al. (1992)</ref> para uma solução de iodo a 10% (37,3%). Tais resultados demonstram as limitações da utilização tópica da solução de iodo no tratamento de miíases umbilicais em condições de manejo extensivo.</p><p>Todos os endectocidas apresentaram eficácia significativamente superior à da solução de iodo e ao grupo não tratado, contudo, observou-se um nítido gradiente de eficácia entre os produtos testados.</p><p>A maior eficácia na redução de miíases umbilicais em bezerros foi observada no tratamento com doramectina (94,5%). Esta elevada redução na prevalência de miíases se assemelha à previamente constatada para este princípio ativo em outros estudos com infestações naturais a campo, tanto em bezerros recém-nascidos <ref type="bibr">(MUNIZ et al., 1995a)</ref> como em animais castrados <ref type="bibr">(MUNIZ et al., 1995b;</ref><ref type="bibr" target="#b8">SANAVRIA et al., 1996)</ref>.</p><p>O tratamento com abamectina também apresentou elevada eficácia (88,3%) neste estudo, confirmando a ação deste princípio ativo na redução de miíases por C. hominivorax em bovinos. A abamectina não interfere na oviposição, podendo haver posturas em animais tratados; entretanto, apresenta elevada ação larvicida, prevenindo a instalação de miíases em 96,4% dos animais castrados <ref type="bibr" target="#b0">(ANZIANI et al., 1996)</ref>. Pode ter contribuído para a diferença observada na eficácia o fato de que, no presente estudo, foram tratados animais parasitados também por larvas em estádios adiantados de desenvolvimento (L2 e L3), enquanto no referido estudo, apenas L1 foram inicialmente expostas ao tratamento.</p><p>As menores eficácias, dentre os endectocidas, foram observadas nos tratamentos com ivermectina (71,3%) e moxidectina (69,1%). A eficácia parcial apresentada pela ivermectina corrobora resultados semelhantes obtidos em infestações artificiais <ref type="bibr" target="#b6">(MOYA-BORJA et al., 1997)</ref> e infestações naturais <ref type="bibr">(BIANCHIN et al., 1992)</ref>. Em termos de eficácia, ivermectina e moxidectina não diferem significativamente entre si, não tendo sido eficazes na profilaxia ou tratamento de miíases naturais por larvas da mosca Wohlfahrtia magnifica em ovelhas <ref type="bibr" target="#b4">(FARKAS et al., 1996)</ref>.</p><p>De modo geral, o emprego de antiparasitários endectocidas no manejo de bezerros justificase tanto pela praticidade como pela eficácia apresentados por produtos desta classe. No entanto, diferenças com relação à eficácia destes produtos devem ser observadas, de modo a otimizar sua utilização e reduzir riscos e perdas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusões</head><p>Miíases umbilicais apresentam elevada prevalência no Pantanal e constituem importante causa de mortalidade de bezerros recém-nascidos se não tratadas eficazmente. Devido às condições de manejo extensivo, o tratamento de bezerros recém-nascidos deve ser eficaz em uma única aplicação.</p><p>Em função da baixa eficácia apresentada pela solução de iodo a 5%, não é recomendada sua utilização no manejo de bezerros na região.</p><p>Todos os endectocidas injetáveis testados reduzem significativamente a ocorrência de miíases umbilicais. Entretanto, por sua maior eficácia, o uso de produtos à base de doramectina é recomendável no manejo extensivo de bezerros recém-nascidos no Pantanal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos</head><p>À FUNDECT e à Embrapa, pelo suporte financeiro para a realização do estudo e aos funcionários da fazenda Nhumirim pelo fundamental auxílio nas atividades a campo.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="1,187.74,180.18,304.64,228.00" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Larvicidal activity of abamectin against natural Cochliomyia hominivorax larva infestation</title>
+		<author>
+			<persName><forename type="first">Anziani</forename><surname>Referências</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Guglielmone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Aguirre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the New York Academy of Sciences</title>
+		<imprint>
+			<biblScope unit="volume">791</biblScope>
+			<biblScope unit="page" from="443" to="444" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Recomendações para prevenção e controle de bicheiras em bezerros no Pantanal. Corumbá: Embrapa Pantanal</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A S</forename><surname>Vazquez</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.cpap.embrapa.br/publicacoes/online/COT35.pdf&gt;" />
+		<imprint>
+			<date type="published" when="2004-07-19">2004. 19 jul. 2010</date>
+			<publisher>Embrapa Pantanal. Comunicado Técnico</publisher>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>Disponível em</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bianchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Curvo</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Parasitologia</forename><surname>Veterinária</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="121" to="124" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Efficacy of ivermectin and moxidectin injection against larvae of Wohlfahrtia magnifica (Diptera: Sarcophagidae) in sheep</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Farkas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J R</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Börzsönyi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitology Research</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="82" to="86" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Pereira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Efficacy of doramectin in the protection of neonatal calves and post-paturient cows against field strikes of Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">Moya-Borja</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Umehara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Goncalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S F</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Ordoñez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Errecalde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Rew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="155" to="161" />
+			<date type="published" when="1995">1997. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Protective efficacy of doramectin and ivermectin against Cochliomyia hominivorax Veterinary Parasitology</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Efficacy of injectable doramectin in the protection of castrated cattle against field infestations of Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Errecalde</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename><surname>Goncalves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="327" to="333" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Eficácia profilática de doramectin contra infestações naturais por Cochliomyia hominivorax (Coquerel, 1858) em bovinos após castração. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Rew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S F</forename><surname>Silva</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="7" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R B</forename><surname>Sereno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Catto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Sereno</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Prevenção de miíases umbilicais em bezerros criados extensivamente, no Pantanal, através da utilização de ivermectin. Corumbá: Embrapa Pantanal</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>De S</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.cpap.embrapa.br/publicacoes/online/COT16.pdf&gt;" />
+		<imprint>
+			<date type="published" when="1996-07-19">1996. 19 jul. 2010</date>
+			<publisher>Embrapa Pantanal, Comunicado Técnico</publisher>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>Disponível em</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Como Citar Este</forename><surname>Documento</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Eficácia de endectocidas em infestações naturais por Cochliomyia hominivorax (mosca-varejeira) em bezerros no Pantanal. Corumbá: Embrapa Pantanal</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ravaglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Aquino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Da</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Passos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T B</forename><surname>Leite</surname></persName>
+		</author>
+		<ptr target="http://www.cpap.embrapa.br/publicacoes/download.php?arq_pdf=CT90" />
+		<imprint>
+			<date type="published" when="2010">2010. 2010</date>
+			<publisher>Embrapa Pantanal. Circular Técnica</publisher>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">8</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

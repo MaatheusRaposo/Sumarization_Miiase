@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Miasis cutánea por Cochliomyia hominivorax asociada a dermatitis seborreica</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Perla</forename><surname>Calderón</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> servicio de Dermatología , Hospital clínico Universidad de chile , santiago, chile.</note>
+								<orgName type="department">servicio de Dermatología</orgName>
+								<orgName type="institution">Hospital clínico Universidad de chile</orgName>
+								<address>
+									<country>santiago, chile</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Camilo</forename><surname>Rojas</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Dermatología , Facultad de Medicina , Universidad de chile , santiago, chile. 3 laboratorio de Parasitología Básico-clínico ,</note>
+								<orgName type="department" key="dep1">Departamento de Dermatología</orgName>
+								<orgName type="department" key="dep2">Facultad de Medicina</orgName>
+								<orgName type="institution">Universidad de chile</orgName>
+								<address>
+									<addrLine>santiago, chile. 3 laboratorio de Parasitología Básico-clínico</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Douglas</forename><surname>Castillo</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>a</label> Técnico de parasitología .</note>
+								<orgName type="institution">Técnico de parasitología</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">instituto de ciencias Biomédicas , Facultad de Medicina , Universidad de chile , santiago, chile.</note>
+								<orgName type="department">Facultad de Medicina</orgName>
+								<orgName type="institution" key="instit1">instituto de ciencias Biomédicas</orgName>
+								<orgName type="institution" key="instit2">Universidad de chile</orgName>
+								<address>
+									<country key="CL">chile</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Miasis cutánea por Cochliomyia hominivorax asociada a dermatitis seborreica</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5EF4C3A9E7BE4B4100B80E81D6E092A0</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Dermatitis, Seborrheic</term>
+					<term>Diptera</term>
+					<term>Myiasis</term>
+					<term>Scalp Dermatoses</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cutaneous myiasis due to Cochliomyia hominivorax associated with seborrheic dermatitis. Case report</head><p>Myiasis is an infestation of tissues and organs of humans and animals by Diptera larvae (flies, horseflies, mosquitoes). They are located at different body sites, and classified clinically as cutaneous, visceral and cavitary. We report a 26-year-old woman with a history of seborrheic dermatitis and recent trip to Brazil. She presented with a seven days history of suppurating wounds in the parieto-occipital area of the scalp. At physical examination we found three ulcers of approximately 1.5 cm each, with multiple mobile larvae inside. The obtained larvae were analyzed, identifying Cochliomyia hominivorax larvae at L2 and L3 stages. The patient was managed successfully with oral antimicrobials and local cleansing. The screwworm Cochliomyia hominivorax in our country is rare. Known risk factors are wounds, poor personal hygiene, extreme ages, psychiatric disorders, presence of specific dermatosis such as psoriasis and seborrheic dermatitis, among others.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Financiamiento: sin financiamiento. conflicto de interés: los autores declaran no presentar conflicto de intereses.</p><p>Recibido el 1 de agosto de 2016, aceptado el 3 de noviembre de 2016.</p><p>correspondencia a: Dra. Perla calderón H. servicio de Dermatología, Hospital clínico, Universidad de chile. santos Dumont 999, 1 er Piso, independencia, santiago, chile.</p><p>56-2-29789239 perlacald@yahoo.com M iasis es una infestación de los tejidos u órganos de seres humanos y animales por larvas de dípteros (moscas, tábanos, mosquitos). Este cuadro se puede localizar en diferentes sitios del organismo, clasificándose clínicamente en: cutánea, visceral (tracto genitourinario e intestinal) y cavitaria (boca, nariz, senos paranasales, oído, ojos) <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref> . En niños se han descrito cuadros de compromiso cerebral por el paso de las larvas a través de las fontanelas <ref type="bibr" target="#b3">4</ref> .</p><p>En nuestro país se reportan casos autóctonos e importados, principalmente de países de clima tropical, siendo los agentes etiológicos más informados Dermatobia hominis 5 y en menor frecuencia Oestrus ovis y Eristella tenax. Casos por Cochliomyia hominivorax son excepcionales <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b5">6</ref> .</p><p>Dentro del orden Diptera, la familia Calliphoridae agrupa una gran cantidad de especies de distribución cosmopolita. En el caso del género Cochliomyia, sus especímenes están presentes desde Norteamérica hasta Argentina, considerándose a la miasis por Cochliomyia hominivorax en nuestro país un cuadro ausente y de ocurrencia excepcional, tanto en seres humanos como animales <ref type="bibr" target="#b5">6</ref> .</p><p>Nuestro objetivo es presentar un caso importado de miasis cutánea por Cochliomyia hominivorax, en un paciente con una dermatosis predisponente, debido a su rarísima frecuencia en nuestro medio y de esta forma, contribuir a la actualización en el enfrentamiento y manejo de situación clínicas similares.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Caso clínico</head><p>Mujer de 26 años, con antecedente de dermatitis seborreica de cuero cabelludo y viaje reciente a Ilhabela, Brasil. Después de permanecer 1 semana fuera del país, la paciente retornó a Chile. Consultó a dermatólogo 2 días después de su regreso, por cuadro de malestar en zona de cuero cabelludo parieto occipital, y sensación de objetos extraños que se mueven en su cabeza. Al examen físico, se identificaro 3 úlceras de 1,5 cm, aproximadamente, de los cuales supuraba abundante contenido seropurulento, en cuyos fondos se apreciaban múltiples larvas vivas y móviles. Se procedió a extracción manual en la sala de atención, mediante pinzas, con bastante facilidad y sin molestias para la paciente durante el procedimiento, obteniéndose 25 especímenes (Figura 1). Se indicó ivermectina oral en dosis única de 200 ug/kg. La paciente se presentó dos días más tarde con persistencia de sintomatología, por lo que se decidió realizar cirugía exploratoria y aseo bajo anestesia local, se logró extraer 4 larvas más. Se realizó ecografía de partes blandas, no evidenciándose más larvas, y radiografía de cráneo, que descartó compromiso óseo.</p><p>La paciente fue tratada con antibioterapia oral y curaciones de sitio operatorio, presentando una rápida y favorable respuesta clínica, logrando cierre por segunda intención de las heridas y sin recurrencias hasta la fecha.</p><p>Todas las larvas obtenidas fueron analizadas por el Laboratorio Parasitología Básico-Clínico del Instituto de Ciencias Biomédicas de la Facultad de Medicina de la Universidad de Chile, identificándose larvas en estado L2 y L3 de Cochliomyia hominivorax (Figura 2).</p><p>Figura 1. imágenes de paciente con miasis cutánea. En A, orificio con larvas en su interior, previo a extracción manual. En B, aspecto 3 días después de primera extracción de larvas. En C, larva en orificio previo a extracción durante procedimiento. En D, la cavidad posterior a la exploración quirúrgica.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discusión</head><p>La C. hominivorax es un parásito de los animales domésticos, incluyendo perros, gatos, caballos, ovejas, cabras, entre otros, que puede infestar heridas humanas. La ocurrencia de casos en personas se ha asociado a brotes de infestación en el ganado.</p><p>La mosca hembra deposita sus huevos en los bordes de heridas o en mucosas (oral, nasal, ocular, vaginal), especialmente después del nacimiento. Es por esto que en humanos, la miasis se desarrolla en relación al pabellón auricular, nariz u órbita. Las infestaciones más graves por C. hominivorax pueden producir erosión de cartílagos o huesos del cráneo, reportándose casos con desenlace fatal. Como factores patogénicos se destaca el alto número de huevos depositados, lo que se corresponde con la gran cantidad de larvas desarrolladas, y la capacidad de penetrar tejidos de las larvas, produciendo una miasis traumática.</p><p>Dentro de los factores de riesgo para contraer esta infestación, se mencionan: heridas, mala higiene personal, edades extremas, retardo mental, trastornos psiquiátricos, alcoholismo, diabetes mellitus, enfermedad vascular oclusiva, pobre higiene dental e inhabilidad física para evitar que las moscas depositen sus huevos. También se ha descrito como factor de riesgo, la presencia de dermatosis específicas como psoriasis y dermatitis seborreica, como ocurrió en este caso <ref type="bibr" target="#b6">7,</ref><ref type="bibr" target="#b7">8</ref> .</p><p>Después de un período de incubación menor a un día, los huevos eclosionan. Durante 4 a 8 días, las larvas se alimentan del tejido circundante, madurando a sus etapas L2 y L3, lo que conlleva una gran destrucción tisular local. Rápidamente se producen lesiones de hasta 4 o 5 cm de profundi- dad, que en su interior contienen larvas ancladas mediante sus espinas al tejido más profundo, lo que dificulta su extracción. Después del proceso de maduración, cuando la larva alcanza una longitud de 6 a 17 mm, se desprende y cae al suelo para pupar. Bajo condiciones ideales, el ciclo vital se completa en un período de 24 días <ref type="bibr" target="#b8">9</ref> .</p><p>El diagnóstico es clínico. Los antecedentes del paciente, tanto la búsqueda de condiciones predisponentes como la historia de viaje a zonas de mayor riesgo, asociado al hallazgo clínico de las larvas y su posterior identificación en un laboratorio de parasitología son las claves diagnósticas en estos cuadros. Las larvas maduras del estado L3 son las más adecuadas para el diagnóstico, presentando como característica identificadora sus troncos traqueales dorsales de pigmentación obscura, que se extienden desde el segmento duodécimo hasta el décimo o el noveno.</p><p>Dentro de las opciones de manejo, se describe la oclusión de áreas afectadas, la que se basa en la asfixia de las larvas al bloquearles la comunicación con el exterior, privándolas de oxígeno, lo que las mata o hace que migren hacia la superficie <ref type="bibr" target="#b9">10</ref> . Para esto se usan sustancias como petrolato, esmalte de uñas, grasa animal, parafina, gel para el cabello o aceite mineral, entre otras cosas; sin embargo, la necesidad de 24 h de oclusión y la frecuente aparición de reacciones inflamatorias, tipo cuerpo extraño, ha hecho que esta modalidad de tratamiento sea poco utilizada.</p><p>La extracción manual de las larvas es una medida terapéutica inicial aceptable en estos casos. Para esto se usa anestesia local en la zona afectada, seguido de abundantes lavados con suero fisiológico que ayudan a la eliminación de todos los ejemplares. En ocasiones, es necesaria una escisión quirúrgica pequeña, con el objeto de explorar la zona y así tener la certeza de la total remoción de las larvas <ref type="bibr" target="#b10">11</ref> .</p><p>Otra alternativa terapéutica es la ivermectina, un antiparasitario sintético de amplio espectro, que a pesar de no actuar directamente como larvicida, induce la migración de las larvas hacia el exterior del área afectada. Tanto el uso de una solución tópica al 1% o una dosis oral única de 200 ug/kg de ivermectina, han mostrado ser tratamientos efectivos en esta miasis cutánea por C. hominivorax <ref type="bibr" target="#b11">12</ref> , sin embargo, no fue de ayuda en este caso.</p><p>La mayoría de los casos de miasis cutáneas son evitables, siendo el uso de mosquiteros en las ventanas, repelente, ropa adecuada y un adecuado manejo y cobertura de heridas, las medidas suficientes para prevenir estos cuadros <ref type="bibr" target="#b8">9</ref> . La identificación de una larva de dípteros requiere de personal altamente calificado y con la experiencia suficiente. En Chile, el Laboratorio Parasitología Básico-Clínico del Instituto de Ciencias Biomédicas de la Facultad de Medicina de la Universidad de Chile y el Instituto de Salud Pública de Chile son centros de referencia que cuentan con el personal calificado para esta labor.</p><p>La preservación del espécimen, después de su remoción, debe realizarse de la siguiente forma: sumergir a la larva por 30 segundos en agua caliente (&gt; 80 °C) pero no hirviendo, lo que la mata; posteriormente, la larva debe ser preservada en una solución de etanol al 70-95% <ref type="bibr" target="#b12">13</ref> . Debe evitarse el uso de formalina, ya que rigidiza el tejido de la larva, lo que dificulta su posterior estudio <ref type="bibr" target="#b13">14</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusión</head><p>La miasis cutánea por C. hominivorax es una infestación poco frecuente en nuestro país, dado que la mayoría de los casos son importados. A pesar de ser un diagnóstico clínico evidente, requiere de una anamnesis dirigida y el apoyo de un laboratorio de parasitología para la correcta identificación de las larvas.</p><p>El tratamiento de estos pacientes debe ser oportuno y resolutivo, debido a las posibles complicaciones como también a su fuerte impacto psicosocial. Se presenta este caso clínico por su escasa frecuencia en nuestro medio y presencia masiva de larvas.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figura 2 .</head><label>2</label><figDesc>Figura 2. imágenes macroscópica (A y B) y con microscopía estereoscópica (C y D) de larvas l2 y l3 de Cochliomyia hominivorax.</figDesc><graphic coords="3,53.86,87.87,425.16,318.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="2,45.39,322.89,425.16,317.88" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Miasis humana en Bahía Blanca</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Visciarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Costamagna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Basabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="605" to="611" />
+			<date type="published" when="2000">2000/2005. 2007</date>
+			<pubPlace>Argentina</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Miasis cutánea forunculosa causada por Dermatobia hominis</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pastor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Briceño</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Schafer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Med Chile</title>
+		<imprint>
+			<biblScope unit="volume">141</biblScope>
+			<biblScope unit="page" from="1081" to="1082" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Miasis genital accidental por Eristalis tenax</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>González</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Comte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Monárdez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Díaz</forename><surname>De Valdés</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Matamala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Chil Infectología</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="270" to="272" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Miasis importada: Siete casos de parasitación cutánea por larvas de la mosca Dermatobia hominis</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schenone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Apt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Bustamante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Sepúlveda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Montaldo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Med Chile</title>
+		<imprint>
+			<biblScope unit="volume">129</biblScope>
+			<biblScope unit="page" from="786" to="788" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Miasis cutánea por Dermatobia hominis: a propósito de un caso clínico</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cases</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Atías</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Piper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol día</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="149" to="151" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Miasis auricular por Cochliomyia hominivorax (Diptera: Calliphoridae) (Coquerel, 1858)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Neira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Muñoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Cantero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Med Chile</title>
+		<imprint>
+			<biblScope unit="volume">130</biblScope>
+			<biblScope unit="page" from="907" to="909" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Treatment of cutaneous myiasis associated with scalp psoriasis in a 13-year-old girl with oral ivermectin</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pereyra-Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Bernabeu-Wittel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Conejo-Mir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruiz-Pérez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Conejo-Mir</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Acad Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="908" to="909" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Human infestation with Cochliomyia hominivorax, the New World screwworm</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kron</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Acad Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="264" to="265" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Cutaneous myiasis</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Mcgraw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Turiansky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Acad Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="907" to="926" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Cutaneous myiasis caused by the African tumbu fly (Cordylobia anthropophaga)</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Ockenhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Samlaska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Benson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Eliasson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Malane</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="199" to="202" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Myiasis in a pregnant woman and an effective, sterile method of surgical extraction</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Richards</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Brieva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dermatol Surg</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="955" to="957" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Myiasis: a successful treatment with topical ivermectin</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Victoria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Trujillo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Barreto</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Msph</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="142" to="144" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Best practice in forensic entomology-standards and guidelines</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Amendt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Campobasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gaudry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Legal Med</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="90" to="104" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Collecting and preserving insects and mites: Techniques and tools</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schauff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Systematic Entomology Laboratory</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>USDA; National Museum of Natural History</publisher>
+			<pubPlace>Washington, D.C.</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

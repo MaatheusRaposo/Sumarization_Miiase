@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Oral and maxillofacial myiasis associated with epidermoid carcinoma: a case report</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Ricardo</forename><surname>Wathson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ricardo</forename><forename type="middle">W F</forename><surname>Carvalho</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> ) Department of Oral and Maxillofacial Surgery , Oswaldo Cruz Hospital and Pernambuco State University , Recife , Brazil</note>
+								<orgName type="department">Department of Oral and Maxillofacial Surgery</orgName>
+								<orgName type="institution" key="instit1">Oswaldo Cruz Hospital</orgName>
+								<orgName type="institution" key="instit2">Pernambuco State University</orgName>
+								<address>
+									<settlement>Recife</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thiago</forename><forename type="middle">S</forename><surname>Santos</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> ) Department of Oral and Maxillofacial Surgery , Oswaldo Cruz Hospital and Pernambuco State University , Recife , Brazil</note>
+								<orgName type="department">Department of Oral and Maxillofacial Surgery</orgName>
+								<orgName type="institution" key="instit1">Oswaldo Cruz Hospital</orgName>
+								<orgName type="institution" key="instit2">Pernambuco State University</orgName>
+								<address>
+									<settlement>Recife</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><forename type="middle">A</forename><surname>Antunes</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> ) Department of Oral and Maxillofacial Surgery , Oswaldo Cruz Hospital and Pernambuco State University , Recife , Brazil</note>
+								<orgName type="department">Department of Oral and Maxillofacial Surgery</orgName>
+								<orgName type="institution" key="instit1">Oswaldo Cruz Hospital</orgName>
+								<orgName type="institution" key="instit2">Pernambuco State University</orgName>
+								<address>
+									<settlement>Recife</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">R L</forename><surname>Filho</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> ) Department of Oral and Maxillofacial Surgery , Pernambuco Dentistry College , Recife , Brazil</note>
+								<orgName type="department">Department of Oral and Maxillofacial Surgery</orgName>
+								<orgName type="institution">Pernambuco Dentistry College</orgName>
+								<address>
+									<settlement>Recife</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Edvaldo</forename><forename type="middle">D</forename><surname>Anjos</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> ) Department of Oral and Maxillofacial Surgery , Tiradentes University , Aracaju , Brazil</note>
+								<orgName type="department">Department of Oral and Maxillofacial Surgery</orgName>
+								<orgName type="institution">Tiradentes University</orgName>
+								<address>
+									<settlement>Aracaju</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>4</label> ) Oral and Maxillofacial Surgery Service , Governador João Alves Filho Hospital , Aracaju , Brazil</note>
+								<orgName type="department">Oral and Maxillofacial Surgery Service</orgName>
+								<orgName type="institution">Governador João Alves Filho Hospital</orgName>
+								<address>
+									<settlement>Aracaju</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rodrigo</forename><forename type="middle">B</forename><surname>Catunda</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>5</label> ) Oral and Maxillofacial Surgery , Governador João Alves Filho Hospital , Aracaju , Brazil</note>
+								<orgName type="department">Oral and Maxillofacial Surgery</orgName>
+								<orgName type="institution">Governador João Alves Filho Hospital</orgName>
+								<address>
+									<settlement>Aracaju</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Feitosa de Carvalho , Rua Divina Pastora , 603 , Centro CEP 49010600 , Aracaju , Sergipe , Brazil</note>
+								<orgName type="department">Feitosa de Carvalho</orgName>
+								<orgName type="institution">Rua Divina Pastora</orgName>
+								<address>
+									<postCode>603 49010600</postCode>
+									<settlement>Aracaju Sergipe</settlement>
+									<region>Centro CEP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Oral and maxillofacial myiasis associated with epidermoid carcinoma: a case report</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">172610C57C86AE78166844CE6581917C</idno>
+					<note type="submission">Received 29 August and accepted 18 December 2007</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>myiasis</term>
+					<term>host-parasite relation</term>
+					<term>oral</term>
+					<term>facial</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Myiasis is a term derived from the</head><p>Greek word "myia", meaning invasion of vital tissue of humans or other mammals by fly larvae. The deposited eggs develop into larvae, which penetrate deep structures causing adjacent tissue destruction. It is an uncommon c l i n i c a l c o n d i t i o n , b e i n g m o re f re q u e n t i n underdeveloped countries and hot climate regions, and is associated with poor hygiene, suppurative oral lesions, alcoholism and senility. Its diagnosis is made basically by the presence of larvae. This paper reports a case of oral and maxillofacial myiasis involving 273 larvae in a patient with epidermoid carcinoma without physical or neurological deficiency. The patient's management was antisepsis, larval removal and general care, before death after three months. (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The word myiasis comes from the Greek word myia (fly) <ref type="bibr" target="#b0">(1)</ref>, and is used to describe invasion of viable mammalian tissues by dipterous fly larvae <ref type="bibr" target="#b1">(2)</ref>. The flies deposit their eggs, which then hatch into larvae, which in turn infiltrate the tissue and destroy it <ref type="bibr" target="#b2">(3)</ref>. Myiasis frequently occurs in sub-developed countries, in rural zones, and in animals such as cattle, goats and pigs, although it is uncommon in humans <ref type="bibr" target="#b3">(4)</ref>.</p><p>This communication describes a case of oral and maxillofacial myiasis, involving 273 larvae, in a patient without any physical or mental deficiency.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Case Report</head><p>This 80-year-old patient, an agriculturalist, presented with a 6-month history of pulsation in the right mid face, and a feeling that something was moving. He had previously undergone biopsy of a lesion in the oral cavity, and epidermoid carcinoma had been diagnosed.</p><p>Anamnesis revealed no physical or neurological disorders. The patient presented with fetid breath and deficient self hygiene. Clinical examination demonstrated a large necrotic mid face lesion, with several larvae (Fig. <ref type="figure" target="#fig_1">1</ref>), and an oral-sinusal fistula. Computed tomography (CT) scan revealed marked bone destruction on the periorbital, maxillary sinus and nasal-orbital-ethmoid regions (Fig. <ref type="figure" target="#fig_2">2</ref>).</p><p>Under general anesthesia, 273 larvae were removed, along with necrotic and damaged tissues (Figs. <ref type="figure" target="#fig_3">3</ref> and <ref type="figure" target="#fig_4">4</ref>). The patient was followed up for three months, after which he died due to complications of the larval infestation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Myiasis in humans tends to occur in individuals that live in hostile habitats, or in those having deficient self-hygiene and low immunity, being rare in healthy persons (4). In the present case, the patient showed no physical or neurological deficiency.</p><p>During the development of myiasis, adjacent tissue may become inflamed, with or without ulceration, tissue necrosis or even osseous involvement <ref type="bibr" target="#b4">(5)</ref>. In the oral cavity, it may be manifested as erythematous intumescence, which pulses because of the movement of the larvae. The preexistence of oral lesions, a fetid odor, and an open-mouth sleeping habit are predisposing factors. The sick, old, and persons with mental disorders mostly easily acquire this disease (3). In the present case, it seems likely that the eggs were deposited in a pre-existing lesion. The number of larvae present depends on the number of eggs deposited, and this in turn determines the extent of the lesion (3). The present case involved a large number of eggs, resulting in extensive larval development (273), which is very unusual.</p><p>The diagnosis of myiasis is basically made on the basis of larval movement (4,5), although in a few cases where the larvae are below the skin, differential diagnosis is necessary. This situation was found in the present case, and was associated with epidermoid carcinoma, similar to a case reported by Osorio et al. <ref type="bibr" target="#b5">(6)</ref>. The conventional treatment for myiasis consists of larvae removal using chemical substances such as ether, promoting larval asphyxia and inducing them to exit from the wound (3). In larger lesions, or when there is adjacent cellulite as shown in the present case, removal of devitalized tissues is recommended <ref type="bibr" target="#b6">(7)</ref>.     by gamma-aminobutyric acid liberation, leading to parasites death, and their spontaneous elimination by washing out the larvae, thus avoiding mechanical removal and achieving lower morbidity. According to Rossi-Schneider et al. <ref type="bibr" target="#b7">(8)</ref>, human myiasis prevention involves fly population control, general cleanliness and informing the public that individuals living in locations without basic sanitation are more predisposed to infestation. In the reported case, the affected patient lived in a hostile habitat and had deficient hygiene.</p><p>The use of ivermectin in veterinary medicine is widespread, but human use is still infrequent. In the present case, because of the extent of the lesion, its use was indicated, but it was not available at our hospital. After signs and symptoms have appeared, in order to avoid the problem of enlarging proportions, the patient must look for a specialized attendance once the patients are immunocompromised. Although the literature has described good results with ivermectin for human myiasis, its use is still difficult in health units in Brazil.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Shinohara et al. (1) and Osorio et al. (6) proposed the use of ivermectin, a macrolide antibiotic that is activated</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 A</head><label>1</label><figDesc>Fig. 1 A large necrotic midface lesion, with several larvae.</figDesc><graphic coords="2,45.35,85.24,240.00,178.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2</head><label>2</label><figDesc>Fig. 2 CT scan showing intense osseous destruction.</figDesc><graphic coords="2,45.35,308.61,239.48,187.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Removal of necrotic and damaged tissues.</figDesc><graphic coords="2,310.39,85.13,240.25,181.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig. 4</head><label>4</label><figDesc>Fig. 4 Total of 273 larvae removed.</figDesc><graphic coords="2,310.39,316.50,240.53,179.80" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Oral myiasis treated with ivermectin: case report</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Shinohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Martini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliveira</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz Dent J</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="79" to="81" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Oral myiasis caused by hypoderma bovis larvae in a child: a case report</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Erol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Ünlü</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Balci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tanrikulu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="247" to="249" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: report of case and review of management</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Felices</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kue</forename><surname>Ogbureke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="219" to="220" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A rare case of gingival myiasis caused by diptera (Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gursel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Aldemir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Ozgur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Ataoglu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Clin Periodontol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="777" to="780" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Vulvar myiasis</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yazar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ozcan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Dincer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Sahin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yonsei Med J</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="553" to="555" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Role of ivermectin in the treatment of severe orbital myiasis due to Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Osorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moncada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Molano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Valderrama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gualtero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Franco-Paredes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Infect Dis</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="57" to="59" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Vulvar myiasis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mfn</forename><surname>Fukugava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Cucé</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Bras Med</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="106" to="108" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+	<note>in Portuguese</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: a case report</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rossi-Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cherubini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Yurgel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Salum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Figueiredo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="85" to="88" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

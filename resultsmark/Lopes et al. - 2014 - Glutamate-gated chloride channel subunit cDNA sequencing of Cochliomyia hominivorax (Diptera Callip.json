@@ -1,0 +1,2007 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Glutamate-gated chloride channel subunit cDNA sequencing of Cochliomyia hominivorax (Diptera: Calliphoridae): cDNA variants and polymorphisms",
+    "authors": [
+      "Alberto Lopes",
+      "Renato De Carvalho",
+      "Ana De Azeredo-Espin"
+    ],
+    "doi": "10.1007/s10158-014-0172-6",
+    "hash": "8572CE6E1C303C022D7ED649BD2DFF1F",
+    "publication_date": "2014-06-15",
+    "publication_year": 2014,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Invertebrate Neuroscience",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "The New World screwworm (NWS) Cochliomyia hominivorax (Coquerel) is one of the major myiasiscausing flies that injures livestock and leads to losses of *US$ 2.7 billions/year in the Neotropics. Ivermectin (IVM), a macrocyclic lactone (ML), is the most used preventive insecticide for this parasite and targets the glutamate-gated chloride (GLUCLa) channels. Several authors have associated altered GluCla homologues to MLs resistance in invertebrates, although studies about resistance in NWS are limited to other genes. Here, we aimed to characterise the NWS GluCla (ChGluCla) cDNA and to search for alterations associated with IVM resistance in NWS larvae from a bioassay. The open reading frame of the ChGluCla comprised 1,359 bp and encoded a sequence of 452 amino acids. The ChGluCla cDNAs of the bioassay larvae showed different sequences that could be splice variants, which agree with the occurrence of alternative splicing in GluCla homologues. In addition, we found cDNAs with premature stop codons and the K242R SNP, which occurred more frequently in the surviving larvae and was located close to mutation (L256F) involved in ML resistance. Although these alterations were in low frequency, the ChGluCla sequencing will allow further studies to find alterations in the gene of resistant natural populations.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_b33fc54d",
+      "text": "The New World screwworm (NWS) fly, Cochliomyia hominivorax (Coquerel), is one of the worst parasites that injure livestock population in South American countries, except Chile. This species has a myiasis-causing larval stage on its life cycle (Hall and Wall 1995) that leads to reduced fertility, weight and milk production (Welch and Hall 2008), and to economic losses of *US$ 2.7 billions/ year in the Neotropics (Vargas-Tera ´n et al. 2005). Although the releasing of sterile males in infested areas (sterile insect technique) results in the control of NWS in North and Central America (Vargas-Tera ´n et al. 2005), in South America control is accomplished by the use of chemical insecticides such as the macrocyclic lactones (MLs) (Welch and Hall 2008), which has led to the emergence of resistance.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Hall and Wall 1995)",
+          "offset_start": 243,
+          "offset_end": 263
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Welch and Hall 2008)",
+          "offset_start": 324,
+          "offset_end": 345
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "(Vargas-Tera ´n et al. 2005)",
+          "offset_start": 415,
+          "offset_end": 443
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "(Vargas-Tera ´n et al. 2005)",
+          "offset_start": 589,
+          "offset_end": 617
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Welch and Hall 2008)",
+          "offset_start": 735,
+          "offset_end": 756
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_e17adc23",
+      "text": "Ivermectin (IVM) is the most profitable macrocyclic lactone used in the world (Omura and Crump 2004). It targets the members of the cys-loop ligand-gated ionchannel (cys-loop LGIC) superfamily, mainly the glutamate-gated chloride channels (GLUCLa) (Wolstenholme and Rogers 2005), which occur by the co-assemble of five subunits in the neuromuscular cell membranes of invertebrates (Cleland 1996). The IVM binds at the interface of GLUCLa subunits (Hibbs and Gouaux 2011) and irreversibly opens it (Cully et al. 1994), which causes the parasite death. The members of this ion-channel superfamily extend their diversity by post-transcriptional alterations such as alternative splicing and RNA editing in many arthropods (Drosophila melanogaster, Apis mellifera, Nasonia vitripennis) (Semenov and Pak 1999;Jones and Sattelle 2006;Jones et al. 2010).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Omura and Crump 2004)",
+          "offset_start": 78,
+          "offset_end": 100
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "(Wolstenholme and Rogers 2005)",
+          "offset_start": 248,
+          "offset_end": 278
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Cleland 1996)",
+          "offset_start": 381,
+          "offset_end": 395
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Hibbs and Gouaux 2011)",
+          "offset_start": 447,
+          "offset_end": 470
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Cully et al. 1994)",
+          "offset_start": 497,
+          "offset_end": 516
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Semenov and Pak 1999;",
+          "offset_start": 781,
+          "offset_end": 803
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "Jones and Sattelle 2006;",
+          "offset_start": 803,
+          "offset_end": 827
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Jones et al. 2010)",
+          "offset_start": 827,
+          "offset_end": 845
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_1729c7e0",
+      "text": "Several authors have associated ML-resistant strains to mutations in GluCla homologues such as in Cooperia oncophora (L256F) (Njue et al. 2004), Tetranychus urticae (G323D; G326E) (Kwon et al. 2010;Dermauw et al. 2012) and D. melanogaster (P299S) (Kane et al. 2000). In addition, artificially induced mutations in Haemonchus contortus GluCla (L256F/W/Y; P316S) (McCavera et al. 2009;Yamaguchi et al. 2012) reduced the level of MLs binding. Nevertheless, studies about molecular resistance in NWS are focused on other genes and insecticides. Based on these mutations in GluCla genes, the high similarity of amino acid sequence among the cys-loop LGICs (Ortells and Lunt 1995), and the rise of IVM inefficiency against NWS, it is possible that the NWS GluCla (ChGluCla) could be an IVM target-site and that resistance could be linked to alterations in this gene. Here, we aimed to characterise the ChGluCla cDNA and perform an IVM bioassay to search for polymorphisms probably associated with resistance. This study will help further researchers to investigate new alterations linked to IVM resistance, which would improve the NWS control in the field.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Njue et al. 2004",
+          "offset_start": 125,
+          "offset_end": 142
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "(Kwon et al. 2010;",
+          "offset_start": 180,
+          "offset_end": 198
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Dermauw et al. 2012)",
+          "offset_start": 198,
+          "offset_end": 218
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "(Kane et al. 2000)",
+          "offset_start": 247,
+          "offset_end": 265
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(McCavera et al. 2009;",
+          "offset_start": 361,
+          "offset_end": 383
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Yamaguchi et al. 2012",
+          "offset_start": 383,
+          "offset_end": 404
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Ortells and Lunt 1995)",
+          "offset_start": 651,
+          "offset_end": 674
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_185159e3",
+      "text": "The NWS larvae used were derived from a strain originally collected in 2006 directly from infested livestock animals on farms with a history of MLs use, located in the municipality of Caiapo ˆnia (16°57S/51°48 W), State of Goia ´s, Brazil. They were reared to adults and maintained in the laboratory conditions for several generations (*6 years) according to Vargas and Espin (1995), without selection, prior to RNA extraction. The NWS larvae used for GluCla characterisation and bioassay evaluation were of the L3 and L2 life stages, respectively.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "Vargas and Espin (1995)",
+          "offset_start": 359,
+          "offset_end": 382
+        }
+      ],
+      "head_paragraph": "Materials and methods",
+      "head_section": "NWS samples"
+    },
+    {
+      "id": "p_08932e87",
+      "text": "Due to the lack of well-characterised NWS IVM-resistant and IVM-susceptible reference strains to study molecular mechanisms of resistance, we carried out an IVM bioassay and compared the GluCla cDNA of the bioassay larvae to find alterations probably associated with resistance. The bioassay was carried out in the laboratory in February 2011. The commercial formulation of IVM 1 % used is a mixture of C22, C23-dihydroavermectin B1a and B1b, in the proportion of about 90 and 10 %, respectively (IVO-MECÓ, Merial Sau ´de Animal, Brazil). Four IVM concentrations were tested with three replications of 30 larvae for each concentration replicate (90 larvae for triplicate) and a control group of 30 larvae, resulting in a total of 390 larvae. The control group had the same characteristics of the replicates with IVM, but without it. The sample size of each replicate in the bioassay was chosen based on recommendations of Robertson et al. (1984). The IVM concentrations of 0.32 ppm-3.2 lL of IVOMECÓ 1 % solution in 100 g of culture medium-1.0, 3.2 and 10 ppm, were prepared mixing the respective IVM dose, separately, for about 20 s, with a mixture of blood and water (2:1) (30 mL) into plastic conic tubes (50 mL) capped with a lid. The respective IVM mixture was subsequently mixed with ground meat (70 g) in a container (11 cm diameter, 4 cm high) capped with a screen lid, to allow for air and moisture exchange. The containers were subsequently put in a dark room, due to IVM instability under light, at room temperature (*25 °C). The L2 larvae tested were randomly chosen, removed from the rearing diet medium and subsequently held into the respective containers with (IVM groups) or without (control group) IVM. We scored mortality 24 h post-treatment, and 15 dead larvae in the lowest IVM concentration (ChSusc) and 15 surviving larvae in the highest IVM concentration (ChIVR) were randomly chosen and removed with tweezers from the containers, cleaned and dried on paper towels, put into plastic conic tubes and immediately stored at -70 °C. The larvae that showed some locomotion were considered alive. The PoloPlus Ò software (Jacqueline L. Robertson 2007) was used to estimate the lethal concentrations (LC 50 and LC 90 ), their confidence intervals (95 % CI) and the significance of the slope of the regression line by a t test.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "Robertson et al. (1984)",
+          "offset_start": 922,
+          "offset_end": 945
+        }
+      ],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_53f5fb6d",
+      "text": "RNA extraction, cDNA synthesis, ChGluCla cloning and sequencing Total RNA was extracted from NWS L3 larvae (n = 4) for the GluCla characterisation and from L2 larvae of the bioassay groups, ChSusc (n = 15) and ChIVR (n = 15), using Trizol treatment (Life Technologies TM ) according to the manufacturer's instructions. Samples were treated with TURBO TM DNase (Life Technologies TM ) to remove the genomic DNA residues, and 1 lg of total RNA was used for first-strand synthesis of poly(A) cDNA using the Re-vertAid First Strand cDNA Synthesis Kit (Fermentas) and an oligodT 18 VN primer.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_bbb01927",
+      "text": "The primers F1 (5 0 AACCGGCCATTATTTCTGG 3 0 ), F2 (5 0 ATGCAAGAATACGACCATCC 3 0 ), F3 (5 0 CCTTTGGATCGTCAAGTCTG 3 0 ) and R3 (5 0 GAT CAAGCCAGAATGACACC 3 0 ), used for PCR amplifications, were designed based on the previously published ChGluCla partial sequence (Carvalho et al. 2010). The primer F1 was located two nucleotides downstream of the initiation codon (Online Resource 1A), at a corresponding position on the Lucilia cuprina GluCla. The most downstream primer, R4 (5 0 ACTCATCCTCCTCTTCACGG 3 0 ), was designed based on the stop codon region of the L. cuprina GluCla considering the sequence alignment of dipteran GluCla genes (L. cuprina: AF081674.1, Musca domestica: AB177546.1 and D. melanogaster: FBtr0335417). Two primer sets were used for the characterisation of the ChGluCla cDNA: F1/R3 and F3/R4. These primers and other two combinations, F2/R3 and F1/R4, were used to PCR amplify the ChGluCla cDNA of the bioassay larvae.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(Carvalho et al. 2010)",
+          "offset_start": 262,
+          "offset_end": 284
+        }
+      ],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_bebcba5d",
+      "text": "Initially, from the 10 NWS larvae of each bioassay group that had the ChGluCla cDNA analysed, 16 had it amplified in a single reaction using the pair of primers F1/ R4-10 from the ChIVR group and 6 from the ChSusc group-and 4 using the pairs of primers F1/R3 and F3/R4. Subsequently, we carried out the search for polymorphisms in a subset of five more larvae from each group using the pair of primers F2/R3.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_15426c1f",
+      "text": "The 25 lL PCR mix had 1.5 U of Taq DNA Polymerase (Life Technologies TM ) and 1 lL of cDNA. The reaction concentrations for the pair of primers F1/R3 were 14 lM of dNTPs, 2.8 mM of MgCl 2 and 0.4 lM of primers. For the primers combination F3/R4, the reaction concentrations were 10 lM of dNTPs, 2.4 mM of MgCl 2 and 0.16 lM of primers, while the pairs of primers F1/R4 and F2/R3 had 56 lM of dNTPs, 2.8 mM of MgCl 2 and 0.4 lM of primers. The PCR conditions used for the primer sets F1/ R3 and F3/R4 were a denaturation step of 95 °C (3 min) followed by 35 cycles of 95 °C (30 s), an annealing temperature of 54 and 60 °C (30 s), respectively, and 72 °C (1 min), finalising with an extension step of 72 °C (15 min). For the primer sets F1/R4 and F2/R3, the specific conditions were a denaturation step of 95 °C (5 min) followed by 35 cycles of 95 °C (1 min), an annealing temperature of 58 and 61 °C (1 min), respectively, and 72 °C (1 min 30 s), with a final step of 72 °C (10 min).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_ab89e785",
+      "text": "The PCR products amplified by the pair of primers F1/ R3 were purified directly from the amplification reaction, while those amplified by the pairs of primers F3/R4, F1/R4 and F2/R3 had the fragments of the expected size purified after running in a 1 % agarose gel (w/v) and staining with 0.5 lg/mL ethidium bromide. The purification was carried out using the Invisorb Ò Fragment CleanUp kit (Invitek). After purification, the fragments were cloned into the pGEMT-Easy vector (Promega) and sequenced bidirectionally with universal vector primers. Three clones per larva of amplicons amplified by each primer set (F1/R3, F3/R4, F1/R4 and F2/R3) were sequenced with the Big Dye TM Terminator Cycle Sequencing Ready Kit v. 3.0 (ABI Prism TM , Perkin-Elmer) on a 96-capillary ABI-3730xl (Applied Biosystems) sequencer.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_42be711a",
+      "text": "The chromatograms were analysed using the Sequence Scanner v.1.0 software (Life Technologies TM ). The CAP3 software (Huang and Madan 1999) assembled the 5 0 -and 3 0 -end consensus cDNAs to obtain a baseline sequence for the characterisation of the open reading frame (ORF) of ChGluCla. The nucleotide sequences were translated using the Emboss Transeq software (Rice et al. 2000), and the BioEdit software (Hall 1999) performed the ClustalW multiple sequence alignment (Thompson et al. 1997) for the search of polymorphisms, comparison to other invertebrate GLUCLa subunits, and analysis of cDNA variants. The analysis of the indels (insertions and deletions) of cDNA variants were carried out with the sequences amplified by the pair of primers F1/R4. The statistical significances were assessed using the Fisher's exact test.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "(Huang and Madan 1999)",
+          "offset_start": 117,
+          "offset_end": 139
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "(Rice et al. 2000)",
+          "offset_start": 363,
+          "offset_end": 381
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Hall 1999",
+          "offset_start": 408,
+          "offset_end": 418
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "(Thompson et al. 1997)",
+          "offset_start": 471,
+          "offset_end": 493
+        }
+      ],
+      "head_section": "Sequence analysis"
+    },
+    {
+      "id": "p_5d739b33",
+      "text": "The molecular weight and isoelectric point of the putative protein encoded by ChGluCla were predicted by Compute pI/Mw tool in Expasy Server (Wilkins et al. 1999). The N-terminal signal peptide and transmembrane domains were predicted by SignalP v.4.0 (Petersen et al. 2011) and MemPype (Pierleoni et al. 2011), respectively. The N-terminal loops and the L-glutamate-binding positions were predicted using homology to corresponding regions of arthropod cys-loop LGIC receptors (Jones andSattelle 2006, 2007;Hibbs and Gouaux 2011). The putative N-glycosylation and potential phosphorylation sites were deduced using Prosite (Sigrist et al. 2010), and the database searches were performed using NCBI BLAST (Altschul et al. 1990) and FlyBase (Marygold et al. 2013).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "(Wilkins et al. 1999)",
+          "offset_start": 141,
+          "offset_end": 162
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Petersen et al. 2011)",
+          "offset_start": 252,
+          "offset_end": 274
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(Pierleoni et al. 2011)",
+          "offset_start": 287,
+          "offset_end": 310
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Jones and",
+          "offset_start": 477,
+          "offset_end": 487
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Sattelle 2006, 2007;",
+          "offset_start": 487,
+          "offset_end": 507
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "Hibbs and Gouaux 2011)",
+          "offset_start": 507,
+          "offset_end": 529
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Sigrist et al. 2010)",
+          "offset_start": 623,
+          "offset_end": 644
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Altschul et al. 1990",
+          "offset_start": 704,
+          "offset_end": 725
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "(Marygold et al. 2013)",
+          "offset_start": 739,
+          "offset_end": 761
+        }
+      ],
+      "head_section": "Sequence analysis"
+    },
+    {
+      "id": "p_f6be9382",
+      "text": "We obtained the first ORF of ChGluCla. The consensus sequences of the 5 0 -and 3 0 -end of the ChGluCla cDNA had 806 bp and 844 bp, respectively, and overlapped by 298 bp. The assembly of these cDNAs resulted in a fragment of 1,352 bp, which comprised the almost full-length ORF of ChGluCla. We added five nucleotides with the ATG codon, from the NWS GluCla partial sequence by Carvalho et al. (2010), and two nucleotides from the stop codon, in order to obtain the full-length ORF. Thus, the ORF of ChGluCla comprised 1,359 nucleotides (KF214912) and encoded a deduced protein of 452 amino acids (Fig. 1).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "Carvalho et al. (2010)",
+          "offset_start": 378,
+          "offset_end": 400
+        }
+      ],
+      "head_paragraph": "Results",
+      "head_section": "ChGluCla cDNA characterisation"
+    },
+    {
+      "id": "p_e9ef7663",
+      "text": "This sequence showed significant nucleotide identity with the GluCla of D. melanogaster (82 %, RI variant), M. domestica (89 %) and L. cuprina (96 %). At the amino acid level, the ChGluCla showed an even higher identity with the putative orthologs of D. melanogaster (94 %, PI isoform), M. domestica (95 %) and L. cuprina (99 %). The deduced molecular weight and isoelectric point were 52.29 kDa and 8.76, respectively. We already found four putative N-glycosylation and 8 potential phosphorylation sites.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "ChGluCla cDNA characterisation"
+    },
+    {
+      "id": "p_d0027c6c",
+      "text": "The deduced ChGluCla amino acid sequence has the characteristic features of members of the cys-loop LGIC superfamily: four proposed transmembrane domains; a N-terminal extracellular domain containing distinct loops (Knipple and Soderlund 2010); the signature pair of cysteine residues (cys-loop) (Cederholm et al. 2009); a variable intracellular M3-M4 loop domain; the conserved residues aspartic acid (D) and arginine (R) (Sine and Engel 2006). Moreover, this sequence has exclusive features of the ligand-gated chloride channel family such as the PAR, VT, L and T residues responsible for the chloride selectivity (Jensen et al. 2005) and another pair of cysteine residues (loop C) (Knipple and Soderlund 2010). We already found the sites YGWT and TGEY inferred to be positions of L-glutamate binding (Hibbs and Gouaux 2011) (Fig. 1).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Knipple and Soderlund 2010)",
+          "offset_start": 215,
+          "offset_end": 243
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "(Cederholm et al. 2009",
+          "offset_start": 296,
+          "offset_end": 318
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Sine and Engel 2006)",
+          "offset_start": 423,
+          "offset_end": 444
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Jensen et al. 2005",
+          "offset_start": 616,
+          "offset_end": 635
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Knipple and Soderlund 2010)",
+          "offset_start": 684,
+          "offset_end": 712
+        }
+      ],
+      "head_paragraph": "Results",
+      "head_section": "ChGluCla cDNA characterisation"
+    },
+    {
+      "id": "p_ce5dbb1f",
+      "text": "The larvae mortality and the insecticide concentration were directly proportional, and the linear regression showed significant correlation (p value \\0.01, t test). The highest respectively) are conserved in the cys-loop LGICs; PAR, VT, L and T residues responsible for ion charge selectivity. The two cysteines forming the cys-loop as well as those forming the loop C (LpC) are highlighted in black shading. N-glycosylation sites are underlined and potential phosphorylation sites are indicated by black filled rectangles above the sequences. Positions according to sequence of NWS",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_42b42b30",
+      "text": "and the lowest IVM concentrations showed 80 and 39 % of mortality, respectively, while the control group (0 ppm) had an insignificant mortality (Table 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Bioassay with IVM"
+    },
+    {
+      "id": "p_b50390f0",
+      "text": "Sixteen bioassay larvae-10 of the ChIVR group and 6 from the ChSusc group-had the ChGluCla cDNA amplified by a single reaction that resulted in cDNAs ranging from 983 to 1,364 bp (Table 2). However, 8 cDNA variants were present at single copies, and 9 were consistent with two or more copies (Online Resource 1A). The cDNAs that comprised 1,349 bp and 1,352 bp showed, each one, two variants: A and B. The cDNA variant A of 1,352 bp was the most represented with 27.1 % of the sequences of the clones. Other four larvae of the ChSusc group had the ChGluCla cDNAs amplified by two primer combinations that resulted in 5 0 -and 3 0 -end fragments between 735-806 and 691-844 bp (data not shown), respectively. Therefore, 20 bioassay larvae had the almost full-length ORF of the ChGluCla amplified.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Analysis of the GluCla cDNA of the bioassay larvae"
+    },
+    {
+      "id": "p_c36a7aa7",
+      "text": "We compared the predicted amino acid sequence of the reference ChGluCla cDNA characterised in this study (1,359 bp) with those of the bioassay larvae that were amplified by one primer combination and found several regions probably affected by alternative splicing, as well as premature stop codons (Fig. 2). Here, we use the nomenclature suggested by Jones and Sattelle (2007) in order to maintain consistency with other cys-loop LGIC subunits. The ChGluCla possesses exon variants equivalent for Drosophila GluCla exons 3a, 3b (Modules 1 and 2, respectively) (Semenov and Pak 1999) and an additional exon, here denoted as 3c, that generates specific isoforms of Drosophila (FlyBase: FBtr0335418 and FBpp0307403) (Marygold et al. 2013) and Tribolium castaneum (Jones and Sattelle 2007) GluClas (Online Resource 2A, B, C, D). The putative Cochliomyia GluCla exons 3a and 3b are identical to the corresponding regions in Drosophila Glu-Cla; however, they differ by two and one residue, respectively, to those of Tribolium GluCla. The Drosophila exon 3c and the putative corresponding Cochliomyia exon differ by 7 residues while that of Tribolium GluCla is shorter than these two. This additional exon generates 4 of the 9 ChGluCla cDNA variants, including those of 1,352 bp, which could explain its presence in the baseline ChGluCla sequence. As with Drosophila GluCla isoform PE (Fly-Base: FBpp0290592), the cDNA variant comprising 1,281 bp presents the lack of these putative homologous exons (3a, 3b or 3c), including an inferred different position for the starting methionine, which results in the absence of the leader signal peptide.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Jones and Sattelle (2007)",
+          "offset_start": 351,
+          "offset_end": 376
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Semenov and Pak 1999",
+          "offset_start": 560,
+          "offset_end": 581
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "(Marygold et al. 2013)",
+          "offset_start": 713,
+          "offset_end": 735
+        }
+      ],
+      "head_section": "Analysis of the GluCla cDNA of the bioassay larvae"
+    },
+    {
+      "id": "p_54bc5071",
+      "text": "The region of the intracellular loop between M3 and M4 in ChGluCla cDNAs clearly undergoes alternative splicing. This region in Drosophila GluCla isoforms is generated either by the use of differential splice sites or use of alternative exons that cause their M3-M4 loop to differ by In each one of the ChGluCla cDNAs of 1,120 and 1,352 bp (variant B), the loss of M3-M4 domain eliminates one potential phosphorylation site, while the smaller variant additionally lost one N-glycosylation site. These premature stops were due to a single nucleotide polymorphism (SNP) or to deletions resulting in frameshifts (Online Resource 1A). Within the ChGluCla cDNAs, we still found sequences in the boundaries of gaps that are similar to consensus splice site motifs of pre-mRNAs (Online Resource 1B).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Analysis of the GluCla cDNA of the bioassay larvae"
+    },
+    {
+      "id": "p_d78223b4",
+      "text": "The ChGluCla cDNAs of the bioassay larvae also showed 65 SNPs overall, with 34 being encoding (Table 3). However, consistent SNPs were detected at two positions: the K242R SNP (AAG to AGG) occurred in a lower frequency in the ChIVR group, while the K398* (AAA to TAA) occurred exclusively in this group. The other SNPs were present at single copies, probably as artefacts obtained during amplification. In the ChIVR group, nine of the ten larvae showed the K242 allele in all clones and one larva was heterozygote (K242 and R242). In the ChSusc group, five of the ten larvae showed the K242 allele in all clones and the other five were heterozygous. Due to proximity to positions involved in ML resistance and in IVM binding (Fig. 3), we additionally amplified a region of 672 bp with this SNP in a subset of five more larvae of each bioassay group. It is worth noting that the process of pre-mRNA A-to-I editing replaces AAG by AGG at the position K241 of D. melanogaster GluCla and changes the genomic lysine (K) to arginine (R) (Semenov and Pak 1999), the same alteration we observed at the equivalent position K242 in the ChGluCla cDNAs.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Semenov and Pak 1999)",
+          "offset_start": 1031,
+          "offset_end": 1053
+        }
+      ],
+      "head_section": "Analysis of the GluCla cDNA of the bioassay larvae"
+    },
+    {
+      "id": "p_8d39c440",
+      "text": "The analysis showed an insignificant difference (p [ 0.05) between the frequencies of larvae with the R242 allele on the three clones in both groups. However, a significant difference occurred between the frequencies of clones with this allele (Table 3).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Analysis of the GluCla cDNA of the bioassay larvae"
+    },
+    {
+      "id": "p_b2f2a4ab",
+      "text": "The results reveals that the ChGluCla cDNA consensus sequence have high identity with the GluCla nucleotide sequence of L. cuprina, D. melanogaster and M. domestica. In addition, the deduced amino acid sequence of ChGluCla has features that suggest this gene belongs to three groups: the cys-loop LGICs (Knipple and Soderlund 2010;Sine and Engel 2006;Cederholm et al. 2009); the ligand-gated chloride channel family (Jensen et al. 2005); and the glutamate-gated chloride channel subfamily (Hibbs and b Fig. 2 Multiple sequence alignment of putative C. hominivorax GluCla isoforms. Putative exon 3 splice variants (a, b, c) are highlighted in bold.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Knipple and Soderlund 2010;",
+          "offset_start": 303,
+          "offset_end": 331
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "Sine and Engel 2006;",
+          "offset_start": 331,
+          "offset_end": 351
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "Cederholm et al. 2009)",
+          "offset_start": 351,
+          "offset_end": 373
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Jensen et al. 2005)",
+          "offset_start": 416,
+          "offset_end": 436
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Hibbs and",
+          "offset_start": 489,
+          "offset_end": 499
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_7cd61389",
+      "text": "The N-terminal signal peptide as well as the four transmembrane domains are indicated. The two cysteines forming the cys-loop as well as those forming the loop C (LpC) are highlighted in black shading. Loops that interfere in ligand binding (LpA-F) are indicated. The first two residues, with the initiation methionine, upstream the F1 primer, are highlighted in light grey shading. The putative initiation methionine of the Ch_1281 cDNA variant is highlighted in underlined bold. N-glycosylation sites are underlined, and potential phosphorylation sites are indicated by black filled rectangles and dark grey shading (putative exons 3a, 3b and 3c). Premature stop codons are indicated by asterisks. Ch_X_Y = cDNAs. X represents the cDNA size in nucleotides and Y represents the variants A or B of cDNAs comprising 1,349 bp (49_A or 49_B) and 1,352 bp (52_A or 52_B). Sequence data of these NWS GluCla variants were deposited with the GenBank Data Library: KJ725365-KJ725373 Gouaux 2011). For these reasons, we suggest that this gene is an ortholog of other dipteran GluCla genes.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_cafa573d",
+      "text": "The features of ChGluCla cDNAs of the bioassay larvae-different sizes, inferred exons and differential splice sites, along with sequences similar to consensus splice site motifs-agree with the occurrence of splice variants found in GluCla orthologs of insects such as T. castaneum (Jones and Sattelle 2007), A. mellifera (Jones and Sattelle 2006) and D. melanogaster (Semenov and Pak 1999). As with the fruit fly, honey bee and Tribolium GluClas, the predicted ChGluCla alternative exons and splice sites diversify this receptor. Evidence of this is the use of different variants of exon 3 with amino acid substitutions and insertion that disrupt the position of potential phosphorylation sites in the vicinity of loop D, which may interfere in agonist binding. Moreover, we propose that the lack of this exon, as is the case for Drosophila GluCla isoform PE (Online Resource 2C, D), in cDNA variant of 1,281 bp could be the cause for the differential position of start codon and for the absence of one phosphorylation and one N-glycosylation site in the N-terminal extracellular domain. Species-specific variants also occur, since the putative Cochliomyia GluCla exon 3c and those of the orthologous Drosophila and Tribolium differ substantially in the N-terminal portion.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "(Jones and Sattelle 2007)",
+          "offset_start": 281,
+          "offset_end": 306
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "(Jones and Sattelle 2006)",
+          "offset_start": 321,
+          "offset_end": 346
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Semenov and Pak 1999)",
+          "offset_start": 367,
+          "offset_end": 389
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_6410e8be",
+      "text": "Another hot spot that increases variability of GluCla receptors is the M3-M4 loop. The ChGluCla shows remarkable diversity in this domain (Fig. 2), in addition to inferred premature end of translation that causes the loss of potential phosphorylation and N-glycosylation sites. Interestingly, in Drosophila GluCla isoforms, the intracellular loop is highly similar to the equivalent region in the Cochliomyia ortholog with identical stretches between them (Online Resource 2F). We suggest that, as with its Drosophila counterpart, the alterations in the intracellular loop of Cochliomyia GluCla cDNAs are generated by the use of differential splice sites and alternative exons.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_00c7b011",
+      "text": "These cDNAs still showed premature stop codons, although insignificantly different between the groups. When compared with the reference ChGluCla amino acid sequence, these premature stop codons results in loss of subunit domains (Fig. 2), with probable impact in the protein function and in the insecticide binding. Several authors have associated ML resistance in invertebrates to viable truncated transcripts of nAchRs (Baxter et al. 2010;Watson et al. 2010;Hsu et al. 2012) and GluCla homologues (Dent et al. 2000). Although these researchers described truncated transcripts that were artificially induced or spinosad resistant, their work suggests that uncommon modified forms of cys-loop LGICs bind differently to MLs compared with the standard protein structure. Moreover, the loss of putative N-glycosylation and phosphorylation sites in the M3-M4 loop affects receptor activity (Cascio 2006). This suggests that the predicted variants of ChGluCla cDNAs with these features could bind differently to IVM.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "(Baxter et al. 2010;",
+          "offset_start": 421,
+          "offset_end": 441
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "Watson et al. 2010;",
+          "offset_start": 441,
+          "offset_end": 460
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Hsu et al. 2012)",
+          "offset_start": 460,
+          "offset_end": 476
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Dent et al. 2000)",
+          "offset_start": 499,
+          "offset_end": 517
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Cascio 2006)",
+          "offset_start": 886,
+          "offset_end": 899
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_77fae930",
+      "text": "The clones with the R242 allele occurred in both bioassay groups, at a significant lower frequency in the surviving larvae. This SNP is close to the M1 domain and to L256F mutation in GLUCLa of nematodes, involved in IVM binding (Hibbs and Gouaux 2011) and in ML resistance (Yamaguchi et al. 2012;Njue et al. 2004), respectively. Furthermore, the K242R SNP is positioned in a domain (pre-M1) associated with conformational changes that result in channel gating and opening by agonists (Bartos et al. 2009;Lee et al. 2009). Therefore, alterations on the M1 domain and adjacent regions such as this SNP are probably involved in conformational changes, which could avoid the receptor to be open by ligands such as IVM. Since this polymorphism is similar to pre-mRNA A-to-I editing in the equivalent position of the Drosophila GluCla, it is probable that the same process occurs in NWS GluCla. In order to verify this alteration and the alternative splicing, the NWS GluCla genomic DNA sequencing needs to be carried out.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Hibbs and Gouaux 2011)",
+          "offset_start": 229,
+          "offset_end": 252
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "(Yamaguchi et al. 2012;",
+          "offset_start": 274,
+          "offset_end": 297
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "Njue et al. 2004)",
+          "offset_start": 297,
+          "offset_end": 314
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "(Bartos et al. 2009;",
+          "offset_start": 485,
+          "offset_end": 505
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "Lee et al. 2009",
+          "offset_start": 505,
+          "offset_end": 520
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_d5adc702",
+      "text": "Although these alterations occurred in a specific subpopulation and were in low frequency, the two SNPs and cDNA variants in the ChIVR group could clarify mechanisms probably associated with IVM resistance in NWS. The absence of any polymorphism clearly linked to IVM resistance could be explained by other targets or mechanisms that need to be addressed: alterations in other ionchannel genes or the metabolic detoxification, which could be the major type of resistance in this strain. Nevertheless, the ChGluCla sequencing of this isolate of NWS, along with the cDNA variants, provides a basis for characterisation of new molecular markers that could help to track resistant natural populations. indicated by empty triangle while the position of the K242R SNP in C. hominivorax is indicated by black star. Residues associated to IVM-binding in C. elegans and those corresponding in C. hominivorax and C. oncophora are highlighted in bold. The pre-M1 region is indicated by dashed line",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_8691e648",
+      "text": "Acknowledgments This study was funded by Grants Conselho Nacional de Desenvolvimento Cientı ´fico e Tecnolo ´gico and Fundac ¸a ˜o de Amparo a `Pesquisa do Estado de Sa ˜o Paulo (# 2011/01030-5). We would like to thank Rosa ˆngela Rodrigues for the technical assistance and Salete Couto Campos for the help with the bioassay and NWS strain maintenance. We are grateful to Dr. Thiago Mastra ˆngelo for advices in preparing the manuscript.",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_a9780010",
+      "text": "Conflict of interest None.",
+      "coords": [],
+      "refs": []
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig. 1",
+      "type": "figure",
+      "desc": "Fig. 1 Multiple sequence alignment of GluCla protein sequences of NWS (KF214912), L. cuprina (AF081674.1), M. domestica (AB177546.1) and D. melanogaster (FBtr0335417). Predicted signal peptide as well as the four transmembrane domains (M1-4) are indicated. Highlighted in grey shading: YGWT and TGEY are sites predicted to bind to L-glutamate; D and R (positions 79 and 243,",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 85.06,
+          "width": 59.24,
+          "height": 425.28
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "3",
+      "head": "Fig. 3",
+      "type": "figure",
+      "desc": "Fig. 3 Portion of multiple sequence alignment of GluCla protein sequences of C. hominivorax (KF214912), C.elegans (U14524.1) and C. oncophora (AY372756). M1 = first transmembrane domain. The two cysteines forming the loop C (LpC) are highlighted in black shading. The position of the L256F mutation in C. oncophora is",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1",
+      "type": "table",
+      "desc": "Results after 24 h of treatment and parameters of the IVM bioassay estimated by PoloPlus Ò IVM] ivermectin concentrations, ppm parts per million, LC lethal concentration, s.e. standard error[IVM]  of which the larvae were removed for cDNA analysis are highlighted in bold underlined * Significantly different mortality from that of the lowest concentration (0.32 ppm), p value \\0.001, Fisher's exact test a Mortality versus [IVM] regression line, p value \\0.01, t test",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "[IVM] (ppm)",
+            "0*",
+            "0.32",
+            "1",
+            "3.2",
+            "10",
+            "LC 50 (CI95 %)",
+            "LC 90 (CI95 %)",
+            "Slope a ± s.e",
+            "t test"
+          ],
+          [
+            "Dead",
+            "",
+            "2",
+            "35",
+            "39",
+            "51",
+            "72",
+            "1.74",
+            "104.61",
+            "0.72 0.16",
+            "4.62"
+          ],
+          [
+            "Alive",
+            "",
+            "28",
+            "55",
+            "51",
+            "39",
+            "18",
+            "(0.56-4.34)",
+            "(22.70-13,749)",
+            ""
+          ],
+          [
+            "[Table 2 cDNAs amplified by the primers combination F1/R4 and",
+            "",
+            "",
+            ""
+          ],
+          [
+            "number of sequences analysed (number of clones with the respective",
+            "",
+            "",
+            ""
+          ],
+          [
+            "size/total number of clones) in each bioassay group",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "cDNA",
+            "N°clones/",
+            "",
+            "N°clones/",
+            "Premature",
+            "Predicted lost",
+            "",
+            "",
+            ""
+          ],
+          [
+            "(bp)",
+            "total ChSusc",
+            "total ChIVR",
+            "stop codon a",
+            "domains b",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "983",
+            "-",
+            "",
+            "1/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,117",
+            "-",
+            "",
+            "1/30",
+            "Yes",
+            "M3-M4 loop; M4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,120",
+            "3/18",
+            "",
+            "5/30",
+            "Yes",
+            "M3-M4 loop; M4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,236",
+            "1/18",
+            "",
+            "-",
+            "No",
+            "N-terminal",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,281",
+            "-",
+            "",
+            "2/30",
+            "No",
+            "N-terminal",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,295",
+            "-",
+            "",
+            "1/30",
+            "No",
+            "N-terminal",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,304",
+            "1/18",
+            "",
+            "2/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,307",
+            "1/18",
+            "",
+            "1/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,316",
+            "1/18",
+            "",
+            "2/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,319",
+            "1/18",
+            "",
+            "-",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,340",
+            "1/18",
+            "",
+            "-",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,349_A 1/18",
+            "",
+            "1/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,349_B 1/18",
+            "",
+            "3/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,352_A 6/18",
+            "",
+            "7/30",
+            "-",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,352_B -",
+            "",
+            "3/30",
+            "Yes c",
+            "M3-M4 loop; M4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,361",
+            "-",
+            "",
+            "1/30",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1,364",
+            "1/18",
+            "",
+            "-",
+            "No",
+            "-",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "M4 fourth transmembrane domain, M3-M4 loop loop between M3 and M4",
+            "",
+            "",
+            ""
+          ],
+          [
+            "a Presence of premature stop codon compared with the reference ChGluCla",
+            "",
+            "",
+            ""
+          ],
+          [
+            "cDNA characterised",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "b In the deduced amino acid sequence of the cDNAs compared with the",
+            "",
+            "",
+            ""
+          ],
+          [
+            "reference ChGluCla amino acid sequence characterised",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "c Premature stop codon due to a SNP",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 31,
+          "column_count": 10,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_1",
+      "label": "3",
+      "head": "Table 3",
+      "type": "table",
+      "desc": "Coding SNPs described in the ChGluCla cDNAs and number of clones analysed (number of clones with the SNP/total number of clones analysed in the respective bioassay group)",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "AA substitutions",
+            "SNP/total",
+            "AA substitutions",
+            "SNP/total"
+          ],
+          [
+            "ChSusc",
+            "ChSusc",
+            "ChIVR",
+            "ChIVR"
+          ],
+          [
+            "N149S",
+            "1/30",
+            "Q105R",
+            "1/30"
+          ],
+          [
+            "N149D",
+            "1/30",
+            "I138V",
+            "1/30"
+          ],
+          [
+            "S159T",
+            "1/30",
+            "N141D",
+            "1/30"
+          ],
+          [
+            "M182T",
+            "1/30",
+            "V177I",
+            "1/30"
+          ],
+          [
+            "V193I",
+            "1/30",
+            "F194S",
+            "1/30"
+          ],
+          [
+            "L215F",
+            "1/30",
+            "E198G",
+            "1/30"
+          ],
+          [
+            "L219S",
+            "1/30",
+            "L239P",
+            "1/30"
+          ],
+          [
+            "N224S",
+            "1/30",
+            "K242R *",
+            "1/45"
+          ],
+          [
+            "S225G",
+            "1/30",
+            "I252T",
+            "1/30"
+          ],
+          [
+            "K236E",
+            "1/30",
+            "E350G",
+            "1/30"
+          ],
+          [
+            "K242R *",
+            "10/45",
+            "K398",
+            "3/30"
+          ],
+          [
+            "R242",
+            "1/45",
+            "Y443C",
+            "1/30"
+          ],
+          [
+            "I250F",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "Q251R",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "W264R",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "S279P",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "V314I",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "A322 V",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "E325 V",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "S333P",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "I427 V",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "T428A",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "A434 V",
+            "1/30",
+            "",
+            ""
+          ],
+          [
+            "Positions according to ChGluCla amino acid sequence characterised"
+          ],
+          [
+            "* p value \\0.05, Fisher's exact test",
+            "",
+            ""
+          ],
+          [
+            "Premature stop codon",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 28,
+          "column_count": 4,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Basic local alignment search tool",
+      "authors": [
+        "S Altschul",
+        "W Gish",
+        "W Miller",
+        "E Myers",
+        "D Lipman"
+      ],
+      "journal": "J Mol Biol",
+      "publication_date": "1990",
+      "year": 1990,
+      "volume": "215",
+      "issue": "3",
+      "page_start": "403",
+      "page_end": "410"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Structural basis of activation of cys-loop receptors: the extracellular-transmembrane interface as a coupling region",
+      "authors": [
+        "M Bartos",
+        "J Corradi",
+        "C Bouzat"
+      ],
+      "journal": "Mol Neurobiol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "40",
+      "issue": "3",
+      "page_start": "236",
+      "page_end": "252"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Mis-spliced transcripts of nicotinic acetylcholine receptor alpha6 are associated with field evolved spinosad resistance in Plutella xylostella (L.)",
+      "authors": [
+        "S Baxter",
+        "M Chen",
+        "A Dawson",
+        "J Zhao",
+        "H Vogel",
+        "A Shelton"
+      ],
+      "journal": "PLoS Genet",
+      "publication_date": "2010",
+      "year": 2010,
+      "doi": "10.1371/journal.pgen.1000802"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance",
+      "authors": [
+        "R Carvalho",
+        "A Azeredo-Espin",
+        "T Torres"
+      ],
+      "journal": "BMC Genom",
+      "publication_date": "2010",
+      "year": 2010,
+      "doi": "10.1186/1471-2164-11-695"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Modulating inhibitory ligand-gated ion channels",
+      "authors": "M Cascio",
+      "journal": "AAPS J",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "8",
+      "issue": "2",
+      "page_start": "353",
+      "page_end": "E361"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Gating mechanisms in Cys-loop receptors",
+      "authors": [
+        "J Cederholm",
+        "P Schofield",
+        "T Lewis"
+      ],
+      "journal": "Eur Biophys J",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "39",
+      "issue": "1",
+      "page_start": "37",
+      "page_end": "49"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Inhibitory glutamate receptor channels",
+      "authors": "T Cleland",
+      "journal": "Mol Neurobiol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "13",
+      "issue": "2",
+      "page_start": "97",
+      "page_end": "136"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Cloning of an avermectin-sensitive glutamate-gated chloride channel from Caenorhabditis elegans",
+      "authors": [
+        "D Cully",
+        "D Vassilatis",
+        "K Liu",
+        "P Paress",
+        "L Van Der Ploeg",
+        "J Schaeffer"
+      ],
+      "journal": "Nature",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "371",
+      "issue": "6499",
+      "page_start": "707",
+      "page_end": "711"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "The genetics of ivermectin resistance in Caenorhabditis elegans",
+      "authors": [
+        "J Dent",
+        "M Smith",
+        "D Vassilatis",
+        "L Avery"
+      ],
+      "journal": "Proc Natl Acad Sci",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "97",
+      "issue": "6",
+      "page_start": "2674",
+      "page_end": "2679"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "The cys-loop ligand-gated ion channel gene family of Tetranychus urticae: implications for acaricide toxicology and a novel mutation associated with abamectin resistance",
+      "authors": [
+        "W Dermauw",
+        "A Ilias",
+        "M Riga",
+        "A Tsagkarakou",
+        "M Grbic",
+        "L Tirry"
+      ],
+      "journal": "Insect Biochem Mol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "42",
+      "issue": "7",
+      "page_start": "455",
+      "page_end": "465"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT",
+      "authors": "T Hall",
+      "journal": "Nucleic Acids Symp Ser",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "41",
+      "page_start": "95",
+      "page_end": "98"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Myiasis of humans and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Adv Parasit",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "257",
+      "page_end": "334"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Principles of activation and permeation in an anion-selective Cys-loop receptor",
+      "authors": [
+        "R Hibbs",
+        "E Gouaux"
+      ],
+      "journal": "Nature",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "474",
+      "issue": "7349",
+      "page_start": "54",
+      "page_end": "60"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Truncated transcripts of nicotinic acetylcholine subunit gene Bda6 are associated with spinosad resistance in Bactrocera dorsalis",
+      "authors": [
+        "J-C Hsu",
+        "H-T Feng",
+        "W-J Wu",
+        "S Geib",
+        "C-H Mao",
+        "J Vontas"
+      ],
+      "journal": "Insect Biochem Mol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "42",
+      "issue": "10",
+      "page_start": "806",
+      "page_end": "815"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "CAP3: A DNA sequence assembly program",
+      "authors": [
+        "X Huang",
+        "A Madan"
+      ],
+      "journal": "Genome Res",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "9",
+      "issue": "9",
+      "page_start": "868",
+      "page_end": "877"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Charge selectivity of the Cys-loop family of ligand-gated ion channels",
+      "authors": [
+        "M Jensen",
+        "A Schousboe",
+        "P Ahring"
+      ],
+      "journal": "J Neurochem",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "92",
+      "page_start": "217",
+      "page_end": "225"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "The cys-loop ligand-gated ion channel superfamily of the honeybee",
+      "authors": [
+        "A Jones",
+        "D Sattelle"
+      ],
+      "journal": "Apis mellifera. Invertebr Neurosci",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "6",
+      "issue": "3",
+      "page_start": "123",
+      "page_end": "132"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "The cys-loop ligand-gated ion channel gene superfamily of the red flour beetle, Tribolium castaneum",
+      "authors": [
+        "A Jones",
+        "D Sattelle"
+      ],
+      "journal": "BMC Genomics",
+      "publication_date": "2007",
+      "year": 2007,
+      "doi": "10.1186/1471-2164-8-327"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "The cys-loop ligandgated ion channel gene superfamily of the parasitoid wasp, Nasonia vitripennis",
+      "authors": [
+        "A Jones",
+        "A Bera",
+        "K Lees",
+        "D Sattelle"
+      ],
+      "journal": "Heredity",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "104",
+      "issue": "3",
+      "page_start": "247",
+      "page_end": "259"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Drug-resistant Drosophila indicate glutamategated chloride channels are targets for the antiparasitics nodulisporic acid and ivermectin",
+      "authors": [
+        "N Kane",
+        "B Hirschberg",
+        "S Qian",
+        "D Hunt",
+        "B Thomas",
+        "R Brochu"
+      ],
+      "journal": "Proc Natl Acad Sci",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "97",
+      "issue": "25",
+      "page_start": "13949",
+      "page_end": "13954"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "The ligand-gated chloride channel gene family of Drosophila melanogaster",
+      "authors": [
+        "D Knipple",
+        "D Soderlund"
+      ],
+      "journal": "Pestic Biochem Phys",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "97",
+      "issue": "2",
+      "page_start": "140",
+      "page_end": "148"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "A point mutation in a glutamate-gated chloride channel confers abamectin resistance in the two-spotted spider mite",
+      "authors": [
+        "D Kwon",
+        "K Yoon",
+        "J Clark",
+        "S Lee"
+      ],
+      "journal": "Tetranychus urticae Koch. Insect Mol Biol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "19",
+      "issue": "4",
+      "page_start": "583",
+      "page_end": "591"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Binding to gating transduction in nicotinic receptors: Cys-loop energetically couples to pre-M1 and M2-M3 regions",
+      "authors": [
+        "W Lee",
+        "C Free",
+        "S Sine"
+      ],
+      "journal": "J Neurosci",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "29",
+      "issue": "10",
+      "page_start": "3189",
+      "page_end": "3199"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "FlyBase: improvements to the bibliography",
+      "authors": [
+        "S Marygold",
+        "P Leyland",
+        "R Seal",
+        "J Goodman",
+        "J Thurmond",
+        "V Strelets"
+      ],
+      "journal": "Nucleic Acids Res",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "41",
+      "page_start": "751",
+      "page_end": "D757"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "An ivermectin-sensitive glutamate-gated chloride channel from the parasitic nematode Haemonchus contortus",
+      "authors": [
+        "S Mccavera",
+        "A Rogers",
+        "D Yates",
+        "D Woods",
+        "A Wolstenholme"
+      ],
+      "journal": "Mol Pharmacol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "75",
+      "issue": "6",
+      "page_start": "1347",
+      "page_end": "1355"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Mutations in the extracellular domains of glutamate-gated chloride channel alpha3 and beta subunits from ivermectin-resistant Cooperia oncophora affect agonist sensitivity",
+      "authors": [
+        "A Njue",
+        "J Hayashi",
+        "L Kinne",
+        "X Feng",
+        "R Prichard"
+      ],
+      "journal": "J Neurochem",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "89",
+      "issue": "5",
+      "page_start": "1137",
+      "page_end": "1147"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "The life and times of ivermectin-a success story",
+      "authors": [
+        "S Omura",
+        "A Crump"
+      ],
+      "journal": "Nat Rev Microbiol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "2",
+      "issue": "12",
+      "page_start": "984",
+      "page_end": "989"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Evolutionary history of the ligand-gated ion-channel superfamily of receptors",
+      "authors": [
+        "M Ortells",
+        "G Lunt"
+      ],
+      "journal": "Trends Neurosci",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "18",
+      "issue": "3",
+      "page_start": "121",
+      "page_end": "127"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "SignalP 4.0: discriminating signal peptides from transmembrane regions",
+      "authors": [
+        "T Petersen",
+        "S Brunak",
+        "G Von Heijne",
+        "H Nielsen"
+      ],
+      "journal": "Nat Methods",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "8",
+      "issue": "10",
+      "page_start": "785",
+      "page_end": "786"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "MemPype: a pipeline for the annotation of eukaryotic membrane proteins",
+      "authors": [
+        "A Pierleoni",
+        "V Indio",
+        "C Savojardo",
+        "P Fariselli",
+        "P Martelli",
+        "R Casadio"
+      ],
+      "journal": "Nucleic Acids Res",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "39",
+      "page_start": "375",
+      "page_end": "W380"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "EMBOSS: the European molecular biology open software suite",
+      "authors": [
+        "P Rice",
+        "I Longden",
+        "A Bleasby"
+      ],
+      "journal": "Trends Genet",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "16",
+      "issue": "6",
+      "page_start": "276",
+      "page_end": "277"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Effects of dose selection and sample size on the precision of lethal dose estimates in dose-mortality regression",
+      "authors": [
+        "Jl ; Robertson",
+        "Jl",
+        "K Smith",
+        "N Savin",
+        "R Lavigne"
+      ],
+      "publisher": "CRC Press",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "77",
+      "page_start": "833",
+      "page_end": "837"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Diversification of Drosophila chloride channel gene by multiple posttranscriptional mRNA modifications",
+      "authors": [
+        "E Semenov",
+        "W Pak"
+      ],
+      "journal": "J Neurochem",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "72",
+      "issue": "1",
+      "page_start": "66",
+      "page_end": "72"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "PROSITE, a protein domain database for functional characterization and annotation",
+      "authors": [
+        "C Sigrist",
+        "L Cerutti",
+        "E De Castro",
+        "P Langendijk-Genevaux",
+        "V Bulliard",
+        "A Bairoch"
+      ],
+      "journal": "Nucleic Acids Res",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "38",
+      "page_start": "161",
+      "page_end": "D166"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Recent advances in Cys-loop receptor structure and function",
+      "authors": [
+        "S Sine",
+        "A Engel"
+      ],
+      "journal": "Nature",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "440",
+      "issue": "7083",
+      "page_start": "448",
+      "page_end": "455"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+      "authors": [
+        "J Thompson",
+        "T Gibson",
+        "F Plewniak",
+        "F Jeanmougin",
+        "D Higgins"
+      ],
+      "journal": "Nucleic Acids Res",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "25",
+      "issue": "24",
+      "page_start": "4876",
+      "page_end": "4882"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "journal": "Invert Neurosci",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "14",
+      "page_start": "137",
+      "page_end": "146"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Genetic variability mitochondrial DNA of the screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae) from Brazil",
+      "authors": [
+        "M Vargas",
+        "A Espin"
+      ],
+      "journal": "Biochem Genet",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "33",
+      "issue": "7-8",
+      "page_start": "237",
+      "page_end": "256"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Impact of screwworm eradication programmes using the sterile insect technique",
+      "authors": [
+        "M Vargas-Tera ´n",
+        "H Hofmann",
+        "N Tweddle"
+      ],
+      "editors": [
+        "V Dyck",
+        "J Hendrichs",
+        "A Robinson"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "629",
+      "page_end": "650"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "A spinosyn-sensitive Drosophila melanogaster nicotinic acetylcholine receptor identified through chemically induced target site resistance, resistance gene identification, and heterologous expression",
+      "authors": [
+        "G Watson",
+        "S Chouinard",
+        "K Cook",
+        "C Geng",
+        "J Gifford",
+        "G Gustafson"
+      ],
+      "journal": "Insect Biochem Mol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "40",
+      "issue": "5",
+      "page_start": "376",
+      "page_end": "384"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "New World screwworm (Cochliomyia hominivorax) and Old World screwworm (Chrysomya bezziana)",
+      "authors": [
+        "J Welch",
+        "Mjr Hall"
+      ],
+      "publisher": "World Organisation for Animal Health",
+      "publication_date": "2008",
+      "year": 2008,
+      "page_start": "265",
+      "page_end": "275",
+      "notes": "Manual of diagnostic tests and vaccines for terrestrial animals"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Protein identification and analysis tools in the ExPASy server",
+      "authors": [
+        "M Wilkins",
+        "E Gasteiger",
+        "A Bairoch",
+        "J Sanchez",
+        "K Williams",
+        "R Appel"
+      ],
+      "publisher": "Humana Press",
+      "publication_date": "1999",
+      "year": 1999,
+      "page_start": "531",
+      "page_end": "552"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Glutamate-gated chloride channels and the mode of action of the avermectin/milbemycin anthelmintics",
+      "authors": [
+        "A Wolstenholme",
+        "A Rogers"
+      ],
+      "journal": "Parasitology",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "131",
+      "page_start": "85",
+      "page_end": "S95"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Amino acid residues of both the extracellular and transmembrane domains influence binding of the antiparasitic agent milbemycin to Haemonchus contortus AVR-14B glutamate-gated chloride channels",
+      "authors": [
+        "M Yamaguchi",
+        "Y Sawa",
+        "K Matsuda",
+        "F Ozoe",
+        "Y Ozoe"
+      ],
+      "journal": "Biochem Biophys Res Commun",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "419",
+      "issue": "3",
+      "page_start": "562",
+      "page_end": "566"
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Abundância relativa e sazonalidade de espécies de Chrysomya (Diptera: Calliphoridae) no Pantanal ul-Mato-Grossense, Brasil",
+    "authors": [
+      "Elaine Corrêa",
+      "Werner Koller",
+      "A Barros"
+    ],
+    "doi": "10.4322/rbpv.01902003",
+    "hash": "7F6A6DEE2BFBE2FDAE074736EBA98F23",
+    "publication_date": "2010",
+    "publication_year": 2010,
+    "publisher": "FapUNIFESP (SciELO)",
+    "journal": "Revista Brasileira de Parasitologia Veterinária",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Chrysomya Robineau-Desvoidy 1830 (Diptera: Calliphoridae) exercem papel importante na saúde pública por causarem miíases e por veicularem enteropatógenos. Este estudo visou estimar a abundância relativa e a sazonalidade das três espécies de Chrysomya (C. albiceps, C. putoria e C. megacephala) que ocorrem no Pantanal. Os dípteros foram capturados em quatro armadilhas orientadas pelo vento (Wind Oriented Trap -W.O.T.), iscadas com fígado bovino deteriorado. As armadilhas foram mantidas ativas durante todo o estudo, realizado na fazenda Nhumirim, base experimental da Embrapa Pantanal, sub-região da Nhecolândia, Pantanal Sul-Mato-Grossense. No período de dezembro/2004 a novembro/2007, foram capturados 159.086 espécimes de Calliphoridae, sendo 31,87% do gênero Chrysomya. A espécie mais abundante do gênero foi C. albiceps (30,86%), seguida de C. megacephala (0,67%) e C. putoria (0,34%). As três espécies apresentaram flutuações sazonais semelhantes, com dois picos populacionais anuais, observados entre junho e agosto e entre outubro e dezembro.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_5471cd64",
+      "text": "As espécies do gênero Chrysomya Robineau-Desvoidy 1830 (Diptera: Calliphoridae) são conhecidas vulgarmente como moscas-varejeiras. Sua distribuição geográfica original compreendia o Velho Mundo, tendo sido introduzida acidentalmente no Brasil, mais especificamente no Sudeste, na década de 70, a partir do lixo de navios africanos (GUIMARÃES; PRADO;LINHARES, 1978).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "PRADO;",
+          "offset_start": 343,
+          "offset_end": 349
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "LINHARES, 1978)",
+          "offset_start": 349,
+          "offset_end": 364
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_f3391465",
+      "text": "Os primeiros registros de espécies de Chrysomya no país foram feitos por Imbiriba, Izutani e Milhoreto (1977), ao identificar C. putoria (Wiedemann, 1818), no Paraná, e por Guimarães, Prado e Linhares (1978), ao registrar a ocorrência de C. albiceps (Wiedemann, 1819), C. megacephala (Fabricius, 1794), e C. putoria em São Paulo.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Imbiriba, Izutani e Milhoreto (1977)",
+          "offset_start": 73,
+          "offset_end": 109
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Wiedemann, 1818)",
+          "offset_start": 137,
+          "offset_end": 154
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(1978)",
+          "offset_start": 201,
+          "offset_end": 207
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Wiedemann, 1819)",
+          "offset_start": 250,
+          "offset_end": 267
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Fabricius, 1794",
+          "offset_start": 284,
+          "offset_end": 300
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_ef7d81b7",
+      "text": "Essas moscas sinantrópicas apresentam significativa importância médico-sanitária por veicularem mecanicamente patógenos, como vírus, bactérias e helmintos (FURLANETTO et al., 1984;MONZON et al., 1991) e causarem miíases cutâneas secundárias (SOULSBY, 1969). Estudos realizados no Brasil têm evidenciado a importância epidemiológica de espécies de Chrysomya como vetores de microrganismos (FURLANETTO et al., 1984).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(FURLANETTO et al., 1984;",
+          "offset_start": 155,
+          "offset_end": 180
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "MONZON et al., 1991)",
+          "offset_start": 180,
+          "offset_end": 200
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(SOULSBY, 1969)",
+          "offset_start": 241,
+          "offset_end": 256
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(FURLANETTO et al., 1984)",
+          "offset_start": 388,
+          "offset_end": 413
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_cd82644d",
+      "text": "Apesar dos problemas ocasionados, as espécies de Chrysomya são importantes do ponto de vista ecológico, por contribuírem para a eliminação de carcaças, fezes e outros tipos de matéria orgânica em decomposição, sendo também muito úteis à entomologia forense por auxiliarem na investigação médico-criminal, possibilitando a obtenção de informações ante-mortem e post-mortem (CATTS; GOFF, 1992).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "GOFF, 1992)",
+          "offset_start": 380,
+          "offset_end": 391
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_2c399357",
+      "text": "Estudos sobre flutuação sazonal e abundância das espécies de Chrysomya têm sido pouco realizados no país, sendo a maioria nas regiões Sul e Sudeste. (OLIVEIRA, 1982;COSTA;WIEGAND;BRUM, 1992;MADEIRA;DIAS;MASCARENHAS, 1982). O presente estudo objetivou conhecer a abundância relativa e a sazonalidade das espécies do gênero Chrysomya na sub-região da Nhecolândia, Pantanal Sul-Mato-Grossense.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(OLIVEIRA, 1982;",
+          "offset_start": 149,
+          "offset_end": 165
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "COSTA;",
+          "offset_start": 165,
+          "offset_end": 171
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "WIEGAND;",
+          "offset_start": 171,
+          "offset_end": 179
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "BRUM, 1992;",
+          "offset_start": 179,
+          "offset_end": 190
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "MADEIRA;",
+          "offset_start": 190,
+          "offset_end": 198
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "DIAS;",
+          "offset_start": 198,
+          "offset_end": 203
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "MASCARENHAS, 1982)",
+          "offset_start": 203,
+          "offset_end": 221
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_5cc80294",
+      "text": "Os dípteros foram capturados semanalmente, no período de dezembro/2004 a novembro/2007, em quatro armadilhas orientadas pelo vento, descritas por Broce, Goodenough e Coppedge (1977). As armadilhas foram distribuídas em quatro locais da fazenda Nhumirim (18° 59' S e 56° 39' O, altitude 98 m), sub-região da Nhecolândia, base experimental da Embrapa Pantanal, município de Corumbá, MS.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Broce, Goodenough e Coppedge (1977)",
+          "offset_start": 146,
+          "offset_end": 181
+        }
+      ],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_f3eb7305",
+      "text": "As armadilhas, construídas com baldes de 15 L, ficaram permanentemente suspensas em árvores, em ambientes de campo e cerradão, cerca de 1,20 m de altura do solo e distantes entre si, no mínimo, 1.200 m. No interior das armadilhas, foi colocado um recipiente plástico protegido por tela fina de náilon, contendo 500 g de fígado bovino deteriorado (COPPEDGE et al., 1977). Visando à manutenção da atratividade, cerca de 50% das iscas foram renovadas e umedecidas semanalmente.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(COPPEDGE et al., 1977)",
+          "offset_start": 346,
+          "offset_end": 369
+        }
+      ],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_017e3e6a",
+      "text": "As armadilhas eram substituídas semanalmente, visando à coleta do material entomológico capturado no período. Quando necessário, foi aplicado um produto inseticida spray à base de piretroides (SBP®), para eliminar os insetos vivos no interior das armadilhas.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_26c08fcb",
+      "text": "O material entomológico foi retirado das armadilhas, acondicionado a seco e enviado ao Laboratório de Entomologia da Embrapa Pantanal para triagem, contagem e identificação preliminar, realizado com o auxílio de chave dicotômica (MELLO, 2003). Posteriormente, o material foi enviado ao Laboratório de Entomologia da Embrapa Gado de Corte para a identificação e confirmação das espécies.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(MELLO, 2003)",
+          "offset_start": 229,
+          "offset_end": 242
+        }
+      ],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_ae4fd133",
+      "text": "O material entomológico coletado encontra-se depositado em coleções de referência nas respectivas unidades da Embrapa.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_3763e4cb",
+      "text": "Registros climáticos diários, referentes à temperatura, umidade relativa do ar (UR) e precipitação pluviométrica, foram obtidos na estação agroclimatológica existente no local de estudo. Posteriormente, para fins de análise, foram utilizadas médias de temperatura e UR e os totais pluviométricos mensais.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_9c815b41",
+      "text": "A abundância das espécies Chrysomya foi expressa tanto em relação ao total de califorídeos capturados como em relação ao total de espécimes do gênero. Os resultados mensais das capturas foram submetidos à análise estatística descritiva, e a influência dos parâmetros climáticos na flutuação populacional das espécies de Chrysomya analisada pela análise de correlação.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_8afc97fe",
+      "text": "De modo geral, as condições climáticas observadas durante o estudo podem ser consideradas típicas para a região (Figura 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_1110889f",
+      "text": "Temperaturas médias mensais variaram de 19,2 a 27,6 °C, sendo mais elevadas geralmente de outubro a março e mais baixas de maio a agosto. A umidade relativa média mensal oscilou de 57,6 a 87,4%, sendo agosto e setembro os meses mais secos de cada ano. Precipitações anuais em 2005, 2006 e 2007 foram 967,7, 1.156,4 e 886,8 mm (janeiro-novembro), respectivamente, com estações chuvosas geralmente de outubro a abril e trimestre mais chuvoso de dezembro a fevereiro. Durante os três anos de estudo, foram capturados 159.086 espécimes de Calliphoridae, sendo 31,87% pertencentes ao gênero Chrysomya e 68,11% a outras espécies, incluindo: Chloroprocta idioidea Robineau -Desvoidy, 1830, Figura 1. Registro climáticos obtidos de dezembro/2004 a novembro/2007, na fazenda Nhumirim, sub-região da Nhecolândia, Pantanal Sul-Mato-Grossense. Cochliomyia hominivorax (Coquerel, 1858), Cochliomyia macellaria (Fabricius, 1775), Lucilia cuprina (Wiedmann, 1830) e Lucilia eximia (Wiedmann, 1819). Outras famílias também foram amostradas nesse período, tais como Fanniidae, Muscidae, Sarcophagidae, Syrphidae e Ropalomeridae.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_fbb8e470",
+      "text": "Chrysomya albiceps (30,86%) foi a espécie mais abundante do gênero, seguida por C. megacephala e C. putoria, com abundâncias respectivas de 0,67 e 0,34%. Considerando apenas os espécimes de Chrysomya, C. albiceps representou 96,80% dos indivíduos capturados (Tabela 1). A maior abundância de C. albiceps foi também observada em estudos realizados em outras localidades, tais como Pelotas, RS (VIANNA et al., 2004) e Porto Alegre, RS (OLIVEIRA, 1982). A predominância de C. albiceps em relação a outras espécies do gênero tem sido atribuída ao comportamento alimentar de suas larvas, as quais são predadoras de imaturos de outros dípteros, e ao seu curto período de desenvolvimento (MELLO; D'ALMEIDA; OLIVEIRA, 1997).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "(VIANNA et al., 2004)",
+          "offset_start": 392,
+          "offset_end": 413
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(OLIVEIRA, 1982)",
+          "offset_start": 433,
+          "offset_end": 449
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_a0a2481e",
+      "text": "Entretanto, Madeira, Dias e Mascarenhas (1982) observaram maior abundância de C. putoria (70,4%) em armadilhas iscadas com peixe cru, carne crua e fezes humanas em capturas realizadas em Belo Horizonte, MG, e D'Almeida, Jordan e Cesario (1991) verificaram que C. megacephala (82,46%) foi a espécie mais abundante em aterro sanitário no Rio de Janeiro. Em última análise, variações locais na flutuação e a composição das populações de dípteros muscóides sinantrópicos são determinadas por vários fatores, bióticos e abióticos (NUORTEVA, 1963;DAJOZ, 1983).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(NUORTEVA, 1963;",
+          "offset_start": 525,
+          "offset_end": 541
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "DAJOZ, 1983)",
+          "offset_start": 541,
+          "offset_end": 553
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_bea84670",
+      "text": "Em estudo realizado na cidade de Corumbá, MS, Campos e Barros (1995) observaram maior abundância de C. albiceps (63,03%) dentre os califorídeos atraídos por peixe em putrefação. No presente estudo, realizado no mesmo município, porém em área rural, cerca de 150 km da referida cidade, essa espécie representou 30,86% dos califorídeos capturados. Vários fatores podem ter contribuído para a diferença observada nos estudos realizados em áreas rurais e urbanas, dentre os quais, possíveis diferenças no grau de sinantropia e seletividade das iscas, além de diferenças ambientais.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_52980dbb",
+      "text": "No presente estudo, observou-se a ocorrência de C. albiceps, C. megacephala e C. putoria em quase todos os meses do ano, de forma semelhante ao encontrado por Ferreira (1983), em Goiânia, GO, e Oliveira (1982) em Porto Alegre, RS.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "Ferreira (1983)",
+          "offset_start": 159,
+          "offset_end": 174
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Oliveira (1982)",
+          "offset_start": 194,
+          "offset_end": 209
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_403420e9",
+      "text": "A flutuação populacional das espécies de Chrysomya apresenta expressivas variações em razão das localidades onde foram realizados os estudos. Assim, no Pantanal, as três espécies apresentaram flutuação sazonal semelhante, com dois picos populacionais anuais ocorridos entre junho e agosto (inverno) e entre outubro e dezembro (primavera) (Figura 2). Também D 'Almeida e Fraga (2007), em Niterói, RJ, e Souza e Linhares (1997), em Campinas, SP, observaram maior abundância nos meses mais quentes do ano. Entretanto, no Rio Grande do Sul, Costa, Weigand e Brum (1992) observaram um aumento populacional das três espécies de fevereiro a maio, com redução de junho a janeiro (inverno frio e chuvoso e primavera chuvosa). De forma semelhante, Vianna et al. (2004) verificaram maior abundância de Chrysomya no outono.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "'Almeida e Fraga (2007)",
+          "offset_start": 359,
+          "offset_end": 382
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Costa, Weigand e Brum (1992)",
+          "offset_start": 537,
+          "offset_end": 565
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "Vianna et al. (2004)",
+          "offset_start": 738,
+          "offset_end": 758
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_e5a78cd8",
+      "text": "As três espécies observadas na região foram mais abundantes em temperaturas médias acima de 20 °C e umidade relativa entre 70 e 80%. Esses dados corroboram a afirmação de Souza e Linhares (1997) de que espécies de Chrysomya apresentam sazonalidade",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_f260cf12",
+      "text": "Tabela 1. Abundância das espécies de Chrysomya, capturadas de dezembro/2004 a novembro/2007, na fazenda Nhumirim, sub-região da Nhecolândia, Pantanal, MS. Espécie Abundância Absoluta Relativa 1 (%) Relativa 2 (%) Chrysomya albiceps 49.101 30,86 96,80 Chrysomya megacephala 1.067 0,67 2,10 Chrysomya putoria 556 0,34 1,09 Outros Calliphoridae 108.362 68,11 Total 159.086 1 Abundância em relação ao total de Califorídeos capturados; 2 Abundância em relação ao total de espécimes de Chrysomya capturados. Figura 2. Flutuação sazonal de espécies de Chrysomya, no período de dezembro/2004 a novembro/2007, na fazenda Nhumirim, sub-região da Nhecolândia, Pantanal, MS.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_f3f72d52",
+      "text": "bem definida, com picos populacionais, no Brasil, ocorrendo nos meses com temperatura média superior a 18 °C. Baixas correlações (r < 0,25) foram observadas entre dados populacionais e parâmetros climáticos, indicando que a sazonalidade das espécies de Chrysomya não é determinada por uma única variável climática, mas provavelmente por associações entre tais variáveis. Vale salientar que outros fatores podem influenciar as capturas e seus resultados em termos de abundância das espécies. Assim, capturas são influenciadas não apenas pelo total pluviométrico mensal, mas também pela distribuição das chuvas no período (OLIVEIRA et al., 1982;GOMES;KOLLER;BARROS, 2000) ou ainda pela intensidade do vento, a qual pode aumentar a dispersão do odor e, consequentemente, a atratividade da isca ou mesmo dificultar a atividade dos insetos, reduzindo sua captura nas armadilhas.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "(OLIVEIRA et al., 1982;",
+          "offset_start": 620,
+          "offset_end": 643
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "GOMES;",
+          "offset_start": 643,
+          "offset_end": 649
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "KOLLER;",
+          "offset_start": 649,
+          "offset_end": 656
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "BARROS, 2000)",
+          "offset_start": 656,
+          "offset_end": 669
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_12c5e43c",
+      "text": "Conclui-se que C. albiceps é a mais abundante das espécies de Chrysomya que ocorrem no Pantanal Sul-Mato-Grossense (sub-região da Nhecolândia), e que C. albiceps, C. megacephala e C. putoria apresentam sazonalidade semelhante, com comportamento bimodal e picos populacionais no inverno e primavera.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_6c9fab9c",
+      "text": "À Fundação de Apoio ao Desenvolvimento do Ensino, Ciências e Tecnologia do Estado de Mato Grosso do Sul (Fundect) e à Empresa Brasileira de Pesquisa Agropecuária (Embrapa), pelo suporte financeiro ao estudo. Aos funcionários da Embrapa Pantanal, Ernande Ravaglia, Marcos José Miranda Alves, Waldno da Silva Aquino, Sidney José Benício e Wibert Avellar, pelo auxilio nas coletas e atividades laboratoriais.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Agradecimentos"
+    }
+  ],
+  "figures_and_tables": [],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "A wind oriented trap for screwworm flies",
+      "authors": [
+        "A Broce",
+        "J Goodenough",
+        "J Coppedge"
+      ],
+      "journal": "Journal of Economic Entomology",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "70",
+      "page_start": "413",
+      "page_end": "416"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Dípteros muscóides da área urbana de Corumbá",
+      "authors": [
+        "F Campos",
+        "A Barros"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "55",
+      "page_start": "351",
+      "page_end": "354"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Field comparisons of liver and a new chemical mixture as attractants for the screwworm fly",
+      "authors": [
+        "E Catts",
+        "M Goff",
+        "J Coppedge"
+      ],
+      "journal": "Annual Review of Entomology",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "37",
+      "issue": "1",
+      "page_start": "66",
+      "page_end": "68",
+      "notes": "Forensic entomology in criminal investigations Environmental Entomology"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Flutuação populacional das espécies de Chrysomya (Diptera: Calliphoridae) no município de Capão do Leão",
+      "authors": [
+        "P Costa",
+        "M Wiegand",
+        "J Brum"
+      ],
+      "journal": "RS. Arquivo Brasileiro de Medicina Veterinária e Zootecnia",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "44",
+      "page_start": "289",
+      "page_end": "296"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Dípteros caliptrados sinantrópicos do aterro sanitário de Jardim Gramacho, Rio de Janeiro",
+      "authors": [
+        "D' Almeida",
+        "J Jordan",
+        "M Cesario",
+        "S"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "51",
+      "issue": "2",
+      "page_start": "307",
+      "page_end": "311"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Efeito de diferentes iscas na atração de califorídeos (Diptera) no Campus do Valonguinho",
+      "authors": [
+        "D' Almeida",
+        "M Fraga",
+        "M"
+      ],
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "16",
+      "page_start": "199",
+      "page_end": "204",
+      "notes": "Revista Brasileira de Parasitologia Veterinária"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Microrganismos enteropatogênicos em moscas africanas pertencentes ao gênero Chrysomya (Diptera: Calliphoridae) no Brasil",
+      "authors": [
+        "R Dajoz",
+        "M Ferreira",
+        "S Furlanetto"
+      ],
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "43",
+      "page_start": "125",
+      "page_end": "128",
+      "notes": "Ecologia geral. 4. ed. Petrópolis: Vozes Sinantropia de Calliphoridae (Diptera) em Goiânia, Goiás Revista de Microbiologia Revista Brasileira de Biologia"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Three newly introduced blowfly species in Southern Brazil (Diptera: Calliphoridae)",
+      "authors": [
+        "J Guimarães",
+        "A Prado",
+        "A Linhares"
+      ],
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "22",
+      "page_start": "53",
+      "page_end": "60"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Introdução de Chrysomya chloropyga (Wiedemann, 1818) na Região Neotropical (Diptera, Calliphoridae)",
+      "authors": [
+        "A Imbiriba",
+        "D Izutani",
+        "I Milhoreto"
+      ],
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "20",
+      "page_start": "35",
+      "page_end": "39"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Contribuição ao conhecimento da fauna de Calliphoridae (Diptera) sinantrópicos da Pampulha",
+      "authors": [
+        "N Madeira",
+        "E Dias",
+        "C Mascarenhas"
+      ],
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "26",
+      "issue": "2",
+      "page_start": "137",
+      "page_end": "140"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Chave para identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil. Entomologia Veterinária",
+      "authors": [
+        "R Mello",
+        "R Mello",
+        "J Almeida",
+        "S Oliveira"
+      ],
+      "journal": "Brasil. Entomologia y Vectores",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "10",
+      "page_start": "111",
+      "page_end": "121",
+      "notes": "Relações tróficas entre dípteros caliptrados (Calliphoridae, Faniidae, Muscidae e Sarcophagidae) criados em diferentes substratos, no Rio de Janeiro"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "A comparison of the role of Musca domestica (Linnaeus) and Chrysomya megacephala as mechanical vectors of helminthic parasites in a typical slum area of metropolitan Manila",
+      "authors": "R Monzon",
+      "journal": "Southeast Asian Journal of Tropical Medicine Public Health",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "22",
+      "issue": "2",
+      "page_start": "222",
+      "page_end": "228"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Synanthropy of blowflies (Diptera: Calliphoridae) in Finland",
+      "authors": "P Nuorteva",
+      "journal": "Annales Entomologici Fennici, v",
+      "publication_date": "1963",
+      "year": 1963,
+      "volume": "29",
+      "page_start": "1",
+      "page_end": "49"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Ocorrência e flutuação populacional de três espécies do gênero Chrysomya. Pesquisa Agropecuária Brasileira",
+      "authors": "C Oliveira",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "17",
+      "page_start": "1707",
+      "page_end": "1708"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Flutuação populacional de Cochliomyia hominivorax no município de Itaguaí, Rio de Janeiro",
+      "authors": [
+        "C Oliveira",
+        "G Moya",
+        "R Mello"
+      ],
+      "publisher": "Pesquisa Veterinária Brasileira",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "2",
+      "page_start": "139",
+      "page_end": "142"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Diptera and coleoptera of potential forensic importance in southeastern Brazil: relative abundance and seasonality",
+      "authors": [
+        "E Soulsby",
+        "Helminths",
+        "A Souza",
+        "A Linhares"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publisher": "Tyndall and Cassell",
+      "publication_date": "1969",
+      "year": 1969,
+      "volume": "824",
+      "issue": "1",
+      "page_start": "8",
+      "page_end": "12",
+      "notes": "arthropods and protozoa of domesticated animals"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Abundância e flutuação populacional das espécies de Chrysomya (Diptera, Calliphoridae) em Pelotas",
+      "authors": "E Vianna",
+      "journal": "Brasil. Iheringia, Série Zoologia",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "94",
+      "page_start": "231",
+      "page_end": "234"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+# Proteolytic activity of excretory/secretory products of Cochliomyia hominivorax larvae (Diptera: Calliphoridae)
+Rodrigo Giglioti
+Semíramis Guimarães
+Teresa Oliveira-Sequeira
+Erica David
+Luciana Brito
+Maribel Huacca
+Ana Chagas
+Márcia Oliveira
+
+2 Faculdade de Ciências Agrárias e Veterinárias , Universidade Estadual Paulista (Unesp) , Via de acesso Prof. Paulo Donato Castellane s/n , Jaboti- cabal , SP 14884-900 , Brazil.
+Faculdade de Ciências Agrárias e Veterinárias
+Universidade Estadual Paulista (Unesp)
+
+Via de acesso Prof. Paulo Donato Castellane s/n Jaboti- cabal
+14884-900
+SP
+Brazil, 3 Instituto de Biociências , Unesp , Distrito de Rubião Junior s/n , Botuca- tu , SP 18618-970 , Brazil.
+Instituto de Biociências
+
+Distrito de Rubião Junior s/n Botuca- tu
+18618-970
+Unesp
+SP
+Brazil, 3 Instituto de Biociências , Unesp , Distrito de Rubião Junior s/n , Botuca- tu , SP 18618-970 , Brazil.
+Instituto de Biociências
+
+Distrito de Rubião Junior s/n Botuca- tu
+18618-970
+Unesp
+SP
+Brazil, 3 Instituto de Biociências , Unesp , Distrito de Rubião Junior s/n , Botuca- tu , SP 18618-970 , Brazil.
+Instituto de Biociências
+
+Distrito de Rubião Junior s/n Botuca- tu
+18618-970
+Unesp
+SP
+Brazil, 4 Embrapa Rondônia , Rodovia BR-364 Km 5,5 , Porto Velho , RO 76815- 800 , Brazil.
+Embrapa Rondônia
+
+Rodovia BR-364 Km 5,5
+76815- 800
+Porto Velho
+RO
+Brazil, 5 , Porto Velho , RO 76815-800 , Brazil.
+
+Porto Velho
+76815-800
+RO
+Brazil, 5 Universidade Federal de Rondônia (UniR) , Rodovia BR-364 Km 9 , 5, Porto Velho , RO 76801-059 , Brazil.
+Universidade Federal de Rondônia (UniR)
+
+Rodovia BR-364 Km 9 5, Porto Velho
+76801-059
+RO
+Brazil, 6 Embrapa Pecuária Sudeste , Rodovia Washington Luiz Km 234 , São Car- los , SP 13560-970 , Brazil.
+Embrapa Pecuária Sudeste
+
+Rodovia Washington Luiz Km 234 São Car- los
+13560-970
+SP
+Brazil, 6 Embrapa Pecuária Sudeste , Rodovia Washington Luiz Km 234 , São Car- los , SP 13560-970 , Brazil.
+Embrapa Pecuária Sudeste
+
+Rodovia Washington Luiz Km 234 São Car- los
+13560-970
+SP
+Brazil
+
+Published on August 17, 2016
+
+RESUMO.-[Atividade proteolítica de produtos de excreção/secreção de Cochliomyia hominivorax (Diptera: Calliphoridae).] Os perfis protéicos e a atividade proteolítica dos produtos de excreção/secreção (PE/S) das larvas de primeiro (L1), segundo (L2) e terceiro (L3) estágios de Cochliomyia hominivorax foram estudados em laboratório. Os perfis protéicos foram obtidos por eletroforese em géis de poliacrilamida (SDS-PAGE). Os PE/S de cada fase larval (L1, L2 e L3), tratados com inibidores de proteases, contendo 30µg, 40µg e 50µg de proteína, foram aplicados em géis de poliacrilamida a 10%. A atividade proteolítica dos PE/S na sua forma nativa, foi analisada em géis co-polimerizados
+
+com gelatina e por testes colorimétricos usando a azocaseína como substrato, com a caracterização das proteases feita por meio de inibidores sintéticos. Diferentes perfis protéicos foram observados para os instares larvais, com L1 apresentando o perfil mais complexo. Apesar disso, foram observadas várias bandas protéicas comuns a todos os estágios larvais. Os PE/S de todos os instares mostraram atividade proteolítica sobre a gelatina, evidenciada por zonas de proteólise, com predominância de massas moleculares aparentes mais altas em L1, enquanto que para L2 e L3 as zonas de proteólise puderam ser observadas também em regiões de menores massas. Os testes com inibidores de proteases usando a gelatina como substrato mostraram que os PE/S de L1, L2 e L3 eram compostos principalmente de serina-proteases. Adicionalmente, inibição foi observada nos PE/S de L2 tratada previamente com EDTA, um inibidor de metalo-proteases. Os ensaios com a zocaseína revelaram um aumento gradual da atividade proteolítica sobre este substrato com o progresso do desenvolvimento larval, com a mais forte inibição sendo observada após o tratamento com 3,4 dicloroisocumarina (DCI) para os PE/S de L1, L2 e L3. Estes resultados sugerem que as larvas de C. hominivorax produzem diferentes proteases, fato que pode estar relacionado a processos vitais para a sobrevivência do parasita, tais como a penetração nos tecidos dos hospe-
+
+### INTRODUCTION
+The New World screwworm fly, Cochliomyia hominivorax, is one of the most important myiasis agents in tropical and subtropical regions of the Americas. It produces severe cutaneous lesions in mammals, including domestic and wild animals and human beings (Guimarães & Papavero 1999). This fly was originally distributed throughout the southwestern USA and the Americas and has been eradicated from the USA, Mexico and part of Central America using the sterile insect technique (Galvin & Wyss 1996, Robinson et al. 2009). In Brazil, this species is widespread and can be found in all states of the country. Its parasitism among production animals gives rise to significant losses due to weight loss, lower meat and milk production and mortality (Grisi et al. 2014). In endemic regions of Brazil, the greatest concentration of cases of myiasis due to C. hominivorax larvae occurs when calves are born and castrated (Lima et al. 2004). The screwworm fly lays its eggs in recent skin wounds or on the animals' mucosa, with a production of up to 2,800 eggs per fly (Guimarães & Papavero 1999). The incubation period of the eggs varies from 11 to 21 hours, and the whole larval cycle (L1, L2 and L3) is completed in 4 to 8 days. During this period, the larvae remain in direct contact with the host tissues from which they feed. As larval development advances, there is a significant increase in size, such that the larvae can reach 17mm long (Davis & Camino 1968). Third-stage larvae release themselves from the host and fall to the ground for pupation, which lasts about seven days during the summer and up to 2 months during the winter. Adult females copulate once only and begin to lay eggs 5 to 10 days after emerging from the puparium (Guimarães & Papavero 1999). Parasite control among domestic animals raised in tropical regions has been systematically performed through intensive use of pesticides and drugs, which has led to the development of resistance among several bovine parasites (Uilenberg 1996). Thus, immunization methods and alternative treatments are needed to control parasitic diseases over the medium and long term. The fact that currently there are not many chemical tools available for controlling these various parasites indicates that there is a need to know more about many aspects of the parasite-host relationship, which could then provide support for the development of new drugs and vaccines (Coombs & Mottram 1997, Todorova 2000). For example, cattle infested by Dermatobia hominis larvae showed a tissue response characterized by an inflammatory infiltrate composed predominantly of eosinophils, basophils and mast cells around the necrosis area adjacent to the larva (Oliveira-Sequeira et al. 1996, Lello et al. 1999). Brant et al. (2010) analyzed the excretory/secretory products (E/ SP) of L1, L2 and L3 D. hominis larvae and found that the L1 produced mainly metalloproteases while, for L2 and L3 stages, serine-proteases predominated. These authors concluded that the different proteases produced by each larval stage could be correlated with specific functions during the penetration of the larva in the host's skin and the larval development.
+
+Studies carried out with Lucilia cuprina have shown that the E/SP contain proteases that seem to be involved in both larval nutrition and the pathogenesis of the lesion caused by them (Bowles et al. 1989, Sandeman et al. 1990, Casu et al. 1996). Young et al. (1996) characterized the E/ SP involved in the initial phase of parasitism by L. cuprina and observed that the number of molecules produced varied dramatically over short intervals, but with the predominance of serine-proteases-type enzymes. Muharsini et al. (2000Muharsini et al. ( , 2001) ) observed that serine-proteases were the main kind of protein produced by Chrysomya bezziana larvae and obtained evidence that some enzymes present in the E/SP of these larvae had the potential to stimulate a protective immune response from the host.
+
+For Hypoderma lineatum, some proteases that have already been characterized are involved in evasion of the host's immune response (Leid et al. 1987, Pruett 1993). On the other hand, since this enzyme induces an immune response in the host, it has been postulated that it can be used as an immunogen (Baron &Colwell 1991, Tellam et al. 1994).
+
+Regarding C. hominivorax, there are no descriptions of the constitution of its E/SP at different larval stages. Most of the studies in the literature deal with parasitism control, albeit always through the use of antiparasitic treatment (Muniz et al. 1995, Moya-Borja et al. 1997,Benitez Usher et al. 1997, Anziani et al. 2000, Lima et al. 2004). Thus, this experiment was designed to start investigations to enable the characterization of the enzymes produced by the three larval stages of C. hominivorax. These studies will open new perspectives in the development of new drug targets and immunogens against this parasite.
+
+### MATERIALS AND METHODS
+Preparation of larvae. Larvae of Cochliomyia hominivorax used for experimentation were obtained from a colony maintained under laboratory conditions as describe by Oliveira et al. (2009). Third-stage (L3) larvae were collected from naturally infested cattle at the experimental herd of Embrapa Livestock Southeast, located in São Carlos, SP (latitude: 22° 0' 55'' S, longitude: 47° 53' 28'' W). The larvae were placed in Petri dishes containing a culture medium composed of fat-free minced bovine meat and blood collected with a sodium citrate anticoagulant, which were both free from drug residues, following the methodology described by Smith (1960) with some adaptations. Briefly, the dishes were placed in plastic trays containing earth that had been sieved and sterilized in an autoclave. These trays were then placed in an incubator at 37°C with humidity of 90% until pupation occurred (Fig. 1). The pupae obtained were separated from the earth using a sieve, then carefully cleaned and placed in containers in cages in a BOD incubator at a controlled temperature of 27°C and relative humidity of 80-90%, until the flies emerged. Mated females were forced to lay eggs by placing them in glass containers covered with gauze and with small amounts of the culture medium. These containers were then placed in an incubator at 37 °C and, after the eggs had been laid, they were gathered and carefully placed in the same culture medium described for the L3 larvae (Fig. 2). After incubation, the L1, L2 and L3 larvae were separated for E/SP preparation.
+
+Obtaining E/SP from Cochliomyia hominivorax. The technique described by Brant et al. (2010) was used to obtain the E/ SP, with some adaptations. Briefly, groups of 50 (L1 and L2) and 30 (L3) larvae were washed three times in 10% hypochlorite and sterile saline solution and then placed in 3 ml of Gibco ® Roswell Park Memorial Institute (RPMI) 1640 medium containing glutamine (1% v/v) and vancomycin (1µg/ml). These cultures were maintained at 37°C for 12 hours and after incubation, the larvae were removed and the medium containing their E/SP (L1, L2 and L3) were collected and centrifuged at 2,000 x g for 20 minutes at 4°C. One part of the supernatant recovered was preserved in its native form while an aliquot was treated with the following proteases inhibitors at a final concentration of 1mM: phenylmethylsulfonyl fluoride (PMSF), tosyl-L-phenylalanyl chloromethyl ketone (TPCK) and tosyl-L-lysine chloromethyl ketone (TLCK). The protein concentrations at each larval stage were estimated by bicinchoninic acid method (BCA; Pierce protein assay reagent kit), using bovine serum albumin as the standard. All aliquots were stored in duly identified microtubes and stored at -80°C.
+
+Polyacrylamide gel electrophoresis. Analysis on the ES/P protein profile was carried out using polyacrylamide gel containing sodium dodecyl sulfate (SDS-PAGE), as described by Laemmli (1970). The E/SP of each larval stage (L1, L2 and L3) treated with protease inhibitors, containing 30µg, 40µg and 50µg of protein, was applied to the 10% polyacrylamide gel, after solubilizing in 1:2(v/v) denaturing sample buffer and heating at 95°C for 3 minutes. Electrophoresis was performed in Hoefer mini VE system (Amersham Pharmacia Biotech Inc.) using a running buffer composed of 25mM of Tris-HCl, 192mM of glycine and0.1% SDS (pH 8.6), at a constant current of 30 mA. Molecular mass markers (Amersham Biosciences Corp.) were used in each assay. The gels were stained with silver nitrate (Wray et al. 1981), and the protein bands were analyzed using the Quality One software (Bio--Rad Laboratories Inc. equipment).
+
+Substrate gel electrophoresis and protease inhibition assays. Protease activities in E/SP of C. hominivorax were examined after electrophoresis in 5-12.5% SDS-PAGE gels containing 0.2% gelatin (Sigma) as a substrate, according to the methodology described by Williams and Coombs (1995), with modifications. Crude ESP were mixed 1:2 (v/v) in sample buffer and applied to the gelatin copolymerized gels without boiling. After the run at 70 V and 4 °C, the gels were renatured through incubation in Triton X-100 (2.5%) at 37 °C, for 30 min at room temperature, under  constant agitation. To observe the proteolytic activity, the gels were incubated in a Tris-HCl buffer (pH 8.15) containing 1mM of CaCl 2 and 1 mM of dithiothreitol (DTT; Sigma), for 15 h at 37°C. To visualize the proteolysis zones, the gels were stained with 0.1% amide black in methanol:acetic acid:water (30:10:60) for 1 hour and destained with the same solvent. Proteolysis was detected as clear zones against a blue background. Molecular weight (Amersham Biosciences Corp.) markers were used in each assay. The following synthetic inhibitors (Sigma®) were tested for their ability to inhibit the proteolytic activity of the E/SP: phenylmethylsulfonyl fluoride (PMSF, 20 mM); tosyl-L-phenylalanyl chloromethyl ketone (TPCK, 1 mM); tosyl-L-lysine chloromethyl ketone (TLCK, 1mM); ethylenediaminetetraacetic acid (EDTA, 10mM); L-3-trans-epoxysuccinyl-L-leucylamido-(4-guanidino)-butane (E-64, 100µM); elastatinal (100µM) and 3,4-dichloroisocoumarin (DCI, 1mM). E/SP samples containing 2µg of protein were incubated individually with each inhibitor for 1 hour at 37°C. After incubation, each treated E/SP was mixed with 1:2 sample buffer (v/v), and not boiled before loading the gel. The gels were submitted to the same procedures described for detecting proteolytic activity.
+
+Colorimetric proteases assay. Proteolytic activity of the E/SP was assayed using the chromogenic protein substrate azocasein, according to the protocol described by Sarath et al. (1989), with modifications. Each E/SP (12µl) were mixed with 20µl of 3% azocasein solution (w/v) in 0.1 M Tris-HCl buffer containing 1 mM of CaCl 2 ; pH 8.5 and incubated at 37°C for 2, 4, 8, 12 and 24 hours. After each interval, the samples were treated with 80µl of 10% trichloroacetic acid (TCA) and centrifuged at 9,000 x g for five minutes at 4°C. The supernatant containing hydrolyzed azo peptides in 100µl of 1M NaOH, and 100µl of this mixture was transferred to 96-well microplate. The absorbance readings for each sample were carried out using a microplate reader at 450 nm (Bio-Rad Laboratories Inc. equipment). Each sample was assayed in triplicate, and enzyme and substrate blanks were included in all assays. To determined the inhibition of azocaseinolytic activity, the E/SP were incubated with the same synthetic protease inhibitors described above. E/SP samples (12µl) were incubated with each inhibitors for 10 minutes at room temperature. The substrate was added, and the samples were incubated at 37°C for 16 hours. The assay was conducted as described above and the effect of each inhibitor was determined by measuring the residual activity (with inhibitor) expressed as a percentage of the control value (without inhibitor).
+
+### RESULTS
+The SDS-PAGE analysis showed differences in the protein profiles of each Cochliomyia hominivorax larval stage (Fig. 3). The E/SP from L1 showed a protein profile that was more complex than those obtained for L2 and L3 stages. The apparent molecular masses observed for each larval stage are presented in Table 1. Larvae from stages L1, L2 and L3 presented several bands in common. Eight protein bands (54,45,43,40,37,28,16,13 kDa) were exclusive to L1 stage, and only one band (19 kDa) to L3 stage. Four protein bands (32, 25, 14 and 12 kDa) were common across the three larval stages.
+
+Substrate gel analysis. Regarding to the proteolytic activity against gelatin, E/SP from all larvae instars promoted degradation of the substrate, despite showing different hydrolysis profiles. L1 (line 1 of Fig. 4) presented pronounced hydrolysis in the region from>220 to 170 kDa and another area with more diffused hydrolysis around 70 kDa. The E/SP of L2 (line 1, Figure 5) larvae also showed a wide area of hydrolysis ranging from>220 to 170 kDa. An evident hydrolysis area could be observed at the 30-35 kDa migration region. The zymogram of L3 E/SP (line 1, Fig. 6) revealed the most pronounced gelatinolytic activity showing a diffuse area ranging from >220 to 80 kDa and well-delimited areas at approximately 70kDa and in the 45 kDa region. Regarding the effect of inhibitors, the proteolytic activity exhibited by the E/SP from stage L1 (Fig. 4) was markedly blocked in the presence of DCI, an irreversible serine protease inhibitor. Partial inhibition could be observed when prior treatments were carried out with PMSF, another irreversible serine protease inhibitor, and TLCK known to inhibit both serine and cysteine proteases. The activities of L2 and L3 E/SP proteases were also inhibited by irreversible serine protease inhibitors, respectively, PMSF and DCI (Fig. 5 and 6). Indeed, substrate degradation by L2 E/SP was affected by EDTA, a metalloprotease inhibitor. Furthermore, treatment of the E/SP from all instar
+
+table 1. Identification of the apparent molecular masses (kDa) of the proteins produced by the three larval stages (L1, L2 and L3) of Cochliomyia hominivorax (*Bands that were repeated in at least two larval stages) Larval stages L1 L2 L3 54 --48* 48* -45 --43 --40 --37 --35* 35* -32* 32* 32* 30* 30* -28 --27* 27* -25* 25* 25* 24* 24* -22* 22* -16 ----19 14* 14* 14* 13 --12* 12* 12* larvae with E-64, an irreversible and specific cysteine protease inhibitor, and the serine proteases inhibitors TLCK and elastatinal, failed to inhibit gelatin degradation.
+
+Azocaseinolytic activity. The proteolytic activity kinetic of the E/SP from each larval stage of C. hominivorax on azocasein is represented in Figure 7. A gradual increase in the proteolytic activity of the assayed E/SP proteases on this substrate was observed, according to the larval stage and the time of incubation. The effect of different inhibitors on the azocaseinolytic activity of E/SP is showed in Figure 8. The L1 E/SP hydrolysis of azocasein was markedly inhibited as follows: DCI (94.6%), EDTA (89.9%), TPCK (73.5%) and TLCK (63.8%). Proteolysis was also affected by PMSF (35.9%), elastatinal (9.4%) and E64 (3.7%), but these substances showed a lower inhibition. Activity of L2 E/SP on azocasein was strongly inhibited by DCI (94.3%), followed by EDTA (36.4%), TLCK (27.5%), PMSF (13.7%), E64 (5.4%), TPCK (3.1%) and elastatinal (2.3%). In contrast to L1 and L2, proteolytic activity of L3 E/SP was weakly or not affected by the inhibitors assayed. The greatest inhibition was observed when the samples were pretreated with DCI (32.1%) and PMSF (21.4%). Very slight inhibition was obtained with EDTA (0.6%) and elastatinal (0.9%) treatment. Incubation with TPCK, TLCK, and E64 had no effect on substrate degradation. Fig.5. Proteolytic activity of the E/SP of L1 Cochliomyia hominivorax larvae (20mg) on gelatin and the effect of specific inhibitors (C = E/SP of control L1; Pf = PMSF; Tp = TPCK; Tl = TLCK; EDTA; E-64; El = elastatinal; DCI. SDS-PAGE -Coomassie blue).
+
+### DISCUSSION
+To our knowledge, this is the first experiment conducted with the purpose to characterize enzymatic activity of the proteins produced by L1, L2 and L3 larval instars of Cochliomyia hominivorax. The biochemical characterization of these molecules can provide insights into the parasite-host interaction mechanisms that are involved in establishment and development of myiasis caused by these flies. Like other larvae that cause myiasis, C. hominivorax larvae feed off the tissues of their host and, to do so, it can be presumed that they need to produce substantial amounts of proteolytic enzymes. Thus, extracts containing the proteins produced by each larval stage were prepared and tested.
+
+The protein profile analysis demonstrated that, according to the larval stage, proteins with different apparent molecular masses were produced. This variation is suggestive of the participation of these proteins in different stages regarding the establishment and development of C. hominivorax larvae in the wounds of their hosts. The first hours after larval hatching are known to be very important for the establishment of parasitism, because it is during this period that the first contact occurs between the larvae and the environment in which they will become established, feed and develop. Thus, it can be assumed that the proteases produced by the larvae of several flies that cause myiasis are involved in processes of digestion of their hosts' tissues, which would facilitate parasite migration and nutrition (Bowles et al. 1990, Sandeman et al. 1990, Casu et al. 1996, Young et al. 1996, Brant et al. 2010).
+
+The protein profiles of E/SP from L1, L2, and L3 instar larvae exhibited similarity, especially between the first two larval stages. The short molt period between the first and second-stage larvae, and the fact that the E/SP were prepared with the larvae at the beginning of the second stage must have contributed towards the finding of few differences in the protein profiles produced by them. However, production of a wide range of enzymes from recently hatched larvae can be interpreted as a way for the larvae to establish themselves in the wounds and simultaneously start their trophic activity, as occurs during the L1 of Lucilia cuprina (Young et al. 1996), a fly also in the same family of C. hominivorax. During L3, production of proteins occurred over a more restricted range of apparent molecular masses. Only one band with an approximate mass of 19 kDa was produced exclusively for this larval stage. Bands with an apparent molecular mass close to 32 kDa, 25 kDa, 14 kDa and 12 kDa appeared in the E/SP of the three larval stages. The analysis on the apparent molecular masses of the E/ SP of C. hominivorax larvae in the present experiment demonstrated that there was a predominance of bands with higher masses in L1 and L2, in relation to L3. These findings are in agreement with the observations made by Young et al. (1996), who also observed a tendency towards a reduction in the molecular masses of proteins produced by L. cuprina with the evolution of the larval stage. Additional characterization of the proteases produced by larvae in gelatin gels indicated that there was a constant production of proteases throughout the larval development process, thus suggesting that these proteins have a crucial function in the development of the larvae and formation of the wound. This has also been observed in other Diptera species that produce myiasis (Lecroisey et al. 1979, Young et al. 1996, Tabouret et al. 2003, Brant et al. 2010).
+
+The analysis of E/SP gelatinolytic activity from L1, L2 and L3 showed that hydrolysis of the gelatin intensified with increasing larval growth and maturity. The Greater enzymatic activity of L3 E/SP was also observed in the assays with azocasein. The increased proteolytic activity can be explained mainly by the accelerated growth of C. hominivorax larvae from L2 onwards. The L1 larvae of this fly right after hatching are of small size and actively move through the living tissues of their host. The larvae need a considerable amount of energy, because by the end of their parasitic phase they can be up to 15 mm in length (Oliveira-Sequeira and Amarante 2001).
+
+Regarding inhibition assays, the analysis revealed that proteolysis was mainly due to serine proteases, since there was a strong inhibition of gelatin and azocasein hydrolysis when the samples were previously treated with DCI. Similar findings were reported by Young et al. (1996), who characterized the E/SP involved in the initial phase of L. cuprina parasitism and observed that the number of molecules produced varied over short time intervals, but with a predominance of serine protease enzymes. DCI produces a potent and irreversible inhibition of serine proteases by modifying one or more active enzyme sites (Bogyo & Wang 2002). The assays with azocasein also showed strong inhibition of L1 E/SP by other serine protease inhibitors, namely TPCK and TLCK. Also, EDTA, a metalloprotease inhibitor, promoted the inhibition of young larvae proteases on both gelatin and azocasein substrate.
+
+The L2 E/SP showed inhibition of proteolytic activity especially when they were treated with EDTA and DCI previously, thus demonstrating that in addition to the production of serine proteases, these larvae also produce metalloproteases. Production of these latter enzymes could also be observed in the inhibition tests with azocasein. Metalloproteases have been observed in the microvillus of the middle intestine in Diptera (Terra et al. 1996). The basic function of these enzymes, according to some authors, may be connected to the penetration of the larvae in host tissues, since they have been found in abundance in the infesting stages of Strongyloides stercoralis (Brindley et al. 1995, Gallego et al. 2005), Ancylostoma spp. (Hawdon et al. 1995), and the E/SP of L1 Dermatobia hominis (Brant et al. 2010).
+
+Regarding the L3 E/SP, protease activity on the substrates was markedly blocked by DCI, confirming the predominance of serine proteases in those products. These findings are in agreement with previous studies conducted with other species of myiasis-causing fly larvae. Muharsini et al. (2000Muharsini et al. ( , 2001) ) observed that serine proteases are the main type of protein produced by Chrysomya bezziana larvae. Serine proteases have also been detected in L2 and L3 of other parasitic Diptera flies, such as Hypoderma lineatum, D. hominis and Oestrus ovis, and these proteins are believed to play an important role in larval penetration within the host tissues (Lecroisey et al. 1979, Tabouret et al. 2003, Brant et al. 2010), as well as in modulation of the process of evasion of the host immune system (Boulard 1989, Pruett 1993, Brant et al. 2010). The predominance of serine proteases observed in L2 and especially L3 C. hominivorax, as well as L2 and L3 D. hominis (Brant et al. 2010), can be interpreted as an increase in the trophic activity of these growing larvae, since the viability of adult flies depends on the ability of larvae to assimilate nutrients from their host.
+
+Studies on the excretory/secretory proteases from fly species causing economically important myiasis in livestock are promising, especially regarding research and development of new efforts directed towards infestation control. The present results reinforce the need for further investigations to comprehend better the role of E/SP in the biology of C. hominivorax, which will aid in developing new drugs directed towards mitigating its impact on animal health.
+
+
+Acknowledgements.-The authors are grateful tothe Brazilian Agricultural Research Corporation (Embrapa) and Universidade Estadual de São Paulo (UNESP) for funding the research project.
+
+conflict of interest statement.-The authors have no competing interests.
+
+Compliance with ethical standards.-The study protocols were approved by the animal ethics committee of Embrapa Southeast livestock (PRT 01/015).
+
+
+## References
+**[1]** Persistent activity of doramectin and ivermectin in the prevention of cutaneous myiasis in cattle experimentally infested with Cochliomyia hominivorax *O Anziani et al.* *Vet. Parasitol* (2000) 87.
+**[2]** Enhanced resistance to cattle grob infestation (Hipoderma lineatum de Vill.) in calves immunized with purified hypodermin A, B and C plus monophosphoryl lipid A (MPL). Vet. Parasitol *R Baron and D Colwell* (1991) 38.
+**[3]** Prophylactic use of ivermectin against cattle myiasis caused by Cochliomyia hominivorax (Coquerel, 1858) *Benitez Usher et al.* *Vet. Parasitol* (1997) 72.
+**[4]** Proteasome inhibitors: complex tools for a complex enzyme *M Bogyo and E Wang* *Curr. Topics Microbiol. Immunol* (2002) 268.
+**[5]** Degradation of bovine C3 by serine proteases from parasites Hypoderma lineatum (Diptera: Oestridae) *C Boulard* *Vet. Immunol. Immunopathol* (1989) 20.
+**[6]** Sheep plasma protease inhibitors influencing protease activity and growth of Lucilia cuprina larvae in vitro *V Bowles et al.* *Int. J. Parasitol* (1990) 20.
+**[7]** Characterization of the excretory/secretory products of Dermatobia hominis larvae, the human bot fly *M Brant et al.* *Vet. Parasitol* (2010) 168.
+**[8]** Ss40: The zinc endopeptidase secreted by infective larvae of Strongyloides stercoralis *P Brindley et al.* *Exp. Parasitol* (1995) 80.
+**[9]** The major excretory/secretory protease from Lucilia cuprina larvae is also a gut digestive protease *R Casu et al.* *Int. J. Parasitol* (1996) 26.
+**[10]** Parasite proteinases and amino acid metabolism: possibilities for chemotherapeutic exploitation *G Coombs and J Mottram* *Parasitology* (1997) 114.
+**[11]** Identification of an astacin-like metallo-proteinase transcript from the infective larvae of Strongyloides stercoralis *R Davis et al.* *Mexico. J. Economic Entomol* (1968) 61.
+**[12]** Screworm eradication program in Central America *T Galvin and J Wyss* *Annals New York Acad. Sci* (1996) 791.
+**[13]** Reassessment of the potential economic impact of cattle parasites in Brazil *L Grisi et al.* *Brazilian J. Vet. Parasitol* (2014) 23.
+**[14]** Myiasis in Man and Animals in the Neotropical Region *J Guimarães and N Papavero* *Bibliography Database. Plêiade/Fapesp* (1999) pp. 308.
+**[15]** Ancylostoma caninum: metallo-protease release coincides with activation of infective larvae in vitro *J Hawdon et al.* *Exp. Parasitol* (1995) 80.
+**[16]** Cleavage of structural proteins during the assembly of the head of the bacteriophage T4 *U Laemmli* *Nature* (1970) 277.
+**[17]** Chemical and enzymatic characterization of the collagenase from the insect Hypoderma lineatum *A Lecroisey et al.* *Eur. J. Biochem* (1979) 101.
+**[18]** Parasite defense mechanism for evasion of host attack: a review *R Leid et al.* *Vet. Parasitol* (1987) 25.
+**[19]** Inflammatory response in Dermatobia hominis infested rabbits *E Lello et al.* *Braz. J. Vet. Parasitol* (1999) 8.
+**[20]** Evaluation of the prophylactic effect and curative efficacy of fipronil pour on (Topline®) on post-castration scrotal myiasis caused by Cochliomyia hominivorax in cattle *W Lima et al.* *Vet. Parasitol* (2004) 125.
+**[21]** Protective efficacy of doramectin and ivermectin against Cochliomyia hominivorax *Moya Borja et al.* *Vet. Parasitol* (1997) 72.
+**[22]** Biochemical and molecular characterization of serine proteases from larvae of Chryzomya bezziana, the old world screwworm fly *S Muharsini et al.* *Insect Biochem. Mol. Biol* (2001) 11.
+**[23]** Identification and characterization of the excreted/ secreted serine protease of larvae of the Old World screwworm Fly, Chrysomya bezziana *S Muharsini et al.* *Int. J. Parasitol* (2000) 30.
+**[24]** Efficacy of injectable doramectin in the therapy and control of Dermatobia hominis infestations in Latin America *R Muniz et al.* *Vet. Parasitol* (1995) 60.
+**[25]** Manutenção de culturas in vitro da mosca da bicheira, Cochliomyia hominivorax. Comum *M Oliveira et al.* (2009) 339.
+**[26]** Parasitologia Animal: animais de produção *T Oliveira-Sequeira and A Amarante* *EPUB* (2001) pp. 158.
+**[27]** Histological and immunological reaction of cattle skin to first-instar larvae of Dermatobia hominis *T Oliveira-Sequeira et al.* *Med. Vet. Entomol* (1996) 10.
+**[28]** Proteolytic cleavage of bovine IgG by hypoermin A, a serine protease of Hypoderma lineatum (Diptera: Oestridae) *J Pruett* *J. Parasitol* (1993) 79.
+**[29]** Enabling technologies to improve area-wide integrated pest management programmes for the control of screwworms *A Robinson et al.* *Med. Vet. Entomol* (2009) 23.
+**[30]** Tryptic and chymotryptic proteases released by larvae of the blowfly, Lucilia cuprina *R Sandeman et al.* *Int. J. Parasitol* (1990) 20.
+**[31]** Proteolytic Enzymes: a practical approach *G Sarath et al.* (1989).
+**[32]** *Rodrigo Giglioti*.
+**[33]** Mass production of screw-worms (Callitroga hominivorax) for the eradication program in the southeastern states *C Smith* *J. Economic Entomol* (1960) 53.
+**[34]** Serine protease activity in excretory-secretory products of Oestrus ovis (Diptera: Oestridae) larvae *G Tabouret et al.* *Vet. Parasitol* (2003) 114.
+**[35]** Vaccination of sheep with purified serine proteases from the secretory and excretory material of Lucilia cuprina larvae *R Tellam et al.* *Int. J. Parasitol* (1994) 24.
+**[36]** Insect digestive enzymes: properties, compartimentalization and function *Terra Ferreira and C* *Comp. Biochem. Physiol* (1994) 109.
+**[37]** Proteolytic enzymes secreted by larval stage of the parasitic nematode Trichinella spiralis *V Todorova* *Folia Parasitol* (2000) 47.
+**[38]** Integrated control of tropical animal parasitosis *G Uilenberg* *Trop. Anim. Health Prod* (1996) 28.
+**[39]** Multiple protease activities in Giardia intestinalis trophozoites *A Williams and G Coombs* *Int. J. Parasitol* (1995) 25.
+**[40]** Silver staining of proteins in polyacrilamide gels *W Wray et al.* *Analyt. Biochem* (1981) 118.
+**[41]** Characterization of ES products involved in wound initiation by Lucilia cuprina larvae *A Young et al.* *Int. J. Parasitol* (1996) 26.

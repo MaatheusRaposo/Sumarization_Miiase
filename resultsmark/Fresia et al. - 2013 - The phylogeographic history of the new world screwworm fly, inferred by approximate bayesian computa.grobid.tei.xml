@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The Phylogeographic History of the New World Screwworm Fly, Inferred by Approximate Bayesian Computation Analysis</title>
+				<funder ref="#_f6RRhEk">
+					<orgName type="full">FAO/IAEA</orgName>
+				</funder>
+				<funder ref="#_vc48rV6">
+					<orgName type="full">Fundação de Amparo à Pesquisa do Estado de São Paulo-FAPESP</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior-CAPES</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Public Library of Science (PLoS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2013-10-02">October 2, 2013</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Pablo</forename><surname>Fresia</surname></persName>
+							<email>pfresia@gmail.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Departamento de Entomologia e Acarologia , Escola Superior de Agricultura &quot;Luiz de Queiroz&quot; , Universidade de São Paulo , São Paulo , Brasil ,</note>
+								<orgName type="department">Departamento de Entomologia e Acarologia</orgName>
+								<orgName type="institution" key="instit1">Escola Superior de Agricultura &quot;Luiz de Queiroz&quot;</orgName>
+								<orgName type="institution" key="instit2">Universidade de São Paulo</orgName>
+								<address>
+									<settlement>São Paulo Brasil</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Maria L</forename><surname>Azeredo-Espin</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Centro de Biologia Molecular e Engenharia Genética and Instituto de Biologia , Universidade Estadual de Campinas , São Paulo , Brasil ,</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética and Instituto de Biologia</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas</orgName>
+								<address>
+									<settlement>São Paulo Brasil</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mariana</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Departamento de Zoologia , Instituto de Biociências , Universidade Estadual Paulista , São Paulo , Brasil</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biociências</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual Paulista</orgName>
+								<address>
+									<settlement>São Paulo</settlement>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">George Washington University , United States of America</note>
+								<orgName type="institution">George Washington University</orgName>
+								<address>
+									<country key="US">United States of America</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The Phylogeographic History of the New World Screwworm Fly, Inferred by Approximate Bayesian Computation Analysis</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">PLoS ONE</title>
+						<title level="j" type="abbrev">PLoS ONE</title>
+						<idno type="eISSN">1932-6203</idno>
+						<imprint>
+							<publisher>Public Library of Science (PLoS)</publisher>
+							<biblScope unit="volume">8</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<biblScope unit="page">e76168</biblScope>
+							<date type="published" when="2013-10-02">October 2, 2013</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">AA81BCE63663F9D68C55E508F5E279AA</idno>
+					<idno type="DOI">10.1371/journal.pone.0076168</idno>
+					<note type="submission">Received March 14, 2013; Accepted August 21, 2013;</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Insect pest phylogeography might be shaped both by biogeographic events and by human influence. Here, we conducted an approximate Bayesian computation (ABC) analysis to investigate the phylogeography of the New World screwworm fly, Cochliomyia hominivorax, with the aim of understanding its population history and its order and time of divergence. Our ABC analysis supports that populations spread from North to South in the Americas, in at least two different moments. The first split occurred between the North/Central American and South American populations in the end of the Last Glacial Maximum (15,300-19,000 YBP). The second split occurred between the North and South Amazonian populations in the transition between the Pleistocene and the Holocene eras (9,100-11,000 YBP). The species also experienced population expansion. Phylogenetic analysis likewise suggests this north to south colonization and Maxent models suggest an increase in the number of suitable areas in South America from the past to present. We found that the phylogeographic patterns observed in C. hominivorax cannot be explained only by climatic oscillations and can be connected to host population histories. Interestingly we found these patterns are very coincident with general patterns of ancient human movements in the Americas, suggesting that humans might have played a crucial role in shaping the distribution and population structure of this insect pest. This work presents the first hypothesis test regarding the processes that shaped the current phylogeographic structure of C. hominivorax and represents an alternate perspective on investigating the problem of insect pests.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Phylogeography is a growing field that was originally conceived to explore the processes underlying geographic distribution of genetic diversity within and among species <ref type="bibr" target="#b0">[1,</ref><ref type="bibr">2]</ref>. Biogeographic events such as climate oscillations and distribution of suitable habitats over time have been highlighted as key factors underlying the geographical variation within species <ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref>. In the Neotropics, many hypotheses have been proposed to explain how these biogeographic events might have shaped the current population structure of various taxa <ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref>. In particular, Haffer <ref type="bibr" target="#b12">[13]</ref> and Vanzolini and Williams <ref type="bibr" target="#b13">[14]</ref> proposed that the retraction of the Amazon rainforest and the accompanying fauna in different refuges during the Pleistocene glacial cycles might have promoted geographical speciation events.</p><p>Understanding the impacts of climate-induced distributional shifts on species divergence, such as those accompanying the Pleistocene glacial cycles, requires tools that explicitly incorporate models of past geographic distributions into analyses of genetic differentiation <ref type="bibr" target="#b14">[15]</ref>. These tools are emerging from the recent integration of statistical genetics and geospatial methods with phylogeography <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>. These new techniques help place demographic events in a historical and spatial context and highlight some of the potential mechanisms underlying geographic distribution and diversification <ref type="bibr" target="#b16">[17]</ref>. The use of this integrative approach may be especially helpful in clarifying the demographic history of species with complex histories of population expansion, gene flow and vicariance.</p><p>The distribution and demography of insect pest species are influenced not only by biogeographic events but also by human activities because insects attack livestock and/or crops. Increases in human and domestic animal populations and crops, as well as the worldwide movements of humans and their goods, have greatly accelerated the breakdown of barriers to species movements and insect population expansion <ref type="bibr" target="#b17">[18]</ref>. Key factors in pest management strategies include a good knowledge of species' phylogeographic structure and the ability to distinguish between the historical biogeographic events and contemporary human influences that shape the current geographical distribution of insect pests <ref type="bibr" target="#b18">[19]</ref>. These factors provide insight into the current patterns of gene flow and can help determine the appropriate geographic scale for effective treatments <ref type="bibr" target="#b19">[20]</ref><ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref>. Although it is challenging to separate these contemporary and historical effects in insect species demography, an integrative phylogeographic analysis, including explicit hypothesis tests, may provide a means to distinguish spatial and temporal factors.</p><p>Cochliomyia hominivorax Coquerel, 1858 (Diptera: Calliphoridae), the New World screwworm, is an endemic fly of the Americas <ref type="bibr" target="#b22">[23]</ref>. The larval stages of this insect feed on the living tissue of warm-blooded hosts, including humans. Larval infestation causes serious tissues injuries and can lead to host death if not treated, and for that reason, C. hominivorax is considered an important livestock pest that causes substantial profit losses to livestock breeders <ref type="bibr" target="#b23">[24]</ref>. The current distribution of C. hominivorax includes South America and some Caribbean islands; it was eradicated from North and continental Central America between 1957 and 2000 <ref type="bibr" target="#b24">[25]</ref>.</p><p>The association of this species with vertebrate hosts and its status as an insect pest suggest that the genetic and geographic distribution of this species is influenced by human activities. The genetic structure of C. hominivorax populations has already been analyzed on different geographical scales <ref type="bibr" target="#b25">[26]</ref><ref type="bibr" target="#b26">[27]</ref><ref type="bibr" target="#b27">[28]</ref><ref type="bibr" target="#b29">[29]</ref><ref type="bibr" target="#b30">[30]</ref><ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref>. Two phylogeographic studies of C. hominivorax across its current distribution <ref type="bibr" target="#b31">[31,</ref><ref type="bibr" target="#b32">32]</ref> revealed the continental-scale geographic structure of the populations and identified four regional groups (Cuba, Dominican Republic, and the North and South Amazon regions). At the intra-group level, the authors did not find that the population structure was associated with geography. They suggested that the human and livestock mobility in the continent during the last ~500 years might have obscured the historical phylogeographic pattern of C. hominivorax on this smaller scale but not on the continental scale <ref type="bibr" target="#b32">[32]</ref>.</p><p>Here, we focus on the mode and time of divergence of the regional groups of C. hominivorax on the continental scale. We used mitochondrial DNA sequences to generate phylogenetic reconstructions and habitat suitability models to construct alternative hypotheses of population divergence. An approximate Bayesian computation (ABC) approach was used to test these competing demographic history scenarios for C. hominivorax to identify contemporary and historical events that shaped the current population structure of this insect pest.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Samples and sequence data</head><p>We analyzed genetic data from 402 C. hominivorax individuals from 60 locations in South, Central and North America (Table <ref type="table" target="#tab_0">S1</ref>). Of these, 361 individuals were obtained from our previous work <ref type="bibr" target="#b32">[32]</ref>, 26 were obtained from 15 new locations of South America, and the remaining 15 were obtained from five laboratory strains from North and Central, American locations sampled before the eradication program <ref type="bibr" target="#b24">[25]</ref> and maintained by the APHIS-USDA Biofactory, Fargo, North Dakota, USA (Table <ref type="table" target="#tab_0">S1</ref>). These laboratory samples represent the native populations from North America and continental Central America. In addition to these samples, we sequenced two individuals of Cochliomyia macellaria Fabricius 1775, one of the other three species of the genus, to be used as out-group in the phylogenetic analyses.</p><p>We analyzed 510 bp of the mitochondrial DNA (mtDNA) control region (CR), 731 bp of the mtDNA gene Cytochrome c oxidase subunit I (COI), and 511 bp of the mtDNA gene Cytochrome c oxidase subunit II (COII). The sampling details and laboratory protocols are described in Fresia et al. <ref type="bibr" target="#b32">[32]</ref>. The 41 new samples were allocated within the regional groups previously described in Fresia et al. <ref type="bibr" target="#b32">[32]</ref>. The genetic variability within groups and pairwise Φ ST among groups were estimated using Arlequin software v3.11 <ref type="bibr" target="#b33">[33]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phylogenetic analysis and demographic history</head><p>Nucleotide sequence alignment was performed with MEGA software v5.0 <ref type="bibr" target="#b34">[34]</ref> using the ClustalW algorithm and the data from the three mtDNA fragments (CR, COI and COII) were combined in a 1752 bp fragment. The analyses were performed using this combined dataset. Unambiguous haplotypes selected with Fabox <ref type="bibr" target="#b35">[35]</ref> were used for the subsequent phylogenetic analysis, and the C. macellaria sequences were used to root the in-group taxa.</p><p>The Akaike information criterion implemented in jModeltest software v0.1.1 <ref type="bibr" target="#b36">[36]</ref> was used to select the best fitting model for each mtDNA fragment. The following models were selected: HKY+Γ for CR, HKY+I for COI and HKY+I+Γ for COII. A Bayesian phylogenetic inference was conducted with BEAST software v1.6.2 <ref type="bibr" target="#b37">[37]</ref> using partitioned models to incorporate evolutionary information for each gene fragment. We unlinked the nucleotide substitution models for each gene partition and codon position (for COI and COII) and used an uncorrelated lognormal relaxed clock. We used the coalescent constant size model starting with a randomly generated tree. The chains ran for 80 million generations, and the tree parameters were sampled every 8000 generations; 10% of the initial values were discarded as burn-in. The convergence of the runs was confirmed using Tracer software <ref type="bibr" target="#b38">[38]</ref>, and the tree was summarized with TreeAnotator v1.6.2 using the maximum clade credibility option as the target tree type and mean heights for the node heights.</p><p>Bayesian Skyline plot (BSP) analyses, implemented in BEAST software v1.6.2 <ref type="bibr" target="#b37">[37]</ref>, were used to depict past demographic changes in C. hominivorax populations. Analyses were conducted for each phylogenetic main clade (see tree topology results) and also for regional groups within clades. Following Fresia et al. <ref type="bibr" target="#b32">[32]</ref>, we used just COI sequences and applied a strict molecular clock with substitution rate of 1% per million years per lineage. All BSP analyses consisted of either 50 or 80 million MCMC iterations with the first 25% discarded as burn-in, and parameters sampled every five or eight thousand steps.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat suitability modeling</head><p>Various methods can be used for species habitat suitability modeling from presence-only data and digital environmental maps <ref type="bibr" target="#b39">[39,</ref><ref type="bibr" target="#b40">40]</ref>. This approach uses geographic information system methods (GIS) to extract the environmental data associated with geo-referenced sampling locations, which are projected into the geographic space to generate a model of species habitat suitability. The resulting model can then be used to generate a map of the predicted species potential distribution based on the climate variables for the past, present and/or future <ref type="bibr" target="#b41">[41]</ref>.</p><p>We used Maxent software v3.3.3k <ref type="bibr" target="#b42">[42]</ref> to compute habitat suitability models (HSMs) for C. hominivorax. The Maxent algorithm estimates the habitat suitability of a species from environmental data on occurrence locations and finds the maximum entropy distribution to predict where the species may occur based on the environmental similarities with the sampled locations <ref type="bibr" target="#b42">[42]</ref>. We obtained 121 species records from our own fieldwork and from the literature (Table <ref type="table" target="#tab_1">S2</ref>), including data recorded prior to the eradication program (see 25) from North and Central America. The climate variables in the current data, with a 2.5 arcmin resolution (~5 Km 2 ), were downloaded from the WorldClim v1.4 database <ref type="bibr" target="#b43">[43]</ref> (<ref type="url" target="http://www.worldclim.org">http://www.worldclim.org</ref>) along with simulations describing the conditions during the Last Glacial Maximum (LGM ~21,000 years BP; using MIROC and CCSM models) and the last interglacial era (LIG; ~120,000-140,000 years BP). A mask shape file that includes the Americas without Canada and Alaska was used to clip the climate data with the GDAL/OGR Library (<ref type="url" target="http://gdal.org">http://gdal.org</ref>). Correlations between the 19 BIOCLIM variables <ref type="bibr" target="#b44">[44]</ref> were estimated using ENMTools software v1.3 <ref type="bibr" target="#b45">[45,</ref><ref type="bibr" target="#b46">46]</ref>. The noncorrelated variables (R 2 &lt;0.7) for the computed models included the following: mean monthly temperature range (BIO2), maximum temperature of the warmest month (BIO5), minimum temperature of the coldest month (BIO6), mean temperature of the wettest quarter (BIO8), precipitation seasonality (BIO15), precipitation of the warmest quarter (BIO18) and precipitation of the coldest quarter (BIO19).</p><p>Ensemble model predictions may produce more reliable and robust HSM results <ref type="bibr" target="#b47">[47]</ref>; therefore, we used the crossvalidation option with 10 replicates. These models were evaluated via AUC statistics (area under the receiver operating characteristic curve) <ref type="bibr" target="#b48">[48]</ref>. For the threshold between the suitable and unsuitable conditions, we applied a cumulative probability of 10, which rejects 10% of the presence observations (omission of 10%). Although arbitrary, this level was selected to provide a more conservative interpretation of habitat suitability because it still has a low omission rate <ref type="bibr" target="#b49">[49]</ref>. The average between CCSM and MIROC models was used to evaluate the suitability regions on the LGM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Approximate Bayesian computation analysis</head><p>Statistical phylogeography is a hypothesis-testing framework that allows for formal tests of certainty as well as tests between competing models <ref type="bibr" target="#b50">[50]</ref><ref type="bibr" target="#b51">[51]</ref><ref type="bibr" target="#b52">[52]</ref>. Within this framework, ABC coupled with coalescent modeling <ref type="bibr" target="#b53">[53]</ref> is becoming the standard method to address population genetics and phylogeographical questions <ref type="bibr" target="#b54">[54]</ref><ref type="bibr" target="#b55">[55]</ref><ref type="bibr" target="#b56">[56]</ref>.</p><p>We used DIYABC software v1.0.4.39 <ref type="bibr" target="#b57">[57]</ref> to compare competing hypotheses regarding demography and population divergence in C. hominivorax on the continental scale. The hypotheses were constructed primarily to test the order (from north to south or vice versa) and time of divergence of the population groups, as well as the possibility of population admixture after divergence. Our hypotheses were based on genetic diversity analysis, phylogenetic inference and habitat suitability models (see results). Because the phylogenetic analysis corroborated previous results <ref type="bibr" target="#b32">[32]</ref> pertaining to colonization on the Caribbean islands, we focused on testing the relationships among mainland samples.</p><p>For the ABC simulations, we used the combined sequence dataset (three mtDNA fragments) and considered each regional group to be a "population". The populations were as follows: (1) SAG (all samples from the South Amazon region, N = 249), ( <ref type="formula">2</ref>) NAG (samples from the North Amazon region, excluding samples from Jamaica and Trinidad and Tobago, N = 53), and (3) NC (excluding samples from Cuba, N = 15). We also excluded three sequences from the NAG group that are considered to be human-mediated migrants (see 32) because the current version of DIYABC does not accommodate populations that exchange migrants <ref type="bibr" target="#b58">[58]</ref>.</p><p>The hypothesis tests were carried out hierarchically. First, we compared six competing scenarios of population divergence without admixture (Figure <ref type="figure" target="#fig_0">1A</ref>; Sc1, Sc2, Sc3, Sc4, Sc5 and Sc6). Then, we compared two competing scenarios of population admixture (Figure <ref type="figure" target="#fig_0">1B</ref>; Sc7 and Sc8), and finally, we compared the best scenarios for each of the previous analyses. The population divergence scenarios differed in the order of population divergence and in the number and time of demographic expansion events. The population admixture scenarios considered admixture between the NAG and SAG groups at different times (Sc7, Sc8), i.e. before or after NC divergence.</p><p>Table <ref type="table" target="#tab_0">1</ref> shows the prior definitions and distributions for all of the hypothetical scenarios. Before the final analyses, we run several trials to adjust the prior distributions in order to accommodate a wide range of effective population sizes and divergence times, even allowing equal divergence time for the tree regional groups. In all of the scenarios, the time of the first population split was set as t 3 and the subsequent split was set as t 2 . We allowed the current populations to expand in one or more moments (t exp, t expNAG, t expSAG, t expNC ), and we set the conditions as t exp ≤ t 2 &lt; t 3 . In the admixture scenarios, the admixture event time was set as t adm1 for Sc7 and ta dm2 for Sc8, where t adm1 &lt; t 2 and t adm2 &gt; t 2 . Split times were translated into years by assuming a generation time (T) of 23.95 days, calculated from the formula T = α + [s/(1 -s)] <ref type="bibr" target="#b59">[59]</ref>, where α is the age of maturity and s is the survival rate of adults, which was estimated as 0.798 for C. hominivorax <ref type="bibr" target="#b60">[60]</ref>. The population effective sizes were set as N anc &lt; N NC ≤ N NAG ≤ N SAG , and N1 to N8 &gt; N anc . The parameters were simulated using a HKY model with 92% of the invariant sites and a gamma shape of 2.</p><p>The genetic variation within and among the three population samples was summarized based on the number of haplotypes, number of segregating sites, mean number of pairwise differences and all pairwise F ST ' s, totaling 12 summary statistics. We simulated one million data sets for each of the eight scenarios, and four million data sets for the comparison between the two best scenarios (~ two million each).</p><p>Following Cornuet et al. <ref type="bibr" target="#b58">[58]</ref>, we performed a logistic regression to estimate the (relative) posterior probability of each scenario, taking a number of simulated data sets closest to our real data set between 0.1% and 1%. The 95% credibility intervals for the posterior probabilities were computed through the limiting distribution of the maximum likelihood estimators. Once the most likely scenarios were assessed, we used a local linear regression to estimate the posterior distributions of parameters under this scenario. We chose the 1% of simulated data sets closest to our real data set for the logistic regression after applying a logit transformation to the parameter values. In order to evaluate the goodness-of-fit of the estimation procedure, we performed a model checking computation <ref type="bibr" target="#b57">[57]</ref> by generating 1,000 pseudo-observed data sets with parameters values drawn from the posterior distribution given the most likely scenario. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Genetic diversity</head><p>The combined mtDNA dataset (1752 bp) including the new and published sequences of C. hominivorax <ref type="bibr" target="#b32">[32]</ref> has 230 haplotypes for the 402 individuals analyzed (Table <ref type="table" target="#tab_0">S1</ref> shows sample locations and haplotype distribution for each population; Table <ref type="table" target="#tab_2">S3</ref> shows the haplotype definition and GenBank accession numbers). Of the total number of haplotypes, 16 are new and were identified in the 41 individuals sequenced in the present work. These individuals were compared to all of the other samples and assigned to the four regional groups previously described in Fresia et al. <ref type="bibr" target="#b32">[32]</ref>, i.e., the Cuban group (CG), Dominican Republic group (DRG), northern Amazon group (NAG) and southern Amazon group (SAG). Although we did not find any shared haplotypes between the groups, we did find one (out of 230) shared between Cuba and Venezuela.</p><p>In the 15 North and Central American individuals, we identified six new haplotypes, which are closely related but not identical to the samples collected in Cuba and are genetically distant from the samples of South America and the other Caribbean islands (Figure <ref type="figure">2</ref>). The group that includes these samples is referred to here as NC/CG and is equivalent to CG in Fresia et al. <ref type="bibr" target="#b32">[32]</ref>.</p><p>Table <ref type="table" target="#tab_1">2</ref> shows the genetic variability of each regional group, and Table <ref type="table" target="#tab_2">3</ref> shows the pairwise Φ ST among groups. The SAG, NAG and NC/CG showed very similar haplotype and nucleotide diversities, and the DRG showed the smallest values for both indices. The pairwise Φ ST estimates among groups support the previously observed genetic structure of C. hominivorax populations <ref type="bibr" target="#b32">[32]</ref>. The high haplotype diversity (Ĥ) values and low π values for the entire dataset and regional subsets support a model of population and range expansion for C. hominivorax (see 61), as previously described in Fresia et al. <ref type="bibr" target="#b32">[32]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tree topology</head><p>The Bayesian phylogenetic reconstruction returned three main clades with a high posterior probability for the mtDNA markers (Figure <ref type="figure">2</ref>). Clade I is composed of only the NC/CG haplotypes, clade II includes the NAG, SAG and DRG haplotypes, and clade III is mainly composed by the SAG haplotypes and a few individuals from the NAG (Figure <ref type="figure">2</ref>). The NC/CG is the sister group of clades II and III. The DRG samples compose a clade with a high posterior probability that is nested within clade II. Four individuals from the NAG, three individuals from Cuba and one from the DRG did not cluster within their regional groups (Figure <ref type="figure">2</ref>), and these individuals were considered aliens, i.e., resulting from dispersal mediated by humans, as discussed in our previous work <ref type="bibr" target="#b32">[32]</ref>.</p><p>The tree topology indicates island colonization from mainland populations. The phylogenetic relationship recovered for the Dominican Republic and Cuban samples and the high Φ ST between the DRG and NC/CG indicate that the populations from these two islands were derived from two different founder events. Cuba was colonized from North/Central America populations, and Dominican Republic was colonized from South American populations. Haplotypes from Jamaica and Trinidad and Tobago are equal or closely related to the haplotypes found in the North Amazon region, and these C. hominivorax populations were probably founded by the South American populations.</p><p>The SAG and NAG samples are distributed into two clades (Figure <ref type="figure">2</ref>, Clade II and Clade III), but they do not form reciprocal monophyletic groups that are correlated with geographic distribution. Nevertheless, the samples from each regional group tend to cluster together into each main clade. Different hypotheses can explain the pattern observed for NAG and SAG; for example, (a) the SAG populations were derived from different colonization events from NAG or vice versa, (b) a population admixture event may have occurred between these groups, or (c) populations may have diverged recently, but because a sufficient period of time has elapsed, these new populations no longer share haplotypes. These hypotheses were tested in the ABC analyses (see below).</p><p>The Bayesian Skyline Plots revealed a complex demographic history for C. hominivorax populations (Figure <ref type="figure">2</ref>; BSP graphs). Clades II and III present a population expiation that begun before the LGM, whereas clade II started expansion before clade III. However, the stronger signal of population expansion comes from the SAG populations, while NAG showed a more stable population size through time.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Habitat suitability modeling</head><p>The habitat suitability models for C. hominivorax generated by Maxent are shown in Figure <ref type="figure" target="#fig_2">3</ref> (Figure <ref type="figure" target="#fig_2">3A</ref>: LIG; 3B: LGM; and 3C: present). The AUC for the present model was 0.816 (SD = 0.05), 0.823 (SD = 0.060) for the MIROC-LGM, 0.823 (SD = 0.031) for the CCSM-LGM, and 0.822 (SD = 0.067) for the LIG, indicating that the outputs of our models are of high quality <ref type="bibr" target="#b40">[40,</ref><ref type="bibr" target="#b48">48,</ref><ref type="bibr" target="#b62">62]</ref>. The models shows suitability areas at all times across the American continents, and an increase of the suitability areas in South America from the past to present. Models also show large suitable areas for C. hominivorax on both sides of the Amazon, in Central America and the Caribbean islands. All of the models also indicate that the Andes, the Amazon and the southern part of the continent were not suitable areas. The average model of LGM suggests possible connections between the North and South Amazon regions through the Andes, crossing the mountains in the south of Colombia and Peru.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Approximate Bayesian computation</head><p>Evolutionary hypotheses to test population divergence without admixture revealed high posterior probabilities for the first event of population divergence occurring between North/ Central America (NC) and South America and a second split between populations distributed in the North and South Amazon regions (the NAG and SAG, respectively) (Figure <ref type="figure" target="#fig_0">1A</ref>; Sc1, Sc2, Sc3; Table <ref type="table" target="#tab_3">4</ref>). Among these, the Sc1 scenario describes a single expansion event that has the highest posterior probability. The tests that consider admixture revealed a high posterior probability for the Sc7 scenario, with an admixture event between the NAG and SAG after the split of the NC populations (Figure <ref type="figure" target="#fig_0">1B</ref>; Table <ref type="table" target="#tab_3">4</ref>). Figure <ref type="figure">2</ref>. Sampled locations, Bayesian tree of haplotypes and Bayesian Skyline Plots. NAG: North Amazon regional group (black); SAG: South Amazon regional group (white); DRG: Dominican Republic regional group (black star); NC/CG: North American, Central American and Cuban Group (gray). Color bars besides tree shows haplotypes of each regional group. The Bayesian Skyline Plots (BSP) x-axis represents time in thousand years and y-axis the relative female population size. The dark solid line is the mean estimate, and the grey lines show the 95% highest posterior density limits. Gray bars in BSP graphs corresponds to the Last Glacial Maximum (~19-26,000 yr ago). Dotted lines show time that expansion began in each plot.   In the comparison between scenarios Sc1 and Sc7, Sc1 presented the highest posterior probability (P = 0.8251, 95% CI [0.8019, 0.8483], Table <ref type="table" target="#tab_3">4</ref> and Figure <ref type="figure" target="#fig_0">1A</ref>, <ref type="figure" target="#fig_0">1B</ref>). For this scenario, none of the observed summary statistics deviate significantly from the simulated distributions (P &gt; 0.05) according to model checking computation analysis.</p><p>The parameter estimates for the Sc1 scenario are given in Table <ref type="table" target="#tab_4">5</ref> (graphical output are in Figure <ref type="figure" target="#fig_0">S1</ref>). A population divergence between North and Central America and South America occurred approximately 15,300-19,000 YBP, just after  the LGM. The divergence between the South American regional groups (NAG and SAG) occurred approximately 9,100-11,000 YBP in the transition between the Pleistocene and Holocene, with a nearly coincident expansion of populations <ref type="bibr" target="#b6">(7,</ref><ref type="bibr">200 YBP)</ref>. The current population effective sizes for the three regional groups are much higher than the ancient population sizes, where N SAG ~100 times, N NAG ~20 times, and N NC ~4 times higher than N anc .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Using the ABC analysis, we found that C. hominivorax populations diverged from north to south in the Americas. According to the best-supported scenario (i.e. Sc1), a first population split occurred between North/Central America and South America after the Last Glacial Maximum. The second population split occurred in the transition between the Pleistocene and Holocene and led to the formation of the regional groups in north and south of the Amazon region.</p><p>Phylogeographic breaks occurring between Central and South America and/or the North and the South Amazon regions are frequently described in the literature and have revealed long histories of isolation and divergence, with continued and ancient events affecting diversification across lineages. Some studies suggest that ancient events dating back to the Neogene and late Pleistocene were critical in shaping the Mesoamerican lineages <ref type="bibr" target="#b63">[63]</ref><ref type="bibr" target="#b64">[64]</ref><ref type="bibr" target="#b65">[65]</ref><ref type="bibr" target="#b66">[66]</ref><ref type="bibr" target="#b67">[67]</ref><ref type="bibr" target="#b68">[68]</ref><ref type="bibr" target="#b69">[69]</ref><ref type="bibr" target="#b70">[70]</ref>. Most of these works found that geographical barriers and/or the creation of new ecosystems explain the documented patterns of biotic evolution. Volcanic activity and isolation due to Pleistocene climate oscillations have also been suggested for the more recent divergences (e.g. <ref type="bibr" target="#b71">[71]</ref>). In the Amazon, phylogeographic breakups have been documented for different taxa <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b72">72,</ref><ref type="bibr" target="#b73">73]</ref>. The South American biota have a complex evolutionary history mostly caused by the Andean uplift, the drainage shift of the entire Amazon basin during the Miocene, or periodic climate and landscape changes that took place in the Pliocene and Pleistocene <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b73">[73]</ref><ref type="bibr" target="#b74">[74]</ref><ref type="bibr" target="#b75">[75]</ref>. Silva &amp; Bates <ref type="bibr" target="#b8">[9]</ref> have suggested that the existence of corridors connecting the South American open The divergences among C. hominivorax populations occurred during two climate periods, the first just after the LGM and the second at the transition between the Pleistocene and the Holocene. In addiction, the BSP shows a non-synchronous expansion of samples from SAG group in clade II and clade III. These results suggest that climate oscillations alone do not explain the genetic divergence between the North/Central American-South American lineages of C. hominivorax and the north Amazon-south Amazon lineages, but certainly could partially explain the observed pattern. The average of LGM habitat models show an area of medium to low suitability between North/Central America and South America, that could have been a climate barrier. All of the models show areas of low suitability for C. hominivorax in the Amazon region, suggesting that this region cannot be adequately occupied by the species. This result is consistent with the observations that C. hominivorax preferentially inhabits areas at the forest edge, where adults feed, rest and mate, and grazing areas, where females seek hosts to lay their eggs <ref type="bibr" target="#b76">[76]</ref><ref type="bibr" target="#b77">[77]</ref><ref type="bibr" target="#b78">[78]</ref><ref type="bibr" target="#b79">[79]</ref>. Even though, this species appears to have crossed this Amazon area in the warming period, when forests might have expanded <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b80">80]</ref>; thus the hypothesized corridors suggested by Silva and Bates <ref type="bibr" target="#b8">[9]</ref> do not seem to explain the observed distribution pattern.</p><p>Alternatively, the association of the species with their hosts and its distribution, movement, and population expansion might explain this apparent paradox, and might have contributed to shape the observed phylogeographic pattern.</p><p>Human migrations have been linked to the introduction and spread of various human and livestock parasites to different habitats and hosts <ref type="bibr" target="#b81">[81,</ref><ref type="bibr" target="#b82">82]</ref>. Although C. hominivorax can attack different hosts, we found a phylogeographic pattern coincident with the general pattern of human Native American populations spread throughout the continent <ref type="bibr" target="#b83">[83]</ref><ref type="bibr" target="#b84">[84]</ref><ref type="bibr" target="#b85">[85]</ref>.</p><p>Although the number, route and timing of human migration events into the Americas remain under intense debate <ref type="bibr" target="#b83">[83]</ref><ref type="bibr" target="#b84">[84]</ref><ref type="bibr" target="#b85">[85]</ref><ref type="bibr" target="#b86">[86]</ref><ref type="bibr" target="#b87">[87]</ref><ref type="bibr" target="#b88">[88]</ref><ref type="bibr" target="#b89">[89]</ref><ref type="bibr" target="#b90">[90]</ref><ref type="bibr" target="#b91">[91]</ref>, some general patterns have begun to emerge. Human Native American populations seem to have experienced a strong growth that started approximately 18,000 YBP (see 88). This population growth was followed by a "fast" spread (~2,000 years) along the Americas from a starting point in the North <ref type="bibr" target="#b84">[84,</ref><ref type="bibr" target="#b92">[92]</ref><ref type="bibr" target="#b93">[93]</ref><ref type="bibr" target="#b94">[94]</ref>.</p><p>Our analyses indicated that C. hominivorax experienced population expansion during its dispersal towards its current range. Both ABC and BSP analyses show that the effective population size in the SAG group are bigger, suggesting that the species has found a favorable environment to reproduce and expand after crossing the Amazon region (e.g. different hosts). With ABC analysis, we estimated that the expansion occurred in the beginning of the Holocene. The BSP analyses show different patterns and times of population expansion for each regional group. The disagreement between the estimated times may be due to the incorporation of structured populations in the BSP, which might have biased the analyses (see 88), or because the ABC models tested here did not consider continuous population growth. However, the BSP shows that SAG retained a stronger signal of population expansion and it predates divergence. A likely explanation for the results is also a phenomenon called "surfing" <ref type="bibr" target="#b95">[95,</ref><ref type="bibr" target="#b96">96]</ref>, in which an allele could increase in frequency and be propagated by a wave of range expansion. In C. hominivorax, the expansion might have started in the north, but only SAG retained alleles that were present in the wave of south colonization, due to the high effective population size. Thus, results of the BSP complements ABC analysis and are very concordant with the North to South divergence pattern found in this work.</p><p>The phylogenetic analyses indicated that the colonization of the Caribbean islands by C. hominivorax took place after the first mainland split and originated from different sourcepopulations, i.e., Cuba from North and Central America and the Dominican Republic from South America. Interestingly, Bodner et al. <ref type="bibr" target="#b84">[84]</ref> found that human populations coming from South America colonized the Dominican Republic, and Mendizabal et al. <ref type="bibr" target="#b97">[97]</ref> suggested that both North and South America contributed to the ancient human gene pool in Cuba. These data also suggest that humans might have played a central role in the spread of C. hominivorax throughout the Caribbean. This colonization scenario explains the high genetic variability and divergence between Caribbean island populations, as suggested in previous studies <ref type="bibr" target="#b30">[30]</ref><ref type="bibr" target="#b31">[31]</ref><ref type="bibr" target="#b32">[32]</ref>.</p><p>In our ABC analyses we avoid to explicit test more complex scenarios because our mitochondrial data constitute one-locus datasets and have little power to correctly rank asymmetrical models <ref type="bibr" target="#b98">[98]</ref>. But other scenarios that couples for example independent colonization events and population expansion (see 99) might better explain the high genetic variability found in the C. hominivorax populations in the South Amazon region.</p><p>The data and sampling used in this work allowed us to determine the order and time of the divergence events, as well discuss the possible role of human migration in shaping the historical demography of C. hominivorax. This work provided us with an evolutionary framework that can support studies on a finer scale that are directed at understanding the genetic structure of C. hominivorax populations within regional groups.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Competing scenarios of C. hominivorax regional group divergence and admixture. A: Sc1-Sc6: Divergence without admixture scenarios. B: Sc7-Sc8: NAG and SAG population admixture scenarios. NC: North and Central America group. NAG: North Amazon region group. SAG: South Amazon region group. t 2 and t 3 : divergences times. ra, rb and rc: rates of admixture. t exp : expansion times. The different colors and widths of lines represent the effective sizes of different populations. doi: 10.1371/journal.pone.0076168.g001</figDesc><graphic coords="4,60.12,77.25,491.76,399.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>doi: 10 .</head><label>10</label><figDesc>1371/journal.pone.0076168.g002</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3 .</head><label>3</label><figDesc>Figure 3. Maxent models for the potential distribution of C. hominivorax. A: Last Inter Glacial (LIG) conditions; B: The average Last Glacial Maximum (LGM) conditions for the CCSM and MIROC models; C: Present conditions (black points are georeferenced sampling locations used for modeling). Maps are plotted with threshold of 0.25 in all of the analyses. doi: 10.1371/journal.pone.0076168.g003</figDesc><graphic coords="7,60.12,77.25,491.76,218.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Definition and prior distribution of parameters used in the ABC tests of divergence scenarios.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">Distribution</cell></row><row><cell>Parameters</cell><cell>Parameter name</cell><cell>Type</cell><cell>Interval</cell></row><row><cell>Effective sizes of the ancestral population</cell><cell>N A</cell><cell>Uniform</cell><cell>[1000-60000]</cell></row><row><cell cols="2">South Amazon population N SAG</cell><cell>Uniform</cell><cell>[100000-3600000]</cell></row><row><cell cols="2">North Amazon population N NAG</cell><cell>Uniform</cell><cell>[150000-800000]</cell></row><row><cell>North and Central America</cell><cell>N NC</cell><cell>Uniform</cell><cell>[40000-150000]</cell></row><row><cell>Population effective sizes between t 3 and t exp</cell><cell>N1-N8</cell><cell>Uniform</cell><cell>[100-200000]</cell></row><row><cell>Expansion event</cell><cell>t exp, t expNAG, t expSAG, t expNC</cell><cell>Uniform</cell><cell>[60000-450000]</cell></row><row><cell>Admixture event</cell><cell>t adm1, t adm2</cell><cell>Uniform</cell><cell>[20000-300000]</cell></row><row><cell>Time of the last population divergence</cell><cell>t 2</cell><cell>Uniform</cell><cell>[50000-350000]</cell></row><row><cell>Time of the ancestral divergence</cell><cell>t 3</cell><cell>Uniform</cell><cell>[100000-1000000]</cell></row><row><cell>Mean mutation rate (site/ generation)</cell><cell>Mµ</cell><cell>Uniform</cell><cell>[10 -7 -10 -11 ]</cell></row><row><cell>Rate of admixture</cell><cell>ra, rb, rc</cell><cell>Uniform</cell><cell>[0.01-0.99]</cell></row></table><note><p>doi: 10.1371/journal.pone.0076168.t001</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Genetic diversity estimates for C. hominivorax regional groups.</figDesc><table><row><cell>Regional group</cell><cell>N</cell><cell cols="2">N° hap Ḧ ± SD</cell><cell>π ± SD</cell></row><row><cell>SAG</cell><cell>249</cell><cell>153</cell><cell>0.967 ± 0.008</cell><cell>0.0045 ± 0.0023</cell></row><row><cell>NAG</cell><cell>79</cell><cell>42</cell><cell>0.968 ± 0.009</cell><cell>0.0044 ± 0.0023</cell></row><row><cell>DRG</cell><cell>13</cell><cell>7</cell><cell>0.795 ± 0.109</cell><cell>0.0016 ± 0.0010</cell></row><row><cell>NC/CG</cell><cell>61</cell><cell>29</cell><cell>0.954 ± 0.011</cell><cell>0.0036 ± 0.0019</cell></row><row><cell>Total</cell><cell>402</cell><cell>230</cell><cell>0.985 ± 0.003</cell><cell>0.0063 ± 0.0031</cell></row></table><note><p>NAG: North Amazon regional group; SAG: South Amazon regional group; DRG: Dominican Republic regional group; NC/CG: North and Central American and Cuban Group. N: number of individuals analyzed. N° hap: Number of haplotypes, Ĥ: Haplotype diversity, π: Nucleotide diversity and SD: standard deviation. doi: 10.1371/journal.pone.0076168.t002</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Pairwise Φ ST among the four regional groups of C. hominivorax.</figDesc><table><row><cell></cell><cell>SAG</cell><cell>NAG</cell><cell>DRG</cell></row><row><cell>NAG</cell><cell>0.155*</cell><cell></cell><cell></cell></row><row><cell>DRG</cell><cell>0.347*</cell><cell>0.359*</cell><cell></cell></row><row><cell>NC/CG</cell><cell>0.597*</cell><cell>0.623*</cell><cell>0.718*</cell></row><row><cell cols="4">NAG: North Amazon regional group; SAG: South Amazon regional group; DRG:</cell></row></table><note><p>Dominican Republic regional group; NC/CG: North American, Central American and Cuban Group. *P &lt; 0.001 doi: 10.1371/journal.pone.0076168.t003</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 4 .</head><label>4</label><figDesc>ABC comparison between the hypothesized evolutionary scenarios.</figDesc><table><row><cell></cell><cell>Probability of scenario</cell><cell></cell></row><row><cell>Hypotheses</cell><cell>(logistic regression)</cell><cell>Confidence interval (95%)</cell></row><row><cell>Population divergence</cell><cell></cell><cell></cell></row><row><cell>Sc1</cell><cell>0.4266</cell><cell>[0.3902-0.4629]</cell></row><row><cell>Sc2</cell><cell>0.3159</cell><cell>[0.2836-0.3482]</cell></row><row><cell>Sc3</cell><cell>0.2558</cell><cell>[0.2265-0.2851]</cell></row><row><cell>Sc4</cell><cell>0.0007</cell><cell>[0.0005-0.0009]</cell></row><row><cell>Sc5</cell><cell>0.0007</cell><cell>[0.0005-0.0009]</cell></row><row><cell>Sc6</cell><cell>0.0003</cell><cell>[0.0002-0.0004]</cell></row><row><cell>Population admixture</cell><cell></cell><cell></cell></row><row><cell>Sc7</cell><cell>0.8600</cell><cell>[0.8172-0.9028]</cell></row><row><cell>Sc8</cell><cell>0.1400</cell><cell>[0.0972-0.1828]</cell></row><row><cell>Best scenarios</cell><cell></cell><cell></cell></row><row><cell>Sc1</cell><cell>0.8251</cell><cell>[0.8019-0.8483]</cell></row><row><cell>Sc7</cell><cell>0.1749</cell><cell>[0.1517-0.1981]</cell></row><row><cell cols="2">doi: 10.1371/journal.pone.0076168.t004</cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_4"><head>Table 5 .</head><label>5</label><figDesc>Parameter estimates for the best population divergence scenario (Sc1; table3).</figDesc><table><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>formations during the LGM might explain the current</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>geographic distribution of taxa inhabiting open areas on both</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>sides of the Amazon basin.</cell></row><row><cell>Parameter</cell><cell>mean</cell><cell cols="2">median mode</cell><cell>q025</cell><cell>q975</cell></row><row><cell>N anc (10 3 )</cell><cell>26.1</cell><cell>23.8</cell><cell>4.9</cell><cell>1.8</cell><cell>57.8</cell></row><row><cell>N SAG (10 3 )</cell><cell>2420</cell><cell>2390</cell><cell>2080</cell><cell>1340</cell><cell>3500</cell></row><row><cell>N NAG (10 3 )</cell><cell>542</cell><cell>549</cell><cell>575</cell><cell>279</cell><cell>775</cell></row><row><cell>N NC (10 3 )</cell><cell>99</cell><cell>100</cell><cell>98</cell><cell>49</cell><cell>146</cell></row><row><cell>t exp (generations x10 3 )</cell><cell>125</cell><cell>122</cell><cell>110</cell><cell>72</cell><cell>200</cell></row><row><cell>t exp (years)</cell><cell>8.2</cell><cell>8.0</cell><cell>7.2</cell><cell>4.7</cell><cell>13.1</cell></row><row><cell>t 2 (generations x10 3 )</cell><cell>167</cell><cell>159</cell><cell>139</cell><cell>79</cell><cell>300</cell></row><row><cell>t 2 (thousand years)</cell><cell>11.0</cell><cell>10.4</cell><cell>9.1</cell><cell>5.2</cell><cell>19.7</cell></row><row><cell>t 3 (generations x10 3 )</cell><cell>290</cell><cell>274</cell><cell>233</cell><cell>151</cell><cell>520</cell></row><row><cell>t 3 (thousand years)</cell><cell>19.0</cell><cell>18.0</cell><cell>15.3</cell><cell>9.9</cell><cell>34.1</cell></row><row><cell>Mµ (10 -8 )</cell><cell>3.09</cell><cell>2.47</cell><cell>1.47</cell><cell>0.83</cell><cell>8.8</cell></row><row><cell cols="2">Parameter definitions are in Table 1.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">doi: 10.1371/journal.pone.0076168.t005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>PLOS ONE | www.plosone.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>October 2013 | Volume 8 | Issue 10 | e76168</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We thank <rs type="person">Rosangela A. Rodrigues</rs> for her assistance in the laboratory and the collectors who supplied specimens for this study. We also would like to thank <rs type="person">André L. G. de Carvalho</rs> and two anonymous reviewers, whose suggestions and comments significantly improved the clarity of the article. We are grateful to the <rs type="institution">APHIS-USDA Biofactory, Fargo, North Dakota, USA</rs>, for providing the North/Central American samples.</p></div>
+			</div>
+			<div type="funding">
+<div><p>Pablo Fresia was supported by a fellowship from the <rs type="funder">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior-CAPES</rs>. <rs type="person">Mariana Lúcio Lyra</rs> was supported by a fellowship from the <rs type="funder">Fundação de Amparo à Pesquisa do Estado de São Paulo-FAPESP</rs> (grant nº <rs type="grantNumber">03/13598-0</rs>). This work was supported by grants from <rs type="funder">FAO/IAEA</rs> (<rs type="grantNumber">11822/RO</rs>) and <rs type="funder">FAPESP</rs>. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_vc48rV6">
+					<idno type="grant-number">03/13598-0</idno>
+				</org>
+				<org type="funding" xml:id="_f6RRhEk">
+					<idno type="grant-number">11822/RO</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting Information</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Intraspecific phylogeography: The mitochondrial DNA bridge between population genetics and systematics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Avise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bermingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lamb</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ecolsys.18.1.489</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Ecol Syst</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="489" to="522" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Phylogeography: retrospect and prospect</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Avise</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2699.2008.02032.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="3" to="15" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diversification of rainforest faunas: an integrated molecular approach</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">B</forename><surname>Smith</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ecolsys.31.1.533</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Ecol Syst</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="533" to="563" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Genetic consequences of climatic oscillations in the Quaternary</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Hewitt</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2003.1388</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Trans R Soc Lond B Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page">15101575</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<author>
+			<persName><forename type="first">W</forename><surname>Wüster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quijada-Mascareñas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Pook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Salomão</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-294X.2005.02471.x</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Tracing an invasion: land bridges, refugia, and the phylogeography of the Neotropical rattlesnake (Serpentes: Viperidae: Crotalus durissus)</title>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1095" to="1108" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Speciation timing and neotropical biodiversity: the Tertiary-Quaternary debate in the light of molecular phylogenetic evidence</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Rull</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-294X.2008.03789.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="2722" to="2729" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Stability predicts genetic diversity in the brazilian Atlantic forest hotspot</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Carnaval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hickerson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cfb</forename><surname>Haddad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moritz</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1166955</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">323</biblScope>
+			<biblScope unit="page">19197066</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Molecular phylogeography and the evolution and conservation of Amazonian mammals</title>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mnf</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-294x.1998.00276.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="475" to="486" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Biogeograhic patterns and conservation in the South American Cerrado: a tropical savanna hotspot</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bates</surname></persName>
+		</author>
+		<idno type="DOI">10.1641/0006-3568(2002)052[0225:BPACIT]2.0.CO;2</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BioScience</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="225" to="233" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Genetic footprints of demographic expansion in North America, but not Amazonia, during the late Quaternary</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Lessa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Patton</surname></persName>
+		</author>
+		<idno type="DOI">10.1073/pnas.1730921100</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci U S A</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="page">12913123</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Historical climate change and speciation: Neotropical seasonally dry forest plants show patterns of both Tertiary and Quaternary diversification</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Pennington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lavin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Pendry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Pell</surname></persName>
+		</author>
+		<idno type="DOI">10.1098/rstb.2003.1435</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Trans R Soc Lond B Biol Sci</title>
+		<imprint>
+			<biblScope unit="volume">359</biblScope>
+			<biblScope unit="page" from="515" to="538" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Climatic forcing of evolution in Amazonia during the Cenozoic: on the refuge theory of biotic differentiation</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">T</forename><surname>Prance</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Amazoniana</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="579" to="607" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Speciation in amazonian forest birds</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Haffer</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.165.3889.131</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="131" to="137" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">South American anoles: the geographic differentiation and evolution of the Anolis Chrysolepis species group (Sauria, Iguanidae)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Vanzolini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E</forename><surname>Williams</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Zool S Paulo</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="1" to="298" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Coupled genetic and ecological-niche models to examine how past population distributions contribute to divergence</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Knowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Carstens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Keat</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.sbi.2007.01.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Biol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">17208179</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Statistical phylogeography</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Knowles</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ecolsys.38.091206.095702</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Ecol Evol Syst</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">12453245</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Integrating statistical genetic and geospatial methods brings new power to phylogeography</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Yoder</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ympev.2011.01.020</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Phylogenet Evol</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page">21352934</biblScope>
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Population ecology of insect invasions and their management</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Liebhold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Tobin</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ento.52.110405.091401</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page">17877456</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Geographic structure of insect populations: gene flow, phylogeography, and their uses</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">K</forename><surname>Roderick</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.en.41.010196.001545</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="325" to="352" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Defining &apos;Evolutionary Significant Units&apos; for conservation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moritz</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/0169-5347(94)90057-4</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="373" to="375" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Sterile insect technique: principles and practice in area-wide integrated pest management</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Krafsur</surname></persName>
+		</author>
+		<editor>VA DyckJ HendrichsAS Robinson</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer Verlag</publisher>
+			<biblScope unit="page" from="389" to="406" />
+			<pubPlace>Dordrecht, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Role of population genetics in the sterile insect technique</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Identification of management units using population genetic data</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Palsbøll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bérubé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Allendorf</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tree.2006.09.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="11" to="16" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">As miíases na região neotropical (identificação, biologia, bibliografia)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Zool</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Sterile insect technique: principles and practice in area-wide integrated pest management</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vargas-Terán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Tweddle</surname></persName>
+		</author>
+		<editor>VA DyckJ HendrichsAS Robinson</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer Verlag</publisher>
+			<biblScope unit="page" from="629" to="650" />
+			<pubPlace>Dordrecht, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Impact of Screwworm eradication programmes using insect sterile technique</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Sterile insect technique: principles and practice in area-wide integrated pest management</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Klassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Curtis</surname></persName>
+		</author>
+		<editor>VA DyckJ HendrichsAS Robinson</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer Verlag</publisher>
+			<biblScope unit="page" from="3" to="36" />
+			<pubPlace>Dordrecht, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>History of the sterile insect technique</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Intraspecific genetic variability in mitochondrial DNA of the screwworm fly (Cochliomyia hominivorax)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF02396152</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Genet</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">2619711</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">A polymerase chain reaction-restriction fragment length polymorphism technique for identification of screwworms (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Szalanski Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2915.1996.tb00083.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="63" to="70" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Analysis of mitochondrial DNA variability and genetic structure in populations of new world screwworm flies (Diptera: Calliphoridae) from Uruguay</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cristina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<idno type="DOI">10.1603/0022-2585(2005)042[0589:AOMDVA]2.0.CO</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="589" to="595" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Pubmed</surname></persName>
+		</author>
+		<idno type="DOI">10.1603/0022-2585(2005)042[0589:AOMDVA]2.0.CO;2PubMed:16119547</idno>
+		<imprint>
+			<biblScope unit="page">16119547</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title level="m" type="main">Assessing Genetic Variation in the New World Screwworm Cochliomyia hominivorax populations from Uruguay In: MJB VreysenAS RobinsonJ Hendrichs. Area-wide control of insect pests: from research to field implementation</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Springer Verlag</publisher>
+			<biblScope unit="page" from="183" to="191" />
+			<pubPlace>Dordrecht, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Population structuring in new world screw-worm populations from the Caribbean: insights from microsatellite data</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2915.2008.00786.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="23" to="31" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Complex pattern of genetic distribution in populations of the New World screwworm fly revealed by mitochondrial DNA markers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="32" to="42" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Genetic structure and demographic history of the New World Screwworm fly across its current geographic range</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Coronado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="280" to="290" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Arlequin (version 3.0): An integrated software package for population genetics data analysis</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Laval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schneider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evol Bioinform Online</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">19325852</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">MEGA5: Molecular Evolutionary Genetics Analysis using maximum likelihood, evolutionary distance, and maximum parsimony methods</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Stecher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nei</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msr121</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Biol Evol</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="2731" to="2739" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">FaBox: an online toolbox for fasta sequences</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Villesen</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1471-8286.2007.01821.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol Notes</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="965" to="968" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">jModelTest: Phylogenetic model averaging</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Posada</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msn083</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Biol Evol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">18397919</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">BEAST: Bayesian evolutionary analysis by sampling trees</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Drummond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rambaut</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2148-7-214</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Evol Biol</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">17996036</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><surname>Rambaut</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Drummond</surname></persName>
+		</author>
+		<ptr target="http://beast.bio.ed.ac.uk/Tracer" />
+		<imprint>
+			<date type="published" when="2007">2007. 2013 August 31</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">On the use of static distribution models in Ecology</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Guisan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zimmermann</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0304-3800(00)00354-9</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Modell</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="354" to="359" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Novel methods improve prediction of species&apos; distributions from occurrence data</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Elith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dudík</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ferrier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography (Cop.)</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="129" to="151" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Does Conservationism promote speciation? A case study in North American Salamanders</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">H</forename><surname>Kozak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wiens</surname></persName>
+		</author>
+		<idno type="DOI">10.1554/06-334.1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page">17263120</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Maximum entropy modeling of species geographic distributions</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Schapire</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolmodel.2005.03.026</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Modell</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="231" to="259" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Very high resolution interpolated climate surfaces for global land areas</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Hijmans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Cameron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Parra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jarvis</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/joc.1276</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Climatol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1965" to="1978" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">BIOCLIM -A bioclimatic analysis and predictive system</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Busby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CR MargulesMP Austin. Nature: Cost effective biological surveys and data analysis</title>
+		<meeting><address><addrLine>Canberra</addrLine></address></meeting>
+		<imprint>
+			<publisher>CSIRO</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="64" to="68" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Environmental niche equivalency versus conservatism: quantitative approaches to niche evolution</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Glor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Turelli</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1558-5646.2008.00482.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="2868" to="2883" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">ENMTools: a toolbox for comparative studies of environmental niche models</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Warren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Glor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Turelli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography (Cop.)</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="607" to="611" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Ensemble forecasting of species distributions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Araújo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>New</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tree.2006.09.010</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">17011070</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Measuring the accuracy of diagnostic systems</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Swets</surname></persName>
+		</author>
+		<idno type="DOI">10.1126/science.3287615</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">240</biblScope>
+			<biblScope unit="page" from="1285" to="1293" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Predicting species distributions from small numbers of occurrence records: a test case using cryptic geckos in Madagascar</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Pearson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Raxworthy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nakamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="102" to="117" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Statistical phylogeography</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Knowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Maddison</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-294X.2002.01637.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="2623" to="2635" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">In defense of model based inference in phylogeography</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beaumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nielsen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Gaggiotti</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-294X.2009.04515.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="436" to="446" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Exploring the population genetic consequences of the colonization process with spatiotemporally explicit models: insights from coupled ecological, demographic, and genetic models in montane grasshoppers</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Knowles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Alvarado-Serrano</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-294X.2010.04702.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="3727" to="3745" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Approximate Bayesian computation in population genetics</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beaumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Balding</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page">12524368</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Approximate Bayesian computation in evolution and ecology</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beamont</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev-ecolsys-102209-144621</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Ecol Evol Syst</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="379" to="406" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">ABC as a flexible framework to estimate demography over space and time: some cons, many pros</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bertorelle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Benazzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mona</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-294X.2010.04690.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="2609" to="2625" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Approximate Bayesian computation (ABC) in practice</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Csilléry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mgb</forename><surname>Blum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Gaggiotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>François</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.tree.2010.04.001</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Ecol Evol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">20488578</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Inference on population history and model checking using DNA sequence and microsatellite data with the software DIYABC (v1.0)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cornuet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Ravigné</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Estoup</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2105-11-401</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">20667077</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Inferring population history with DIY ABC: a user-friendly approach to Approximate Bayesian Computation</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cornuet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Beaumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Marin</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/bioinformatics/btn514</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">18842597</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title level="m" type="main">Stochastic population dynamics in ecology and conservation</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lande</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Engen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Saether</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">Mark-recapture estimates of recruitment, survivorship and population growth rates for the screwworm fly, Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Matlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Skoda</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2915.2009.00774.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="111" to="125" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title level="m" type="main">Phylogeography: the history and formation of species</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Avise</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<analytic>
+		<title level="a" type="main">Maximum entropy niche-based modelling of seasonal changes in little bustard (Tetrax tetrax) distribution</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suárez-Seoane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Garcìa</forename><surname>De La Morena</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Morales</forename><surname>Prieto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Osborne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Juana</forename><forename type="middle">E</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ecolmodel.2008.07.035</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecol Modell</title>
+		<imprint>
+			<biblScope unit="volume">219</biblScope>
+			<biblScope unit="page" from="17" to="29" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Phylogeography, population history and conservation genetics of jaguars (Panthera onca, Mammalia, Felidae)</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Eizirik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J-H</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Menotti-Raymond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Crawshaw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Brien</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-294X.2001.01144.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="65" to="79" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Molecular systematics reveals cryptic Tertiary diversification of a widespread tropical rainforest tree</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Dick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Abdul-Salim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bermingham</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/379795</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am Nat</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page">14737707</biblScope>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">Molecular population genetics of the malaria vector Anopheles darlingi in central and South America</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mirabello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Conn</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/sj.hdy.6800805</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Heredity</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page">16508661</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<analytic>
+		<title level="a" type="main">Comparative phylogeography of pitvipers suggests a consensus of ancient Middle American highland biogeography</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Castoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Daza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">N</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Sasa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Kuch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="83" to="103" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Multilocus molecular phylogenetic analysis of the montane Craugastor podiciferus species complex (Anura: Craugastoridae) in Isthmian Central America</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Streicher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Edwards</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ympev.2009.07.011</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Phylogenet Evol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="620" to="630" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Using regional comparative phylogeographic data from snake lineages to infer historical processes in Middle America</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Daza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Castoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Parkinson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography (Cop.)</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="343" to="354" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<analytic>
+		<title level="a" type="main">Late Pleistocene environmental changes lead to unstable demography and population divergence of Anopheles albimanus in the northern Neotropics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Loaiza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bermingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">I</forename><surname>Sanjur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wilkerson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Phylogenet Evol</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">20888924</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<analytic>
+		<title level="a" type="main">Population history, phylogeography, and conservation genetics of the last Neotropical mega-herbivore, the Lowland tapir (Tapirus terrestris)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thoisy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Goncalves</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruiz-García</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tapia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ramirez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2148-10-278</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Evol Biol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">20840756</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">Phylogeography of the bark beetle Dendroctonus mexicanus Hopkins (Coleoptera: Curculionidae: Scolytinae)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Anducho-Reyes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Cognato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Hayes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Zúñiga</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ympev.2008.09.005</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Phylogenet Evol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="930" to="940" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Phylogeographic patterns of Trans-Amazonian vicariants and Amazonian biogeography: The Neotropical rattlesnake (Crotalus durissus complex) as an example</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quijada-Mascareñas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Ferguson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Pook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Salomão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Thorpe</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2699.2007.01707.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1296" to="1312" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Molecular studies and phylogeography of Amazonian tetrapods and their relation to geological and climatic models</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Antonelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Quijada-Mascareñas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Bates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Velazco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">C HoornH VonhofF Wesselingh. Amazonia, Landscape and Species Evolution: a Look into the Past</title>
+		<meeting><address><addrLine>Oxford, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page" from="386" to="404" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title level="a" type="main">The genetic legacy of the Quaternary ice ages</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Hewitt</surname></persName>
+		</author>
+		<idno type="DOI">10.1038/35016000</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">405</biblScope>
+			<biblScope unit="page">10879524</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">Amazonia through time: Andean uplift, climate change, landscape evolution, and biodiversity</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Hoorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Wesselingh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ter Steege</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Bermudez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mora</forename><forename type="middle">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1126/science.1194585</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">330</biblScope>
+			<biblScope unit="page">21071659</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">Habitat preferences and dispersal patterns in native screwworm fly (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Mangan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Thomas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Entomol Soc Am</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="332" to="339" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Influence of habitat, season and attractant on adult behavior of the screwworm (Diptera: Calliphoridae) inatropical dry zone in Costa Rica</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rb-Jr</forename><surname>Matlock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Econ Entomol</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page">8254134</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Seasonal and spatial distributions of adult screwworms (Diptera: Calliphoridae) in the Panama Canal Area, Republic of Panama</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kramer</surname></persName>
+		</author>
+		<idno type="DOI">10.1603/0022-2585-41.1.121</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="121" to="129" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Insecticidal Wound Treatment of Livestock on Isla de la Juventud, Cuba: an efficient suppression method of New World Screwworm Cochliomyia hominivorax prior to the release of Sterile Insect</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mendez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Serrano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gil</forename><surname>Morales</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Vreysen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mjb</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">MJB VreysenAS RobinsonJ Hendrichs. Area-Wide Control of Insect Pests: From Research to Field Implementation</title>
+		<meeting><address><addrLine>Dordrecht, The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Verlag</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="393" to="403" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Holocene vegetation change and the mammal faunas of South America and Africa</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vivo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Carmignoto</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2699.2004.01068.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="943" to="957" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Invasions by insect vectors of human disease</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Lounibos</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ento.47.091201.145206</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Entomol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="233" to="266" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<analytic>
+		<title level="a" type="main">Human and livestock migrations: a history of bot fly biodiversity in the Mediterranean region</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Otranto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Brianti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Dorchies</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.pt.2006.03.003</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="209" to="213" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Contrasting patterns of nuclear and mtDNA diversity in Native American populations</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">N</forename><surname>Yang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mazières</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bravi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1469-1809.2010.00608.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Hum Genet</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="525" to="538" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Rapid coastal spread of First Americans: Novel insights from South America&apos;s Southern Cone mitochondrial genomes</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bodner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">A</forename><surname>Perego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Huber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Fendt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Röck</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/gr.131722.111</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Res</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">22333566</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title level="a" type="main">Genetic Divergence Disclosing a Rapid Prehistorical Dispersion of Native Americans in Central and South America</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jin</forename><forename type="middle">L</forename></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0044788</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">44788</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<analytic>
+		<title level="a" type="main">Genetic variation and population structure in Native Americans</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lewis</forename><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Jakobsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ramachandran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pgen.0030185</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS Genet</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">18039031</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<analytic>
+		<title level="a" type="main">a) Mitochondrial population genomics supports a single pre-Clovis origin with a coastal route for the peopling of the Americas</title>
+		<author>
+			<persName><forename type="first">Njr</forename><surname>Fagundes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Eckert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Acs</forename><surname>Valls</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Bogo</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.ajhg.2007.11.013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Hum Genet</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="583" to="592" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">A reevaluation of the Native American mtDNA genome diversity and its bearing on the models of early colonization of Beringia</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Fagundes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kanitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Bonatto</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0003157</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">3157</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">The initial peopling of the Americas: A growing number of founding mitochondrial genomes from Beringia</title>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">A</forename><surname>Perego</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Angerhofer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pala</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Olivieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Lancioni</surname></persName>
+		</author>
+		<idno type="DOI">10.1101/gr.109231.110</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Res</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="1174" to="1179" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Testing evolutionary and dispersion scenarios for the settlement of the New World</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hubbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A</forename><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Harvati</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pone.0011105</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLOS ONE</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">20559441</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">A statistical evaluation of models for the initial settlement of the American continent emphasizes the importance of gene flow with Asia</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Ray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Wegmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Njr</forename><surname>Fagundes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ruiz-Linares</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/molbev/msp238</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Biol Evol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="337" to="345" />
+			<date type="published" when="2010">2010. 19805438</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Simulating coastal migration in New World colonization</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Surovell</surname></persName>
+		</author>
+		<idno type="DOI">10.1086/377651</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Curr Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="580" to="591" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<analytic>
+		<title level="a" type="main">Rapid deployment of the five founding Amerind mtDNA haplogroups via coastal and riverine colonization</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Fix</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ajpa.20230</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Am J Phys Anthropol</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page">15795895</biblScope>
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Fisher equation for anisotropic diffusion: Simulating South American human dispersals</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Martino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Osella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Dorso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Lanata</surname></persName>
+		</author>
+		<idno type="DOI">10.1103/PhysRevE.76.031923</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Phys Rev E Stat Nonlin Soft Matter Phys</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page">31923</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">The fate of mutations surfing on the wave of a range expansion</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Klopfstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Currat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Biol Evol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">16280540</biblScope>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Genetic consequences of range expansions</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Foll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Petit</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ecolsys.39.110707.173414</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Ecol Evol Syst</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="481" to="501" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Genetic origin, admixture, and asymmetry in maternal and paternal human lineages in Cuba</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mendizabal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sandoval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Berniell-Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Calafell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Salas</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2148-8-213</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Evol Biol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">18644108</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Unified framework to evaluate panmixia and migration direction among multiple sampling locations</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Beerli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Palczewski</surname></persName>
+		</author>
+		<idno type="DOI">10.1534/genetics.109.112532</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">185</biblScope>
+			<biblScope unit="page" from="313" to="326" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<analytic>
+		<title level="a" type="main">Serial founder effects during range expansion: A spatial analog of genetic drift</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Slatkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Excoffier</surname></persName>
+		</author>
+		<idno type="DOI">10.1534/genetics.112.139022</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">191</biblScope>
+			<biblScope unit="page">22367031</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

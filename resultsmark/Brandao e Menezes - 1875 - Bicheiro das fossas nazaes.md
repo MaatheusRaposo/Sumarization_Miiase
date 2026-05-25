@@ -1,0 +1,234 @@
+# mmm u mmm do rio de «iro nillKCTOB
+Visconde Conselheiro
+Santa De
+Barão Conselheiro
+Theuesopolis De
+Carlos Ferreira
+Souza Fernandes
+F Do Canto
+Mello Castro
+Mascarenhas (1'' Cadeira
+Manoel Maria De Moraes
+Chimica
+Minerilogia Conselheiro
+José Ribeiro De Souza
+Fontes Anatomia
+Descripliva Joaquim
+Monteiro Caminhoá
+Ferreira
+Santos Luiz
+Pienlzenauer Cláudio
+Velho Da Motta Maia
+José Pereira
+Scievícias Cirúrgicas
+Ahonso Pedro
+Carvalho De
+Franco
+Antonio Caetano De Almeida
+José Joaquim Da
+João Damasceno
+Peçanha Da
+Silva João
+José Da Silva
+Secção De
+Sciencias Medicas
+Baptista João
+Vinelii Kossulh
+B A Xv
+Faculdade
+
+approva iiem reprova as opiniões emittidas nasTheses que lhe são apresentadas.
+
+### DISSERTAÇÃO
+Entre as affecções parasitarias de que é victima á espécie humana, figura o bicheiro que pôde aífectar qualquer parte do corpo em que haja sokição de continuidade ou a mais leve erosão ; mas que muito frequente nas fossas nasaes, é rarissimo nos outros ór- gãos. Vamos, pois, estudal-o no apparelho olfativo onde tem sua séde quasi exclusiva, mas fal-o-hemos muito perfunctoriamente, não gó porque a bibliographia desta affecção é quasi nulla (pelo menos ao nosso conhecimento) como porque, forçados a escrever este tra- balho em poucos dias, não tivemos durante elles occasião de obser- var facto algum para estudal-o mais completamente, e nem nos foi possivel recorrer a maior numero de collegas para pedir-lhes o concurso de suas observações e esclarecimentos, e temos de nos cingir á reminiscência de conversações sobre o assumpto, a uma rápida nota do nosso collega o Sr. Dr. Penido, e quasi que exclu- .sivamente aos dados de nossa própria observação, e mesmo esses grupados apenas em nossa memoria, sem o cunho das boas ob- servações methodicamente tomadas e colhidos apenas no interesse clinico do diagnostico e da therapeutica e sem que tivéssemos a intenção de escrever um dia sobre o assumpto. E se o escolhemos puríi objecto desta prova, é justamente por ser do domínio da pratica e mais em harmonia cojíi a pobreza de nossa actividade iiv- tellectual, já decadente por precário estado de saúde e pelo traba- lho fatigante e entorpecedor de uma clinica de 19 ânuos, ua roça, oude o horizonte intellectual do homem se restringe dia por dia e onde a fatiga do corpo traz a impossibilidade do estudo e o quasi abandono das questões philosophicas e scientiiicas, de que por fim nos vamos tornando arredios e incompetentes na apreciação.
+
+Além disso, esta aífecção, muito commum nos centros ruraes, é rara nos de população, e o assumpto pôde oííerecer interesse aos homens da sciencia. que ahi em geral habitão, considerando-uos feliz se a nossa iniciativa despertai' para elle a attenção dos mais competentes.
+
+Sendo o bicheiro constituído pelo parasitismo de certas larvas <la classe dos dipteros, quer seja o seu habitai o privilegio exclu- sivo de certas e determinadas espécies de animaes, quer sejào ellas cosmopolitas e ataquem mais ou mános frequentemente o homem, trataremos em primeiro lugar desses insectos debaixo do ponto de vista zoológico, passando depois ao estudo da larva em acção SO' hvQ o organismo^ou como entidade patliologica. Para esta primeira parte do nosso trabalho, tivemos a felicidade de pôr em contri buição a amestrada penna do nosso illustrado collega e amigo n Sr. Visconde de Prados, a quem devemos a nuta de que nos ser- vimos e a quem agradecenu)s a obsequiosa coadjuvação. Z()OL()lH.\ U myasis é especialmente o parasitismo das larvas dc varias es- pécies de dipteros pertencentes á sub-ordem dos chetoceros, carac- terisados por um coipo mais ou menos largo, azas ovaes e reco- brindo-o completameiite, cabeça grande e occupada em grande parte o por olhos coni})ostos. As antenas apresentam o caractei-quasi con- stante, de serem os tres primeiros artículos mais fortes que os outros- (pie formam portanto uma ponta setiforme, donde Ihe^vem a de- nominação de Ghetocpron . Â. bocca é em fórraa de tromba, disposta para a sucção. São oviparos, as larvas sem cabeça distincta, apre- r^entam, quando muito, 14 a,rticulos e são apodos, i\ respiração tmcheana, o que os disting^ue, com o numero limitado do.? artí- culos, dos vermes ou helmynthos.
+
+Entre as numerosas tribus que compõem esta sub-ordera, sobre- sahem era importância para o objecto especial de que tratamos, isto é, o parasitismo ua espécie humana, de larvas pei-teuoentes n insectos desta sub-ordem :
+
+A tribu dos mnscidas e a da^s oestrídeas, aquella.^caracterisadas pela posição dorsnl da parte sfiliforme das rmfmos e pela dispo- í^Ição das nervuras das azas. cuja consequência é a existência de uma cellula submarginal, tres posteriores e uma anal curfa : estas pelo estado rudimentario e mesmo ausência de tromba, e pela exis- tência nos artículos de suas larvas de apêndices em f/>i-ni;i. <le c(^l- chetes Vivem ellas sob a pelle dos mammiteros ou nas cavidades ua-turnes de seus órgãos.
+
+É nestas tribus que se acham as larvas parasitas de certos e de- terminados animaes selvagens ou domésticos, si bera que algumas espécies sejam cosmopolitas e se observem frequentemente sob a pelle, ou nas cavidades splan clinicas do homem, como por exemplo : o cate- rehra cyani ventris (Berne do Brazil), o € . cayanensis, o C . fulvi ve,ntris (Brazil) e outras muitas espécies, tanto da America Meridional, como Septentrional Lembraremos ainda as espécies seguintes, como podendo, ainda que raramente, viver como parasitas sobre o homem : 1", o cestrus hominis de alguns autores ou cestrus hypodermica. 2°, o cestrus hovis. eto. As larvas destas espécies têm sido encontradas^quer nas cavidades viscei^aes, quer nas outras cavidades que se abrem no exterior Os annaes da sciencia referem alguns casos destes que não é licito pôr em duvida. Mas são sobretudo ns espécies cutículas que foriiiam o apanágio commum do homem e dos animaes, e esses são quasi todos ligados ao grupo do oest7'us cnferebra, de que se formou o género cu- terehra.
+
+As muscidas ou moscas pi-opriamente ditas, fornecem a quasi to- talidade dos casos dessas desagríidaveis colónias de larvas, que assal- tam o corpo humano.
+
+O myasis ou bicheiro é quasi sempre o resultado da postura effec- tuada pela musca vomitória ou musca carnaria^e muito raramente o parasitismo é produzido ])ela mvsca domestica, musca. cibarea, musca nigra, etc, etc. E, porem, preciso fazer observar que paira alguma obscuridade sobre esta questão, visto como a mór parte das vezes não se assistio ao des- envolvimento completo das larv^as até serem moscas perfeitas. Mas os hábitos carniceiros e voraces da primeira espécie, a sua abundância nas proximidades dos lu^"ares habitados, e os costumes mesmo das larvas respectivas, tornão mais que provável o asserto.
+
+O caracter especifico mais saliente da musca. vomitória , é o seu abdómen azulado com listras filiformes de côr branca, além do ta- manho e comprimento que pôde ir até seis linhas As larvas destas moscas são como todas do género musca, de artí- culos nus, sem appendices e seui cabeça distincta como já dissemos.
+
+Póde-se, pois, avançar que entre nós, o myasis é produzido pela musca vomitória ou musca. carnaria, e com excepção do parasitismo das larvas ciUicolas do genere cufcrebra, que conta no nosso paiz pelo menos 3 ou 4 espécies ; com habitai subcuta^ieo , não conhecemos casos averiguados de parasitismo de outras espécies de chetoce- ros além das muscidas, e nesta tribu a espécie carnaria, a que damos commummente o nome. bem cabido, de mosca varegeira.
+
+### DEFINIÇÃO
+Como já o fizemos sentir, o bicheiro de que vamos incetar o estudo, é a ulcera verminosa devida ao parasitismo de certas larvas da classe dos dipteros, tendo ^em geral, a fórma circular, de borflos mais ou menos engurgitados e talhados a pique, com cheiro característico e da qual corre constantemente um liquido sanioso, devido ao trabalho destruidor das larvas que a enchem totalmente, e alli se vêem em mo-
+
+vimento qnasi constante, ETIOLOGIA Causas predisponentes. -As constituições fracas e depaupe- radas, o lymphatismo, as diatheses scrophulosas, herpeticas ou ^yphiliticas, acompanhadas frequentemente de ulcerações e corri- mentos anormaes e de máo cheiro nas cavidades olfativas, o pauperismo e a condição do escravo muitas vezes maltratado, sem lazeres para os cuidados de asseio, com alimentação insufficiente, quer se a considere como de má qualidade ou diminuta, quer na desproporção entre o trabalho exigido e o repouso e alimentos concedidos, trazendo ã fatiga, a indolência, o somno forçado durante o dia e a falta de asseio obrigado ou próprio dessas classes desgraçadas, são outras tan- tas causas que predispõem á aífecção parasitaria As affecções inflammatorias ou ulcerosas de qualquer género do ca.nal olfativo, mesmo as traumáticas, não devem ser olvidadas no inventario dessas causas, devendo, a propósito destas ultimas, ponderar, como o tem observado um dos práticos mais distinctos que illustra a corpora^jão medica de nossa provincia, o nosso col- lega e particular amigo Dr. João Nogueira Penido, que a mosca varegeira nunca deposita seus óvulos sobre as feridas sangrentas e sim sobre ns crostas ou quando já suppurantes. As affecções typlioideas e todas aquellas que trazem somno comatoso e oxlialaçôes mais ou menos fétidas, predispõem do mesmo modo ao bicheiro, nao só attrahindo a moacci como pela impossibilidade de impedir que penetre nas cavidades orgânicas qu(í se communicào com o extei'ior, lím contrario do que asseveram os práticos antigos, a nossa estatística pessoal demonstra que o sexo masculino muito mais Irequentemente affectado do Myasis. Em mais de 5 0 casos que temoííi observado, só dous se referem a mulheres. Não vemos, porém, neste facto uma influencia sexual e sim a circumstancia de sei-o
+
+homem, pela natureza de seus trabalhos, muito mais exposto á fatiga, a andar «pelos mattos, a dormir durante o <lia A sombra do ar- voredo.
+
+Os climas quentes tão ricos em espécies do género a que é devido o bicheiro^como as estações mais cálidas do anno em que é mais activa a fecui^dação desses insectos, são duas causas que não podemos deixar de apontar enti e os predisponentes á n ífecção parasitaria de que tratamos Causas occasionaes.-~A causa occasional única, a causa sp/te i/ua non do bicheiro, é o deposito dos o vidos da mosca varegeiro ou de outras espécies, sobre a pelle ou sobre a mucosa do homem (til dos outros animaes, quer seja elle feito directamente pela mosca (como acreditamos que é quasi sempre) quer seja por outro mechaiiismo, caso se admitta a explicação dos autores antigos.
+
+Attrahida pelo máo cheiro que em geral acompanha a ozena ou qualquer outra affecção ulcerosa das fossas nazaes, a mosca pousa sobre os bordos da venta ou penetra mais ou menos profunda- mente no canal olfactivo, prevalecendo-se do somno do paciente V ahi deposita os óvulos que rapidamente se transformão em larvas (querem alguns observadores que a mosca seja ovi-vivipara, que o primeiro deposito seja de larvas e os subsequentes ainda de ovos) começando logo estas seu trabalho de alimentação em detrimento dos tecidos orgânicos de que se nutrem, e é então que apparece o cortejo de symptoma^que revela sua existência ou que induz ao erro de diagnostico o medico desprevenido.
+
+Cabe aqui uma ([uestâo prelimintu" : Deposita sempre a niosca ams óvulos no boido da venta e desenvolvida a larva marclia tília então para a parte supeiior das fossas nazaes onde as mais das vezes reside o bicheiro, ou penetra ella no canal oltativo até essa reg-iào para lá fazer a sua postura ? Muitos coUegas, <3om quem temos conversado a respeito, sustentam aquella opinião ; nós, poréni. sem negarmos de um modo absoluto aquelle mechanismo, cre- mos que o deposito é. pelo menos no maior numero de casos, directa- mente feito na região em que reside o bicheiro, não se deslocando a larva do lugar onde foram depositados os óvulos senão pelo progresso de destruição concêntrica dos tecidos. Se a larva só depois da eclosão dos óvulos depositados nos bordos dos orifícios exter- nos das fossas nazaes, caminhassem em deu i anda das regiões superiores, ou para fugir á luz ou em busca de ulcerações cuja séde mais commum é nessas regiões, o paciente não deixaria dc accusar a sensação de cocega que necessariamente produziria esse movimento ascensional das larvas em grande numero, como excitada a mem- brana pituitária por sensação desusada, o phenomeiio reflexo do espirro não deixaria de manifestar-se com expulsão do verme, levelando o bicheiro pelo seu symptoma pathognomonico, desde o começo ; ora^justamente, jamais colhemos essas informações, embora as tenhamos procurado, e a expulsão ou queda das larvas só se dá espontaneamente ou no phenomeno do vomito ou do espirro provocado, quando em geral tem ella attingido seu maior desenvolvimento, e sendo este o symptoma de maior importância do myases, é em geral o ultimo a revelar-se . No já não pequeno juimero de bicheiros que temos observado, só uma vez o encontra- mos no plano inferior ou forro das fossas nazaes e naturalmente porque a mosca ahi achou ulceração em que foi beber e onde depositou a sua ninhada; alem disso o bicheiro é o apanágio dos negros preguiçosos, pouco asseados, adoentados e dorminhocos e raramente se deixa de colher esta informação : o paciente dormio durante o dia ou no campo, ou no matto ou mesmo em casa, e com esta particularidade por nós observada, nos escravos, o bicheiro revela-se nos primeiros dias da semana, precedidos do Domingo em que descansaram e puderam entregar-se ao somno diurno ; ora nada se oppõe a que durante o somno^em geral pesado, desses desgraçados, a mosca penetre no canal olfativo e vá em busca da lesão de máo cheiro da mucosa ás regiões mais elevadas e recônditas.
+
+Estas considerações nos pareciam base sufficiente para a opinião que defendíamos, de que a mosca deposita os óvulos directamente no lugar em que se desenvolve o bicheiro, porem depois de escriptas estas linhas entretivemo-nos a respeito com o nosso illustrado collega Sr. Visconde de Prados, que enxerga as causas diversa- mente, ou pelo menos entende que fomos por demais absolutos; pensa o collega que a mosca não carece ir depositar sua ninhada no lugar preciso em que se fórma o bicheiro, encontra mesmo no seu volume um obstáculo a que ella penetra alem da entrada do meato médio, mormente havendo qualquer engurgitamento da mucosa como nos casos de lezôes suppurantes que attrahiam a mosca acredita também pelo símile, com a larva do cuter^ebra -cyani-ventris que desde a eclosão do ovulo^penetra na pelle sem ser presentido, que a larva da musca carnaria logo depois da eclosão dos ovos pôde, ainda ténue como é, marchar em busca das regiões elevadas das fossas nazaes, sem ser presentida pelo paciente.
+
+Nosso fim sendo buscar esclarecimentos e respeitando como res- peitamos o critério scientitico do nosso illustrado collega, mormente em assumptos de sciencias naturaes, consignamos com prazer suas ponderações S]ÍDE. -Do que acabamos de dizer e qualquer que seja o mechanismo por que penetra a* larva, deprehende=se que o bicheiro tem, em geral, sua séde nas partes superiores das fossas nazaef;, meato raedio e talvez cavidades que uelle se abre m, meato superior ou abobada olfactiva É sobre a mucosa que reveste essas regiões, e cremos que mais especialmente a da lamina crivada do ethmoide que na grande generalidade dos casos reside a affecção parasitaria e dahi pro- vavelmente essa tendência para o somno, esse estado coma tono mesmo que acompanha ás mais das vezes o myasis das foHsan nazaes. Nunca tivemos occasião de autopsiar indivíduos aííectados do bicheiro, não podemos, pois, asseverar de um modo absoluto <* que acabamos de avançar, porém esses symptomas cerebraes (que não existiam no caso em que a affecção occupava o forro das fossas nazaes) e a circumstancia de se nào poder senão mui raramente attingir com a vista o bicheiro, nos leva a esse asserto.
+
+Communicando"Se os seios frontaes e maxilares com o meato médio, devemos ao menos theoricamente, e emquanto factos posi - tivos o não confirmam, admittir que o bicheiro se possa dar ou primitivamente (?) ou por extensão do trabalho destruidor da larva, nessas cavidades ou mesmo nas cellulas ethmoidaes, tanto mais que tratando dos corpos estranhos situados nos seios frontaes, cita Boyer, (*) sem commental-os, os seguintes factos, cuja transcripção, vamos fazer textual e integralmente, pela veneração que nos merece um dos maiores nomes da sciencia e da pratica cirurgical, embora ahi se envolva symptomatologia e tratamento, anticipando assim outra parte deste nosso trabalho. <r Parmi les corps étrangers qui peiívent se former et croítre dans les sinus frontaux, les vers sont ceux qu on a observé le plus souvent. On cite un grand nombre d' exemples de pei-sonnes qui ont rendu des vers par le nez après avoir éprouvé des accideuts qui ne permettaient pas de douter que ces vers ue se fusseiit développés dautí les siiius írontaux (*) . 11 est probable, sui- vaiit Salzmann, que les oeufs aiixquels ces vers doivent leur origina' entrent avec l'air par les narines . 11 pense que (i'est particulièrement en respirant Todeur des íieurs et des fruits que ces oeufs depo- Bés sur ces végétaux sont portes jusque dans les sinus.
+
+Ce qui peut ajouter quelqae poids à cette conjecture, c'est que len íemmes, qui portent plus habituellement sur elles des fleui's, sont bieii plus souvent aitectées de cette maladie que les hommes.
+
+La présence des vers dans les sinus fronteaux, donne lieu à des symptômes fort remarquables, mais qui ressemblent tellenient à ceux muqueuse est trèa abondante. Quelqiies malades éprouvent des éterniie- ments fréquents et un besoin de se gratter le nez ; quelques uns portent sans cessile doigt dans les narines ; d'autres salivent abondamment ; d'autres onfin sont tourmentés par une odeur fétide, Cette maladie est d'autant plus facheuse qu'elle dure tant que les vers sont dans les sinus ; l'art n"a d'aillenrs aucun moyen efíicace de hâter leur sortie. Les errhins, les sternutatoires sont souvent impuis- sants ; cependant il faiit y avoir recours et y revenir lors même qu'ilsi ont été infructueux. La térébration des sinus frontaux serait un mojen assuré de les débarasser de ces vers, mais Tincertitude du diagnostic, éloignera toujours un chirurgien prudent d'entí'eprendre cette opération. » embora não possamos comprehender que um verme que não tem hábitos parazitarios e carniceií^os se desenvolvesse no organismo e ahi produzisse as desordens citadas ; porém, no ultimo facto de Bayoux, cujo verme parece ser a larva dos dipteros de que tratamosq ue buscais^os tecidos orgânicos em decomposição e que Bayoux acredita qae sua doente contrahio bebendo a agua estagnada em que momentos antes beberam carneiros, crêmos que o mechanismo de sua iutroducção nas fossas nazaes oâo foi o indicado e sim o que assigna lámos.
+
+Não está também para nós provado que sua séde fossem os seios írontaes, parecendo mais provável que se tratasse de um bicheiro do canal olfativo propriamente dito, pela facilidade mesmo da expulsão das larvas.
+
+É verdade que o autor da observação compara esses vermes com 06 que se encontram nos seios frontaes das ovelhas, porém Beugnot, no seu tratado de veterinária (*) fallando do verme dos Dipteros que ataca a raça lanigera ( CEustres du nez) dá sua séde nas cornei ase não nos seios frontaes.
+
+Lesões anatómicas. -Consistem estas na destruição dos tecidos moUes de que se nutre o verme, como também do tecido ósseo, o que nos parece hoje indubitável. Esta destruição progride concentricamente ; os óvulos são deposi- tados,juntos,em pontos limitados e.pelo desenvolvimento e alimentação da larva, vai-se alargando e profundand.) a solução de continuidade periphericamente, de sorte que a ulcera verminosa conserva quasi sempre a fórma regularmente circular. Esta ulcera, quando occu- pada pelas larvas, teui uui aspecto singular ; as larvas collocadas parallelamente umas ás outras, mas no sentido perpendicui ar á superfície da ulcera e muito unidas entre si, só são vistas por sua (*) Maisnn Ruatique du xrx sièele T, 2", pag. 344 extremidade posterior, coBstituindo uma espécie de pavimento em constante oscillação.
+
+Nâo temos tido occasião de verificar no homem se os tecidos mais resistentes, como os tendões ou mesmo as túnicas arteriaes sâo respei- tadas pelos vermes; acreditauios, entretanto, que o sejam, porque nos animaes temos observado, mais de uma vez, a destruição dos tecidos molles, respeitando os tendões, e também o cordão umbilical nos bezerros; mas quanto a outros tecidos qne parecerião dever ser poupados, como as cartilagens e os ossos, podemos asseverar que o não são, levando o verme de vencida todos os que encontra, diante de si.
+
+É assim que já vimos uma vez, e nos assevci'am collegas o haverem observado, destruido o septura cartilaginoso das fossas nazaes e aberta franca communicação entre as duas ventas, como tivemos occasião de observar uma vez a destruição óssea da abobada palatina, commu- nicando-se as fossas nazaes com a bocca por larga abertura, que comprehendia véo e ossos palatinos, abobada palatina em sua totali- dade, até á base alveolar, e bastante larga a, abertura, para deixar passar atravez o index.
+
+Este primeiro facto deixou-nos alguma perplexidade no espirito, e perguntamo-nos se não haveria alli ausenoia de sutura média con- génita ou um trabalho ulceroso anterior de natureza diversa ; porém, tratava-se justamente de uma mulher preta, robusta, de 22 anno!< mais ou menos, e que dias antes gozava de perfeita saúde e não apresentava lesão alguma do véo e abobada palatina, tendo a voz normal e sem o som nazal próprio a essas lesões orgânicas. Poste- riormente communicaram-nos os nossos distinctos collegas e amigos, Srs. Visconde de Prados e Dr. Romualdo C. de Miranda Ribeiro factos idênticos por elles observados, de destruição vasta da abobada, no caso do Sr. Visconde de Prados, e de perfuração na sua parte média, no do Dr. Romualdo. Temos de memoria factos que verbalmente nos foram communi- -14cados por outros coUegas, de perda de doentes (infelizmente sem autopsia) pela affecção parasitaria, succumbindo elles sempre com syniptomas de affecçôes cerebraes graves
+
+; ora, não seria para crêr, que nestes casos houvesse destruição ou perfuração da lamina crivada e penetração do verme na cavidade craneana? É verdade que o nosao collega Sr. Dr. Penido admitte a possibilidade da penetração do verme pelos orifícios normaes da lamina ethnoidal, considerando a elasticidade de que é dotada a larva, porém, nós não acompanhamos o collega nessa liypothese, e, uma vez reconhecida a destrui- ção do tecido ósseo pelos vermes, parece-nos mais natural que vençam o obstáculo pela destruição.
+
+Como já dissemos, temos visto nos vitellos, em que o bicheiro umbilical é muito comnmm, que a larva respeita as túnicas dos vasos do cordão, porém não succede o mesmo com as arteriolas que são destruidas, donde resultão as vezes pequenas hemorrhagias e sempre corrimento de matéria saniosa,
+
+### SYMPTOMAvS
+Queixa-se o doente de feiToadas e comichão dolorosa na parte superior ( caso mais commum ) do;^fossas nazaes, de cephalalgia as mais das vezes frontaes , algumas outras generalisadas , de sensação de pezo de cabeça., com tendência para o somno, preguiça intellectual, respondendo demoradamente ás perguntas que se lhe dirige, algurnas vezes verdadeiro estado comatoso ou de carus, e dizem alguns collegas que delirio manso e gemebundo, e mesmo, como asseverâo os autores citados por Boyer, delirio maníaco e furioso (nunca os observámos) ; algumas vezes agita- ção e movimentos inconscientes mesmo no estado de somno- lencia, faltando , porém , todos estes symptomas cerebraes no -i5 -CHSO em que o bicheiro tem sua séde no plano interior ou forro das íossatí nazaes, como no caso já citado e por nós observado.
+
+Reacção febril mais ou menos intensa. Corrimento, na grande generalidade dos casos, de matéria saniosa pelos orifícios externos do canal olfetivo, e, muitas outras pelos posteriores, fazendo com que o doente escarre frequentemente, e apresente escarros sanguinolentos que cobrem a lingua de inducto de apparencia saburral ou tenha frequentes movimentos de deglutição ; algumas vezes verdadeiro estado saburral da lingua. Muitas vezes junta-se a isto intumescência da parte superior da face, simulando a intumescência erysipelatosa, rubor dos olhos e lacrimej amento. Das fossas nasaes emana cheiro óuí generis e que se pôde dizer carateristico, de carne em putrefacção . Por fim o verdadeiro symptoma patognomonico, a queda da lar- va espontânea ou provocada, ou a vista do bicheiro, quando situado em região acces?^ivel á inspecção ocular.
+
+Em geral, quando o medico é consultado, já todo este cortejo de symptomas está em acção, faltando, porém, ás mais das vezes a queda da larva que é o ultimo a revelar-se e pôde mesmo faltar durante a vida, ou mesmo antes de sepultar-se o cadáver, como estamos dispostos a crêr que se deu uma vez em nossa pratica. 8eria este o caso da localisaçâo nos seios frontaes ? Não ousamos affirmal-o, porém encontramos razoes para essa supposiçâo.
+
+Cousa digna de attenção, no já não pequeno numero de casos por nós observados, ainda não encontrámos o espirro entre os symptomas, entretanto que pareceria natural esse plienomeno reflexo, tão frequente 110 titilamento da membrana olfativa^em presença de um insecto em quaai constante movimento no seu trabalho destruidor. É elle, porém, citado pelos autores ii que já no^referimos e uâo o olvidaremos.
+
+DIAaNOSTICO E PROGNOSTICO Em gemi, para o medico que h^Mta ob centros ruraes ou ~i8doente <j[iicisi inoribunda com febre inteusissiiija, ventre tyinpaníco, onde se mauifestavcim fortes dores espontâneas, muita sensibilidade á apalpaçáo e alg'uni derrame ; estese e outros symptomas precedidos dias antes de exposição á copiosa cliuva durante o somno da intemperança, justificavam o juizo diagnostico que fez o collega de uma metro peritonite. A falta de commodo e a imraundicia em que esta- va merguUiada a desgraçada foram i-emediados a pedido do hu- manitário collegii, pela caridade de uma vizinha que, mettendo a infeliz em um banho, veio depois communicar ao medico o facto de ter encontrado na agua do baidio grande copia de larvas, que attribuia á falta de asseio da desgraçada. Esta connnunicaçáo des- pertou a attenção do collega, que fez examinar a doente encontrando um vasto bicheiro que liavia transformado vagina e recto em vasta cloaca, com destruição completa daquella c tecidos clr- cumviziídios ! A pobre nmlher succumbio ás graves lesões de que foi victima e com certeza, por ter sido desconhecida em tempo a verdadeira moléstia.
+
+Seja-nos permittido citar ainda um facto de nossa clinica ou que o diagnostico não foi comprovado pelo symptoma patlioguo- monico, não tendo também havido exame cadavérico, mas ([ue noó deixou a convicção de que não se tratava de outra atfecção.
+
+Fomos no começo deste anuo chamado a ver um doente na fazenda do Sr. Ed. O, de Mendonça, que apresentava os symptomas que se seguem : tebre nunto intensa, cephalalgia frontal, estado de somnolencia quasl comatosa, com difficuldade se despertava o doente para dar uma resposta, e caliir logo no letiiargo que era ao mesmo tempo acompanhado de agitação e movimentos inconscien- tes, o doente atirava os braços desordenadamente, havia corrimento abundante de sanie por ambas as ventas. Tudo isto datando de tres <iias, e havendo apenas como phenomeno prodromico, ter o doente, que era homem de cincoenta e tantos ânuos, e aliás robusto e de boa saúdo, se queixado de pezo de cabeça dous dias antes.
+
+Assim pois, fácil am gevRÍ, p6de o fliag-nostico do hicheiro deixar duvida no espirito do medico e reclamar algum cuida 1o para o diagnostico differencial, de c iaiifoi-midadip cora outros estados patholo- gicos. Estabelecido este, raramente deixaremos de attingir o nosso principal desideratum. Para comproval-o vamos passar em revista as affecções que por sua séde ou por sua symptomatologia têm afinidades com as aífecções parasitarias das fossas nasaes. a i-eacção febril , e o estado mais ou menos comatoso, poden- do-se apenas dar o prurido nas ulcerações herpeticas e as dores lancinantes nas cancerosas.
+
+E verdade que em geral o bicheiro é uma complicação dessas affecçôes e póde~se mesmo dizer que. são a causa mais próxima delles pela attracção que seu clieiro exerce sobre a mosca varegeirap orém incrementão-se então immediataiiiente os symptomas que tomão a feição própria á moléstia parasitaria.
+
+Ospolypos molles, de pequeno volume e que por isso ou pela sua séde não se revelassem logo á vista, podem trazer secreção anor- mal, mas não são em geral saniosos, como em algumas ulcerações, senão quando tocados por corpo estranho, são também de mar- cha chronica, faltando-llies as ferrotoadas, o prurido especial, a febre, a cephalalgia e outros symptomas cerebraes, alem de serem accessiveis a uma exploração mais minuciosa.
+
+As affecçôes dos seios frontaes (inflammação, abcessos, polypos) trazem, algumas, a dor frontal, mas essa é então mais localisada ao ponto de juncção do coronal com os ossos próprios ou ao ponto de juncção das ai'cadas superciliares e não têm o caracter da cephalea, e as dores lancinantes dos abscessos não pódem ser confundidas com as ferroadas devidas á mordedura da larva ; é verdade que tratando-se em geral no bicheiro de doentes da classe baixa e de negros pouco intelligentes, essas distincções não seriam fáceis, mas falta também nestes casos o corrimento sanioso quasi constante do bicheiro (sempre o encontrámos, porém o nosso coUega Sr. Dr. Penido nos diz ter observado um caso de mjasis bem averiguado e em que faltava o corrimento) e com seus caracteres próprios, alem da ausência dos symptomas cerebraes, tão communs no bicheiro.
+
+As aífecções da mesma natureza dos seios maxillares estão no mesmo caso, e os phenomenos mórbidos passam-se nas partes lateraes da face.
+
+Nao fallnremos das afifecçoes cerebraes, porque se no myasis das fossas nasaes dão-se symptomas idênticos aos de algumas delias, faltam a estas oulros muito especiaes ao bicheiro^e quanto ás affecções typhoideas, embora o bicheiro as compli(jue algumas vezes, como em um caso que nos citou o Sr. Visconde de Prados e possa por algum tempo passar desapercebido, sens caracteres próprios o revelaram sempre, sendo que a confusão, como no caso referido de erro de diag- nose de nossa parte, por analogia de symptomas, será evitada todas as vezes que o exame for attento e minucioso, como convém, e que nos não approximemos do leito do doente com juizo prévio.
+
+Tudo isto, bem entendido, só emquanto o symptoma patliognomo- nico não se revela, porque á vista da larva, todas as duvidas de»- apparecem Não se deve, pois, nos casos duvidosos, negligenciar os meios ao mesmo tempo tlierapeuticos e exploradores com o íim de conseguir essa revelação, como sejão os esternutatorios, as fumigações e injec- ções aromáticas e excitantes que podem concorrer para o diagnostico, trazendo algumas vezes a queda da larva Como se vê, o diagnostico do bicheiro das fossas nasaes (' em geral fácil, e poucas vezes offerece difficuldades que podem ser entretanto superadas j)or um exame cuidadoso, pois que seus carac- teres diíferenciaes têm feição muito especial.
+
+O prognostico do myasis do canal olfativo é, na grande maioria dos casos, favorável . Morta ou eliminada a larva, cessam todas as manifestações syniptomaticas e o doente volta rapidamente a seu estado normal. Algumas vezes, porém, ou por erro de diaonostico, ou porque complique «uitra afPecção que desvie a attenção do medico, ou por insufficiencia de tratamento, ou porque, emfim, tarde é con- sultado o facultativo, o doente pôde ser victima desta aíFecção, e, neste caso, acreditamos podel-o aiíirmar, trata,r-se-ha sempre do hicJmro da abobada olfativa, cujas relações com as meningeas dão á sua affecção manifestações cerebraes de caracter grave.
+
+### TRATAMENTO
+As indicações tlierapeuticaB cUi affecçâo parasitaria, de que tra- tamos, são: 1", matar ou expellir a larva ; 2", cuidar dos meioH de facilitar a reparação da lesão orgânica Para preencher a primeií a indicação, servem todos os parasiticidas que não tenlião também acção nociva ao org'ão affectado ou ao orga- nismo em geral . Seja. porem, qual for o meio indicado, a sua applica- ção reclama cuidados, e é sobre ella que desejamos chamar a attençâo dos que ainda não tiverão occasião de tratar o parasitismo do homem.
+
+Não é para nós indifferente a fórma do medicamento. Os meios pulverulentos são de applicação diíficil, liumectados como são logo pela sanie e secreções nasaes então mais abundantes . Entretanto, não devem ser olvidados, e muitos práticos os empregão de preferencia, e dizem que com vantagem ; em todo o caso ao menos como meio ester- mitatorio, é lógico o seu emprego, e então o tabaco em pó associado á camphora, e mesmo aos calomelanos, devem ser os preferidos.
+
+As fumigações de plantas aromáticas, de camphora e outras, conjo a aspiração de medicamentos voláteis, como a ammonea, tem sua razão de ser, embora nos casos do bicheiro da abobada olfativa, onde o canal mais estreito pôde ser obstriddo pelo engurgitamento local ou por detrictos da lesão orgânica, elles possao não attingir a larva, passando para a bocca posterior.
+
+Restam os medicamentos sólidos e liquidos, e são estes justamente a que damos a preferencia, por consideral-os de Uiais fácil applicação c de resultadors mais segui'os. São as mechas os medicamentos sólidos a que nos referimos, (juer sejam ellas de fumo em íollia, quer sejam de tios impregnados de medicai) ieiitos liquidos ou cobertos de medica - mentos pulverulentos. O fumo em forma de mecha é um meio muito eífícaz, pôde ser levado até ás regiões mais elevadas e a larva é muito sensível ao seu contacto.
+
+Emfim a fórma liquida é a mais efíicaz a nosso ver, aquella que por meio de qualquer seringa pôde ser levada a todos os pontos das fossas nasaes ou mesmo dos seios frontaes» ou. maxillares. Têm porém as injecções um grave inconveniente, o da sua passagem para a bocca posterior e da deglutição de substancias toxicas pelo paciente e é para obviar esse inconveniente que aconselluimos aquillo que mais de uma vez temos praticado com feliz êxito, quando o bicheiro nao é accessivel á vista e nâo se pôde levar directamente a elle os calomelanos . Referimo-nos á obstrucção dos orifícios posteriores das fossas nasaes por meio da sonda de Belloc e do tampão de fios.
+
+Pôde-se então actuar com toda a energia sobre o verme, sem perigo para o doente.
+
+Os meios m iis geralmente euipregados e que, em geral, bastam para conseguir o fim que se tem em vista, são a iuíuzão de tabaco (fumo em rôlo) mais ou menos concentrada, a agua phenicada, o sueco da herva de Santa Maria (Chenopodiíim Ambrorioides)^podendo se lançar mão do sublimado em solução ou de todo outro insec- ticida solúvel ou em suspensão Não é também para nôs totalmente indiffe rente matar ou excitar apenas o veime, môrmente nos casos em que o bicheiro não é accessi- vel á vista, ou em que haja probabilidade de ter a sua séde em algum dotí seios dos ossos do craneo ou da face. Preferimos então aquelles que não matam logo as larvas e apenos as incommodam bastante, para forçal-as a deslocarem-se da solução de continuidade e por si venham a cahir pelas ventas no seu andar desordenado.
+
+Admittida a existência do bicheiro nos seios froutaes ou maxillares, esta preferencia tem máxima importância, porque mortosalli os vermes, só pela decomposição poderiam ser eliminados, quando não formassem nessas cavidades collecções purulentas.
+
+Por esta razão é sempre a infusão de tabaco a que recorremos de _ -2^p ieferencia ; o verme embora venlia a suecumbir á sua acção, mani- festa antes desse resultado grande incommodo, abandona logo a ulcera e move-se desordenadamente em todos os sentidos.
+
+Nâo terminaremos o que nos resta a dizer sobre o tratamento, Bem íallar em um meio muito preconisado pelo vulgo na provincia de Minas e que nos foi comraunicado por jjessoa intelligente e fidedigna, asseverando têl-o empregado com feliz êxito. Duas laminas de chumbo são cobertas em uma de suas faces, de uma camada de mer- cúrio metallico, por fricção, e são applicadas estas faces ás duas têmporas ou á fronte do paciente.
+
+Uma ou duashoras depois, assevera-nos o nosso informante, começam a cahir as larvas.
+
+Não enxergamos neste facto, senão a acção da electricidade, representando essas laminas de metaes superpostos, pilhas seccas que estabeleçam entre si correntes eléctricas, cuja acção, mesmo sobre os animaes das classes inferiores, não é duvidosa. Mais de uma vez temos feito a experiência de submetter o verme terrestre á acção de cor- rentes eléctricas e observado que presas a principio de movi- mentos desordenados, succumbem rapidamente a essa influencia, e a propósito delia seja-nos permittido citar um facto relativo a essa acção sobre os annelides, apezar de não se referir directamente ao assumpto de que tratamos, embora com alguma ligação a elle por se tratar tam- bém de um animal parasita do b ornem A senhora de um de nossos distinctos collegas, softria ha mui- tos annos perturbações graves de innervação , mórmente gástrica devidos á presença da solitária, sendo o vomito incoersivel o symptoma que mais fatigava á doente, a ponto de não tolerar mais medi- camento ou alimento algum, de sorte que havia chegado a pobre senhora ao ultimo gráo de marasmo.
+
+Nestas circumstancias, consultado pelo collega, aconselhamos uma tentativa do emprego da electricidade, introduzindo um dos i-heopbo- ros do apparelhu de Khunkorf ao anus, e applicando outro sobre as partes antero lateraes do pescoço, ou ao uivei mais ou menos do buraco despedaçado, para actuar mais ou menos directamente sobre o pneumo-gastrico.
+
+Mais prudente do que nós, e arreceiando-se o ool lega desta ultima indicação, contentou-se em applicar o primeiro rheoplioro no ponto indicado e a passear o segundo pela região epigastrica e paredes do ventre Debaixo da influencia dessa corrente eléctrica, desenvolveram-se tumores hemorrhoidarios volumosos, que fizeram renunciar á applica- ção nesse ponto ; porém, nesse dia deitou a doente 50 centimetros mais ou menos do verme, e nos dias posteriores em que as correntes foram apenas estabelecidas entre a espinha e as paredes do ventre, ou entre o epigastro e outros pontos delias, a doente deitou successi- vaniente pedaços, cuja somnia pode-se calcular talvez em 1 metro e 50 centimetros, começando a senhora a tolerar alguns alimentos, e chegando ao estado de tolerar o vermicida, que trouxe por íim a ex- pulsão do verme em totalidade, e voltando a estado muito lisongeiro de saúde.
+
+Cremos que não se pode pôr em duvida a acção da electricidade neste facto, de natureza a acoroçoar tentativas no mesmo terreno, como o facto do emprego das laminas de chumbo hydrargiradas, applica- das com successo para determinar a queda das larvas do» dipteros (admittida a interpretação que lhe damos) aconselha o emprego das correntes eléctricas como meio do tratamento do bicheiro das fossas nasaes Infelizmente não tivemos ainda oc atiião de fazer essa apphcaçào, e nem tão pouco de verifioar até que ponto é real a acção das laminas hydrargiradas.
+
+Pouco temos a dizer sobre a segunda indicação therapeutica. Sim- ples são os meios empregados para facilitar a reparação das lesões orgânicas. Lavatórios adstringentes, aromáticos e anti-septicos, ou re- parações autoplasticas nos casos de necessidade.
+
+-tl -
+
+Torminamos aqui o que podíamos dizer sobre a aflPecção parasi- taria das fossas nasaes, e como já o dissemos , a rapidez com quet raçámos estas linhas, nos inhibem de meliior documental-as com boas observações ou com factos experimentaes e estudos que esclarecessem alguns pontos obscuros do parasitismo do homem. Nestas mesmas circumstancias baseamos a esperança da indulgência com que desejávamos fosse acolhido este nosso paupérrimo tra- balho, e pelos nossos juizes, e pelos collegas que nos fizerem o favor de o lêr PROPOSIÇÕES PHYSICA EM GERAL E PARTICULARMENTE AS SUAS APPLICAÇOES i MEDICINA A massa multiplicada pelo quadrado da celeridade, dá a medida da força. CHIMICA MINERAL O nitrato de prata é precipitado em combinações insolúveis pela albumina e pelos chloruretos ;
+
+propriedades estas de máxima im- portância para alguns de seus usos therapeuticos.
+
+### MINERALOGIA
+Nos corpos crystallisados, a conductabilidade do calor não é a mesma em todos os sentidos ; ella está em relação com os eixos de symetria cryetallina ANATOMIA DESORIPTIVA O útero é arterializado poi-um ramo da iliaca interna ou hypo_ gástrica, pela artéria útero-ovariana, cpie tem muitas vezes tronco coram um com a renal, e que substitue a spermatica do homem, e por um pequeno ramo da epig-astrica.
+
+-80 -ZOOLOGIA Os helrninthos fornecem a mór parte das espécies parasitarias do homem.
+
+### BOTÂNICA
+A distribuição das folhas sobre o caule das plantas não se faz irregularmente, " mas segundo leis cyclicas constantes.
+
+### CHIMICA ORGÂNICA
+A theina, a cafeina e a theobromina, princípios activos do chá, do café e do cacáu, têm composição idêntica (C^H^Az^O^) e é o principio orgânico mais azotado depois da ui'éa, PHYSIOLOaiA.
+
+Os phenomenos chimicos da digestão podem ser assim resumidos : A saliva dissolve os principios amilaceos(transformando-os f^em glycose); o sueco gástrico, as substancias albuminóides, o sueco pancreatico emulei ona, (talvez concurrentemente com a bile) as substancias graxas, compartilhando o sueco intestinal, embora mais fracamente, todas estas acções.
+
+### ANATOMIA GERAL
+Os spermatosoides são verdadeiras cellulas epitelíaes dotadas de movimentos apparentes e com fórma especial que os fez collocar por muito tempo entre os animaes infusorios.
+
+### ANATOMIA PATHOLOGICA
+Os exsudatos constituem o caracter distinctivo entre as iuflam- mações, a que pertencem, e congestões de um órgão.
+
+### PATHOLOGIA GERAL
+A hereditariedade predisponente ou mesmo a hereditariedade mór- bida, com excepção talvez só das affecçôes parasitarias da pelle, é uma lei muito constante de physiologia patliologica.
+
+### PATHOLOGIA EXTERNA
+O onyxis ou mais particularmente as ulcerações que circumdào as unhas dos artelhos dos homens descalços, reinam muitas vezes na provincia de Minas, com caracter epidemico, variando sua the- rapeutica com a indole de cada epidemia, além das condições indi- viduaes.
+
+### PATHOLOGIA INTERNA
+Na grande generalidade dos casos, as lesões valvulares cardíacas sâo precedidas mais ou menos remotamente de rheumatií^mo articular agudo generalisado ou mesmo de artrites.
+
+### PARTOS
+Nem sempre a procedência da raao do foeto é indicio de apre- sentação de espádua.
+
+### MOLÉSTIAS DAS MULHERES PEJADAS
+As hemorrhagias uterinas durante a gravidez e que imo têm por causa violências externas, são, na grande maioria dos casos, devidas á inserção viciosa da placenta sobre o segmento inferior do útero ou mesmo sobre o oriíicio interno do collo MOLÉSTIAS DOS RECEM-NASCIDOS As ophthalmias purulentas dos recem-nascidos iém em g^víil sua etiologia no contagio durante a sua migração através do canal va - ginal materno. ANATOMIA TOPOaRAPHICA Passam Bob o ligamento de Poiípari o Jiuisculo psoas-ilíaco, a artéria, veia e nervo crural e os vasos lympbaticos. MEDICINA OPERATÓRIA O esmagamento linear combinado com a cauterisaçâo pel> gal- vano-canstico térmico, é o processo que se deve empregar de pre- ferencia nos casos de ablação de órgãos vasculares e onde a ligadura ordinária dos vasos não é fácil, como na língua, on de prod acções pathologicas pediculadas ou sangrentas, como os polypos, tumores hemorrboidarios, etc, etc.
+
+### APPARELHOS
+O apparelho de Scultet é de de grande importância pratica no periodo inflammatorio das fracturas dos membros com lesão das partes molles.
+
+### MATÉRIA MEDICA
+O curare extrahido da Strycimos-Toxifera (familia das Logania ceas) apresenta-se sob a fórma de extracto negro, duro e resinoso, de sabor amargo. Sua solução ou seu pó são pardacentos.
+
+### THERAPEUTICA
+Das propriedades chimicas que assignalámos ao nitrato de prata, deduz-se logicamente suas indicações como modificador preferivel nas affecções inflammatorias secretantes de órgãos delicados, como os olhos, por exemplo, sua acção sendo necessariamente limitada às superfícies que toca.
+
+### HYGIENE
+A importância das funcções da pelle no equilíbrio funccional do organismo em geral, dá-a mui grande ás abluçôes diárias d'agua fria, mormente nos paizes quentes, para a conservação da saúde; e Maliometh instituindo-as como preceito religioso no seu paiz, parece ter tido mais em vista a hygiene que a religião.
+
+HISTORIA DA MEDICINA Embora já empregada pelos antigos, é de data recente o recurso da tbermometria como elemente diagnostico de grande importância, sendo seus principaes vulgarisadores ; em França, os professores Bouilland, Andral e sobretudo, Jaccoud, na Allemanha, Baerensprung, Traube e Wunderlich, e no nosso paiz, o illustrado professor de Clinica Interna desta Faculdade.
+
+### MEDICINA LEGAL
+As manchas arsenicaes obtidas pelo apparelho de Marsh, são signaes importantes para determinar a presença desse corpo nas pesquizas toxicológicas PHARMACIA A glycerina é um dos excipientes que com mais vantagem se pôde empregar, quer para os medicamentos líquidos, quer para oa preparados sólidos e nestes casos é ao glyceroleo de amido a que se deve recorrer.
+
+### CLINICA EXTERNA
+A gravidade do prognostico das queimaduras está na razão directa de sua extensão e profundidade^mas sobretudo, em identidade de circumstancias, de sua extensão.
+
+-34 -
+
+CLINICA INTERNA Os bruidos de sopro cardíacos, tanto lee manifestão nas lesões orgânicas do coração, como no depauperamento do sangue. HIPPOCRATIS APHORISMI I Vita brevis^ars longa, occasio praeceps, experiência fallax, judicium difficile. -(Sect. I, apli. 1). II Cum quis omnia recta ratione facit, neque tamen pro ratione succedit, non est ad aliiid progrediendum, si manet quod ab initio visum est. -(Sect. II, aph. 52). III In quibusvis anni temporibus omnis generis morbi oriuntur nommlli tamen in qiiibusdam tum íiunt tnm excitantur . -(Sect. III, aph. 19). IV Sed et si pars qusepiam ante morbum laboraverit, in eam se morbus obíirmat. -(Sect. IV^, aph. 33). V Et qua corporis parte calor inest aut frigus ibi morbus est.-(Sect. IV, aph. 39). VI Qu83 medicamenta non sanant, ea ferrum sanat, quse ferrum non sanat, ea ignis sanat. Quse vero ignis non sanat, ea insanabilia reputare oportet. (Sect. VII, aph. 87). Esta tliese está conforme os estatutos. -Rio, 4 de Novembro de 1875.
+
+Dr. Caetano de Almeida.
+
+Dr. Joio Damasceno Peçanha da Silva, Dk. KoSSUTH VlNELLI.
+
+

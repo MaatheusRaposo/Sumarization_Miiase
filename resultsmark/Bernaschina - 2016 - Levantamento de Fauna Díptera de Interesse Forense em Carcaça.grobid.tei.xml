@@ -1,0 +1,1445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ao meu orientador Carlos José de Carvalho Pinto, pelo acolhimento e paciência durante o trabalho de conclusão de curso e por todo o apoio e dedicação ao curso de Ciências Biológicas noturno. Carlos, você é o caminho, a verdade e a vida! Obrigada! Ao meu pai, Carlos Alberto Torres, por me ajudar em quase todas as coletas no calor de trinta e poucos graus e por todo o companheirismo durante toda a graduação. Gracias Pa, te amo! Aos colegas do LTH, em especial à Mayara pela ajuda e paciência na identificação das moscas. À todas as amigas queridas que a Bio me trouxe para a vida. Especialmente Bruna, Cláudia, Isabela e Priscila que estiveram presentes em momentos mais importantes da vida acadêmica e também fora dela. Um agradecimento especial à Isabela pela ajuda a campo e no trabalho escrito. Muito obrigada, amiga! À todos os professores que fizeram parte desta trajetória na UFSC. Obrigada por todo o conhecimento! Agradeço também a todos os envolvidos que fizeram com que este trabalho pudesse se realizar: à FATMA que autorizou a pesquisa; à Estação Ecológicas de Carijós por ceder o local e atenção durante as coletas; à EPAGRI/CIRAM por fornecer os dados meteorológicos; ao porquinho e às mosquinhas. À minha mãe e minhas irmãs pela amizade e auxilio quando precisei. Las amo! Aos demais amigos e familiares que de alguma forma contribuíram com este trabalho e fizeram parte de minha jornada na UFSC e na vida. Muito obrigada!</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">José</forename><surname>Carlos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carvalho</forename><surname>De</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>Dr.</roleName><surname>Pinto</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> LAURA MELODY TORRES BERNASCHINA Levantamento de Fauna Díptera de Interesse Forense em Carcaça de Suíno em Ambiente de Restinga Arbórea em Florianópolis , Santa Catarina Trabalho de Conclusão de Curso submetido ao Centro de Ciências Biológicas da Universidade Federal de Santa Catarina para obtenção do Grau de Licenciada em Ciências Biológicas. Orientador: Dr . Carlos José de Carvalho Pinto Florianópolis 2016 LAURA MELODY</note>
+								<orgName type="department" key="dep1">TORRES BERNASCHINA Levantamento de Fauna Díptera de Interesse Forense em Carcaça de Suíno em Ambiente de Restinga Arbórea em Florianópolis</orgName>
+								<orgName type="department" key="dep2">Centro de Ciências Biológicas da</orgName>
+								<orgName type="department" key="dep3">obtenção do Grau de Licenciada em Ciências Biológicas. Orientador: Dr</orgName>
+								<orgName type="institution" key="instit1">LAURA MELODY</orgName>
+								<orgName type="institution" key="instit2">Santa Catarina</orgName>
+								<orgName type="institution" key="instit3">Universidade Federal de Santa Catarina para</orgName>
+								<address>
+									<addrLine>Carlos José de Carvalho Pinto Florianópolis 2016 LAURA MELODY</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">TORRES BERNASCHINA Levantamento de Fauna Díptera de Interesse Forense em Carcaça de Suíno em Ambiente de Restinga Arbórea em Florianópolis , Santa Catarina Este Trabalho de Conclusão de Curso foi julgado adequado para obtenção do Título de Licenciada em Ciências Biológicas. Florianópolis , 2016 .</note>
+								<orgName type="department">TORRES BERNASCHINA Levantamento de Fauna Díptera de Interesse Forense em Carcaça de Suíno em Ambiente de Restinga Arbórea em Florianópolis</orgName>
+								<orgName type="institution">Licenciada em Ciências Biológicas. Florianópolis</orgName>
+								<address>
+									<addrLine>Santa Catarina Este Trabalho</addrLine>
+									<postCode>2016</postCode>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Coordenador do TCC Universidade Federal de Santa Catarina Banca examinadora:</note>
+								<orgName type="institution">Coordenador do TCC Universidade Federal de Santa</orgName>
+								<address>
+									<settlement>Catarina Banca examinadora</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Orientador Universidade Federal de Santa Catarina Prof. Carlos Brisola Marcondes Universidade Federal de Santa Catarina Prof. Luiz Carlos de Pinho Universidade Federal de Santa Catarina</note>
+								<orgName type="institution">Orientador Universidade Federal de Santa Catarina Prof. Carlos Brisola Marcondes Universidade Federal de Santa Catarina Prof. Luiz Carlos de Pinho Universidade Federal de Santa Catarina</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ao meu orientador Carlos José de Carvalho Pinto, pelo acolhimento e paciência durante o trabalho de conclusão de curso e por todo o apoio e dedicação ao curso de Ciências Biológicas noturno. Carlos, você é o caminho, a verdade e a vida! Obrigada! Ao meu pai, Carlos Alberto Torres, por me ajudar em quase todas as coletas no calor de trinta e poucos graus e por todo o companheirismo durante toda a graduação. Gracias Pa, te amo! Aos colegas do LTH, em especial à Mayara pela ajuda e paciência na identificação das moscas. À todas as amigas queridas que a Bio me trouxe para a vida. Especialmente Bruna, Cláudia, Isabela e Priscila que estiveram presentes em momentos mais importantes da vida acadêmica e também fora dela. Um agradecimento especial à Isabela pela ajuda a campo e no trabalho escrito. Muito obrigada, amiga! À todos os professores que fizeram parte desta trajetória na UFSC. Obrigada por todo o conhecimento! Agradeço também a todos os envolvidos que fizeram com que este trabalho pudesse se realizar: à FATMA que autorizou a pesquisa; à Estação Ecológicas de Carijós por ceder o local e atenção durante as coletas; à EPAGRI/CIRAM por fornecer os dados meteorológicos; ao porquinho e às mosquinhas. À minha mãe e minhas irmãs pela amizade e auxilio quando precisei. Las amo! Aos demais amigos e familiares que de alguma forma contribuíram com este trabalho e fizeram parte de minha jornada na UFSC e na vida. Muito obrigada!</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">7F0686E305020E33D901E4BF220ED8B5</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESUMO</head><p>Entomologia forense é uma área da ciência que utiliza o conhecimento a respeito dos insetos em processos judiciais, auxiliando nas investigações de mortes não naturais e crimes. Sua principal aplicação é na estimativa do intervalo pós-morte (IPM) por meio do conhecimento da taxonomia e biologia das moscas. Com o intuito de conhecer a fauna de dípteros de interesse forense do Município de Florianópolis, uma carcaça de suíno (Sus scrofa) de 10 kgs foi exposta em uma área de restinga arbórea durante a estação do verão e observado o processo de decomposição até a sua esqueletização (fase de restos). A carcaça foi colocada em uma gaiola com uma armadilha Shannon para coleta de moscas adultas. Também foram coletadas larvas diretamente na carcaça a fim de conhecer as espécies que possam ser potencialmente utilizadas na estimativa do IPM. Foi coletado um total de 994 moscas adultas pertencentes a quinze famílias, onde predominaram Muscidae (27,06%), Sarcophagidae (23,90%) e Calliphoridae (23,74%) e dez larvas de Calliphoridae, sendo nove da espécie Chrysomya albiceps e uma Chrysomya putoria.</p><p>Palavras-chave: Entomologia Forense, Diptera, Moscas, IPM, Carcaça.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>LISTA DE FIGURAS</head><p>Figura 1 -A: Características do corpo das moscas: cabeça, tórax e abdômen. Detalhe para o balancim. Figura adaptada de <ref type="bibr" target="#b43">Storey (2011)</ref>. B: Cabeça de mosca, com detalhe para a antena. LISTA DE TABELAS Tabela 1 -Relação das famílias levantadas por dia de coleta, com a presença de imaturos* em experimento realizado com carcaça de suíno (Sus scrofa) na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. ................................................................................................ 34 Tabela 2 -Período do experimento, dias de duração, IPM e fases de decomposição. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. ................................................................................... 36 Tabela 3 -Estudos semelhantes com carcaças de suínos (Sus scrofa). . 38 Tabela 4 -Abundância (A), abundância relativa (AR) e riqueza das famílias de Diptera adulta coletadas em cada fase de decomposição em carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. ..................................................... 40 Tabela 5 -Abundância (A), abundância relativa (AR) e riqueza das espécies de Muscidae adulta coletadas em relação às fases de decomposição de carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. ...................... 43 Tabela 6 -Abundância (A), abundância relativa (AR) e riqueza das espécies de Calliphoridae adulta coletadas em relação às fases de decomposição de carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. ...................... 44 Tabela 7 -Riqueza, abundância e abundância relativa de Diptera por fase de decomposição. ........................................................................... 45 Tabela 8 -Constância das famílias de Diptera coletadas em carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. ..................................................... 47</p><p>Tabela 9 -Número de famílias de Diptera e número de adultos coletados em dois experimentos realizados em carcaças de suíno (Sus scrofa) na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. ............... 48 Tabela 10 -Fases de decomposição, duração em dias e abundância de moscas coletadas carcaças de suíno (Sus scrofa) durante os experimentos na estação do inverno em 2012 <ref type="bibr" target="#b27">(Juk, 2013)</ref>  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.1">Entomologia</head><p>Entomologia é o segmento da biologia que estuda os insetos, o grupo mais diversificado de todo o planeta, constituindo cerca de 60% de todos os organismos vivos existentes na terra <ref type="bibr" target="#b12">(Carvalho et al., 2012)</ref>. Os insetos são invertebrados pertencentes ao Filo Arthropoda, Superclasse Hexapoda e Classe Insecta, e caracterizados pela divisão do corpo em segmentos que se agrupam formando a cabeça, tórax e abdômen, por possuírem exoesqueleto quitinoso e três pares de pernas. Apesar de estas características unirem o grupo, existe uma variedade imensa tanto na morfologia quanto na ecologia destes animais, que os tornam aptos para habitar diversos ambientes <ref type="bibr" target="#b44">(Vanin, 2012)</ref>.</p><p>Segundo <ref type="bibr">Costa (2010)</ref>, o número de espécies descritas de insetos é estimado em quase um milhão, sendo que a estimativa para espécies existentes é entre dois e dez milhões. Insetos são animais de grande sucesso biológico, colonizando diversos hábitats da terra, água e ar, sendo predominantes no ambiente terrestre e representantes do táxon mais abundante e diverso <ref type="bibr">(Byrd e Castner, 2010)</ref>. Por isso são extremamente importantes, exercendo funções que influenciam no meio ambiente e na sociedade humana.</p><p>Insetos são essenciais para a manutenção dos ecossistemas, pois são os grandes responsáveis pela polinização das plantas, servem de alimento para diversos animais, decompõem a matéria orgânica e participam da ciclagem de nutrientes do solo <ref type="bibr" target="#b24">(Gomes, 2010)</ref>. Além disso, são fontes e/ou produzem substâncias de valor econômico, como corantes, mel, seda e princípios bioativos de interesse farmacêutico. São excelentes modelos para estudos científicos por seu tamanho pequeno e ciclo de vida curto, além de serem bons bioindicadores devido à sua capacidade de dispersão, dentre outras funcionalidades <ref type="bibr" target="#b40">(Rafael et al., 2012)</ref>. Há também o aspecto negativo dos insetos para o ser humano, pois podem transmitir ou causar doenças, tais como a febre amarela, malária, doença de Chagas e as miíases, além de algumas espécies serem grandes pragas agrícolas <ref type="bibr">(Costa, 2010)</ref>.</p><p>Atualmente, os insetos vêm sendo utilizados na área forense, auxiliando nas investigações criminais, principalmente na estimativa do intervalo pós-morte -IPM <ref type="bibr" target="#b31">(Linhares e Thyssen, 2012)</ref>. Dentre as ordens de insetos, Diptera é a mais utilizada nas ciências forense. Esta ordem compreende mosquitos e moscas, sendo estas últimas o grupo de insetos de maior importância para estudos de entomologia forense <ref type="bibr" target="#b35">(Oliveira-Costa, 2011)</ref>.</p><p>A ordem Diptera está subdividida em dois grandes grupos: dos não braquíceros, que possuem antenas longas com vários segmentos, compreendendo os mosquitos, e os braquíceros (Subordem Brachycera) com antenas pouco segmentadas <ref type="bibr" target="#b12">(Carvalho et al., 2012)</ref>. A subordem Brachycera abrange os insetos muscóides, que são os de maior interesse forense.</p><p>Diptera, palavra de origem grega que quer dizer "di" (dois) e "ptera" (asas), é caracterizada por conter duas asas (um par) membranosas bem desenvolvidas anteriormente, adaptadas para o vôo. O par de asas posterior é reduzido, chamado de balancim ou halter e tem função de equilíbrio <ref type="bibr" target="#b24">(Gomes, 2010)</ref>. Assim como os demais insetos, as moscas têm o corpo revestido por quitina dividido em cabeça, tórax e abdômen e três pares de pernas. Possuem cabeça móvel, com um par de olhos compostos, aparelho bucal que pode ser lambedor-sugador para absorção de líquidos ou picador-sugador e um par de antenas sensorial (Figura 1) que permite identificar odores a longa distância e chegar rapidamente em um cadáver <ref type="bibr" target="#b35">(Oliveira-Costa, 2011)</ref>. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.2">Ciclo Biológico das Moscas</head><p>O desenvolvimento das moscas é holometabólico, ou seja, realizam metamorfose completa, passando por diferentes estágios até chegar à forma adulta. O ciclo biológico das moscas (Figura 2) passa pelos seguintes estágios: ovo, larva, pupa e adulto <ref type="bibr" target="#b32">(Marques, 2012)</ref>.</p><p>O ciclo de vida das moscas inicia, em geral, pela oviposição por uma mosca adulta e eclosão dos ovos, de onde nascem as larvas de primeiro instar (L1). Estas larvas são vermiformes e de vida livre, em sua maioria, e se alimentam aumentando significativamente de tamanho atingindo o segundo instar (L2) e, posteriormente, o terceiro e último instar (L3). Ao atingir determinado tamanho no estágio de L3, as larvas param de se alimentar e buscam um local apropriado, geralmente seco, para se transformar em pupa. A pupa é uma fase imóvel do ciclo, onde ocorrem transformações internas importantes para, em alguns dias, dar origem ao inseto adulto completamente formado <ref type="bibr" target="#b32">(Marques, 2012)</ref>.</p><p>Figura 2 -Ciclo de desenvolvimento das moscas. Fonte: adaptada de <ref type="url" target="http://ciencia.hsw.uol.com.br/mosca4.htm">http://ciencia.hsw.uol.com.br/mosca4.htm</ref> A ordem Diptera é uma das mais diversas, tanto ecologicamente, quanto em termos de riqueza de espécie <ref type="bibr">(Courtney e Merritt, 2008)</ref>. As moscas também diferem nos hábitos, especialmente no que diz respeito à alimentação. As larvas, por exemplo, têm a dieta variada, podendo se alimentar de fezes, sangue, tecido animal vivo ou morto, tecido vegetal, entre outros. Conhecer os hábitos e ciclos biológicos das espécies de moscas frequentemente encontradas em cadáveres é um dos passos mais importantes para a estimativa do IPM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.3">Entomologia Forense</head><p>Entomologia forense é a utilização de insetos em processos judiciais. Ela aplica o conhecimento da taxonomia, biologia e ecologia dos insetos e outros artrópodes em investigações de caráter legal <ref type="bibr" target="#b43">(Smith, 1986;</ref><ref type="bibr" target="#b35">Oliveira-Costa, 2011;</ref><ref type="bibr" target="#b44">Velho et al., 2013)</ref>.</p><p>A entomologia forense pode ser dividida em três subáreas, de acordo com Lord e Stevenson (1986): urbana, de produtos estocados e médico-legal. Na urbana, os insetos podem gerar danos às construções, imóveis, estruturas ou bens culturais, influenciando na compra e venda. Neste caso, a entomologia pode determinar se a infestação ocorreu antes ou depois da compra, por exemplo. Na área de produtos estocados, a entomologia auxilia na determinação do momento de infestação de insetos em alimentos e produtos comerciais armazenados/estocados. Na entomologia médico-legal, os insetos podem auxiliar na investigação de casos de morte de causa não natural, como homicídios e suicídios.</p><p>Nos casos de mortes violentas, a entomologia forense pode ser útil para determinar o IPM, isso porque depois de morto, o tecido de animais torna-se muito atrativo para diversas espécies de insetos e outros invertebrados <ref type="bibr" target="#b43">(Smith, 1986)</ref>, que chegam muito rápido no cadáver, muitas vezes em menos de dez minutos <ref type="bibr" target="#b1">(Amendt et al., 2007)</ref>.</p><p>O IPM é o intervalo de tempo transcorrido desde o momento da morte até o momento em que o corpo foi encontrado e pode ser estimado de diversas formas. Com uso de insetos, pode-se estimar um IPM mínimo, ou seja, o período de tempo mínimo entre a exposição do cadáver àquele ambiente e o momento em que foi encontrado <ref type="bibr" target="#b29">(Kosmann, 2009)</ref>. O cálculo do IPM mínimo se dá a partir da correta identificação da espécie encontrada no cadáver e conhecimento de seu ciclo de vida. Com base nisso, o intervalo pós-morte é bastante confiável <ref type="bibr" target="#b29">(Kosmann, 2009)</ref>, sobretudo em cadáveres com mais de três dias <ref type="bibr" target="#b13">(Catts e Goff, 1992)</ref>. Na medicina legal, o IPM é determinado baseado na cronotanatognose, ou seja, nas características inerentes às mudanças sofridas pelo corpo após a morte <ref type="bibr" target="#b33">(Martins, 2009)</ref>. Ao contrário da entomologia forense, quanto maior o tempo transcorrido entre o momento da morte e o encontro do cadáver, mais difícil estimar o IPM devido à perda de características importantes.</p><p>Além de determinar o IPM, a entomologia forense também pode fornecer informações valiosas que envolvem crimes através dos insetos associados ao cadáver, como, por exemplo, se houve envenenamento ou consumo de drogas <ref type="bibr" target="#b2">(Amendt et al., 2004)</ref>, movimentação de cadáver do local original do crime, negligência com menores ou idosos <ref type="bibr">(Benecke e Lessig, 2001;</ref><ref type="bibr" target="#b5">Benecke et al., 2004)</ref> ou se a vítima sofreu abuso sexual <ref type="bibr" target="#b2">(Zehner et al., 2004)</ref>.</p><p>Em 2012 foi realizado um trabalho sobre a fauna de moscas de interesse forense em uma restinga arbórea na Ilha de Santa Catarina, Florianópolis (SC) nos meses de maio em junho. Para verificar se há muitas alterações sazonais nas espécies de moscas, decidimos realizar o presente trabalho com a mesma metodologia utilizada em 2012, mas nos meses mais quentes do ano.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.4">Breve Histórico da Entomologia Forense</head><p>O primeiro registro de entomologia forense foi em 1235, feito por Sung Tz'u na hina, em um manual de medicina legal. A história conta que após a morte de um lavrador causada por uma foice, todos os lavradores da região foram ordenados a botar suas foices no chão e apenas uma delas atraiu as moscas, a que continha vestígios de sangue imperceptíveis a olho nu. O investigador então concluiu que aquela era a foice do assassino, que confessou o crime posteriormente <ref type="bibr" target="#b4">(Benecke, 2001;</ref><ref type="bibr" target="#b39">Pujol-Luz et al., 2008)</ref>.</p><p>Em 1855 foi feita a primeira estimativa de IPM baseada em insetos, pelo médico Bergeret, na França <ref type="bibr" target="#b39">(Pujol-Luz et al., 2008)</ref>. Porém, o primeiro trabalho que marca a entomologia forense, com embasamento teórico e científico foi publicado em 1894, intitulado La Faune des Cadaveres, por Megnin, também na França. Neste trabalho ele desenvolveu um método para calcular o IPM através da presença de insetos, incluindo descrição dos insetos e relatos de casos reais <ref type="bibr">(Byrd e Castner, 2010)</ref>.</p><p>Por muitos anos a entomologia forense ficou esquecida e somente após a publicação dos livros Entomology and Legal Medicine, de Leclerq em 1969 e Manual of Forensic Entomology, de Smith em 1986, a entomologia teve seu reconhecimento e passou a ser utilizada em processos criminais, principalmente na América do Norte e na Europa, onde se concentram grande parte das pesquisas nesta área atualmente <ref type="bibr" target="#b39">(Pujol-Luz et al., 2008)</ref>.</p><p>No Brasil, a entomologia forense teve seu início em 1908, com estudos de Oscar Freire e Edgar Roquette Pinto. Estes dois pesquisadores publicaram trabalhos de grande importância, que foram a base para a entomologia forense no Brasil e referência para toda região tropical. Entre 1911 e 1941, outros autores fizeram importantes contribuições, como Herman Lüderwaldt, Samuel Pessôa e Frederico Lane, com destaque para a obra de Pessôa e Lene (1941) sobre coleópteros de interesse médico-legal do Estado de São Paulo. Após esse período e até 1980, pouco se publicou sobre entomologia forense no Brasil. A partir de 1987 o interesse pelo tema ressurge com o trabalho de Monteiro-Filho e Penereiro sobre sucessão de insetos em uma carcaça de roedor em São Paulo e dá sequência a uma série de pesquisas que vem sendo feitas sobre taxonomia, biologia, ecologia e sucessão da fauna cadavérica <ref type="bibr" target="#b39">(Pujol-Luz et al., 2008)</ref>.</p><p>Apesar do interesse atual pelo assunto por parte de pesquisadores, sobretudo no âmbito acadêmico, faz-se necessária a interação entre a academia e os institutos de polícia para a consolidação da entomologia forense. Neste sentido, a pesquisadora e perita criminal Janyra Oliveira-Costa foi a primeira no Brasil a unir o conhecimento sobre a entomologia e sua a aplicabilidade em seu livro Entomologia Forense -Quando os Insetos são Vestígios publicado em 2003, de grande valia para pesquisadores e peritos do Brasil <ref type="bibr" target="#b39">(Pujol-Luz et al., 2008)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.5">Fauna Diptera de Interesse Forense</head><p>A entomofauna frequentadora de cadáveres abarca tanto espécies necrófagas e onívoras, ou seja, aquelas que se alimentam de tecidos em decomposição, quanto espécies predadoras e parasitas das espécies necrófagas, além de espécies acidentais/visitantes que acabam por acaso na carcaça e a utilizam temporariamente <ref type="bibr" target="#b43">(Smith, 1986)</ref>.</p><p>Ainda segundo <ref type="bibr" target="#b43">Smith (1986)</ref>, as espécies necrófagas são as mais importantes para a estimativa do intervalo pós-morte. Para fins da entomologia forense, como já dito, um dos grupos de insetos mais importantes são as moscas, sendo insetos necrófagos, adultos ou imaturos, mais frequentemente associados às carcaças de animais <ref type="bibr" target="#b2">(Amendt et al., 2004)</ref>.</p><p>As moscas são, na maioria dos casos, as primeiras colonizadoras de um organismo em decomposição, chegando em alguns minutos após a morte do animal <ref type="bibr" target="#b2">(Amendt et al., 2004;</ref><ref type="bibr" target="#b13">Catts, 1992;</ref><ref type="bibr" target="#b35">Oliveira-Costa, 2011)</ref>. As moscas adultas utilizam as carcaças como fonte de alimento e substrato para postura de ovos. As formas imaturas (larvas) alimentamse da matéria orgânica em decomposição e são os principais responsáveis pelo consumo da massa.</p><p>Na América do Sul as famílias de dípteros de interesse forense são: Stratiomyidae, Phoridae, Anthomyiidae, Fanniidae, Muscidae, Sarcophagidae, Sphaeroceridae, Drosophilidae, Sepsidae, Ulidiidae, Piophilidae e Calliphoridae <ref type="bibr">(Carvalho e Mello-Patiu, 2008)</ref>. Dentre estas, as famílias Calliphoridae, Sarcophagidae, Muscidae e Fanniidae são as mais utilizadas em estudos forenses <ref type="bibr" target="#b25">(Greenberg, 1991;</ref><ref type="bibr" target="#b13">Catts e Goff, 1992;</ref><ref type="bibr" target="#b40">Carvalho et al., 2000)</ref>, sendo as espécies da família Calliphoridae frequentemente relatadas na literatura para estimativa de IPM <ref type="bibr" target="#b9">(Campobasso et al., 2001;</ref><ref type="bibr" target="#b34">Mello, 2003;</ref><ref type="bibr">Carvalho e Queiroz, 2010;</ref><ref type="bibr" target="#b30">Kosmann et. al., 2011;</ref><ref type="bibr" target="#b35">Oliveira-Costa, 2011)</ref>.</p><p>Em 2012 foi realizado um trabalho sobre a fauna de moscas de interesse forense em uma restinga arbórea na Ilha de Santa Catarina, Florianópolis (SC) nos meses de maio em junho. Para verificar se há muitas alterações sazonais nas espécies de moscas, decidimos realizar o presente trabalho com a mesma metodologia utilizada em 2012, mas nos meses mais quentes do ano.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.6">Modelo Animal para Pesquisas em Entomologia Forense</head><p>Segundo <ref type="bibr" target="#b39">Pujol-Luz et al. (2008)</ref>, as aplicações da entomologia forense na solução de casos criminais dependem de estudos básicos sobre taxonomia, biologia, ciclo de vida e ecologia dos insetos de potencial interesse forense. Assim sendo, são necessários estudos que visem reconhecer a entomofauna necrófaga de todas as regiões do país, cada uma com sua particularidade. Para isso devem ser realizados experimentos com modelos que mais se assemelhem ao ser humano para se obter resultados confiáveis.</p><p>Devido às implicações éticas e judiciais, não é possível realizar estudos com cadáveres humanos. Por este motivo, desde a criação da entomologia forense como ciência, foram utilizados diversos modelos de animais, como camundongos, macacos, elefantes, cachorros, dentre outros. Ao longo dos anos de pesquisa, verificou-se que o animal que mais se assemelha ao homem para este fim é o porco doméstico, Sus scrofa, e por isso determinou-se este animal como modelo para se trabalhar em estudos de levantamento da entomofauna cadavérica <ref type="bibr" target="#b24">(Gomes, 2010)</ref>. Porcos possuem algumas semelhanças com humanos, como flora intestinal, pele, quantidade de pêlos, formato e a disposição dos órgãos, além de a taxa de decomposição para porcos e humanos de mesmo peso serem muito aproximadas, gerando assim resultados próximos dos encontrados em cadáveres humanos <ref type="bibr" target="#b13">(Catts, 1992;</ref><ref type="bibr" target="#b9">Campobasso et al., 2001)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.7">Fases de Decomposição</head><p>A decomposição é um processo biológico pelo qual todo o organismo passa logo após a morte, onde a matéria orgânica é continuamente reduzida. Variáveis abióticas e bióticas podem interferir, acelerando ou retardando o processo de decomposição e, consequentemente, na estimativa de IPM. Dentre estas variáveis podem ser citadas as condições climáticas, localização do cadáver, tamanho e idade do corpo, tóxicos, vestimentas, ferimentos, soterramento, comportamento noturno de espécies de moscas, predação entre a entomofauna, entre outras <ref type="bibr" target="#b39">(Pinheiro et al., 2012)</ref>.</p><p>Na ciência forense, a decomposição cadavérica é dividida em fases ou estágios, que diferem de acordo com o autor na quantidade, na nomenclatura e duração destas. <ref type="bibr" target="#b37">Payne (1965)</ref> dividiu a decomposição em seis, <ref type="bibr" target="#b8">Bornemissza (1957)</ref> em cinco e Reed (1958) em quatro. Estudos recentes <ref type="bibr">de Santana (2006)</ref>, <ref type="bibr" target="#b33">Martins (2009)</ref>, <ref type="bibr" target="#b41">Rosa et al. (2009)</ref>, Baltazar (2013), <ref type="bibr" target="#b27">Juk (2013)</ref> e <ref type="bibr">Fernandes (2014)</ref>, por exemplo, tem adotado cinco fases, que diferem um pouco na nomenclatura, mas seguem um padrão nos processos de decomposição.</p><p>Para o presente trabalho, foi adotada a nomenclatura utilizada por Juk (2013) e Fernandes (2014), com valores de duração de cada fase baseados em estudos feitos em países do Hemisfério Norte. Entretanto, o tempo de duração de cada estágio é extremamente dependente das condições climáticas e sazonais <ref type="bibr">(Nuorteva, 1977)</ref>. Os estágios são: I -Estágio Inicial/Fresco (0-2 dias): nesta fase, a decomposição ocorre apenas internamente através da ação de microorganismos que constituem a fauna interna do próprio animal. Pode-se observar o algor mortis, onde ocorre o resfriamento cadavérico pela cessação da atividade metabólica, e o rigor mortis, que é o estado de rigidez cadavérica causada pelo enrijecimento das fibras musculares; II -Estágio de Inchamento (2-12 dias): esta fase é caracterizada pelo acúmulo de gases que deixa o cadáver inflado e o leve odor de putrefação que começa a atrair moscas. Observa-se no início da fase o aparecimento de uma mancha esverdeada, que geralmente surge no abdômen e vai se espalhando. Ao final desta fase surgem bolhas na pele por onde os líquidos e gases são liberados; III -Estágio de Deterioração (12-20 dias): fase de rompimento dos tecidos, com consistência cremosa, liberação de gases e odor de putrefação muito forte. A atividade larval de dípteros é intensa, consumindo grande parte da massa ao final do estágio;</p><p>IV -Estágio Seco (20-40 dias): ocorre a evaporação dos líquidos da fase anterior, ressecando a carcaça por fora. Há presença de fungos, pouca atividade de imaturos de dípteros, aumento de imaturos de Coleoptera e pouca carne para ser consumida;</p><p>V -Estágio de Restos (40-50 dias): carcaça totalmente seca, apenas em pele e ossos, com praticamente nenhuma atividade de insetos.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="1.8">Estimativa do Intervalo Pós-Morte (IPM)</head><p>Quando se está investigando uma morte, uma das coisas que a perícia necessita saber é o intervalo pós-morte (IPM), que é o intervalo de tempo transcorrido entre a morte e o momento em que o corpo é encontrado. Em casos de crime, a determinação do IPM é imprescindível para uma investigação, tendo o poder de incriminar ou inocentar um possível suspeito <ref type="bibr" target="#b28">(Keh, 1985)</ref>.</p><p>Existem alguns caminhos para se chegar ao IPM, embora estimar de forma precisa seja praticamente impossível, cabe ao perito avaliar e optar pela forma mais adequada a cada caso. Em casos onde os fenômenos cadavéricos característicos dos métodos cronotanatognóticos clássicos não são mais confiáveis, os insetos podem auxiliar com eficácia, sobretudo após 72 horas do óbito, na estimativa do IPM (Garrido e Naia, 2014).</p><p>Na entomologia forense, também existem diferentes metodologias para inferir qual o tempo mínimo que um cadáver está disponível para os insetos. Dentre as formas para o cálculo do IPM destacam-se na literatura: Grau Dia Acumulado (GDA), Padrão de Sucessão de Inseto (PSI) e Período de Atividade do Inseto (PAI).</p><p>O método GDA baseia-se na temperatura que o inseto necessita para completar seu desenvolvimento, considerando as médias de temperatura máxima e mínima de desenvolvimento da espécie em questão e a temperatura a que o cadáver estava exposto. Este método torna-se um tanto questionável em regiões tropicais onde a temperatura varia abruptamente durante o dia <ref type="bibr" target="#b30">(Kosmann et al., 2011)</ref>, pois pode afetar o tempo final de desenvolvimento do inseto e consequentemente no cálculo do IPM.</p><p>O método PSI utiliza a relação entre o tempo de decomposição e a composição da entomofauna presente no cadáver, onde todo o processo de decomposição é subdivido dentro de estágios integrados, cada um com características e reunião de artrópodes própria para cada fase. O método de sucessão pode ser útil para estimar o IPM de cadáveres em adiantado estado de decomposição, descobertos meses ou anos após a morte <ref type="bibr" target="#b31">(Madra et al., 2015)</ref>. Em países de climas temperados o PSI pode ser aplicado, porém, em países tropicais como o Brasil não deve ser a melhor metodologia para estimar IPM.</p><p>A metodologia de PAI baseia-se no desenvolvimento de insetos imaturos, utilizando sempre o instar mais avançado (larva ou pupa) presente no cadáver. Assim como nos outros métodos, o PAI depende de um conhecimento prévio das espécies de interesse forense, especialmente dos ciclos de vida. Como a identificação da larva muitas vezes é difícil, criam-se as larvas coletadas no cadáver até a fase adulta a fim de identificar a espécie. Conhecendo a espécie e seu ciclo, verificase quanto tempo ela leva para atingir o instar no qual foi encontrado. Através deste procedimento, pode-se estimar um IPM mínimo, ou seja, o tempo mínimo que corpo ficou exposto para as moscas <ref type="bibr" target="#b30">(Kosmann et al., 2011)</ref>.</p><p>Esta última metodologia vem sendo aplicada com sucesso em casos reais no Brasil <ref type="bibr" target="#b34">(Miranda et al., 2013)</ref>, especialmente com espécies de Calliphoridae, a família mais utilizada para estimativa de IPM <ref type="bibr" target="#b28">(Keh, 1985)</ref>. Algumas espécies de moscas são muito estudadas e conhecidas à respeito de seus ciclos, estando bastante consolidados na literatura. Chrysomya albiceps é um exemplo de mosca bem estudada, muito comum em cadáveres e confiável para estimativa de IPM mínimo <ref type="bibr">(Kossman et al., 2011)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2">OBJETIVOS</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.1">Objetivo Geral</head><p>Fazer o levantamento de espécies dípteras de interesse forense que visitam a carcaça de suíno no verão em região de restinga arbórea na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="2.2">Objetivos Específicos</head><p>Coletar adultos e formas imaturas de dípteros em carcaça de suíno em diferentes estágios de decomposição; Identificar e listar a dipterofauna de interesse forense no local; Medir a temperatura da carcaça e temperatura ambiente durante as coletas; Anotar o aspecto da carcaça e as condições meteorológicas; Comparar os resultados com os obtidos por outro levantamento no mesmo local realizado no inverno; Relacionar fatores abióticos com o comportamento dos insetos necrófagos; Simular uma estimativa de IPM a partir de imaturos coletados.  A ESEC Carijós foi criada em 20 de Julho de 1987 pelo Decreto número 94.656/87 com o objetivo de proteger os manguezais das Bacias Hidrográficas de Ratones e do Saco Grande, contribuindo para a melhoria da qualidade de vida dos moradores de Florianópolis e para a conservação da biodiversidade. Além disso, na ESEC são realizadas pesquisas científicas e atividades de educação ambiental <ref type="bibr">(IBAMA, 2002)</ref>.</p><p>A área da ESEC -Carijós possui aproximadamente 7 km² inseridos no domínio da Mata Atlântica, englobando duas glebas separadas geograficamente: os manguezais de Saco Grande e de Ratones distantes entre si em aproximadamente 5 km. O experimento foi realizado mais especificamente na gleba de Ratones, que possui cerca de 6,25 km² e, e está inserida na Bacia Hidrográfica do Rio Ratones, a maior da Ilha de Santa Catarina. Além dos manguezais, essa gleba abriga algumas áreas de restinga arbórea e é rodeada por população urbana, estando limitada a leste pela Rodovia SC-401, a oeste pela Baía Norte, ao Sul pelos bairros de Sambaqui e Santo Antônio e ao Norte pelos bairros de Jurerê e Daniela <ref type="bibr">(IBAMA, 2002)</ref>.</p><p>Segundo a classificação internacional de KÖPPEN, o clima da região pode ser classificado como Cfa, clima subtropical com temperatura média no mês mais frio inferior a 18ºC (mesotérmico) e temperatura média no mês mais quente acima de 22ºC, com verões quentes, geadas pouco frequentes, tendência de concentração das chuvas nos meses de verão e sem estação seca definida <ref type="bibr" target="#b35">(Pandolfo et al., 2002)</ref>. A cobertura vegetal da Unidade de Conservação é em sua maioria formada por áreas de manguezal, com alguns trechos cobertos por vegetação de restinga arbórea, banhado e vegetação de transição de manguezal para restinga arbórea <ref type="bibr">(IBAMA, 2002)</ref>. O local exato onde foi colocado o experimento é de predominância de vegetação típica de restinga arbórea (Figura 4), de acordo com a classificação proposta por <ref type="bibr" target="#b16">Falkenberg (1999)</ref>. Esta área foi escolhida por ser uma área ampla, sem residências próximas e segura, uma vez que não se pode instalar um experimento deste perfil em qualquer local, pois além de a carcaça exalar odores</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>A B</head><p>fétidos que incomodam a população (Oliveira- <ref type="bibr" target="#b35">Costa, 2011)</ref>, o experimento não pode ser manuseado por pessoas não autorizadas. Além disso, o trabalho foi realizado nesta área a fim de comparar com a fauna díptera de interesse forense e o tempo de decomposição de uma carcaça em estudo realizado no mesmo local no inverno por Juk (2013).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.2">Procedimento Experimental</head><p>Para realizar a coleta de dados, foi utilizada uma carcaça inteira de suíno doméstico, Sus scrofa, de aproximadamente 10 kgs, dentro de uma gaiola de metal. O animal foi adquirido já morto em abatedouro, sem apresentar feridas ou cortes.</p><p>A gaiola de metal, de aproximadamente 70 cm x 100 cm x 40 cm, serviu para evitar que outros animais além de pequenos artrópodes tivessem acesso à ela, interferindo assim na velocidade da decomposição. Ainda, sobreposta à gaiola, foi colocada uma armadilha do tipo Shannon (Figura 5), recobrindo a parte superior e laterais para a coleta das moscas adultas.</p><p>Figura 5 -Gaiola com armadilha Shannon utilizada no experimento com carcaça de suíno (Sus scrofa) instalada na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</p><p>O experimento teve início com a colocação da carcaça no dia 20 de janeiro de 2014, por volta das 11 horas da manhã. A carcaça foi visitada diariamente, com intervalos de aproximadamente 24 horas, sempre entre 11:00 e 14:00 horas, até alcançar o estágio de restos. Foram realizadas coletas do dia 20 ao dia 28, com pausa no dia 29 e última coleta no dia 30 de janeiro, quando o experimento foi finalizado. O tempo das visitas foi padronizado em 1 hora de duração.</p><p>A cada visita eram feitos os registros da temperatura ambiente (Figura 6), da temperatura do solo, da temperatura anal do porco (Figura 7) e da temperatura das massas de larvas presentes. Os dados meteorológicos (temperatura, umidade relativa e pluviosidade) foram fornecidos pela EPAGRI/CIRAM, coletados na Estação Meteorológica de Ratones, a mais próxima ao experimento. Todas as visitas foram registradas fotograficamente. Os dados coletados foram anotados em um formulário.  O período que a carcaça permaneceu no local de estudo foi de onze dias, com a colocação da carcaça no dia 20/01/14, registrando o IPM 0, e retirada no dia 30/01/14. Ao todo foram realizadas dez coletas, iniciando no dia em que o experimento foi instalado com a coleta da primeira mosca a aparecer na carcaça. As coletas foram realizadas diariamente até o nono dia, com pausa no décimo dia e a última coleta no décimo primeiro dia. Não foi realizada coleta no dia 29/01 (IPM 9), pois não houve visita neste dia, devido à baixa atividade de insetos registrada no dia anterior.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="3.3">Análise dos Dados</head><p>Para análise das moscas levantadas foram utilizados os índices de: Abundância: número total de indivíduos levantados; Abundância relativa/Dominância: proporção de indivíduos de uma espécie (ou família) em relação ao total de indivíduos da amostra, calculado através da fórmula: D = N (espécie) x 100/N (total), onde D é o índice de Dominância; N (espécie) é a abundância total da espécies; N (total) é o número total de indivíduos de todas as espécies coletadas; Riqueza: referente ao número total de espécies (ou famílias) em uma unidade amostral; Constância: corresponde à presença de determinada espécie (ou família) em cada coleta, definida em porcentagem, de modo que: espécies constantes são aquelas presentes em mais de 50% das coletas; espécies acessórias são aquelas presentes em 25-50% das coletas; e espécies acidentais as presentes em menos de 25% das coletas. Índice Biológico (IB): pontua os cinco grupos mais abundantes, sendo cinco a nota máxima atribuída a espécie ou família mais abundante, quatro para a segunda mais comum e assim por diante até chegarmos a pontuação um para o quinto grupo em ordem de representatividade. A espécie que se atribui valor cinco será a preferente do estudo, as outras quatro com IB entre um e quatro serão acompanhantes e as demais, com valor igual a zero, serão ditas acessórias <ref type="bibr">(Gomes e Ferreira, 2004)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4">RESULTADOS E DISCUSSÃO</head><p>Ao todo, foram coletados 1004 espécimes de moscas, sendo 994 adultos e dez imaturos (nove C. albiceps e uma C. putoria). A tabela 1 apresenta as famílias levantadas por dia com a presença dos imaturos coletados. Estes emergiram em laboratório após finalização do experimento em campo e foram coletados com o intuito de simular uma estimativa de IPM.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.1">Fases de Decomposição</head><p>A carcaça de suíno de aproximadamente 10 kg se decompôs em onze dias, restando apenas couro e ossos. Foram observadas as cinco fases de decomposição esperadas: inicial/fresco, inchamento, deterioração, seco e restos (Figura 8). A duração em dias de cada estágio de decomposição pode ser observada na tabela 2.</p><p>A duração do experimento foi determinada pelo tempo de decomposição da carcaça até a fase de restos e pela presença ou não de moscas (adultos e imaturos) no local. No nono dia do experimento a carcaça encontrava-se na fase de restos, dando por encerradas as coletas no décimo primeiro dia. A tabela 2 contém as datas do experimento, o IPM e as fases do processo de decomposição. Cada fase de decomposição do animal mostrou as seguintes características:</p><p>Fase Inicial: correspondeu às primeiras 24 horas a partir do momento em que carcaça foi exposta, ou seja, do dia 20/01 por volta das 11 horas. Nos primeiros minutos de exposição surgiu a primeira mosca (Sarcophagidae), que foi coletada; Fase de Inchamento: no segundo dia (passadas 24 horas do início do experimento) a carcaça apresentava uma coloração diferente no abdômen, levemente esverdeada, indicando o início da fase de inchamento. Não havia ainda muita atividade de insetos, talvez pelo fato da carcaça não apresentar ferimentos nem vestígios de sangue. No terceiro dia (48 horas após o início do experimento) a mancha já havia se espalhado por todo o abdômen e o inchaço do corpo era bem notável, com uma pequena alteração na posição das patas, cabeça e abertura da boca. Observou-se também ovos na região do pescoço. No quarto dia, no momento da visita, a carcaça apresentava inchaço total do corpo provocado pelo acúmulo de gases e odor putrefativo. Havia ovos e larvas L1 na região das patas, pescoço e ânus e algumas moscas sobrevoando a carcaça. O corpo estava bem inchado e escurecido, com bolhas na pele na região posterior indicando ser o final desta fase e início da fase de deterioração; Tabela 1 -Relação das famílias levantadas por dia de coleta, com a presença de imaturos* em experimento realizado com carcaça de suíno (Sus scrofa) na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Tabela 2 -Período do experimento, dias de duração, IPM e fases de decomposição. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. Data 20/ 01 21/ 01 22/ 01 23/ 01 24/ 01 25/ 01 26/ 01 27/ 01 28/ 01 29/ 01 30/ 01 Dia 1º 2º 3º 4º 5º 6º 7º 8º 9º 10º 11º IPM 0 1 2 3 4 5 6 7 8 9 10 IPM Hora 0h 24h 48h 72h 96h 120 h 144 h 168 h 192 h 216 h 240 h Fases I II III IV V</p><p>Fase de Deterioração: do quarto para o quinto dia houve uma mudança drástica nas características da carcaça, com alteração na cor e aspecto do couro, como é possível observar na figura 9. No quinto dia a carcaça encontrava-se consideravelmente decomposta, sendo possível visualizar o osso da mandíbula totalmente exposto. Havia grande quantidade de larvas de todos os tamanhos sobre e sob o couro, formando massas de larvas na região anterior (pescoço) e posterior (ânus e patas traseiras) e grande quantidade de moscas sobre e sobrevoando a carcaça. No sexto dia o estado de decomposição estava bem avançado, com muitos ossos expostos e pouco tecido mole. Havia menor quantidade de larvas e estavam espalhadas sob o couro e pelo solo, sem formação de massas. A atividade de moscas adultas reduziu consideravelmente;</p><p>Fase Seca: no sétimo dia o tecido mole estava totalmente consumido, o couro bem escurecido e os ossos totalmente desarticulados. As larvas já haviam abandonado a carcaça e pouquíssimas moscas adultas sobrevoavam; Fase de Restos: fase determinada a partir do nono dia, onde a atividade de insetos era praticamente zero. Carcaça completamente seca, restando apenas ossos e parte do couro ressecado. Embora as fases pudessem ser identificadas, a duração de cada fase foi muito reduzida em relação aos experimentos com carcaças de peso semelhantes levantados na bibliografia. Também, nem todas as características de uma cronotanatognose puderam ser observadas, como por exemplo, a rigidez cadavérica (rigor mortis) comum da fase inicial <ref type="bibr" target="#b42">(Santana, 2006)</ref>. A dificuldade em identificar características de cada fase, bem como determinar o início e fim de cada uma, deve-se à velocidade com que a carcaça foi consumida. Segundo <ref type="bibr" target="#b37">Payne (1965)</ref>, pequenas carcaças se decompõem tão rapidamente que a distinção entre um estágio e outro torna-se difícil. Um exemplo desta dificuldade neste experimento foi determinar o final da fase de inchamento e início da fase de deterioração, pois a mudança no aspecto da carcaça de um dia para o outro foi impressionante.</p><p>Esperava-se que a decomposição ocorresse de forma mais acelerada do que o descrito na literatura, por se tratar de um experimento em um país tropical e na estação do verão. No entanto, a carcaça chegou à fase de restos extremamente rápido, em apenas oito dias, o que neste período deveria estar ainda em fase de inchamento segundo o método de cinco fases de <ref type="bibr" target="#b8">Bornemissza (1957)</ref>.</p><p>Para ter uma ideia do tempo que se leva até a decomposição total de uma carcaça de suíno no Brasil, foi feito um levantamento de trabalhos realizados na área da entomologia forense com carcaças de peso semelhante ao modelo deste trabalho (Tabela 3).</p><p>O tempo de decomposição nos trabalhos pesquisados variou muito, desde sete até 62 dias. Baltazar (2013) e <ref type="bibr" target="#b7">Bitar et al. (2013)</ref>, apesar de serem experimentos realizados em Estados e períodos diferentes, tiveram o tempo de duração de decomposição aproximado ao deste trabalho provavelmente devido às médias de temperatura e umidade semelhantes. As carcaças destes dois autores apesar de serem mais pesadas foram decompostas em menos dias. No estudo <ref type="bibr">de Juk (2013)</ref>, realizado no inverno de 2012 no mesmo local em que foi realizado o presente trabalho, a carcaça de suíno de mesmo peso foi consumida em 62 dias. No oitavo dia a carcaça estava ainda em fase de inchamento e chegou à fase de restos em 49 dias. Já <ref type="bibr">Fernandes (2014)</ref>, em seu trabalho feito no período do verão de 2013 na região da Grande Florianópolis, teve a carcaça consumida em 21 dias, chegando à fase de restos em onze dias.</p><p>Muitas variáveis podem influenciar no tempo de decomposição de um cadáver, dentre elas devem ser consideradas as condições abióticas, como temperatura, umidade e pluviosidade, bem como aspectos do próprio cadáver (forma de morte, peso) e a composição da entomofauna local.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.2">Composição da Dipterofauna Adulta</head><p>A dipterofauna levantada foi de 994 espécimes adultos pertencentes a quinze famílias de moscas: Muscidae, Sarcophagidae, Calliphoridae, Fanniidae, Sphaeroceridae, Piophilidae, Sepsidae, Ulidiidae, Phoridae, Drosophilidae, Syrphidae, Tabanidae, Platypezidae e duas famílias não identificadas. A tabela 4 mostra o número de indivíduos e abundância relativa de cada família de Diptera coletados em cada fase de decomposição, bem como a riqueza presente em cada fase.</p><p>A família mais abundante neste experimente foi Muscidae, com 269 indivíduos, recebendo o valor cinco de acordo com o índice biológico (IB). As famílias acompanhantes que seguem são: Sarcophagidae com N = 237 e IB = 4, Calliphoridae com N = 236 e IB = 3, Fanniidae N = 128 e IB = 2 e Sphaeroceridae com N = 39 e IB = 1. As demais famílias são consideradas acessórias, com IB = 0. Esta predominância da família Muscidae está de acordo com trabalhos realizados com carcaça de suíno no Brasil, como os de <ref type="bibr" target="#b42">Santana (2006)</ref>, <ref type="bibr" target="#b33">Martins (2009)</ref>, <ref type="bibr" target="#b27">Juk (2013</ref><ref type="bibr">) e Fernandes (2014)</ref>.</p><p>As famílias mais abundantes (Muscidae, Sarcophagidae e Calliphoridae) somaram quase 75% do total coletado. Elas são também as que aparecem em maior abundância nos estudos de entomologia forense feitos com carcaças de suíno no Brasil, a exemplo os trabalhos de <ref type="bibr" target="#b42">Santana (2006)</ref>, <ref type="bibr" target="#b33">Martins (2009)</ref>, <ref type="bibr" target="#b41">Rosa et al. (2009</ref><ref type="bibr" target="#b12">), Castro et al. (2012)</ref>, <ref type="bibr" target="#b7">Bitar et al. (2013</ref><ref type="bibr">) e Fernandes (2014)</ref>. Em um estudo realizado em Minas Gerais por <ref type="bibr" target="#b38">Pereira (2009)</ref> com carcaça de roedor em decomposição nas quatro estações do ano, as famílias Calliphoridae, Sarcophagidae e Muscidae predominaram, respectivamente, sendo que na coleta da estação do verão a família que predominou foi Muscidae, seguida por Sarcophagidae e Calliphoridae, assim como no presente estudo. Estes resultados comprovam e corroboram com os diversos autores que destacam a relevância destas três famílias para a entomologia forense. Esta importância se dá por serem as primeiras famílias atraídas por um cadáver <ref type="bibr" target="#b9">(Campobasso et al., 2001;</ref><ref type="bibr" target="#b35">Oliveira-Costa, 2011)</ref>.</p><p>Tabela 4 -Abundância (A), abundância relativa (AR) e riqueza das famílias de Diptera adulta coletadas em cada fase de decomposição em carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fases</head><p>I II III IV V A AR Muscidae 0 35 225 9 0 269 27,06% Sarcophagidae 1 77 159 0 0 237 23,90% Calliphoridae 0 110 124 1 1 236 23,74% Fanniidae 0 8 117 2 1 128 12,87% Sphaeroceridae 0 4 25 6 4 39 3,90% Piophilidae 0 3 17 5 5 30 3,02% Sepsidae 0 0 19 3 3 25 2,51% Ulidiidae 0 3 7 1 2 13 1,30% Phoridae 0 1 4 1 0 6 0,60% Drosophilidae 0 0 2 1 0 3 0,30% Syrphidae 0 0 1 0 1 2 0,20% Tabanidae 0 1 1 0 0 2 0,20% Família 1 0 0 0 1 1 2 0,20% Família 2 0 0 0 1 0 1 0,10% Platypezidae 0 0 1 0 0 1 0,10% A 1 242 702 31 18 994 AR 0,1 24,34% 70,62% 3,11% 1,81% 100% Riqueza 1 9 13 11 8</p><p>Calliphoridae e Muscidae foram identificadas em nível de espécie. Para Sarcophagidae não foi possível chegar até espécie devido as dificuldades encontradas de expor a genitália masculina, necessária para a identificação desta família, pelo longo tempo que os espécimes ficaram congelados. Porém, a identificação desta família é muito importante, pois é uma das mais comuns encontradas em estudos forenses.</p><p>Sarcophagidae foi a primeira família a visitar a carcaça, logo nos primeiros minutos de experimento e foi a segunda família mais abundante, com 23,90% de índice de dominância, num total de 237 indivíduos coletados, apenas um indivíduo a mais que Calliphoridae. Sarcophagidae costuma aparecer entre as três famílias mais coletadas em levantamentos com carcaças ou iscas de animal. <ref type="bibr" target="#b41">Rosa (2009)</ref> em levantamento de dípteros de interesse forense em carcaça de suíno em Minas Gerais teve a maior abundância de Sarcophagidae nas estações seca e úmida, destacando-se sobre as demais famílias. Baltazar (2013) realizou levantamento de insetos necrófagos nas duas estações em São Paulo e no inverno a família mais abundante foi Sarcophagidae, enquanto no verão ela apareceu em quarto lugar.</p><p>Muscidae foi a família mais abundante no presente estudo, com um índice de dominância de 27,06% e 269 adultos coletados. Esta família aparece como a mais abundante também em dois estudos realizados com carcaça de suíno em ambiente de restinga arbórea. Juk (2013) obteve 42,60% e Fernandes (2014) 28,06%.</p><p>Foram identificadas oito espécies: Ophyra aenescens, Musca domestica, Brontaea normata, Ophyra solitaria, Ophyra albuquerquei, Atherigona orientalis, Brontaea sp. e Muscina stabulans. Na Tabela 5 pode-se observar a riqueza, suas abundâncias absolutas e relativas por fase de decomposição. O. aenescens foi a espécie dominante da família e de todo o experimento, com um número de indivíduos coletados mais elevado em relação às demais espécies. O. aenescens representou 71,75% dos representantes da família Muscidae, com 193 indivíduos. Nos levantamentos <ref type="bibr">de Juk (2013)</ref> e <ref type="bibr">Fernandes (2014)</ref>, O. aenescens também predominou, com abundâncias relativas de 90% e 82,24%, respectivamente. De acordo com D'Almeida (1983) apud Juk (2013) esta espécie demonstra preferência por áreas menos habitadas, podendo ser esta uma explicação pela alta abundância dessa espécie em nossos trabalhos. Além disso, as larvas do gênero Ophyra são vigorosas e predadoras de larvas de outras moscas, especialmente de M. domestica <ref type="bibr" target="#b40">(Ribeiro et al., 2000)</ref>, sendo uma possível justificativa para abundâncias tão elevadas nos experimentos.</p><p>Calliphoridae representou 23,74% do total das coletas, com 236 indivíduos distribuídos em seis espécies identificadas: Chrysomya albiceps, Chrysomya megacephala, Cochliomyia macellaria, Cochliomyia hominivorax, Hemilucilia segmentaria e Lucilia eximia. A tabela 6 mostra as espécies por ordem de abundância, coletadas em cada fase de decomposição e a riqueza de cada fase. C. megacephala foi a espécie de Calliphoridae mais abundante do experimento, seguida de C. albiceps. Estas espécies são consideradas invasoras de acordo com Wells &amp; <ref type="bibr">Greenberg (1992)</ref> e <ref type="bibr">Kossman et al. (2013)</ref>. Em muitos trabalhos de levantamento de entomofauna forense com carcaça, a espécie C. albiceps aparece como a mais abundante seguida de C. megacephala <ref type="bibr" target="#b42">(Santana, 2006;</ref><ref type="bibr" target="#b7">Bitar, 2013;</ref><ref type="bibr">Panigali e Soligo, 2013)</ref>. Em experimento realizado por <ref type="bibr" target="#b27">Juk (2013)</ref> no mesmo local que o presente trabalho, C. albiceps foi a espécie mais abundante de Calliphoridae no inverno. <ref type="bibr">Fernandes (2014)</ref> em seu experimento em ambiente de restinga arbórea no verão, também obteve maiores abundâncias de C. albiceps e Nunes (2014) em levantamento com iscas de tecido animal em ambiente de dunas em Florianópolis registrou esta espécie como a mais abundante nas quatro estações do ano. No presente trabalho, C. megacephala foi a mais abundante das Calliphoridae, com 38,13% dos membros da família coletados, seguido de C. albiceps com 25% e logo em seguida C. macellaria, com 22,45% dos representantes. <ref type="bibr" target="#b45">Wolff (2015)</ref> em trabalho realizado também com iscas de tecido animal em diferentes ambientes durante as quatro estações do ano para avaliar o índice de sinantropia de califorídeos, apresentou C. megacephala como predominante no estudo, sendo os maiores índices de abundância desta espécie durante o verão e na área rural.</p><p>Hemilucilia segmentaria e Lucilia eximia representaram apenas 0,84% e 0,42% das coletas, respectivamente. Estes resultados foram semelhantes aos <ref type="bibr">de Juk (2013)</ref>, que obteve 0,75% de abundância relativa para L. eximia, com apenas três espécimes coletados, e 0,5% para H. segmentaria, com dois indivíduos coletados. Apesar de serem coletadas em baixas abundâncias neste trabalho, devemos destacar a importância forense destas espécies. <ref type="bibr" target="#b30">Kosmann et. al. (2011)</ref> registraram C. albiceps e H. segmentaria em cadáver humano em Minas Gerais e estimaram o IPM com base no desenvolvimento destas duas espécies. Em relação a L. eximia, esta espécie foi a mais abundante dentre os califorídeos coletados por Nunes (2014) e a segunda mais abundante no trabalho <ref type="bibr">de Fernandes (2014)</ref>, incluindo coleta de imaturos na carcaça. A baixa abundância destas duas espécies pode estar relacionada à preferência de habitat ou por influência das espécies invasoras que predominaram a carcaça neste trabalho.</p><p>Calliphoridae é uma das famílias de maior interesse forense para estimativa do IPM por ser uma das primeiras a chegar nos locais de crime. É uma família largamente estudada e já se sabe bastante a respeito da taxonomia, ecologia e ciclo de vida das espécies, sendo usada com sucesso em estimativas de IPM no Brasil (Kossman, 2011).</p><p>Tabela 5 -Abundância (A), abundância relativa (AR) e riqueza das espécies de Muscidae adulta coletadas em relação às fases de decomposição de carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fases</head><p>I II III IV V A AR% Muscidae Ophyra aenescens 0 23 163 7 0 193 71,75% Musca domestica 0 12 46 2 0 60 22,30% Brontaea normata 0 0 7 0 0 7 2,60% Ophyra solitaria 0 0 5 0 0 5 1,86% Ophyra albuquerquei 0 0 1 0 0 1 0,37% Atherigona orientalis 0 0 1 0 0 1 0,37% Brontaea sp. 0 0 1 0 0 1 0,37% Muscina stabulans 0 0 1 0 0 1 0,37% A 0 35 225 9 0 269 AR% 0 13,01% 83,64% 3,34% 0 100% Riqueza 0 2 8 2 0</p><p>Fanniidae é uma família que também aparece com frequência em estudos de entomologia forense, muitas vezes aparecendo entre as três famílias mais abundantes <ref type="bibr">(Baltazar, 2013;</ref><ref type="bibr" target="#b27">Juk, 2013.)</ref>. Neste trabalho, Fanniidae apareceu como a quarta família mais abundante, com 12,87%. Fanniidae foi a segunda família mais abundante na estação do inverno e a mais abundante no verão em levantamento realizado com carcaça de suíno em São <ref type="bibr">Paulo (Baltazar, 2013)</ref> com uma frequência relativa consideravelmente alta (38,55%). Tabela 6 -Abundância (A), abundância relativa (AR) e riqueza das espécies de Calliphoridae adulta coletadas em relação às fases de decomposição de carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fases</head><p>I II III IV V A AR% Calliphoridae Chrysomya megacephala 0 39 50 0 1 90 38,13 % Chrysomya albiceps 0 34 25 0 0 59 25,00 % Cochliomyia macellaria 0 24 28 1 0 53 22,45 % Cochliomyia hominivorax 0 11 20 0 0 31 13,13 % Hemilucilia segmentaria 0 2 0 0 0 2 0,84 % Lucilia eximia 0 0 1 0 0 1 0,42 % A 0 110 124 1 1 236 AR% 0 46,61% 52,54% 0,42% 0,42% 100 % Riqueza 0 5 5 1 1</p><p>Em relação às demais famílias, Ulidiidae, Drosophilidae, Phoridae, Piophilidae, Sphaeroceridae, Sepsidae, por exemplo, costumam aparecer em estudos de entomologia forense, porém em abundâncias reduzidas em relação às famílias Calliphoridae, Sarcophagidae e Muscidae nos levantamentos de dípteros necrófagos realizados com carcaças ou iscas com tecido animal. Entretanto, Nunes (2014) em levantamento de dípteros de interesse forense nas quatro estações do ano em ambiente de dunas em Florianópolis obteve a maior abundância de Phoridae (52,31%) seguida de Ulidiidae (13,28%), enquanto que Muscidae representou apenas 1,5% das coletas. Estes resultados mostram a importância de realizar trabalhos em diferentes ambientes, pois além de conhecer a fauna necrófaga a fim de estimar o IPM, podem auxiliar nos estudos forenses trazendo outras informações relevantes, como inferir se o cadáver foi movimentado do local original em que ocorreu o crime <ref type="bibr" target="#b39">(Pujol-Luz et al., 2008)</ref>.</p><p>Já as famílias Syrphidae, Tabanidae raramente são citadas em estudos forenses. Há registros de Tabanidae e de Syrphidae nos experimentos de <ref type="bibr" target="#b42">Santana (2006)</ref>, <ref type="bibr" target="#b33">Martins (2009)</ref>, <ref type="bibr">Panigalli e Soligo (2013)</ref> e Baltazar (2013), incluindo imaturos de Syrphidae em carcaça no estudo <ref type="bibr">de Martins (2009)</ref>. Na grande Florianópolis, <ref type="bibr">Fernandes (2014)</ref> também registrou indivíduos de Syrphidae, da espécie Ornidia obesa, a mesma registrada no presente estudo, sendo ambos os registros nas fases finais de decomposição. Embora em baixas abundâncias, não se pode desconsiderar a relevância destas famílias para os estudos forenses.</p><p>Apenas um indivíduo de espécie não identificada de Platypezidae foi registrado. Não foi encontrado na literatura registros desta família em estudos de entomologia forense no Brasil.</p><p>A fase de deterioração foi a mais diversa e com maior abundância, apresentando treze famílias e 702 espécimes (Tabela 7).</p><p>Tabela 7 -Riqueza, abundância e abundância relativa de Diptera por fase de decomposição.</p><p>Segundo <ref type="bibr">Barros et al. (2008)</ref> a maior frequência de Calliphoridae ocorre nas fases fresca, inchamento e deterioração, sendo responsáveis pelo consumo de grande parte da massa do cadáver, havendo uma diminuição nas fases seco e de restos.</p><p>Neste trabalho, as famílias de maior interesse forense demonstraram preferência pelas fases de inchamento e deterioração, em especial pela de deterioração, onde suas abundâncias foram maiores, reduzindo drasticamente nos estágios seco e de restos (Gráfico 1). Estes resultados parecem seguir um padrão dentro dos estudos em levantamentos de dipterofauna em carcaças. <ref type="bibr" target="#b7">Bitar et al. (2013)</ref> também obtiveram maiores abundâncias das famílias Muscidae, Sarcophagidae e Calliphoridae, sendo Calliphoridae a mais abundante, com maior ocorrência nas fases de inchamento e deterioração. Fases Riqueza Abundância Abundância relativa Inicial 1 1 0,1 Inchamento 9 242 24,34 Deterioração 13 702 70,62 Seco 11 31 3,11 Restos 8 18 1,81 Gráfico 1 -Número de indivíduos das famílias de maior ocorrência, por fase de decomposição.</p><p>Com relação à constância (Tabela 8), as famílias Muscidae, Sarcophagidae, Calliphoridae, Fanniidae, Sphaeroceridae, Piophilidae, Sepsidae e Ulidiidae foram consideradas constantes, sendo registradas em mais de 50% das coletas. Phoridae esteve presente em quatro das dez coletas, sendo classificada como acessória. Tabanidae, Drosophilidae, Syrphidae, Platypezidae e as duas famílias não identificadas foram consideradas acidentais, com menos de 25% de constância. Nenhuma família esteve presente em todas as fases de decomposição. Fernandes (2014) observou a presença de Phoridae na carcaça durante todo o período do experimento, inclusive com comprovação de oviposição de Phoridae no cadáver através de coletas de larvas, destacando a importância forense desta família.</p><p>Quanto à distribuição das espécies, não foi possível identificar um padrão de sucessão temporal das famílias por se tratar de um experimento muito curto e com apenas um cadáver. São necessários trabalhos com mais réplicas de carcaças e com carcaças maiores, que levem mais tempo para se decompor para analisar o padrão de sucessão.</p><p>Tabela 8 -Constância das famílias de Diptera coletadas em carcaça de suíno (Sus scrofa) no verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos. Família Constância Fases Muscidae 60% II, III, IV Sarcophagidae 60% I, II, III Calliphoridae 60% II, III, IV, V Fanniidae 60% II, III, IV, V Sphaeroceridae 60% II, III, IV, V Piophilidae 60% II, III, IV, V Sepsidae 50% III, IV, V Ulidiidae 50% II, III, IV, V Phoridae 40% I, III, IV Tabanidae 20% I, II Drosophilidae 20% III, IV Syrphidae 20% III, V Família 1 20% IV, V Família 2 10% IV Platypezidae 10% III 4.3 Comparação entre Este e o Trabalho Desenvolvido por Juk (2013) no Inverno O tempo de decomposição nos estudos nas duas estações do ano diferiu bastante. No inverno, a carcaça levou 62 dias para decomposição total, já no verão levou apenas onze dias. O gráfico 2 mostra a diferença no tempo de duração de cada fase de decomposição deste estudo e de Juk (2013).</p><p>Apesar de ter levado muito mais tempo para se decompor, a carcaça do inverno não atraiu mais moscas do que a carcaça do verão. Isso se deve ao fato de que baixas temperaturas inibem a atividade da microbiota do próprio cadáver retardando o processo de decomposição, atenuando os odores putrefativos, além de interferir diretamente na atividade e na taxa de desenvolvimento dos insetos, uma vez que estes são animais ectotérmicos <ref type="bibr" target="#b9">(Campobasso et al., 2001)</ref>. No inverno foram identificadas onze famílias, no mínimo 32 espécies e 399 indivíduos adultos e no verão a riqueza de famílias foi de quinze, sendo pelo menos 33 espécies entre 994 indivíduos adultos (Tabela 9). Já na tabela 10 pode-se observar a abundância de dípteros coletados em cada fase de decomposição e sua duração em dias nas duas estações.</p><p>Tabela 9 -Número de famílias de Diptera e número de adultos coletados em dois experimentos realizados em carcaças de suíno (Sus scrofa) na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. Tabela 10 -Fases de decomposição, duração em dias e abundância de moscas coletadas carcaças de suíno (Sus scrofa) durante os experimentos na estação do inverno em 2012 <ref type="bibr" target="#b27">(Juk, 2013)</ref> e no verão de 2014 na Estação Ecológica de Carijós, Florianópolis. Inverno Verão Fases Duração Abundância Duração Abundância Inicial 3 15 1 1 Inchamento 7 113 3 242 Deterioração 11 231 2 702 Seco 27 37 2 31 Restos 14 3 3 18 Total 62 399 11 994 Gráfico 4 -Abundância relativa das famílias em comum de Diptera coletadas em carcaça de suíno no inverno e verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Experimento</head><p>Cinco famílias predominaram nos dois experimentos (Tabela 11), tanto no experimento do inverno quanto do verão, a família mais abundante foi Muscidae. Porém, no inverno ela se sobressaiu em relação às demais famílias, com um número de indivíduos coletado superior, representando 42,60% de abundância relativa, enquanto que no experimento do verão a abundância relativa de Muscidae foi semelhante às abundâncias de Sarcophagidae e Calliphoridae. Sphaeroceridae foi a quinta família mais abundante nas duas estações, entretanto, a abundância relativa foi um pouco maior na estação mais fria.</p><p>No verão, Muscidae, Sarcophagidae e Calliphoridae tiveram os números de abundância e abundância relativa aproximados, predominando quase que igualmente nesta estação.</p><p>Chama-se atenção ao fato de que no verão a família Sarcophagidae foi representativa, sendo a segunda mais comum, enquanto que no inverno Sarcophagidae foi uma das famílias de menor abundância, sendo considerada acessória.</p><p>Segundo <ref type="bibr" target="#b22">Galindo (2009)</ref>, os sarcofagídeos são um dos grupos mais abundantes dentro dos muscóideos sendo encontrados, na sua maioria, em regiões com temperaturas elevadas. <ref type="bibr" target="#b35">Nunes (2014)</ref>, realizando coletas nas quatro estações do ano em Florianópolis, observou que a família Sarcophagidae foi registrada em números mais altos no verão e primavera, sendo observadas as menores abundâncias no inverno e outono.</p><p>Tabela 11 -Abundância e abundância relativa das cinco famílias mais representativas em cada estação. Inverno Verão Famílias A AR% Famílias A AR% Muscidae 170 42,60% Muscidae 269 27,06% Calliphoridae 82 20,55% Sarcophagidae 237 23,90% Fanniidae 40 10,00% Calliphoridae 236 23,74% Phoridae 40 10,00% Fanniidae 128 12,87% Sphaeroceridae 28 7,00% Sphaeroceridae 39 3,90%</p><p>Em relação às espécies de interesse forense mais importantes que representaram os estudos, os resultados foram semelhantes (Gráfico 5). O. aenescens foi a mais abundante nos dois experimentos. Foram coletados 193 indivíduos no verão e 153 no inverno, porém esta espécie foi mais representativa no inverno com a abundância relativa 18,91% maior em relação ao verão. C. megacephala e C. albiceps também foram coletadas em abundâncias maiores no verão, mas em relação à abundância relativa, tiveram valores de representatividade parecidos, sendo C. megacephala a primeira mais abundante dentre os califorídeos no verão e C. albiceps no inverno.</p><p>Gráfico 5 -Abundância relativa das espécies de maior interesse forense coletadas em carcaça de suíno no inverno e verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</p><p>Quanto aos dados abióticos, a temperatura apresentou uma diferença de aproximadamente 8ºC entre as médias dos experimentos (Gráfico 6). No inverno a amplitude térmica foi muito maior, com temperaturas que variaram de 5,2ºC a 32,5ºC. No verão a temperatura não variou muito, mantendo as médias acima dos 25ºC, com temperaturas abaixo dos 20ºC em algum momento do dia em apenas dois dias.</p><p>A umidade relativa do ar seguiu o mesmo padrão da temperatura, apresentando maior amplitude no experimento do inverno, com umidade variando de 49% a 99%, enquanto que no verão a umidade mais baixa foi de 60% e a mais alta 90%.</p><p>Durante o experimento do verão houve pouca precipitação, com um total de 8,3 milímetros distribuídos em três dias, enquanto que no inverno, apesar de ter sido considerado por Juk (2013) um período de pouca chuva, a precipitação foi bem maior comparado ao experimento do verão, com aproximadamente 280 milímetros distribuídos ao longo do experimento.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="4.4">Dados Meteorológicos e Relação com a Dipterofauna</head><p>As temperaturas registradas durante o experimento foram bastante elevadas, a mais alta registrada no dia 22/01, de 35ºC, e a mais baixa em 26/01, de 25,9ºC (Gráfico 7). Segundo a EPAGRI, a temperatura mais alta ocorreu no dia 29/01, de 36,13ºC e a mais baixa no dia 21/01, de 18,5ºC, sendo a média das médias diárias de 27,1ºC.</p><p>A umidade relativa do ar média registrada no experimento foi de 67,4%, sendo a mais baixa de 65% registrada no dia 20/01 e a mais alta de 90% registrada no dia 26/01. De acordo com a EPAGRI, a média diária mais alta de umidade foi de 84,1, também no dia 26/01 e a mais baixa de 65% no dia 24/01. Sobre a precipitação, segundo a EPAGRI foram registradas chuvas nos dias 22, 25 e 26, totalizando 8,3 milímetros. No dia 22 choveu tão pouco, apenas 1,3 milímetros, que não foi possível perceber a carcaça molhada nem o solo. Já nos dias 25 e 26 pode-se notar solo e carcaça úmidos.</p><p>As temperaturas do solo também foram registradas, bem como a temperatura anal do porco enquanto foi possível, pois a partir do 4º dia de decomposição a carcaça já não apresentava mais o ânus. No 5º dia foi realizado o último registro da temperatura corporal da carcaça, nas costelas.</p><p>Os fatores abióticos não pareceram exercer grande influência na composição ou abundância da dipterofauna (Tabela 12), porém, alguns aspectos podem ser considerados relevantes neste experimento, como a temperatura elevada durante todo o período, a umidade relativamente alta e a baixa precipitação podem ter favorecido a atividade de adultos e desenvolvimento de imaturos, acelerando o consumo da carcaça. Por outro lado, a falta de chuvas pode ter influenciado na baixa colonização durante as fases finais. <ref type="bibr" target="#b31">Madra et. al (2015)</ref> em trabalho realizado com diversas carcaças de suíno demonstram que a atividade de insetos em cadáveres dessecados pode ser revivida por fortes chuvas, resultando em re-hidratação dos tecidos secos.</p><p>Vale destacar, que no IPM 4 (quinto dia do experimento) a carcaça encontrava-se na metade da fase de deterioração, a mais rica e abundante das fases, quando foi registrada a maior média diária de temperatura (29,5ºC) e também a maior abundância e riqueza de todo o experimento. Neste mesmo dia também foi registrada a maior abundância da segunda espécie mais abundante, C. megacephala, corroborando com trabalhos que mostram a preferência desta espécie por temperaturas mais altas <ref type="bibr">(Rosa et al., 2007;</ref><ref type="bibr" target="#b35">Nunes, 2014;</ref><ref type="bibr" target="#b45">Wolff, 2015)</ref>. Em relação à espécie mais abundante deste experimento, O. aenescens, segundo D´ <ref type="bibr" target="#b15">Almeida et al. (1999)</ref> o gênero Ophyra requer a umidade do substrato alta para viabilidade das pupas. Apesar de ter sido a espécie mais abundante, talvez o número de indivíduos fosse maior se houvesse maior precipitação durante o experimento, pois manteria a carcaça úmida por mais tempo, proporcionando maior emergência desta espécie.</p><p>Tabela 12 -Dados de média diária de temperatura, umidade relativa, pluviosidade, abundância e riqueza segundo dados da EPAGRI no período de 20/01/2014 a 30/01/2014. C. albiceps foi a terceira espécie mais abundante nas coletas dos adultos, enquanto que C. putoria não apareceu em nenhuma das amostras. A baixa representatividade de C. putoria pode ter relação com sua presença em áreas habitadas, demonstrando alto índice de sinantropia (D`Almeida e Lopes, 1983). C. albiceps tem preferência por colonizar matéria orgânica animal em decomposição e as larvas são grandes predadoras de outras larvas de moscas, especialmente as de terceiro estágio <ref type="bibr">(Faria e Godoy, 2001;</ref><ref type="bibr" target="#b18">Faria et al., 2007)</ref>, o que pode explicar o predomínio das larvas desta espécie.</p><p>O método utilizado para esta simulação foi o de PAI, considerada a melhor alternativa para indicar um IPM mínimo, que baseia-se no período de atividade do inseto sobre o cadáver, levando em consideração o tempo de desenvolvimento da espécie. Sendo assim, podemos estimar um IPM mínimo de acordo com as informações da tabela 13 que apresenta o ciclo de vida C. albiceps.</p><p>Tabela 13 -Duração, em horas, de cada estágio de desenvolvimento das espécies de Chrysomya albiceps a 24 <ref type="bibr">(Kossman et al., 2011)</ref>. Com base nestes dados, conclui-se que a primeira fêmea de C. albiceps ovipôs na carcaça, no mínimo, 116 horas, por volta de quatro dias e meio antes da coleta das larvas L3, fornecendo um IPM confiável, já que sabemos a data em que a carcaça foi exposta (20/01).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Estágio</head><p>Figura 10 -Imagem ilustrando uma linha de tempo para simulação de estimativa de IPM.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Figura 1 -A: Características do corpo das moscas: cabeça, tórax e abdômen. Detalhe para o balancim. Figura adaptada de Storey (2011). B: Cabeça de mosca, com detalhe para a antena. Figura adaptada de EBC (2014). .......................................................................................... 18 Figura 2 -Ciclo de desenvolvimento das moscas. Fonte: adaptada de http://ciencia.hsw.uol.com.br/mosca4.htm ............................................ 19 Figura 3 -Mapa de localização da área de estudo, na Estação Ecológica de Carijós, localizada na Ilha de Santa Catarina. Imagem de Juk (2013). ............................................................................................................... 27 Figura 4 -Vegetação de restinga arbórea arbórea do local do experimento, na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. A. Visão geral. B. Ponto do experimento. ............................. 28 Figura 5 -Gaiola com armadilha Shannon utilizada no experimento com carcaça de suíno (Sus scrofa) instalada na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. ............................................................... 29 Figura 6 -Realização de registro da temperatura ambiente na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. ............................ 30 Figura 7 -Realização de registro da temperatura anal do suíno (Sus scrofa) na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. ............................................................................................................... 31 Figura 8 -Fases de decomposição de carcaça de suíno (Sus scrofa) exposto em ambiente de restinga arbórea no período do verão, na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. ............... 35 Figura 9 -Diferença entre o quarto (A) e quinto (B) dia de decomposição. ....................................................................................... 37 Figura 10 -Imagem ilustrando uma linha de tempo para simulação de estimativa de IPM.................................................................................. 57</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>e no verão de 2014 na Estação Ecológica de Carijós, Florianópolis. .......................... 49 Tabela 11 -Abundância e abundância relativa das cinco famílias mais representativas em cada estação. ........................................................... 51 Tabela 12 -Dados de média diária de temperatura, umidade relativa, pluviosidade, abundância e riqueza segundo dados da EPAGRI no período de 20/01/2014 a 30/01/2014. ................................................... 55 Tabela 13 -Duração, em horas, de cada estágio de desenvolvimento das espécies de Chrysomya albiceps a 24 (Kossman et al., 2011). ......... 56 LISTA DE GRÁFICOS Gráfico 1 -Número de indivíduos das famílias de maior ocorrência, por fase de decomposição. ........................................................................... 46 Gráfico 2 -Duração das fases de decomposição das carcaças de suíno (Sus scrofa) durante os experimentos na estação do inverno em 2012 (Juk, 2013) e no verão de 2014 na Estação Ecológica de Carijós, Florianópolis. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos.....................................................................................48 Gráfico 3 -Famílias encontradas exclusivamente em cada estação e em comumMus.=Muscidae; Pho.=Phoridae; Pio.=Piophilidae; Sar.=Sarcophagidae; Sep.=Sepsidae; Sph.= Sphaeroceridae; Dro.= Drosophilidae; Pla.= Platypezidae; Syr.= Syrphidae; Tab.= Tabanidae; Uli.= Ulidiidae; F.1= família não identificada 1; F.2= família não identificada 2....................49 Gráfico 4 -Abundância relativa das famílias em comum de Diptera coletadas em carcaça de suíno no inverno e verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina...............................................50 Gráfico 5 -Abundância relativa das espécies de maior interesse forense coletadas em carcaça de suíno no inverno e verão na Estação Ecológica de Carijós, Florianópolis, Santa Catarina...............................................51 Gráfico 6 -Dados de médias diárias de temperatura, umidade relativa do ar e precipitação total obtidas durante os experimentos na estação do inverno em 2012 (Juk, 2013) e no verão de 2014 na Estação Ecológica de Carijós, Florianópolis. ...................................................................... 53 Gráfico 7 -Dados abióticos coletados no momento das coletas. ........................................................................................26 2.1 Objetivo Geral......................................................................26 2.2 Objetivos Específicos...........................................................26 METODOLOGIA..........................................................................................................................................................52 4.5 Larvas e Simulação de Estimativa de IPM........................56 CONCLUSÕES..........................................................................</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figura 1 -</head><label>1</label><figDesc>Figura 1 -A: Características do corpo das moscas: cabeça, tórax e abdômen. Detalhe para o balancim. Figura adaptada de Storey (2011). B: Cabeça de mosca, com detalhe para a antena. Figura adaptada de EBC (2014).</figDesc><graphic coords="18,61.07,387.47,432.30,178.92" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>da Pesquisa O estudo foi realizado na Unidade de Conservação Estação Ecológica (ESEC) de Carijós, que fica localizada à noroeste da Ilha de Santa Catarina, Florianópolis, sob as coordenadas geográficas 48⁰52' W, 27⁰54' S e 48⁰48' W, 27⁰50' S (Figura 3). Foi executado com a autorização do órgão responsável por sua manutenção, o Instituto Chico Mendes de Preservação (ICMBio) através do Sistema de Autorização e Informação em Biodiversidade (SISBIO) sob o número 34110-2, com data de emissão em 10 de janeiro de 2014.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figura 3 -</head><label>3</label><figDesc>Figura 3 -Mapa de localização da área de estudo, na Estação Ecológica de Carijós, localizada na Ilha de Santa Catarina. Imagem de<ref type="bibr" target="#b27">Juk (2013)</ref>.</figDesc><graphic coords="27,101.67,285.84,431.74,313.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figura 4 -</head><label>4</label><figDesc>Figura 4 -Vegetação de restinga arbórea do local do experimento, na Estação Ecológica de Carijós, Florianópolis, Santa Catarina. A. Visão geral. B. Ponto do experimento.</figDesc><graphic coords="28,61.07,507.12,432.65,147.31" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figura 6 -</head><label>6</label><figDesc>Figura 6 -Realização de registro da temperatura ambiente na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</figDesc><graphic coords="30,70.55,353.73,413.84,277.14" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figura 7 -</head><label>7</label><figDesc>Figura 7 -Realização de registro da temperatura anal do suíno (Sus scrofa) na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</figDesc><graphic coords="31,141.55,234.22,325.87,485.55" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_8"><head>Figura 8 -</head><label>8</label><figDesc>Figura 8 -Fases de decomposição de carcaça de suíno (Sus scrofa) exposto em ambiente de restinga arbórea no período do verão, na Estação Ecológica de Carijós, Florianópolis, Santa Catarina.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_9"><head>Figura 9 -</head><label>9</label><figDesc>Figura 9 -Diferença entre o quarto e quinto dia de decomposição.</figDesc><graphic coords="37,101.10,80.12,429.97,152.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_10"><head>Tabela 3 -</head><label>3</label><figDesc>Estudos semelhantes com carcaças de suínos (Sus scrofa).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_12"><figDesc>Gráfico 2 -Duração das fases de decomposição das carcaças de suíno (Sus scrofa) durante os experimentos na estação do inverno em 2012<ref type="bibr" target="#b27">(Juk, 2013)</ref> e no verão de 2014 na Estação Ecológica de Carijós, Florianópolis. Fases: I -Inicial; II -Inchamento; III -Deterioração; IV -Seco; V -Restos.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_13"><figDesc>que estiveram presentes em comum nos trabalhos das duas estações: Muscidae, Calliphoridae, Fanniidae, Phoridae, Sphaeroceridae, Sarcophagidae, Sepsidae e Piophilidae. Foram três famílias restritas ao inverno (Chloropidae, Dixidae e Micropezidae) e sete famílias levantadas apenas no verão (Drosophilidae, Platypezidae, Syrphidae, Tabanidae, Ulidiidae e duas famílias não identificadas) (Gráfico 3). O gráfico 4 apresenta as famílias em comum registradas nas duas estações e suas abundâncias. Gráfico 3 -Famílias encontradas exclusivamente em cada estação e em comum. Legenda: Chl.= Chloropidae; Dix.=Dixidae; Mic.=Micropezidae; Cal.= Calliphoridae; Fan.=Fanniidae; Mus.=Muscidae; Pho.=Phoridae; Pio.=Piophilidae; Sar.=Sarcophagidae; Sep.=Sepsidae; Sph.= Sphaeroceridae; Dro.= Drosophilidae; Pla.= Platypezidae; Syr.= Syrphidae; Tab.= Tabanidae; Uli.= Ulidiidae; F.1= família não identificada 1; F.2= família não identificada 2.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_14"><figDesc>e Simulação de Estimativa de IPM Durante o experimento foram coletadas larvas com o intuito de estimar o IPM. As coletas ocorreram na fase de deterioração, quando a atividade larval era intensa e haviam larvas maiores, de terceiro instar. Dez larvas foram criadas até a emergência dos adultos, sendo nove indivíduos de C. albiceps e um de C. putoria.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_15"><figDesc>se na figura 10, as larvas foram coletadas no dia 25/01, simulando que o cadáver tinha sido encontrado nesse dia. As larvas foram levadas para laboratório onde concluíram o desenvolvimento e emergiram entre os dias 30/01 e 31/01.De acordo  com Kossman et al. (2011)  o ciclo de vida de C. albiceps é de 264 horas, ou seja, esta espécie em condições de laboratório, a cerca de 24ºC leva onze dias para completar a metamorfose de ovo até adulto. O período transcorrido desde o estágio L3, estágio que se encontrava no dia da coleta, até a emergência dos adultos foi de aproximadamente 144 horas (6 dias). Levando em consideração que a espécie leva em média 116 horas (4,8 dias) do estágio de ovo até L3, pode-se inferir que a oviposição deve ter ocorrido entre o dia 20/01 e 21/01.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="2,61.30,455.93,431.95,322.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="19,122.32,216.75,390.36,364.06" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="29,201.24,404.93,232.73,310.95" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="46,61.07,80.12,432.80,259.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="49,101.19,131.48,432.79,284.52" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="50,61.07,114.42,432.44,260.81" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="51,142.68,554.15,349.84,176.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="53,144.10,80.12,347.09,190.94" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="53,140.84,288.18,353.38,222.83" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="53,165.31,530.53,304.44,186.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="54,71.26,590.64,412.57,167.67" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="57,125.22,216.75,384.64,190.94" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Gráfico 7 -Dados abióticos coletados no momento das coletas.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_1"><p>CONCLUSÕESNa Estação Ecológica de Carijós, na estação do verão, uma carcaça de suíno de 10 quilos chega em fase de decomposição de restos em nove dias; Foi possível identificar as cinco fases de decomposição pelas quais a carcaça passou: inicial/fresco, inchamento, deterioração, seco e restos; O experimento do verão atraiu maior quantidade e maior variedade de moscas do que o experimento do inverno; Foram levantas quinze famílias de Diptera, sendo Muscidae, Sarcophagidae e Calliphoridae as mais abundantes e consideradas as mais relevantes para estimativa do IPM; A espécie mais abundante nos experimentos das duas estações foi O. aenescens; Das famílias levantadas, oito apareceram nos trabalhos de verão e inverno e sete apenas no verão; As fases de inchamento e deterioração atraíram mais moscas;</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Gráfico 6 -Dados de médias diárias de temperatura, umidade relativa do ar e precipitação total obtidas durante os experimentos na estação do inverno em 2012 (Juk, 2013) e no verão de</title>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Florianópolis</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>na Estação Ecológica de Carijós</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Best Practice in Forensic Entomology -Standards and Guidelines</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Referências Bibliográficas Amendt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Campobasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gaudry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reiter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">N</forename><surname>Leblanc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J R</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Legal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="90" to="104" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Estado do Conhecimento dos Diptera Neotropicais</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Amendt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krettek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Forensic</forename><surname>Zehner</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Entomology</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Naturwissenschaften</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I P A</forename><surname>Balbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Vanin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Melic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proyecto de Red Iberoamericana de Biogeografia y Entomología Sistemática</title>
+		<imprint>
+			<date type="published" when="2002">2004. 2002. 2013</date>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="29" to="36" />
+		</imprint>
+	</monogr>
+	<note>The Science of Nature PRIBES Zaragoza: Sociedad Entomológica Aragoneza y CYTED Atibaia) do Estado de São Paulo: Aspectos Médico-Sanitários e Forenses</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">São</forename><surname>Paulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Sarcophagidae</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Insecta, Diptera</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">A Brief History of Forensic Entomology</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Benecke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Science Internacional</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="2" to="14" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Neglect of the Elderly: Forensic Entomology Cases and Considerations</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Benecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Josephib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zweihoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Science International</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="195" to="199" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Child Neglect and Forensic Entomology</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Benecke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lessig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Science International</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="page" from="155" to="159" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Ocorrência da Família Sarcophagidae (Insecta, Diptera) em Carcaças de Sus scrofa Linnaeus (Suidae) em Belém-PA: Colonização da Carcaça e sua Relação com o Tempo de Morte do Animal</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D R</forename><surname>Bitar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>S; Geiser</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Criminalística</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="24" to="31" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">An Analysis of Arthropod Succession in Carrion and the Effect of its Decomposition on the Soil Fauna</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Bornemissza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Journal of Zoology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Factors Affecting Decomposition and Diptera Colonization</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Forensic</forename><surname>Castner</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Entomology</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Campobasso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Vella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Introna</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Utility of Arthropods in Legal Investigations</title>
+		<meeting><address><addrLine>Nova Iorque</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="2001">2010. 2001</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="18" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Descrição das Principais Famílias de Diptera Utilizadas na Entomologia Forense</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R P</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mostra de Produção Científica da Pós-Graduação Latu Sensu da PUC</title>
+		<meeting><address><addrLine>Goiás, V, Goiás</addrLine></address></meeting>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="17" to="2010" />
+		</imprint>
+	</monogr>
+	<note>Programa de Pós-Graduação em Biociências Forenses</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Chave para Adultos de Dípteros (Muscidae, Fanniidae, Anthomyiidae) Associados ao Ambiente Humano no Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Moura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="107" to="114" />
+			<date type="published" when="2002">2008. 2002</date>
+		</imprint>
+	</monogr>
+	<note>Key to the Adults of the Most Common Forensic Species of Diptera in South America Revista Brasileira de Entomologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Entomofauna Associada a Cadáver de Porco Doméstico (Sus scrofa (L.) em Área Urbana de Trindade, GO</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rafael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Diptera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rafael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A R</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Casari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Insetos do Brasil: Diversidade e Taxonomia</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Holos</publisher>
+			<date type="published" when="2012">2012. 2012</date>
+			<biblScope unit="page" from="701" to="744" />
+		</imprint>
+	</monogr>
+	<note>Artigo apresentado no IV Seminário de Pesquisas e TCC da Faculdade União de Goyazes</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">CATTS, E. P. Problems in Estimating the Post-Mortem Interval in Death Investigations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Catts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Agricultural Entomology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+			<date type="published" when="1992">1992. 1992</date>
+		</imprint>
+	</monogr>
+	<note>Forensic Entomology in Criminal Investigations Annual Review of Entomology</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Felix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Costa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Insetos: uma Aventura pela Biodiversidade. Rio de Janeiro: Ed. Otten, Fundação Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="page">375</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Desenvolvimento Pós-embrionário de Ophyra aenescens (Wiedemann, 1830) (Diptera: Muscidae) em Diferentes Dietas, sob Condições de Laboratório</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Courtney</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Merritt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D´almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Borges</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<ptr target="http://www.ebc.com.br/infantil/voce-sabia/2014/12/como-e-a-vida-das-moscas.Acessadoem:30/09/2015" />
+	</analytic>
+	<monogr>
+		<title level="j">Mem Inst Oswaldo Cruz</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">W</forename><surname>Merritt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">W</forename><surname>Cummins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Berg</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="123" to="126" />
+			<date type="published" when="1999">2008. 1999. 2014</date>
+			<publisher>EBC. Empresa Brasil de Comunicações</publisher>
+		</imprint>
+	</monogr>
+	<note>Aquatic Diptera. Part One. Larvae of Aquatic Diptera An Introduction to the Aquatic Insects of North America</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Aspectos da flora e da vegetação secundária da restinga de Santa Catarina, sul do Brasil</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Falkenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insula</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="1" to="30" />
+			<date type="published" when="1999">1999</date>
+			<pubPlace>Florianópolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Prey Choice by Facultative Predator Larvae of Chrysomya albiceps (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D B</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Memórias do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="875" to="878" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Foraging Behaviour by an Intraguild Predator Blowfly, Chrysomya albiceps (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D B</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reigada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Trinca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Ethology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="287" to="294" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Insetos: uma Aventura pela Biodiversidade</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Felix</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Costa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<publisher>Ed. Otten, Fundação Oswaldo Cruz</publisher>
+			<biblScope unit="page">375</biblScope>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Fernandes</surname></persName>
+		</author>
+		<title level="m">Levantamento da Fauna Entomológica em</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Curso</forename><surname>De</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<pubPlace>Florianópolis</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Graduação em Ciências Biológicas) -Universidade Federal de Santa Catarina</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Cronotanatognose: a Influência do Clima Tropical na Determinação do Intervalo Post-Mortem</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Galindo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Garrido</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Naia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Interações Interespecíficas e Comportamentais de Moscas-Varejeiras: Abordagens Ecológicas e Médico-Legais Envolvendo Populações Naturais. 2009. 74 f. Tese</title>
+		<meeting><address><addrLine>Botucatu</addrLine></address></meeting>
+		<imprint>
+			<publisher>Lex Humana</publisher>
+			<date type="published" when="2009">2009. 2014</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="180" to="195" />
+		</imprint>
+		<respStmt>
+			<orgName>Doutorado em Biologia Geral e Aplicada) -Universidade Estadual Paulista</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Análise de Dados Ecológicos</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Ferreira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Niterói</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal Fluminense</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">Entomologia</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forense</surname></persName>
+		</author>
+		<title level="m">Novas Tendências e Tecnologias nas Ciências Criminais</title>
+		<meeting><address><addrLine>Rio de Janeiro</addrLine></address></meeting>
+		<imprint>
+			<publisher>Technical Books Editora</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="page">528</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Flies as Forensic Indicators</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="565" to="577" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Restinga Arbórea</surname></persName>
+		</author>
+		<idno>em: 07/08/15</idno>
+		<ptr target="http://www.icmbio.gov.br/portal/images/stories/imgs-unidades-coservacao/esec_carijos.pdf" />
+		<imprint>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+	<note>Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Juk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Catarina</forename><surname>Levantamento</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<pubPlace>Florianópolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Scope and Applications of Forensic Entomology</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Keh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="137" to="154" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Código De Barras</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Curitiba</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal do Paraná</orgName>
+		</respStmt>
+	</monogr>
+	<note>DNA barcode) de Dípteros de Interesse Forense. 2009. 72 f. Dissertação (Mestrado em Entomologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Chrysomya albiceps (Wiedemann) and Hemilucilia segmentaria (Fabricius) (Diptera, Calliphoridae) Used to Estimative the Postmortem Interval in a Forensic Case in Minas Gerais</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Calliphoridae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Macedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A F</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<editor>
+			<persName><surname>Identificação</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Sinantropia E Análise Microbiológica</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Tese</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="621" to="623" />
+			<date type="published" when="2011">2013. 2011</date>
+			<pubPlace>Brazil</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Doutorado em Biologia Animal) -Instituto de Ciências Biológicas, Universidade de Brasília</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Long-Term Study of Pig Carrion Entomofauna</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Miíases</forename><surname>Entomologia Forense</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Terapia</forename><surname>Larval</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Rafael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A R</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Casari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Constantino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lord</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D</forename><surname>Stevenson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Madra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fratczak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Grzywacz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Matuszewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Insetos do Brasil: Diversidade e Taxonomia</title>
+		<meeting><address><addrLine>São Paulo; Washington-D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>Holos</publisher>
+			<date type="published" when="1986">2012. 1986. 2015</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+		</imprint>
+	</monogr>
+	<note>Directory of Forensic Entomologists Forensic Science International</note>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Anatomia Interna e Fisiologia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rafael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A R</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Casari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Insetos do Brasil: Diversidade e Taxonomia</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Holos</publisher>
+			<date type="published" when="2012">2012</date>
+			<biblScope unit="page" from="33" to="80" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Análise</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Botucatu</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Estadual Paulista</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Chave para Identificação das Formas Adultas das Espécies da Família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) Encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">H B</forename><surname>Miranda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vestígios Entomologógicos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Entomologia y Vectores</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Velho</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Costa</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">T M</forename><surname>Damasceno</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Vestígios Entomológicos. Campinas, São Paulo. Millenium Editora</publisher>
+			<date type="published" when="2003">2003. 2013</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="125" to="150" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Entomologia</forename><surname>Oliveira-Costa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Forense</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pandolfo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Braga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R V P</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Massignam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M R</forename><surname>Thomé</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V</forename><surname>Valci</surname></persName>
+		</author>
+		<idno>em: 10/08/15</idno>
+		<ptr target="http://ciram.epagri.sc.gov.br/ciram_arquivos/arquivos/portal/agricultura/atlasClimatologico/atlasClimatologico.pdf" />
+		<title level="m">Quando os Insetos são os Vestígios. 3° ed. Campinas: Millennium Editora (Tratado de Perícias Criminalísticas)</title>
+		<meeting><address><addrLine>Florianópolis, SC; Florianópolis; Florianópolis</addrLine></address></meeting>
+		<imprint>
+			<publisher>CD-Rom</publisher>
+			<date type="published" when="2002">2014. 2014. 2011. 2002</date>
+			<biblScope unit="page">520</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas) -Universidade Federal de Santa Catarina</orgName>
+		</respStmt>
+	</monogr>
+	<note>Levantamento de Dípteros de Interesse Forense nas Dunas do Rio Vermelho</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diversidade de Insecta (Arthropoda) Associada à Carcaça de Sus scrofa L. em um Fragmento de Mata Atlântica de Xanxerê</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Panigalli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Soligo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Santa Catarina. Unoesc &amp; Ciência -ACBS</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="15" to="26" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">A Summer Carrion Study of the Baby Pig Sus scrofa Linnaeus</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Payne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="592" to="602" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Fauna de Calliphoridae, Muscidae e Sarcophagidae (Ordem Diptera) Associada a Decomposição de Carcaça de Rattus novergicus (Berkenhout, 1769)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Pereira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IX Congresso de Ecologia do Brasil</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<pubPlace>São Lourenço</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Variáveis na Estimativa do Intervalo Pós-Morte por Métodos de Entomologia Forense</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Pinheiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A S</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S A</forename><surname>Jesuino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M V</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Chaves Arantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cem Anos da Entomologia Forense no Brasil</title>
+		<imprint>
+			<date type="published" when="1908">2012. 1908-2008. 2008</date>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="485" to="492" />
+		</imprint>
+	</monogr>
+	<note>Rev. Bras. Entomol.</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Desenvolvimento de Ophyra aenescens Wiedemann, 1830 (Diptera, Muscidae, Azeliinae), em Diferentes Temperaturas, em Condições de Laboratório</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rafael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A R</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Casari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Silveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Insetos do Brasil: Diversidade e Taxonomia</title>
+		<meeting><address><addrLine>Minas Gerais</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2012. 2000. 2007</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="80" to="87" />
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal de Uberlândia</orgName>
+		</respStmt>
+	</monogr>
+	<note>Holos: São Paulo ROSA, T. A. Artropodofauna de Interesse Forense no Cerrado do Município de Uberlândia, MG: Abundância Relativa Diversidade e Sucessão Entomológica. 2007. 84 f. Dissertação (Mestrado em Imunologia e Parasitologia Aplicadas</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Dípteros de Interesse Forense em Dois Perfis de Vegetação de Cerrado em Uberlândia</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L Y</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MG. Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="859" to="866" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Dipterofauna Associada a Carcaças de Sus scrofa Linnaeus em Área de Cerrado do Distrito Federal, com Ênfase na Família Calliphoridae (Insecta, Diptera)</title>
+		<author>
+			<persName><forename type="middle">F A</forename><surname>Santana</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006. 2006</date>
+			<pubPlace>Brasília</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>92 f. Dissertação (Pós-graduação em Biologia Animal) -Universidade de Brasília</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title level="m" type="main">A Manual of Forensic Entomology</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">G V</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Helina</forename><surname>Storey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Reversio</surname></persName>
+		</author>
+		<idno>em: 30/09/2015</idno>
+		<ptr target="http://www.discoverlife.org/mp/20q?guide=Diptera" />
+		<imprint>
+			<date type="published" when="1986">1986. 2011</date>
+			<publisher>Cornell University Press</publisher>
+			<biblScope unit="page">205</biblScope>
+			<pubPlace>Ithaca</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Interaction between Chrysomya rufifacies and Cochliomyia macellaria (Diptera: Calliphoridae): the possible consequences of an invasion</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Vanin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Filogenia E Classificação</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Rafael</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A R</forename><surname>Melo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Casari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Velho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">T M</forename><surname>Damasceno</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Locais de Crime: dos Vestígios à Dinâmica Criminosa. Campinas: Millennium</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wells</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Walingford</publisher>
+			<date type="published" when="1992">2012. 2013. 1992</date>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="133" to="137" />
+		</imprint>
+	</monogr>
+	<note>Insetos do Brasil: Diversidade e Taxonomia</note>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Sinantropia de Calliphoridae (Insecta: Diptera) no Município de São José, SC. 2015. 58 f. Trabalho de Conclusão de Curso (Graduação em Ciências Biológicas</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Wolff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015">2015</date>
+			<publisher>Universidade Federal de Santa Catarina</publisher>
+			<pubPlace>Florianópolis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Genetic Identification of Forensically Important Flesh Flies (Diptera: Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zehner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Amendt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Schutt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krettek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Povolny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Legal Med</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page">p</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Reassessment of the potential economic impact of cattle parasites in Brazil Reavaliação do potencial impacto econômico de parasitos de bovinos no Brasil</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Laerte</forename><surname>Grisi</surname></persName>
+							<email>lgrisi@ufrrj.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Universidade Federal Rural do Rio de Janeiro -UFRRJ , Seropédica , RJ , Brasil</note>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro -UFRRJ</orgName>
+								<address>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Romário</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cerqueira</forename><surname>Leite</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Universidade Federal de Minas Gerais -UFMG , Belo Horizonte , MG , Brasil</note>
+								<orgName type="institution">Universidade Federal de Minas Gerais -UFMG</orgName>
+								<address>
+									<addrLine>Belo Horizonte</addrLine>
+									<region>MG</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>João</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ricardo</forename><surname>De Souza Martins</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Instituto de Pesquisas Veterinárias Desidério Finamor , Fundação Estadual de Pesquisa Agropecuária -FEPAGRO , Eldorado do Sul, RS , Brasil</note>
+								<orgName type="institution" key="instit1">Instituto de Pesquisas Veterinárias Desidério Finamor</orgName>
+								<orgName type="institution" key="instit2">Fundação Estadual de Pesquisa Agropecuária -FEPAGRO</orgName>
+								<orgName type="institution" key="instit3">Eldorado do Sul, RS</orgName>
+								<address>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Thadeu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Medeiros</forename><surname>De Barros</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Embrapa Gado de Corte , Campo Grande , MS , Brasil</note>
+								<orgName type="institution">Embrapa Gado de Corte</orgName>
+								<address>
+									<addrLine>Campo Grande</addrLine>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Renato</forename><surname>Andreotti</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Embrapa Gado de Corte , Campo Grande , MS , Brasil</note>
+								<orgName type="institution">Embrapa Gado de Corte</orgName>
+								<address>
+									<addrLine>Campo Grande</addrLine>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Paulo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Henrique</forename><surname>Duarte Cançado</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>4</label> Embrapa Gado de Corte , Campo Grande , MS , Brasil</note>
+								<orgName type="institution">Embrapa Gado de Corte</orgName>
+								<address>
+									<addrLine>Campo Grande</addrLine>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Adalberto</forename><surname>Angel Pérez De León</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>5</label> USDA-ARS Knipling-Bushland U.S. Livestock Insects Research Laboratory , Kerrville , TX , USA USDA</note>
+								<orgName type="institution">USDA-ARS Knipling-Bushland U.S. Livestock Insects Research Laboratory</orgName>
+								<address>
+									<settlement>Kerrville</settlement>
+									<region>TX</region>
+									<country>USA USDA</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Jairo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Barros</forename><surname>Pereira</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>6</label> Champion Farmoquímico Ltda , Anápolis , GO , Brasil Departamento de Parasitologia Animal ,</note>
+								<orgName type="department">Departamento de Parasitologia Animal</orgName>
+								<orgName type="institution">Champion Farmoquímico Ltda</orgName>
+								<address>
+									<settlement>Anápolis</settlement>
+									<region>GO</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Humberto</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Silva</forename><surname>Villela</surname></persName>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>6</label> Champion Farmoquímico Ltda , Anápolis , GO , Brasil Departamento de Parasitologia Animal ,</note>
+								<orgName type="department">Departamento de Parasitologia Animal</orgName>
+								<orgName type="institution">Champion Farmoquímico Ltda</orgName>
+								<address>
+									<settlement>Anápolis</settlement>
+									<region>GO</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff6">
+								<note type="raw_affiliation">Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro -UFRRJ , BR 465 , Km 7 , CEP 23890-000 , Seropédica , RJ , Brasil</note>
+								<orgName type="department">Instituto de Veterinária</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro -UFRRJ</orgName>
+								<address>
+									<addrLine>BR 465 Km 7</addrLine>
+									<postCode>23890-000</postCode>
+									<settlement>Seropédica</settlement>
+									<region>CEP RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Reassessment of the potential economic impact of cattle parasites in Brazil Reavaliação do potencial impacto econômico de parasitos de bovinos no Brasil</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1984-2961 (Electronic)</idno>
+					</monogr>
+					<idno type="MD5">6DFA9F400E5422091ACE17164BC89D93</idno>
+					<idno type="DOI">10.1590/S1984-29612014042</idno>
+					<note type="submission">Received November 6, 2013 Accepted March 19, 2014</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cattle parasites</term>
+					<term>production loss</term>
+					<term>economic assessment</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The profitability of livestock activities can be diminished significantly by the effects of parasites. Economic losses caused by cattle parasites in Brazil were estimated on an annual basis, considering the total number of animals at risk and the potential detrimental effects of parasitism on cattle productivity. Estimates in U.S. dollars (USD) were based on reported yield losses among untreated animals and reflected some of the effects of parasitic diseases. Relevant parasites that affect cattle productivity in Brazil, and their economic impact in USD billions include: gastrointestinal nematodes -$7.11; cattle tick (Rhipicephalus (Boophilus) microplus) -$3.24; horn fly (Haematobia irritans) -$2.56; cattle grub (Dermatobia hominis) -$0.38; New World screwworm fly (Cochliomyia hominivorax) -$0.34; and stable fly (Stomoxys calcitrans) -$0.34. The combined annual economic loss due to internal and external parasites of cattle in Brazil considered here was estimated to be at least USD 13.96 billion. These findings are discussed in the context of methodologies and research that are required in order to improve the accuracy of these economic impact assessments. This information needs to be taken into consideration when developing sustainable policies for mitigating the impact of parasitism on the profitability of Brazilian cattle producers.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In 2002, <ref type="bibr">Grisi et al. made</ref> an attempt to assess the economic impact of cattle parasitism in Brazil. The resulting study was regarded as an important source of data on the economic drag that endo and ectoparasites inflict on cattle, especially from the producer's point of view. More than 10 years later, a lot has changed in the Brazilian livestock scenario: new data regarding production losses due to parasites have become available from many regions of the country. Hence, there was a need for an update.</p><p>Occurrences of internal and external parasites in cattle throughout Brazil are favored by the predominance of tropical and subtropical climates. The national cattle herd is estimated to comprise 212,797,824 heads, distributed over 8 million square kilometers of land <ref type="bibr">(IBGE, 2011)</ref>.</p><p>The economic impact of external parasites on cattle is mostly associated with infestations by the cattle tick, Rhipicephalus (Boophilus) microplus, horn fly (Haematobia irritans), cattle grub (Dermatobia hominis) and New World screwworm (Cochliomyia hominivorax). Furthermore, the importance of the stable fly (Stomoxys calcitrans) has increased over the last few years because of outbreaks associated with postharvest residues of the sugarcane industry <ref type="bibr">(BARROS et al., 2010a)</ref>. Other ectoparasites, such as the cattle mange and sucking and chewing lice, are seasonal and limited to the southern regions. <ref type="bibr" target="#b15">Drummond et al. (1981)</ref> estimated the annual losses due to cattle parasites to be $2,260 million in the United States, not including the costs of parasite control. This figure represented 10% of the value of production and sales at the time. The annual loss estimates for specific pests ranged from $29.7 million for scabies and mange mites to $730.3 million for horn flies. The cattle population in the USA in 1981 was estimated to be 124.7 million (NASS; USDA, 2011). <ref type="bibr" target="#b21">Grisi et al. (2002)</ref> estimated that the total economic losses due to ectoparasites in cattle in Brazil were $2,650 million. At that time, economic losses relating to the most important ectoparasite, the cattle tick, were based in a previous estimate by <ref type="bibr" target="#b22">Horn (1983)</ref> of $968 million for a national cattle herd of 76 million head.</p><p>The potential economic losses due to cattle parasitism in Brazil caused by major ectoparasite species and gastrointestinal nematodes are evaluated here. Estimates of the potential economic losses of each parasite species or group are based on numbers of animals at risk and on the available data on losses in milk production and weight gain of beef cattle. Most of the data are from local studies; when such information is unavailable, estimates are based on selected studies conducted elsewhere. Because information regarding production losses was obtained from control animals (animals kept untreated in the respective studies), the resulting estimates of economic losses represent potential losses among untreated cattle. Thus, the estimates presented do not necessarily represent the actual impact of cattle parasitism in Brazil but the potential losses expected in the absence of parasite control measures.</p><p>The impact of gastrointestinal nematodes on cattle production has been extensively studied worldwide. <ref type="bibr" target="#b27">Lima and Grisi (1984)</ref> assessed the milk production of cows medicated with albendazole at parturition in the state of Rio de Janeiro in comparison with controls, and reported an increase of 51.90 kg of milk per cow in the medicated group during the 90-day study period, which corresponded to 0.58 kg of milk/cow/day. <ref type="bibr" target="#b35">Ploeger et al. (1989)</ref> conducted a similar study in Holland and reported an increase of 0.44 kg of milk/cow/day. <ref type="bibr" target="#b14">Charlier et al. (2009)</ref> summarized the data prior to 1997 from studies on the impact of subclinical gastrointestinal parasitism in dairy cattle, and showed that medication produced an increase of 0.4 to 0.8 kg of milk/cow/day. Considering an average loss of 0.6 kg of milk per cow per day without medication, the potential losses of the dairy cattle population at risk due to gastrointestinal worms in Brazil would be $1,870.48 million (Table <ref type="table" target="#tab_0">1</ref>).</p><p>Based on 6 years of field trials with weaned Nelore cattle on improved pastures in central-western Brazil, <ref type="bibr" target="#b5">Bianchin et al. (1995)</ref> showed that there was a superior average weight gain of 41 kg when the animals were dewormed following a strategic program. Likewise, studies conducted by <ref type="bibr" target="#b33">Pinheiro (1983)</ref> showed that there was a difference of 67 kg in weight gain per animal between treated and untreated groups in the southern region. Analysis on data relating to beef cattle yearlings and heifers up to 2 years old showed that the potential losses due to helminth parasitism amounted to $5,237.49 million. Because of control problems commonly observed in the field, the potentially high losses due to gastrointestinal nematodes in dairy and beef cattle, estimated as $7,107.97 million (Table <ref type="table" target="#tab_0">1</ref>), strongly suggest that this parasitism represents the most important economic problem due to parasites in the country.</p><p>The damage to milk production caused by cattle ticks was recently evaluated by Rodrigues and Leite (2013) in the state of Minas Gerais, where 24.2% of the country's dairy cows are concentrated. These authors estimated that ticks were responsible for a reduction of 90.24 L in milk production per cow per lactation, which, when extrapolated to the national dairy herd, amounted to about $922.36 million of losses to the national dairy herd. Estimates of the losses inflicted by cattle tick on beef cattle were based on <ref type="bibr">Jonsson (2006)</ref>, who reported daily losses of 1.18 and 1.37 grams per tick per animal for Bos indicus x Bos taurus cattle and B. taurus, respectively. Average tick infestations were obtained from <ref type="bibr" target="#b39">Smith et al. (2000)</ref> for B. taurus (94 ticks/animal) and <ref type="bibr" target="#b19">Gomes et al. (1989)</ref> for B. indicus (3.3 ticks/animal) and crossbreeds (32 ticks/animal). Considering the whole Brazilian beef cattle herd (about 11% B. taurus and 89% B. indicus and crossbreeds), the potential economic losses caused by this tick on beef cattle were estimated to be $2,313.99 million. Therefore, the total economic loss attributable to R. (B) microplus in the Brazilian cattle herd may approach $3,236.35 million (Table <ref type="table" target="#tab_1">2</ref>).</p><p>Losses due to horn fly infestation were based on the studies of <ref type="bibr" target="#b3">Bianchin and Alves (2002)</ref> and <ref type="bibr" target="#b6">Bianchin et al. (2004)</ref>, which estimated average yearly weight losses of 3.25 kg per cow, 2.00 kg per calf and 12.19 kg per steer (value also used for heifers). Considering populations at risk, as well as current market values, the total losses due to horn fly parasitism in Brazil approach $2,558.32 million (Table <ref type="table" target="#tab_2">3</ref>). Although infestations by the horn fly and the closely related buffalo fly (H. irritans exigua) may reduce milk production (JONSSON; MAYER, 1999), the relatively low infestations usually observed on dairy cattle, probably due to frequent cattle tick treatments, suggest that the impact of horn flies may be not so evident in Brazil. No estimate of horn fly losses on dairy cattle or beef cattle pregnancy rates is provided here, since these subjects need further investigation.  The data on damage caused by D. hominis larvae to cattle productivity were based on <ref type="bibr" target="#b28">Magalhães and Lesskiu (1982)</ref>, who found a yearly reduction in weight gain of 40.6 g per larva. The estimates of economic losses due to the cattle grub focused on regions where this parasite is abundant and important. Thus, average infestations on B. taurus (74 larvae/animal/year) and B. indicus (18.2 larvae/animal/year) were estimated for the central-western and southern regions, as well as for the state of Paraná, based on several studies (MAGALHÃES; <ref type="bibr" target="#b28">LESSKIU, 1982;</ref><ref type="bibr">SARTOR, 1986;</ref><ref type="bibr" target="#b20">GOMES et al., 1988</ref><ref type="bibr" target="#b18">GOMES et al., , 1996;;</ref><ref type="bibr" target="#b9">CARNEIRO et al., 1990;</ref><ref type="bibr" target="#b31">OLIVEIRA, 1991;</ref><ref type="bibr" target="#b34">PINTO et al., 2002;</ref><ref type="bibr" target="#b17">FERNANDES et al., 2008;</ref><ref type="bibr" target="#b40">SOUZA et al., 2010)</ref>. Considering that 19.12 million B. taurus and 90.96 million B. indicus are at risk, the potential losses in weight gain due to this parasite amount to $201.93 million yearly.</p><p>The rate of damage to cattle hides caused by D. hominis larvae averaged 25.17% at slaughterhouses in the regions studied (BRITO; <ref type="bibr" target="#b8">MOYA-BORJA, 2000;</ref><ref type="bibr" target="#b29">MARQUES et al., 2000;</ref><ref type="bibr" target="#b36">SANAVRIA et al., 2002)</ref>, which represented annual losses of about $181.55 million. Cattle hide damage caused by both cattle grubs and cattle ticks reached a rate of 40%, as officially reported from a previous survey <ref type="bibr" target="#b7">(BRASIL, 1983)</ref>. Considering losses in relation to both weight gain and hide damage, the potential losses due to D. hominis larval infestation total $383.48 million (Tables <ref type="table" target="#tab_5">4</ref> and <ref type="table" target="#tab_3">5</ref>).</p><p>Occurrences of navel myiasis due to screwworm have been reported in 40.7% of calves in central-western Brazil <ref type="bibr" target="#b4">(BIANCHIN et al., 1992)</ref>, which is the main region for raising beef cattle in this country. Although endectocide products have been widely used to prevent and treat navel myiasis in newborn calves throughout Brazil, considerable losses persist. <ref type="bibr" target="#b2">Barros et al. (2010b)</ref> reported a 5.5% control failure rate for endectocide treatments against navel myiasis in calves, which was similar to the mortality rate (5.32%) observed among 432 calves monitored until weaning <ref type="bibr" target="#b4">(BIANCHIN et al., 1992)</ref>. Considering a natural occurrence of 40.7% for screwworm attacks among calves and that 5.5% of treated animals may still develop myiasis, the losses due to potential calf mortality were estimated to be $310.55 million (Table <ref type="table" target="#tab_8">6</ref>). Considering the population at risk to be just a small proportion of the calf population (i.e. only the animals presenting control failure and at risk of death), rather than the entire population of calves at potential risk of infestation, the estimated economic losses due to this parasite are probably closer to reality, but comparatively lower than those estimated for other parasite species. No estimate of the losses due to screwworm attacks among adult animals was possible, because of the lack of specific information, but this parasite and its economic implications certainly play an important role in several regions of this country.</p><p>The potential losses due to stable flies (S. calcitrans) were based on <ref type="bibr" target="#b26">Kunz et al. (1991)</ref>, who reported estimated losses of 100 g per steer per day in feedlots (50% of the cattle were exposed to stable flies) and a 27 kg decrease in milk production per cow per year (stable flies were present for six months), in the USA. Considering that there are 4.08 million feedlot cattle in Brazil (ABIEC, 2013), the losses due to S. calcitrans were estimated as  Yearly slaughtered animals Damaged hides* Total damaged hides Raw cowhide value 2012** Potential loss (million head) (%) (million) (US$ per hide) (millions of US$) Beef cattle 19.55 25.17 4.92 36.90 181.55 IBGE (2013) Scot Consultoria, 2013 Total potential loss (Tables <ref type="table" target="#tab_5">4</ref> and <ref type="table" target="#tab_3">5</ref>   <ref type="bibr" target="#b20">Gomes et al. (1988</ref><ref type="bibr" target="#b18">Gomes et al. ( , 1996))</ref>, <ref type="bibr" target="#b28">Magalhães and Lesskiu (1982)</ref>, <ref type="bibr" target="#b31">Oliveira (1991)</ref>, <ref type="bibr" target="#b34">Pinto et al. (2002)</ref>, <ref type="bibr">Sartor (1986)</ref> and <ref type="bibr" target="#b40">Souza et al. (2010)</ref>.</p><p>$59.49 million (Table <ref type="table" target="#tab_6">7</ref>). Regarding milk production, the losses inflicted on dairy cattle were estimated as $275.97 million. The total loss of $335.46 million attributed to stable flies is probably an underestimate, since the impact of this pest on pastured cattle and the size of the affected population, particularly during severe outbreaks, is unknown and was not included here. In addition to the fact that losses during outbreaks are much higher than in regular infestations, it should be considered that the frequency and severity of these outbreaks in Brazil are increasing dramatically due to the rapid expansion of ethanol production from sugarcane. The present estimate of potential losses due to stable flies is much lower than the economic impact of $2,211 million per year recently estimated for this pest among dairy and beef cattle in the USA <ref type="bibr" target="#b41">(TAYLOR et al., 2012)</ref>. Further investigations are needed regarding the current impact of stable flies on cattle production in Brazil.</p><p>Thus, the following economic losses, in millions of dollars, were estimated regarding the impact of these parasite species or groups for the respective cattle populations that were considered to be at risk: gastrointestinal nematodes ($7,107.97), cattle ticks <ref type="bibr">($3,236.35)</ref>, horn flies ($2,558.32), cattle grubs <ref type="bibr">($383.48), screwworms ($336.62</ref>) and stable flies <ref type="bibr">($335.46</ref>).</p><p>The annual potential economic losses due to the five major ectoparasites and gastrointestinal worms of cattle in Brazil reach the impressive amount of $13.9 billion (Table <ref type="table" target="#tab_7">8</ref>). This reflects the favorable environmental conditions for both livestock and their parasites in this country. The situation is aggravated by parasite control bottlenecks. When distributed across the national cattle herd (more than 212 million head), a yearly loss of $65.49 per head was found, which might seem to be more tolerable. However, considering an average age at slaughter of 36 to 42 months, this yearly impact actually represents 32% of the beef cattle sale price (CEPEA, 2013a, b, c), thus making the potential damage due to cattle parasitism unacceptable for both producers and the cattle industry.</p><p>Regardless of the limitations of some of the baseline studies used to develop these estimates, particularly when extrapolated from local situations to a national scale, the general picture obtained from the present effort demonstrates the magnitude and importance of cattle parasitism in Brazil and the unfeasibility of a profitable livestock industry without proper parasite control.</p><p>Traditionally, chemicals have been used to manage parasites, with an impact on the wellbeing and health of domestic animals, including food-producing livestock <ref type="bibr" target="#b16">(ECOBICHON, 2001;</ref><ref type="bibr" target="#b32">OLIVEIRA PASIANI et al., 2012)</ref>. However, indiscriminate use of chemical pesticides for veterinary use has driven parasite populations to become resistant to many of them <ref type="bibr" target="#b0">(ANDREOTTI et al., 2011;</ref><ref type="bibr" target="#b25">KAPLAN;</ref><ref type="bibr" target="#b25">VIDYASHANKAR, 2012;</ref><ref type="bibr" target="#b10">CASTRO JANER et al., 2012)</ref>. Further studies assessing the contribution of pesticide resistance to the economic harm resulting from parasitic diseases in cattle are warranted.</p><p>Ultimately, establishment of a national program of parasite control and resistance management, as well as a solid extension program, will not only reduce the real impact of parasitism on the Brazilian cattle industry -taking it far from the potential damage currently estimated -but also enhance public and animal health.  at risk* Prevalence of screwworm myiasis in calves Failure of navel myiasis control in calves Average weaned calf value Potential loss (million head) (%) (%) (US$) (millions of US$) Calves 41.58 40.7 5.5 361.66 336.62 Bianchin et al. (1992) Barros et al. (2010b) CEPEA (2013a, b, c) *Considering calves born in 2011. Based on IBGE (2011) and Censo Agropecuário (IBGE, 2012).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>*</head><figDesc>Estimates based on<ref type="bibr" target="#b8">Brito and Moya-Borja (2000)</ref>,<ref type="bibr" target="#b36">Sanavria et al. (2002)</ref> and<ref type="bibr" target="#b29">Marques et al. (2000)</ref>; **Considering 45 kg of raw hide per animal.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Economic losses due to gastrointestinal nematodes among dairy and beef cattle in Brazil, in 2011.Considering a 305-day lactation period. **1 kg of milk = 0.971 liters of milk.</figDesc><table><row><cell></cell><cell>Population at</cell><cell>Milk loss</cell><cell>Yearly milk</cell><cell>Total herd</cell><cell>Price to</cell><cell>Potential loss</cell></row><row><cell></cell><cell>risk</cell><cell></cell><cell>loss*</cell><cell>yearly loss**</cell><cell>producer</cell><cell>for dairy cattle</cell></row><row><cell></cell><cell cols="2">(million head) (kilogram /cow/</cell><cell>(kilogram/cow)</cell><cell>(millions of</cell><cell>(US$/liter)</cell><cell>(millions of</cell></row><row><cell></cell><cell></cell><cell>day)</cell><cell></cell><cell>liters)</cell><cell></cell><cell>US$)</cell></row><row><cell>Dairy cattle</cell><cell>23.23</cell><cell>0.60</cell><cell>183.00</cell><cell>4,251.09</cell><cell>0.44</cell><cell>1,870.48</cell></row><row><cell></cell><cell>IBGE (2011)</cell><cell>Charlier et al. (2009)</cell><cell></cell><cell></cell><cell>CEPEA (2013a, b, c)</cell><cell></cell></row><row><cell></cell><cell>Population at</cell><cell>Yearly weight</cell><cell>Affected herd</cell><cell>Price to</cell><cell>Potential loss</cell><cell>Potential loss</cell></row><row><cell></cell><cell>risk***</cell><cell>loss</cell><cell>yearly loss</cell><cell>producer</cell><cell></cell><cell>for beef cattle</cell></row><row><cell></cell><cell>(million head)</cell><cell>(kilogram/</cell><cell>(millions of</cell><cell>(US$/kilogram)</cell><cell>(millions of</cell><cell>(millions of</cell></row><row><cell></cell><cell></cell><cell>head)</cell><cell>kilograms)</cell><cell></cell><cell>US$)</cell><cell>US$)</cell></row><row><cell>Beef cattle (northern, north-</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>eastern and central-western</cell><cell>47.74</cell><cell>41.00</cell><cell>1,957.34</cell><cell>1.62</cell><cell></cell><cell></cell></row><row><cell>regions)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>3,170.89</cell><cell></cell></row><row><cell></cell><cell></cell><cell>Bianchin et al.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(1995)</cell><cell></cell><cell></cell><cell></cell><cell>5,237.49</cell></row><row><cell>Beef cattle (southern and southeastern regions)</cell><cell>19.04</cell><cell>67.00 Pinheiro (1983)</cell><cell>1,275.68</cell><cell>CEPEA (2013a, b, c)</cell><cell>2,066.60</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell cols="2">Total potential loss</cell><cell>7,107.97</cell></row></table><note><p>**** Considering only yearlings, and heifers up to 2 years old. Based on IBGE (2011) and Anualpec (INFORMA ECONOMICS FNP, 2013).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Economic losses due to the cattle tick, Rhipicephalus (Boophilus) microplus, relating to milk and beef production in Brazil, in 2011.</figDesc><table><row><cell></cell><cell>Population at risk</cell><cell>Lactation loss</cell><cell>Yearly milk loss</cell><cell>Price to producer</cell><cell>Potential loss</cell></row><row><cell></cell><cell>(million head)</cell><cell>(liter)</cell><cell>(millions of liters)</cell><cell>(US$/liter)</cell><cell>(millions of US$)</cell></row><row><cell>Dairy cattle</cell><cell>23.23</cell><cell>90.24</cell><cell>2,096.28</cell><cell>0.44</cell><cell>922.36</cell></row><row><cell></cell><cell>IBGE (2011)</cell><cell>Rodrigues and Leite (2013)</cell><cell></cell><cell>CEPEA (2013a, b, c)</cell><cell></cell></row><row><cell></cell><cell>Population at risk**</cell><cell>Daily weight loss</cell><cell>Yearly weight loss*</cell><cell>Price to producer</cell><cell>Potential loss</cell></row><row><cell>Beef cattle</cell><cell>(million head)</cell><cell>(grams/tick/head)</cell><cell>(millions of</cell><cell>(US$/kilogram)</cell><cell>(millions of US$)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>kilograms)</cell><cell></cell><cell></cell></row><row><cell>B. taurus</cell><cell>20.85</cell><cell>1.37</cell><cell>980.05</cell><cell></cell><cell>1,587.68</cell></row><row><cell></cell><cell></cell><cell>Jonsson (2006)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>B. indicus x B. taurus</cell><cell>16.87</cell><cell>1.18</cell><cell>232.51</cell><cell>1.62</cell><cell>376.67</cell></row><row><cell></cell><cell></cell><cell>Jonsson (2006)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>B. indicus</cell><cell>151.85</cell><cell>1.18</cell><cell>215.83</cell><cell></cell><cell>349.64</cell></row><row><cell></cell><cell></cell><cell>Jonsson (2006)</cell><cell></cell><cell>CEPEA (2013a, b, c)</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Total potential loss</cell><cell>3,236.35</cell></row></table><note><p>*Considering the following mean daily tick burdens: B. taurus -94 ticks(SMITH et al., 2000), B. indicus x B. taurus -32 ticks, and B. indicus -3.3 ticks  (GOMES et al., 1989)</p><p>. **Based on IBGE (2011).</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 3 .</head><label>3</label><figDesc>Economic losses due to the horn fly, Haematobia irritans, relating to beef cattle production in Brazil, in 2012.</figDesc><table><row><cell></cell><cell>Live animals at risk*</cell><cell>Yearly weight</cell><cell>Total yearly</cell><cell>Price to producer</cell><cell>Potential loss</cell></row><row><cell></cell><cell></cell><cell>loss per head</cell><cell>weight loss</cell><cell></cell><cell></cell></row><row><cell></cell><cell>(million head)</cell><cell>(kilogram)</cell><cell>(millions of</cell><cell>(US$/kilogram)</cell><cell>(millions of US$)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>kilograms)</cell><cell></cell><cell></cell></row><row><cell>Steers/heifers</cell><cell>113.09**</cell><cell>12.19 Bianchin et al. (2004)</cell><cell>1,378.57</cell><cell></cell><cell>2,233.28</cell></row><row><cell>Cows</cell><cell>38.13**</cell><cell>3.25 Bianchin and Alves</cell><cell>123.92</cell><cell>1.62</cell><cell>200.75</cell></row><row><cell></cell><cell></cell><cell>(2002)</cell><cell></cell><cell></cell><cell></cell></row><row><cell>Calves</cell><cell>38.36***</cell><cell>2.00</cell><cell>76.72</cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>Bianchin and Alves (2002)</cell><cell></cell><cell>CEPEA (2013a, b, c)</cell><cell>124.29</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Total potential loss</cell><cell>2,558.32</cell></row><row><cell cols="6">*Considering population in December 2012. **Based on IBGE (2011) and Anualpec (INFORMA ECONOMICS FNP, 2013). ***Based on IBGE (2011) and</cell></row><row><cell cols="2">Censo Agropecuário (IBGE, 2012).</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_3"><head>Table 5 .</head><label>5</label><figDesc>Economic losses due to the cattle grub, Dermatobia hominis, in the cowhide industry in Brazil, in 2012.</figDesc><table><row><cell>Cowhide</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_5"><head>Table 4 .</head><label>4</label><figDesc>Economic losses due to the cattle grub, Dermatobia hominis, relating to beef cattle production in Brazil, in 2011.</figDesc><table><row><cell></cell><cell>Population at</cell><cell>Average number</cell><cell>Weight loss</cell><cell>Affected herd</cell><cell>Price to producer</cell><cell>Potential loss</cell></row><row><cell></cell><cell>risk*</cell><cell>of larvae per</cell><cell></cell><cell>yearly loss</cell><cell></cell><cell></cell></row><row><cell>Beef cattle</cell><cell></cell><cell>animal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>(million head)</cell><cell></cell><cell>(kg/larva/year)</cell><cell>(millions of</cell><cell cols="2">(US$/kilogram) (millions of US$)</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>kilograms)</cell><cell></cell><cell></cell></row><row><cell>Bos indicus</cell><cell>90.96</cell><cell>18.20</cell><cell>0.0406</cell><cell>67.21</cell><cell>1.62</cell><cell>108.88</cell></row><row><cell></cell><cell></cell><cell>Fernandes et al.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell>(2008)</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Bos taurus</cell><cell>19.12</cell><cell>74.00</cell><cell></cell><cell>57.44</cell><cell></cell><cell>93.05</cell></row><row><cell></cell><cell></cell><cell>**</cell><cell>Magalhães and</cell><cell></cell><cell>CEPEA</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell>Lesskiu (1982)</cell><cell></cell><cell>(2013a, b, c)</cell><cell></cell></row></table><note><p>*Based on IBGE (2011). **<ref type="bibr" target="#b9">Carneiro et al. (1990),</ref> </p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 7 .</head><label>7</label><figDesc>Economic losses due to the stable fly, Stomoxys calcitrans, among dairy and feedlot cattle in Brazil, in 2011/2012.</figDesc><table><row><cell></cell><cell>Population at risk</cell><cell>Milk loss</cell><cell>Total yearly loss</cell><cell>Price to producer</cell><cell>Potential loss</cell></row><row><cell></cell><cell>(million head)</cell><cell>(liter/cow/year)</cell><cell>(millions of liters)</cell><cell>(US$/liter)</cell><cell>(millions of US$)</cell></row><row><cell>Dairy cattle</cell><cell>23.23</cell><cell>27.00</cell><cell>627.21</cell><cell>0.44</cell><cell>275.97</cell></row><row><cell></cell><cell>IBGE (2011)</cell><cell>Kunz et al. (1991)</cell><cell></cell><cell>CEPEA (2013a, b, c)</cell><cell></cell></row><row><cell></cell><cell>Population at risk</cell><cell>Loss at feedlots</cell><cell>Total loss at feedlots*</cell><cell>Price to producer</cell><cell>Potential loss</cell></row><row><cell></cell><cell>(million head)</cell><cell>(gram/head/day)</cell><cell>(millions of</cell><cell>(US$/kilogram)</cell><cell>(millions of US$)</cell></row><row><cell></cell><cell></cell><cell></cell><cell>kilograms)</cell><cell></cell><cell></cell></row><row><cell>Feedlot cattle</cell><cell>4.08</cell><cell>100.00</cell><cell>36.72</cell><cell>1.62</cell><cell>59.49</cell></row><row><cell></cell><cell></cell><cell>Kunz et al. (1991)</cell><cell></cell><cell>CEPEA (2013a, b, c)</cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell>Total potential loss</cell><cell>335.46</cell></row></table><note><p>*Considering an average feedlot period of 90 days.</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_7"><head>Table 8 .</head><label>8</label><figDesc>Economic losses due to cattle parasitism in Brazil.</figDesc><table><row><cell>Parasite</cell><cell>Millions of US$</cell></row><row><cell>Gastrointestinal nematodes</cell><cell>7,107.97</cell></row><row><cell>Cattle tick, Rhipicephalus (Boophilus) microplus</cell><cell>3,236.35</cell></row><row><cell>Horn fly, Haematobia irritans</cell><cell>2,558.32</cell></row><row><cell>Cattle grub, Dermatobia hominis</cell><cell>383.48</cell></row><row><cell>Screwworm fly, Cochliomyia hominivorax</cell><cell>336.62</cell></row><row><cell>Stable fly, Stomoxys calcitrans</cell><cell>335.46</cell></row><row><cell>Total potential loss</cell><cell>13,958.20</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 6 .</head><label>6</label><figDesc>Economic losses due to navel myiasis caused by the screwworm, Cochliomyia hominivorax, among calves in Brazil, in 2011.</figDesc><table><row><cell>Population</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>v. 23, n. 2, abr.-jun. 2014  </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Braz. J. Vet. Parasitol.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Acaricide resistance of Rhipicephalus (Boophilus) microplus in State of Mato Grosso do Sul</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Andreotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Soares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Robert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pérez</forename><surname>De León</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+		<idno type="DOI">10.1590/S1984-29612011000200007</idno>
+		<idno>PMid:21722487</idno>
+		<ptr target="http://dx.doi.org/10.1590/S1984-29612011000200007" />
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Rev Bras Parasitol Vet</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="133" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Surtos por Stomoxys calcitrans em gado de corte no Mato Grosso do Sul</title>
+		<author>
+			<persName><forename type="first">Atm</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Catto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Soares</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0100-736X2010001100008</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0100-736X2010001100008" />
+	</analytic>
+	<monogr>
+		<title level="m">Pesq Vet Bras 2010a</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="945" to="952" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Eficácia de endectocidas em infestações naturais por Cochliomyia hominivorax (moscavarejeira) em bezerros no Pantanal</title>
+		<author>
+			<persName><forename type="first">Atm</forename><surname>Barros</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ravaglia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Aquino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Passos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ltb</forename><surname>Leite</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010b</date>
+			<publisher>Embrapa Pantanal</publisher>
+			<pubPlace>Corumbá</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The hornfly, Haematobia irritans: behaviour and damage caused in Nellore cows and pre-weaning calves</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bianchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rgo</forename><surname>Alves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesq Vet Bras</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="109" to="113" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Uso de Ivermectin aplicado pela via subcutânea na prevenção de miíases umbilicais em bezerros de corte criados extensivamente</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bianchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Curvo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Parasitol Vet</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="121" to="124" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Effect of stocking rates and anthelminthic treatments on weight gains in weaned Nellore cattle on improved pasture in the Brazilian cerrado</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bianchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">G</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">A</forename><surname>Nascimento</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF02236326</idno>
+		<ptr target="http://dx.doi.org/10.1007/BF02236326" />
+	</analytic>
+	<monogr>
+		<title level="j">Trop Anim Health Prod</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">7770946</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of the horn fly, Haematobia irritans (L.) (Diptera: Muscidae) in the weight gain on Nellore cattle</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bianchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rgo</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Detmann</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0103-84782004000300035</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0103-84782004000300035" />
+	</analytic>
+	<monogr>
+		<title level="j">Cienc Rural</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="885" to="890" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Ministério da Agricultura, Secretaria Nacional de Defesa Agropecuária, Secretaria de Defesa Sanitária Animal. Carrapato, berne e bicheira no Brasil</title>
+		<author>
+			<persName><surname>Brasil</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="page">153</biblScope>
+			<pubPlace>Brasília</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Flutuação sazonal de Dermatobia hominis em peles bovinas oriundas de matadouro</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Brito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moya-Borja</forename><surname>Ge</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0100-736X2000000400004</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0100-736X2000000400004" />
+	</analytic>
+	<monogr>
+		<title level="j">Pesq Vet Bras</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="151" to="154" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Variação estacional de larvas Dermatobia hominis (Diptera: Cuterebridae) em bovinos zebu x holandês da Bacia Leiteira de Goiânia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Carneiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Calil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Pat Trop</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="121" to="126" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Garrapata: resistencia a Fipronil e Ivermectina en rodeos vacunos de Uruguay y Brasil</title>
+		<author>
+			<persName><forename type="first">Castro</forename><surname>Janer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sato</forename><surname>Schumaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marcondes</forename><surname>Klafke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rifran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>González</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Niell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>INIA</publisher>
+			<biblScope unit="page">69</biblScope>
+			<pubPlace>Montevideo</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Serie FTPA, n. 35</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Centro de Estudos Avançados em Economia Aplicada -CEPEA -ESALQ/ USP</title>
+		<ptr target="http://cepea.esalq.usp.br/bezerro/" />
+		<imprint>
+			<date type="published" when="2013-04-14">2013. 2013 Apr 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Centro de Estudos Avançados em Economia Aplicada -CEPEA -ESALQ/ USP. Boi [online]</title>
+		<ptr target="http://cepea.esalq.usp.br/boi/" />
+		<imprint>
+			<date type="published" when="2013-04-14">2013. 2013 Apr 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Centro de Estudos Avançados em Economia Aplicada -CEPEA -ESALQ/ USP. Leite [online]</title>
+		<ptr target="http://cepea.esalq.usp.br/leite/" />
+		<imprint>
+			<date type="published" when="2013-04-14">2013. 2013 Apr 14</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Gastrointestinal nematode infections in adult dairy cattle: impact on production, diagnosis and control</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Charlier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Höglund</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Samson-Himmelstjerna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dorny</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Vercruysse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<idno type="DOI">10.1016/j.vetpar.2009.04.012</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.vetpar.2009.04.012" />
+	</analytic>
+	<monogr>
+		<title level="j">Vet Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">164</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">19414223</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Handbook of pest management in agriculture</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Drummond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Smally</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Terrill</surname></persName>
+		</author>
+		<editor>Pimentel D</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<publisher>CRC Press</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="111" to="127" />
+			<pubPlace>Boca Raton</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Estimated losses of livestock to pests</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pesticide use in developing countries</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Ecobichon</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/S0300-483X(00)00452-2</idno>
+		<ptr target="http://dx.doi.org/10.1016/S0300-483X(00)00452-2" />
+	</analytic>
+	<monogr>
+		<title level="j">Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="issue">1-3</biblScope>
+			<biblScope unit="page" from="27" to="33" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Dinâmica populacional e distribuição corporal das larvas de Dermatobia hominis (Linnaeus Jr., 1781) em bovinos da raça Nelore</title>
+		<author>
+			<persName><forename type="first">Nlm</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Thomaz-Soccol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cal</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Vet Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="85" to="92" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Intensidade parasitária de larvas de Dermatobia hominis (L. Jr. 1781) (Diptera: Cuterebridae) em bovinos de diferentes raças criadas extensivamente na região de cerrado em Mato Grosso do Sul</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Da Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Parasitol Vet</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="103" to="106" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Populations of the cattle tick (Boophilus microplus) on purebred Nellore, Ibage and Nellore X European crossbreds in the Brazilian savanna</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Schenk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Curvo</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/BF02297336</idno>
+		<ptr target="http://dx.doi.org/10.1007/BF02297336" />
+	</analytic>
+	<monogr>
+		<title level="j">Trop Anim Health Prod</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">2711457</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Distribuição corporal e sazonalidade do berne (larva de Dermatobia hominis) em bovinos tratados ou não com flor de enxofre</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Resende</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jbe</forename><surname>Curvo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesq Agropec Bras</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="825" to="829" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moya</forename><surname>Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hora Vet</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">125</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Prováveis prejuízos causados pelos carrapatos no Brasil. Brasília: Ministério da Agricultura, Secretaria Nacional de Defesa Agropecuária, Secretaria de Defesa Sanitária Animal</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Horn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Boletim de Defesa Sanitária Animal</title>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+	</analytic>
+	<monogr>
+		<title level="m">Instituto Brasileiro de Geografia e Estatística -IBGE. Censo Agropecuário 2006: Brasil, Grandes Regiões e Unidades da Federação. 2. Apuração. Rio de Janeiro: IBGE; 2012. 774 p. Instituto Brasileiro de Geografia e Estatística -IBGE. Indicadores IBGE: estatística da produção pecuária</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013-04-14">20. 2013. 2013. 2013 Apr 14</date>
+		</imprint>
+	</monogr>
+	<note>th ed Informa Economics FNP ANUALPEC 2013: anuário da pecuária brasileira</note>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Jonsson NN, Mayer DG. Estimation of the effects of buffalo fly (Haematobia irritans exigua) on the milk production of dairy cattle based on a meta-analysis of literature data</title>
+		<idno type="DOI">10.1016/j.vetpar.2006.01.010</idno>
+		<idno>PMid:16472920</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.vetpar.2006.01.010" />
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="1999">2011. 1999. 2006</date>
+			<publisher>Instituto Brasileiro de Geografia e Estatística -IBGE. Produção da Pecuária Municipal. Rio de Janeiro: IBGE</publisher>
+		</imprint>
+	</monogr>
+	<note>Jonsson NN. The productivity effects of cattle tick (Boophilus microplus) infestation on cattle, with particular reference to Bos indicus cattle and their crosses Vet Parasitol</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">An inconvenient truth: global worming and anthelmintic resistance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Kaplan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Vidyashankar</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.vetpar.2011.11.048</idno>
+		<ptr target="http://dx.doi.org/10.1016/j.vetpar.2011.11.048" />
+	</analytic>
+	<monogr>
+		<title level="j">Vet Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">186</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page">22154968</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Estimated losses of livestock to pests</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Kunz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Murrell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lambert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Terrill</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pimentel D. Handbook of pest management in agriculture</title>
+		<meeting><address><addrLine>Boca Raton</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="69" to="98" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Verminose subclínica em vacas em lactação no Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hora Vet</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="37" to="40" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Efeito do controle do berne sobre o ganho de peso e qualidade dos couros em novilhos de corte</title>
+		<author>
+			<persName><forename type="first">Fep</forename><surname>Magalhães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lesskiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesqui Agropecu Bras</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="329" to="336" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Lesões no couro bovino causadas pelos principais ectoparasitas nas regiões Noroeste do Estado do Paraná e Sudoeste no Estado do Mato Grosso</title>
+		<author>
+			<persName><forename type="first">Fac</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Yamamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Vidotto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Semina: Ci. Agrárias</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<ptr target="http://www.nass.usda.gov/Newsroom/Executive_Briefings/2011/07_22_2011.pdf" />
+		<title level="m">Cattle inventory: executive briefing</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2013 Apr 14</date>
+		</imprint>
+		<respStmt>
+			<orgName>National Agriculture Statistics Service -NASS, United States Department of Agriculture -USDA</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Epidemiologia de Dermatobia hominis (L. Jr. 1781) (Diptera: Cuterebridae) em bovinos na região de São Carlos, Estado de São Paulo</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz J Vet Res Anim Sci</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="179" to="184" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Knowledge, attitudes, practices and biomonitoring of farmers and residents exposed to pesticides in Brazil</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oliveira Pasiani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Roniery</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Diniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Z</forename><surname>Caldas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">D</forename></persName>
+		</author>
+		<idno type="DOI">10.3390/ijerph9093051</idno>
+		<idno type="PMCID">PMC3499853</idno>
+		<ptr target="http://dx.doi.org/10.3390/ijerph9093051" />
+	</analytic>
+	<monogr>
+		<title level="j">Int J Environ Res Public Health</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3051" to="3068" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Programa integrado de controle de verminose de bovinos de corte. 2nd ed. Bagé: EMBRAPA-UEPAE de Bagé</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Pinheiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesquisa em Andamento</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="1983">1983</date>
+			<publisher>EMBRAPA-UEPAE de Bagé</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Bioecologia de Dermatobia hominis (Linnaeus Jr., 1781) em Palotina</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Pinto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">T</forename><surname>Soccol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Vendruscolo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rochadelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Freitag</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0103-84782002000500013</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0103-84782002000500013" />
+	</analytic>
+	<monogr>
+		<title level="j">Cienc Rural</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="821" to="827" />
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Paraná, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Effect of anthelmintic treatment of dairy cattle on milk production related to some parameters estimating nematode infection</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Ploeger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gjw</forename><surname>Schoenmaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kloosterman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fhm</forename><surname>Borgsteede</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0102-09352013000500039</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0102-09352013000500039" />
+	</analytic>
+	<monogr>
+		<title level="m">Leite RC</title>
+		<imprint>
+			<date type="published" when="1989">1989. 2013</date>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="1570" to="1572" />
+		</imprint>
+	</monogr>
+	<note>Economic impact of Rhipicephalus (Boophilus) microplus: estimate of decreased milk production on a dairy farm Vet Parasitol</note>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Distribuição e frequência de larvas de Dermatobia hominis (Linnaeus Jr., 1781) (Diptera: Cuterebridae) em peles de bovinos</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Bezerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Morais</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Giupponi</surname></persName>
+		</author>
+		<idno type="DOI">10.4067/S0717-77122002000100006</idno>
+		<ptr target="http://dx.doi.org/10.4067/S0717-77122002000100006" />
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol Latinoam</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="21" to="24" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">1781), em bovinos no município de Lorena</title>
+		<author>
+			<persName><forename type="first">Aa ;</forename><surname>Sartor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jr</forename><surname>Linnaeus</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Parasitismo por larvas de Dermatobia hominis</title>
+		<imprint/>
+	</monogr>
+	<note>Estado de São Paulo [Dissertação</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rio</forename><surname>De</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Janeiro</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal Rural do Rio de Janeiro</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Babesiosis (Babesia bovis) stability in unstable environments</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Evans</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">H</forename><surname>Ceresér</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Petraccia</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1749-6632.2000.tb05330.x</idno>
+		<idno>PMid:11193666</idno>
+		<ptr target="http://dx.doi.org/10.1111/j.1749-6632.2000.tb05330.x" />
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">916</biblScope>
+			<biblScope unit="page" from="510" to="520" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Caracterização de associação entre a sazonalidade de larvas de Dermatobia hominis em bovinos, dípteros potenciais vetores e dados meteorológicos de três diferentes locais no Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mcsn</forename><surname>Botelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Lisbôa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">R Bras Cienc Vet</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="111" to="116" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Economic impact of stable flies (Diptera: Muscidae) on dairy and beef cattle production</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Moon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Mark</surname></persName>
+		</author>
+		<idno type="DOI">10.1603/ME10050</idno>
+		<ptr target="http://dx.doi.org/10.1603/ME10050" />
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page">22308789</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

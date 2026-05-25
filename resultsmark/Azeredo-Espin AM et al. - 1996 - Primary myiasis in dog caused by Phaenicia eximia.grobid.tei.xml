@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Primary Myiasis in Dog Caused by Phaenicia eximia (Diptera: Calliphoridae) and Preliminary Mitochondrial DNA Analysis of the Species in Brazil</title>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Cientffico e Tecnoldgico (CNPq)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundacao de Amparo a Pesquisa do Estado de Sao Paulo</orgName>
+					<orgName type="abbreviated">FAPESP</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2026-02-19">19 February 2026</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+						</author>
+						<title level="a" type="main">Primary Myiasis in Dog Caused by Phaenicia eximia (Diptera: Calliphoridae) and Preliminary Mitochondrial DNA Analysis of the Species in Brazil</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date type="published" when="2026-02-19">19 February 2026</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">62AAF1330CA88A2EC4140C2CE613C2FE</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Phaenicia eximia</term>
+					<term>primary myiasis</term>
+					<term>mitochondrial DNA</term>
+					<term>restriction fragment length polymorphism</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A case of primary myiasis in a dog caused by Phaenicia eximia (Robineau-Desvoidy) in Brazil is presented. A young and healthy female dog, Canis familiaris, =10 d old and still under maternal care, was found to have several eggs and 1st instars larvae in its abdomen and urogenital regions. Samples were collected in Campinas, Sao Paulo, and transferred to the laboratory for rearing and identification. A comparative analysis of the mitochondrial DNA (mtDNA) with 12 restriction enzymes in 2 sampled populations of P. eximia collected in different hosts (live dog and bovine carcass) and in the same locality revealed that 4, EcoRI, EcoRV, HaeWl, and Mspl were suitable for detecting mtDNA markers in the 2 populations.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>THE FAMILY CALLIPHORIDAE contains many species of flies who display diverse larval feeding strategies. A survey of the literature concerned with larval trophies (e.g., <ref type="bibr" target="#b12">Fuller 1934</ref><ref type="bibr" target="#b23">, James 1947</ref><ref type="bibr" target="#b17">, Hall 1948</ref><ref type="bibr" target="#b0">, Aldrich 1961</ref><ref type="bibr" target="#b36">, Oldroyd 1964</ref><ref type="bibr" target="#b6">, Cole and Schlinger 1969</ref><ref type="bibr" target="#b19">, Hall and Wall 1995)</ref> reveals 2 general groupings of resource exploitation. To group 1 belong species whose larvae use living tissue of mammals, Dirds, amphibians, and a variety of invertebrates as a food source. Members of group 2 are primarily necrophagous, feeding on the tissues of carrion <ref type="bibr" target="#b34">(Norris 1965)</ref>.</p><p>Ecological studies have been made of 2 main types of myiasis-producing blow flies: the sheep blow flies (fleece worms), Phaenicia cuprina (Wiedemann) and P. sericata (Meigen), and the wound myiasis fly (screwworm), Cochliomyia hominivorax (Coquerel), and its Old World screwworm counterpart Chrysomya bezziana (Villeneuve). In Australia, P. cuprina known as Lucilia cuprina, has been reported causing primary myiasis in sheep <ref type="bibr" target="#b46">(Waterhouse and Paramanov 1950)</ref>.</p><p>Sheep blow flies occur early in the succession of blow fly species at carcasses, but are highly susceptible to competition or predation by species arriving later. Frequently, few complete their development <ref type="bibr" target="#b20">(Holdaway 1930</ref><ref type="bibr" target="#b12">, Fuller 1934</ref><ref type="bibr" target="#b45">, Waterhouse 1947</ref><ref type="bibr" target="#b7">, Cragg 1955</ref>). An exception occurs when the animal suffers from myiasis before death <ref type="bibr">(Water-house 1947</ref><ref type="bibr" target="#b7">, Cragg 1955)</ref>. Under these conditions, larvae, which are advanced at the time of death, are able to complete their development without risk of elimination by competition or predation from other species. <ref type="bibr">Norris (1990)</ref> suggest that the competition with other species for carcasses as breeding site is the underlying cause for behavioral changes leading to the exploitation of living tissues of animals by P. cuprina.</p><p>Phaenicia eximia (Robineau-Desvoidy) is a Neartic and Neotropical species frequently found in rural, urban, and forest habitats in Brazil, Peru, and Argentina <ref type="bibr" target="#b10">(Ferreira 1978</ref><ref type="bibr">, Linhares 1981</ref><ref type="bibr" target="#b26">, Madeira et al. 1982</ref><ref type="bibr">, Baumgartner and Greenberg 1985</ref><ref type="bibr" target="#b29">, Mariluis et al. 1990)</ref> and in forest in the United States <ref type="bibr">(Godard and Lago 1985)</ref>. The adults of P. eximia are attracted to a wide variety of substrates for food and reproduction, such as garbage, carcasses, and human feces <ref type="bibr">(Mendes and Linhares 1993)</ref>. This species has been implicated as a mechanical vector of human and animal diseases <ref type="bibr" target="#b32">(Murray and Thompson 1976)</ref>. In Brazil, there is only 1 reported case of P. eximia causing primary myiases in a cat, Felis domesticus <ref type="bibr" target="#b27">(Madeira et al. 1989)</ref>.</p><p>At the genetic level, investigations of natural populations of P. eximia have been limited to the analysis of the population dynamics and behavior of caliphorids, including P. eximia <ref type="bibr">(Linhares 1981</ref><ref type="bibr" target="#b26">, Madeira et al. 1982</ref><ref type="bibr">, Ferreira 1983</ref><ref type="bibr" target="#b25">, Madeira 1985</ref><ref type="bibr" target="#b48">, Wiegand et al. 1991</ref><ref type="bibr" target="#b37">, Paraluppi 1992</ref><ref type="bibr">, Mendes and Linhares 1993)</ref>. These studies have shown that P. eximia is primarily necrophagous, feeding on the tissues of carrion. P. eximia is the most abundant blow fly in <ref type="bibr">Curitiba,</ref><ref type="bibr">Brazil,</ref><ref type="bibr">representing 69% of Vol. 33,</ref><ref type="bibr">no. 5</ref> the total <ref type="bibr" target="#b10">(Ferreira 1978)</ref>, in Minas Gerais it is only 18% <ref type="bibr" target="#b26">(Madeira et al. 1982)</ref>. <ref type="bibr" target="#b38">Prado and Guimaraes (1982)</ref>, suggest that P. eximia is being displaced by the newly introduced Chrysomya spp. in some areas of Brazil, for example, <ref type="bibr">Ferreira (1982)</ref> reported a decline of P. eximia from 17 to 8% of total blow flies in 3 yr in Goiania, following the establishment of C. putoria. <ref type="bibr" target="#b39">Price (1980)</ref> hypothesized that many parasite species have locally inbred populations, with large genetic differentiation among populations from different geographic regions or hosts. Remarkably little is known about the genetic structure of blowflies and about between-population differentiation. Most genetic work on differentiation in insects species has focused on searching for genetic markers, such as mitochondrial DNA (mtDNA) and nuclear DNA restriction fragment variants, to distinguish diversity within and between populations <ref type="bibr">(Nadler 1990, Thompson and</ref><ref type="bibr" target="#b44">Lymbery 1990)</ref>. The analysis of mtDNA with restriction enzymes has proven to be a useful method in investigations of genetic varibility and evolution within species as well as the systematics of closely related species. The advantages and applications of studies have been reviewed by <ref type="bibr" target="#b49">Wilson et al. (1985)</ref>, <ref type="bibr" target="#b1">Avise et al. (1987), and</ref><ref type="bibr" target="#b31">Moritz et al. (1987)</ref>. In the Calliphoridae family, restriction endonucleases of mtDNA (restriction fragment length polymorphism) has been used to analyze the genetic variation in natural populations of C. hominivorax, from North, Central, and South America and North Africa <ref type="bibr" target="#b41">(Roehrdanz and Johnson 1988</ref><ref type="bibr" target="#b40">, Roehrdanz 1989</ref><ref type="bibr" target="#b43">, Taylor et al. 1991</ref><ref type="bibr" target="#b3">, Azeredo-Espin 1993</ref><ref type="bibr" target="#b21">, Infante 1994</ref><ref type="bibr" target="#b22">, Infante and Azeredo-Espin 1995)</ref> and to characterize the organization of mitochondrial genome of the black blow fly, Phormia regina (Meigen) <ref type="bibr" target="#b14">(Goldenthal et al. 1991)</ref>.</p><p>We have chosen restriction analysis of mtDNA as a tool to examine the population genetics of P. eximia because it may be more sensitive in detecting population subdivision because of its haploid copy number, maternal inheritance, and lack of recombination <ref type="bibr" target="#b2">(Avise et al. 1979</ref><ref type="bibr" target="#b49">, Wilson et al. 1985)</ref>.</p><p>In the current study, we report a case of primary myiasis in a dog caused by P. eximia, in Campinas, Sao Paulo, and provide a preliminary characterization of mtDNA and restriction fragment patterns with 12 restriction enzymes collected from populations of P. eximia collected in the same locality but in 2 different hosts.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head><p>A young and healthy female dog, Canis familiaris, -10 d old, still under maternal care, was found infested with eggs and 1st instars located in its abdomen and urogenital regions. The larvae (n = 25) and eggs (n = 40) were collected in a veterinary Hospital in Campinas, Sao Paulo, and transferred to a plastic box with fresh ground meat and sawdust. This rearing medium was changed every 24 h, until pupariation. The cage was maintained in the laboratory at 25 ± 1°C, 70% RH, and a photoperiod of 12:12 (L:D) h. Adults were used for identification. Females were allowed to oviposit on a fresh mouse carcass in a petri dish inside the cage. Eggs were then transferred to a plastic box containing mouse carcass. Mouse carcasses were replaced every 24 h, until pupation. Adult flies were also collected directly on a bovine carcass (n = 35), near slaughter houses in Campinas, and maintained in the laboratory under the same conditions.</p><p>Mitochondrial DNA Isolation. Fresh pupae (n = 20) of each of the 2 samples were used to purify mtDNA as described by <ref type="bibr" target="#b4">Azeredo-Espin et al. (1991)</ref>. One individual pupa was gently homogenized in a 15 ml Corex tube with 1 ml of griding buffer (10 mM TRIS, 660 mM NaCl, 300 mM sucrose, 10 mM EDTA). After this, 1 ml of lysis buffer was added (300 mM TRIS, 40 mM SDS, 20 mM EDTA) and 0.7% of DEPC. The resulting lysate was extracted once each with phenol, phenol: chloroform : isoamilic alcohol, and chloroform:isoamilic alcohol and centrifuged at 3,000 X g. The final supernatant was then ethanol precipitated at 20°C for 2 h and spun at 10,000 X g to pellet the DNA. The pellet was dried under vacuum and resuspended in an appropriate amount of 1 X TE.</p><p>Mitochondrial DNA Restriction Analysis. mtDNA was digested with restriction endonucleases according to manufacture's specifications (Bethesda Research Laboratories, Bethesda, MD). The endonucleases used were. Hindlll, EcoRI, Eco RV, Haelll, Msvl, Xho I, Xba I, Sst I, Cla I, BamHl, Pvu I, ana Pst I. After digestion, fragments were separated on 1% agarose gels and stained with Ethidium Bromide (0.1 g/ml). Phage A DNA digested with Hindlll and &lt;f&gt; X174 digested with Haelll (BRL) were used as size standards.</p><p>Pure C. hominivorax mtDNA for use as a probe was obtained from pupae of an isofemale laboratory strain started from a field population (Ca sample) <ref type="bibr" target="#b3">(Azeredo-Espin 1993</ref><ref type="bibr" target="#b21">, Infante 1994</ref><ref type="bibr" target="#b22">, Infante and Azeredo-Espin 1995)</ref>. MtDNA was obtained through the MIM (mitochondrial isolation medium) technique according to <ref type="bibr" target="#b4">Azeredo-Espin et al. (1991)</ref>, and purified by using 2 subsequent equilibrium centrifugations in CsCl.</p><p>To determine which fragments present on the gels were mtDNA and to detect small bands (0.5 kb), the fragments were transferred to nylon membranes (Hybond) through Southern Blot <ref type="bibr" target="#b28">(Maniatis et al. 1989</ref>) and hybridized with the whole mtDNA of C. hominivorax, which was nick-translated to yield a 32 P-labeled probe. Hybridization was carried out under standard conditions <ref type="bibr" target="#b28">(Maniatis et al. 1989)</ref>. Visualization of mtDNA fragments was conducted using autoradiography based on <ref type="bibr" target="#b31">Moritz et al. (1987)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>Phaenicia eximia is primarily necrophagous. However, in a previous report of P. eximia as a 7 8 9 10 1112 1314 15</p><p>Table 1. Length estimates (Kbp) for the P. eximia mtDNA restriction fragment patterns in the 2 populations collected in different hosts causative agent of myiasis in a cat <ref type="bibr" target="#b27">(Madeira et al. 1989</ref>) and now in C. familiaris, has indicated that this species will exploit carrion as well as cause myiasis. It is important therefore to investigate more fully the evolutionary and genetic basis for the myiasis observed in a species ordinarily not considered as causing this kind of infestation.</p><p>The initial survey using mtDNA analysis as a genetic marker revealed that 4 enzymes, EcoRI, EcoRV, Haelll, and Mspl used indicated mtDNA variation between the 2 populations (Fig. <ref type="figure" target="#fig_0">1</ref>). The other 8 enzymes produced invariant fragment patterns. A total of 2 restriction patterns of these marker enzymes was observed (Fig. <ref type="figure" target="#fig_0">1</ref>). For each of the patterns obtained for these enzymes, different patterns were detected between P. eximia collected in the dog (n = 20) and another in a bovine carcass (n = 20). The number of restriction fragments observed and the corresponding size of each one are shown in Table <ref type="table">1</ref>. The estimated size of mtDNA of the species is close to 16.4 kb. These values correspond to the estimated length of the mitochondrial genome described for other Calliphoridae species <ref type="bibr" target="#b41">(Roehrdanz and Johnson 1988</ref><ref type="bibr" target="#b40">, Roehrdanz 1989</ref><ref type="bibr" target="#b14">, Goldenthal et al. 1991</ref><ref type="bibr" target="#b3">, Azeredo-Espin 1993</ref><ref type="bibr" target="#b21">, Infante 1994</ref><ref type="bibr" target="#b22">, Infante and Azeredo-Espin 1995)</ref>. This size estimate is based on the estimated size of the fragments produced by the single cut enzymes (BamHl, Xba I, and Xhol), as well as the sum of the fragments for the other restriction enzymes. Fragments smaller than 1.0 kb. were usually not observed and scored under the gel conditions used. This does not imply that very small fragments do not exist, and, therefore, some of the totals may be less than 16.4 kb. (Table <ref type="table">1</ref>).</p><p>Based on the restriction patterns of these enzymes, we are able to differentiate the 2 populations of P. eximia analyzed. Although die sample size of individuals examined were small and may include only the  <ref type="bibr" target="#b39">Price (1980)</ref>, for many parasite species. Even if diis prediction appears to hold for host-specific ectoparasites, an alternative possibility that could not be discarded is to consider the variation observed as a intraspecific mtDNA polymorphism within populations of JR eximia. Only further comparative data on the genetic structure of different populations of P. eximia, collected in different hosts and envolving more samples, could confirm if there is a correlation between mtDNA markers and host specificity.</p><p>The functional division of Calliphoridae, responsible for myiasis, may also reflect the evolution of the parasitic habit. Generalized free-living saprophagous feeders, such as calliphorids, which may occasionally act as agents of myiasis in wounded, dying, or otherwise clinically predisposed animals, may have formed die ancestral origins of the parasitic habit. These then gave rise to facultative ectoparasites, attracted to skin soiled by feces, bacterial infection, and suppurating wounds, such as JR cuprina, which behave as primary myiasis agents rather than saprophages. From this intermediate stage, the obligate parasites, for example, C. hominivorax and C. bezziana, developed <ref type="bibr">(Zumpt 1965</ref><ref type="bibr">, Erzinclioglu 1989</ref><ref type="bibr" target="#b19">, Hall and Wall 1995)</ref>. Hence, it would appear that these 2 screwworm species evolved in parallel, independently, in different parts of die world from necrophagous ancestor, with species of the genera such as Phoenicia representing a midpoint in diis development. Intermediate evolutionary stages within the genera of the 2 obligate parasites themselves are represented by C. macellaria, Chrysomya megacephala {¥.), C. putoria (Wiedemann), and C. albiceps (Wiedemann).</p><p>If the myiasis habit of Calliphoridae evolved from saprophagy, then it probably involved a change in the timing of attack. Thus, the primitive behavior, shown by carrion-breeding species, Vol. 33, no. 5 changed from attack on stressed or dying animals to attack on healthy animals (i.e., from vertebrate saprophage to feeder on vertebrate wounds, to obligate cause of vertebrate wounds).</p><p>The myiasis habit of the obligate ectoparasites may be a well-established life history strategy in evolutionary terms. In contrast, inter-and intraspecific variation in myiasis propensity and historical records of changes in myiasis incidence or species of importance provide a strong case to suggest that some of the species responsible for facultative myiasis may have coevolved with the domestication and spread of livestock and the intensification of their husbandry and may have expanded relatively rapidly and recently into the vacant niches so created. Possibly they were preadapted as general parasites of wildlife and so were able to take advantage of the spread of domestic, relatively nonresistant animals. This may be particularly true for species of the genus Phoenicia.</p><p>The factors inducing the P. eximia, which normally oviposits in carcasses, to infest a living animal remain unknown. In both reports of primary myiasis caused by P. eximia, the cat and dog were healthy and young 15 and 10 d old, respectively.</p><p>It seems probable that myiasis caused by P. eximia is similar to the competitive displacement of P. cuprina observed in Australia, where several species of primarily necrophagous flies have shown a capacity to establish cutaneous myiasis of sheep comparable with those of P. eximia. In various countries where sheep raising has developed, several species of primarily necrophagous flies have shown a capacity to establish cutaneous myiasis of sheep comparable with those of P. eximia. At least 6 species of Australian blowflies, particularly P. cuprina which could have had no contact with sheep before European settlement in Australia, are capable of establishing myiasis in exactly the same fashion as JR eximia. This habit, however, is only of secondary importance in their bionomics <ref type="bibr">(Norris 1990)</ref>. Carrion in nature invariably is loaded with far greater numbers of fly eggs than the maximum number of larvae that can mature on it <ref type="bibr" target="#b20">(Holdaway 1930</ref><ref type="bibr" target="#b47">, Wardle 1930</ref><ref type="bibr" target="#b42">, Salt 1932</ref><ref type="bibr" target="#b12">, Fuller 1934</ref><ref type="bibr" target="#b15">, Greenberg and Szyska 1984</ref><ref type="bibr">, Baumgartner and Greenberg 1985)</ref>. Great emphasis has been placed on the importance of intra-and interspecific competition in limiting blow fly production <ref type="bibr" target="#b12">(Fuller 1934</ref><ref type="bibr" target="#b7">, Cragg 1955)</ref>. In Brazil there are reports of competitive displacement of P. eximia by exotic species, belonging to the genus Chnjsomya (Rob. Desvoidy), introduced into the country in the late 1970s <ref type="bibr" target="#b16">(Guimaraes et al. 1979</ref>). This fact is reinforced by data obtained in some Brazilian states, such as Goias <ref type="bibr">(Ferreira 1983)</ref>, Minas Gerais <ref type="bibr" target="#b26">(Madeira et al. 1982)</ref>, Rio de Janeiro (D'Almeida and <ref type="bibr" target="#b8">Lopes 1983)</ref>, and Amazonia <ref type="bibr" target="#b37">(Paraluppi 1992)</ref>. This competition could be the basis for the exploitation of new substrate as a breeding site. These reports indicate the importance of analyzing the species that cause primary myiasis particularly in domestic animals.</p><p>The mtDNA variation found in our limited sampling of P. eximia populations could prove very useful as molecular genetic markers in a species where other genetic markers have been lacking. It also provides a foundation for additional evolutionary and genetic studies of the distribution of maternal lines in this widely dispersed species.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Autoradiograms of Southern blot showing P. eximia mtDNA of sampled populations digested with 4 enzymes: lanes 2, 3, 6, 7, 10, 11, and 14 = P. eximia collected in dog. Lanes 4, 5, 8, 9, 12, 13, and 15 = P. eximia collected in bovine carcass. Lanes 2-5 with Haelll; lanes 6-9 with Mspl; lanes 10-13 with EcoRI; lanes 14-15 with EcoRV. Hinrflll-cut with A DNA and HaelU-cut &lt;f&gt; X174 DNA are the size standards. Number at left denotes sizes of fragment patterns in kilobase pairs.</figDesc><graphic coords="3,88.70,104.57,184.80,117.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>carcass progeny of 1 female, this early observation could suggest the existence of different evolutionary adaptations for populations of individuals in infesting different hosts, as proposed by</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Departamento de Gene'tica e Evolucao-I.B. e Centra de Biologia Molecular e Engenharia Gene'tica, Universidade Estadual de Campinas, CP 6109 C.E.P. 13.083-970, Campinas, SP, Brasil.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Departamento de Parasitologia, I.B. UNESP, C.E.P. 18.600, Botucatu, SP, Brasil.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Downloaded from https://academic.oup.com/jme/article/33/5/839/1022622 by Universidade Federal do Maranhao (UFMA) user on 19 February 2026</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We are grateful to <rs type="person">R. A. Rodrigues</rs>, <rs type="person">Nairlidia Salmi Hallais</rs>, and <rs type="person">M. Constantino Filho</rs> for technical and laboratory assistance. This research was supported by <rs type="funder">Conselho Nacional de Desenvolvimento Cientffico e Tecnoldgico (CNPq)</rs> and <rs type="funder">Fundacao de Amparo a Pesquisa do Estado de Sao Paulo (FAPESP)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Aldrich</surname></persName>
+		</author>
+		<title level="m">Sarcophaga and allies in North America</title>
+		<meeting><address><addrLine>Lanham, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Entomological Society of America</publisher>
+			<date type="published" when="1961">1961</date>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+	<note>Thomas Say Foundation</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Intraspecific phylogeography: the mitochondria] DNA bridges between population genetics and systematics</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Avise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Arnold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Martin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Bermingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lamb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Neigel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Reeb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">C</forename><surname>Saunders</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Ecol. Syst</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="486" to="522" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA clones and matriarchal phylogeny within and among geographic populations of the pocket gopher Geomtjs pinetis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Avise</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Giblin-Davidson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Laerm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Patton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Lansman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc. Nad. Acad. Sci. U.S.A</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="6694" to="6698" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA variability in geographic populations of screwworm fly from Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IAEA</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="161" to="165" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA variation in geographic populations of Colorado potato beetle, Leptinotarsa decemlineata (Coleoptera: Chrysomelidae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F W</forename><surname>Schroder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Huettel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">S</forename><surname>Sheppard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Experientia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="483" to="485" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Distribution and medical ecology of the blow flies (Diptera: Calliphoridae) of Peru</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Baumgartener</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Entomol. Soc. Am</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="565" to="587" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">The flies of western North America</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Cole</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">I</forename><surname>Schlinger</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1969">1969</date>
+			<publisher>University of California Press</publisher>
+			<pubPlace>Berkeley, CA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">The natural history of sheep blowflies in Britain</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Cragg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Appl. Biol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="197" to="207" />
+			<date type="published" when="1955">1955</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Sinantropia em Dfpteros Caliptrados (Calliphoridae) no Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Univ. Fed. Rur. Rio de Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="38" to="38" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Chnjsomya albiceps (Wiedemann) (Diptera: Calliphoridae) in dung and causing myiasis in Oman</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Z</forename><surname>Erzinclioglu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Whitcombe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol. Mon. Mag</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="page">5152</biblScope>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Sinantropia de Dfpteros musc6ides de Curitiba, Parana I: Calliphoridae</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sinantropia de Calliphoridae (Diptera) em Goiania</title>
+	</analytic>
+	<monogr>
+		<title level="j">Goias. Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="199" to="210" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">The insect inhabitants of carrion: a study in animal ecology</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fuller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Counc. Sci. Ind. Res. Austr. Bull</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<date type="published" when="1934">1934</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Notes on blow fly (Diptera: Calliphoridae) succesion on carrion in northem Mississipi</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Goddard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Lago</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Entomol. Sci</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="312" to="317" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA of the blowfly Phonnia regina: restriction analysis and gene localization</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Goldenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Mckenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Joslyn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Genet</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1" to="11" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Immature stages and biology of fifteen species of Peruvian Calliphoridae (Diptera)</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Szyska</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Entomol. Soc. Am</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="488" to="517" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Dispersal and distribution of three newly introduced species of Chrysomya Robineau-Desvoidy in Brazil (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimaraes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Buralli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Hall</surname></persName>
+		</author>
+		<title level="m">The blowflies of North America</title>
+		<imprint>
+			<date type="published" when="1948">1948</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m">Thomas Say Foundation</title>
+		<meeting><address><addrLine>Lanham, MD</addrLine></address></meeting>
+		<imprint>
+			<publisher>Entomological Society of America</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Myiasis of humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Field populations and natural control of Lucilia sericata Mg</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">G</forename><surname>Holdaway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature (Lond.)</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="648" to="649" />
+			<date type="published" when="1930">1930</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Andlise do DNA mitochondrial em populacoes de Cochliomyia hominivorax (Diptera: Calliphoridae) do Estado de Sao Paulo</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Infante</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<pubPlace>Campinas, SP</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Estadual de Campinas</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">M. S. thesis</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Genetic variability in mtDNA of Cochliomyia hominivorax from Brazil</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Infante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Genet</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="737" to="756" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The flies that cause myisis in man</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1947">1947</date>
+			<publisher>U.S. Dep. Agric. Misc. Publ</publisher>
+			<biblScope unit="page">631</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Unbares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="189" to="215" />
+			<date type="published" when="1981">1981</date>
+			<pubPlace>Sao Paulo, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Hdbito de pupacao de Calliphoride (Diptera) na natureza e o encontro do parasitdide Spalangia endius (Hymenoptera: Pteromalidae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Biol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="481" to="484" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Contribuicao ao conhecimento da fauna de Calliphoridae (Diptera) sinantr6picos da Pampulha-Belo Horizonte</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mascarenhas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="137" to="140" />
+			<date type="published" when="1982">1982</date>
+			<pubPlace>Minas Gerais</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">The occurrence of primary myiasis in cats caused by Phoenicia eximia (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Silveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pavan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem. Inst. Oswaldo Cruz Rio de Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">341</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Molecular cloning. A laboratory manual</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maniatis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Fritsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sambrook</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Cold Spring Harbor Laboratory Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Moscas Calliphoridae y Mesembrinellidae de Puerto Iguazu</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Muzon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Spineui</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Composicion especifica y ecologia (Insecta, Diptera). Graellsia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="7" to="18" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Atratividade por iscas e estagios de desenvolvimento ovariano em varias especies sinantr6picas de Calliphoridae (Diptera)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Unbares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="157" to="166" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Evolution of animal mitochondrial DNA and relevance for population biology and systematics</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Moritz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Dowling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Brown</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Ecol. Syst</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="269" to="292" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">I E</forename><surname>Murray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Myiasis in man and other animals in Trinidad and Tobago</title>
+		<imprint>
+			<date type="published" when="1973">1976. 1973-73</date>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="263" to="266" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Molecular approaches to studying helminth population genetics and phylogeny</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Nadler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="11" to="29" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The bionomics of blow flies</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Norris</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu. Rev. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="47" to="68" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Evidence for multiple exotic origin of Australian populations of the sheep blowfly Lucilia cuprina (Weidemann) (Diptera: Calliphoridae)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. j . Zool</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="635" to="648" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><surname>Oldroyd</surname></persName>
+		</author>
+		<title level="m">The natural history of flies. Weidenfeld and Nicolson</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1964">1964</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">Calliphoridae (Diptera) de Manaus: levantamento taxonomico, sazonalidade, atividade de voo, desenvolvimento ovariano e potencialidade como vetores de bacterias nas feiras livres</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Paraluppi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+		<respStmt>
+			<orgName>Instituto Nacional de Pesquisa da Arnazonia-INPA-Manaus-AM</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">Ph.D. dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Estado atual de dispersao e distribuicao do genero Chrysomya Robineau-Desvoidy na regiao neotropical (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimaraes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="225" to="231" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">Evolutionary biology of parasites</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">W</forename><surname>Price</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Intraspecific genetic variability in mitochondrial DNA of the screwworm fly (Cochliomyia hominivorax)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem. Genet</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="551" to="569" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA variation among geographical populations of the screwworm fly, Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="136" to="141" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">The natural control of the sheep blowfly, Lucilia sericata Meigen</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Salt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bull. Entomol. Res</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="235" to="245" />
+			<date type="published" when="1932">1932</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Reproductive compatibility and mitochondrial DNA restriction site analysis of New World screwworm, Cochliomyia hominivorax, from North Africa and Central America</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hammack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. Vet. Entom</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="145" to="151" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Intraspecific variation in parasites-what is a strain?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C A</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Lymbery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Today</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="345" to="348" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">The relative importance of live sheep and of carrion as breeding grounds for the Australian sheep blowfly</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Waterhouse</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lucilia cuprina. Counc. Sci. Ind. Res. Bull. Aust</title>
+		<imprint>
+			<biblScope unit="volume">217</biblScope>
+			<date type="published" when="1947">1947</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">The status of the two species of Lucilia attacking sheep in Australia</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Waterhouse</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Paramanov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Aust. J. Sci. Res</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="310" to="337" />
+			<date type="published" when="1950">1950</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Significant variables in the blowfly environment</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Wardle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. Appl. Biol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="554" to="574" />
+			<date type="published" when="1930">1930</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Flutuacao populacional de Cochliomyia hominivorax e Cochliomyia macellaria (Diptera: Calliphoridae) no municipio de Capao do Leao</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Wiegand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G W</forename><surname>Bmm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R P</forename><surname>Costa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Bras. Med. Vet. Zootec</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="155" to="162" />
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Rio Grande do Sul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA and two perspectives on evolutionary genetics</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Conn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Carr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><forename type="middle">B</forename><surname>Gyllensten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Bychowsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Higuchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Palumbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Prager</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Sage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Stoneking</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol. J. Linn. Soc</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="375" to="400" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zunipt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World</title>
+		<meeting><address><addrLine>Butterworths, London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

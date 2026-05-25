@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Avaliação de Extratos Vegetais na Prevenção e Tratamento de Miíases Umbilicais em Bezerros no Pantanal</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Antonio</forename><surname>Thadeu</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Ernande Ravaglia Assistente de Pesquisa Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Waldno da Silva Aquino Assistente de Pesquisa Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Químico Depto de Parasitologia Veterinária ,</note>
+								<orgName type="department">Químico Depto de Parasitologia Veterinária</orgName>
+								<orgName type="institution">Embrapa Pantanal</orgName>
+								<address>
+									<addrLine>MS Ernande Ravaglia Assistente de Pesquisa Embrapa Pantanal MS Waldno da Silva Aquino Assistente de Pesquisa Embrapa Pantanal</addrLine>
+									<postCode>109 79320-900 109 79320-900 109 79320-900</postCode>
+									<settlement>Corumbá Corumbá Corumbá</settlement>
+									<region>CP CP CP MS</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><surname>Barros</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Ernande Ravaglia Assistente de Pesquisa Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Waldno da Silva Aquino Assistente de Pesquisa Embrapa Pantanal , CP 109 79320-900 Corumbá , MS Químico Depto de Parasitologia Veterinária ,</note>
+								<orgName type="department">Químico Depto de Parasitologia Veterinária</orgName>
+								<orgName type="institution">Embrapa Pantanal</orgName>
+								<address>
+									<addrLine>MS Ernande Ravaglia Assistente de Pesquisa Embrapa Pantanal MS Waldno da Silva Aquino Assistente de Pesquisa Embrapa Pantanal</addrLine>
+									<postCode>109 79320-900 109 79320-900 109 79320-900</postCode>
+									<settlement>Corumbá Corumbá Corumbá</settlement>
+									<region>CP CP CP MS</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Wanderley</forename><forename type="middle">M</forename><surname>Passos</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Instituto de Veterinária , UFRRJ 23890-000 Seropédica , RJ Acadêmica UFMS / Bolsista</note>
+								<orgName type="department">Instituto de Veterinária</orgName>
+								<orgName type="institution">Acadêmica UFMS</orgName>
+								<address>
+									<postCode>23890-000</postCode>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country>UFRRJ Bolsista</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Layna</forename><forename type="middle">T B</forename><surname>Leite</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">PIBIC Embrapa Pantanal , CP 109 Corumbá, MS Cir cu lar Té cn ica</note>
+								<orgName type="institution">PIBIC Embrapa Pantanal</orgName>
+								<address>
+									<addrLine>CP 109 Corumbá, MS Cir cu lar Té cn ica</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Avaliação de Extratos Vegetais na Prevenção e Tratamento de Miíases Umbilicais em Bezerros no Pantanal</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">950FF7713185BBEBBF495F2CE7F0FF4C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A Cochliomyia hominivorax, conhecida como mosca-varejeira, é considerada um dos principais ectoparasitas de bovinos no país, causando prejuízos anuais estimados em US$ 150 milhões <ref type="bibr" target="#b4">(GRISI et al., 2002)</ref>.</p><p>As fêmeas da mosca são atraídas por tecidos vivos expostos ou com sangramento, onde realizam postura. Após eclosão, as larvas penetram no local, causando lesões ulcerativas denominadas "bicheiras" (miíases cutâneas). Estas lesões favorecem a instalação de infecções bacterianas e miíases secundárias, podendo levar o animal a óbito se não forem tratadas <ref type="bibr" target="#b5">(OLIVEIRA et al., 1982)</ref>. Miíases são particularmente comuns em bezerros recém-nascidos, uma vez que umbigos não cicatrizados consistem em excelente atrativo às moscas-varejeiras.</p><p>Estudos realizados no Estado de Mato Grosso do Sul demonstram a importância dessa parasitose à pecuária extensiva da região. Em Terenos, cerca de 41% dos bezerros sem cuidados de desinfecção do umbigo, apresentaram miíase umbilical <ref type="bibr" target="#b3">(BIANCHIN et al., 1992)</ref>. No Pantanal, onde a taxa de mortalidade de bezerros varia de 10% a 20%, as miíases são consideradas uma das principais causas (SERENO et  al., 1996).</p><p>Devido a características ambientais e de manejo (grandes propriedades, pastagens extensas, rebanhos numerosos, mão-de-obra deficitária, etc.), as miíases umbilicais figuram dentre os principais problemas sanitários de bezerros no Estado. Esta situação é substancialmente agravada no Pantanal devido a problemas de infraestrutura, dificuldade de acesso e de manejo, determinando expressivas perdas à pecuária da região.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Há décadas, a "cura" do umbigo de bezerros era tradicionalmente realizada no Pantanal com produtos à base de benzocreol, sendo depois substituídos pela aplicação tópica de solução de iodo e quimioterápicos aerossóis ("mata-bicheiras"). A partir da década de 1980, devido à sua praticidade e eficácia, produtos endectocidas injetáveis passaram a ser empregados rotineiramente no manejo de bezerros recém-nascidos na região.</p><p>Contudo, restrições das agências certificadoras têm imposto limitações quanto ao uso de inseticidas e endectocidas sintéticos no manejo de bezerros em sistemas orgânicos de produção. Considerando que as miíases umbilicais são um ponto crítico à pecuária pantaneira, mesmo em sistemas convencionais de produção, torna-se importante buscar alternativas para prevenir ou minimizar este problema.</p><p>De modo geral, o uso de produtos naturais tem sido considerado uma alternativa potencial no controle de parasitoses em animais. Algumas vantagens potenciais associadas ao uso de fitoterápicos incluem a redução de custos, contaminação por pesticidas e resistência. Entretanto, o uso de extratos vegetais, particularmente na prevenção e tratamento de miíases, necessita de mais estudos comparativos a campo.</p><p>Com o objetivo de avaliar a ação de extratos vegetais na prevenção e/ou tratamento de miíases umbilicais em bezerros, pesquisas foram realizadas na Fazenda Nhumirim, localizada no Pantanal (sub-região da Nhecolândia), município de Corumbá, MS. Essa fazenda possui estação de nascimento de setembro a dezembro, com produção média anual de 300 a 400 bezerros. Os estudos foram realizados durante as estações de nascimento de 2004 e 2005.</p><p>É importante ressaltar o enfoque efetivamente aplicado do estudo, tendo sido integralmente realizado sob condições de manejo extensivo no Pantanal, envolvendo grande número de animais e extensas pastagens de vegetação nativa. Todos os animais experimentais foram submetidos ao manejo realizado na propriedade, incluindo tatuagem dos números de identificação e marcação (picotagem) da orelha.</p><p>No primeiro ano de estudo foi avaliada a eficácia dos óleos essenciais de andiroba (Carapa guianensis) e citronela (Cymbopogon sp.), diluídos a 5% em óleo de soja comercial, na prevenção de miíases. Os tratamentos foram realizados exclusivamente em animais sadios, sem presença de postura ou miíase. Animais parasitados foram tratados com produto comercial larvicida.</p><p>Logo após o tratamento com citronela, frequentemente foram observadas vacas lambendo o umbigo dos bezerros. Esse comportamento, além de retirar parcial ou totalmente o produto, escarificava o local, tendendo a afetar a cicatrização normal do umbigo e reduzir a eficácia do produto. Este problema foi evitado no ano seguinte com a adição de um amargante (benzoato de denatônio 0,005%).</p><p>No segundo ano, optou-se por avaliar a eficácia dos tratamentos também em animais com postura ou miíase, uma vez que estas foram as situações encontradas na maioria dos casos. Assim, os estudos realizados em 2005 incluíram desde recém-nascidos com umbigos sadios até animais com alguns dias de idade e miíases com larvas em distintos estádios de desenvolvimento.</p><p>Nestas condições foi avaliada a eficácia dos óleos essenciais de andiroba, citronela + amargante, citronelal (extraído de Eucalyptus citriodora) + amargante e óleo de nim (Azadirachta indica), diluídos a 10% em óleo de soja. Posteriormente, foi avaliada a eficácia do óleo de soja aplicado isoladamente, em 34 animais.</p><p>Todos os extratos vegetais foram aplicados topicamente utilizando-se uma garrafa "pet" (500 ml), com orifício na tampa, de modo a facilitar seu transporte (a cavalo) e o tratamento de toda a região umbilical. Cada tratamento foi realizado em um mínimo de 20 bezerros (chegando a 45 animais em alguns tratamentos). Os animais tratados foram monitorados até a completa cicatrização do umbigo ou a instalação/persistência de miíase.</p><p>Como grupo controle foram considerados os bezerros nascidos em determinada invernada, mantidos sem tratamento e monitorados até a cicatrização do umbigo ou instalação de miíase. Neste grupo, os animais parasitados foram tratados com produto comercial larvicida e excluídos do experimento.</p><p>Em 90% a 96% dos casos, os tratamentos foram realizados em bezerros até o terceiro dia de idade. Embora as condições de realização do estudo não tenham permitido o acompanhamento diário de cada animal tratado, um adequado monitoramento foi realizado em 82% dos animais, sendo os demais excluídos do estudo. Na avaliação foram consideradas observações até o 5° dia pós-tratamento (dpt), sendo consideradas miíases ativas aquelas com larvas vivas a partir do 3° dpt.</p><p>A eficácia dos tratamentos com extratos vegetais foi calculada em relação ao grupo controle (não tratado). Posteriormente, a eficácia obtida foi corrigida com base na eficácia apresentada pelo diluente. Em ambos os cálculos utilizou-se a seguinte fórmula: Eficácia (%) =[(Cm -Tm)/Cm] x 100 onde: Cm = % de animais com miíase no grupo controle (ou no grupo tratado com diluente) Tm = % de animais com miíase no grupo tratado com extrato vegetal O perfil químico dos componentes do óleo essencial de citronela e óleo de nim foi obtido através de cromatografia gasosa e cromatografia líquida de alta eficiência (HPLC), respectivamente. Os compostos majoritários presentes na citronela foram citronelal (30,28%), geraniol (23,48%) e citronelol (12,20%). Teores de azadiractina A e B no óleo de nim foram 1.757 ppm e 887 ppm, respectivamente. A pureza do citronelal utilizado foi 86,7%.</p><p>Nos dois anos de estudo foram utilizados 250 bezerros nos experimentos, sendo 80 em 2004 e 170 em 2005.</p><p>A ocorrência de miíases umbilicais nos grupos controle foi observada em 91,2% (2004) e 92,5% (2005) dos animais. A elevada prevalência desta parasitose no Pantanal constitui importante causa de mortalidade em bezerros recém-nascidos caso não seja prevenida ou tratada adequadamente. Situação semelhante, com elevada prevalência de míiases (≥80%) em animais não tratados, foi observada em estudos na Argentina e no Brasil <ref type="bibr">(BENITEZ USHER et al., 1997;</ref><ref type="bibr" target="#b0">ANZIANI et al, 1998)</ref>.</p><p>Considerando os animais parasitados dos grupos controle (n= 74), maior prevalência de miíases umbilicais foi observada em machos (55,88%) que em fêmeas (44,12%), embora esta diferença não seja estatisticamente significativa pelo teste qui quadrado. Também <ref type="bibr" target="#b3">Bianchin et al. (1992)</ref> encontraram maior prevalência em bezerros machos (64,42%), a qual foi atribuída ao comportamento materno de lamber o umbigo e à irritação local causada pela urina.</p><p>O óleo de soja (diluente), aplicado isoladamente, reduziu em 21,06% a prevalência de miíases umbilicais, o que pode ter ocorrido em função da ação mecânica do óleo, diminuindo a atratividade do umbigo, dificultando a realização de posturas e/ou a instalação das larvas.</p><p>Na primeira estação de nascimento, a andiroba apresentou eficácia de 26,88% e a citronela de 25,42%, na prevenção de miíases umbilicais. Entretanto, quando corrigida com base na eficácia apresentada pelo diluente, a eficácia dos extratos foi reduzida a 7,37% e 5,53%, respectivamente. Além de pouco eficaz, o uso de óleos vegetais na prevenção de miíases mostrou-se inadequado à situação encontrada a campo, tendo em vista a elevada prevalência de animais parasitados, antes mesmo do tratamento. Ajustes metodológicos foram realizados em 2005, optando-se por dobrar a concentração (10%) dos extratos vegetais e testá-los tanto em bezerros sadios como nos parasitados. Essas alterações possibilitaram avaliar o potencial preventivo e curativo dos tratamentos e sua real eficácia em condições de campo e de manejo no Pantanal.</p><p>Corrigida pelo grupo controle, a eficácia dos extratos em 2005 foi: andiroba (18,92%), citronela + amargante (18,92%), citronelal + amargante (20,10%) e nim (15,91%). Após correção pela ação do diluente, nenhum dos tratamentos apresentou eficácia positiva.</p><p>A maior eficácia dos óleos de andiroba e citronela em 2004 em relação à 2005, a despeito da menor concentração empregada, pode ser explicada pela exclusivo tratamento de animais sadios no primeiro ano, enquanto em 2005, cerca de 80% dos animais apresentavam postura e/ou miíase umbilical no momento do tratamento. O aumento do desafio contribuiu para reduzir a eficácia dos extratos testados no segundo ano.</p><p>Vale ressaltar alguns fatores, os quais isolada ou conjuntamente, podem ter contribuído para os resultados obtidos.</p><p>Sabe-se que fatores ambientais limitam a persistência a campo de pesticidas botânicos, restringindo sua ação residual a poucos dias <ref type="bibr" target="#b6">(SCHMUTTERER, 1990)</ref>. Após tratamento com nim não foram observadas miíases em cerca de um terço dos animais com posturas de C. hominivorax na região umbilical e, em outras situações, a instalação de miíases somente foi observada alguns dias após o tratamento, o que pode estar relacionado à redução da ação do extrato antes da completa cicatrização do umbigo.</p><p>Favorecida pela localização e anatomia do umbigo, a remoção mecânica dos extratos pela vegetação herbácea pode ter contribuído para reduzir a permanência do extrato no local de aplicação. Adicionalmente, a presença de exsudatos nas lesões pode ter dificultado a exposição das larvas a concentrações potencialmente letais dos extratos testados. Assim, avaliações utilizando formulações mais elaboradas podem apresentar maior eficácia.</p><p>Embora os extratos vegetais não tenham apresentado eficácia satisfatória nas condições de realização dos experimentos, a redução parcial na ocorrência de miíases em algumas situações denota a presença de compostos bioativos nestes extratos. Estudos adicionais são essenciais ao desenvolvimento de formulações de inseticidas botânicos capazes de manter a higidez do umbigo até sua completa cicatrização.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusões</head><p>A elevada prevalência de miíases umbilicais em bezerros recém-nascidos no Pantanal restringe o uso potencial de fitorepelentes na região e demanda a aplicação de produtos com efetiva ação larvicida.</p><p>Nenhum dos extratos vegetais testados apresentou eficácia satisfatória na profilaxia (ação repelente) ou tratamento (ação larvicida) de miíases umbilicais. Portanto, não é recomendada a utilização dos óleos de andiroba, citronela, citronelal e nim, em concentrações de até 10%, no manejo de bezerros recém-nascidos no Pantanal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos</head><p>À Dierberger Óleos Essenciais S. A. pela doação dos óleos de andiroba, citronela e citronelal, à Nortec Química pelo benzoato de denatônio à Mabras pelo óleo de nim e à Moacir R. Forim (UFSCar) pela análise deste material. À FUNDECT e à Embrapa, pelo suporte financeiro para a realização do estudo e aos funcionários da fazenda Nhumirim pelo fundamental auxílio nas atividades a campo.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="1,166.08,188.16,308.36,231.06" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Efficacy of dicyclanil in the prevention of screwworm infestation (Cochliomyia hominivorax) in cattle castration wounds</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Guglielmone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schmid</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="229" to="232" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Prophylactic use of ivermectin against cattle myiasis caused by Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Benitez Usher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bridi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Farrington</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Barrick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Eagleson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1858">1858</date>
+			<publisher>Coquerel</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="215" to="220" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Uso de Ivermectin aplicado pela via subcutânea na prevenção de miíases umbilicais em bezerros de corte criados extensivamente. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Bianchin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Correa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Curvo</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="121" to="124" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil. Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Pereira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Flutuação populacional de Cochliomyia hominivorax no município de Itaguaí, Rio de Janeiro. Pesquisa Veterinária Brasileira</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="139" to="142" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Properties and potential of natural pesticides from the neem tree</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schmutterer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Azadirachta Indica. Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="271" to="297" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

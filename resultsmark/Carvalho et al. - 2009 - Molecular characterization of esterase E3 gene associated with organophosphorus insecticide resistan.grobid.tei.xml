@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Molecular characterization of esterase E3 gene associated with organophosphorus insecticide resistance in the New World screwworm fly, &lt;i&gt;Cochliomyia hominivorax&lt;/i&gt;</title>
+				<funder ref="#_rdgM2xm">
+					<orgName type="full">Fundação de Amparo à Pesquisa do Estado de São Paulo to AMLA-E (FAPESP</orgName>
+				</funder>
+				<funder ref="#_nFKavVB">
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2009-03-24">2009-03-24</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Laboratório de Genética Animal , Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas , Campinas , São Paulo , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="laboratory">Laboratório de Genética Animal</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas</orgName>
+								<address>
+									<settlement>Campinas São Paulo</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Paniago</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo‐espin</surname></persName>
+						</author>
+						<title level="a" type="main">Molecular characterization of esterase E3 gene associated with organophosphorus insecticide resistance in the New World screwworm fly, &lt;i&gt;Cochliomyia hominivorax&lt;/i&gt;</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Medical and Veterinary Entomology</title>
+						<title level="j" type="abbrev">Medical Vet Entomology</title>
+						<idno type="ISSN">0269-283X</idno>
+						<idno type="eISSN">1365-2915</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">23</biblScope>
+							<biblScope unit="issue">s1</biblScope>
+							<biblScope unit="page" from="86" to="91"/>
+							<date type="published" when="2009-03-24" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">77F4DE2CD98723DD26DDC08E4CB23061</idno>
+					<idno type="DOI">10.1111/j.1365-2915.2008.00788.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Esterase</term>
+					<term>insecticide resistance</term>
+					<term>myiasis</term>
+					<term>organophosphorus</term>
+					<term>screwworm</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The New World screwworm, Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae), is one of the most important myiasis-causing flies in South America. It is responsible for severe economic losses to livestock producers, mainly because it causes mortality in newborn calves and reductions in the quality of leather and in the production of milk and meat. The economic losses caused by myiasis, along with those caused by other internal and external parasites, are the main factors limiting meat production. In Brazil, C. hominivorax has been controlled by applying insecticides, particularly organophosphate (OP)-based compounds. However, the improper and continuous use of these chemicals can lead to the selection of OP-resistant strains. This, associated with the fast development of OP resistance in other myiasis-causing flies, shows the importance of investigating resistance in C. hominivorax. Based on the findings of previous studies, the objective of the current work was to isolate and sequence the E3 gene in C. hominivorax. Mutations at the positions (Gly137 and Trp251) responsible for conferring OP resistance in Lucilia cuprina and Musca domestica L. (Muscidae) were identified in C. hominivorax . In addition, the orthologous region in C. hominivorax contained motifs that are highly conserved among carboxyl/cholinesterases and contribute to the catalytic mechanism of the active site. The characterization of this gene in natural populations of New World screwworm can be an important tool for monitoring resistance to insecticides throughout its current geographic distribution. This will provide information for the selection and implementation of more effective pest management programmes.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Brazil has the largest commercial herd of cattle in the world, numbering approximately 200 million in total ( Instituto Brasileiro de Geografia e <ref type="bibr">Estatística, 2005 )</ref>. High levels of meat production require efficient sanitary control of animals in order to reduce costs and increase meat quality. The economic losses caused by internal and external parasites, such as myiasis-causing flies, are the main factors limiting meat production. The New World screwworm (NWS), Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae), is one of the most important myiasiscausing flies in the Neotropics <ref type="bibr" target="#b10">( Hall &amp; Wall, 1995 )</ref>. The female flies lay eggs on fresh wounds and the larvae penetrate the host tissues and create an open, growing lesion <ref type="bibr" target="#b26">( Zumpt, 1965 )</ref>. This occurrence is responsible for severe economic losses to livestock producers, especially through mortality in newborn calves, and reductions in the quality of leather and in milk and meat production.</p><p>Eradication of NWS in North America and almost all of Central America has been achieved by using an area-wide integrated approach, including the release of sterile insects <ref type="bibr" target="#b25">( Wyss, 2000 )</ref>. The current distribution of C. hominivorax covers part of the Caribbean region and South America, except Chile. In these countries, C. hominivorax has been controlled for several decades almost exclusively by insecticides, particularly organophosphate (OP)-based compounds, whose target site is the enzyme acetylcholinesterase. This, associated with the fast development of OP resistance in other myiasis-causing flies <ref type="bibr" target="#b16">( Levot, 1995 )</ref>, shows the importance of investigating genetic resistance in C. hominivorax.</p><p>Insecticide resistance is assumed to be a pre-adaptive phenomenon because, prior to insecticide exposure, rare individuals that carry an altered genome already exist. This genome predisposes them to the development of different resistance mechanisms and allows them to survive the evolutionary selection pressure of insecticides <ref type="bibr">( World Health Organization, 1957 )</ref>. Thus, resistance of insects to insecticides is an ongoing challenge to pest management, but, at the same time, represents an ideal context in which to study the process of microevolution and environmental adaptation <ref type="bibr" target="#b17">( Li et al. , 2007 )</ref>. The major mechanisms of resistance described so far involve either metabolic detoxification of the insecticide before it reaches its target site, or changes in the sensitivity of target sites that abolish the insect ' s susceptibility to the insecticide. Alone, or in combination, these mechanisms confer resistance to all available classes of insecticide <ref type="bibr" target="#b15">( Hemingway et al. , 2004 )</ref>. The most common metabolic resistance mechanisms involve esterases, glutathione S-transferases or monooxygenases.</p><p>Esterases have been implicated in both target sites and metabolic resistance to OP insecticides in 49 pest insects (revised in <ref type="bibr" target="#b21">Oakeshott et al. , 2005 )</ref>. Several cases of metabolic resistance in the Hemiptera (aphids and whiteflies) and lower Diptera (mosquitoes) involve sequestration, in which an esterase that binds the pesticide with high affinity is over-expressed (in many cases because of gene amplification) to a degree that allows effective sequestration of the toxin. In higher Diptera (blowflies and houseflies), metabolic resistance has been associated with a structural change in the esterase that confers detoxification activity that allows the enzyme to degrade the pesticide.</p><p>Structural changes in esterase 3 (E3) have been characterized in some OP-resistant strains of two Calliphoridae, Lucilia cuprina <ref type="bibr">( Newcomb et al. , 1997a )</ref> and Lucilia sericata Meigen <ref type="bibr" target="#b12">( Hartley et al. , 2006 )</ref>, and one Muscidae, Musca domestica L. <ref type="bibr" target="#b4">( Claudianos et al. , 1999 )</ref>. Decreased carboxylesterase activity has been observed in resistant individuals. These findings have been explained by a mutant ali-esterase hypothesis in which a structural mutation in a carboxylesterase results in a reduced ability to hydrolyze carboxylesterase substrates, but an acquired ability to hydrolyze OP substrates <ref type="bibr" target="#b4">( Claudianos et al. , 1999 )</ref>.</p><p>Recently, there have been two single nucleotide changes reported in C. hominivorax at the same positions (Gly137 and Trp251) in the E3 gene ( Ch ␣ E7 ) that confer the two forms of OP resistance in L. cuprina and M. domestica <ref type="bibr" target="#b3">( Carvalho et al. , 2006 )</ref>. A fragment that included the intron III (63 bp) and the exon region, corresponding to positions 359 -831 in the L. cuprina ␣ E7 nucleotide sequence, as well both amino acid positions (137 and 251) related to OP resistance, was amplified and sequenced in C. hominivorax .</p><p>Based on previous studies, the objective of the current study was to isolate and sequence the entire coding region of the E3 gene in C. hominivorax , which is orthologous to that previously described for some Diptera species. The sequencing of the E3 gene in C. hominivorax allowed the characterization of mutants and wild alleles in this species. In addition, cDNA isolation will allow biochemical assays to be carried out in order to establish the associations of some mutations with insecticide resistance. The identification of resistant individuals in natural populations can be an important tool for surveying resistance to insecticides throughout a current geographic distribution. This will provide information for the selection and implementation of more effective pest management programmes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Samples</head><p>Larvae of C. hominivorax were obtained from the wounds of infested cattle in Caiapônia, Goiás, Brazil, in 2005. Collected larvae were reared to adults in the laboratory. Total RNA was extracted from larvae and adults using Trizol (Invitrogen, Inc., Carlsbad, CA, U.S.A.), according to the manufacturer ' s instructions. The cDNA was synthesized using the ImProm-II ™ Reverse Transcription System Kit (Promega Corp., Madison, WI, U.S.A.), according to the manufacturer ' s instructions.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>cDNA amplification</head><p>The total coding region of E3 was amplified using six primers ( Fig. <ref type="figure" target="#fig_0">1</ref> ). Two of them had been previously described for L. cuprina <ref type="bibr">( Newcomb et al. , 1997a )</ref>: 7F1a (5 ′ -AGC TAA ATC CCG AAA CTA AAC -3 ′ ) and 7R4 (5 ′ -CTG TKG ARC CNT ATC AGA C -3 ′ ). The primers 7R3a (5 ′ -ATC CTT ATC ATT ATT TTC ACC C -3 ′ ) and 7F4a (5 ′ -CTG TKG ARC CNT ATC AGA C -3 ′ ) were designed from sequenced fragments amplified by 7F1a/7R4 in C. hominivorax <ref type="bibr" target="#b3">( Carvalho et al. , 2006 )</ref>. The primers E3F (5 ′ -ATG AAT TTC AAI GTY AGY YWI ITG GAG -3 ′ ) and 7R7 (5 ′ -TTG GTT ACA CTC TAA AAT AAA TC -3 ′ ) were designed based on E3 nucleotide sequence alignment of Lc ␣ E7 of L. cuprina , Md ␣ E7 of M. domestica , Dm ␣ E7 of Drosophila melanogaster Meigen and Hi ␣ E7 of Haematobia irritans L. obtained from GenBank. The amplification conditions were standardized and the polymerase chain reaction (PCR) procedures were carried out in a Perkin-Elmer 9600 Thermal Cycler (Perkin Elmer, Inc., Waltham, MA, U.S.A.). The 15-L PCR mix contained 20 mM Tris-HCl (pH 8.4), 50 mM KCl, 1 unit of Taq polymerase (Invitrogen, Inc.), 200 M of each dNTP, 1.8 mM MgCl 2 , 1 M of each primer and 10 -15 g of DNA. After an initial denaturing step of 3 min at 96 °C, 35 cycles were performed, each including 1 min at 95 °C, 1 min at 50 °C (or 52 °C, depending on the fragment) and 2 min at 72 °C, with a final step of 10 min at 72 °C to fully extend all amplicons.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sequencing</head><p>Purified PCR products were cloned into pGEM-T plasmid vector (Promega Corp.). These vectors were used to transform Escherichia coli cells, which were plated on LB media with ampicillin (50 g/mL) and X-Gal (0.8 mg in each plate). Plasmid DNA was isolated <ref type="bibr" target="#b23">( Sambrook et al. , 1989 )</ref> and the clones were sequenced using M13 direct and reverse primers. The reactions were run on an ABI 3.700 automated DNA sequencer (Applied Biosystems, Inc., Foster City, CA, U.S.A.). The nucleotide sequences of C. hominivorax were submitted to BLASTN <ref type="bibr" target="#b0">( Altschul et al. , 1997 )</ref> to search for similarities, and sequence alignments were performed using ClustalX <ref type="bibr" target="#b24">( Thompson et al. , 1997 )</ref>. The predicted amino acid sequences were obtained using BioEdit <ref type="bibr" target="#b9">( Hall, 1999 )</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amplification</head><p>The 7F1a/7R4 primer pair amplified a fragment of approximately 700 bp, the sequence of which was used to design the C. hominivorax -specific primers 7F4a and 7R3a. Furthermore, the 7F1a/7R3a primer pair was used for the PCR-restricted fragment length polymorphism (RFLP) technique in order to identify mutant individuals in natural populations of C. hominivorax <ref type="bibr" target="#b3">( Carvalho et al. , 2006 )</ref>. The characterization of entire coding regions of the E3 gene in C. hominivorax was carried out in two steps. the E3F/7R3a primer pair amplified a fragment with approximately 840 bp, as expected from L. cuprina and M. domestica sequences <ref type="bibr">( Newcomb et al. , 1997a;</ref><ref type="bibr" target="#b4">Claudianos et al. , 1999 )</ref>, corresponding to the 5 ′ portion of E3 cDNA in C. hominivorax. This region includes both site mutations (Gly137 and Trp251) possibly related to OP resistance in C. hominivorax .</p><p>The second step of the characterization, amplification of the 3 ′ portion, employed a semi-nested PCR technique. Because the amplification reactions using the primer pairs 7F1a/7R7 and 7F4a/7R7 did not amplify any cDNA fragment that was visible in agarose gel, products from the reaction using 7F1a/7R7 were used as a template for further amplification with the 7F4a/7R7 primer pair. This reaction amplified a frag-ment with approximately 750 bp, as expected. Therefore, the entire coding region of the E3 gene was amplified, allowing for further sequencing.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sequence analysis</head><p>The amplification reaction of the 5 ′ portion of E3 cDNA in C. hominivorax resulted in a fragment with 831 bp, corresponding to the nucleotide positions 1 -831 reported for the orthologous L. cuprina gene. The esterase E3 genes characterized in L. cuprina and M. domestica contain three introns inserted into the genomic DNA of this sequence. However, only intron III has been sequenced in C. hominivorax <ref type="bibr" target="#b3">( Carvalho et al. , 2006 )</ref>.</p><p>Using semi-nested PCR, a 781-bp fragment was amplified (3 ′ portion), corresponding to positions 940 -1721 of the L. cuprina nucleotide sequence <ref type="bibr">( Newcomb et al. , 1997a )</ref>. This region is predicted to contain the introns IV and V. The entire coding region of the E3 gene in C. hominivorax contains 1713 nucleotides. The cDNA consensus sequence from C. hominivorax showed 83% similarity with that from L. cuprina . The predicted amino sequence of the E3 gene showed 87.5% similarity with that from L. cuprina (U56636), 75.6% with M. domestica (AF133341), 73.2% with H. irritans (AF139082) and 63.7% with D. melanogaster (NM079537). The high identity scores suggest that Ch ␣ E7 is orthologous to the E3 genes from these species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Amino acid substitutions in the active site of the protein have a higher probability of changing its function than changes elsewhere. Primary sequence comparisons between esterase E3 from C. hominivorax and acetylcholinesterase (AChE) from D. melanogaster <ref type="bibr" target="#b11">( Harel et al. , 2000 )</ref>, the crystal structure of which has been elucidated, suggest that secondary and tertiary structural characteristics are well conserved. This conservation of active sites was confirmed by <ref type="bibr" target="#b11">Harel et al. (2000)</ref> , who compared the 3-dimensional structures of vertebrate AChEs and D. melanogaster AChE and showed that these 3-D structures are folded similarly and their active sites closely overlap.</p><p>The codon GGG at position 409 -411 of the wild alleles of the C. hominivorax ␣ 7 nucleotide sequences translate to glycine. Mutation of this site in some alleles showed the substitution Gly137/Asp in the predicted protein sequence, which is associated with OP hydrolase activity in L. cuprina and M. domestica <ref type="bibr">( Newcomb et al. , 1997b;</ref><ref type="bibr" target="#b4">Claudianos et al. , 1999 )</ref>.  <ref type="bibr">(Newcomb et al. , 1997a)</ref>, showing the mutation positions (Gly137 and Trp251) associated with organophosphate resistance. The roman algorisms represent the positions of introns.</p><p>In addition, as in M. domestica , some alleles that contained Gly137 showed another substitution, Trp251/Ser (data not shown), which is associated mainly with dimethyl OP hydrolase. Dimethyl OP-resistant strains of L. cuprina demonstrated the Trp251/Leu substitution <ref type="bibr" target="#b2">( Campbell et al. , 1998 )</ref>. These findings are in accordance with those of <ref type="bibr" target="#b13">Heidari et al. (2004)</ref> , who used site-directed mutagenesis at position 251 and obtained synthetic E3 variants with improved OP hydrolase activity. However, no synthetic enzymes were found to have higher diethyl OP turnover rates the Gly137/Asp enzyme.</p><p>The Gly137/Asp substitution in E3 changes the structure of the catalytic centre and converts a carboxylesterase to an OP hydrolase, conferring insecticide resistance. The Asp137 enzyme is more active on diethyl OPs, which is the main OP insecticide used for C. hominivorax control. The replacement of Trp251 by a smaller residue, such as Gly, Ser or Leu, confers a lower level of OP hydrolase activity, but has a much smaller effect on carboxylesterase activity <ref type="bibr" target="#b20">( Newcomb et al. , 2005 )</ref>. This second mutation has greater OP hydrolase activity for dimethyl OPs and may be the basis of cross-resistance between OPs and pyrethroids <ref type="bibr" target="#b14">( Heidari et al. , 2005 )</ref>.</p><p>The finding that resistance is conferred by replacement of the same amino acids in different species not only illustrates parallel evolution, but raises questions as to whether a mutation occurs once and then spreads, or whether the same mutation occurs in different geographic locations <ref type="bibr" target="#b6">( Ffrench-Constant, 2007 )</ref>. These questions are not only of academic interest; their answers will also influence strategies for the management of insecticide resistance. The data for these different species constitute evidence for biochemically precise convergent evolution and suggest that the options for evolving esterase-based metabolic resistance to OPs are tightly constrained <ref type="bibr" target="#b12">( Hartley et al. , 2006 )</ref>.</p><p>The cDNA of Ch ␣ E7 gene encodes a 570-amino acid protein, which contains candidates for all residues required to assemble motifs that are highly conserved among carboxyl/cholinesterases and that contribute to the catalytic mechanism of the active site <ref type="bibr" target="#b5">( Cygler et al. , 1993 )</ref>. These include the ' nucleophilic elbow ' (VFGESAG, residues 214 -220), ' acid turn ' (SYEG, residues 349 -352) and ' histidine loop ' (GVSHADELT, residues 468 -476). These, respectively, contain the residues of the catalytic triad (S218, E351 and H471), which protrude into the active site gorge <ref type="bibr" target="#b4">( Claudianos et al. , 1999 )</ref>. The 24 residues that <ref type="bibr" target="#b5">Cygler et al. (1993)</ref> found to be invariant across 29 carboxyl/ cholinesterases are conserved in C. hominivorax ( Fig. <ref type="figure">2</ref> ). In addition, the predicted E3 protein of C. hominivorax is not thought to have a signal peptide. It has been suggested that, in the Diptera at least, it may be important for an OP-hydrolyzing enzyme to be distributed in the cytoplasm or a cellular organelle to confer metabolic resistance <ref type="bibr">( Newcomb et al. , 1997a )</ref>.</p><p>One strategy to delay or minimize resistance involves alternating use of different compounds. This approach is based on the assumption that frequencies of resistance to each compound will decline fairly rapidly in the absence of the compound <ref type="bibr" target="#b7">( Georghiou, 1983 )</ref>, either because resistance is diluted by the immigration of susceptible individuals or as a result of natural selection against carriers of resistant alleles, or both. However, unless migration is unidirectional, which is unlikely, a decrease in resistance would have to depend on natural selection against the genotypes with resistant alleles <ref type="bibr" target="#b22">( Roush &amp; Mckenzie, 1987 )</ref>. Thus, it is important to determine whether resistant individuals of C. hominivorax present selective disadvantages that are sufficiently large to be useful in practical situations.</p><p>For L. cuprina , it is clear that the malathion-resistant mutations allow the enzyme to retain much of the carboxylesterase activity seen in susceptible forms, whereas the diazinon-resistant mutations abolish it <ref type="bibr" target="#b13">( Heidari et al. , 2004 )</ref>. Furthermore, there is a clear fitness cost for the diazinon-resistant mutation in the absence of the insecticide, which is expressed in the form of developmental instability, but no such cost is documented for malathion-resistant mutations at position 251 <ref type="bibr" target="#b1">( Batterham et al. , 1996 )</ref>.</p><p>This approach to investigating insecticide resistance in C. hominivorax has shown the substitution Gly137/Asp in some alleles, which is related mainly to resistance to diethyl OPs. This class of insecticides has been used widely for C. hominivorax control in several countries, including Brazil. The second mutation found in C. hominivorax (Trp251/Ser) is associated with resistance to dimethyl OPs, which is also used in insecticide formulations. However, this mutation can also confer pyrethroid hydrolase activity and may be the molecular basis of esterasebased cross-resistance between malathion (a dimethyl OP) and pyrethroids found in some species <ref type="bibr" target="#b14">( Heidari et al. , 2005 )</ref>. Although pyrethroids have not yet been widely used to control C. hominivorax , it may be that the species will show a level of pre-adaptation to them on account of this mutation at site 251, as observed in L. cuprina by <ref type="bibr" target="#b12">Hartley et al. (2006)</ref> .</p><p>The recent advances in genome technology may contribute to the development of new antiparasitic drugs, using a more empirical approach than was previously possible <ref type="bibr" target="#b8">( Gilleard et al. , 2005 )</ref>. Thus, the characterization of mutations in detoxifying enzymes like E3, responsible for conferring OP resistance, can yield information crucial to producing improved versions of existing insecticides used for C. hominivorax control. Irrespective of their structures, modes of action or methods of application, it is virtually certain that the chemical pesticides will select for resistance in target site populations and that such resistance will, at least in some cases, involve metabolic enzyme systems <ref type="bibr" target="#b17">( Li et al. , 2007 )</ref>. A continuing challenge is to use what is known of molecular mechanisms of metabolic resistance in the design and implementation of environmentally sustainable management programmes to control NWS in its current distribution.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Schematic view of cDNA from Lucilia cuprina(Newcomb et al. , 1997a), showing the mutation positions (Gly137 and Trp251) associated with organophosphate resistance. The roman algorisms represent the positions of introns.</figDesc><graphic coords="3,58.25,54.49,311.18,80.18" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="5,106.25,54.49,382.82,472.82" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>13652915, 2009, s1, Downloaded from https://resjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2915.2008.00788.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [21/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Journal compilation © 2009 The Royal Entomological Society, Medical and Veterinary Entomology, 23 (Suppl. 1), 86-91</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank <rs type="person">R. A. Rodrigues</rs> for technical assistance and <rs type="person">M. S. Couto</rs> for maintaining the screwworm colonies. We are also grateful to <rs type="person">M. L. Lyra</rs> and <rs type="person">P. F. Coronel</rs> for help with sample collections. This research was supported by a grant from <rs type="funder">Fundação de Amparo à Pesquisa do Estado de São Paulo to AMLA-E (FAPESP</rs>; grant no. <rs type="grantNumber">04/09654-4</rs>). RAC was supported by fellowships from <rs type="funder">FAPESP</rs> (grant no. <rs type="grantNumber">04/12532-8</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_rdgM2xm">
+					<idno type="grant-number">04/09654-4</idno>
+				</org>
+				<org type="funding" xml:id="_nFKavVB">
+					<idno type="grant-number">04/12532-8</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conflicts of interest</head><p>All authors declare no conflicts of interests.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Gapped BLAST and PSI-BLAST: a new generation of protein database search programs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Maden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Schäffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="3389" to="3402" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Asymmetry -where evolutionary and developmental genetics meet</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Batterham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Davies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Game</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mckenzie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bioessays</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="841" to="845" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Two different amino acid substitutions in the ali-esterase E3 confer alternative types of organophosphorus insecticide resistance in the sheep blowfly</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lucilia cuprina . Insect Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="139" to="150" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A survey of mutations in the Cochliomyia hominivorax (Diptera: Calliphoridae) esterase E3 gene associated with organophosphate resistance and the Fig. 2. Alignment of inferred amino acid sequences of Ch ␣ E7 with three esterases involved in organophosphate resistance in Lucilia cuprina (U56636), Musca domestica (AF133341) and Haematobia irritans (AF139082), and an esterase from Drosophila melanogaster (NM079537). The conserved residues that Cygler et al. (1993) described for 29 carboxyl/cholinesterases</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="344" to="351" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+	<note>Suppl. 1 molecular identification of mutant alleles Veterinary Parasitology</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The same amino acid substitution in orthologous esterases confers organophosphate resistance on the housefly and a blowfly</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Claudianos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="675" to="686" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Relationship between sequence conservation and three-dimensional structure in a large family of esterases, lipases and related proteins</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cygler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Schrag</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Sussman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Silman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">K</forename><surname>Gentry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Doctor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Protein Science</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="366" to="382" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Which came first: insecticides or resistance?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Ffrench-Constant</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Genetics</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Management of resistance in arthropods. Pest Resistance to Pesticides</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Georghiou</surname></persName>
+		</author>
+		<editor>G. P. Georghiou &amp; T. Saito</editor>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<publisher>Plenum</publisher>
+			<biblScope unit="page" from="769" to="792" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Model organism genomics in veterinary parasite drug discovery</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Gilleard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Woods</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dow</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="302" to="305" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Symposium Series</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="95" to="98" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Myiasis of human and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Three-dimensional structures of Drosophila melanogaster acetylcholinesterase and of its complexes with two potent inhibitors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Harel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Kryger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Rosenberry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Protein Science</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="1063" to="1072" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Hartley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">America</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="8757" to="8762" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Hydrolysis of organophosphorus insecticides by in vitro modified carboxylesterase E3 from Lucilia cuprina</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heidari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Devonshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dorrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="353" to="363" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Hydrolysis of pyrethroids by carboxylesterases from Lucilia cuprina and Drosophila melanogaster with active sites modified by in vitro mutagenesis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heidari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Devonshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Bell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dorrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="597" to="609" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">The molecular basis of insecticide resistance in mosquitoes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hemingway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Hawkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mccarroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ranson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="653" to="665" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Resistance and the control of sheep ectoparasites</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Levot</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal for Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="1355" to="1362" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Molecular mechanisms of metabolic resistance to synthetic and natural xenobiotics</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Berenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="231" to="253" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">( 1997a ) CDNA cloning, baculovirus expression and kinetic properties of the esterase E3 involved in organophosphate resistance in Lucilia cuprina</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochemistry and Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="15" to="25" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">b ) A single amino acid substitution converts a carboxylesterase to an organophosphate hydrolase and confers insecticide resistance on a blowfly</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Ollis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Cheah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oaheshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences of the United States America</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="7464" to="7468" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Multiple mutations and gene duplications conferring organophosphorus insecticide resistance have been selected at the Rop-1 locus of the sheep blowfly, Lucilia cuprina</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Gleeson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Yong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Evolution</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="207" to="220" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Comparing the organophosphorus and carbamate insecticide resistance mutations in cholin-and carboxyl-esterases</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Devonshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Claudianos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chemico -Biological Interactions</title>
+		<imprint>
+			<biblScope unit="page" from="269" to="275" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Ecological genetics of insecticide and acaricide resistance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Roush</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Mckenzie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="361" to="380" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sambrook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Fritsch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Maniatis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Cloning: a Laboratory Manual</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="121" to="132" />
+			<date type="published" when="1989">1989</date>
+			<publisher>Cold Spring Harbor Laboratory Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">The ClustalX Windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Plewniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jeanmougin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Higgins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="4876" to="4882" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Screwworm eradication in the Americas</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Wyss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the New York Academy of Science</title>
+		<imprint>
+			<biblScope unit="volume">916</biblScope>
+			<biblScope unit="page" from="186" to="193" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in Man and Animals in the Old World</title>
+		<meeting><address><addrLine>Butterworths , London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page" from="1" to="267" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<idno type="DOI">10.1111/j.1365-2915.2008.00788</idno>
+		<idno>21/01/2026</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">See the Terms and Conditions</title>
+		<imprint>
+			<publisher>Wiley Online Library for rules of use</publisher>
+			<date type="published" when="2009">15 October 2008 13652915, 2009, s1</date>
+		</imprint>
+		<respStmt>
+			<orgName>UFMA -Universidade Federal do Maranhao</orgName>
+		</respStmt>
+	</monogr>
+	<note>Accepted OA articles are governed by the applicable Creative Commons License</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

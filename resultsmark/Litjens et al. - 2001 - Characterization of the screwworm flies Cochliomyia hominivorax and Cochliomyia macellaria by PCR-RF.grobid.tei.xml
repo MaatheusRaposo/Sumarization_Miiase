@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Characterization of the screwworm flies &lt;i&gt;Cochliomyia hominivorax&lt;/i&gt; and &lt;i&gt;Cochliomyia macellaria&lt;/i&gt; by PCR‐RFLP of mitochondrial DNA</title>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Cientõ Â®co e Tecnolo Âgico (CNPq/PADCT)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundac Ëa Äo de Amparo a Á Pesquisa do Estado de Sa Äo Paulo</orgName>
+					<orgName type="abbreviated">FAPESP</orgName>
+				</funder>
+				<funder ref="#_aefx2JH">
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Coordenadoria de Aperfeic Ëoamento Pessoal do Ensino Superior</orgName>
+					<orgName type="abbreviated">CAPES</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2001-06">2001-06</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">P</forename><surname>Litjens</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M Lima</forename><surname>De Azeredo–espin</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Lima de Azeredo-Espin , Laborato Ârio de Gene Âtica Animal , CBMEG ± UNICAMP , PO Box 6010 , 13083-970 Campinas , Sa Äo Paulo , Brazil.</note>
+								<orgName type="department">CBMEG ± UNICAMP</orgName>
+								<orgName type="institution" key="instit1">Lima de Azeredo-Espin</orgName>
+								<orgName type="institution" key="instit2">Laborato Ârio de Gene Âtica Animal</orgName>
+								<address>
+									<addrLine>Sa Äo Paulo</addrLine>
+									<postBox>PO Box 6010</postBox>
+									<postCode>13083-970</postCode>
+									<settlement>Campinas</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Characterization of the screwworm flies &lt;i&gt;Cochliomyia hominivorax&lt;/i&gt; and &lt;i&gt;Cochliomyia macellaria&lt;/i&gt; by PCR‐RFLP of mitochondrial DNA</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Medical and Veterinary Entomology</title>
+						<title level="j" type="abbrev">Medical Vet Entomology</title>
+						<idno type="ISSN">0269-283X</idno>
+						<idno type="eISSN">1365-2915</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">15</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="183" to="188"/>
+							<date type="published" when="2001-06" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">57B3F6CDF61B4425B7A11DE90C110722</idno>
+					<idno type="DOI">10.1046/j.1365-2915.2001.00289.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cochliomyia hominivorax</term>
+					<term>Cochliomyia macellaria</term>
+					<term>molecular identi®cation</term>
+					<term>molecular markers</term>
+					<term>mtDNA</term>
+					<term>PCR-RFLP</term>
+					<term>screwworm</term>
+					<term>Brazil</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The primary screwworm ¯y Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) is one of the most important insect pests of livestock in neotropical regions, whereas Cochliomyia macellaria (Fabricius) (Diptera: Calliphoridae), the secondary screwworm, is of medical and sanitary importance because of its role in the dissemination of pathogens. These two species share morphological similarities and both may occur in the same myiasis, but in different developmental stages. In this work, the usefulness of PCR-RFLP (polymerase chain reaction ± restriction fragment length polymorphism) of mitochondrial DNA (mtDNA) for the unambiguous identi®cation of C. hominivorax and C. macellaria was investigated. Two speci®c regions of mtDNA were ampli®ed: 870 bp from Cytochrome oxidase subunit I and 2100 bp from the A + T rich/12S region from C. hominivorax and C. macellaria specimens from different areas of Brazil. Reliable species-speci®c PCR-RFLP results were obtained for the CO I region and the A + T rich/12S region using the restriction enzymes Dra I and Ssp I. These results con®rm the conservation of CO I diagnostic restriction sites previously reported and demonstrate the usefulness of the control region sequences as an ef®cient marker for PCR-RFLP identi®cation of Brazilian screwworm ¯ies. The occurrences of intraspeci®c polymorphic patterns are discussed based on frequencies and potential con¯icts for species identi®cation. PCR-RFLP provides a potentially useful method for identifying samples from the areas where these species are monitored.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The primary screwworm ¯y, Cochliomyia hominivorax (Coquerel), is one of the most important insect pests of livestock in neotropical regions. The larvae of this species infest open wounds in humans and warm-blooded vertebrates, causing severe myiasis and substantial pro®t losses for cattle breeders. The distribution of this species initially ranged from the southern United States to northern Argentina, with the highest abundance in neotropical regions <ref type="bibr" target="#b5">(Guimara Äes et al., 1983)</ref>.</p><p>Cochliomyia hominivorax is morphologically similar to the secondary screwworm, Cochliomyia macellaria (Fabricius), a blow¯y that feeds primarily on carrion. Cochliomyia macellaria is a secondary agent of myiases and a purely saprophagous species. The adults are attracted to a wide variety of substrates for food and reproduction, including urban garbage, human and livestock faeces, carcasses and wounds, whether or not already infested with dipteran larvae <ref type="bibr" target="#b6">(Hall, 1948;</ref><ref type="bibr" target="#b21">Zumpt, 1965;</ref><ref type="bibr">Paraluppi, 1992)</ref>. Because of its synanthropic behaviour, C. macellaria has been reported to be a mechanical vector of human and animal diseases. This species is very common in neotropical America, ranging from southern Canada to northern Argentina <ref type="bibr" target="#b4">(Ferreira, 1983;</ref><ref type="bibr" target="#b1">Baumgartner &amp; Greenberg, 1985;</ref><ref type="bibr" target="#b3">Dear, 1985)</ref>.</p><p>The geographical overlap between C. macellaria and C. hominivorax, the morphological similarity, especially between earlier developmental stages, the coexistence of both species in the same infested wound and the potential losses that C. hominivorax represents for cattle breeders, means that it is important to investigate reliable new methods for the characterization of these two species <ref type="bibr" target="#b11">(Pomonis, 1989;</ref><ref type="bibr" target="#b15">Taylor &amp; Peterson, 1994)</ref>. Molecular markers have been used in the investigation of screwworm population genetics <ref type="bibr" target="#b11">(Roehrdanz, 1989;</ref><ref type="bibr">Infante &amp; Azeredo-Espin, 1995;</ref><ref type="bibr" target="#b20">Valle &amp; Azeredo-Espin, 1995;</ref><ref type="bibr" target="#b9">Infante-Malachias et al., 1999;</ref><ref type="bibr" target="#b9">Infante-Malachias, 1999)</ref>. Mitochondrial DNA provides a suitable marker for studies on genetic variability and molecular characterization. Given its simple and uniform organization, the absence of recombination, maternal inheritance and the high rate of nucleotide sequence evolution, mtDNA is a useful marker for studying molecular evolution and making phylogenetic inferences <ref type="bibr" target="#b11">(Simon et al., 1994)</ref>.</p><p>PCR-RFLP analysis of molecular markers in closely related species has been used to elucidate ambiguous taxonomic status and to identify taxa of importance to forensic science and pest control. The insect groups studied include Diptera <ref type="bibr" target="#b12">(Sperling et al., 1994;</ref><ref type="bibr">Wells &amp; Sperling, 1999)</ref>, Coleoptera <ref type="bibr" target="#b17">(Tuda et al., 1995;</ref><ref type="bibr">Hidayat et al., 1996;</ref><ref type="bibr" target="#b13">Szalanski &amp; Powers, 1996)</ref>, Hymenoptera <ref type="bibr" target="#b16">(Taylor et al., 1997)</ref> and Lepidoptera <ref type="bibr" target="#b13">(Sperling &amp; Hickey, 1995;</ref><ref type="bibr" target="#b11">Roehrdanz, 1997)</ref>. Diagnostic PCR-RFLP patterns were previously demonstrated for screwworm species based on the analysis of speci®c mtDNA regions <ref type="bibr" target="#b16">(Taylor et al., 1996)</ref>, supporting the potential of this approach for taxonomic identi®cation.</p><p>RFLP analysis of the mtDNA of both screwworm species has allowed the characterization of population structure and the levels of genetic variability of each species. <ref type="bibr" target="#b11">Roehrdanz &amp; Johnson (1988)</ref> and <ref type="bibr" target="#b11">Roehrdanz (1989)</ref> analysed screwworm populations from the United States, Mexico, Jamaica, Guatemala and Costa Rica, and suggested an evolutionary scenario with reduced gene ¯ow, based on the frequency of unique mitochondrial haplotypes. <ref type="bibr" target="#b14">Taylor et al. (1991)</ref> applied RFLP markers to analyse the introduction of C. hominivorax in Libya in an attempt to identify the origin of the infestation.</p><p>In Brazil, <ref type="bibr" target="#b0">Azeredo-Espin (1993)</ref> and Infante &amp; Azeredo-Espin (1995) detected signi®cant genetic heterogeneity in C. hominivorax on mtDNA RFLP studies. However, the mitochondrial haplotype identi®ed in the Libyan infestation was not shared by any of the Brazilian populations analysed. <ref type="bibr" target="#b2">Beesley (1991)</ref> suggested that the infestation originated from Uruguay (South America). These analyses indicated that the genetic structure of C. hominivorax in American mainland regions was similar and suggested that populations were interconnected but had reduced gene ¯ow.</p><p>Based on RFLP of mtDNA, Valle &amp; Azeredo-Espin (1995) and Valle <ref type="bibr" target="#b19">(1997)</ref> concluded that Brazilian populations of C. macellaria showed genetic discontinuity with spatial separation, a situation similar with the data reported for C. hominivorax, but with less intraspeci®c variability.</p><p>In the work reported here, PCR-RFLP of speci®c mtDNA regions is used to address two main questions. The CO I marker is analysed to corroborate previous results <ref type="bibr" target="#b16">(Taylor et al., 1996)</ref>, while also including the characterization of widely distributed Brazilian populations of screwworm ¯ies. The usefulness of the mtDNA control region (A + T rich) as an ef®cient marker for distinguishing C. hominivorax and C. macellaria samples is also investigated.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fly strain</head><p>Seventy-seven C. hominivorax samples from different Brazilian localities were analysed: 15 from Alfenas, Minas Gerais State (MG); 15 from Caraguatatuba, Sa Äo Paulo State (SP); 15 from Manaus, Amazonas State (AM); 15 from Pocone Â, Mato Grosso State (MT) and 15 from Valinhos, SP. Additionally, two C. hominivorax individuals from Uruguay were included in the analysis. Seventy-three C. macellaria samples were analysed: 15 from Campinas, SP; 15 from Caraguatatuba, SP; 15 from Manaus, AM; 13 from Porto Urucu, AM and 15 from Rio de Janeiro, Rio de Janeiro State (RJ). Six individuals of C. macellaria from Porto Urucu were selected to represent the six mtDNA haplotypes previously described for this locality <ref type="bibr">(Valle, 1997)</ref>. This selection provided information from a population with signi®cant genetic variability and allowed validation of the screening for diagnostic enzymes. A total of 150 individual ¯ies were analysed in this work.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DNA extraction</head><p>Cochliomyia hominivorax and C. macellaria samples were derived from previous DNA extractions used in RFLP analysis <ref type="bibr">(Infante &amp; Azeredo-Espin, 1995;</ref><ref type="bibr" target="#b20">Valle &amp; Azeredo-Espin, 1995)</ref>. The samples were stored at ± 20°C.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>PCR ampli®cation</head><p>Two speci®c mtDNA regions were ampli®ed: 870 bp of cytochrome oxidase I (CO I) and 2100 bp including the complete control region and partial rRNA 12S sequences (A + T rich/12S). The UBC-insect mitochondrial DNA oligonucleotide set, described by <ref type="bibr" target="#b11">Simon et al. (1994)</ref>, was used for CO I ampli®cation using the primers C1 ± J ± 2195 and L2 ± N ± 3014; and for A + T rich/12S ampli®cation, the primers TM ± N ± 193 and SR ± J ± 14233 were used.</p><p>Standard PCR conditions were used in the ampli®cation reactions, which contained 10Q PCR buffer (Gibco-BRL, Rockville, MD), 0.2 mM of dNTPs, 1.5 mM MgCl 2 , 0.5 mM of UBC primers, 1.25 units of Taq DNA polymerase (Gibco-BRL), and 1.0 mL of extracted DNA in a ®nal reaction volume of 25 mL. Temperature cycling was done in a Perkin-Elmer (Norwalk, CT) thermal cycler set for an initial denaturing cycle of 3 min at 94°C followed by 35 cycles of 1 min at 94°C, annealing for 1 min at 42±56°C, and a 2-min extension at 72°C. The ®nal cycle was identical except for a 7-min extension step at 72°C. The A + T rich/12S region was ampli®ed as described by <ref type="bibr" target="#b9">Lessinger &amp; Azeredo-Espin, 2000)</ref>. A lower extension temperature (60°C) was used because of the high A + T composition of this region <ref type="bibr" target="#b9">(Lessinger &amp; Azeredo-Espin, 2000;</ref><ref type="bibr" target="#b9">Lessinger et al., 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Restriction enzymes</head><p>The  <ref type="bibr">1995;</ref><ref type="bibr" target="#b20">Valle &amp; Azeredo-Espin, 1995;</ref><ref type="bibr" target="#b16">Taylor et al., 1996;</ref><ref type="bibr">Valle, 1997)</ref>. Enzymes yielding intraspeci®c polymorphism in these previous population genetics studies were avoided.</p><p>The A + T rich/12 S sequences available for Cochliomyia species (Lessinger &amp; Azeredo-Espin, 2000) were analysed using the WebCutter 2.0 software <ref type="bibr" target="#b7">(Heiman, 1997)</ref>. Thirty-three enzymes were screened using the default parameters. The enzymes yielding diagnostic patterns for species-speci®c identi®cation were used to provide experimental con®rmation of the predicted restriction sites and to test the con®dence of the diagnostic results for all of the samples analysed.</p><p>Digestions were done as speci®ed by the enzyme suppliers (Gibco-BRL and Pharmacia, Peapack, NJ). The digested fragments were separated by electrophoresis in 2.0% agarose gels, stained with ethidium bromide (EtBr) and photographed on Polaroid ®lm. fX174 digested with Hae III and a 1-kb LADDER (Gibco-BRL) were used as molecular size markers.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Selection criteria</head><p>Two DNA samples of each species were ampli®ed and digested to provide initial screening information on the restriction sites present in the mtDNA regions analysed and on their usefulness for species-speci®c identi®cation. Enzymes showing at least one restriction site were used in the ®nal analysis with the complete sample set. Enzymes producing distinct restriction patterns for each species were considered diagnostic.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and discussion</head><p>The diagnostic restriction enzymes and respective mtDNA regions are shown in Table <ref type="table" target="#tab_0">1</ref>. A few inconsistencies were related to the sizes of the originally ampli®ed PCR products and to the total size recovered from the sum of the digested fragments; these ®ndings may re¯ect the occurrence of an unknown number of small fragments which were unresolved in the agarose gels.</p><p>Analysis of predicted restriction sites in the A + T rich/12 S region revealed four enzymes (Dra I, Mse I, Ssp I and Vsp I) with restriction sites for C. macellaria and ®ve (Dra I, EcoR V, Mse I, Ssp I and Vsp I) for C. hominivorax. The enzymes Vsp I and Msp I provided too many restriction fragments of short sizes, resulting in inaccurate species identi®cation. These enzymes were therefore removed from the ®nal analysis.</p><p>The enzymes listed in Table <ref type="table" target="#tab_0">1</ref> were potential diagnostic markers; however, the occurrence for polymorphic patterns in some populations may represent identi®cation con¯icts. Pattern B of the C. hominivorax CO I/Dde I restriction analysis was similar to the C. macellaria pattern for the same analysis (Fig. <ref type="figure" target="#fig_1">1</ref>) and restricted the use of Dde I for the  unambiguous identi®cation of these species. The CO I/Dde I restriction pattern B was ®xed and was exclusive of C. hominivorax samples from Valinhos (S. P.) (Table <ref type="table" target="#tab_1">2</ref>). The C. macellaria samples from Porto Urucu (AM), representing six distinct mtDNA haplotypes <ref type="bibr">(Valle, 1997)</ref>, yielded a different restriction pattern for only one individual when EcoR V were used to digest the A + T rich/12S region (Table <ref type="table" target="#tab_1">2</ref>). This pattern differed by one EcoR V restriction site and may be a useful marker for future population genetic studies. The polymorphic patterns described above were associated with the variable domain of the control region <ref type="bibr" target="#b9">(Lessinger &amp; Azeredo-Espin, 2000)</ref>. We suggest that the enzyme EcoR V should be avoided in identi®cation analysis because its alternative restriction pattern in C. macellaria mtDNA produced ambiguous results (Fig. <ref type="figure" target="#fig_2">2</ref>).  The low frequency of polymorphisms was expected because enzymes yielding polymorphic patterns in previous RFLP studies were avoided as an initial criterion. However, the occurrence of polymorphism in a particular species would not always represent an identi®cation con¯ict: the polymorphic patterns for Dra I restriction analysis of C. hominivorax A + T rich/12S region provide an ef®cient identi®cation of screwworm species (Fig. <ref type="figure" target="#fig_2">2</ref> and Table <ref type="table" target="#tab_1">2</ref>). <ref type="bibr" target="#b16">Taylor et al. (1996)</ref> analysed Cochliomyia species by PCR-RFLP and identi®ed the enzymes Dra I and Ssp I as diagnostic markers for a 348-bp CO I sequence. This region was previously reported as an informative marker for blow¯y identi®cation <ref type="bibr" target="#b12">(Sperling et al., 1994)</ref> and is included in the larger 870 bp CO I region analysed in this work. Previous PCR-RFLP analysis included limited Brazilian samples and requires more extensive characterization of this marker to validate its usefulness for Brazilian screwworm populations. Combining the restriction analysis of CO I and A + T rich/12S regions with the enzymes Dra I and Ssp I, we were able to correctly recognize the species C. hominivorax and C. macellaria. The characterization of additional diagnostic markers (such as the mtDNA control region) and the analysis of geographically separated Brazilian populations provide a basis for the ef®cient identi®cation of screwworm species, their distribution and possible origin <ref type="bibr" target="#b9">(Infante-Malachias, 1999)</ref>.</p><formula xml:id="formula_0">A A A A A CARAGUATATUBA ± SP (15) A A A A A A MANAUS ± AM (11) A A A A A A (4) A A A B A A POCONE Â ± MT (15) A A A A A A VALINHOS ± SP (15) B A A A A A URUGUAY (2) A A A A A A C. macellaria CAMPINAS ± SP (15) A A A A A A CARAGUATATUBA ± SP (15) A A A A A A MANAUS ± AM (15) A A A A A A PORTO URUCU ± AM (12) A A A A A A (1) A A A A B A RIO DE JANEIRO ± RJ (15) A A A A A A</formula><p>For practical purposes, individual or combined PCR-RFLP tests could be applied for screwworm identi®cation regarding the relative costs for screening samples. The analysis of an unidenti®ed sample by the ampli®cation of a single mtDNA region (COI or A + T/12S) followed by restriction analysis (Dra I or Ssp I) could provide accurate identi®cation of screwworm species requiring no further procedures; indeed, morphological and ecological aspects could contribute as additional evidences.</p><p>The operational sensitivity of PCR-RFLP tests could be demonstrated based on the consistent reproducibility of the results (based on approximately 1000 digestions with less than 2% revisal) and enzymes relative costs (Taq DNA polymerase and restriction endonucleases). Target ampli®cation plus Dra I digestion would be less than US$ 1 per sample, while increased con®dence levels on species identity by combined PCR-RFLP tests may costs less than US$ 3 per sample. In addition to relative low costs, this analysis provides a convenient strategy for screwworm identi®cation, as it uses universal primers applied in general insect molecular research and requires basic molecular biology devices.</p><p>The results described here demonstrate that PCR-RFLP of mtDNA provides a simple and reliable method for identifying C. hominivorax and C. macellaria samples and for monitoring the expansion and control of these species. This technique may also be useful to study intraspeci®c genetic variability and could help in determining the origin of C. hominivorax samples in (re)colonizations or invasions. Additional population studies may contribute to evaluation of the extent to which of the diagnostic restriction patterns are conserved. However, this work con®rms the potential usefulness of these markers for studying Brazilian screwworm populations.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>PCR products of CO I were digested with nine restriction endonucleases: BamH I, Cla I, Dde I, Dra I, EcoR I, Hae III, Pvu II, Ssp I and Taq I. These enzymes were selected based on previous RFLP analysis and PCR-RFLP results for C. macellaria and C. hominivorax (Infante &amp; Azeredo-Espin,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. CO I diagnostic patterns for C. macellaria (Cm) and C. hominivorax (Ch). f is the fX174/Hind III molecular size standard. A and B indicate polymorphic restriction patterns.</figDesc><graphic coords="3,326.44,72.99,194.40,242.40" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. A + T rich/12S region diagnostic patterns for C. macellaria (Cm) and C. hominivorax (Ch). L and f are the 1 kb ladder and fX174/Hind III molecular size standards, respectively. A and B indicate polymorphic restriction patterns.</figDesc><graphic coords="4,163.39,335.33,268.80,228.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Diagnostic restriction patterns for the species-speci®c identi®cation of C. hominivorax and C. macellaria by PCR-RFLP analysis. * PCR product not digested. A and B indicate polymorphic restriction patterns.</figDesc><table><row><cell></cell><cell></cell><cell cols="2">mtDNA patterns/species</cell></row><row><cell>Region</cell><cell>Enzyme</cell><cell>C. hominivorax</cell><cell>C. macellaria</cell></row><row><cell>CO I</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Dde I</cell><cell>A 450, 250, 170</cell><cell>620, 250</cell></row><row><cell></cell><cell></cell><cell>B 620, 250</cell><cell></cell></row><row><cell></cell><cell>Dra I</cell><cell>870*</cell><cell>520, 350</cell></row><row><cell></cell><cell>Ssp I</cell><cell>740, 130</cell><cell>870*</cell></row><row><cell>A + T/12S</cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell>Dra I</cell><cell>A 800, 350, 220</cell><cell>600, 510, 350, 320, 220</cell></row><row><cell></cell><cell></cell><cell>B 1000, 350, 220</cell><cell></cell></row><row><cell></cell><cell>EcoR V</cell><cell>1480, 620</cell><cell>A 2100*</cell></row><row><cell></cell><cell></cell><cell></cell><cell>B 1450±650</cell></row><row><cell></cell><cell>Ssp I</cell><cell>450, 370, 225</cell><cell>700, 410, 350, 190</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Haplotypes of geographical samples of C. hominivorax and C. macellaria. n indicates the number of individuals analysed. A and B are species-speci®c restriction patterns. Monomorphic restriction patterns from Table 1 are indicated as A in this table.</figDesc><table><row><cell></cell><cell></cell><cell>COI</cell><cell></cell><cell></cell><cell>A + T/12S</cell><cell></cell><cell></cell></row><row><cell>Samples</cell><cell>n</cell><cell>Dde I</cell><cell>Dra I</cell><cell>Ssp I</cell><cell>Dra I</cell><cell>EcoRV</cell><cell>Ssp I</cell></row><row><cell>C. hominivorax</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>ALFENAS ± MG</cell><cell>(15)</cell><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p># 2001 Blackwell Science Ltd, Medical and Veterinary Entomology, 15, 183±188</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>13652915, 2001, 2, Downloaded from https://resjournals.onlinelibrary.wiley.com/doi/10.1046/j.1365-2915.2001.00289.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [21/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p># 2001 Blackwell Science Ltd, Medical and Veterinary Entomology, 15, 183±188 186 P. Litjens et al. 186 P. Litjens et al. 13652915, 2001, 2, Downloaded from https://resjournals.onlinelibrary.wiley.com/doi/10.1046/j.1365-2915.2001.00289.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [21/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank <rs type="person">Dr J. D. Wells</rs> for helpful comments on sampling analysis, <rs type="person">Rosa Ãngela A. Rodrigues</rs>, <rs type="person">Maria Salete Couto</rs> and <rs type="person">Ma Ârio C. Filho</rs> for technical and laboratory assistance and two anonymous referees for their valuable suggestions on the manuscript. P.L. was supported by a scholarship from <rs type="funder">Fundac Ëa Äo de Amparo a Á Pesquisa do Estado de Sa Äo Paulo (FAPESP)</rs>, A.C.L. was supported by <rs type="funder">Coordenadoria de Aperfeic Ëoamento Pessoal do Ensino Superior (CAPES)</rs> and A.M.L.A.E. was supported by <rs type="funder">FAPESP</rs> (grant no. <rs type="grantNumber">99/07355-0</rs>) and <rs type="funder">Conselho Nacional de Desenvolvimento Cientõ Â®co e Tecnolo Âgico (CNPq/PADCT)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_aefx2JH">
+					<idno type="grant-number">99/07355-0</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Mitochondrial DNA variability in geographic populations of screwworm ¯y from Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<publisher>International Atomic Energy Agency</publisher>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page">165</biblScope>
+			<pubPlace>Vienna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Distribution and medical ecology of the blow ¯ies (Diptera: Calliphoridae) of Peru</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page">587</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">The New World screwworm ¯y in North Africa</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">N</forename><surname>Beesley</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Tropical Medicine and Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page">173</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">A revision of New World Crysomini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">169</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Sinantropia de Calliphoridae (Diptera) em Goia Ãnia, Goia Âs</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page">210</biblScope>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">As miõ Âases na regia Äo neotropical (identi®cac Ëa Äo, biologia, bibliogra®a)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara Äes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+	<note>Revista</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Blow Flies of North America. Thomas Say Foundation</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Entomological Society of America</publisher>
+			<date type="published" when="1948">1948</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Molecular and morphological characters discriminate Sitophilus oryzae and S. zeamais (Coleoptera: Curculionidae) and con®rm reproductive isolation</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">W</forename><surname>French-Constant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Infante</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">256</biblScope>
+			<date type="published" when="1995">1997. 1996. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Genetic variability in mitochondrial DNA of Cochliomyia hominivorax (Diptera: Calliphoridae) from Brazil Biochemical Genetics</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Infante-Malachias</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Random ampli®ed polymorphic DNA of screwworm ¯y populations (Diptera: Calliphoridae) from Southeastern Brazil and Northern Argentina</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Infante-Malachias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yotoko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C M</forename><surname>Junqueira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Kemper</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Vettore</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Arruda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">772</biblScope>
+			<biblScope unit="page">42</biblScope>
+			<date type="published" when="1999">1999. 2000. 2000. 2001</date>
+		</imprint>
+	</monogr>
+	<note>Evolution and structural organisation of the mitochondrial DNA control region of myiasis-causing ¯ies Genome The mitochondrial genome of the primary screwworm ¯y Cochliomyia hominivorax (Diptera: Calliphoridae) Insect Molecular Biology 521±529. Paraluppi, N.D. (1992) Calliphoridae (Diptera) de Manaus: levanta-#</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">by UFMA -Universidade Federal do Maranhao</title>
+		<idno type="DOI">10.1046/j.1365-2915.2001.00289.x</idno>
+		<idno>21/01/2026</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions" />
+	</analytic>
+	<monogr>
+		<title level="m">183±188 PCR-RFLP markers for screwworm ¯ies 187 PCR-RFLP markers for screwworm ¯ies 187 13652915</title>
+		<meeting><address><addrLine>Manaus, AM, Brazil</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley Online Library for rules of use</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">15</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>Blackwell Science Ltd, Medical and Veterinary Entomology</orgName>
+		</respStmt>
+	</monogr>
+	<note>See the Terms and Conditions OA articles are governed by the applicable Creative Commons License , INPA</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Identi®cation of tobacco budworm and corn earworm (Lepidoptera: Noctuidae) during early developmental stages by polymerase chain reaction and restriction fragment length polymorphism</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Pomonis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Frati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beckenbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Crespi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Flook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="1988">1989. 2301±2317. 1989. 1997. 1988. 1994</date>
+		</imprint>
+	</monogr>
+	<note>Cuticular hydrocarbons of the screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae) Biochemical Genetics Intraspeci®c genetic variability in mitochondrial DNA of the screwworm ¯y (Cochliomyia hominivorax) Journal of Chemical Ecology Mitochondrial DNA variation among geographical populations of the screwworm ¯y Cochliomyia hominivorax Journal of Medical Entomology Evolution, weighting and phylogenetic utility of mitochondrial gene sequences and compilation of conserved polymerase chain reaction primers Annals of the Entomological Society</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">DNA-based approach to the identi®cation of insect species used for postmortem interval estimation</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A H</forename><surname>Sperling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hickey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Forensic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">427</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+	<note>America</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Ampli®ed mitochondrial DNA as a diagnostic marker for species of conifer-feeding Choristoneura (Lepidoptera: Tortricidae)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A H</forename><surname>Sperling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hickey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Szalanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Powers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Kansas Entomological Society</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page">266</biblScope>
+			<date type="published" when="1995">1995. 1996</date>
+		</imprint>
+	</monogr>
+	<note>Molecular diagnostics of three Diabrotica (Coleoptera: Crysomelidae) pest species Canadian Entomologist</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Reproductive compatibility and mitochondrial DNA restriction site analysis of the New World screwworm ¯y C. hominivorax from North Africa and Central America</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hammack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">145</biblScope>
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Population genetics and gene variation in primary and secondary screwworm (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D I I</forename><surname>Peterson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page">633</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">A polymerase chain reaction ± restriction fragment length polymorphism technique for identi®cation of screwworms (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Szalanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Szalanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page">70</biblScope>
+			<date type="published" when="1996">1997. 1996</date>
+		</imprint>
+	</monogr>
+	<note>Mitochondrial DNA variation among Muscidifurax spp. (Hymenoptera: Pteromalidae), pupal parasitoids of ®lth ¯ies (Diptera) Medical and Veterinary Entomology</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Species differentiation of bruchis beetles (Coleoptera: Bruchidae) analyzed by mitochondrial DNA polymorphism</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Tuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Fukatsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Shimada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Entomological Zoology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">380</biblScope>
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Valle</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Brazil</forename><surname>Sp</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA variation in two Brazilian populations of Cochliomyia macellaria (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics and Molecular Biology</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wells</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">A H</forename><surname>Sperling</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="222" to="226" />
+			<date type="published" when="1995">1995. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Molecular phylogeny of Chrysomya albiceps and C. ru®facies (Diptera: Calliphoridae) Journal of Medical Entomology</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Myiasis in Man and Animals in the Old World</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blackwell Science Ltd, Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">188</biblScope>
+			<date type="published" when="1965-02-03">1965. 3 February 2001. 2001</date>
+			<pubPlace>Butterworths, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Litjens</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Litjens</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

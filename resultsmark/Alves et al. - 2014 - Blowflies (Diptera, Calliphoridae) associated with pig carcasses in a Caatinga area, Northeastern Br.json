@@ -1,0 +1,1328 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Blowflies (Diptera, Calliphoridae) Associated with Pig Carcasses in a Caatinga Area, Northeastern Brazil",
+    "authors": [
+      "Acf Alves",
+      "W Santos",
+      "Rcap Farias",
+      "A Creão-Duarte"
+    ],
+    "doi": "10.1007/s13744-013-0195-4",
+    "hash": "0600E23B0E3FF40A954E38D5ABE8E0FE",
+    "publication_date": "2014-01-31",
+    "publication_year": 2014,
+    "publisher": "Springer Science and Business Media LLC",
+    "journal": "Neotropical Entomology",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Studies that focused on Calliphoridae associated with pig carcasses are abundant in southern and southeastern Brazil; however, there are few in northeast. Here, we present an inventory of the blowfly species associated with the stages of decomposition of pig carcasses in a caatinga area during dry and rainy seasons. The study took place at the Private Reserve for the Environmental Inheritance \"Fazenda Almas,\" state of Paraíba, Brazil. Using a modified version of the Shannon trap, 32,909 adult specimens belonging to eight species were captured. During the dry season, Cochliomyia macellaria (Fabricius) (52.2%) and Chrysomya albiceps (Wiedemann) (39.9%) were the most abundant species. In the rainy season, when the majority of individuals were captured (93.7%), Chloroprocta idioidea (Robineau-Desvoidy) (71.1%) was the most abundant. Five decomposition stages were recognized, being the active decay the most attractive to colonization by blowflies, except for Lucilia eximia (Wiedemann), which was more abundant in the bloated stage.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_92fc5771",
+      "text": "Animal carcasses and human corpses are colonized by a large variety of insects, including flies belonging to Calliphoridae (Moura et al 1997, Oliveira & Vasconcelos 2010, Martins et al 2013). This family includes the insects popularly known as blowflies, which are easily recognizable by their green or blue metallic color (Carvalho & Mello-Patiu 2008). They occur worldwide, with 99 out of the 1,000 species reported in the Neotropical region (Kosmann et al 2013).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Moura et al 1997",
+          "offset_start": 123,
+          "offset_end": 140
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": ", Oliveira & Vasconcelos 2010",
+          "offset_start": 140,
+          "offset_end": 169
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": ", Martins et al 2013)",
+          "offset_start": 169,
+          "offset_end": 190
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Carvalho & Mello-Patiu 2008)",
+          "offset_start": 323,
+          "offset_end": 352
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "(Kosmann et al 2013)",
+          "offset_start": 444,
+          "offset_end": 464
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_26fb5ce3",
+      "text": "Calliphoridae are attracted to decaying human tissues, animal carcasses, excrement, and decaying vegetal matter, using such resources as site for reproduction, egg laying, and food source for immatures (Byrd & Castner 2010). Thus, they play an important role in nutrient cycling. However, their relevance has crossed the boundaries of the ecological importance and became an alternative for the estimate of the postmortem interval (PMI), considering the scope of forensic entomology (Keh 1985, Catts & Goff 1992).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Byrd & Castner 2010)",
+          "offset_start": 202,
+          "offset_end": 223
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Keh 1985",
+          "offset_start": 483,
+          "offset_end": 492
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": ", Catts & Goff 1992)",
+          "offset_start": 492,
+          "offset_end": 512
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_15628200",
+      "text": "Calliphoridae are among the first flies to colonize decaying bodies and are the most accurate indicators for the estimate of the PMI (Greenberg 1991). These species are attracted by the odors of the decomposition few minutes after the person/animal's death. Such behavior is what makes them useful in forensic entomology (Wall & Warnes 1994, Amendt et al 2004).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "(Greenberg 1991)",
+          "offset_start": 133,
+          "offset_end": 149
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Wall & Warnes 1994",
+          "offset_start": 321,
+          "offset_end": 340
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": ", Amendt et al 2004)",
+          "offset_start": 340,
+          "offset_end": 360
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_5c5d940e",
+      "text": "The PMI estimate aims to determine the maximum (PMI max ) and minimal (PMI min ) time between the death and the discovery of the body (Keh 1985). Using insect evidence, the maximal limit of time is established by the capture of the insects and by the study of their succession pattern on the bodies (Goff & Flynn 1991). The minimal time is calculated according to the age of the immature specimens found-the oldest instars correspond to the least interval between colonization and discovery of the body (Pujol-Luz et al 2006). Thus, medicolegal entomology, one of the categories of forensic entomology, is based upon the study of insects associated with dead bodies, helping in understanding important facts surrounding a suspicious death (Catts & Goff 1992).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Keh 1985)",
+          "offset_start": 134,
+          "offset_end": 144
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "(Goff & Flynn 1991)",
+          "offset_start": 299,
+          "offset_end": 318
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Catts & Goff 1992)",
+          "offset_start": 739,
+          "offset_end": 758
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_d5435af3",
+      "text": "In Brazil, forensic entomology has expanded remarkably, but even so, there is a gap with regard to Diptera associated with carcasses in northeast region, especially in caatinga areas. For this reason, this study focused on accomplishing an inventory of the Calliphoridae species associated with pig carcasses, correlating them to the stages of decomposition and climate seasons.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_2be2c7e4",
+      "text": "The study was carried during October 2010 (dry season) and February 2011 (rainy season) at the Private Reserve for the Environmental Inheritance \"Fazenda Almas,\" in São José dos Cordeiros municipality, state of Paraíba, Brazil (07°28′19″ S, 36°53′40″W). The reserve is located at an altitude of 650 m. Its vegetation varies from open to dense arboreal caatinga, with a strong deciduous characteristic during dry season. The soil is sandy and shows an irregular topography, with inselbergs and rocky outcrops (Vasconcellos et al 2010).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "(Vasconcellos et al 2010)",
+          "offset_start": 508,
+          "offset_end": 533
+        }
+      ],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_8a43319e",
+      "text": "Two pig carcasses weighing around 15 kg each were used in both seasons. The animals were killed with a single gunshot to the head taken by a forensic examiner of the Scientific Police Institute of the state of Paraíba (IPC/PB). Each carcass was exposed in an iron cage (3×10-cm mesh opening) and a modified version of the Shannon trap was hung over the cage. On the top of each trap, a collector tube containing 70% ethanol was connected (Fig 1). Sampling took place daily until the end of the decomposition.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_8610c8d6",
+      "text": "The identification of the Calliphoridae was done in the laboratory based on the key proposed by Carvalho & Mello-Patiu (2008). All specimens used were incorporated into the \"Coleção Entomológica do Departamento de Sistemática e Ecologia\" at the \"Universidade Federal da Paraíba\" (DSE/ UFPB). The study was authorized by the Ethic Commission for Animal Use of the same institution (CEUA/UFPB).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "Carvalho & Mello-Patiu (2008)",
+          "offset_start": 96,
+          "offset_end": 125
+        }
+      ],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_35d1df5e",
+      "text": "A total of 32,909 Calliphoridae was collected, belonging to eight species. Chloroprocta idioidea (Robineau-Desvoidy) was the most abundant, representing 66.9% of the specimens collected, while Chrysomya megacephala (Fabricius), Chrysomya putoria (Wiedemann), Cochliomyia hominivorax (Coquerel), and Hemilucilia segmentaria (Fabricius) were the least abundant, representing only 0.8% (Table 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_18e48a94",
+      "text": "During the dry season, the most abundant species were Cochliomyia macellaria (Fabricius) (52.2%) and Chrysomya albiceps (Wiedmann) (39.9%), while C. idioidea (71.1%) prevailed in the rainy season. The majority of Calliphoridae (93.7%) was collected during the rainy season, mainly C. idioidea (99.5%) and Lucilia eximia (Wiedemann) (99.1%), showing a remarkable seasonal tendency (Table 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_45e621a5",
+      "text": "Five stages of decomposition were perceived: fresh, during 2.0±0 days; bloated, 2.5±0.5 days; active decay, 2.2± 0.43 days; advanced decay, 3.2±1.3 days; and postdecay, 6.0 ±1.22 days. The dry stage, when only bones and hair remain, was not observed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_afc99a2f",
+      "text": "Chloroprocta idioidea was collected only in the postdecay stage during the dry season. In the rainy season, it was present on the carcass from the fresh until the postdecay, being more abundant in the active decay and advanced decay stages. Chrysomya albiceps, C. macellaria, C. megacephala, and C. putoria were collected from the bloated until the postdecay in both seasons, being more abundant in the active decay stage. Lucilia eximia was collected in a small amount in the dry season (13 specimens). In the rainy season, this species colonized the carcasses from the fresh until the postdecay, with more abundance in the bloated stage. Cochliomyia hominivorax and H. segmentaria were collected in small amounts only in the rainy season (Fig 2).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_cd48c82d",
+      "text": "Chloroprocta idioidea, the most abundant species in the present work, has also been reported in other studies in cerrado areas, but in small abundance (Biavati et al 2010, Rosa et al 2011). The peculiarities of caatinga seem to have great influence on the development of C. idioidea on carcasses during the rainy season. The biology of this species is poorly known, but the fact that it has also been reported associated with rotting bovine lung in high abundance during the rainiest months in the central Amazon rainforest (Paraluppi 1996) allows us to suggest this species is a potential indicator for PMI estimates during the rainy season in caatinga. We highlight C. idioidea as a focus species for further studies to confirm its potential as a forensic indicator to caatinga environments. In contrast to this study, C. albiceps and C. macellaria are known as the most abundant species present on decaying carcasses elsewhere in Brazil (Souza & Linhares 1997, Carvalho & Linhares 2001, Carvalho et al 2004, Biavati et al 2010, Rosa et al 2011), including states (Pernambuco and Rio Grande do Norte) in the northeastern part of Brazil (Andrade et al 2005, Oliveira & Vasconcelos 2010). However, regardless of the fact that they were not abundant species in this study, their expressive representativeness, especially in the dry season, and their well-known biology and bionomics (Queiroz & Milward-de-Azevedo 1991, Aguiar-Coelho & Milward-de-Azevedo 1998) confirm their potential as forensic indicators in the caatinga in Brazil.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Biavati et al 2010",
+          "offset_start": 151,
+          "offset_end": 170
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": ", Rosa et al 2011)",
+          "offset_start": 170,
+          "offset_end": 188
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Paraluppi 1996)",
+          "offset_start": 524,
+          "offset_end": 540
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0e073f0f",
+      "text": "Chrysomya albiceps is not a native species from Brazil, and it is known as a facultative predator (Baumgartner & Greenberg 1984), impacting the native necrophagous species, such as C. macellaria (Andrade et al 2002). When cooccurring in corpses in cerrado areas, abundance of C. macellaria (0.9 and 17.7%) was much lower than that of C. albiceps (94.8 and (Biavati et al 2010, Rosa et al 2011). However, we did not detect any significant difference in the abundance of these two species in both seasons and throughout the decomposition process of the carcasses, demonstrating their coexistence in decaying corpses in the caatinga. The environmental factor(s) that limited the dominance of C. albiceps over C. macellaria still requires future studies.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "(Baumgartner & Greenberg 1984)",
+          "offset_start": 98,
+          "offset_end": 128
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Andrade et al 2002)",
+          "offset_start": 195,
+          "offset_end": 215
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Biavati et al 2010",
+          "offset_start": 356,
+          "offset_end": 375
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": ", Rosa et al 2011)",
+          "offset_start": 375,
+          "offset_end": 393
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_1f6c795a",
+      "text": "Lucilia eximia has also been reported as a low-abundance species in decaying corpses in other regions in Brazil, where it has been suggested as a key species in the PMI estimation as it does not demonstrated seasonal tendency or habitat preference (Moura et al 1997, Souza & Linhares 1997, Biavati et al 2010), which was not the case in this study.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Moura et al 1997",
+          "offset_start": 248,
+          "offset_end": 265
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": ", Souza & Linhares 1997",
+          "offset_start": 265,
+          "offset_end": 288
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": ", Biavati et al 2010)",
+          "offset_start": 288,
+          "offset_end": 309
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_95032f3e",
+      "text": "Cochliomyia hominivorax is known for its ability to cause myiasis in animal and human tissues (Cansi et al 2011, Thyssen et al 2012) and is seldom reported associated with carcasses (Rosa et al 2011). Despite of the very low abundance of C. megacephala, C. putoria, and H. segmentaria in this study, they have been considered good forensic indicators (Moura et al 1997, Oliveira & Vasconcelos 2010, Kosmann et al 2011). Also, bionomic studies support their applicability (Thyssen 2005, Rabêlo et al 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Cansi et al 2011",
+          "offset_start": 94,
+          "offset_end": 111
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": ", Thyssen et al 2012)",
+          "offset_start": 111,
+          "offset_end": 132
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Rosa et al 2011)",
+          "offset_start": 182,
+          "offset_end": 199
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Moura et al 1997",
+          "offset_start": 351,
+          "offset_end": 368
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": ", Oliveira & Vasconcelos 2010",
+          "offset_start": 368,
+          "offset_end": 397
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": ", Kosmann et al 2011)",
+          "offset_start": 397,
+          "offset_end": 418
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "(Thyssen 2005",
+          "offset_start": 471,
+          "offset_end": 484
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": ", Rabêlo et al 2011)",
+          "offset_start": 484,
+          "offset_end": 504
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_8e789227",
+      "text": "Caatinga is characterized by a hot, semiarid, and strongly seasonal climate (Vasconcellos et al 2010). Seasonal variations have a great impact on weather, land surface, flora, fauna, and, consequently, on necrophilous insects, including dipterans (Souza & Linhares 1997, Carvalho & Linhares 2001). We detected such variation presumably due to biological and ecological peculiarities from the system studied, as some species were less abundant and other were absent in the dry season. The seasonal occurrence of insects in the semiarid caatinga indicated most of the insect orders studied showed a clear maximum abundance in the rainy season, with the rainfall and humidity as the best predictors of insect abundance (Moura et al 2006, Hernández 2007, Vasconcellos et al 2010, Creão-Duarte et al 2012). The predictable rainy season in the caatinga promotes a significant increase in plant biomass for vertebrate herbivores, including cattle, which brings resources in the form of feces, mainly for flies and beetles (Vasconcellos et al 2010). This seasonal pattern of the insect abundance was not observed for Diptera in the cerrado (Pinheiro et al 2002), even though Calliphoridae has been reported to be more abundant in the dry season (Rosa et al 2011). But comparisons of insect fauna associated with decaying corpses in different biomes in Brazil is quite difficult due to the fact that the studies conducted did not follow standardized methods (Pujol-Luz et al 2008) and they have been pseudo replicated due to logistic problems concerning the usage of dozens of carcasses (Ururahy-Rodrigues et al 2013).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "(Vasconcellos et al 2010)",
+          "offset_start": 76,
+          "offset_end": 101
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Souza & Linhares 1997",
+          "offset_start": 247,
+          "offset_end": 269
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": ", Carvalho & Linhares 2001)",
+          "offset_start": 269,
+          "offset_end": 296
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(Moura et al 2006",
+          "offset_start": 716,
+          "offset_end": 733
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": ", Hernández 2007",
+          "offset_start": 733,
+          "offset_end": 749
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": ", Vasconcellos et al 2010",
+          "offset_start": 749,
+          "offset_end": 774
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": ", Creão-Duarte et al 2012)",
+          "offset_start": 774,
+          "offset_end": 800
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "(Vasconcellos et al 2010)",
+          "offset_start": 1015,
+          "offset_end": 1040
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Pinheiro et al 2002)",
+          "offset_start": 1132,
+          "offset_end": 1153
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Rosa et al 2011)",
+          "offset_start": 1237,
+          "offset_end": 1254
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_71f6e72e",
+      "text": "The occurrence of specimens in the postdecay stage in our study was the result of the second generation of flies, once the resource necessary for the colonization of new specimens had already been consumed. Such decomposition stage, characterized by a completely dry carcass with only skin and bones was noticed about 10 days after death. Such period of time is long enough to assure the full development of C. albiceps under laboratory conditions (Queiroz & Milward-de-Azevedo 1991).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "(Queiroz & Milward-de-Azevedo 1991)",
+          "offset_start": 448,
+          "offset_end": 483
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_e44d9c58",
+      "text": "In different biomes, regions, and areas of Brazil (Carvalho et al 2004, Gomes et",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Carvalho et al 2004, Gomes et",
+          "offset_start": 50,
+          "offset_end": 80
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0a271638",
+      "text": "Acknowledgments The authors are grateful to Dr. Patricia J Thyssen (UFPel) for the help in the identifications and to the anonymous reviewers for their comments on the manuscript. We also want to thank Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) and Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) for providing scholarships to ACF Alves, WE Santos, and RCAP Farias.",
+      "coords": [],
+      "refs": []
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig 1",
+      "type": "figure",
+      "desc": "Fig 1 Modified Shannon trap with a collector tube on the top used to sample adult blowflies.",
+      "note": "",
+      "coords": [
+        {
+          "x": 2.0,
+          "y": 51.08,
+          "width": 386.19,
+          "height": 238.02
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Fig 2",
+      "type": "figure",
+      "desc": "Fig 2 Absolute abundance of Calliphoridae associated with the stages of decomposition of pig carcasses in a caatinga area during the dry (October 2010) and rainy (February 2011) seasons in northeastern Brazil.",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 85.1,
+          "width": 53.97,
+          "height": 425.22
+        }
+      ]
+    },
+    {
+      "id": "fig_2",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "al 2009, Biavati et al 2010) and other Neotropical countries (Wolff et al 2001, Iannacone 2003, Grisales et al 2010), including different kinds of arid environments (Valdes-Perezgasga et al 2010, Aballay et al 2012), Calliphoridae species have shown a distinct colonization behavior of decaying carcasses, what highlights the importance of local studies for the development of forensic entomology in these countries.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1",
+      "type": "table",
+      "desc": "Absolute (n) and relative abundance (%) of Calliphoridae associated with pig carcasses in a caatinga area during the dry (October 2010) and rainy (February 2011) seasons in northeastern Brazil.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Species",
+            "Dry season",
+            "",
+            "Rainy season",
+            "",
+            "Total",
+            ""
+          ],
+          [
+            "",
+            "n",
+            "%",
+            "n",
+            "%",
+            "n",
+            "%"
+          ],
+          [
+            "Chloroprocta idioidea",
+            "102",
+            "4.9",
+            "21,918",
+            "71.1",
+            "22,020",
+            "66.9"
+          ],
+          [
+            "Chrysomya albiceps",
+            "831",
+            "39.9",
+            "4,024",
+            "13.1",
+            "4,855",
+            "14.8"
+          ],
+          [
+            "Cochliomyia macellaria",
+            "1,087",
+            "52.2",
+            "3,268",
+            "10.6",
+            "4,355",
+            "13.2"
+          ],
+          [
+            "Lucilia eximia",
+            "13",
+            "0.6",
+            "1,394",
+            "4.5",
+            "1,407",
+            "4.3"
+          ],
+          [
+            "Chrysomya megacephala",
+            "28",
+            "1.3",
+            "158",
+            "0.5",
+            "186",
+            "0.6"
+          ],
+          [
+            "Chrysomya putoria",
+            "20",
+            "1.0",
+            "59",
+            "0.2",
+            "79",
+            "0.2"
+          ],
+          [
+            "Cochliomyia hominivorax",
+            "0",
+            "0",
+            "6",
+            "0.02",
+            "6",
+            "0.02"
+          ],
+          [
+            "Hemilucilia segmentaria",
+            "0",
+            "0",
+            "1",
+            "0.003",
+            "1",
+            "0.003"
+          ],
+          [
+            "Total",
+            "2,081",
+            "100",
+            "30,828",
+            "100",
+            "32,909",
+            "100"
+          ]
+        ],
+        "metadata": {
+          "row_count": 11,
+          "column_count": 7,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Succession of carrion fauna in the arid of San Juan Province, Argentina and its forensic relevance",
+      "authors": [
+        "F Aballay",
+        "A Murua",
+        "J Acosta",
+        "N Centeno"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "41",
+      "page_start": "27",
+      "page_end": "31"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Combined rearing of Cochliomyia macellaria (Fabr.), Chrysomya megacephala (Fabr.) and Chrysomya albiceps (Wied.) (Dipt., Calliphoridae) under laboratory conditions",
+      "authors": [
+        "V Aguiar-Coelho",
+        "Emv Milward-De-Azevedo"
+      ],
+      "journal": "J Appl Entomol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "122",
+      "page_start": "551",
+      "page_end": "554"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Forensic entomology",
+      "authors": [
+        "J Amendt",
+        "R Krettek",
+        "R Zehner"
+      ],
+      "journal": "Naturwissenschaften",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "91",
+      "page_start": "51",
+      "page_end": "65"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Calliphoridae (Diptera) coletados em cadáveres humanos no Rio Grande do Norte",
+      "authors": [
+        "Hta Andrade",
+        "A Varela-Freire",
+        "M Batista",
+        "J Medeiros"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "34",
+      "page_start": "855",
+      "page_end": "856"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Larval dispersal and predation in experimental populations of Chrysomya albiceps and Cochliomyia macellaria (Diptera: Calliphoridae)",
+      "authors": [
+        "J Andrade",
+        "F Rocha",
+        "P Rodrigues",
+        "G Rosa",
+        "Ldb Faria",
+        "Cjv Zuben",
+        "M Rossi",
+        "Wac Godoy"
+      ],
+      "journal": "Mem Inst Oswaldo Cruz",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "97",
+      "page_start": "1137",
+      "page_end": "1140"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "The genus Chrysomya (Diptera: Calliphoridae) in the New World",
+      "authors": [
+        "D Baumgartner",
+        "B Greenberg"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "21",
+      "page_start": "105",
+      "page_end": "113"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "A checklist of Calliphoridae blowflies (Insecta, Diptera) associated with a pig carrion in central Brazil",
+      "authors": [
+        "G Biavati",
+        "Fha Santana",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "J Forensic Sci",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "55",
+      "page_start": "1603",
+      "page_end": "1606"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Insects of forensic importance",
+      "authors": [
+        "J Byrd",
+        "J Castner"
+      ],
+      "editors": [
+        "J Byrd",
+        "J Castner"
+      ],
+      "publisher": "CRC Press",
+      "publication_date": "2010",
+      "year": 2010,
+      "pages": "p"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Myiasis by screw worm Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) in a wild maned wolf Chrysocyon brachyurus (Mammalia: Canidae)",
+      "authors": [
+        "E Cansi",
+        "R Bonorino",
+        "H Ataíde",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "40",
+      "page_start": "150",
+      "page_end": "151"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Seasonality of insect succession and pig carcass decomposition in a natural forest in southeastern Brazil",
+      "authors": [
+        "Lml Carvalho",
+        "A Linhares"
+      ],
+      "journal": "J Forensic Sci",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "46",
+      "page_start": "604",
+      "page_end": "608"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Key to the adults of the most common forensic species of Diptera in South America",
+      "authors": [
+        "Cjb Carvalho",
+        "C Mello-Patiu"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "390",
+      "page_end": "406"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Observations on the succession patterns of necrophagous insects on a pig carcass in an urban area of southeastern Brazil. Aggrawal's",
+      "authors": [
+        "Lml Carvalho",
+        "P Thyssen",
+        "M Goff",
+        "A Linhares"
+      ],
+      "journal": "Int J Forensic Med Toxicol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "5",
+      "page_start": "33",
+      "page_end": "39"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Forensic entomology in criminal investigations",
+      "authors": [
+        "E Catts",
+        "M Goff"
+      ],
+      "journal": "Annu Rev Entomol",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "37",
+      "page_start": "253",
+      "page_end": "272"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Diversidade de membracídeos (Hemiptera, Membracidae) e sobreposição de recursos tróficos em área do semi-árido",
+      "authors": [
+        "A Creão-Duarte",
+        "U Anjos",
+        "W Santos"
+      ],
+      "journal": "Iheringia Ser Zool",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "102",
+      "page_start": "453",
+      "page_end": "458"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Determination of postmortem interval by arthropod succession: a case study from the Hawaiian Islands",
+      "authors": [
+        "M Goff",
+        "M Flynn"
+      ],
+      "journal": "J Forensic Sci",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "36",
+      "page_start": "607",
+      "page_end": "614"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "A preliminary study of insect fauna on pig carcasses located in sugarcane in winter in southeastern Brazil",
+      "authors": [
+        "L Gomes",
+        "G Gomes",
+        "I Desuó"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "page_start": "155",
+      "page_end": "159"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Flies as forensic indicators",
+      "authors": "B Greenberg",
+      "journal": "J Med Entomol",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "28",
+      "page_start": "565",
+      "page_end": "577"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Insects associated with exposed decomposing bodies in the Colombian Andean coffee region",
+      "authors": [
+        "D Grisales",
+        "M Ruiz",
+        "S Villegas"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "54",
+      "page_start": "637",
+      "page_end": "644"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Besouros escarabeíneos (Coleoptera: Scarabaeidae) da Caatinga paraibana",
+      "authors": "Mim Hernández",
+      "journal": "Brasil. Oecol Bras",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "11",
+      "page_start": "356",
+      "page_end": "364"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Artropofauna de importancia forense en un cadáver de cerdo en el Callao",
+      "authors": "J Iannacone",
+      "journal": "Perú. Rev Bras Zool",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "20",
+      "page_start": "85",
+      "page_end": "90"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Scope and applications of forensic entomology",
+      "authors": "B Keh",
+      "journal": "Annu Rev Entomol",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "30",
+      "page_start": "137",
+      "page_end": "154"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Chrysomya albiceps (Wiedemann) and Hemilucilia segmentaria (Fabricius) (Diptera, Calliphoridae) used to estimate the postmortem interval in a forensic case in Minas Gerais",
+      "authors": [
+        "C Kosmann",
+        "M Macedo",
+        "Taf Barbosa",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "Brazil. Rev Bras Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "55",
+      "page_start": "621",
+      "page_end": "623"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species",
+      "authors": [
+        "C Kosmann",
+        "R Mello",
+        "E Harterreiten-Souza",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "EntomoBrasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "74",
+      "page_end": "85"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Estimativa do intervalo pós-morte em um canino (Canis lupus familiaris Linnaeus 1758) pela entomologia forense em Cabedelo-PB, Brasil: relato de caso",
+      "authors": [
+        "G Martins",
+        "W Santos",
+        "A Creão-Duarte",
+        "Lbg Silva",
+        "Aaf Oliveira"
+      ],
+      "journal": "Arq Bras Med Vet Zootec",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "65",
+      "page_start": "1107",
+      "page_end": "1110"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Seasonality in foraging behaviour of Constrictotermes cyphergaster (Termitidae, Nasutitermitinae) in the caatinga of northeastern Brazil",
+      "authors": [
+        "Fms Moura",
+        "A Vasconcellos",
+        "Vfp Araújo",
+        "A Bandeira"
+      ],
+      "journal": "Insect Soc",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "53",
+      "page_start": "1",
+      "page_end": "8"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "A preliminary analysis of insects of medico-legal importance in Curitiba, State of Paraná",
+      "authors": [
+        "M Moura",
+        "Cjb Carvalho",
+        "Ela Monteiro-Filho"
+      ],
+      "journal": "Mem Inst Oswaldo Cruz",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "92",
+      "page_start": "269",
+      "page_end": "274"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Insects (Diptera) associated with cadavers at the Institute of Legal Medicine in Pernambuco, Brazil: implications for forensic entomology",
+      "authors": [
+        "T Oliveira",
+        "S Vasconcelos"
+      ],
+      "journal": "Forensic Sci Int",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "198",
+      "page_start": "97",
+      "page_end": "102"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Calliphoridae (Diptera) da bacia do alto rio Urucu, Amazônia Central",
+      "authors": "N Paraluppi",
+      "journal": "Brasil. Rev Bras Zool",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "13",
+      "page_start": "553",
+      "page_end": "559"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Seasonal pattern of insect abundance in the Brazilian Cerrado",
+      "authors": [
+        "F Pinheiro",
+        "I Diniz",
+        "D Coelho",
+        "Mps Bandeira"
+      ],
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "27",
+      "page_start": "132",
+      "page_end": "136"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Cem anos da Entomologia Forense no Brasil",
+      "authors": [
+        "J Pujol-Luz",
+        "L Arantes",
+        "R Constantino"
+      ],
+      "publication_date": "1908",
+      "year": 1908,
+      "volume": "52",
+      "page_start": "485",
+      "page_end": "492"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "A forensic entomology case from the Amazon rain forest of Brazil",
+      "authors": [
+        "J Pujol-Luz",
+        "H Marques",
+        "A Ururahy-Rodrigues",
+        "J Rafael",
+        "Fha Santana",
+        "L Arantes",
+        "R Constantino"
+      ],
+      "journal": "J Forensic Sci",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "51",
+      "page_start": "1151",
+      "page_end": "1153"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Técnicas de criação e alguns aspectos da biologia de Chrysomya albiceps (Wiedemann) (Diptera, Calllphoridae), em condições de laboratório",
+      "authors": [
+        "Mmc Queiroz",
+        "Emv Milward-De-Azevedo"
+      ],
+      "journal": "Rev Bras Zool",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "8",
+      "page_start": "75",
+      "page_end": "84"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Bionomics of two forensically important blowfly species Chrysomya megacephala and Chrysomya putoria (Diptera: Calliphoridae) reared on four types of diet",
+      "authors": [
+        "Kcn Rabêlo",
+        "P Thyssen",
+        "R Salgado",
+        "Msc Araújo",
+        "S Vasconcelos"
+      ],
+      "journal": "Forensic Sci Int",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "210",
+      "page_start": "257",
+      "page_end": "262"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Arthropods associated with pig carrion in two vegetation profiles of cerrado in the State of Minas Gerais",
+      "authors": [
+        "T Rosa",
+        "Mly Babata",
+        "C Souza",
+        "D Sousa",
+        "C Mello-Patiu",
+        "F Vaz-De-Mello"
+      ],
+      "journal": "Brazil. Rev Bras Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "55",
+      "page_start": "424",
+      "page_end": "434"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Diptera and Coleoptera of potential forensic importance in southeastern Brazil: relative abundance and seasonality",
+      "authors": [
+        "A Souza",
+        "A Linhares"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "11",
+      "page_start": "8",
+      "page_end": "12"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Caracterização das formas imaturas e determinação das exigências térmicas de duas espécies de califorídeos (Diptera) de importância forense",
+      "note_report_type": "PhD. Thesis",
+      "authors": "P Thyssen",
+      "publication_date": "2005",
+      "year": 2005
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Record of oral myiasis by Cochliomyia hominivorax (Diptera: Calliphoridae): case evidencing negligence in the treatment of incapable",
+      "authors": [
+        "P Thyssen",
+        "M Nassu",
+        "Amu Costella",
+        "M Costella"
+      ],
+      "journal": "Parasitol Res",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "111",
+      "page_start": "957",
+      "page_end": "959"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Temporal distribution of blowflies of forensic importance (Diptera: Calliphoridae), in man-size domestic pigs carcasses",
+      "authors": [
+        "A Ururahy-Rodrigues",
+        "J Rafael",
+        "Pujol-Luz Jr"
+      ],
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "9",
+      "page_end": "22"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Arthropods of forensic importance on pig carrion in the Coahuilan Semidesert",
+      "authors": [
+        "M Valdes-Perezgasga",
+        "F Sanchez-Ramos",
+        "O Garcia-Martinez",
+        "G Anderson"
+      ],
+      "journal": "J Forensic Sci",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "55",
+      "page_start": "1098",
+      "page_end": "1101"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Seasonality of insects in a semi-arid caatinga of northeastern Brazil",
+      "authors": [
+        "A Vasconcellos",
+        "R Andreazze",
+        "A Almeida",
+        "Hfp Araujo",
+        "E Oliveira",
+        "U Oliveira"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "54",
+      "page_start": "471",
+      "page_end": "476"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Responses of the sheep blowfly Lucilia sericata to carrion odour and carbon dioxide",
+      "authors": [
+        "R Wall",
+        "M Warnes"
+      ],
+      "journal": "Entomol Exp Appl",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "73",
+      "page_start": "239",
+      "page_end": "246"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "A preliminary study of forensic entomology in Medellín",
+      "authors": [
+        "M Wolff",
+        "A Uribe",
+        "A Ortiz",
+        "P Duque"
+      ],
+      "journal": "Colombia. Forensic Sci Int",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "120",
+      "page_start": "53",
+      "page_end": "59"
+    }
+  ]
+}

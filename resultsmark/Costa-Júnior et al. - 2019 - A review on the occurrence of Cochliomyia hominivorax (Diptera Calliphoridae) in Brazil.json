@@ -1,0 +1,6295 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "A review on the occurrence of Cochliomyia hominivorax (Diptera: Calliphoridae) in Brazil",
+    "authors": [
+      "Livio Costa-Júnior",
+      "Daniel Chaves",
+      "Danilo Brito",
+      "Vitor Santos",
+      "Henrique Costa-Júnior",
+      "Antonio Barros"
+    ],
+    "doi": "10.1590/s1984-29612019059",
+    "hash": "C2EA7A9FE5A1C96A7CED438102F2BFA8",
+    "publication_date": "2019-12",
+    "publication_year": 2019,
+    "publisher": "FapUNIFESP (SciELO)",
+    "journal": "Revista Brasileira de Parasitologia Veterinária",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Cochliomyia hominivorax (Coquerel, 1858), the New World screwworm, causes primary myiasis in wild and domestic animals in tropical and subtropical regions of Brazil. Although this species is considered to occur throughout the country, organized information about its recorded distribution has not been available until now. This article aimed to provide a comprehensive review of the historical and current data published on both immature (myiasis) and adult stages of C. hominivorax in Brazil. A total of 174 articles were found; of these, 141 articles reported myiasis cases in cattle (146 records), humans (68 records), and other mammalian hosts (40 records), and captures of adult flies were reported in 33 articles. C. hominivorax is widespread in Brazil, having been recorded in 208 municipalities in all major biomes of the country.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_9c8382c3",
+      "text": "The New World screwworm (NWS) fly, Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae), is a major cause of primary myiasis in animals in tropical and subtropical regions of the Americas (WYSS, 2000). The original distribution of this species extended from the southern United States to central Argentina, including the Caribbean (HALL & WALL, 1995). Beginning in 1957, a program based on the sterile insect technique eradicated C. hominivorax from North and Central America (WYSS, 2000). Currently, a biosecurity facility for screwworm mass rearing, sterilization, and dispersal is maintained in Panama for preventing reintroduction from Colombia (CONCHA et al., 2016). The current distribution of this species comprises the Caribbean and South America, except Chile (FRESIA et al., 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b243",
+          "text": "(WYSS, 2000)",
+          "offset_start": 201,
+          "offset_end": 213
+        },
+        {
+          "type": "bibr",
+          "target": "#b118",
+          "text": "(HALL & WALL, 1995)",
+          "offset_start": 344,
+          "offset_end": 363
+        },
+        {
+          "type": "bibr",
+          "target": "#b243",
+          "text": "(WYSS, 2000)",
+          "offset_start": 489,
+          "offset_end": 501
+        },
+        {
+          "type": "bibr",
+          "target": "#b71",
+          "text": "(CONCHA et al., 2016)",
+          "offset_start": 662,
+          "offset_end": 683
+        },
+        {
+          "type": "bibr",
+          "target": "#b101",
+          "text": "(FRESIA et al., 2011)",
+          "offset_start": 782,
+          "offset_end": 803
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_c2ad6bb2",
+      "text": "Myiasis is a parasitic infestation of live vertebrate animals by dipterous larvae (ACHA & SZYFRES, 2003). Although",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(ACHA & SZYFRES, 2003)",
+          "offset_start": 82,
+          "offset_end": 104
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_61eb2dd9",
+      "text": "Cochliomyia hominivorax (Coquerel, 1858), a mosca-da-bicheira, causa miíase primária em animais silvestres e domésticos em regiões tropicais e subtropicais do Brasil. Embora esta espécie seja considerada de ocorrência em todo o país, informações organizadas sobre sua distribuição com base em registros não estavam disponíveis até o momento. Este artigo teve como objetivo fornecer uma revisão abrangente dos dados históricos e atuais publicados sobre o registro de estágios imaturos (miíase) e adultos de C. hominivorax, no Brasil. De 174 artigos encontrados, 141 relataram casos de miíase em bovinos (146 relatos), humanos (68 relatos) e outros mamíferos hospedeiros (40 relatos) e capturas de adultos de C. hominivorax foram registradas em 33 artigos. C. hominivorax encontra-se amplamente distribuída no Brasil, tendo sido registrada em 208 municípios brasileiros em todos os principais biomas do país.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Coquerel, 1858)",
+          "offset_start": 24,
+          "offset_end": 40
+        }
+      ],
+      "head_section": "A review on the occurrence of Cochliomyia hominivorax (Diptera: Calliphoridae) in Brazil Resumo"
+    },
+    {
+      "id": "p_b7ca3a06",
+      "text": "Palavras-chave: Mosca-da-bicheira, miíase primária, epidemiologia, Cochliomyia hominivorax.",
+      "coords": [],
+      "refs": [],
+      "head_section": "A review on the occurrence of Cochliomyia hominivorax (Diptera: Calliphoridae) in Brazil Resumo"
+    },
+    {
+      "id": "p_e4d3cf58",
+      "text": "several dipteran species may cause myiasis (ZUMPT, 1965;HALL & WALL, 1995;GUIMARÃES & PAPAVERO, 1999), C. hominivorax is the main species associated with primary myiasis in Brazil (ZUMPT, 1965). In Brazil, cattle myiasis is more prevalent in newborn calves and is eventually associated with tick infestations (YARZON, 2005;BARROS et al., 2010a;RECK et al., 2014). Aggravated by favorable environments, infrastructure problems and management difficulties, myiasis stands out among the main causes of calf mortality in some Brazilian regions (BARROS et al., 2010b;GRISI et al., 2014).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b246",
+          "text": "(ZUMPT, 1965;",
+          "offset_start": 43,
+          "offset_end": 56
+        },
+        {
+          "type": "bibr",
+          "target": "#b118",
+          "text": "HALL & WALL, 1995;",
+          "offset_start": 56,
+          "offset_end": 74
+        },
+        {
+          "type": "bibr",
+          "target": "#b116",
+          "text": "GUIMARÃES & PAPAVERO, 1999)",
+          "offset_start": 74,
+          "offset_end": 101
+        },
+        {
+          "type": "bibr",
+          "target": "#b246",
+          "text": "(ZUMPT, 1965)",
+          "offset_start": 180,
+          "offset_end": 193
+        },
+        {
+          "type": "bibr",
+          "target": "#b245",
+          "text": "(YARZON, 2005;",
+          "offset_start": 309,
+          "offset_end": 323
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "BARROS et al., 2010a;",
+          "offset_start": 323,
+          "offset_end": 344
+        },
+        {
+          "type": "bibr",
+          "target": "#b184",
+          "text": "RECK et al., 2014)",
+          "offset_start": 344,
+          "offset_end": 362
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "(BARROS et al., 2010b;",
+          "offset_start": 540,
+          "offset_end": 562
+        },
+        {
+          "type": "bibr",
+          "target": "#b115",
+          "text": "GRISI et al., 2014)",
+          "offset_start": 562,
+          "offset_end": 581
+        }
+      ],
+      "head_section": "A review on the occurrence of Cochliomyia hominivorax (Diptera: Calliphoridae) in Brazil Resumo"
+    },
+    {
+      "id": "p_42edb8cc",
+      "text": "Although C. hominivorax is widely spread throughout the country, information on the distribution and epidemiology of this species in Brazil is scattered, and little information is available about its geographic distribution as well as the prevalence of its myiasis in different host species. A comprehensive study on screwworm distribution in Brazil was performed some decades ago by Horn & Antônio (1983) when a questionnaire was distributed all over the country by the Serviço Brasileiro de Defesa Sanitária Animal; with a return rate of approximately 75%, the occurrence of myiasis was recorded in 96.2% of the municipalities from all Brazilian states. In that survey, the highest myiasis prevalence was observed in the Northeast states; in 495 municipalities, screwworm myiasis was the most prevalent cattle ectoparasitosis (HORN & ANTÔNIO, 1983).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b120",
+          "text": "Horn & Antônio (1983)",
+          "offset_start": 384,
+          "offset_end": 405
+        },
+        {
+          "type": "bibr",
+          "target": "#b120",
+          "text": "(HORN & ANTÔNIO, 1983)",
+          "offset_start": 828,
+          "offset_end": 850
+        }
+      ],
+      "head_section": "A review on the occurrence of Cochliomyia hominivorax (Diptera: Calliphoridae) in Brazil Resumo"
+    },
+    {
+      "id": "p_d5e63e0a",
+      "text": "In this sense, the present article is a comprehensive compendium of the historical and current data published about the occurrence of C. hominivorax and its myiasis in Brazil. Aspects related to the etiology, distribution, and host occurrence of cutaneous myiasis, mainly due to C. hominivorax, are presented to update the overview of this important parasite.",
+      "coords": [],
+      "refs": [],
+      "head_section": "A review on the occurrence of Cochliomyia hominivorax (Diptera: Calliphoridae) in Brazil Resumo"
+    },
+    {
+      "id": "p_6006c352",
+      "text": "The present review comprised a comprehensive search of technical and scientific publications using searching tools and databases, such as PubMed, Scielo and Google Scholar, available on the internet. Searching was conducted until December 2017 using several combinations of screwworm-related terms (Calliphoridae, Cochliomyia, myiasis, screwworm) as well as related hosts (cattle, horse, dog, sheep, human) and \"Brazil\". Articles about adult trapping without the species (C. hominivorax) identification were not considered. This review included not only new and old information available on the internet but also published articles not available online. Information regarding the occurrence of myiasis in wildlife is very scarce in the Brazilian literature; thus, additional information was provided by some field professionals working in that area.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Review procedures"
+    },
+    {
+      "id": "p_01bb862c",
+      "text": "This paper was mostly based on myiasis records from both case reports and field studies, depending on the host species. Complementary information from adult records, mostly from trapping studies, was also included. Eventually, the number of records was greater than the number of articles since some articles had multiple records.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Review procedures"
+    },
+    {
+      "id": "p_79dcb610",
+      "text": "The present review covered 227 articles published over the last 142 years (1875 -2017) reporting myiasis (by different species) and screwworm adult trapping in Brazil. Of these, 174 articles recorded C. hominivorax, with 81.1% (141 articles) reports on myiasis and 18.9% (33 articles) records of adult trapping.",
+      "coords": [],
+      "refs": [],
+      "head_section": "General results"
+    },
+    {
+      "id": "p_b22d2770",
+      "text": "From 1875 to 1999, only 24 articles (14.2%) reported C. hominivorax in Brazil (Figure 1). The number of such articles increased considerably, with 49 (29.0%) reports from 2000 to 2008, and peaked from 2009 to 2017, with 96 (56.8%) published articles (Figure 1). It is worth mentioning that until 1999, only a few publications had reported the occurrence of both human myiasis (n= 2) and adult trapping (n= 3); however, such reports increased considerably to 34 and 25 articles, respectively, from 2009 to 2017. In addition to those 168 articles, six other articles with no identified hosts were excluded from the analysis.",
+      "coords": [],
+      "refs": [],
+      "head_section": "General results"
+    },
+    {
+      "id": "p_08082075",
+      "text": "The occurrence of C. hominivorax has been recorded by technical and/or scientific publications in 208 municipalities from 26 states of Brazil. No published records of C. hominivorax were found for the state of Alagoas (Northeast region); however, myiasis by C. hominivorax and/or adult catches has been recorded in neighboring states. Anecdotal information from field veterinarians confirms its distribution in all Brazilian states. Without confirming species identification, Horn & Antônio (1983) had previously reported the occurrence of cattle myiasis in all states of the country.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b120",
+          "text": "Horn & Antônio (1983)",
+          "offset_start": 476,
+          "offset_end": 497
+        }
+      ],
+      "head_section": "General results"
+    },
+    {
+      "id": "p_0090c41a",
+      "text": "Most published records (41.8%) of both screwworm myiasis (on all hosts) and adult catches were from the Southeast region of the country (Table 1); however, this finding most likely resulted from a much greater number of studies carried out in that region during the years rather than a higher abundance of this fly in the region. Indeed, the number of published reports ultimately reflects the number of studies conducted in each particular region and does not necessarily represent (or should be interpreted as an indicator of ) screwworm abundance or importance.",
+      "coords": [],
+      "refs": [],
+      "head_section": "General results"
+    },
+    {
+      "id": "p_5d3cbb14",
+      "text": "The specific occurrence of cattle myiasis was recorded in 127 municipalities distributed throughout all five regions of the country (Figure 2A, Table 2). Cochliomyia hominivorax was the most important species associated with cattle myiasis in Brazil and was responsible for all cases where the etiologic agent was identified (Table 3). The distribution of cattle myiasis in Brazil is certainly broader than it is presented here (Table 2 and Figure 2A), as suggested by Horn & Antônio (1983). However, a more complete distribution of this pest depends on further studies, mainly in regions where information is scarce or simply does not exist. The absence of species confirmation, as observed in several reports, also limits epidemiological studies.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b120",
+          "text": "Horn & Antônio (1983)",
+          "offset_start": 469,
+          "offset_end": 490
+        }
+      ],
+      "head_section": "Cattle Myiasis"
+    },
+    {
+      "id": "p_b6ef24db",
+      "text": "The highest number of records of myiasis in cattle (87.6%) was recorded in the Southeast (34.2%), Midwest (30.8%) and South (22.6%) regions (Table 1). This distribution is highly influenced by two major factors: 1) a greater number of scientific articles in the v. 28, n. 4, oct.-dec. 2019 551/562 551 Cochliomyia hominivorax in Brazil Lustosa et al., 1983;Azeredo-Espin, 1987;Caproni et al., 1998;Garcia-Zapata et al., 2005;Fernandes et al., 2009;Lyra et al., 2009Lyra et al., , 2010;;Carvalho et al., 2009;Carvalho et al., 2010;Fresia et al., 2011;2013;2014;Silva et al., 2011;Cardoso et al., 2014Cardoso et al., , 2016;;Lopes et al., 2014;Bergamo et al., 2015; Teixeira et al., 2016 MA Caxias, Coroatá, Formosa da Serra Negra, Grajaú, Santa Rita, São Francisco do Brejão, São Luís, Sítio Novo Caproni et al., 1998; Brito et al., 2005; Reis et al., 2008; Figueiredo et al., 2010; Fresia et al., 2014; Mastrangelo et al., 2014; Pereira de Sousa et al., 2015, 2016 area of agrarian sciences from researchers in the Southeast, South and Midwest, totaling 86% (1992-1994) and 79% (2007-2009) of Brazilian scientific production (SIDONE et al., 2016), and 2) a larger cattle herd in these regions, representing 66% and 78% of the national bovine population in 1980 and 2010, respectively (IBGE, 2018).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b145",
+          "text": "Lustosa et al., 1983;",
+          "offset_start": 336,
+          "offset_end": 357
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "Azeredo-Espin, 1987;",
+          "offset_start": 357,
+          "offset_end": 377
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "Caproni et al., 1998;",
+          "offset_start": 377,
+          "offset_end": 398
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Garcia-Zapata et al., 2005;",
+          "offset_start": 398,
+          "offset_end": 425
+        },
+        {
+          "type": "bibr",
+          "target": "#b89",
+          "text": "Fernandes et al., 2009;",
+          "offset_start": 425,
+          "offset_end": 448
+        },
+        {
+          "type": "bibr",
+          "target": "#b152",
+          "text": "Lyra et al., 2009",
+          "offset_start": 448,
+          "offset_end": 465
+        },
+        {
+          "type": "bibr",
+          "target": "#b151",
+          "text": "Lyra et al., , 2010;;",
+          "offset_start": 465,
+          "offset_end": 486
+        },
+        {
+          "type": "bibr",
+          "target": "#b67",
+          "text": "Carvalho et al., 2009;",
+          "offset_start": 486,
+          "offset_end": 508
+        },
+        {
+          "type": "bibr",
+          "target": "#b66",
+          "text": "Carvalho et al., 2010;",
+          "offset_start": 508,
+          "offset_end": 530
+        },
+        {
+          "type": "bibr",
+          "target": "#b101",
+          "text": "Fresia et al., 2011;",
+          "offset_start": 530,
+          "offset_end": 550
+        },
+        {
+          "type": "bibr",
+          "target": "#b127",
+          "text": "2013;",
+          "offset_start": 550,
+          "offset_end": 555
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "2014;",
+          "offset_start": 555,
+          "offset_end": 560
+        },
+        {
+          "type": "bibr",
+          "target": "#b220",
+          "text": "Silva et al., 2011;",
+          "offset_start": 560,
+          "offset_end": 579
+        },
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": "Cardoso et al., 2014",
+          "offset_start": 579,
+          "offset_end": 599
+        },
+        {
+          "type": "bibr",
+          "target": "#b63",
+          "text": "Cardoso et al., , 2016;;",
+          "offset_start": 599,
+          "offset_end": 623
+        },
+        {
+          "type": "bibr",
+          "target": "#b136",
+          "text": "Lopes et al., 2014;",
+          "offset_start": 623,
+          "offset_end": 642
+        },
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "Bergamo et al.,",
+          "offset_start": 642,
+          "offset_end": 657
+        }
+      ],
+      "head_section": "Cattle Myiasis"
+    },
+    {
+      "id": "p_2e28400a",
+      "text": "Forty-five articles provided 146 reports of cattle myiasis; of these, 20 were about molecular or biochemical aspects, 16 were tests of drug or plant extract efficacy, and the others were case reports (four articles), epidemiology (three articles), general survey of ectoparasites (one article) and control using the sterile insect technique (one article).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Cattle Myiasis"
+    },
+    {
+      "id": "p_86469e2e",
+      "text": "Several domestic animals have been reported as hosts to dipteran larvae in Brazil (Table 3). Most records were from myiasis in dogs (n= 14), followed by cats (n= 8), horses (n= 2), and buffalo, donkey, rabbits and pigs (n= 1, each). In general, the clinical resolution of myiasis in domestic animals will depend on the location and extent of injury, intensity of infestation, speed of diagnosis and effective treatment, and the dipteran species involved (CORREIA et al., 2010).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(CORREIA et al., 2010)",
+          "offset_start": 454,
+          "offset_end": 476
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_a015d560",
+      "text": "Cochliomyia hominivorax was responsible for 64.3% of the myiasis reported in domesticated animals (other than bovines), which included dog, cat, goat, sheep, horse, donkey, buffalo and pig, in various regions of the country.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_aa2d87f3",
+      "text": "Myiasis in pets due to C. hominivorax has been reported in dogs and cats. Nine articles reported the occurrence of myiasis in dogs in the states of Rio Grande do Sul (SPAGNOL et al., 2006;FIGHERA, 2008;SOUZA et al., 2009), Rio de Janeiro (CRAMER-RIBEIRO et al., 2003;CORREIA et al., 2010), Federal District (CANSI & DEMO, 2011;NAME et al., 2012), São Paulo (PENA, 2007) and Goiás (LUSTOSA et al., 1983). Myiasis in cats has been reported only in Rio de Janeiro (MENDES- DE-ALMEIDA et al., 2007;SOUZA CP et al., 2010a;MAROTTA et al., 2011) and the Federal District (CANSI & DEMO, 2011). The occurrence of myiasis in pets is certainly underestimated in all states.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b230",
+          "text": "(SPAGNOL et al., 2006;",
+          "offset_start": 166,
+          "offset_end": 188
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "FIGHERA, 2008;",
+          "offset_start": 188,
+          "offset_end": 202
+        },
+        {
+          "type": "bibr",
+          "target": "#b229",
+          "text": "SOUZA et al., 2009)",
+          "offset_start": 202,
+          "offset_end": 221
+        },
+        {
+          "type": "bibr",
+          "target": "#b78",
+          "text": "(CRAMER-RIBEIRO et al., 2003;",
+          "offset_start": 238,
+          "offset_end": 267
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "CORREIA et al., 2010",
+          "offset_start": 267,
+          "offset_end": 287
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "), Federal District (CANSI & DEMO, 2011;",
+          "offset_start": 287,
+          "offset_end": 327
+        },
+        {
+          "type": "bibr",
+          "target": "#b166",
+          "text": "NAME et al., 2012)",
+          "offset_start": 327,
+          "offset_end": 345
+        },
+        {
+          "type": "bibr",
+          "target": "#b179",
+          "text": "(PENA, 2007)",
+          "offset_start": 357,
+          "offset_end": 369
+        },
+        {
+          "type": "bibr",
+          "target": "#b145",
+          "text": "(LUSTOSA et al., 1983)",
+          "offset_start": 380,
+          "offset_end": 402
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "DE-ALMEIDA et al., 2007;",
+          "offset_start": 470,
+          "offset_end": 494
+        },
+        {
+          "type": "bibr",
+          "target": "#b224",
+          "text": "SOUZA CP et al., 2010a;",
+          "offset_start": 494,
+          "offset_end": 517
+        },
+        {
+          "type": "bibr",
+          "target": "#b155",
+          "text": "MAROTTA et al., 2011)",
+          "offset_start": 517,
+          "offset_end": 538
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_371375c3",
+      "text": "Brazil has more than eight million goats and thirteen million sheep, concentrated in the Northeast and South regions (IBGE, 2018). Thirty records of myiasis (by distinct species) in small ruminants, including 19 in sheep and 11 in goats (Table 3), from 11 states, were found in 13 articles. Approximately 56.6% of the records (n= 17) were from the Northeast region (Table 2), although most of this region is semiarid and has a smaller number of myiasis cases.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(IBGE, 2018)",
+          "offset_start": 117,
+          "offset_end": 129
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_d5947deb",
+      "text": "Most myiasis reports in small ruminants in Brazil were caused by C. hominivorax (n= 17 records); however, in 40% of the records, the species was not identified (Table 3). Small ruminants infested by myiasis could be mutilated because of the rapid development of myiasis, often in less than 24 hours. The articles recording myiasis by C. hominivorax in small ruminants were case reports (SCHMIDT et al., 2012;SELLERA et al., 2014;REIS et al., 2016), surveys of ectoparasites (COSTA & VIEIRA, 1984;BRITO et al., 2005;BEZERRA et al., 2010), epidemiology studies (AMARANTE et al., 1992;DUARTE et al., 2012) and ectoparasiticide efficacy trials (SANAVRIA & PRATA, 1996).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b209",
+          "text": "(SCHMIDT et al., 2012;",
+          "offset_start": 386,
+          "offset_end": 408
+        },
+        {
+          "type": "bibr",
+          "target": "#b210",
+          "text": "SELLERA et al., 2014;",
+          "offset_start": 408,
+          "offset_end": 429
+        },
+        {
+          "type": "bibr",
+          "target": "#b185",
+          "text": "REIS et al., 2016)",
+          "offset_start": 429,
+          "offset_end": 447
+        },
+        {
+          "type": "bibr",
+          "target": "#b75",
+          "text": "(COSTA & VIEIRA, 1984;",
+          "offset_start": 474,
+          "offset_end": 496
+        },
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "BRITO et al., 2005;",
+          "offset_start": 496,
+          "offset_end": 515
+        },
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "BEZERRA et al., 2010)",
+          "offset_start": 515,
+          "offset_end": 536
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "(AMARANTE et al., 1992;",
+          "offset_start": 559,
+          "offset_end": 582
+        },
+        {
+          "type": "bibr",
+          "target": "#b85",
+          "text": "DUARTE et al., 2012)",
+          "offset_start": 582,
+          "offset_end": 602
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(SANAVRIA & PRATA, 1996)",
+          "offset_start": 640,
+          "offset_end": 664
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_679b9338",
+      "text": "Although C. hominivorax was responsible for the majority (64.3%) of the myiasis reported in domesticated animals (other than bovines), Lucilia eximia (Wiedemann, 1981) has been found in 14.3% of cases (Table 3), including dogs, cats, and rabbits (MADEIRA et al., 1989;AZEREDO-ESPIN & MADEIRA, 1996;MORETTI & THYSSEN, 2006;CANSI & DEMO, 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Wiedemann, 1981)",
+          "offset_start": 150,
+          "offset_end": 167
+        },
+        {
+          "type": "bibr",
+          "target": "#b153",
+          "text": "(MADEIRA et al., 1989;",
+          "offset_start": 246,
+          "offset_end": 268
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "AZEREDO-ESPIN & MADEIRA, 1996;",
+          "offset_start": 268,
+          "offset_end": 298
+        },
+        {
+          "type": "bibr",
+          "target": "#b164",
+          "text": "MORETTI & THYSSEN, 2006;",
+          "offset_start": 298,
+          "offset_end": 322
+        },
+        {
+          "type": "bibr",
+          "target": "#b61",
+          "text": "CANSI & DEMO, 2011)",
+          "offset_start": 322,
+          "offset_end": 341
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_e18f6f97",
+      "text": "Relatively little information is available regarding the occurrence of myiasis in wild animals in Brazil. In nature, primary myiasis caused by C. hominivorax has been reported only in the maned wolf (Chrysocyon brachyurus Illiger, 1815) in Brasilia (CANSI et al., 2011) and opossum (Didelphis marsupialis Linnaeus, 1758) in Caxias, Maranhão state (REIS et al., 2008). In captive animals, myiasis by C. hominivorax has been recorded in the hippopotamus Three articles recorded infestation by three distinct species. 1 Multiple records of myiases caused by the same species in the same municipality were considered just once. 2 Phaenicia eximia was considered a synom of Lucilia eximia. 3 Includes Sarcophaga pyophila, Sarcophaga ruficornis, Sarcodexia lambens and Sarcophaga sp.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Brasilia (CANSI et al., 2011)",
+          "offset_start": 240,
+          "offset_end": 269
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Maranhão state (REIS et al., 2008)",
+          "offset_start": 332,
+          "offset_end": 366
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_29d2e926",
+      "text": "(Hippopotamus amphibious Linnaeus, 1758) and the lesser grison (Galictis cuja Molina, 1782) in São Paulo and São Luís (ROSSI et al., 2009;FIGUEIREDO et al., 2010). Myiasis by other species has also been reported in a captive white-eared opossum (Didelphis albiventris Lund, 1840) from Brasilia caused by L. eximia (CANSI & BONORINO, 2011). Except for D. albiventris, all myiasis reported in wild mammals in Brazil was caused by C. hominivorax.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b202",
+          "text": "(ROSSI et al., 2009;",
+          "offset_start": 118,
+          "offset_end": 138
+        },
+        {
+          "type": "bibr",
+          "target": "#b96",
+          "text": "FIGUEIREDO et al., 2010)",
+          "offset_start": 138,
+          "offset_end": 162
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(CANSI & BONORINO, 2011)",
+          "offset_start": 314,
+          "offset_end": 338
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_003b4a54",
+      "text": "The scarcity of information on myiasis in wild mammals should not be considered as the absence of this problem in wildlife, but to the lack of specific studies as well as a better use of field opportunities during ecological studies.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_58d0371e",
+      "text": "Additional unpublished or anecdotal observations of myiasis in wildlife also included puma (Puma concolor Linnaeus, 1771) in 2013 from São Paulo and Minas Gerais (Fernanda C. Azevedo e Frederico G. Lemos, personal communication), red-footed tortoise (Geochelone carbonaria Spix, 1824) in 2011 from Uberaba, Minas Gerais state and maned wolf in the mountain region of Rio de Janeiro in. In all those cases, the actual species causing myiasis is unknown.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_c73393a5",
+      "text": "Although the parasitism of birds by C. hominivorax larvae is quite uncommon, such a situation has been found in a captive ostrich (Struthio camelus Linnaeus, 1758) in the semiarid region of the state of Bahia (ALMEIDA et al., 2008). Indeed, myiasis in small wild birds of several species is commonly caused by Philornis larvae (LUZ et al., 2008(LUZ et al., , 2010(LUZ et al., , 2011;;FRANZ & COURI, 2008).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(ALMEIDA et al., 2008)",
+          "offset_start": 209,
+          "offset_end": 231
+        },
+        {
+          "type": "bibr",
+          "target": "#b150",
+          "text": "(LUZ et al., 2008",
+          "offset_start": 327,
+          "offset_end": 344
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(LUZ et al., , 2010",
+          "offset_start": 344,
+          "offset_end": 363
+        },
+        {
+          "type": "bibr",
+          "target": "#b149",
+          "text": "(LUZ et al., , 2011;;",
+          "offset_start": 363,
+          "offset_end": 384
+        },
+        {
+          "type": "bibr",
+          "target": "#b99",
+          "text": "FRANZ & COURI, 2008)",
+          "offset_start": 384,
+          "offset_end": 404
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_bfe50a2b",
+      "text": "Myiasis due to the primary screwworm has not been reported in anurans and reptiles in Brazil. However, Sarcophagidae larvae have been found in tree frogs (Hypsiboas beckeri Caramaschi and Cruz, 2004and Aplastodiscus arildae Cruz and Peixoto, 1987) (EIZEMBERG et al., 2008;MELLO-PATIU & LUNA-DIAS, 2010) and in the introduced American bullfrog (Rana catesbeiana Shaw, 1802) (SOUZA et al., 1989). The single record of myiasis in reptiles in Brazil was from the South American rattlesnake (Crotalus durissus Linnaeus, 1758) caused by Phoridae larvae (SILVA et al., 1999).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Caramaschi and Cruz, 2004",
+          "offset_start": 173,
+          "offset_end": 198
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "and Aplastodiscus arildae Cruz and Peixoto, 1987",
+          "offset_start": 198,
+          "offset_end": 246
+        },
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": ") (EIZEMBERG et al., 2008;",
+          "offset_start": 246,
+          "offset_end": 272
+        },
+        {
+          "type": "bibr",
+          "target": "#b161",
+          "text": "MELLO-PATIU & LUNA-DIAS, 2010)",
+          "offset_start": 272,
+          "offset_end": 302
+        },
+        {
+          "type": "bibr",
+          "target": "#b226",
+          "text": "(SOUZA et al., 1989)",
+          "offset_start": 373,
+          "offset_end": 393
+        },
+        {
+          "type": "bibr",
+          "target": "#b221",
+          "text": "(SILVA et al., 1999)",
+          "offset_start": 547,
+          "offset_end": 567
+        }
+      ],
+      "head_section": "Myiasis on other animal hosts"
+    },
+    {
+      "id": "p_eea5c5bf",
+      "text": "Zoonotic infestations by dipteran larvae are of great public health importance, and people with inadequate hygienic habits are the most likely to have cutaneous lesions and/or systemic diseases, thus becoming more susceptible to such infestations (MARTINEZ et al., 2003). Clinical manifestations of myiases depend on the dipteran species involved and the organ or tissue affected (PIERCE, 1981), and the prognosis is directly related to the duration and location of the injury and the health conditions of the patient (NASCIMENTO et al., 2005).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b157",
+          "text": "(MARTINEZ et al., 2003)",
+          "offset_start": 247,
+          "offset_end": 270
+        },
+        {
+          "type": "bibr",
+          "target": "#b182",
+          "text": "(PIERCE, 1981)",
+          "offset_start": 380,
+          "offset_end": 394
+        },
+        {
+          "type": "bibr",
+          "target": "#b167",
+          "text": "(NASCIMENTO et al., 2005)",
+          "offset_start": 518,
+          "offset_end": 543
+        }
+      ],
+      "head_section": "Human Myiasis"
+    },
+    {
+      "id": "p_3ccf73f6",
+      "text": "One of the first reports of myiasis in Brazil was by Brandão & Menezes (1875), who included more than 30 cases in humans, mainly in nasal cavities; unfortunately, the species was not identified. Since then, some cases of human mortality due to myiasis have been reported in Brazil (BLEYER, 1905;SOUZA, 1939;CARVALHO et al., 2008;HOLANDA et al., 2015).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "(BLEYER, 1905;",
+          "offset_start": 281,
+          "offset_end": 295
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "SOUZA, 1939;",
+          "offset_start": 295,
+          "offset_end": 307
+        },
+        {
+          "type": "bibr",
+          "target": "#b68",
+          "text": "CARVALHO et al., 2008;",
+          "offset_start": 307,
+          "offset_end": 329
+        },
+        {
+          "type": "bibr",
+          "target": "#b119",
+          "text": "HOLANDA et al., 2015)",
+          "offset_start": 329,
+          "offset_end": 350
+        }
+      ],
+      "head_section": "Human Myiasis"
+    },
+    {
+      "id": "p_1aa337e2",
+      "text": "Human myiasis has been recorded in 44 municipalities from 15 states in all regions of Brazil (Figure 2C, Table 1, Table 2). Most reports (59.7%) refer to the occurrence of myiasis in the head and neck; however, there are also several cases of genital myiasis. The vast majority (n= 51) of the articles about human myiasis caused by C. hominivorax are limited to simple case descriptions, and only a few articles show a therapeutic and/or epidemiological approach. Most records of human myiasis in Brazil are from the Southeast region (63.2%) (Table 1), particularly from Rio de Janeiro and São Paulo, which represent 29.4% and 26.4%, respectively, of all records of human myiasis from Brazil.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Human Myiasis"
+    },
+    {
+      "id": "p_ac756c63",
+      "text": "Although several dipteran species have been identified in human myiasis, C. hominivorax is by far the most important species, present in 63.9% of the cases. Other etiological agents of human myiasis included sarcophagids, found in 5.6% of the particles, as well as Cochliomyia macellaria (Fabricius, 1775), Chrysomya albiceps (Wiedemann, 1819), Eristalis tenax (Linnaeus, 1758) and Lucilia cuprina (Meigen, 1826) identified in 2.8% of the cases (Table 3).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Human Myiasis"
+    },
+    {
+      "id": "p_d46ce0cc",
+      "text": "Although myiasis studies themselves have provided robust information on screwworm distribution in Brazil, the lack of such studies in some states leaves a gap in the occurrence of this species in those regions. Actually, the absence of specific information for a particular region does not necessarily imply that either livestock or myiasis are not important at the region; instead, it most probably reflects the absence of studies on this particular subject in that state.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Adult records"
+    },
+    {
+      "id": "p_371643ac",
+      "text": "Additional information obtained from screwworm adult captures contributed to providing a more complete distribution of C. hominivorax in the country (Figure 2D, Table 2). Adults of C. hominivorax have been caught in several sites, mainly by traps baited with carcasses (ALVES et al., 2014;FARIA et al., 2018), rotting viscera or other decaying material (KOLLER et al., 2002(KOLLER et al., , 2011;;SOUSA et al., 2010;GONÇALVES et al., 2011;GADELHA et al., 2015;PEREIRA DE SOUSA et al., 2015, 2016;OLIVEIRA et al., 2016). Although decaying baits are not the best attractant to a fly species causing primary myiasis, this relatively inexpensive and simple choice has provided useful information on the distribution of C. hominivorax in Brazil (Figure 2E). In fact, of the 33 articles recording catches of C. hominivorax adults, 31 were about general Calliphoridae ecology or epidemiology.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(ALVES et al., 2014;",
+          "offset_start": 269,
+          "offset_end": 289
+        },
+        {
+          "type": "bibr",
+          "target": "#b88",
+          "text": "FARIA et al., 2018)",
+          "offset_start": 289,
+          "offset_end": 308
+        },
+        {
+          "type": "bibr",
+          "target": "#b125",
+          "text": "(KOLLER et al., 2002",
+          "offset_start": 353,
+          "offset_end": 373
+        },
+        {
+          "type": "bibr",
+          "target": "#b124",
+          "text": "(KOLLER et al., , 2011;;",
+          "offset_start": 373,
+          "offset_end": 397
+        },
+        {
+          "type": "bibr",
+          "target": "#b227",
+          "text": "SOUSA et al., 2010;",
+          "offset_start": 397,
+          "offset_end": 416
+        },
+        {
+          "type": "bibr",
+          "target": "#b114",
+          "text": "GONÇALVES et al., 2011;",
+          "offset_start": 416,
+          "offset_end": 439
+        },
+        {
+          "type": "bibr",
+          "target": "#b104",
+          "text": "GADELHA et al., 2015;",
+          "offset_start": 439,
+          "offset_end": 460
+        },
+        {
+          "type": "bibr",
+          "target": "#b180",
+          "text": "PEREIRA DE SOUSA et al., 2015",
+          "offset_start": 460,
+          "offset_end": 489
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", 2016;",
+          "offset_start": 489,
+          "offset_end": 496
+        },
+        {
+          "type": "bibr",
+          "target": "#b171",
+          "text": "OLIVEIRA et al., 2016)",
+          "offset_start": 496,
+          "offset_end": 518
+        }
+      ],
+      "head_section": "Adult records"
+    },
+    {
+      "id": "p_47734f08",
+      "text": "In general, of the 325 records with information on C. hominivorax distribution in Brazil, only 38 (11.7%) came from trapping studies. Although relatively little information was provided by such studies, C. hominivorax adults were caught in 14 states (Table 1), expanding their distribution to two more states and nine municipalities in which no information on myiasis was previously available.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Adult records"
+    },
+    {
+      "id": "p_f502e594",
+      "text": "Those situations reinforce that, despite the considerable number of studies on myiasis, the geographic distribution of the species in the country is not limited to the regions where such studies have been conducted.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Adult records"
+    },
+    {
+      "id": "p_bc1437b9",
+      "text": "Cochliomyia hominivorax is the most important species causing primary myiasis in livestock, pets and man in Brazil. Geographic distribution of the screwworm in Brazil based on historical and v. 28, n. 4, oct.-dec. 2019 555/562 555 Cochliomyia hominivorax in Brazil recently published data confirms its distribution throughout the country. Although most records were from cattle studies, the occurrence of primary myiasis has been quite reported in pets as well as in humans, evidence of the social and economic importance of the screwworm in both human and animal health.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "historical and v. 28, n. 4, oct.-dec. 2019",
+          "offset_start": 176,
+          "offset_end": 218
+        }
+      ],
+      "head_section": "Conclusions"
+    },
+    {
+      "id": "p_59bce7bf",
+      "text": "The authors wish to thank the CNPq (Brazilian National Council for Scientific and Technological Development) for awarding a scholarship to V.A.F. Santos and a fellowship to L.M. Costa-Júnior. We also thank FINEP (Funding Authority for Studies and Projects) and FAPEMA (Maranhão State Research Foundation) for supporting the IECT (Science and Technology Institute of Maranhão) Biotechnology.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgements"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Figure 1 .",
+      "type": "figure",
+      "desc": "Figure 1. Temporal distribution of scientific publications (n= 168) recording Cochliomyia hominivorax immatures (myiasis) and adults' in Brazil from 1875 to 2017.",
+      "note": "",
+      "coords": [
+        {
+          "x": 2.0,
+          "y": 337.11,
+          "width": 531.38,
+          "height": 186.1
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Figure 2 .",
+      "type": "figure",
+      "desc": "Figure 2. Distribution of Cochliomyia hominivorax records in Brazil: cattle myiasis (A); pets, other livestock and wildlife myiasis (B); human myiasis (C); adult trapping (D); and overall species distribution (E). Records without host were considered to overall species distribution map.",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 45.87,
+          "width": 362.1,
+          "height": 475.19
+        }
+      ]
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1 .",
+      "type": "table",
+      "desc": "Frequency distribution (%) of Cochliomyia hominivorax myiasis and adult records from articles published from 1875 to 2017 (n = 174) in Brazil.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Region",
+            "Humans",
+            "Myiasis records* Cattle",
+            "Other hosts",
+            "Trapping records",
+            "Total"
+          ],
+          [
+            "North",
+            "5.9 (4)",
+            "6.8 (10)",
+            "2.5 (1)",
+            "10.5 (4)",
+            "6.5 (19)"
+          ],
+          [
+            "Northeast",
+            "13.2 (9)",
+            "5.5 (8)",
+            "27.5 (11)",
+            "21.1 (8)",
+            "12.3 (36)"
+          ],
+          [
+            "Midwest",
+            "1.5 (1)",
+            "30.8 (45)",
+            "15.0 (6)",
+            "26.3 (10)",
+            "21.2 (62)"
+          ],
+          [
+            "Southeast",
+            "63.2 (43)",
+            "34.2 (50)",
+            "45.0 (18)",
+            "28.9 (11)",
+            "41.8 (122)"
+          ],
+          [
+            "South",
+            "16.2 (11)",
+            "22.6 (33)",
+            "10.0 (4)",
+            "13.2 (5)",
+            "18.2 (53)"
+          ],
+          [
+            "Total of Records",
+            "68",
+            "146",
+            "40",
+            "38",
+            "292"
+          ]
+        ],
+        "metadata": {
+          "row_count": 7,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "*Records without host (n = 32) or state (n = 1) identification were not considered in the present analysis. The frequency is followed by number of records in this table.",
+      "coords": []
+    },
+    {
+      "id": "tab_2",
+      "label": "2",
+      "head": "Table 2 .",
+      "type": "table",
+      "desc": "Geographic occurrence of Cochliomyia hominivorax according to published records of myiasis occurrence and adult catches in Brazil.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "State",
+            "Municipalities",
+            "Reference"
+          ],
+          [
+            "AC",
+            "Rio Branco",
+            "Fresia et al., 2014; Mastrangelo et al., 2014; Reis et al., 2016"
+          ],
+          [
+            "AM",
+            "Coari 1 , Manaus, Porto Urucu 1 , Tefé",
+            "Lessinger & Azeredo-Espin, 2000; Litjens et al., 2001;"
+          ],
+          [
+            "",
+            "",
+            "Azeredo-Espin & Lessinger, 2006; Esposito et al., 2010;"
+          ],
+          [
+            "",
+            "",
+            "Sousa et al., 2010; Fresia et al., 2014; Mastrangelo et al., 2014"
+          ],
+          [
+            "AP",
+            "Serra do Navio 1",
+            "Couri et al., 2000"
+          ],
+          [
+            "BA",
+            "Barra do Choça, Feira de Santana 1 , Irecê, Itambé, Jaguaripe,",
+            "Azeredo-Espin, 1987; Caproni et al., 1998; Junqueira et al.,"
+          ],
+          [
+            "",
+            "Morro do Chapéu",
+            "2002; Azeredo-Espin & Lessinger, 2006; Almeida et al., 2008;"
+          ],
+          [
+            "",
+            "",
+            "Fresia, 2011; Bergamo et al., 2015; Santos & Andena, 2017"
+          ],
+          [
+            "CE",
+            "Fortaleza, Sobral",
+            "Costa & Vieira, 1984; Jorge et al., 2016"
+          ],
+          [
+            "DF",
+            "Brasília 2",
+            "Cansi et al., 2011; Cansi & Bonorino, 2011; Cansi & Demo,"
+          ],
+          [
+            "",
+            "",
+            "2011; Harterreiten-Souza & Pujol-Luz, 2012; Name et al., 2012;"
+          ],
+          [
+            "",
+            "",
+            "Kosmann, 2013"
+          ],
+          [
+            "ES",
+            "Santa Teresa 1",
+            "Barbosa et al., 2014"
+          ],
+          [
+            "GO",
+            "Caiapônia, Catalão, Goianésia, Goiânia, Goianira, Itaberaí, Jataí,",
+            ""
+          ],
+          [
+            "",
+            "Jussara, Porangatu, Quirinópolis, Rio Verde",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 16,
+          "column_count": 3,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_4",
+      "label": "3",
+      "head": "Table 3 .",
+      "type": "table",
+      "desc": "Frequency of published records of myiasis by dipteran species and hosts in Brazil.1   ",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Diptera species",
+            "Cattle (n = 150)",
+            "Humans (n = 108) a",
+            "Small ruminants (n = 30)",
+            "Others domestic animals (n = 28)",
+            "Wild mammals (n = 5)"
+          ],
+          [
+            "Calliphoridae",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Cochliomyia hominivorax",
+            "97.3 (146)",
+            "63.9 (69)",
+            "56.7 (17)",
+            "64.3 (18)",
+            "80.0 (4)"
+          ],
+          [
+            "Cochliomyia macellaria",
+            "-",
+            "2.8 (3)",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Chrysomya albiceps",
+            "-",
+            "2.8 (3)",
+            "3.3 (1)",
+            "-",
+            "-"
+          ],
+          [
+            "Chrysomya megacephala",
+            "-",
+            "1.8 (2)",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Lucilia cuprina",
+            "-",
+            "2.8 (3)",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Lucilia eximia 2",
+            "-",
+            "-",
+            "-",
+            "14.3 (4)",
+            "20.0 (1)"
+          ],
+          [
+            "Syrphidae",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Eristalis tenax",
+            "-",
+            "2.8 (3)",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Ornidia obesa",
+            "-",
+            "0.9 (1)",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Muscidae",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Musca domestica",
+            "-",
+            "0.9 (1)",
+            "-",
+            "3.6 (1)",
+            "-"
+          ],
+          [
+            "Sarcophagidae",
+            "-",
+            "5.6 (6) 3",
+            "-",
+            "-",
+            "-"
+          ],
+          [
+            "Not identified",
+            "2.7 (4)",
+            "15.7 (17)",
+            "40.0 (12)",
+            "17.9 (5)",
+            "-"
+          ]
+        ],
+        "metadata": {
+          "row_count": 15,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "a",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "authors": "Bianchin",
+      "journal": "Pires",
+      "publisher": "Lyra et al",
+      "publication_date": "1991",
+      "year": 1991,
+      "notes": "Barros et al., 2010a,b; Corrêa et al."
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "authors": "Xavier ; Fresia",
+      "publisher": "Salinas & Lima",
+      "publication_date": "2010",
+      "year": 2010
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "authors": [
+        "Chapada Mt Barra Das Garças",
+        "Dos Guimarães",
+        "Cocalinhos",
+        "Cuiabá",
+        "Guiratinga",
+        "Juara",
+        "Primavera Jucimeira",
+        "Do Leste",
+        "São Rondonópolis",
+        "José Dos Quatro Marcos",
+        "Tangará Sinop",
+        "; Da Serra",
+        "Caproni"
+      ],
+      "journal": "Tesouro Rivera & Aycardi",
+      "publisher": "Fresia et al",
+      "publication_date": "1985",
+      "year": 1985,
+      "notes": "Azeredo-Espin"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "authors": [
+        "Pa Alenquer",
+        "Altamira",
+        "Santa Belém",
+        "Santarém Maria Das Barreiras",
+        "Caproni"
+      ],
+      "publisher": "Fresia et al",
+      "publication_date": "1998",
+      "year": 1998,
+      "notes": "Ribeiro et al., 2012a; Mastrangelo et al."
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "authors": [
+        "Campina Pb",
+        "; Grande",
+        "Alves"
+      ],
+      "journal": "São José dos Cordeiros 1 Fresia et al",
+      "publisher": "Cavalcante et al",
+      "publication_date": "2013",
+      "year": 2013,
+      "notes": "Holanda et al."
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "journal": "PE Brejo da Madre de Deus",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "1",
+      "notes": "Fresia"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "authors": "Laureano-Filho",
+      "publisher": "Arruda et al",
+      "publication_date": "2011",
+      "year": 2011
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Municipalities with no numbers mean myiasis records; numbered sites mean C. hominivorax adult catches (1) and adult catches/myiasis records (2)",
+      "journal": "Oliveira",
+      "publisher": "Muniz et al",
+      "publication_date": "1980",
+      "year": 1980,
+      "notes": "Almeida"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "authors": [
+        "& Sanavria",
+        "; Prata",
+        "Taylor"
+      ],
+      "publisher": "Passos et al",
+      "publication_date": "1996",
+      "year": 1996
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "authors": "Cramer-Ribeiro",
+      "journal": "Almeida & Fraga",
+      "publisher": "Marquez et al",
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "authors": "Mendes-De-Almeida",
+      "editors": "Ferraz",
+      "journal": "Pires",
+      "publisher": "Deleito & Moya-Borja",
+      "publication_date": "2007",
+      "year": 2007
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "authors": [
+        "; Batista-Da-Silva",
+        "Braga"
+      ],
+      "journal": "Fresia",
+      "publisher": "Rodrigues et al",
+      "publication_date": "2011",
+      "year": 2011
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "authors": [
+        "Touros Rn Mossoró",
+        "Bezerra"
+      ],
+      "publication_date": "2010",
+      "year": 2010
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "authors": [
+        "Ro Ariquemes",
+        "P Cacoal",
+        "Porto Bueno",
+        "Presidente Velho 2",
+        "Médici Caproni"
+      ],
+      "publisher": "Serbino et al",
+      "publication_date": "1998",
+      "year": 1998
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "authors": [
+        "Vista Boa",
+        "Fresia"
+      ],
+      "publisher": "Mastrangelo et al",
+      "publication_date": "2014",
+      "year": 2014
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "São Lourenço do Sul, São Valentim",
+      "authors": [
+        "Rs Bossoroca",
+        "Camaquã",
+        "Capão Canoas",
+        "Fagundes Do Leão 2",
+        "Varela",
+        "Guaíba",
+        "Pinheiro Pelotas",
+        "; Machado",
+        "Ribeiro"
+      ],
+      "publisher": "Spagnol et al",
+      "publication_date": "1939",
+      "year": 1939,
+      "notes": "Azeredo-Espin Ribeiro et al."
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "authors": [
+        "; Fighera",
+        "Lyra"
+      ],
+      "publisher": "Azevedo & Krüger",
+      "publication_date": "2008",
+      "year": 2008,
+      "notes": "Reck"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "authors": [
+        "Celso Sc Blumenau",
+        "Ramos"
+      ]
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "authors": "Lages Caproni",
+      "publisher": "Paim",
+      "publication_date": "1998",
+      "year": 1998
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "authors": "Bernaschina",
+      "publication_date": "2016",
+      "year": 2016
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "authors": [
+        "Dantas Se Riachão Do",
+        "Caproni"
+      ],
+      "publication_date": "1998",
+      "year": 1998
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "authors": [
+        "Águas Sp Adamantina",
+        "Amparo Da Prata",
+        "Araçatuba",
+        "Arandu",
+        "Araraquara",
+        "Barretos",
+        "Batatais",
+        "; Bragança Botucatu",
+        "; Paulista",
+        "Abdallah"
+      ],
+      "journal": "Azeredo-Espin & Lessinger",
+      "publisher": "Giglioti et al",
+      "publication_date": "1938",
+      "year": 1938,
+      "notes": "Azeredo-Espin Vargas & Azeredo-Espin Lyra et al. Loureiro et al. Baptista Ribeiro & Monnazzi"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "authors": [
+        "To Araguaína",
+        "Porto Gurupi",
+        "& Nacional Rivera",
+        "Aycardi"
+      ],
+      "publisher": "Caproni et al",
+      "publication_date": "1985",
+      "year": 1985
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Municipalities with no numbers mean myiasis records; numbered sites mean C. hominivorax adult catches (1) and adult catches/myiasis records (2). Table 2. Continued",
+      "publication_date": "2019-12",
+      "year": 2019,
+      "volume": "28"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Primary myiasis in buffaloes--Bufalos bubais L., 1758--of the state of São Paulo, Brazil, by Cochliomyia hominivorax (Coquerel, 1858), Diptera Calliphoridae",
+      "authors": [
+        "References Abdallah",
+        "S Rocha",
+        "U Serra",
+        "O Oba",
+        "M Serra",
+        "R"
+      ],
+      "journal": "Rev Farm Bioquim Univ Sao Paulo",
+      "publication_date": "1970",
+      "year": 1970,
+      "volume": "8",
+      "issue": "1",
+      "page_start": "135",
+      "page_end": "138",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:5527072",
+        "biblstruct_identifiers_unknown": "PMid:5527072"
+      }
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Oral myiasis: a case report",
+      "authors": [
+        "E Abdo",
+        "A Sette-Dias",
+        "C Comunian",
+        "C Dutra",
+        "E Aguiar"
+      ],
+      "journal": "Med Oral Patol Oral Cir Bucal",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "11",
+      "issue": "2",
+      "page_start": "130",
+      "page_end": "131",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:16505789",
+        "biblstruct_identifiers_unknown": "PMid:16505789"
+      }
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Zoonosis y Enfermidades Transmissibles Comunes al Hombre y a los animals",
+      "authors": [
+        "P Acha",
+        "B Szyfres"
+      ],
+      "journal": "Volumen II",
+      "publisher": "Clamidiosis, rickettsiosis y virosis"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Washington: Pan American Health Organization",
+      "publication_date": "2003",
+      "year": 2003
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Ocorrência de ectoparasitos em avestruzes (Struthio camelus) criados no semi-árido Baiano",
+      "authors": [
+        "M Almeida",
+        "L Duarte",
+        "J Rocha",
+        "M Silva",
+        "J Guimarães",
+        "M Ayres"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "17",
+      "issue": "3",
+      "page_start": "155",
+      "page_end": "157",
+      "doi": "10.1590/S1984-29612008000300007",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:19245762",
+        "biblstruct_identifiers_unknown": "PMid:19245762"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1984-29612008000300007",
+        "http://dx.doi.org/10.1590/S1984-29612008000300007"
+      ]
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Blowflies (Diptera, Calliphoridae) associated with pig carcasses in a Caatinga area",
+      "authors": [
+        "A Alves",
+        "W Santos",
+        "R Farias",
+        "A Creão-Duarte"
+      ],
+      "journal": "Northeastern Brazil. Neotrop Entomol",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "43",
+      "issue": "2",
+      "page_start": "122",
+      "page_end": "126",
+      "doi": "10.1007/s13744-013-0195-4",
+      "identifiers": {
+        "analytic_identifiers_unknown": "13744-013-0195-4. PMid:27193518",
+        "biblstruct_identifiers_unknown": "13744-013-0195-4. PMid:27193518"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/s",
+        "http://dx.doi.org/10.1007/s"
+      ]
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Epidemiology of sheep myiases in São Paulo state",
+      "authors": [
+        "Aft Amarante",
+        "M Barbosa",
+        "T Oliveira-Sequeira",
+        "S Fernandes"
+      ],
+      "journal": "Brazil. Trop Anim Health Prod",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "24",
+      "issue": "1",
+      "page_start": "36",
+      "page_end": "39",
+      "doi": "10.1007/BF02357234",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:1306916",
+        "biblstruct_identifiers_unknown": "PMid:1306916"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/BF02357234",
+        "http://dx.doi.org/10.1007/BF02357234"
+      ]
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Atividade terapêutica do spinosad contra larvas de Cochliomyia hominivorax",
+      "authors": "Caa Amos",
+      "publication_date": "2009",
+      "year": 2009
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Oral and maxillofacial myiasis: a case series and literature review. Oral Surg Oral Med Oral Pathol Oral Radiol Endod",
+      "authors": [
+        "A Antunes",
+        "T Santos",
+        "R Avelar",
+        "E Martins",
+        "Macedo No",
+        "B Neres",
+        "J Laureano",
+        "Fo"
+      ],
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "112",
+      "pages": "85",
+      "doi": "10.1016/j.tripleo.2011.05.026",
+      "identifiers": {
+        "monograph_identifiers_unknown": "PMid:21872507",
+        "biblstruct_identifiers_unknown": "PMid:21872507"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.tripleo.2011.05.026",
+        "http://dx.doi.org/10.1016/j.tripleo.2011.05.026"
+      ]
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Head and neck myiasis: a case series and review of the literature. Oral Surg Oral Med Oral Pathol Oral Radiol",
+      "authors": [
+        "Jaa Arruda",
+        "Oliveira Silva",
+        "L Silva",
+        "Puj Figueiredo",
+        "E Callou",
+        "G Mesquita",
+        "R"
+      ],
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "124",
+      "pages": "16502089",
+      "doi": "10.1007/s10709-005-1439-y",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:28822697",
+        "biblstruct_identifiers_unknown": "PMid:28822697"
+      },
+      "notes": "Genetic approaches for studying myiasis-causing flies: molecular markers and mitochondrial genomics Genetica",
+      "urls": [
+        "http://dx.doi.org/10.1007/s10709-005-1439-y.PMid",
+        "http://dx.doi.org/10.1007/s10709-005-1439-y.PMid"
+      ]
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Primary myiasis in dog caused by Phaenicia eximia (Diptera: Calliphoridae) and preliminary mitochondrial DNA analysis of the species in Brazil",
+      "authors": [
+        "A Azeredo-Espin",
+        "N Madeira"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "33",
+      "issue": "5",
+      "page_start": "839",
+      "page_end": "843",
+      "doi": "10.1093/jmedent/33.5.839",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:8840693",
+        "biblstruct_identifiers_unknown": "PMid:8840693"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1093/jmedent/33.5.839",
+        "http://dx.doi.org/10.1093/jmedent/33.5.839"
+      ]
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Análise cariotípica, morfométrica e de compatibilidade sexual, em linhagens brasileiras de Cochliomyia hominivorax (Diptera: Calliphoridae) [tese]",
+      "authors": "A Azeredo-Espin",
+      "publisher": "Universidade de Campinas",
+      "publication_date": "1987",
+      "year": 1987
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "The influence of temperature and humidity on abundance and richness of Calliphoridae (Diptera)",
+      "authors": [
+        "R Azevedo",
+        "R Krüger"
+      ],
+      "journal": "Iheringia Ser Zool",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "103",
+      "issue": "2",
+      "page_start": "145",
+      "page_end": "152",
+      "doi": "10.1590/S0073-47212013000200010",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0073-47212013000200010",
+        "http://dx.doi.org/10.1590/S0073-47212013000200010"
+      ]
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Record of the first cases of human myiasis by Lucilia cuprina (Diptera: Calliphoridae), Rio de Janeiro, Brazil",
+      "authors": [
+        "W Azevedo",
+        "A Figueiredo",
+        "R Carvalho",
+        "G Lemos",
+        "P Silva",
+        "T Miranda"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "52",
+      "issue": "6",
+      "page_start": "1368",
+      "page_end": "1373",
+      "doi": "10.1093/jme/tjv130",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26336269",
+        "biblstruct_identifiers_unknown": "PMid:26336269"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1093/jme/tjv130",
+        "http://dx.doi.org/10.1093/jme/tjv130"
+      ]
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Images in clinical medicine. Nasal myiasis",
+      "authors": "M Baptista",
+      "journal": "N Engl J Med",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "372",
+      "issue": "12",
+      "pages": "17",
+      "doi": "10.1056/NEJMicm1403473",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:25785986",
+        "biblstruct_identifiers_unknown": "PMid:25785986"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1056/NEJMicm1403473",
+        "http://dx.doi.org/10.1056/NEJMicm1403473"
+      ]
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Muscidae, Sarcophagidae, Calliphoridae e Mesembrinellidae (Diptera) da Estação Biológica de Santa Lúcia",
+      "authors": [
+        "L Barbosa",
+        "A Cunha",
+        "M Couri",
+        "Maia Vc"
+      ],
+      "journal": "Bol Mus Biol Mello Leitão",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "33",
+      "page_start": "131",
+      "page_end": "140"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Oral infection by Diptera larvae in children: a case report",
+      "authors": [
+        "T Barbosa",
+        "Salvitti Sá Rocha",
+        "R Guirado",
+        "C Rocha",
+        "F",
+        "Duarte Gavião",
+        "M"
+      ],
+      "journal": "Int J Dermatol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "47",
+      "issue": "7",
+      "page_start": "696",
+      "page_end": "699",
+      "doi": "10.1111/j.1365-4632.2008.03725.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:18613876",
+        "biblstruct_identifiers_unknown": "PMid:18613876"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/j.1365-4632.2008.03725.x",
+        "http://dx.doi.org/10.1111/j.1365-4632.2008.03725.x"
+      ]
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Projeto demonstrativo de controle e possível erradicação da mosca da bicheira",
+      "authors": [
+        "J Barrientos Pontes",
+        "Jev Severo",
+        "Efc Garcia",
+        "R Colares",
+        "Kohek Jr",
+        "I Reverbel",
+        "M"
+      ],
+      "journal": "Hora Vet",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "29",
+      "issue": "171",
+      "page_start": "28",
+      "page_end": "30"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "A severe case of cutaneous myiasis in Sao Goncalo, Brazil, and a simple technique to extract New World screw-worm Cochliomyia hominivorax (Coquerel) (Diptera: calliphoridae)",
+      "authors": [
+        "Atm Barros",
+        "E Ravaglia",
+        "W Aquino",
+        "W Passos",
+        "Ltb Leite",
+        "Circular Técnica",
+        "Embrapa Ravaglia",
+        "E Aquino",
+        "W Passos",
+        "W Leite",
+        "Ltb ; Silva",
+        "J Abádio",
+        "H Queiroz",
+        "Mmc ; Batista-Da-Silva",
+        "J Moya-Borja",
+        "G Queiroz",
+        "Mmc"
+      ],
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "90",
+      "pages": "23950071",
+      "doi": "10.1007/s13744-012-0038-8",
+      "notes": "EMBRAPA Avaliação de Extratos Vegetais na Prevenção e tratamento de Miíases Umbilicais em Bezerros no Pantanal EntomoBrasilis Miíase humana por Dermatobia hominis (Linneaus Jr.) (Diptera, Cuterebridae) e Cochliomyia hominivorax (Coquerel) (Diptera, Calliphoridae) em Sucessão Parasitaria Neotrop Entomol",
+      "urls": [
+        "http://dx.doi.org/10.1007/s13744-012-0038-8.PMid",
+        "http://dx.doi.org/10.1007/s13744-012-0038-8.PMid"
+      ]
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Factors of susceptibility of human myiasis caused by the New World screw-worm, Cochliomyia hominivorax in São Gonçalo",
+      "authors": [
+        "J Batista-Da-Silva",
+        "G Moya-Borja",
+        "Mmc Queiroz"
+      ],
+      "journal": "J Insect Sci",
+      "publication_date": "2011",
+      "year": 2011
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "doi": "10.1673/031.011.0114",
+      "identifiers": {
+        "monograph_identifiers_unknown": "PMid:21526934",
+        "biblstruct_identifiers_unknown": "PMid:21526934"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1673/031.011.0114",
+        "http://dx.doi.org/10.1673/031.011.0114"
+      ]
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Miíases Humanas Causadas por Larvas de Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) em São Gonçalo",
+      "authors": [
+        "J Batista-Da-Silva",
+        "G Moya-Borja",
+        "Mmc Queiroz"
+      ],
+      "journal": "RJ, Brasil: Uma Abordagem Sócio-Econômica. EntomoBrasilis",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "4",
+      "issue": "3",
+      "page_start": "144",
+      "page_end": "146",
+      "doi": "10.12741/ebrasilis.v4i3.141",
+      "urls": [
+        "http://dx.doi.org/10.12741/ebrasilis.v4i3.141",
+        "http://dx.doi.org/10.12741/ebrasilis.v4i3.141"
+      ]
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Patient with tracheostomy parasitized in hospital by larvae of the screwworm, Cochliomyia hominivorax",
+      "authors": [
+        "J Batista-Da-Silva",
+        "G Moya-Borja",
+        "Mmc Queiroz"
+      ],
+      "journal": "J Insect Sci",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "11",
+      "issue": "163",
+      "page_start": "1",
+      "page_end": "7",
+      "doi": "10.1673/031.011.16301",
+      "urls": [
+        "http://dx.doi.org/",
+        "http://dx.doi.org/"
+      ]
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "Efeito da poluição causada por óleo mineral sobre a comunidade de Calliphoridae (Diptera, Oestroidea) em manguezal",
+      "authors": "J Batista-Da-Silva",
+      "journal": "Entomotrópica",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "30",
+      "issue": "5",
+      "page_start": "43",
+      "page_end": "48"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "Incongruent nuclear and mitochondrial genetic structure of new world screwworm fly populations due to positive selection of mutations associated with dimethyl-and diethyl-organophosphates resistance",
+      "authors": [
+        "L Bergamo",
+        "P Fresia",
+        "A Azeredo-Espin"
+      ],
+      "journal": "PLoS One",
+      "publisher": "Universidade Federal de Santa Catarina",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "10",
+      "issue": "6",
+      "pages": "128441",
+      "doi": "10.1371/journal.pone.0128441",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26030866.",
+        "biblstruct_identifiers_unknown": "PMid:26030866."
+      },
+      "notes": "monografia",
+      "urls": [
+        "http://dx.doi.org/10.1371/journal.pone.0128441",
+        "http://dx.doi.org/10.1371/journal.pone.0128441"
+      ]
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "Ectoparasitos em caprinos e ovinos no município de Mossoró",
+      "authors": [
+        "Ads Bezerra",
+        "Smm Ahid",
+        "L Vieira",
+        "H Soares"
+      ],
+      "journal": "Cienc Anim Bras",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "11",
+      "issue": "1",
+      "page_start": "110",
+      "page_end": "116"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "Uso de ivermectin na prevenção das miíases em bezerros, de corte criados extensivamente",
+      "authors": [
+        "I Bianchin",
+        "E Corrêa",
+        "A Gomes",
+        "M Honer",
+        "J Curvo"
+      ],
+      "publisher": "EMBRAPA",
+      "publication_date": "1991",
+      "year": 1991,
+      "page_start": "1",
+      "page_end": "2",
+      "notes": "Comunicado técnico EMBRAPA Gado de Corte"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "Uso de ivermectin aplicado por via subcutânea na prevenção das miíases umbilicais em bezerros de corte criados extensivamente",
+      "authors": [
+        "I Bianchin",
+        "E Côrrea",
+        "M Honer",
+        "A Gomes",
+        "J Curvo"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "1992",
+      "year": 1992
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "Tratado de Myiasis: Ensaio de um estudo clínico sobre o papel das moscas na pathologia humana",
+      "authors": "J Bleyer",
+      "journal": "Livraria Economica",
+      "publication_date": "1905",
+      "year": 1905,
+      "pages": "98"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "Miíase associada a erisipela bolhosa",
+      "authors": [
+        "Lbf Braga",
+        "N Thompson",
+        "B Gadelha",
+        "Ara Veloso",
+        "M Hoerlle",
+        "Vma Coelho"
+      ],
+      "journal": "Rev Patol Trop",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "40",
+      "issue": "3",
+      "page_start": "271",
+      "page_end": "276"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "authors": "Lms Brandão E Menezes",
+      "publisher": "Faculdade de Medicina do Rio de Janeiro",
+      "publication_date": "1875",
+      "notes": "Bicheiro das fossas nazaes [tese"
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "Ectoparasitos em rebanhos de caprinos e ovinos na microrregião do Alto mearim e Grajaú, estado do Maranhão",
+      "authors": [
+        "Drb Brito",
+        "Acg Santos",
+        "Rmsnc Guerra"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "14",
+      "issue": "2",
+      "page_start": "59",
+      "page_end": "63",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:16153346",
+        "biblstruct_identifiers_unknown": "PMid:16153346"
+      }
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "Miasis cutánea por Cochliomyia hominivorax asociada a dermatitis seborreica",
+      "authors": [
+        "P Calderon",
+        "C Rojas",
+        "W Apt",
+        "D Castillo"
+      ],
+      "journal": "Rev Med Chil",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "145",
+      "issue": "2",
+      "page_start": "250",
+      "page_end": "254",
+      "doi": "10.4067/S0034-98872017000200013",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:28453592",
+        "biblstruct_identifiers_unknown": "PMid:28453592"
+      },
+      "urls": [
+        "http://dx.doi.org/10.4067/S0034-98872017000200013",
+        "http://dx.doi.org/10.4067/S0034-98872017000200013"
+      ]
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "Myiasis by Screw Worm Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) in a Wild Maned Wolf Chrysocyon brachyurus (Mammalia: Canidae)",
+      "authors": [
+        "E Cansi",
+        "R Bonorino",
+        "H Ataide",
+        "Pujol-Luz Jr"
+      ]
+    },
+    {
+      "id": "b59",
+      "target": "b58",
+      "authors": "Brazil Brasilia",
+      "journal": "Neotrop Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "40",
+      "issue": "1",
+      "page_start": "150",
+      "page_end": "151",
+      "doi": "10.1590/S1519-566X2011000100025",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21437499",
+        "biblstruct_identifiers_unknown": "PMid:21437499"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1519-566X2011000100025",
+        "http://dx.doi.org/10.1590/S1519-566X2011000100025"
+      ]
+    },
+    {
+      "id": "b60",
+      "target": "b59",
+      "title": "Miíase por Lucilia eximia (Diptera: Calliphoridae)",
+      "authors": [
+        "E Cansi",
+        "R Bonorino"
+      ]
+    },
+    {
+      "id": "b61",
+      "target": "b60",
+      "title": "Didelphis albiventris (Mammalia: Didelphidae) no Brasil Central",
+      "journal": "EntomoBrasilis",
+      "publication_date": "0160",
+      "volume": "4",
+      "issue": "3",
+      "page_start": "150",
+      "page_end": "151",
+      "doi": "10.12741/ebrasilis.v4i3.160",
+      "urls": [
+        "http://dx.doi.org/10.12741/ebrasilis",
+        "http://dx.doi.org/10.12741/ebrasilis"
+      ]
+    },
+    {
+      "id": "b62",
+      "target": "b61",
+      "title": "Ocorrência de miíases em animais de companhia no Distrito Federal",
+      "authors": [
+        "E Cansi",
+        "C Demo"
+      ],
+      "journal": "Brasil. Acta Sci Vet",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "39",
+      "issue": "3",
+      "pages": "982"
+    },
+    {
+      "id": "b63",
+      "target": "b62",
+      "title": "Persistent efficacy of doramectin and ivermectin in the prevention of natural Cochliomyia hominivorax infestations in cattle castrated 10 days after treatment",
+      "authors": [
+        "L Caproni",
+        "O Umehara",
+        "Lcb Gonçalves",
+        "E Moro"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "7",
+      "issue": "1",
+      "page_start": "57",
+      "page_end": "61"
+    },
+    {
+      "id": "b64",
+      "target": "b63",
+      "title": "Evolution of genes involved in feeding preference and metabolic processes in Calliphoridae (Diptera: calyptratae)",
+      "authors": [
+        "G Cardoso",
+        "M Marinho",
+        "R Monfardini",
+        "A Espin",
+        "T Torres"
+      ],
+      "journal": "PeerJ",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "4",
+      "pages": "2598",
+      "doi": "10.7717/peerj.2598",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:27812410",
+        "biblstruct_identifiers_unknown": "PMid:27812410"
+      },
+      "urls": [
+        "http://dx.doi.org/10.7717/peerj.2598",
+        "http://dx.doi.org/10.7717/peerj.2598"
+      ]
+    },
+    {
+      "id": "b65",
+      "target": "b64",
+      "title": "Selection and validation of reference genes for functional studies in the Calliphoridae family",
+      "authors": [
+        "G Cardoso",
+        "C Matiolli",
+        "A Azeredo-Espin",
+        "T Torres"
+      ],
+      "journal": "J Insect Sci",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "14",
+      "issue": "1",
+      "pages": "25373149",
+      "doi": "10.1093/jis/14.1.2",
+      "urls": [
+        "http://dx.doi.org/10.1093/jis/14.1.2.PMid",
+        "http://dx.doi.org/10.1093/jis/14.1.2.PMid"
+      ]
+    },
+    {
+      "id": "b66",
+      "target": "b65",
+      "title": "Surto de ceratoconjuntivite infecciosa bovina e hemoncose causando mortalidade em bezerros",
+      "authors": [
+        "Pms Carmo",
+        "A Vargas",
+        "D Rissi",
+        "J Oliveira-Filho",
+        "F Pierezan",
+        "R Lucena"
+      ],
+      "journal": "Pesq Vet Bras",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "31",
+      "issue": "5",
+      "page_start": "374",
+      "page_end": "378",
+      "doi": "10.1590/S0100-736X2011000500002",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2011000500002",
+        "http://dx.doi.org/10.1590/S0100-736X2011000500002"
+      ]
+    },
+    {
+      "id": "b67",
+      "target": "b66",
+      "title": "Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance",
+      "authors": [
+        "R Carvalho",
+        "A Azeredo-Espin",
+        "T Torres"
+      ],
+      "journal": "BMC Genomics",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "11",
+      "issue": "1",
+      "pages": "695",
+      "doi": "10.1186/1471-2164-11-695",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21143848",
+        "biblstruct_identifiers_unknown": "PMid:21143848"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1186/1471-2164-11-695",
+        "http://dx.doi.org/10.1186/1471-2164-11-695"
+      ]
+    },
+    {
+      "id": "b68",
+      "target": "b67",
+      "title": "Molecular characterization of esterase E3 gene associated with organophosphorus insecticide resistance in the New World screwworm fly, Cochliomyia hominivorax",
+      "authors": [
+        "R Carvalho",
+        "T Torres",
+        "M Paniago",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "page_start": "86",
+      "page_end": "91",
+      "doi": "10.1111/j.1365-2915.2008.00788.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:19335834",
+        "biblstruct_identifiers_unknown": "PMid:19335834"
+      },
+      "notes": "Suppl. 1",
+      "urls": [
+        "http://dx.doi.org/10.1111/j.1365-2915.2008.00788.x",
+        "http://dx.doi.org/10.1111/j.1365-2915.2008.00788.x"
+      ]
+    },
+    {
+      "id": "b69",
+      "target": "b68",
+      "title": "Oral and maxillofacial myiasis associated with epidermoid carcinoma: a case report",
+      "authors": [
+        "R Carvalho",
+        "T Santos",
+        "A Antunes",
+        "J Laureano",
+        "Fo",
+        "E Anjos",
+        "R Catunda"
+      ],
+      "journal": "J Oral Sci",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "50",
+      "issue": "1",
+      "page_start": "103",
+      "page_end": "105",
+      "doi": "10.2334/josnusd.50.103",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:18403893",
+        "biblstruct_identifiers_unknown": "PMid:18403893"
+      },
+      "urls": [
+        "http://dx.doi.org/10.2334/josnusd.50.103",
+        "http://dx.doi.org/10.2334/josnusd.50.103"
+      ]
+    },
+    {
+      "id": "b70",
+      "target": "b69",
+      "title": "Pós-Morte (IPM)",
+      "authors": [
+        "Anp Cavalcante",
+        "D Dal-Bó",
+        "A Creão-Duarte",
+        "Rcap Farias"
+      ],
+      "journal": "Entomotrópica",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "30",
+      "issue": "15",
+      "page_start": "150",
+      "page_end": "159"
+    },
+    {
+      "id": "b71",
+      "target": "b70",
+      "title": "Miíase humana bucal por Cochliomyia hominivorax (Coquerel, 1858) em Nova Esperança, estado do Paraná",
+      "authors": [
+        "M Chicarelli",
+        "A Daniel",
+        "M Santoro",
+        "Teodoro"
+      ],
+      "journal": "Brasil. Rev Fac Odontol -UPF",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "7",
+      "issue": "2",
+      "page_start": "39",
+      "page_end": "41",
+      "doi": "10.5335/rfo.v7i2.1217",
+      "urls": [
+        "https://doi.org/10.5335/rfo.v7i2.1217",
+        "https://doi.org/10.5335/rfo.v7i2.1217"
+      ]
+    },
+    {
+      "id": "b72",
+      "target": "b71",
+      "title": "A transgenic male-only strain of the New World screwworm for an improved control program using the sterile insect technique",
+      "authors": [
+        "C Concha",
+        "A Palavesam",
+        "F Guerrero",
+        "A Sagel",
+        "F Li",
+        "J Osborne"
+      ],
+      "journal": "BMC Biol",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "14",
+      "issue": "1",
+      "pages": "27576512",
+      "doi": "10.1186/s12915-016-0296-8",
+      "urls": [
+        "http://dx.doi.org/10.1186/s12915-016-0296-8.PMid",
+        "http://dx.doi.org/10.1186/s12915-016-0296-8.PMid"
+      ]
+    },
+    {
+      "id": "b73",
+      "target": "b72",
+      "title": "Chrysomya (Diptera: Calliphoridae) relative abundance and species seasonality in the Pantanal, State of Mato Grosso do Sul",
+      "authors": [
+        "E Corrêa",
+        "W Koller",
+        "Atm Barros"
+      ],
+      "journal": "Brazil. Rev Bras Parasitol Vet",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "19",
+      "issue": "2",
+      "page_start": "85",
+      "page_end": "88",
+      "doi": "10.4322/rbpv.01902003",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:20624343",
+        "biblstruct_identifiers_unknown": "PMid:20624343"
+      },
+      "urls": [
+        "http://dx.doi.org/10.4322/rbpv.01902003",
+        "http://dx.doi.org/10.4322/rbpv.01902003"
+      ]
+    },
+    {
+      "id": "b74",
+      "target": "b73",
+      "title": "Larvicidal efficacy of nitenpyram on the treatment of myiasis caused by Cochliomyia hominivorax (Diptera: Calliphoridae) in dogs",
+      "authors": [
+        "T Correia",
+        "F Scott",
+        "G Verocai",
+        "C Souza",
+        "J Fernandes",
+        "R Melo"
+      ],
+      "publication_date_text": "oct.-dec. 2019 557",
+      "year": 2019,
+      "volume": "28",
+      "pages": "557"
+    },
+    {
+      "id": "b75",
+      "target": "b74",
+      "journal": "Cochliomyia hominivorax in Brazil Vet Parasitol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "173",
+      "issue": "1-2",
+      "page_start": "169",
+      "page_end": "172",
+      "doi": "10.1016/j.vetpar.2010.06.019",
+      "identifiers": {
+        "analytic_identifiers_unknown": "06.019. PMid:20638181",
+        "biblstruct_identifiers_unknown": "06.019. PMid:20638181"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.vetpar",
+        "http://dx.doi.org/10.1016/j.vetpar"
+      ]
+    },
+    {
+      "id": "b76",
+      "target": "b75",
+      "title": "Ectoparasitos permanentes de caprinos e ovinos em Sobral, CE",
+      "authors": [
+        "Caf Costa",
+        "L Vieira"
+      ],
+      "journal": "Pesqui Agropecu Bras",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "19",
+      "issue": "5",
+      "page_start": "639",
+      "page_end": "646"
+    },
+    {
+      "id": "b77",
+      "target": "b76",
+      "title": "Hipertratamento de miíase decorrente de trauma facial complexo",
+      "authors": [
+        "F Costa",
+        "A Bellotti",
+        "G Farah",
+        "E Camarini"
+      ],
+      "journal": "Rev Cir Traumatol Buco-Maxilo-Fac",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "12",
+      "issue": "3",
+      "page_start": "17",
+      "page_end": "24"
+    },
+    {
+      "id": "b78",
+      "target": "b77",
+      "title": "): Asilidae, Bombyliidae, Calliphoridae, Micropezidae, Muscidae, Sarcophagidae, Stratiomyiidae, Syrphidae, Tabanidae e Tachinidae",
+      "authors": [
+        "M Couri",
+        "Cje Lamas",
+        "Ccc Aires",
+        "C Mello-Patiu",
+        "Maia Vc",
+        "D Pamplona"
+      ],
+      "journal": "Rev Bras Zoociênc",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "2",
+      "issue": "1-2",
+      "page_start": "91",
+      "page_end": "101",
+      "notes": "Diptera da Serra do Navio"
+    },
+    {
+      "id": "b79",
+      "target": "b78",
+      "title": "Inquiry of cases of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000",
+      "authors": [
+        "B Cramer-Ribeiro",
+        "A Sanavria",
+        "Hhm Monteiro",
+        "M Oliveira",
+        "F Souza"
+      ],
+      "journal": "Braz J Vet Res Anim Sci",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "40",
+      "issue": "1",
+      "page_start": "13",
+      "page_end": "20",
+      "doi": "10.1590/S1413-95962003000100001",
+      "urls": [
+        "http://dx.doi.org/10.1590/S1413-95962003000100001",
+        "http://dx.doi.org/10.1590/S1413-95962003000100001"
+      ]
+    },
+    {
+      "id": "b80",
+      "target": "b79",
+      "authors": [
+        "B Cramer-Ribeiro",
+        "A Sanavria",
+        "M Oliveira",
+        "F Souza",
+        "F Rocco",
+        "P Cardoso"
+      ],
+      "journal": "Anim Sci",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "39",
+      "issue": "4",
+      "page_start": "171",
+      "page_end": "175",
+      "doi": "10.1590/S1413-95962002000400002",
+      "urls": [
+        "http://dx.doi.org/10.1590/S1413-95962002000400002",
+        "http://dx.doi.org/10.1590/S1413-95962002000400002"
+      ]
+    },
+    {
+      "id": "b81",
+      "target": "b80",
+      "authors": [
+        "B Cramer-Ribeiro",
+        "A Sanavria",
+        "M Oliveira",
+        "F Souza",
+        "F Rocco"
+      ],
+      "journal": "Cardoso Anim Sci",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "39",
+      "issue": "4",
+      "page_start": "165",
+      "page_end": "170",
+      "doi": "10.1590/S1413-95962002000400001",
+      "urls": [
+        "http://dx.doi.org/10.1590/S1413-95962002000400001",
+        "http://dx.doi.org/10.1590/S1413-95962002000400001"
+      ]
+    },
+    {
+      "id": "b82",
+      "target": "b81",
+      "title": "Efeito de diferentes iscas na atração de califorídeos (Diptera) no campus do Valonguinho",
+      "authors": [
+        "D' Almeida",
+        "J Fraga",
+        "M"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "16",
+      "issue": "4",
+      "page_start": "199",
+      "page_end": "204",
+      "doi": "10.1590/S1984-29612007000400004",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:18373895",
+        "biblstruct_identifiers_unknown": "PMid:18373895"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1984-29612007000400004",
+        "http://dx.doi.org/10.1590/S1984-29612007000400004"
+      ]
+    },
+    {
+      "id": "b83",
+      "target": "b82",
+      "title": "Sinantropia em dípteros caliptratos na área metropolitana do Rio de Janeiro",
+      "authors": [
+        "D' Almeida",
+        "J"
+      ],
+      "notes": "tese"
+    },
+    {
+      "id": "b84",
+      "target": "b83",
+      "authors": [
+        "Rio De",
+        "Janeiro"
+      ],
+      "publication_date": "1983",
+      "year": 1983
+    },
+    {
+      "id": "b85",
+      "target": "b84",
+      "title": "Nim (Azadirachta indica): uma alternativa no controle de moscas na pecuária",
+      "authors": [
+        "Csr Deleito",
+        "Moya-Borja Ge"
+      ],
+      "journal": "Pesq Vet Bras",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "28",
+      "issue": "6",
+      "page_start": "293",
+      "page_end": "298",
+      "doi": "10.1590/S0100-736X2008000600006",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2008000600006",
+        "http://dx.doi.org/10.1590/S0100-736X2008000600006"
+      ]
+    },
+    {
+      "id": "b86",
+      "target": "b85",
+      "title": "Ocorrência e tratamento de miíases cutâneas em ovinos criados em condições semiáridas no norte de Minas Gerais",
+      "authors": [
+        "E Duarte",
+        "F Rocha",
+        "L Teixeira",
+        "R Silva",
+        "F Nogueira",
+        "N Silva"
+      ],
+      "journal": "Pesq Vet Bras",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "32",
+      "issue": "6",
+      "page_start": "490",
+      "page_end": "494",
+      "doi": "10.1590/S0100-736X2012000600004",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2012000600004",
+        "http://dx.doi.org/10.1590/S0100-736X2012000600004"
+      ]
+    },
+    {
+      "id": "b87",
+      "target": "b86",
+      "title": "First record of myiasis in Aplastodiscus arildae (Anura: Hylidae) by Notochaeta bufonivora (Diptera: Sarcophagidae) in the Neotropical area",
+      "authors": [
+        "R Eizemberg",
+        "L Sabagh",
+        "R Mello"
+      ],
+      "journal": "Parasitol Res",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "102",
+      "issue": "2",
+      "pages": "17938961",
+      "doi": "10.1007/s00436-007-0767-5",
+      "urls": [
+        "http://dx.doi.org/10.1007/s00436-007-0767-5.PMid",
+        "http://dx.doi.org/10.1007/s00436-007-0767-5.PMid"
+      ]
+    },
+    {
+      "id": "b88",
+      "target": "b87",
+      "title": "Diversidade de Calliphoridae (Insecta: Diptera) na base de extração petrolífera da bacia do Rio Urucu, na Amazônia brasileira",
+      "authors": [
+        "M Esposito",
+        "Jrp Sousa",
+        "F Carvalho-Filho"
+      ],
+      "journal": "Acta Amaz",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "40",
+      "issue": "3",
+      "page_start": "579",
+      "page_end": "584",
+      "doi": "10.1590/S0044-59672010000300018",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0044-59672010000300018",
+        "http://dx.doi.org/10.1590/S0044-59672010000300018"
+      ]
+    },
+    {
+      "id": "b89",
+      "target": "b88",
+      "title": "Insects Associated with Pig Carrion in Two Environments of the Brazilian Savanna",
+      "authors": [
+        "L Faria",
+        "M Paseto",
+        "M Couri",
+        "C Mello-Patiu",
+        "J Mendes"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2018",
+      "year": 2018,
+      "volume": "47",
+      "issue": "2",
+      "page_start": "181",
+      "page_end": "198",
+      "doi": "10.1007/s13744-017-0518-y",
+      "identifiers": {
+        "analytic_identifiers_unknown": "13744-017-0518-y. PMid:28390027",
+        "biblstruct_identifiers_unknown": "13744-017-0518-y. PMid:28390027"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/s",
+        "http://dx.doi.org/10.1007/s"
+      ]
+    },
+    {
+      "id": "b90",
+      "target": "b89",
+      "title": "First report of human myiasis in Goiás state, Brazil: frequency of different types of myiasis, their various etiological agents, and associated factors",
+      "authors": [
+        "L Fernandes",
+        "F Pimenta",
+        "F Fernandes"
+      ],
+      "journal": "J Parasitol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "95",
+      "issue": "1",
+      "page_start": "32",
+      "page_end": "38",
+      "doi": "10.1645/GE-1103.1",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:18576696",
+        "biblstruct_identifiers_unknown": "PMid:18576696"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1645/GE-1103.1",
+        "http://dx.doi.org/10.1645/GE-1103.1"
+      ]
+    },
+    {
+      "id": "b91",
+      "target": "b90",
+      "title": "Epidemiological Study of Myiases in the Hospital do Andaraí, Rio de Janeiro",
+      "authors": [
+        "A Ferraz",
+        "Vrg Almeida",
+        "D Jesus",
+        "G Rotatori",
+        "R Nunes",
+        "B Proenca"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "40",
+      "issue": "3",
+      "page_start": "393",
+      "page_end": "397",
+      "doi": "10.1590/S1519-566X2011000300014",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21710036",
+        "biblstruct_identifiers_unknown": "PMid:21710036"
+      },
+      "notes": "Including Reference to an exotic etiological Agent",
+      "urls": [
+        "http://dx.doi.org/10.1590/S1519-566X2011000300014",
+        "http://dx.doi.org/10.1590/S1519-566X2011000300014"
+      ]
+    },
+    {
+      "id": "b92",
+      "target": "b91",
+      "title": "Influência climática e antrópica na abundância e riqueza de Calliphoridae (Diptera) em fragmento florestal da Reserva Biológica do Tinguá",
+      "authors": [
+        "A Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "RJ. Neotrop Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "39",
+      "issue": "4",
+      "page_start": "476",
+      "page_end": "485",
+      "doi": "10.1590/S1519-566X2010000400004",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:20877981",
+        "biblstruct_identifiers_unknown": "PMid:20877981"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1519-566X2010000400004",
+        "http://dx.doi.org/10.1590/S1519-566X2010000400004"
+      ]
+    },
+    {
+      "id": "b93",
+      "target": "b92",
+      "title": "Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biológica do Tinguá",
+      "authors": [
+        "A Ferraz",
+        "B Gadelha",
+        "M Queiroz",
+        "G Moya-Borja",
+        "Aguiar-Coelho Vm"
+      ],
+      "journal": "Braz J Biol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "70",
+      "issue": "1",
+      "page_start": "55",
+      "page_end": "63",
+      "doi": "10.1590/S1519-69842010000100009",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:20231960",
+        "biblstruct_identifiers_unknown": "PMid:20231960"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1519-69842010000100009",
+        "http://dx.doi.org/10.1590/S1519-69842010000100009"
+      ]
+    },
+    {
+      "id": "b94",
+      "target": "b93",
+      "title": "Raro caso de miíases por Cochliomyia hominivorax (Diptera: Calliphoridae) e Dermatobia hominis (Diptera: Oestridae) em paciente humano",
+      "authors": [
+        "A Ferraz",
+        "R Nunes",
+        "B Gadelha",
+        "B Nascimento",
+        "Prem Barros",
+        "Vma Coelho"
+      ],
+      "journal": "Arq Ciênc Saúde",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "15",
+      "issue": "3",
+      "page_start": "142",
+      "page_end": "144"
+    },
+    {
+      "id": "b95",
+      "target": "b94",
+      "title": "Causas de morte e razões para eutanásia em cães",
+      "authors": "R Fighera",
+      "notes": "tese"
+    },
+    {
+      "id": "b96",
+      "target": "b95",
+      "authors": "Santa Maria",
+      "publication_date": "2008",
+      "year": 2008
+    },
+    {
+      "id": "b97",
+      "target": "b96",
+      "title": "Diversidade genética de dípteros Calliphoridae de importância forense [tese]. Recife: Universidade Federal de Pernambuco",
+      "authors": [
+        "Cas Figueirêdo",
+        "M Figueiredo",
+        "Acg Santos",
+        "Rmsnc Guerra"
+      ],
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "30",
+      "page_start": "988",
+      "page_end": "990",
+      "doi": "10.1590/S0100-736X2010001100013",
+      "notes": "Ectoparasitos de animais silvestres no Maranhão. Pesq Vet Bras",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2010001100013",
+        "http://dx.doi.org/10.1590/S0100-736X2010001100013"
+      ]
+    },
+    {
+      "id": "b98",
+      "target": "b97",
+      "title": "Nasal foreign bodies: description of types and complications in 420 cases",
+      "authors": [
+        "R Figueiredo",
+        "A Azevedo",
+        "Ávila Kós",
+        "A Tomita",
+        "S"
+      ],
+      "journal": "Rev Bras Otorrinolaringol",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "72",
+      "issue": "1",
+      "page_start": "18",
+      "page_end": "23",
+      "doi": "10.1590/S0034-72992006000100004",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:16917548",
+        "biblstruct_identifiers_unknown": "PMid:16917548"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S0034-72992006000100004",
+        "http://dx.doi.org/10.1590/S0034-72992006000100004"
+      ]
+    },
+    {
+      "id": "b99",
+      "target": "b98",
+      "title": "Corpos estranhos animados em otorrinolaringologia",
+      "authors": [
+        "R Figueiredo",
+        "S Dorf",
+        "M Couri",
+        "A Azevedo",
+        "F Mossumez"
+      ],
+      "journal": "Rev Bras Otorrinolaringol",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "68",
+      "issue": "5",
+      "page_start": "722",
+      "page_end": "728",
+      "doi": "10.1590/S0034-72992002000500019",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0034-72992002000500019",
+        "http://dx.doi.org/10.1590/S0034-72992002000500019"
+      ]
+    },
+    {
+      "id": "b100",
+      "target": "b99",
+      "title": "A new host record for Philornis (Diptera, Muscidae)",
+      "authors": [
+        "I Franz",
+        "M Couri"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "issue": "4",
+      "page_start": "669",
+      "page_end": "670",
+      "doi": "10.1590/S0085-56262008000400020",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0085-56262008000400020",
+        "http://dx.doi.org/10.1590/S0085-56262008000400020"
+      ]
+    },
+    {
+      "id": "b101",
+      "target": "b100",
+      "title": "The phylogeographic history of the new world screwworm fly, inferred by approximate bayesian computation analysis",
+      "authors": [
+        "P Fresia",
+        "A Azeredo-Espin",
+        "M Lyra"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "8",
+      "issue": "10",
+      "pages": "76168",
+      "doi": "10.1371/journal.pone.0076168",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:24098436",
+        "biblstruct_identifiers_unknown": "PMid:24098436"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1371/journal.pone.0076168",
+        "http://dx.doi.org/10.1371/journal.pone.0076168"
+      ]
+    },
+    {
+      "id": "b102",
+      "target": "b101",
+      "title": "Genetic structure and demographic history of new world screwworm across its current geographic range",
+      "authors": [
+        "P Fresia",
+        "M Lyra",
+        "A Coronado",
+        "A Azeredo-Espin"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "48",
+      "issue": "2",
+      "page_start": "280",
+      "page_end": "290",
+      "doi": "10.1603/ME10153",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21485363",
+        "biblstruct_identifiers_unknown": "PMid:21485363"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1603/ME10153",
+        "http://dx.doi.org/10.1603/ME10153"
+      ]
+    },
+    {
+      "id": "b103",
+      "target": "b102",
+      "title": "Applying spatial analysis of genetic and environmental data to predict connection corridors to the New World screwworm populations in South America",
+      "authors": [
+        "P Fresia",
+        "M Silver",
+        "T Mastrangelo",
+        "A Azeredo-Espin",
+        "M Lyra"
+      ],
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "138",
+      "doi": "10.1016/j.actatropica.2014.04.003",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:24742908",
+        "biblstruct_identifiers_unknown": "PMid:24742908"
+      },
+      "notes": "Suppl.",
+      "urls": [
+        "http://dx.doi.org/10.1016/j.actatropica.2014.04.003",
+        "http://dx.doi.org/10.1016/j.actatropica.2014.04.003"
+      ]
+    },
+    {
+      "id": "b104",
+      "target": "b103",
+      "title": "Análise filogeográfica da mosca da bicheira",
+      "authors": "P Fresia",
+      "publisher": "Universidade de Campinas",
+      "publication_date": "2011",
+      "year": 2011,
+      "notes": "Cochliomyia hominivorax [tese"
+    },
+    {
+      "id": "b105",
+      "target": "b104",
+      "title": "Edge effects on the blowfly fauna (Diptera, Calliphoridae) of the Tijuca National Park",
+      "authors": [
+        "B Gadelha",
+        "A Ribeiro",
+        "V Aguiar",
+        "C Mello-Patiu"
+      ],
+      "journal": "Braz J Biol",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "75",
+      "issue": "4",
+      "page_start": "999",
+      "page_end": "1007",
+      "doi": "10.1590/1519-6984.05614",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26675918",
+        "biblstruct_identifiers_unknown": "PMid:26675918"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/1519-6984.05614",
+        "http://dx.doi.org/10.1590/1519-6984.05614"
+      ]
+    },
+    {
+      "id": "b106",
+      "target": "b105",
+      "title": "Human pseudomyiasis caused by Eristalis tenax (Linnaeus) (Diptera: Syrphidae)",
+      "authors": [
+        "M Garcia-Zapata",
+        "Ess Souza",
+        "Jr",
+        "F Fernandes",
+        "Sfo Santos"
+      ]
+    },
+    {
+      "id": "b107",
+      "target": "b106",
+      "journal": "Goiás. Rev Soc Bras Med Trop",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "38",
+      "issue": "2",
+      "page_start": "185",
+      "page_end": "187",
+      "doi": "10.1590/S0037-86822005000200012",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:15821797",
+        "biblstruct_identifiers_unknown": "PMid:15821797"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S0037-86822005000200012",
+        "http://dx.doi.org/10.1590/S0037-86822005000200012"
+      ]
+    },
+    {
+      "id": "b108",
+      "target": "b107",
+      "title": "Treatment of oral myiasis caused by Cochliomyia hominivorax: two cases treated with ivermectin",
+      "authors": [
+        "W Gealh",
+        "G Ferreira",
+        "G Farah",
+        "U Teodoro",
+        "E Camarini"
+      ],
+      "journal": "Br J Oral Maxillofac Surg",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "47",
+      "issue": "1",
+      "page_start": "23",
+      "page_end": "26",
+      "doi": "10.1016/j.bjoms.2008.04.009",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:18514983",
+        "biblstruct_identifiers_unknown": "PMid:18514983"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.bjoms.2008.04.009",
+        "http://dx.doi.org/10.1016/j.bjoms.2008.04.009"
+      ]
+    },
+    {
+      "id": "b109",
+      "target": "b108",
+      "title": "Control of gastrointestinal nematodes and productivity responses of grazing cattle treated with a two dose program of doramectin or ivermectin",
+      "authors": [
+        "S Gennari",
+        "N Kasai",
+        "L Caproni",
+        "Jr",
+        "O Umehara",
+        "L Gonçalves",
+        "C Derozier"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "issue": "1",
+      "page_start": "71",
+      "page_end": "75"
+    },
+    {
+      "id": "b110",
+      "target": "b109",
+      "title": "Proteolytic activity of excretory/secretory products of Cochliomyia hominivorax larvae (Diptera: calliphoridae)",
+      "authors": [
+        "R Giglioti",
+        "S Guimarães",
+        "T Oliveira-Sequeira",
+        "E David",
+        "L Brito",
+        "Mef Huacca"
+      ],
+      "publisher": "Pesq Vet Bras",
+      "publication_date": "2016",
+      "year": 2016
+    },
+    {
+      "id": "b111",
+      "target": "b110",
+      "page_start": "711",
+      "page_end": "718",
+      "doi": "10.1590/S0100-736X2016000800006",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2016000800006",
+        "http://dx.doi.org/10.1590/S0100-736X2016000800006"
+      ]
+    },
+    {
+      "id": "b112",
+      "target": "b111",
+      "title": "Flutuação populacional da mosca Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae) capturada em armadilhas orientadas pelo vento (W.O.T), no município de Campo Grande",
+      "authors": [
+        "A Gomes",
+        "W Koller",
+        "M Honer",
+        "R Silva"
+      ],
+      "journal": "MS. Rev Bras Parasitol Vet",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "7",
+      "issue": "1",
+      "page_start": "41",
+      "page_end": "45"
+    },
+    {
+      "id": "b113",
+      "target": "b112",
+      "title": "Cochliomyia homnivorax em estágio avançado na cavidade oral",
+      "authors": [
+        "R Gomes De Araújo",
+        "Lmo Hanna",
+        "L Gomes",
+        "Lhv Carvalho"
+      ],
+      "journal": "RGO",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "57",
+      "issue": "2",
+      "page_start": "229",
+      "page_end": "233"
+    },
+    {
+      "id": "b114",
+      "target": "b113",
+      "title": "Oral myiasis by screwworm Cochliomyia hominivorax",
+      "authors": [
+        "R Gomez",
+        "P Perdigão",
+        "F Pimenta",
+        "Rios Leite",
+        "A",
+        "Tanos De Lacerda",
+        "J Custódio",
+        "A No"
+      ],
+      "journal": "Br J Oral Maxillofac Surg",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "41",
+      "issue": "2",
+      "pages": "12694705",
+      "doi": "10.1016/S0266-4356(02)00302-9",
+      "urls": [
+        "http://dx.doi.org/10.1016/S0266-4356",
+        "http://dx.doi.org/10.1016/S0266-4356"
+      ]
+    },
+    {
+      "id": "b115",
+      "target": "b114",
+      "authors": [
+        "L Gonçalves",
+        "A Dias",
+        "C Espindola",
+        "F Almeida"
+      ],
+      "journal": "Brasil. Rev Bras Biol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "9",
+      "issue": "1",
+      "page_start": "50",
+      "page_end": "55"
+    },
+    {
+      "id": "b116",
+      "target": "b115",
+      "title": "Reassessment of the potential economic impact of cattle parasites in Brazil",
+      "authors": [
+        "L Grisi",
+        "R Leite",
+        "Jrs Martins",
+        "Atm Barros",
+        "R Andreotti",
+        "P Cançado"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "23",
+      "issue": "2",
+      "page_start": "150",
+      "page_end": "156",
+      "doi": "10.1590/S1984-29612014042",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:25054492",
+        "biblstruct_identifiers_unknown": "PMid:25054492"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1984-29612014042",
+        "http://dx.doi.org/10.1590/S1984-29612014042"
+      ]
+    },
+    {
+      "id": "b117",
+      "target": "b116",
+      "title": "Myiasis in man and animals in the Neotropical region: Bibliographic Database",
+      "authors": [
+        "J Guimarães",
+        "N Papavero"
+      ],
+      "publisher": "Plêiade/FAPESP",
+      "publication_date": "1999",
+      "year": 1999
+    },
+    {
+      "id": "b118",
+      "target": "b117",
+      "title": "Comparative morphology of the spermathecae of some species of Chrysomya Robineau-Desvoidy and Cochliomyia Townsend (Diptera, Calliphoridae)",
+      "authors": [
+        "E Harterreiten-Souza",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "56",
+      "issue": "1",
+      "page_start": "54",
+      "page_end": "58",
+      "doi": "10.1590/S0085-56262012005000002",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0085-56262012005000002",
+        "http://dx.doi.org/10.1590/S0085-56262012005000002"
+      ]
+    },
+    {
+      "id": "b119",
+      "target": "b118",
+      "title": "Myiasis of humans and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Adv Parasitol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "pages": "7709854",
+      "doi": "10.1016/S0065-308X(08)60073-1",
+      "urls": [
+        "http://dx.doi.org/10.1016/S0065-308X(08)60073-1.PMid",
+        "http://dx.doi.org/10.1016/S0065-308X(08)60073-1.PMid"
+      ]
+    },
+    {
+      "id": "b120",
+      "target": "b119",
+      "title": "Cerebral myiasis",
+      "authors": [
+        "L Holanda",
+        "B Pereira",
+        "C Holanda",
+        "J Oliveira"
+      ],
+      "journal": "Neurology",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "84",
+      "issue": "4",
+      "page_start": "434",
+      "page_end": "435",
+      "doi": "10.1212/WNL.0000000000001185",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:25628432",
+        "biblstruct_identifiers_unknown": "PMid:25628432"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1212/WNL.0000000000001185",
+        "http://dx.doi.org/10.1212/WNL.0000000000001185"
+      ]
+    },
+    {
+      "id": "b121",
+      "target": "b120",
+      "title": "Berne e Bicheira no Brasil. Brasília: Ministério da Agricultura",
+      "authors": [
+        "S Horn",
+        "R Antônio",
+        "Carrapato"
+      ],
+      "journal": "Instituto Brasileiro de Geografia e Estatistica -IBGE",
+      "publication_date": "1983",
+      "year": 1983,
+      "page_start": "1",
+      "page_end": "160",
+      "notes": "Pesquisa pecuária municipal [online"
+    },
+    {
+      "id": "b122",
+      "target": "b121",
+      "authors": [
+        "Rio De",
+        "Janeiro"
+      ],
+      "publisher": "IBGE",
+      "publication_date": "2018",
+      "year": 2018
+    },
+    {
+      "id": "b123",
+      "target": "b122",
+      "title": "Oro-nasal myiasis in a lymphoma patient",
+      "authors": [
+        "I Jorge",
+        "L De Santana",
+        "M Silveira",
+        "D Brunetta",
+        "J Kaufman",
+        "F Barroso-Duarte"
+      ],
+      "journal": "Br J Haematol",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "175",
+      "issue": "5",
+      "pages": "757",
+      "doi": "10.1111/bjh.14319",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:27610951",
+        "biblstruct_identifiers_unknown": "PMid:27610951"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/bjh.14319",
+        "http://dx.doi.org/10.1111/bjh.14319"
+      ]
+    },
+    {
+      "id": "b124",
+      "target": "b123",
+      "title": "Methods for the recovery of mitochondrial DNA sequences from museum specimens of myiasis-causing flies",
+      "authors": [
+        "A Junqueira",
+        "A Lessinger",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "16",
+      "issue": "1",
+      "page_start": "39",
+      "page_end": "45",
+      "doi": "10.1046/j.0269-283x.2002.00336.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:11963980",
+        "biblstruct_identifiers_unknown": "PMid:11963980"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1046/j.0269-283x.2002.00336.x",
+        "http://dx.doi.org/10.1046/j.0269-283x.2002.00336.x"
+      ]
+    },
+    {
+      "id": "b125",
+      "target": "b124",
+      "title": "Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridae) in Southern Pantanal",
+      "authors": [
+        "W Koller",
+        "A Barros",
+        "E Corrêa"
+      ],
+      "journal": "Brazil. Rev Bras Parasitol Vet",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "20",
+      "issue": "1",
+      "page_start": "27",
+      "page_end": "30",
+      "doi": "10.1590/S1984-29612011000100006",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21439228",
+        "biblstruct_identifiers_unknown": "PMid:21439228"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1984-29612011000100006",
+        "http://dx.doi.org/10.1590/S1984-29612011000100006"
+      ]
+    },
+    {
+      "id": "b126",
+      "target": "b125",
+      "title": "Dípteros Calliphoridae em mata ciliar remanescente no interior de pastagem cultivada",
+      "authors": [
+        "W Koller",
+        "A Gomes",
+        "P Gomes",
+        "A Umaki",
+        "Stp Santos",
+        "Cjb Carvalho"
+      ],
+      "publication_date": "2002",
+      "year": 2002,
+      "urls": [
+        "https://www.researchgate.net/publication/262141222_Dipteros_Calliphoridae_em_mata_ciliar_remanescente_no_interior_de_pastagem_cultivada_em_Campo_Grande_MS_Brasil",
+        "https://www.researchgate.net/publication/262141222_Dipteros_Calliphoridae_em_mata_ciliar_remanescente_no_interior_de_pastagem_cultivada_em_Campo_Grande_MS_Brasil"
+      ]
+    },
+    {
+      "id": "b127",
+      "target": "b126",
+      "title": "Lista das espécies de Calliphoridae (Diptera, Oestroidea) do Estado do Mato Grosso do Sul",
+      "authors": [
+        "C Kosmann",
+        "A Prestes",
+        "K Tepedino",
+        "A Franco",
+        "Cva Pujol-Luz",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "Brasil. Iheringia Ser Zool",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "107",
+      "doi": "10.1590/1678-4766e2017140",
+      "notes": "Suppl suppl",
+      "urls": [
+        "http://dx.doi.org/10.1590/1678-4766e2017140",
+        "http://dx.doi.org/10.1590/1678-4766e2017140"
+      ]
+    },
+    {
+      "id": "b128",
+      "target": "b127",
+      "title": "Calliphoridae (Diptera): identificação, sinantropia e análise microbiológica [tese]",
+      "authors": "C Kosmann",
+      "publication_date": "2013",
+      "year": 2013
+    },
+    {
+      "id": "b129",
+      "target": "b128",
+      "title": "Infestação por Miíase em prolapso retal: relato de caso e revisão de literatura",
+      "authors": [
+        "P Kotze",
+        "J Martins",
+        "J Steckert",
+        "B Scolaro",
+        "J Rocha",
+        "E Miranda"
+      ],
+      "journal": "Rev Bras Coloproctol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "29",
+      "issue": "3",
+      "page_start": "382",
+      "page_end": "285",
+      "doi": "10.1590/S0101-98802009000300014",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0101-98802009000300014",
+        "http://dx.doi.org/10.1590/S0101-98802009000300014"
+      ]
+    },
+    {
+      "id": "b130",
+      "target": "b129",
+      "title": "Extensive oral lesion colonized with 601 myiasis larvae",
+      "authors": [
+        "J Laureano-Filho",
+        "T Bezerra",
+        "F Lima",
+        "R Campelo"
+      ],
+      "journal": "Trop Doct",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "41",
+      "issue": "1",
+      "page_start": "61",
+      "page_end": "62",
+      "doi": "10.1258/td.2010.100308",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21109606",
+        "biblstruct_identifiers_unknown": "PMid:21109606"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1258/td.2010.100308",
+        "http://dx.doi.org/10.1258/td.2010.100308"
+      ]
+    },
+    {
+      "id": "b131",
+      "target": "b130",
+      "title": "Evolution and structural organisation of mitochondrial DNA control region of myiasis-causing flies",
+      "authors": [
+        "A Lessinger",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "14",
+      "issue": "1",
+      "page_start": "71",
+      "page_end": "80",
+      "doi": "10.1046/j.1365-2915.2000.00209.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:10759315",
+        "biblstruct_identifiers_unknown": "PMid:10759315"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1046/j.1365-2915.2000.00209.x",
+        "http://dx.doi.org/10.1046/j.1365-2915.2000.00209.x"
+      ]
+    },
+    {
+      "id": "b132",
+      "target": "b131",
+      "title": "The mitochondrial genome of the primary screwworm fly Cochliomyia hominivorax (Diptera: calliphoridae)",
+      "authors": [
+        "A Lessinger",
+        "Acm Junqueira",
+        "T Lemos",
+        "E Kemper",
+        "F Silva",
+        "A Vettore"
+      ],
+      "journal": "Insect Mol Biol",
+      "publication_date": "2000",
+      "year": 2000
+    },
+    {
+      "id": "b133",
+      "target": "b132",
+      "volume": "9",
+      "page_start": "521",
+      "page_end": "529",
+      "doi": "10.1046/j.1365-2583.2000.00215.x",
+      "identifiers": {
+        "monograph_identifiers_unknown": "PMid:11029671",
+        "biblstruct_identifiers_unknown": "PMid:11029671"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1046/j.1365-2583.2000.00215.x",
+        "http://dx.doi.org/10.1046/j.1365-2583.2000.00215.x"
+      ]
+    },
+    {
+      "id": "b134",
+      "target": "b133",
+      "title": "Evaluation of the prophylactic effect and curative efficacy of fipronil 1% pour on (Topline) on post-castration scrotal myiasis caused by Cochliomyia hominivorax in cattle",
+      "authors": [
+        "W Lima",
+        "M Malacco",
+        "E Bordin",
+        "E Oliveira"
+      ],
+      "journal": "Vet Parasitol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "125",
+      "issue": "3-4",
+      "page_start": "373",
+      "page_end": "377",
+      "doi": "10.1016/j.vetpar.2004.08.001",
+      "identifiers": {
+        "analytic_identifiers_unknown": "vetpar.2004.08.001. PMid:15482893",
+        "biblstruct_identifiers_unknown": "vetpar.2004.08.001. PMid:15482893"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j",
+        "http://dx.doi.org/10.1016/j"
+      ]
+    },
+    {
+      "id": "b135",
+      "target": "b134",
+      "title": "Oral myiasis caused by Cochliomyia hominivorax treated nonsurgically with nitrofurazone: report of 2 cases. Oral Surg Oral Med Oral Pathol Oral Radiol Endod",
+      "authors": [
+        "S Lima-Júnior",
+        "L Asprino",
+        "A Prado",
+        "R Moreira",
+        "M Moraes"
+      ],
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "109",
+      "pages": "73",
+      "doi": "10.1016/j.tripleo.2009.11.014",
+      "identifiers": {
+        "monograph_identifiers_unknown": "PMid:20219589",
+        "biblstruct_identifiers_unknown": "PMid:20219589"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.tripleo.2009.11.014",
+        "http://dx.doi.org/10.1016/j.tripleo.2009.11.014"
+      ]
+    },
+    {
+      "id": "b136",
+      "target": "b135",
+      "title": "Characterization of the screwworm flies Cochliomyia hominivorax and Cochliomyia macellaria by PCR-RFLP of mitochondrial DNA",
+      "authors": [
+        "P Litjens",
+        "A Lessinger",
+        "A De Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "15",
+      "issue": "2",
+      "page_start": "183",
+      "page_end": "188",
+      "doi": "10.1046/j.1365-2915.2001.00289.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:11434552",
+        "biblstruct_identifiers_unknown": "PMid:11434552"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1046/j.1365-2915.2001.00289.x",
+        "http://dx.doi.org/10.1046/j.1365-2915.2001.00289.x"
+      ]
+    },
+    {
+      "id": "b137",
+      "target": "b136",
+      "title": "Glutamate-gated chloride channel subunit cDNA sequencing of Cochliomyia hominivorax (Diptera: Calliphoridae): cDNA variants and polymorphisms",
+      "authors": [
+        "A Lopes",
+        "R Carvalho",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Invert Neurosci",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "14",
+      "issue": "2",
+      "page_start": "137",
+      "page_end": "146",
+      "doi": "10.1007/s10158-014-0172-6",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:24929666",
+        "biblstruct_identifiers_unknown": "PMid:24929666"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/s10158-014-0172-6",
+        "http://dx.doi.org/10.1007/s10158-014-0172-6"
+      ]
+    },
+    {
+      "id": "b138",
+      "target": "b137",
+      "title": "The effectiveness of a fixed-dose combination pour-on formulation of 1.25% fipronil and 2.5% fluazuron against economically important ectoparasites and associated pharmacokinetics in cattle",
+      "authors": [
+        "Wdz Lopes",
+        "R Chiummo",
+        "L Vettorato",
+        "Castro Rodrigues",
+        "D Sonada",
+        "R"
+      ],
+      "journal": "Parasitol Int",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "66",
+      "issue": "5",
+      "page_start": "627",
+      "page_end": "634",
+      "doi": "10.1016/j.parint.2017.05.005",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:28527785",
+        "biblstruct_identifiers_unknown": "PMid:28527785"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.parint.2017.05.005",
+        "http://dx.doi.org/10.1016/j.parint.2017.05.005"
+      ]
+    },
+    {
+      "id": "b139",
+      "target": "b138",
+      "title": "Ivermectina -castrados, provenientes da região sudeste do Brasil",
+      "authors": [
+        "Wdz Lopes",
+        "Wfp Teixeira",
+        "G Felippelli",
+        "B Cruz",
+        "W Maciel",
+        "Lvs Matos"
+      ],
+      "journal": "Cienc Rural",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "43",
+      "issue": "12",
+      "page_start": "2195",
+      "page_end": "2201",
+      "doi": "10.1590/S0103-84782013001200013",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0103-84782013001200013",
+        "http://dx.doi.org/10.1590/S0103-84782013001200013"
+      ]
+    },
+    {
+      "id": "b140",
+      "target": "b139",
+      "title": "Myiasis in the uterine cavity of an elderly woman with a complete uterine prolapse",
+      "authors": [
+        "P Lopes-Costa",
+        "A Santos",
+        "J Pereira-Filho",
+        "B Da Silva"
+      ]
+    },
+    {
+      "id": "b141",
+      "target": "b140",
+      "journal": "Trans R Soc Trop Med Hyg",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "102",
+      "issue": "10",
+      "page_start": "1058",
+      "page_end": "1060",
+      "doi": "10.1016/j.trstmh.2008.04.004",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:18495189",
+        "biblstruct_identifiers_unknown": "PMid:18495189"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.trstmh.2008.04.004",
+        "http://dx.doi.org/10.1016/j.trstmh.2008.04.004"
+      ]
+    },
+    {
+      "id": "b142",
+      "target": "b141",
+      "title": "Intestinal myiasis",
+      "authors": [
+        "Jfm Loureiro",
+        "Paf Corrêa",
+        "M Averbach",
+        "G Rossini",
+        "J Paccos",
+        "Rtm Cavalcante"
+      ],
+      "journal": "Rev Assoc Med Bras",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "56",
+      "issue": "6",
+      "pages": "638",
+      "doi": "10.1590/S0104-42302010000600008",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21271126",
+        "biblstruct_identifiers_unknown": "PMid:21271126"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S0104-42302010000600008",
+        "http://dx.doi.org/10.1590/S0104-42302010000600008"
+      ]
+    },
+    {
+      "id": "b143",
+      "target": "b142",
+      "title": "Inguinal ulcerated sebaceous carcinoma: an unusual presentation",
+      "authors": [
+        "D Lucares",
+        "F Bernardes",
+        "Fo",
+        "H Vega",
+        "B Kac",
+        "M Pereira",
+        "Jac Nery"
+      ],
+      "journal": "An Bras Dermatol",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "88",
+      "issue": "6",
+      "page_start": "1806",
+      "page_end": "4841",
+      "doi": "10.1590/abd1806-4841.20132019",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:24346878",
+        "biblstruct_identifiers_unknown": "PMid:24346878"
+      },
+      "notes": "Suppl.1",
+      "urls": [
+        "http://dx.doi.org/10.1590/abd",
+        "http://dx.doi.org/10.1590/abd"
+      ]
+    },
+    {
+      "id": "b144",
+      "target": "b143",
+      "title": "New records of Muscidae (Diptera) in",
+      "authors": [
+        "H Luiz",
+        "T Taira",
+        "W Koller"
+      ]
+    },
+    {
+      "id": "b145",
+      "target": "b144",
+      "authors": [
+        "Campo Grande",
+        "Ms",
+        "Brazil"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "21",
+      "issue": "4",
+      "page_start": "412",
+      "page_end": "414",
+      "doi": "10.1590/S1984-29612012000400012",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:23295822",
+        "biblstruct_identifiers_unknown": "PMid:23295822"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S1984-29612012000400012",
+        "http://dx.doi.org/10.1590/S1984-29612012000400012"
+      ]
+    },
+    {
+      "id": "b146",
+      "target": "b145",
+      "title": "Artrópodes parasitos dos animais domésticos do estado de Goiás",
+      "authors": [
+        "E Lustosa",
+        "Mesd Carvalho",
+        "J Carneiro",
+        "I Silva"
+      ],
+      "journal": "Rev Patol Trop",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "12",
+      "issue": "1",
+      "page_start": "1",
+      "page_end": "4"
+    },
+    {
+      "id": "b147",
+      "target": "b146",
+      "title": "First record of Philornis glaucinis Dodge & Aitken",
+      "authors": [
+        "Luz Hr",
+        "R Antonini",
+        "M Rodrigues",
+        "A Nunes-Freitas",
+        "R Mello"
+      ],
+      "publication_date": "1968",
+      "year": 1968,
+      "notes": "Diptera: Muscidae"
+    },
+    {
+      "id": "b148",
+      "target": "b147",
+      "title": "Aves: Trochilidae)",
+      "journal": "Thalurania glaucopis Gmelin",
+      "publication_date": "2010",
+      "year": 2010,
+      "pages": "1788",
+      "notes": "Biotemas"
+    },
+    {
+      "id": "b149",
+      "target": "b148",
+      "publication_date_text": "2010v23n3p227",
+      "page_start": "227",
+      "page_end": "229",
+      "doi": "10.5007/2175-7925.2010v23n3p227",
+      "urls": [
+        "http://dx.doi.org/10.5007/2175-7925",
+        "http://dx.doi.org/10.5007/2175-7925"
+      ]
+    },
+    {
+      "id": "b150",
+      "target": "b149",
+      "title": "Occurrence of Philornis bella Couri in nestlings of Tyrannus melancholicus Vieillot (Tyranninae) in the municipal district of Seropédica, Rio de Janeiro",
+      "authors": [
+        "Luz Hr",
+        "B Berto",
+        "I Ferreira",
+        "R Antonini",
+        "A Nunes-Freitas",
+        "Moya-Borja Ge"
+      ],
+      "journal": "Biotemas",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "24",
+      "issue": "2",
+      "page_start": "69",
+      "page_end": "72",
+      "doi": "10.5007/2175-7925",
+      "urls": [
+        "http://dx.doi.org/10.5007/2175-7925",
+        "http://dx.doi.org/10.5007/2175-7925"
+      ]
+    },
+    {
+      "id": "b151",
+      "target": "b150",
+      "title": "Larvas de Philornis deceptiva Dodge & Aitken (Diptera, Muscidae) no Sanhaçu-cinzento Thraupis sayaca (Linnaeus 1766) (Thraupidae) no município de Seropédica, Rio de Janeiro",
+      "authors": [
+        "H Luz",
+        "I Ferreira",
+        "M Couri"
+      ],
+      "journal": "Brasil. Biota Neotrop",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "8",
+      "issue": "2",
+      "page_start": "255",
+      "page_end": "257",
+      "doi": "10.1590/S1676-06032008000200024",
+      "urls": [
+        "http://dx.doi.org/10.1590/S1676-06032008000200024",
+        "http://dx.doi.org/10.1590/S1676-06032008000200024"
+      ]
+    },
+    {
+      "id": "b152",
+      "target": "b151",
+      "title": "Wing morphometry as a tool for correct identification of primary and secondary New World screwworm fly",
+      "authors": [
+        "M Lyra",
+        "L Hatadani",
+        "A Azeredo-Espin",
+        "L Klaczko"
+      ],
+      "journal": "Bull Entomol Res",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "100",
+      "issue": "1",
+      "page_start": "19",
+      "page_end": "26",
+      "doi": "10.1017/S0007485309006762",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:19302726",
+        "biblstruct_identifiers_unknown": "PMid:19302726"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1017/S0007485309006762",
+        "http://dx.doi.org/10.1017/S0007485309006762"
+      ]
+    },
+    {
+      "id": "b153",
+      "target": "b152",
+      "title": "Complex patterns of genetic variability in populations of the New World screwworm fly revealed by mitochondrial DNA markers",
+      "authors": [
+        "M Lyra",
+        "L Klaczko",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "issue": "Suppl 1",
+      "page_start": "32",
+      "page_end": "42",
+      "doi": "10.1111/j.1365-2915.2008.00776.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:19335828",
+        "biblstruct_identifiers_unknown": "PMid:19335828"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/j.1365-2915.2008.00776.x",
+        "http://dx.doi.org/10.1111/j.1365-2915.2008.00776.x"
+      ]
+    },
+    {
+      "id": "b154",
+      "target": "b153",
+      "title": "The ocurrence of primary myisis in cats caused by Phaenicia eximia (Diptera: calliphoridae)",
+      "authors": [
+        "N Madeira",
+        "Gar Silveira",
+        "C Pavan"
+      ],
+      "journal": "Mem Inst Oswaldo Cruz",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "84",
+      "issue": "Suppl 4",
+      "pages": "341",
+      "doi": "10.1590/S0074-02761989000800060",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0074-02761989000800060",
+        "http://dx.doi.org/10.1590/S0074-02761989000800060"
+      ]
+    },
+    {
+      "id": "b155",
+      "target": "b154",
+      "title": "Miíase Nasal: relato de caso e revisão da literatura",
+      "authors": [
+        "A Manfrim",
+        "A Cury",
+        "P Demeneghi",
+        "G Jotz",
+        "R Roithmann"
+      ],
+      "journal": "Arq Int Otorrinolaringol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "11",
+      "issue": "1",
+      "page_start": "74",
+      "page_end": "79"
+    },
+    {
+      "id": "b156",
+      "target": "b155",
+      "title": "Miíase interna oro-nasal e cutânea por Cochliomyia hominivorax (Coquerel, 1858) em felino (Felis catus)-Relato de caso",
+      "authors": [
+        "C Marotta",
+        "P Scherer",
+        "A Sanavria"
+      ],
+      "journal": "Rev Bras Med Vet",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "33",
+      "issue": "3",
+      "page_start": "137",
+      "page_end": "141"
+    },
+    {
+      "id": "b157",
+      "target": "b156",
+      "title": "Miíases associadas com alguns fatores sócio-econômicos em cinco áreas urbanas do Estado do Rio de Janeiro",
+      "authors": [
+        "A Marquez",
+        "M Mattos",
+        "S Nascimento"
+      ],
+      "journal": "Rev Soc Bras Med Trop",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "4",
+      "issue": "2",
+      "page_start": "175",
+      "page_end": "180",
+      "doi": "10.1590/S0037-86822007000200006",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:17568884",
+        "biblstruct_identifiers_unknown": "PMid:17568884"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S0037-86822007000200006",
+        "http://dx.doi.org/10.1590/S0037-86822007000200006"
+      ]
+    },
+    {
+      "id": "b158",
+      "target": "b157",
+      "title": "Miíase Vulvar: relato de Caso",
+      "authors": [
+        "Car Martinez",
+        "G Romani",
+        "D Priolli",
+        "A Campos",
+        "Vpp Carneiro",
+        "Cag Dalbem"
+      ],
+      "journal": "Rev Bras Ginecol Obstet",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "25",
+      "issue": "4",
+      "page_start": "291",
+      "page_end": "295",
+      "doi": "10.1590/S0100-72032003000400011",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-72032003000400011",
+        "http://dx.doi.org/10.1590/S0100-72032003000400011"
+      ]
+    },
+    {
+      "id": "b159",
+      "target": "b158",
+      "title": "Oral myiasis",
+      "authors": [
+        "C Martins",
+        "A Freddo",
+        "F Gomes",
+        "M Santos",
+        "C Araldi",
+        "C Heitz"
+      ],
+      "journal": "J Craniofac Surg",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "23",
+      "issue": "2",
+      "page_start": "69",
+      "page_end": "e71",
+      "doi": "10.1097/SCS.0b013e31824685f7",
+      "urls": [
+        "http://dx.doi.org/",
+        "http://dx.doi.org/"
+      ]
+    },
+    {
+      "id": "b160",
+      "target": "b159",
+      "title": "Oftalmomiíase pós-traumática: relato de caso e revisão de literatura",
+      "authors": [
+        "J Martins-Junior",
+        "F Keim",
+        "J Iarocrinski"
+      ],
+      "journal": "Rev Bras Oftalmol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "69",
+      "issue": "4",
+      "page_start": "264",
+      "page_end": "268",
+      "doi": "10.1590/S0034-72802010000400011",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0034-72802010000400011",
+        "http://dx.doi.org/10.1590/S0034-72802010000400011"
+      ]
+    },
+    {
+      "id": "b161",
+      "target": "b160",
+      "title": "Genetic diversity and population structure of the New World screwworm fly from the Amazon region of Brazil",
+      "authors": [
+        "T Mastrangelo",
+        "P Fresia",
+        "M Lyra",
+        "R Rodrigues",
+        "A Azeredo-Espin"
+      ],
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "138",
+      "doi": "10.1016/j.actatropica.2014.04.002",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:24731964",
+        "biblstruct_identifiers_unknown": "PMid:24731964"
+      },
+      "notes": "Suppl",
+      "urls": [
+        "http://dx.doi.org/10.1016/j.actatropica.2014.04.002",
+        "http://dx.doi.org/10.1016/j.actatropica.2014.04.002"
+      ]
+    },
+    {
+      "id": "b162",
+      "target": "b161",
+      "title": "Myiasis in the neotropical amphibian Hypsiboas beckeri (Anura: Hylidae) by a new species of Lepidodexia (Diptera: Sarcophagidae)",
+      "authors": [
+        "C Mello-Patiu",
+        "Luna Dias",
+        "C"
+      ],
+      "journal": "J Parasitol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "96",
+      "issue": "4",
+      "page_start": "685",
+      "page_end": "688",
+      "doi": "10.1645/GE-2423.1",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:20486737",
+        "biblstruct_identifiers_unknown": "PMid:20486737"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1645/GE-2423.1",
+        "http://dx.doi.org/10.1645/GE-2423.1"
+      ]
+    },
+    {
+      "id": "b163",
+      "target": "b162",
+      "title": "Miíases no lábio superior: apresentação de caso clínico",
+      "authors": [
+        "Reva Melo",
+        "Cma Vitor",
+        "Mbl Silva",
+        "L Luna",
+        "Acb Firmo"
+      ],
+      "journal": "Int J Dent",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "2",
+      "issue": "1",
+      "page_start": "221",
+      "page_end": "226"
+    },
+    {
+      "id": "b164",
+      "target": "b163",
+      "title": "Cochliomyia hominivorax myiasis in a colony of stray cats (Felis catus Linnaeus, 1758) in Rio de Janeiro",
+      "authors": [
+        "F Mendes-De-Almeida",
+        "N Labarthe",
+        "J Guerrero",
+        "G Landau-Remy",
+        "D Rodrigues",
+        "Moya-Borja Ge"
+      ],
+      "journal": "RJ. Vet Parasitol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "146",
+      "issue": "3-4",
+      "page_start": "376",
+      "page_end": "378",
+      "doi": "10.1016/j.vetpar.2007.02.021",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:17379414",
+        "biblstruct_identifiers_unknown": "PMid:17379414"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.vetpar.2007.02.021",
+        "http://dx.doi.org/10.1016/j.vetpar.2007.02.021"
+      ]
+    },
+    {
+      "id": "b165",
+      "target": "b164",
+      "title": "Miíase primária em coelho doméstico causada por Lucilia eximia (Diptera: Calliphoridae) no Brasil: relato de caso",
+      "authors": [
+        "T Moretti",
+        "P Thyssen"
+      ],
+      "journal": "Arq Bras Med Vet Zootec",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "58",
+      "issue": "1",
+      "page_start": "28",
+      "page_end": "30",
+      "doi": "10.1590/S0102-09352006000100005",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0102-09352006000100005",
+        "http://dx.doi.org/10.1590/S0102-09352006000100005"
+      ]
+    },
+    {
+      "id": "b166",
+      "target": "b165",
+      "title": "Efficacy of injectable doramectin in the protection of castrated cattle against field infestations of Cochliomyia hominivorax",
+      "authors": [
+        "R Muniz",
+        "A Coronado",
+        "O Anziani",
+        "A Sanavria",
+        "J Moreno",
+        "J Errecalde"
+      ],
+      "journal": "Vet Parasitol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "58",
+      "issue": "4",
+      "pages": "8533272",
+      "doi": "10.1016/0304-4017(94)00730-Z",
+      "urls": [
+        "http://dx.doi.org/10.1016/0304-4017(94)00730-Z.PMid",
+        "http://dx.doi.org/10.1016/0304-4017(94)00730-Z.PMid"
+      ]
+    },
+    {
+      "id": "b167",
+      "target": "b166",
+      "title": "Morphological and cytochemical aspects of spermatozoa in the genus Cochliomyia (Diptera: calliphoridae)",
+      "authors": [
+        "K Name",
+        "K Barros-Cordeiro",
+        "G Filho",
+        "M Wolff",
+        "J Pujol-Luz",
+        "S Báo"
+      ],
+      "journal": "J Electron Microsc",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "61",
+      "issue": "6",
+      "page_start": "415",
+      "page_end": "422",
+      "doi": "10.1093/jmicro/dfs061",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:22997238",
+        "biblstruct_identifiers_unknown": "PMid:22997238"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1093/jmicro/dfs061",
+        "http://dx.doi.org/10.1093/jmicro/dfs061"
+      ]
+    },
+    {
+      "id": "b168",
+      "target": "b167",
+      "title": "Miíases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera, Calliphoridae) em hospitais públicos na cidade do Recife",
+      "authors": [
+        "Emf Nascimento",
+        "J Oliveira",
+        "M Paes",
+        "A Lobo",
+        "L Silva",
+        "Santos Júnior",
+        "E"
+      ],
+      "journal": "Brasil. Entomol Vectores",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "12",
+      "issue": "1",
+      "page_start": "37",
+      "page_end": "51",
+      "doi": "10.1590/S0328-03812005000100003",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0328-03812005000100003",
+        "http://dx.doi.org/10.1590/S0328-03812005000100003"
+      ]
+    },
+    {
+      "id": "b169",
+      "target": "b168",
+      "title": "Oral Myiasis Caused by Cochliomyia hominivorax in a Disabled Person",
+      "authors": [
+        "J Novo-Neto",
+        "Dos Santos",
+        "F Pontes",
+        "A Ribeiro",
+        "F Scannavino",
+        "F Martins",
+        "A"
+      ],
+      "journal": "Case Rep Pathol",
+      "publication_date": "2015",
+      "year": 2015,
+      "pages": "904658",
+      "doi": "10.1155/2015/904658",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26266071",
+        "biblstruct_identifiers_unknown": "PMid:26266071"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1155/2015/904658",
+        "http://dx.doi.org/10.1155/2015/904658"
+      ]
+    },
+    {
+      "id": "b170",
+      "target": "b169",
+      "title": "Flutuação populacional e patologia da Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae)",
+      "authors": [
+        "Cmb Oliveira",
+        "Biologia"
+      ],
+      "notes": "dissertação"
+    },
+    {
+      "id": "b171",
+      "target": "b170",
+      "authors": "Seropédica",
+      "publication_date": "1980",
+      "year": 1980
+    },
+    {
+      "id": "b172",
+      "target": "b171",
+      "title": "Effect of bait decomposition on the attractiveness to species of Diptera of veterinary and forensic importance in a rainforest fragment in Brazil",
+      "authors": [
+        "D Oliveira",
+        "T Soares",
+        "S Vasconcelos"
+      ],
+      "journal": "Parasitol Res",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "115",
+      "issue": "1",
+      "page_start": "449",
+      "page_end": "455",
+      "doi": "10.1007/s00436-015-4811-6",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26547564",
+        "biblstruct_identifiers_unknown": "PMid:26547564"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/s00436-015-4811-6",
+        "http://dx.doi.org/10.1007/s00436-015-4811-6"
+      ]
+    },
+    {
+      "id": "b173",
+      "target": "b172",
+      "title": "Miíase de língua: relato de um caso de infestação hospitalar",
+      "authors": [
+        "Jagp Oliveira",
+        "M Machado",
+        "M Oliveira"
+      ],
+      "journal": "Rev Cir Traumatol Buco-Maxilo-Fac",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "8",
+      "issue": "4",
+      "page_start": "47",
+      "page_end": "50"
+    },
+    {
+      "id": "b174",
+      "target": "b173",
+      "title": "Improving access to the control region and tRNA gene clusters of dipteran mitochondrial DNA",
+      "authors": [
+        "M Oliveira",
+        "A Rosa",
+        "A Azeredo-Espin",
+        "A Lessinger"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "43",
+      "issue": "3",
+      "page_start": "636",
+      "page_end": "639",
+      "doi": "10.1093/jmedent/43.3.636",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:16739428",
+        "biblstruct_identifiers_unknown": "PMid:16739428"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1093/jmedent/43.3.636",
+        "http://dx.doi.org/10.1093/jmedent/43.3.636"
+      ]
+    },
+    {
+      "id": "b175",
+      "target": "b174",
+      "title": "Efficacy of spinosad on the treatment of myiasis caused by Cochliomyia hominivorax (Diptera: Calliphoridae) in dogs",
+      "authors": [
+        "P Oliveira",
+        "P Moraes",
+        "F Scott",
+        "G Verocai",
+        "T Correia",
+        "J Fernandes"
+      ],
+      "journal": "Vet Parasitol",
+      "publication_date": "2018",
+      "year": 2018,
+      "volume": "258",
+      "page_start": "53",
+      "page_end": "56",
+      "doi": "10.1016/j.vetpar.2018.06.006",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:30105978",
+        "biblstruct_identifiers_unknown": "PMid:30105978"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.vetpar.2018.06.006",
+        "http://dx.doi.org/10.1016/j.vetpar.2018.06.006"
+      ]
+    },
+    {
+      "id": "b176",
+      "target": "b175",
+      "title": "Diptera calliphoridae de importância forense no município do Rio de Janeiro",
+      "authors": [
+        "J Oliveira-Costa",
+        "R Oliveira",
+        "C Bastos"
+      ],
+      "journal": "Rev Eletron Novo Enfoque",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "16",
+      "issue": "16",
+      "page_start": "41",
+      "page_end": "52"
+    },
+    {
+      "id": "b177",
+      "target": "b176",
+      "title": "Controle seletivo do Rhipicephalus (Boophilus) microplus (Canestrini, 1887), em bovinos criados em campo nativo, com uso de fipronil e avaliação de sua eficácia em Lages -SC",
+      "authors": "F Paim",
+      "publication_date": "2010",
+      "year": 2010
+    },
+    {
+      "id": "b178",
+      "target": "b177",
+      "title": "Vulvar myiasis during pregnancy",
+      "authors": [
+        "M Passos",
+        "R Varella",
+        "R Tavares",
+        "N Barreto",
+        "C Santos",
+        "V Pinheiro"
+      ],
+      "journal": "Infect Dis Obstet Gynecol",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "10",
+      "issue": "3",
+      "page_start": "153",
+      "page_end": "158",
+      "doi": "10.1155/S1064744902000157",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:12625971",
+        "biblstruct_identifiers_unknown": "PMid:12625971"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1155/S1064744902000157",
+        "http://dx.doi.org/10.1155/S1064744902000157"
+      ]
+    },
+    {
+      "id": "b179",
+      "target": "b178",
+      "title": "Um caso de infestação de orofaringe por Cochliomyia hominovorax",
+      "authors": [
+        "J Pasternak",
+        "S Joo",
+        "A Ganc",
+        "M Durão",
+        "Jr",
+        "R Morsh",
+        "T Pinto"
+      ],
+      "journal": "Einstein",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "5",
+      "issue": "2",
+      "page_start": "170",
+      "page_end": "172"
+    },
+    {
+      "id": "b180",
+      "target": "b179",
+      "title": "Freqüência de dermatopatias infecciosas, parasitárias e neoplásicas em cães na região de Garça",
+      "authors": "S Pena",
+      "publication_date": "2007",
+      "year": 2007
+    },
+    {
+      "id": "b181",
+      "target": "b180",
+      "title": "Distribution and Abundance of Necrophagous Flies (Diptera: Calliphoridae and Sarcophagidae) in Maranhão, Northeastern Brazil",
+      "authors": [
+        "J Pereira De Sousa",
+        "F Carvalho-Filho",
+        "M Esposito"
+      ],
+      "journal": "J Insect Sci",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "15",
+      "issue": "1",
+      "pages": "70",
+      "doi": "10.1093/jisesa/iev054",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26078304",
+        "biblstruct_identifiers_unknown": "PMid:26078304"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1093/jisesa/iev054",
+        "http://dx.doi.org/10.1093/jisesa/iev054"
+      ]
+    },
+    {
+      "id": "b182",
+      "target": "b181",
+      "title": "Evaluating the Effects of Different Vegetation Types on Necrophagous Fly Communities (Diptera: Calliphoridae; Sarcophagidae): Implications for Conservation",
+      "authors": [
+        "J Pereira De Sousa",
+        "F Carvalho-Filho",
+        "L Juen",
+        "M Esposito"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "11",
+      "issue": "10",
+      "pages": "164826",
+      "doi": "10.1371/journal.pone.0164826",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:27798664",
+        "biblstruct_identifiers_unknown": "PMid:27798664"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1371/journal.pone.0164826",
+        "http://dx.doi.org/10.1371/journal.pone.0164826"
+      ]
+    },
+    {
+      "id": "b183",
+      "target": "b182",
+      "title": "Braud AI. Medical microbiology and infectious diseases",
+      "authors": [
+        "A Pierce",
+        "Myiasis"
+      ],
+      "publisher": "W.B. Saunders Company",
+      "publication_date": "1981",
+      "year": 1981,
+      "page_start": "1704",
+      "page_end": "1710"
+    },
+    {
+      "id": "b184",
+      "target": "b183",
+      "title": "Miíases umbilicais em bezerros nelore recém-nascidos: predisposição",
+      "authors": "M Pires"
+    },
+    {
+      "id": "b185",
+      "target": "b184",
+      "title": "Does Rhipicephalus microplus tick infestation increase the risk for myiasis caused by Cochliomyia hominivorax in cattle",
+      "authors": [
+        "J Reck",
+        "F Marks",
+        "R Rodrigues",
+        "U Souza",
+        "A Webster",
+        "R Leite"
+      ],
+      "journal": "Prev Vet Med",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "113",
+      "issue": "1",
+      "page_start": "59",
+      "page_end": "62",
+      "doi": "10.1016/j.prevetmed.2013.10.006",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:24176137",
+        "biblstruct_identifiers_unknown": "PMid:24176137"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.prevetmed.2013.10.006",
+        "http://dx.doi.org/10.1016/j.prevetmed.2013.10.006"
+      ]
+    },
+    {
+      "id": "b186",
+      "target": "b185",
+      "title": "Squamous cell carcinoma in ovines in the state of Acre",
+      "authors": [
+        "Emb Reis",
+        "R Spadetto",
+        "S Amorim",
+        "G Barioni",
+        "Berbari Neto",
+        "F"
+      ],
+      "journal": "Rev Caatinga",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "29",
+      "issue": "1",
+      "page_start": "234",
+      "page_end": "238",
+      "doi": "10.1590/1983-21252016v29n127rc",
+      "urls": [
+        "http://dx.doi.org/10.1590/1983-21252016v29n127rc",
+        "http://dx.doi.org/10.1590/1983-21252016v29n127rc"
+      ]
+    },
+    {
+      "id": "b187",
+      "target": "b186",
+      "authors": [
+        "F Reis",
+        "M Barros",
+        "E Fraga",
+        "T Penha",
+        "W Teixeira",
+        "Acg Santos"
+      ]
+    },
+    {
+      "id": "b188",
+      "target": "b187",
+      "authors": "Brasil Maranhão",
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "17",
+      "issue": "1 Suppl 1",
+      "page_start": "69",
+      "page_end": "74",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:20059819",
+        "biblstruct_identifiers_unknown": "PMid:20059819"
+      }
+    },
+    {
+      "id": "b189",
+      "target": "b188",
+      "title": "Oral myiasis: does an indication for surgical treatment still exist? Two case reports. Oral Surg Oral Med Oral Pathol Oral Radiol Endod",
+      "authors": [
+        "A Ribeiro",
+        "T Almeida",
+        "J Lopes",
+        "J Castro",
+        "J Pinheiro"
+      ],
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "114",
+      "page_start": "10",
+      "page_end": "e14",
+      "doi": "10.1016/j.oooo.2011.09.003",
+      "identifiers": {
+        "monograph_identifiers_unknown": "PMid:22862986",
+        "biblstruct_identifiers_unknown": "PMid:22862986"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.oooo.2011.09.003",
+        "http://dx.doi.org/10.1016/j.oooo.2011.09.003"
+      ]
+    },
+    {
+      "id": "b190",
+      "target": "b189",
+      "title": "Oral myiasis in a patient with neurological signs",
+      "authors": [
+        "C Ribeiro",
+        "No",
+        "M Monnazzi"
+      ],
+      "journal": "Br J Oral Maxillofac Surg",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "54",
+      "issue": "10",
+      "page_start": "1146",
+      "page_end": "1147",
+      "doi": "10.1016/j.bjoms.2016.04.018",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:27138230",
+        "biblstruct_identifiers_unknown": "PMid:27138230"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.bjoms.2016.04.018",
+        "http://dx.doi.org/10.1016/j.bjoms.2016.04.018"
+      ]
+    },
+    {
+      "id": "b191",
+      "target": "b190",
+      "title": "Miíase bucal e doença de Alzheimer: relato de caso clínico",
+      "authors": [
+        "Mtf Ribeiro",
+        "C Sanglard-Oliveira",
+        "M Naves",
+        "E Ferreira",
+        "Amd Vargas",
+        "Mhng Abreu"
+      ],
+      "journal": "Rev Bras Geriatr Gerontol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "15",
+      "issue": "4",
+      "page_start": "805",
+      "page_end": "811",
+      "doi": "10.1590/S1809-98232012000400019",
+      "urls": [
+        "http://dx.doi.org/10.1590/S1809-98232012000400019",
+        "http://dx.doi.org/10.1590/S1809-98232012000400019"
+      ]
+    },
+    {
+      "id": "b192",
+      "target": "b191",
+      "title": "Tratamento da miíase humana cavitária com ivermectina oral",
+      "authors": [
+        "Faq Ribeiro",
+        "Csb Pereira",
+        "A Alves",
+        "M Marcon"
+      ],
+      "journal": "Rev Bras Otorrinolaringol",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "67",
+      "issue": "6",
+      "page_start": "755",
+      "page_end": "761",
+      "doi": "10.1590/S0034-72992001000600002",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0034-72992001000600002",
+        "http://dx.doi.org/10.1590/S0034-72992001000600002"
+      ]
+    },
+    {
+      "id": "b193",
+      "target": "b192",
+      "title": "Oral myiasis in an elderly patient",
+      "authors": [
+        "M Ribeiro",
+        "A Pepato",
+        "F Matos",
+        "C Sverzut",
+        "A Abrahão",
+        "A Trivellato"
+      ],
+      "journal": "Gerodontology",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "29",
+      "issue": "2",
+      "page_start": "1136",
+      "page_end": "e1139",
+      "doi": "10.1111/j.1741-2358.2010.00432.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21029155",
+        "biblstruct_identifiers_unknown": "PMid:21029155"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/j.1741-2358.2010.00432.x",
+        "http://dx.doi.org/10.1111/j.1741-2358.2010.00432.x"
+      ]
+    },
+    {
+      "id": "b194",
+      "target": "b193",
+      "title": "Influência da temperatura na captura de califorídeos em armadilhas W.O.T. Cochliomyia hominovorax e C. macellaria (Diptera-Calliphoridae)",
+      "authors": [
+        "P Ribeiro",
+        "Jgw Brum",
+        "Ppr Costa",
+        "I Saul"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "1993",
+      "year": 1993
+    },
+    {
+      "id": "b195",
+      "target": "b194",
+      "title": "Viabilidade e longevidade de pré-puppas e puppas de Cochliomyia hominivorax (Coquerel, 1858), no ambiente de Pelotas",
+      "authors": [
+        "P Ribeiro",
+        "Prp Costa",
+        "J Zanata",
+        "M Falkoski"
+      ],
+      "journal": "RS. Arq Fac Vet UFRGS",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "25",
+      "issue": "1",
+      "page_start": "81",
+      "page_end": "84"
+    },
+    {
+      "id": "b196",
+      "target": "b195",
+      "title": "Epidemiological evaluation of external parasites in cattle from the Brazilian Cerrados and the Colombian Eastern Plains",
+      "authors": [
+        "B Rivera",
+        "E Aycardi"
+      ],
+      "journal": "Zentralbl Veterinärmed B",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "32",
+      "issue": "6",
+      "page_start": "417",
+      "page_end": "424",
+      "doi": "10.1111/j.1439-0450.1985.tb01979.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "1439-0450.1985.tb01979.x. PMid:4050207",
+        "biblstruct_identifiers_unknown": "1439-0450.1985.tb01979.x. PMid:4050207"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/j",
+        "http://dx.doi.org/10.1111/j"
+      ]
+    },
+    {
+      "id": "b197",
+      "target": "b196",
+      "title": "Massive orbital myiasis infestation",
+      "authors": [
+        "E Rocha",
+        "J Yvanoff",
+        "L Silva",
+        "A Prado",
+        "R Caldato"
+      ],
+      "journal": "Arch Ophthalmol",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "117",
+      "issue": "10",
+      "page_start": "1436",
+      "page_end": "1437",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:10532464",
+        "biblstruct_identifiers_unknown": "PMid:10532464"
+      }
+    },
+    {
+      "id": "b198",
+      "target": "b197",
+      "title": "Miiase e perfuração do rumen de bezerros por larvas de Cochliomyia hominivorax (Coquerel, 1858). Significação econômica",
+      "authors": [
+        "U Rocha",
+        "Z Vaz"
+      ],
+      "journal": "Rev Fac Med Vet S Paulo",
+      "publication_date": "1950",
+      "year": 1950,
+      "volume": "4",
+      "issue": "2",
+      "page_start": "2",
+      "page_end": "281",
+      "doi": "10.11606/issn.2318-5066.v4i2p281-286",
+      "urls": [
+        "http://dx.doi.org/10.11606/issn.2318-5066",
+        "http://dx.doi.org/10.11606/issn.2318-5066"
+      ]
+    },
+    {
+      "id": "b199",
+      "target": "b198",
+      "title": "Myiasis associated with an invasive ductal carcinoma of the left breast: case study",
+      "authors": [
+        "F Rodrigues",
+        "L Klemig",
+        "Mrp Cardozo",
+        "P Alves",
+        "V Aguiar",
+        "C Lessa"
+      ],
+      "journal": "Rev Inst Med Trop São Paulo",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "59",
+      "issue": "0",
+      "pages": "35",
+      "doi": "10.1590/s1678-9946201759035",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:28591263",
+        "biblstruct_identifiers_unknown": "PMid:28591263"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/s1678-9946201759035",
+        "http://dx.doi.org/10.1590/s1678-9946201759035"
+      ]
+    },
+    {
+      "id": "b200",
+      "target": "b199",
+      "title": "Sinantropia da fauna de Califorídeos (Diptera",
+      "authors": [
+        "R Rodrigues-Guimarães",
+        "R Guimarães",
+        "H Barros",
+        "R Carvalho",
+        "Moya-Borja Ge"
+      ],
+      "publication_date": "2019-12",
+      "year": 2019,
+      "volume": "28"
+    },
+    {
+      "id": "b201",
+      "target": "b200",
+      "authors": "Fluminense Na Baixada",
+      "journal": "Brasil. Rev Cienc Tecnol",
+      "publisher": "Rio de Janeiro",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "8",
+      "issue": "1",
+      "page_start": "22",
+      "page_end": "33"
+    },
+    {
+      "id": "b202",
+      "target": "b201",
+      "title": "Ivermectina no tratamento de miíase orbitária -Relato de caso",
+      "authors": [
+        "Mel Rodriguez",
+        "L Aoki",
+        "Agb Nicoletti",
+        "S Matayoshi",
+        "Jbvd Fernandes"
+      ],
+      "journal": "Arq Bras Oftalmol",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "66",
+      "issue": "4",
+      "page_start": "519",
+      "page_end": "521",
+      "doi": "10.1590/S0004-27492003000400023",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0004-27492003000400023",
+        "http://dx.doi.org/10.1590/S0004-27492003000400023"
+      ]
+    },
+    {
+      "id": "b203",
+      "target": "b202",
+      "title": "Oral myiasis in a captive hippopotamus",
+      "authors": [
+        "J Rossi",
+        "F Guiao-Leite",
+        "M Gioso",
+        "L Falqueiro",
+        "R Fecchio"
+      ],
+      "journal": "J Vet Dent",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "26",
+      "issue": "3",
+      "page_start": "168",
+      "page_end": "170",
+      "doi": "10.1177/089875640902600304",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:19950517",
+        "biblstruct_identifiers_unknown": "PMid:19950517"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1177/089875640902600304",
+        "http://dx.doi.org/10.1177/089875640902600304"
+      ]
+    },
+    {
+      "id": "b204",
+      "target": "b203",
+      "title": "Oral myiasis: a case report",
+      "authors": [
+        "T Rossi-Schneider",
+        "K Cherubini",
+        "L Yurgel",
+        "F Salum",
+        "M Figueiredo"
+      ],
+      "journal": "J Oral Sci",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "49",
+      "issue": "1",
+      "page_start": "85",
+      "page_end": "88",
+      "doi": "10.2334/josnusd.49.85",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:17429188",
+        "biblstruct_identifiers_unknown": "PMid:17429188"
+      },
+      "urls": [
+        "http://dx.doi.org/10.2334/josnusd.49.85",
+        "http://dx.doi.org/10.2334/josnusd.49.85"
+      ]
+    },
+    {
+      "id": "b205",
+      "target": "b204",
+      "title": "Development of a trap for collecting Cochliomyia hominivorax (diptera: caliphoridae) flies",
+      "authors": [
+        "Bcd Salinas",
+        "I Lima"
+      ],
+      "journal": "Rev Agrogeoambiental",
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "9",
+      "issue": "2",
+      "page_start": "85",
+      "page_end": "93",
+      "doi": "10.18406/2316-1817v9n22017977",
+      "urls": [
+        "http://dx.doi.org/10.18406/2316-1817v9n22017977",
+        "http://dx.doi.org/10.18406/2316-1817v9n22017977"
+      ]
+    },
+    {
+      "id": "b206",
+      "target": "b205",
+      "title": "Eficácia profilática do doramectin contra infestações naturais por Cochliomyia hominivorax em ovinos pós-castração",
+      "authors": [
+        "A Sanavria",
+        "Mca Prata"
+      ],
+      "journal": "Rev Bras Parasitol Vet",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "5",
+      "issue": "2",
+      "page_start": "113",
+      "page_end": "117"
+    },
+    {
+      "id": "b207",
+      "target": "b206",
+      "authors": [
+        "J Santos",
+        "S Andena"
+      ]
+    },
+    {
+      "id": "b208",
+      "target": "b207",
+      "authors": [
+        "Santana",
+        "Brasil Bahia"
+      ],
+      "publication_date": "2017",
+      "year": 2017,
+      "urls": [
+        "http://periodicos.uefs.br/index.php/semic/article/view/2182",
+        "http://periodicos.uefs.br/index.php/semic/article/view/2182"
+      ]
+    },
+    {
+      "id": "b209",
+      "target": "b208",
+      "title": "A case of anterior internal ophthalmomyiasis: case report",
+      "authors": [
+        "V Saraiva",
+        "M Amaro",
+        "Belfort R Jr",
+        "Mnj Burnier"
+      ],
+      "journal": "Arq Bras Oftalmol",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "69",
+      "issue": "5",
+      "page_start": "741",
+      "page_end": "743",
+      "doi": "10.1590/S0004-27492006000500023",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:17187146",
+        "biblstruct_identifiers_unknown": "PMid:17187146"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S0004-27492006000500023",
+        "http://dx.doi.org/10.1590/S0004-27492006000500023"
+      ]
+    },
+    {
+      "id": "b210",
+      "target": "b209",
+      "title": "Vacina experimental produzida em cultivo celular confere proteção parcial contra o ectima contagioso em ovinos",
+      "authors": [
+        "C Schmidt",
+        "J Cargnelutti",
+        "M Martins",
+        "R Weiblen",
+        "E Flores"
+      ],
+      "journal": "Pesq Vet Bras",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "32",
+      "issue": "1",
+      "page_start": "11",
+      "page_end": "16",
+      "doi": "10.1590/S0100-736X2012000100003",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2012000100003",
+        "http://dx.doi.org/10.1590/S0100-736X2012000100003"
+      ]
+    },
+    {
+      "id": "b211",
+      "target": "b210",
+      "authors": [
+        "F Sellera",
+        "B Barbosa",
+        "R Gargano",
+        "F Benesi",
+        "F Pogliani"
+      ],
+      "journal": "Acta Vet Brasilica",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "8",
+      "issue": "1",
+      "page_start": "74",
+      "page_end": "77"
+    },
+    {
+      "id": "b212",
+      "target": "b211",
+      "title": "Myiasis during adventure sports race",
+      "authors": [
+        "M Seppanen",
+        "A Virolainen-Julkunen",
+        "I Kakko",
+        "P Vilkamaa",
+        "Meri"
+      ],
+      "journal": "Emerg Infect Dis",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "10",
+      "issue": "1",
+      "page_start": "137",
+      "page_end": "139",
+      "doi": "10.3201/eid1001.020825",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:15078610",
+        "biblstruct_identifiers_unknown": "PMid:15078610"
+      },
+      "urls": [
+        "http://dx.doi.org/10.3201/eid1001.020825",
+        "http://dx.doi.org/10.3201/eid1001.020825"
+      ]
+    },
+    {
+      "id": "b213",
+      "target": "b212",
+      "title": "Ocorrência e distribuição de mosca varejeira (Diptera: Calliphoridae) nas regiões urbana, rural e silvestre do município de Porto Velho -RO",
+      "authors": [
+        "Nmb Serbino",
+        "I Silva",
+        "Rab Araujo"
+      ],
+      "journal": "Rev Elet InterTexto",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "2010",
+      "page_start": "38",
+      "page_end": "51"
+    },
+    {
+      "id": "b214",
+      "target": "b213",
+      "title": "Oral myiasis treated with ivermectin: case report",
+      "authors": [
+        "E Shinohara",
+        "M Martini",
+        "H Oliveira",
+        "No",
+        "A Takahashi"
+      ],
+      "journal": "Braz Dent J",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "15",
+      "issue": "1",
+      "page_start": "79",
+      "page_end": "81",
+      "doi": "10.1590/S0103-64402004000100015",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:15322651",
+        "biblstruct_identifiers_unknown": "PMid:15322651"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1590/S0103-64402004000100015",
+        "http://dx.doi.org/10.1590/S0103-64402004000100015"
+      ]
+    },
+    {
+      "id": "b215",
+      "target": "b214",
+      "title": "A ciência nas regiões brasileiras: evolução da produção e das redes de colaboração científica",
+      "authors": [
+        "Ojg Sidone",
+        "E Haddad",
+        "J Mena-Chalco"
+      ],
+      "journal": "Transinformacao",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "28",
+      "issue": "1",
+      "page_start": "15",
+      "page_end": "32",
+      "doi": "10.1590/2318-08892016002800002",
+      "urls": [
+        "http://dx.doi.org/10.1590/2318-08892016002800002",
+        "http://dx.doi.org/10.1590/2318-08892016002800002"
+      ]
+    },
+    {
+      "id": "b216",
+      "target": "b215",
+      "title": "Human vaginal myiasis caused by Cochliomyia hominivorax",
+      "authors": [
+        "B Silva",
+        "U Borges",
+        "I Pimentel"
+      ],
+      "journal": "Int J Gynaecol Obstet",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "89",
+      "issue": "2",
+      "page_start": "152",
+      "page_end": "153",
+      "doi": "10.1016/j.ijgo.2004.12.046",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:15847884",
+        "biblstruct_identifiers_unknown": "PMid:15847884"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.ijgo.2004.12.046",
+        "http://dx.doi.org/10.1016/j.ijgo.2004.12.046"
+      ]
+    },
+    {
+      "id": "b217",
+      "target": "b216",
+      "title": "Genital myiasis in a woman with psychiatric disturbance",
+      "authors": [
+        "B Silva",
+        "S Vieira",
+        "E Coelho",
+        "V Machado",
+        "U Borges",
+        "Silveira Filho",
+        "M"
+      ],
+      "journal": "BJOG",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "112",
+      "issue": "7",
+      "page_start": "1000",
+      "page_end": "1001",
+      "doi": "10.1111/j.1471-0528.2005.00556.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:15958009",
+        "biblstruct_identifiers_unknown": "PMid:15958009"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/j.1471-0528.2005.00556.x",
+        "http://dx.doi.org/10.1111/j.1471-0528.2005.00556.x"
+      ]
+    },
+    {
+      "id": "b218",
+      "target": "b217",
+      "title": "Inseticidas no controle de larvas de mosca da espécie Cochliomyia hominivorax (Coquerel)",
+      "authors": [
+        "D Silva",
+        "W Vianna",
+        "F Lomba"
+      ],
+      "journal": "Bol Ind Anim",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "48",
+      "issue": "1",
+      "page_start": "1",
+      "page_end": "6"
+    },
+    {
+      "id": "b219",
+      "target": "b218",
+      "title": "Endectocide activity of a pour-on formulation containing 1.5 per cent ivermectin +0.5 per cent abamectin in cattle",
+      "authors": [
+        "H Silva",
+        "N Prette",
+        "W Lopes",
+        "C Sakamoto",
+        "C Buzzulini",
+        "Dos Santos",
+        "T"
+      ],
+      "journal": "Vet Rec Open",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "2",
+      "issue": "1",
+      "pages": "72",
+      "doi": "10.1136/vetreco-2014-000072",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26392893",
+        "biblstruct_identifiers_unknown": "PMid:26392893"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1136/vetreco-2014-000072",
+        "http://dx.doi.org/10.1136/vetreco-2014-000072"
+      ]
+    },
+    {
+      "id": "b220",
+      "target": "b219",
+      "title": "Parâmetros farmacocinéticos e atividade endectocida de uma nova formulação contendo avermectinas, via tópica (pour-on)",
+      "authors": "H Silva",
+      "publication_date": "2008",
+      "year": 2008,
+      "notes": "em bovinos [tese"
+    },
+    {
+      "id": "b221",
+      "target": "b220",
+      "title": "Acetylcholinesterase cDNA sequencing and identification of mutations associated with organophosphate resistance in Cochliomyia hominivorax (Diptera: calliphoridae)",
+      "authors": [
+        "N Silva",
+        "R Carvalho",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Vet Parasitol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "177",
+      "issue": "1-2",
+      "page_start": "190",
+      "page_end": "195",
+      "doi": "10.1016/j.vetpar.2010.11.017",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:21159442",
+        "biblstruct_identifiers_unknown": "PMid:21159442"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.vetpar.2010.11.017",
+        "http://dx.doi.org/10.1016/j.vetpar.2010.11.017"
+      ]
+    },
+    {
+      "id": "b222",
+      "target": "b221",
+      "title": "Megaselia scalaris (Diptera: Phoridae) causing myiasis in Crotalus durissus terrificus (Serpentes: Viperidae) in Brazil",
+      "authors": [
+        "R Silva",
+        "A Prado",
+        "R Rodrigues",
+        "C Lopes",
+        "W Godoy"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "36",
+      "issue": "5",
+      "pages": "630",
+      "doi": "10.1093/jmedent/36.5.630",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:10534959",
+        "biblstruct_identifiers_unknown": "PMid:10534959"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1093/jmedent/36.5.630",
+        "http://dx.doi.org/10.1093/jmedent/36.5.630"
+      ]
+    },
+    {
+      "id": "b223",
+      "target": "b222",
+      "title": "Contribuição ao estudo das miíases em oto-rino-laringologia",
+      "authors": "A Souza",
+      "notes": "tese"
+    },
+    {
+      "id": "b224",
+      "target": "b223",
+      "authors": "Porto Alegre",
+      "publication_date": "1939",
+      "year": 1939
+    },
+    {
+      "id": "b225",
+      "target": "b224",
+      "title": "Myiasis caused by the New World screwworm fly Cochliomyia hominivorax (Diptera: Calliphoridae) in cats from Brazil: report of five cases",
+      "authors": [
+        "C Souza",
+        "G Verocai",
+        "R Ramadinha"
+      ],
+      "journal": "J Feline Med Surg",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "12",
+      "issue": "2",
+      "page_start": "166",
+      "page_end": "168",
+      "doi": "10.1016/j.jfms.2009.08.003",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:19796976",
+        "biblstruct_identifiers_unknown": "PMid:19796976"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1016/j.jfms.2009.08.003",
+        "http://dx.doi.org/10.1016/j.jfms.2009.08.003"
+      ]
+    },
+    {
+      "id": "b226",
+      "target": "b225",
+      "title": "Influência do clima e da cobertura de solo na mortalidade de Cochliomyia hominivorax (Coquerel, 1858) (Diptera: Calliphoridae) e na atuação de seus inimigos naturais",
+      "authors": [
+        "J Souza",
+        "M Pires",
+        "A Sanavria"
+      ],
+      "journal": "Biosci J",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "26",
+      "issue": "1",
+      "page_start": "136",
+      "page_end": "146"
+    },
+    {
+      "id": "b227",
+      "target": "b226",
+      "title": "Cases of buccal myiasis in the bullfrog (Rana cates beiana Shaw, 1802), with larvae of Notochaeta sp. Aldrich, 1916 (Diptera: Sarcophagidae) in São Paulo",
+      "authors": [
+        "Souza Fl",
+        "Cwo Souza",
+        "M Hipolito",
+        "L Baldassi",
+        "M Martins"
+      ],
+      "journal": "Brazil. Mem Inst Oswaldo Cruz",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "84",
+      "issue": "Suppl 4",
+      "page_start": "517",
+      "page_end": "518",
+      "doi": "10.1590/S0074-02761989000800091",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0074-02761989000800091",
+        "http://dx.doi.org/10.1590/S0074-02761989000800091"
+      ]
+    },
+    {
+      "id": "b228",
+      "target": "b227",
+      "title": "abundância e riqueza de Calliphoridae (Diptera) das matas e clareiras com diferentes coberturas vegetais da Base de Extração Petrolífera, bacia do Rio Urucu",
+      "authors": [
+        "Jrp Sousa",
+        "M Esposito",
+        "F Carvalho-Filho",
+        "Composição"
+      ],
+      "journal": "Rev Bras Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "54",
+      "issue": "2",
+      "page_start": "270",
+      "page_end": "276",
+      "doi": "10.1590/S0085-56262010000200010",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0085-56262010000200010",
+        "http://dx.doi.org/10.1590/S0085-56262010000200010"
+      ]
+    },
+    {
+      "id": "b229",
+      "target": "b228",
+      "title": "Blow flies from forest fragments embedded in different land uses: implications for selecting indicators in forensic entomology",
+      "authors": [
+        "M Souza",
+        "M Pepinelli",
+        "E De Almeida",
+        "J Ochoa-Quintero",
+        "F Roque"
+      ],
+      "journal": "J Forensic Sci",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "61",
+      "issue": "1",
+      "page_start": "93",
+      "page_end": "98",
+      "doi": "10.1111/1556-4029.12869",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:26251038",
+        "biblstruct_identifiers_unknown": "PMid:26251038"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/1556-4029.12869",
+        "http://dx.doi.org/10.1111/1556-4029.12869"
+      ]
+    },
+    {
+      "id": "b230",
+      "target": "b229",
+      "title": "Prevalência das dermatopatias não-tumorais em cães do município de Santa Maria",
+      "authors": [
+        "T Souza",
+        "R Figheira",
+        "C Schmidt",
+        "A Requia",
+        "J Brum",
+        "T Martins"
+      ],
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "29",
+      "page_start": "157",
+      "page_end": "162",
+      "doi": "10.1590/S0100-736X2009000200013",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0100-736X2009000200013",
+        "http://dx.doi.org/10.1590/S0100-736X2009000200013"
+      ]
+    },
+    {
+      "id": "b231",
+      "target": "b230",
+      "title": "Aspectos epidemiológicos e patológicos da endocardite bacteriana em cães: 54 casos (2000-2005)",
+      "authors": [
+        "C Spagnol",
+        "A Loretti",
+        "E Oliveira",
+        "R Oliveira",
+        "D Driemeier"
+      ],
+      "journal": "Acta Sci Vet",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "34",
+      "issue": "3",
+      "page_start": "255",
+      "page_end": "260",
+      "doi": "10.22456/1679-9216.15376",
+      "urls": [
+        "http://dx.doi.org/10.22456/1679-9216.15376",
+        "http://dx.doi.org/10.22456/1679-9216.15376"
+      ]
+    },
+    {
+      "id": "b232",
+      "target": "b231",
+      "title": "EMBRAPA",
+      "authors": [
+        "T Taira",
+        "A Oliveira",
+        "J Nicácio",
+        "A Abot",
+        "W Koller",
+        "S Rodrigues"
+      ],
+      "publication_date": "2011",
+      "year": 2011,
+      "urls": [
+        "https://www.embrapa.br/en/busca-de-publicacoes/-/publicacao/914750/ocorrencia-de-moscas-sinantropicas-em-borda-de-mata-de-galeria-no-sistema-serra-de-maracaju",
+        "https://www.embrapa.br/en/busca-de-publicacoes/-/publicacao/914750/ocorrencia-de-moscas-sinantropicas-em-borda-de-mata-de-galeria-no-sistema-serra-de-maracaju"
+      ]
+    },
+    {
+      "id": "b233",
+      "target": "b232",
+      "title": "Oftalmomiíase externa causada por Cochliomyia hominivorax",
+      "authors": [
+        "R Takahagi",
+        "F Gonçalves",
+        "N Madeira",
+        "S Schellini"
+      ],
+      "journal": "Rev Bras Oftalmol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "66",
+      "issue": "1",
+      "page_start": "58",
+      "page_end": "62"
+    },
+    {
+      "id": "b234",
+      "target": "b233",
+      "title": "Use of ivermectin in the treatment of orbital myiasis caused by Cochliomyia hominivorax",
+      "authors": [
+        "P Tarso",
+        "P Pierre-Filho",
+        "N Minguini",
+        "L Pierre",
+        "A Pierre"
+      ],
+      "journal": "Scand J Infect Dis",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "36",
+      "issue": "6-7",
+      "page_start": "503",
+      "page_end": "505",
+      "doi": "10.1080/00365540410020136",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:15307583",
+        "biblstruct_identifiers_unknown": "PMid:15307583"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1080/00365540410020136",
+        "http://dx.doi.org/10.1080/00365540410020136"
+      ]
+    },
+    {
+      "id": "b235",
+      "target": "b234",
+      "title": "Population genetics and gene variation in screwworms (Diptera: Calliphoridae) from Brazil",
+      "authors": [
+        "D Taylor",
+        "Moya-Borja Peterson Rd 2nd",
+        "Ge"
+      ],
+      "journal": "Biochem Genet",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "34",
+      "issue": "1-2",
+      "page_start": "67",
+      "page_end": "76",
+      "doi": "10.1007/BF02396241",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:8935994",
+        "biblstruct_identifiers_unknown": "PMid:8935994"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/BF02396241",
+        "http://dx.doi.org/10.1007/BF02396241"
+      ]
+    },
+    {
+      "id": "b236",
+      "target": "b235",
+      "title": "Caracterização bioquímica do produto de excreção/secreção de larvas de Cochliomyia hominivorax (Diptera: calliphoridae)",
+      "authors": [
+        "D Teixeira",
+        "Lmf Borges",
+        "T Mastrangelo",
+        "V Monteiro"
+      ],
+      "journal": "Cienc Anim Bras",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "17",
+      "issue": "4",
+      "page_start": "581",
+      "page_end": "592",
+      "doi": "10.1590/1089-6891v17i437176",
+      "urls": [
+        "http://dx.doi.org/10.1590/1089-6891v17i437176",
+        "http://dx.doi.org/10.1590/1089-6891v17i437176"
+      ]
+    },
+    {
+      "id": "b237",
+      "target": "b236",
+      "title": "Miíase cervical em humano provocada por larvas de Cochliomyia hominivorax no Estado de Minas Gerais, Brasil -Relato de caso",
+      "authors": [
+        "Wfp Teixeira",
+        "B Cruz",
+        "W Maciel",
+        "G Felippelli",
+        "Lvs Matos",
+        "A Costa"
+      ],
+      "journal": "Ars Vet",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "29",
+      "issue": "4",
+      "pages": "110",
+      "doi": "10.15361/2175-0106.2013v29n4p110",
+      "urls": [
+        "http://dx.doi.org/10.15361/2175-0106",
+        "http://dx.doi.org/10.15361/2175-0106"
+      ]
+    },
+    {
+      "id": "b238",
+      "target": "b237",
+      "title": "Record of oral myiasis by Cochliomyia hominivorax (Diptera: Calliphoridae): case evidencing negligence in the treatment of incapable",
+      "authors": [
+        "P Thyssen",
+        "M Nassu",
+        "A Costella",
+        "M Costella"
+      ],
+      "journal": "Parasitol Res",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "111",
+      "issue": "2",
+      "pages": "22350677",
+      "doi": "10.1007/s00436-012-2856-3",
+      "urls": [
+        "http://dx.doi.org/10.1007/s00436-012-2856-3.PMid",
+        "http://dx.doi.org/10.1007/s00436-012-2856-3.PMid"
+      ]
+    },
+    {
+      "id": "b239",
+      "target": "b238",
+      "title": "Míiase com exposição de calota craniana causada pela associação de Cochliomyia hominivorax (Coquerel, 1858",
+      "authors": [
+        "D Vale",
+        "I Cavalieri",
+        "M Araujo",
+        "M Santos",
+        "Santos Canellas",
+        "J Espinola",
+        "L"
+      ],
+      "publisher": "Rio de Janeiro",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "22",
+      "page_start": "191",
+      "page_end": "196",
+      "doi": "10.1097/SCS.0b013e318231e1f3",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:22134326",
+        "biblstruct_identifiers_unknown": "PMid:22134326"
+      },
+      "notes": "Myiasis in palate by Cochliomyia hominivorax : Calliphoridae) em um paciente atendido em Hospital Público Entomotrópica",
+      "urls": [
+        "http://dx.doi.org/10.1097/SCS.0",
+        "http://dx.doi.org/10.1097/SCS.0"
+      ]
+    },
+    {
+      "id": "b240",
+      "target": "b239",
+      "title": "Genetic Variability in Mitochondrial DNA of the Screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae), from Brazil",
+      "authors": [
+        "Mei Vargas",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Biochem Genet",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "33",
+      "issue": "7-8",
+      "page_start": "237",
+      "page_end": "256",
+      "doi": "10.1007/BF02401854",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:8595051",
+        "biblstruct_identifiers_unknown": "PMid:8595051"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1007/BF02401854",
+        "http://dx.doi.org/10.1007/BF02401854"
+      ]
+    },
+    {
+      "id": "b241",
+      "target": "b240",
+      "title": "Sobre um tipo interessante de miíase dos bezerros e seu agente causal",
+      "authors": [
+        "Z Vaz",
+        "G Carvalho"
+      ],
+      "journal": "Rev Fac Med Vet S Paulo",
+      "publication_date": "1938",
+      "year": 1938,
+      "volume": "1",
+      "issue": "1",
+      "page_start": "1",
+      "page_end": "43",
+      "doi": "10.11606/issn.2318-5066.v1i1p43-48",
+      "urls": [
+        "http://dx.doi.org/10.11606/issn.2318-5066",
+        "http://dx.doi.org/10.11606/issn.2318-5066"
+      ]
+    },
+    {
+      "id": "b242",
+      "target": "b241",
+      "title": "Abundância e flutuação populacional das espécies de Chrysomya",
+      "authors": [
+        "Ees Vianna",
+        "Prp Costa",
+        "A Fernandes",
+        "P Ribeiro"
+      ]
+    },
+    {
+      "id": "b243",
+      "target": "b242",
+      "authors": "Em Pelotas",
+      "journal": "Iheringia Ser Zool",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "94",
+      "issue": "3",
+      "page_start": "231",
+      "page_end": "234",
+      "doi": "10.1590/S0073-47212004000300002",
+      "urls": [
+        "http://dx.doi.org/10.1590/S0073-47212004000300002",
+        "http://dx.doi.org/10.1590/S0073-47212004000300002"
+      ]
+    },
+    {
+      "id": "b244",
+      "target": "b243",
+      "title": "Screwworm eradication in the americas",
+      "authors": "J Wyss",
+      "journal": "Ann N Y Acad Sci",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "916",
+      "issue": "1",
+      "page_start": "186",
+      "page_end": "193",
+      "doi": "10.1111/j.1749-6632.2000.tb05289.x",
+      "identifiers": {
+        "analytic_identifiers_unknown": "PMid:11193620",
+        "biblstruct_identifiers_unknown": "PMid:11193620"
+      },
+      "urls": [
+        "http://dx.doi.org/10.1111/j.1749-6632.2000.tb05289.x",
+        "http://dx.doi.org/10.1111/j.1749-6632.2000.tb05289.x"
+      ]
+    },
+    {
+      "id": "b245",
+      "target": "b244",
+      "title": "Lesões proliferativas em pênis e prepúcio eqüinos",
+      "authors": "F Xavier",
+      "publication_date": "2010",
+      "year": 2010
+    },
+    {
+      "id": "b246",
+      "target": "b245",
+      "title": "Cochliomyia hominivorax (COQUEREL, 1858): meio alternativo para produção de larvas e testes prospectivos",
+      "authors": "Rmgb Yarzon",
+      "publication_date": "2005",
+      "year": 2005
+    },
+    {
+      "id": "b247",
+      "target": "b246",
+      "title": "Myiasis in man and animals in the Old World: a textbook for physicians. Butterworth: Veterinarians, and Zoologists",
+      "authors": "F Zumpt",
+      "publication_date": "1965",
+      "year": 1965
+    }
+  ]
+}

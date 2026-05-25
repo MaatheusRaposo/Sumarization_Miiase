@@ -1,0 +1,1944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance</title>
+				<funder>
+					<orgName type="full">Fundação de Amparo à Pesquisa do Estado de São Paulo</orgName>
+				</funder>
+				<funder ref="#_Jbym7WB #_D63CXVd #_zj8YJXC">
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-12">2010-12</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Renato</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Maria L</forename><surname>Azeredo-Espin</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Tatiana</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+							<email>tttorres@ib.usp.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">BMC Genomics</title>
+						<title level="j" type="abbrev">BMC Genomics</title>
+						<idno type="eISSN">1471-2164</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<date type="published" when="2010-12" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">55787ECE1DC02E2FC28142E138C507E4</idno>
+					<idno type="DOI">10.1186/1471-2164-11-695</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: The New World screw-worm (NWS), Cochliomyia hominivorax, is one of the most important myiasiscausing flies, causing severe losses to the livestock industry. In its current geographical distribution, this species has been controlled by the application of insecticides, mainly organophosphate (OP) compounds, but a number of lineages have been identified that are resistant to such chemicals. Despite its economic importance, only limited genetic information is available for the NWS. Here, as a part of an effort to characterize the C. hominivorax genome and identify putative genes involved in insecticide resistance, we sampled its transcriptome by deep sequencing of polyadenylated transcripts using the 454 sequencing technology.</p><p>Results: Deep sequencing on the 454 platform of three normalized libraries (larval, adult male and adult female) generated a total of 548,940 reads. Eighteen candidate genes coding for three metabolic detoxification enzyme families, cytochrome P450 monooxygenases, glutathione S-transferases and carboxyl/cholinesterases were selected and gene expression levels were measured using quantitative real-time polymerase chain reaction (qRT-PCR). Of the investigated candidates, only one gene was expressed differently between control and resistant larvae with, at least, a 10-fold down-regulation in the resistant larvae. The presence of mutations in the acetylcholinesterase (target site) and carboxylesterase E3 genes was investigated and all of the resistant flies presented E3 mutations previously associated with insecticide resistance.</p><p>Conclusions: Here, we provided the largest database of NWS expressed sequence tags that is an important resource, not only for further studies on the molecular basis of the OP resistance in NWS fly, but also for functional and comparative studies among Calliphoridae flies. Among our candidates, only one gene was found differentially expressed in resistant individuals, and its role on insecticide resistance should be further investigated. Furthermore, the absence of mutations in the OP target site and the high frequency of mutant carboxylesterase E3 indicate that metabolic resistance mechanisms have evolved predominantly in this species.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Background</head><p>Until very recently, the database of genomic sequences for insect species has been restricted to model species. Now, with the recent advances in DNA sequencing technology, the generation of sequence data has increased at an unprecedented rate. As new sequencing technologies became less expensive, it is possible to generate genomic information from non-model species.</p><p>This holds a great promise for several species with medical, veterinary or economic importance.</p><p>New World screw-worm (NWS), Cochliomyia hominivorax, is one of the most important insect pests in South and Central America <ref type="bibr" target="#b0">[1]</ref>. NWS myiasis is caused by the larval stage of the fly infesting tissues of warmblooded vertebrates. Such infestations cause significant losses in the livestock industry through morbidity, mortality and the cost of treating infested animals. This insect pest also represents a serious public health problem in the Caribbean region, where screw-worm infestations in humans are frequently reported <ref type="bibr" target="#b1">[2]</ref>. Historically, NWS was widely distributed from the southern U.S. to central Argentina. However, this species has been successfully eradicated from North and most of Central America by the Sterile Insect Technique <ref type="bibr" target="#b2">[3]</ref>. In South America and in the Caribbean region, however, this pest continues to affect the development of the livestock sector and wider economic development.</p><p>In its current geographical distribution, NWS has been controlled exclusively by chemical insecticides, in particular organophosphate (OP) and pyrethroid-based compounds <ref type="bibr" target="#b3">[4]</ref>. Nevertheless, the intensive use of these chemicals has led to the selection of resistant strains, which, in turn, compromises the effective control of NWS. In this context, the elucidation of the molecular basis of insecticide resistance in NWS is of great value to minimize its effect by adopting resistance management strategies. The major mechanisms of insecticide resistance already described in several insects involve the alteration of target sites inducing insensitivity to the insecticide (target-site resistance) and/or an increase in the rate of insecticide metabolism (metabolic resistance) <ref type="bibr" target="#b4">[5]</ref>. The metabolic resistance may result from coding sequence alteration of metabolic genes and/or overexpression of enzymes capable of metabolizing the insecticide <ref type="bibr" target="#b5">[6]</ref>.</p><p>Despite its medical and veterinary importance and its negative economic impact on the livestock sector, only limited genetic information is available for the NWS. Molecular studies in this species focused on the characterization of molecular markers in the mitochondrial <ref type="bibr" target="#b6">[7]</ref> and nuclear genomes <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b8">9]</ref>, their utilization in population genetic studies <ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> and the characterization of genes and substitutions involved in insecticide resistance <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b13">14,</ref><ref type="bibr" target="#b14">15]</ref>. In a recent study, one substitution was found in the acetylcholinesterase gene (AChE), whose product is the target of OP, but with a very low frequency in several NWS populations <ref type="bibr" target="#b15">[16]</ref>. No substitutions were found in the sodium channel gene, target of pyrethroids <ref type="bibr" target="#b14">[15]</ref>. In contrast, substitutions in the carboxylesterase E3 gene with very high frequencies were found in several NWS populations surveyed <ref type="bibr" target="#b13">[14]</ref><ref type="bibr" target="#b14">[15]</ref><ref type="bibr" target="#b15">[16]</ref>. This gene has been previously associated with OP resistance in the sheep blowfly Lucilia cuprina and in the housefly Musca domestica <ref type="bibr" target="#b16">[17,</ref><ref type="bibr" target="#b17">18]</ref>. In this enzyme, a G137D substitution in the oxyanion hole within the active site results in diethyl OP resistance and a second substitution, W251L, in the acyl pocket of the active site also confers resistance to OPs, mainly dimethyl OP compounds, and pyrethroids <ref type="bibr" target="#b18">[19,</ref><ref type="bibr" target="#b19">20]</ref>. However, there is no information currently available on metabolic resistance in NWS based on up-regulation of detoxification enzymes such as cytochrome P450 monooxygenases, glutathione S-transferases and carboxyl/cholinesterases. Now, the combined availability of a rapidly growing database of insect genomic sequences and the recent developments in sequencing technology provides an opportunity for genome-wide gene discovery in C. hominivorax, including genes that might be involved in insecticide resistance. Parallel sequencing of short cDNA fragments has been demonstrated as an excellent tool to generate genome-wide sequence information <ref type="bibr" target="#b20">[21]</ref><ref type="bibr" target="#b21">[22]</ref><ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref> as well as levels of gene expression <ref type="bibr" target="#b24">[25,</ref><ref type="bibr" target="#b25">26]</ref>.</p><p>Here, as a part of an effort to characterize the C. hominivorax genome and identify putative genes involved in insecticide resistance, we sampled its transcriptome by deep sequencing of polyadenylated transcripts using the 454 sequencing technology. In this study, we report the analysis of ~500,000 expressed sequence tags (ESTs) generated from three libraries (adult male, adult female and larvae), providing, to our knowledge, the largest EST database for a Calliphoridae species. We anticipate that the availability of these sequences will be of significant value to functional studies in C. hominivorax and closely related species in the Calliphoridae family.</p><p>Furthermore, we performed larval bioassays to select individuals resistant to an OP insecticide. The presence of acetylcholinesterase (target site) and carboxylesterase E3 mutations was investigated and quantitative polymerase chain reaction following reverse transcription (qRT-PCR) was used to identify differentially expressed genes putatively involved in metabolic resistance. Our results add to the basic knowledge of the molecular mechanisms involved in OP resistance and are of potential applied interest to assist the design of new and more effective strategies for controlling NWS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assembly</head><p>Deep sequencing on the 454 platform of the three normalized libraries generated a total of 548,940 reads of raw nucleotide sequence data with an average read length of 184 bp after the removal of low score ends (Table <ref type="table" target="#tab_0">1</ref>). An overview of the pipeline for the analysis of C. hominivorax ESTs is presented in Figure <ref type="figure" target="#fig_0">1</ref>.</p><p>After quality evaluation, 457,445 of the obtained reads were assembled using MIRA <ref type="bibr" target="#b26">[27]</ref>. A subset of these reads. 357,355 (78%), was considered in the assembly, which resulted in 37,432 unigenes (36,650 contigs and 782 singlets). The mean unigene size was 315 bp, with an average coverage of 5.2 sequences per nucleotide position. The average contig size obtained is consistent with previous reports describing EST sequencing using the 454 technology for different insect species, Melitaea cinxia <ref type="bibr" target="#b23">[24]</ref>, Sarcophaga crassipalpis <ref type="bibr" target="#b21">[22]</ref> and Chrysomela tremulae <ref type="bibr" target="#b20">[21]</ref>.</p><p>The average length of unigenes is affected by the high number of singletons and contigs formed by the assembly of very few short reads. This drawback resulting from the use of NGS is ameliorated by the depth of coverage. Increased sequence depth results in increase length coverage of cDNA sequence. Taking a subset of contigs formed by the assembly of at least 20 reads (3,630 contigs), the average contig size increased to 550 bp (Figure <ref type="figure" target="#fig_1">2</ref>). Sampling the 10% longest contigs (3,743 contigs), the average contig size increased to 660 bp with an average coverage of 9.8 sequences per nucleotide position. This sub-sampling showed that we have more than 3,700 contigs with very good coverage, quality and length for downstream analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Functional annotation of C. hominivorax unigenes</head><p>To infer the functional identity of the NWS unigenes, we mapped each unigene sequence to annotated transcripts from Anopheles gambiae, Aedes aegypti, Culex pipiens, Ixodes scapularis, Pediculus humanus and the 12 sequenced Drosophila species (Additional file 1) using tBLASTx <ref type="bibr" target="#b27">[28]</ref> with relaxed criteria (e &lt; 10 -4 , &gt; 50% identity, &gt; 20% of read length included in the high scoring segment pair, HSP). About 44% <ref type="bibr" target="#b15">(16,</ref><ref type="bibr">357)</ref> of the NWS unigenes could be mapped to this database of protein-coding transcripts from the 17 insect species (Figure <ref type="figure" target="#fig_2">3</ref> Additional file 1). Each NWS unigene was automatically assigned a gene annotation corresponding to the hit in the insect database with the highest E-value and that hit was considered as a putative homolog of the NWS gene. The number of NWS unigenes mapped to each insect library reflects the size of the library as well as the divergence of NWS to each insect species. The remaining unigenes <ref type="bibr" target="#b19">(20,</ref><ref type="bibr">990)</ref> were remotely BLASTed against NCBI's non-redundant database and 839 had an acceptable hit against this library under our criteria (e &lt; 10 -4 , &gt; 50% identity, &gt; 20% of read length included in the HSP). Blasting C. hominivorax unigenes against the NCBI's 'nr' database, we obtained 180 hits to bacterial sequences that are either in association with C. hominivorax or formerly present in the blood and/or meat used in the rearing media (data available upon request)</p><p>Gene ontology (GO) classifications <ref type="bibr" target="#b28">[29]</ref> of the corresponding D. melanogaster orthologs were obtained from Flybase <ref type="bibr" target="#b29">[30]</ref>. NWS unigenes were classified into the three GO categories: biological process, molecular function, and cellular component, according to the standard GO terms <ref type="bibr" target="#b30">[31]</ref>. The top 20 most represented GO categories in the pooled dataset are illustrated in Figure <ref type="figure" target="#fig_3">4</ref>. Under the category of biological process, proteolysis, protein amino acid phosphorylation, transport, mesoderm development and regulation of transcription were among the most highly Reads from male, female and larval libraries were sorted by their unique multiplex identifiers sequences (MID)  represented categories, reflecting the most important metabolic activities in C. hominivorax. The representation of the GO categories were very similar between male and female libraries. In larval libraries, some categories were over-represented, reflecting fundamental processes enriched in larvae, such as proteolysis, transport and the accumulation of lipids. Some genes belonging to GO classes putatively involved in organophosphate resistance were selected for gene expression evaluation: cholinesterase, carboxylesterase, juvenile-hormone esterase, serine-type carboxypeptidase, glutathione transferase and monooxygenase activities (Table <ref type="table" target="#tab_1">2</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of sex-specific and stage-specific transcripts</head><p>Reads from male, female and larval libraries were sorted by their unique multiplex identifiers sequences (MID) and the number of 454-ESTs derived from each library is presented in Table <ref type="table" target="#tab_0">1</ref>. To identify sex-and stage-specific transcripts, we mapped the sorted reads against NWS unigenes (i.e., we performed similarity searches against the database of NWS unigenes). The largest library, adult female, showed the highest number of exclusive (library-specific) unigenes (Figure <ref type="figure" target="#fig_4">5</ref>), due to a higher chance of sampling rare transcripts. To reduce this artefact, we normalized the read counts by the total number of reads in each library and chose a threshold of a minimum representation (in number of reads) for any given unigene. The threshold was set to reduce the  number of shared unigenes sampled by chance in only one library. We chose an arbitrary threshold of 5 reads in the smallest library (male), which corresponded to 7 reads in the larval library and 9 reads in the female library. In fact, the female library had the smallest number of exclusive unigenes with a sufficient representation (289 unigenes). The larval library had the highest number of exclusive unigenes (628), closely followed by the male library (586 exclusive unigenes). Approximately 40% of the female-and male-specific unigenes were mapped to the database of D. melanogaster transcripts as described above (121 and 236 unigenes, respectively). Almost 55% of the larval-specific transcripts were mapped to the same database (339 unigenes). For each library-specific unigene we recorded the gene-level highthroughput expression data of the putative ortholog in D. melanogaster obtained from Flybase <ref type="bibr" target="#b29">[30]</ref>. We used the expression data from L3 Larva (Puff stage 1-2), 1-day-old adult males and 1-day-old adult females (Figure <ref type="figure" target="#fig_5">6</ref>). By using this approach we could assess if the library-specific genes indeed have a stage-or sex-biased expression. We could only find a consistent pattern in the larval-specific genes; the unigenes that were found exclusively in our larval library also showed a higher expression level of the putative ortholog in D. melanogaster. Among the putative orthologs with a clear larvalbiased expression in D. melanogaster were four larval cuticle proteins, two larval serum proteins and three cuticular proteins, known for their higher expression in larvae. As expected, for most male-and female-exclusive unigenes we could not recover a sex-biased expression in D. melanogaster orthologs. Sex-biased genes often evolve more rapidly, both in coding and regulatory The number of unigenes represents the number of assembled contigs that were mapped to the corresponding gene in D. melanogaster and the number of reads represents the the sum of the number of reads that were used for the assembly of each contig. sequence [reviewed in <ref type="bibr" target="#b31">[32]</ref>]. Hence, one would not expect the conservation of expression levels between these two highly divergent species.</p><p>In non-normalized cDNA samples, the number of reads mapping to a specific unigene should be proportional to its level of expression. However, differences in transcript abundance in our normalized libraries may reflect different normalization efficiency rather than genuine differences in gene expression. Nevertheless, highly abundant libraryspecific transcripts are potential candidates for differentially expressed genes among the different libraries. Hence, we performed an analysis to identify such genes by aligning the sorted reads against all unigenes. The number of reads from each library normalized by the library size was used as a measure of the transcript abundance. Comparing the larval library and the combined adult libraries, we found 645 unigenes with at least a 10-fold difference in the representation of reads (Additional file 2). In our comparison between sexes (Additional file 3), the number of transcripts with different representation was 101 (with at least a 10 fold difference). The top 20 unigenes with a different representation had an average fold change of 29 in the comparison between larval and adult samples and of 46 in the comparison between male and female library. Most likely, the fold changes reported here are underestimations of the different representation of the transcripts in the three libraries, due to the small dynamic range of this analysis, but our purpose was to indicate some candidate genes for further studies, rather than a genome-wide gene expression profiling.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparison to publicly-available C. hominivorax sequences</head><p>We compared our ESTs to NWS sequences available in public databases. Most of these sequences were nonannotated ESTs sequenced using the Sanger technology from a single study <ref type="bibr" target="#b32">[33]</ref>. We assembled the 18,000 publicly-available ESTs (Acession numbers FG282693-FG301340) into 3,439 contigs and 2,694 singlets and mapped our unigenes against this database using BLAST <ref type="bibr" target="#b33">[34]</ref>. The comparison between our library and the Sanger sequences showed that only 6,719 of our unigenes have a hit in the Sanger library. The high number of non-mapped hits in our library against the former one reflects the recovery of low expressed transcripts due to the higher throughput of our analysis.</p><p>To determine the source of the non-mapped transcripts, we aligned all 454-reads sorted to each library (larval, adult males, adult females) against the assembled Sanger sequences using PanGEA <ref type="bibr" target="#b34">[35]</ref>. Of the total good quality reads in each library, we could map 31,950 (22%), 32,088 (17%) and 16,864 (15%) to the larval, adult female and adult male libraries, respectively. As expected, the largest number of mapped reads originates from the larval library, given that the Sanger libraries were derived from C. hominivorax larvae and eggs.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of genes related to secondary metabolism</head><p>Genes coding for three enzyme families, cytochrome P450 monooxygenases (CYP), glutathione S-transferases For each library-specific unigene we recorded the gene level high throughput expression data of the putative ortholog in D. melanogaster obtained from Flybase. The expression levels are sorted in bins that are represented by different colours. We used the same bins and colours as in Flybase. The D. melanogaster orthologs are displayed from the highest number of reads in the NWS libraries (top) to the lowest (bottom) in each library. The NWS larval-specific unigenes also showed a higher expression level in the putative ortholog in D. melanogaster. We only included in this analysis NWS unigenes represented by at least 10 reads in the male library, which corresponded to 13 and 17 reads in the larval and female library, respectively.</p><p>(GST) and carboxyl/cholinesterases (CCE), putatively involved in metabolic detoxification of insecticides were selected after the functional annotation against D. melanogaster database <ref type="bibr" target="#b29">[30]</ref>. NWS unigenes mapped to 34 D. melanogaster genes of the CYP family. Of these, 28 corresponded to CYP subfamilies found to be involved in insecticide resistance in previous studies [reviewed in <ref type="bibr" target="#b35">[36]</ref>] and among them, 15 belonged to the CYP6, eight to the CYP4 and five to the CYP12 subfamilies. Seven CCE and six GST genes were also found among NWS unigenes. All NWS unigenes that mapped to these D. melanogaster genes were remotely searched in NCBI (blastx) to confirm the identity of the NWS sequences. Candidate genes (Table <ref type="table" target="#tab_1">2</ref>) for the gene expression analysis using quantitative real time PCR (qRT-PCR) were selected based on unambiguous alignments between NWS unigenes and D. melanogaster annotated genes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carboxylesterase and acetylcholinesterase genotyping</head><p>Bioassays with the dimethyl organophosphate dichlorvos (dimethyl 2,2-dichlorovinyl phosphate) performed in duplicate with 500 NWS larvae selected 44 and 58 resistant individuals in each replicate (R1 and R2, respectively). A non-treated group was used as a control for further analyses. To identify allelic variants possibly involved in OP resistance, we genotyped three substitutions (I298V, G401A e F466Y) in the AChE gene previously associated with OP resistance in D. melanogaster and L. cuprina <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>. These three substitutions occur at key sites located within the active site gorge of this enzyme. The alteration of these amino acids results in a reduced sensitivity to OP and carbamate insecticides <ref type="bibr" target="#b36">[37,</ref><ref type="bibr" target="#b37">38]</ref>.</p><p>Two regions containing these three substitutions (Figure <ref type="figure" target="#fig_6">7A</ref>) were amplified from the cDNA synthesized using the RNA pools from each group, control (C) and resistant group 1 (replicate 1, R1). The PCR products were directly sequenced and only the wildtype allele was observed.</p><p>Polymerase Chain Reaction-Restriction Fragment Length Polymorphism (PCR-RFLP) was used to identify two substitutions, G137D and W251S, previously characterized in NWS carboxylesterase gene, E3 <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b13">14]</ref> and associated with insecticide resistance (Figure <ref type="figure" target="#fig_6">7B</ref>). The G137D substitution in the oxyanion hole within the active site of the enzyme causes a shift in the enzyme function, from a carboxylesterase to an OP hydrolase activity. This shift confers resistance to OP insecticides with a preference for diethyl OPs. The second substitution, W251S, in the acyl pocket of the active site also confers resistance to OP insecticides, but with this substitution, the enzyme acquires a higher affinity for dimethyl OP compounds <ref type="bibr" target="#b17">[18]</ref>. Of 40 individuals analyzed from the control group, 17 showed a substitution only on the first site (G137D), 13 only on the second site (W251S) and 10 on both sites. Individuals with both mutations had been cloned and sequenced previously <ref type="bibr" target="#b3">[4]</ref> showing only one mutation in each allele, according to studies in L. cuprina <ref type="bibr" target="#b38">[39]</ref>. However, all 44 resistant individuals (R1 group) were homozygous for the mutated allele, with the W251S substitution, indicating a strong association between this mutation and dichlorvos (a dimethyl OP) resistance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantitative measure of gene expression in OP resistant larvae</head><p>Gene expression levels were measured for 18 candidate genes by qRT-PCR (Table <ref type="table" target="#tab_1">2</ref> Additional file 4). Of these, only one showed significant differences between control and resistant groups 1 (R1) and 2 (R2). In both resistant groups, R1 and R2, a putative ortholog to the cyp6g1 gene was down-regulated when compared to the control group. A one-way ANOVA between control and resistant groups was conducted to compare the levels of gene expression of cyp6g1. There was a significant difference on gene expression levels [F(2, 6) = 83.61, p = 0.00004]. Post hoc comparisons using the Tukey HSD test indicated that the expression levels of cyp6g1 were significantly reduced in both resistant samples, R1 (p = 0.00003) and R2 (p = 0.0006). This gene was approximately 45-fold and 10-fold down-regulated in R1 in R2, respectively (Figure <ref type="figure" target="#fig_7">8</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Given the economic importance of C. hominivorax it is surprising that only now there is an interest in functional studies involving this livestock pest. Here, we took advantage of NGS to sequence and characterize C. hominivorax expressed sequence tags from three normalized libraries prepared with larval, adult female and adult male samples. We used the different normalized libraries to sample stage-and sex-specific transcripts involved in NWS metabolism, and therefore, candidates for an involvement in metabolic insecticide resistance. Furthermore, we wanted to generate a database of stage-specific transcripts that can be useful for future investigations of genes and gene networks involved in screw-worm infestations.</p><p>A large proportion of C. hominivorax cDNAs contain novel sequences that apparently have no significant match in any of the existing databases. This is expected, as there is very little sequence information from closely related species. Most of the non-mapped sequences are probably too divergent from sequences deposited in the available databases. A small proportion of these ESTs, however, probably derive from unique genes in C. hominivorax, and may include olfactory and gustatory receptors that are of interest for investigations into the feeding behavior of this parasitic species.</p><p>We used this data to investigate molecular mechanisms involved in organophosphate resistance in NWS fly. A bioassay with the dimethyl OP dichlorvos was conducted in order to select resistant individuals. Acetylcholinesterase (AChE), target of OP insecticides, is a key enzyme in the nervous system hydrolyzing excess amounts of acetylcholine into acetic acid and choline in the synapses and neuromuscular junctions <ref type="bibr" target="#b39">[40]</ref>. None of the previously identified variants was found in the AChE sequence in any of tested groups, suggesting that OP resistance in NWS is rather due to detoxification enzymes, unless other mutations not evaluated occurred in the AChE gene. Most variants on the AChE active site might be deleterious and result in a high fitness cost. Hence, such variants are not likely to be maintained as segregating polymorphisms in the population in the absence of a strong selection pressure. As the mutated NWS carboxylesterase E3 degrades the insecticide before it can act on the AChE target site, there is no pressure to maintain the deleterious AchE variants, as verified in L. cuprina <ref type="bibr" target="#b17">[18,</ref><ref type="bibr" target="#b40">41]</ref>.</p><p>Elevated carboxylesterases levels associated with resistance to OP and carbamate insecticides have been well documented in numerous arthropod species <ref type="bibr" target="#b41">[42]</ref>. However, altered carboxylesterase resulting in OP hydrolase activity has been described only for some dipteran species. Substitutions in NWS E3 gene were found in all individuals from the resistant and control groups. However, three different genotypes were found in control group, while all individuals resistant to dichlorvos showed a single genotype; they were all homozygous for the W251S allele. This evidence is strongly supported by biochemical studies in L. cuprina in which alteration in the acyl pocket of the active site also confers resistance to dimethyl OPs <ref type="bibr" target="#b19">[20]</ref>. Although in vitro expression for E3 gene has not been performed in NWS, our data indicate that a similar resistance based on altered E3 has evolved in NWS fly.</p><p>Besides carboxylesterases, up-regulation of genes encoding P450 s and GSTs has been frequently associated with metabolic-based insecticide resistance mechanisms in insects <ref type="bibr" target="#b35">[36,</ref><ref type="bibr" target="#b42">43]</ref>. In this context, this study is the first evaluation of the expression levels of genes putatively involved in insecticide metabolism in NWS. Of the 18 evaluated genes, only one showed differential gene expression among resistant and control groups, the putative ortholog to CYP6G1.</p><p>Since P450 s play a key role in detoxifying numerous xenobiotic compounds, we expected their involvement in dichlorvos metabolism. However, we did not observe an up-regulation in any of the CYP genes analyzed in the resistant groups (R1 and R2). The association of the high expression of the CYP6G1 gene with insecticide resistance is still in debate. Over-expression of the CYP6G1 gene was reported in D. melanogaster strains resistant to imidacloprid and dichlorodiphenyltrichloroethane (DDT) <ref type="bibr" target="#b43">[44]</ref>. The over-expression in resistant individuals of D. melanogaster from several populations was associated with the insertion of an Accord element in the upstream regulatory region of the CYP6G1 gene <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>. The resistant individuals of D. melanogaster constitutively over-expressed cyp6g1, regardless of a The gene expression level of cyp6g1 was measured for the control and resistant samples by qRT-PCR In both resistant groups, R1 and R2, a the gene was down-regulated when compared to the control group. It was approximately 45-fold down-regulated in R1 and 10-fold in R2. *, p &lt; 0.01; **, p &lt; 0.001; ***, p &lt; 0.0001 previous contact with the insecticide <ref type="bibr" target="#b44">[45,</ref><ref type="bibr" target="#b45">46]</ref>. In our experimental design it was not possible to distinguish the two scenarios, the constitutive low expression of cyp6g1 in resistant individuals or its inhibition after the insecticide treatment. The analysis of individual levels of the cyp6g1 transcript will shed light to this question. Contrary to these findings in D. melanogaster, a lack of correlation between cyp6g1 expression and DDT resistance was observed in other studies <ref type="bibr" target="#b46">[47]</ref><ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref>. Our results add yet more complexity to this debate. A putative ortholog to cyp6g1 was substantially down-regulated in NWS resistant individuals and this is the first report of down-regulation of this CYP gene possibly associated with insecticide resistance. These intriguing cyp6g1 results motivate further investigations to understand the involvement of this gene in insecticide resistance.</p><p>It has been previously reported that some organophosphate insecticides require an oxidative biotransformation into more toxic structures that inhibit acetylcholinesterase, a process that is mediated by some P450 enzymes <ref type="bibr" target="#b49">[50]</ref>. In such cases, a decrease of the expression levels of these CYP genes would be an advantage in the presence of an OP insecticide by preventing its bioactivation by P450 enzymes. Although this seems a reasonable explanation for our observed decrease in gene expression, it may not apply to the OP we used (dichlorvos) because its structure already contains the phosphate (P = O) biologically active as AChE inhibitors <ref type="bibr" target="#b50">[51]</ref>. Nonetheless, the possible involvement of a reduced level of a P450 enzyme with insecticide resistance brings about a discussion on the use of synergistic compounds like PBO that inhibit P450 and esterase <ref type="bibr" target="#b51">[52]</ref>. Our results are in line with previous studies indicating these synergists should be used with caution as in some concentrations they could reduce the insecticide efficacy <ref type="bibr" target="#b52">[53,</ref><ref type="bibr" target="#b53">54]</ref>.</p><p>An alternative explanation to this observation is the genetic linkage between the E3 mutant allele and the allele associated with low-expression levels of CYP6G1. In this case, the difference in CYP6G1 expression levels between the control and resistant samples may have resulted from the selection of cis-or trans-acting regulatory variants linked to the selected E3 allele. A third possible scenario for the observed changes in expression levels of CYP6G1 involves the alternative splicing of this gene in the presence of the insecticide <ref type="bibr" target="#b54">[55,</ref><ref type="bibr" target="#b55">56]</ref>. It is possible that we measured the expression (by qRT-PCR) of exons that are skipped in the presence of the insecticide.</p><p>Contrary to our expectations, none of the 18 genes analyzed showed an increased expression level in the resistant screw-worms. Considering all P450 s, GSTs and CCEs found among in C. hominivorax characterized transcripts, we analyzed only some genes putatively associated with metabolic resistance and, therefore, we cannot rule out the possibility that other genes are involved in the insecticide resistance in this species. RNA sequencing is a promising approach for identifying novel genes involved in insecticide resistance and it is a natural follow-up to our analysis. Nonetheless, it is possible that the insecticide concentration we used (LC90) was too high to allow the metabolic resistance based on the over-expression of hydrolyzing enzymes. This high pressure has selected only individuals that are homozygous for the W251S allele of the E3 gene. This result, associated with the population survey <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b56">57]</ref>, represents a strong evidence that altered carboxylesterase E3 is the major mechanism of OP insecticide resistance in NWS. Therefore, the identification of mutations in E3 gene in NWS natural populations can provide important information regarding susceptibility to some class of insecticides and contribute to implement more effective strategies for NWS control.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>By using 454 pyrosequencing we have sampled screwworm transcribed sequences more deeply than has been previously done, providing a large database of protein coding genes. This database is a rich resource, paving the way for future functional studies involving C. hominivorax and other Calliphoridae species.</p><p>We used this database to investigate the molecular base of the OP resistance in NWS fly. Absence of mutations in the target site indicates that metabolic resistance mechanisms have evolved preferentially in this species. Although no carboxylesterase E3 overexpression has been verified, high correlation between mutation W251S in this gene and resistant phenotypes strongly suggests involvement of this enzyme in dichlorvos metabolism. Real-time PCR revealed that CYP6G1 is notably under-expressed in resistant individuals. Further empiric studies by using RNA interference could confirm the role of these genes in the resistance phenotype. Although resistance is an inevitable consequence of intensive insecticide use, a better understanding of its genetic basis may help us to implement effective management strategies to control insect pests and reduce damage resulting from their infestations.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>C. hominivorax strains</head><p>Screwworm larvae were collected from infested cattle wounds in Caiapônia, Goiás, Brazil. The fly culture was maintained in the laboratory for nearly one year prior to sequencing. Larvae were reared at 30°C ± 5 °C in a medium consisting of fresh ground beef supplemented with blood and water (2:1). Mature larvae were allowed to pupate in sawdust. Adults were maintained in cages <ref type="bibr">(34 × 50 × 26)</ref> at 25°C and fed with a diet composed of dried milk, sugar and yeast ferment.</p><p>In order to obtain sex-specific and stage-specific transcripts, total RNA from each sample was extracted separately with Trizol (Invitrogen) from whole bodies of 20 larvae, 10 adult females and 10 adult males. Extracted RNA was treated with Terminator™ 5'-Phosphate-Dependent Exonuclease (1 unit/50 μg of total RNA) (Epicentre Biotechnologies) for producing mRNAenriched samples by selectively digesting the ribossomal RNA. Genomic DNA contamination was removed by DNase I (Invitrogen) and the mRNA-enriched samples were further purified by using Nucleospin RNA Cleanup columns (Macherey Nagel). Quantification of RNA was performed using the fluorometer 'Qubit Quantitation Platform' (Invitrogen).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>cDNA synthesis and normalization</head><p>First-strand cDNA was generated from approximately 0.3 μg of mRNA using the SMART approach <ref type="bibr" target="#b57">[58]</ref>, according to the Trimmer cDNA normalization kit protocol (Evrogen) using the oligonucleotides CDS-3M (5'-AAG CAG TGG TAT CAA CGC AGA GTG GCC GAG GCG GCC(T) 20 VN-3') and SMART IV (5'-AAG CAG TGG TAT CAA CGC AGA GTG GCC ATT ACG GCC GGG-3'). Double-stranded cDNA was synthesized by using PCR primer IIA (5'-AAG CAG TGG TAT CAA CGC AGA G-3'). In order reduce the prevalence of abundant transcripts and increase the efficiency of rare transcript discovery, the resulting double-stranded cDNAs were normalized using a duplex-specific nuclease enzyme (Trimmer cDNA normalization kit, Evrogen) <ref type="bibr" target="#b58">[59]</ref>. Quantification cDNA samples before each procedure was performed using the fluorometer 'Qubit Quantitation Platform' (Invitrogen).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head n="454">sequencing</head><p>Approximately 5 μg of double-stranded cDNA prepared from each sample was used for library preparation following previously described methods <ref type="bibr" target="#b59">[60]</ref>. During library preparation, sample-specific MID adaptors (Table <ref type="table" target="#tab_0">1</ref>) were blunt-end ligated onto each DNA fragment in a sample. The three samples were pooled prior to sequencing, which was performed on a Genome Sequencer FLX Instrument (Roche Diagnostic) following standard protocols.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Assembly of 454-ESTs</head><p>Quality filtering and trimming of low quality read ends and of 454 adaptors were done using 454 run-time applications. SMART adaptors and MID sequences were removed from the 454 reads by using cross_match <ref type="bibr" target="#b60">[61]</ref>.</p><p>The processed reads were clustered using the MIRA v2.9.26x3 <ref type="bibr" target="#b26">[27]</ref> assembler with the "denovo, EST, normal, 454" parameters. The default assembly options of minimum read length of 40 nucleotides, minimum sequence overlap of 40 nucleotides and a minimum relative overlap score of 80% of similarity were used.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of library specific transcripts</head><p>To identify library-specific transcripts, raw 454-ESTs were sorted according to their MID sequence using an in-house Perl script (available on request). ESTs from each library were mapped against the assembled C. hominivorax unigenes using PanGEA <ref type="bibr" target="#b34">[35]</ref> with default parameters for 454 sequences. The number of sorted reads from each library mapped to each unigene (unigene-count) was used as the representation of that unigene in the analyzed library. Unigene-counts were normalized by dividing them by the total number of reads in each library. When no read was detected in one library, a value of '1' was used to avoid any division by zero.</p><p>Fold change in representation of a given unigene was calculated by dividing the highest normalized unigenecount observed between two samples by the lowest normalized unigene-count observed between the same two samples.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Blast searches and unigene annotation</head><p>Identity searches (tBLASTx) of unique sequences (unigenes) of C. hominivorax were done locally against a transcript database composed of sequences from the 12 Drosophila genomes (available from FlyBase <ref type="bibr" target="#b29">[30]</ref>), Anopheles gambiae, Aedes aegypti, Culex pipiens, Ixodes scapularis and Pediculus humanus genomes (available from VectorBase <ref type="bibr" target="#b61">[62]</ref>. The e-value cutoff was set at 1 × 10 -4 and only alignments with at least 50 bp were considered for unigenes with at least 50% identity with a sequence in the database over at least 50% of their length. Unigenes with no hit against this database were searched against the NCBI non-redundant 'nr' database. For the tBLASTx remote searches, we required an e-value of 1 × 10 -4 and a minimum of 50% of the sequence to be involved in the best hit, with at least 50% of identity. Both, local and remote, searches were automated using in-house Perl scripts (available upon request).</p><p>For gene ontology mapping, NWS unigenes were mapped to gene and transcript database of D. melanogaster release 5.22 (available from FlyBase). The hit with the highest E-value was considered as a putative homolog of the NWS unigene. The FlyBase identifier (FBgn#) of each D. melanogaster gene was used for gene ontology (GO) classification <ref type="bibr" target="#b28">[29,</ref><ref type="bibr" target="#b30">31]</ref> of the mapped NWS unigenes.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data availability</head><p>Raw 454 reads and assembled contigs (unigenes) were submitted to the Sequence Read Archive (SRA). SFF files containing raw sequences and sequence quality information can be accessed through the SRA web site under accession number SRA020973.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bioassay with dichlorvos</head><p>To identify genes with an altered level of gene expression after insecticide treatment, we performed a bioassay using the OP insecticide dichlorvos (dimethyl 2,2-dichlorovinyl phosphate; C 4 H 7 Cl 2 O 4 P). Larvae from the sequenced strain-third and fourth generations-were used in two bioassays (R1 and R2) to select the resistant individuals.</p><p>Firstly, we estimated the lethal concentration for 90% of the population (LC90). Concentration-response curves were first established by exposing second instar larvae to four OP concentrations (22.5 mg/L, 11.2 mg/L, 7.4 mg/L, 5.6 mg/L). The different insecticide amounts were directly mixed to larvae medium. Log probit analysis <ref type="bibr" target="#b62">[63]</ref> in the POLO-PC program (LeOra software) was used to calculate the LC90. Bioassays were carried out (in duplicate) by applying the estimated LC90 (20 mg/L) on 500 NWS larvae (L2 instar). Mortality was observed after 24 h exposure and larvae that survived to the treatment were collected immediately for RNA extraction.</p><p>The levels of gene expression of 18 candidate genes selected from the 454 data were analyzed in a non-treated (Control) and in the two groups (R1 and R2) that survived to dichlorvos treatment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Carboxylesterase and acetylcholinesterase genotyping</head><p>Based on NWS AChE previously sequenced, two sets of primers were used to amplify both regions containing three mutation sites: AChEF2 (5' CGATCCTGAT-CATTTAATCC 3') with AChER3 (5' TTGCAATCATT-TATCAAAGC 3') and AChEF3 (5' AATCCCCAAT CGGTTATG 3') with AChER2 (5' CCTCATCCTTGA-CATTTCC 3'), according to Silva et al <ref type="bibr" target="#b15">[16]</ref> (Figure <ref type="figure" target="#fig_6">7A</ref>). Direct sequencing of the PCR products was done in the ABI 377 automatic sequencer (Applied Biosystems).</p><p>PCR-RFLP was used to genotype E3 mutations (Figure <ref type="figure" target="#fig_6">7B</ref>). To amplify the region of the E3 gene with both mutation sites forward and reverse primers (7F1aN:5' GGCTCCAGAAACTAAACG 3' and 7R3a:5' ATCCT-TATCATTATTTTCACCC 3') were designed based on the E3 nucleotide sequence <ref type="bibr" target="#b3">[4]</ref>. Endonucleases Tsp45I and Eco130I (New England Biolabs) were used to identify the G137D and W251S mutations, respectively. The digested fragments were separated by electrophoresis on 2% agarose gels and stained with ethidium bromide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantitative real-time PCR</head><p>Based on the annotation of NWS unigenes, 18 were selected for the comparison of the gene expression levels (Table <ref type="table" target="#tab_1">2</ref>). Primer pairs for each unigene (Additional file 5) were designed using the Primer3 software <ref type="bibr" target="#b63">[64]</ref>.</p><p>Total RNA was individually extracted from larvae that survived to both bioassays (R1 and R2) and from a subset of larvae (n = 40) of the control group (C) using Trizol (Invitrogen). Five micrograms of total RNA were treated with DNase Turbo (Ambion) and the concentration was determined fluorometrically (Qubit, Invitrogen). First-strand cDNA was synthesized using 'RevertAid™ H Minus M-MuLV Reverse Transcriptase' (Fermentas). Resulting cDNAs were diluted 40 times for PCR reactions.</p><p>Data analysis was performed according to the ΔΔCT method <ref type="bibr" target="#b64">[65]</ref> and using the gene encoding the ribosomal protein rp49 as an endogenous control on the Real-Time 7500 PCR System (Applied Biosystems). The efficiency of PCR amplification for each gene-specific primer pair was analyzed with five serial dilutions in three technical replications. The real-time PCR was carried out in 12.5 μL reactions containing 6.25 μL SYBR Green PCR Master Mix (Applied Biosystems), 0.4 μM of each primer and 4.25 μL of diluted cDNA, according to manufacturer's instructions. Thermal cycling conditions were: 95°C for 10 min, 40 cycles of 95°C for 15 s and 60°C for 60 s. For the qRT-PCRs we used three biological replicates and each reaction was performed in triplicate. Data was statistically analyzed using analysis of variance (ANOVA).</p><p>between these groups was re-analyzed in a biological replicate, a second resistant group Additional file 5: Primer pairs used for the gene expression analysis using qRT-PCR. Annotated NWS unigenes with a possible role in insecticide resistance were selected for the comparison of the gene expression levels. Primer pairs for each unigene were designed using the Primer3 software <ref type="bibr" target="#b63">[64]</ref>.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Pipeline for the generation and analysis of C. hominivorax ESTs.</figDesc><graphic coords="3,62.92,430.34,223.12,271.75" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Distribution of contig length. Histogram based on a subset of contigs formed by the assembly of at least 20 reads (3,630 contigs), the average contig size increased to 550 bp.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Percentage of C. hominivorax unigenes mapped to the different databases used for automated annotation. tBLASTx searches were performed for each unigene against the last releases of annotated transcripts from the twelve Drosophila genomes (Flybase) and Aedes aegypti, Anopheles gambiae, Culex pipiens, Ixodes scapularis and Pediculus humanus (Vectorbase). Approximately 44% of the NWS unigenes were mapped against this database.</figDesc><graphic coords="4,62.68,95.63,223.57,156.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figure 4</head><label>4</label><figDesc>Figure 4 Top 20 Gene Ontology classes in the three C. hominivorax libraries. A comparison of the distribution across mainly represented Gene Ontology (GO) classes in our three libraries and in the pooled dataset. Twenty categories are shown for each (A) Biological process, (B) Molecular function and (C) Cellular component.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Figure 5</head><label>5</label><figDesc>Figure 5  Venn diagram showing the distribution of reads in the three C. hominivorax libraries. Reads from each library were mapped against NWS unigenes. This allowed the identification of reads shared between the three libraries, reads shared between two of them and library-specific reads.</figDesc><graphic coords="5,71.95,447.05,203.32,225.58" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Figure 6</head><label>6</label><figDesc>Figure 6  Analysis of the gene expression levels of the D. melanogaster orthologs of the NWS library-specific unigenes. For each library-specific unigene we recorded the gene level high throughput expression data of the putative ortholog in D. melanogaster obtained from Flybase. The expression levels are sorted in bins that are represented by different colours. We used the same bins and colours as in Flybase. The D. melanogaster orthologs are displayed from the highest number of reads in the NWS libraries (top) to the lowest (bottom) in each library. The NWS larval-specific unigenes also showed a higher expression level in the putative ortholog in D. melanogaster. We only included in this analysis NWS unigenes represented by at least 10 reads in the male library, which corresponded to 13 and 17 reads in the larval and female library, respectively.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Figure 7</head><label>7</label><figDesc>Figure 7 Carboxylesterase and acetylcholinesterase genotyping. Schematic representation of the loci and methods for the genotyping of the acetylcholinesterase (A) and carboxylesterase (B) substitutions.</figDesc><graphic coords="7,62.92,542.48,223.12,139.69" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head>Figure 8</head><label>8</label><figDesc>Figure 8 Expression of cyp6g1 in control and resistant samples. The gene expression level of cyp6g1 was measured for the control and resistant samples by qRT-PCR In both resistant groups, R1 and R2, a the gene was down-regulated when compared to the control group. It was approximately 45-fold down-regulated in R1 and 10-fold in R2. *, p &lt; 0.01; **, p &lt; 0.001; ***, p &lt; 0.0001</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Summary of C. hominivorax 454-EST data</figDesc><table><row><cell>MID</cell><cell>Sample</cell><cell>Number of reads</cell><cell>High quality reads*</cell><cell>Average read length</cell></row><row><cell>CGTGTCTCTA</cell><cell>Larvae</cell><cell>174,459</cell><cell>145,964</cell><cell>187 pb</cell></row><row><cell>CTCGCGTGTC</cell><cell>Male adults</cell><cell>132,646</cell><cell>111,119</cell><cell>184 pb</cell></row><row><cell>TAGTATCAGC</cell><cell>Female adults</cell><cell>232,332</cell><cell>192,547</cell><cell>182 pb</cell></row><row><cell>Not found</cell><cell>Not atributed</cell><cell>9,503</cell><cell>7,815</cell><cell>171 pb</cell></row><row><cell>Total</cell><cell>All</cell><cell>548,940</cell><cell>457,445</cell><cell>184 pb</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2</head><label>2</label><figDesc>Candidate genes selected for gene expression analysis via qRT-PCR</figDesc><table><row><cell>Gene family</cell><cell>Gene name</cell><cell>D. melanogaster ID</cell><cell>Number of unigenes</cell><cell>Number of reads</cell></row><row><cell>Esterases</cell><cell>Acethylcholinesterase</cell><cell>FBgn0000024</cell><cell>3</cell><cell>13</cell></row><row><cell></cell><cell>Alpha-Esterase-7 EST7</cell><cell>FBgn0015575</cell><cell>1</cell><cell>49</cell></row><row><cell></cell><cell>Alpha-Esterase-8 EST8</cell><cell>FBgn0015576</cell><cell>3</cell><cell>15</cell></row><row><cell></cell><cell>Alpha-Esterase-9 EST9</cell><cell>FBgn0015577</cell><cell>1</cell><cell>20</cell></row><row><cell></cell><cell>Juvenilehormone esterase</cell><cell>FBgn0010052</cell><cell>3</cell><cell>28</cell></row><row><cell></cell><cell>Serineprotease 7</cell><cell>FBgn0037515</cell><cell>4</cell><cell>42</cell></row><row><cell>GST</cell><cell>GlutathioneS transferase D1</cell><cell>FBgn0001149</cell><cell>14</cell><cell>205</cell></row><row><cell></cell><cell>GlutathioneS transferase E5</cell><cell>FBgn0063495</cell><cell>3</cell><cell>194</cell></row><row><cell></cell><cell>GlutathioneS transferase S1</cell><cell>FBgn0010226</cell><cell>5</cell><cell>223</cell></row><row><cell>P450</cell><cell>Cyp4ac1</cell><cell>FBgn0031693</cell><cell>2</cell><cell>8</cell></row><row><cell></cell><cell>Cyp4c3</cell><cell>FBgn0015032</cell><cell>1</cell><cell>2</cell></row><row><cell></cell><cell>Cyp4d2</cell><cell>FBgn0011576</cell><cell>3</cell><cell>12</cell></row><row><cell></cell><cell>Cyp6a14</cell><cell>FBgn0033302</cell><cell>5</cell><cell>46</cell></row><row><cell></cell><cell>Cyp6a9</cell><cell>FBgn0013771</cell><cell>13</cell><cell>132</cell></row><row><cell></cell><cell>Cyp6d4</cell><cell>FBgn0039006</cell><cell>4</cell><cell>30</cell></row><row><cell></cell><cell>Cyp6g1</cell><cell>FBgn0025454</cell><cell>4</cell><cell>14</cell></row><row><cell></cell><cell>Cyp6v1</cell><cell>FBgn0031126</cell><cell>2</cell><cell>14</cell></row><row><cell></cell><cell>Cyp9f2</cell><cell>FBgn0038037</cell><cell>2</cell><cell>4</cell></row><row><cell></cell><cell>Cyp12a4</cell><cell>FBgn0038681</cell><cell>8</cell><cell>75</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We are very grateful to <rs type="person">Maria Salete Couto</rs> for maintaining the screwworm colonies and to <rs type="person">Rosângela Rodrigues</rs> and <rs type="person">Alessandra Staffocker</rs> for valuable technical assistance. We thank <rs type="person">Mark Fong</rs> and the Creative Genomics team for 454 sequencing and two anonymous referees for their valuable comments on the first version of this manuscript. This work was supported by grants to AMLAE and TTT from <rs type="funder">Fundação de Amparo à Pesquisa do Estado de São Paulo</rs> (<rs type="funder">FAPESP</rs>, grants <rs type="grantNumber">08/53592-4</rs>). RAC and TTT were supported by fellowships from <rs type="funder">FAPESP</rs> (<rs type="grantNumber">06/60693-6</rs> and <rs type="grantNumber">08/53655-6</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_Jbym7WB">
+					<idno type="grant-number">08/53592-4</idno>
+				</org>
+				<org type="funding" xml:id="_D63CXVd">
+					<idno type="grant-number">06/60693-6</idno>
+				</org>
+				<org type="funding" xml:id="_zj8YJXC">
+					<idno type="grant-number">08/53655-6</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Additional material</head><p>Additional file 1: Insect databases used for functional annotation of C. hominivorax unigenes. The table contains the source of the databases we used to annotate C. hominivorax unigenes as well as how many sequences were mapped to each database.</p><p>Additional file 2: Transcripts with different representation between the larval library and the combined adult libraries. To calculate the fold difference in the representation of unigenes in our libraries, we used the number of reads from each library normalized by the library size (in number of reads) as a measure of the transcript abundance. Of the 645 unigenes differently represented, 356 had no read in one of the libraries and the fold change was calculated assuming a value of 1. Positive and negative values represent a highest number of reads in the adult and larva libraries, respectively. Only unigenes represented by at least 20 reads were included.</p><p>Additional file 3: Transcripts with different representation between male and female libraries. To calculate the fold difference in the representation of unigenes between the two libraries, we used the number of reads from each library normalized by the library size (in number of reads) as a measure of the transcript abundance. Of the 101 unigenes differently represented, 57 was either male or female specific and the fold change was calculated assuming a value of 1 in the library with no reads. Positive and negative values represent a highest number of reads in the female and male libraries, respectively. Only unigenes represented by at least 20 reads were included.</p><p>Additional file 4: Gene expression levels of NWS candidate genes measured via qRT-PCR. Averaged cycle threshold (C T ) and Relative Quantification (RQ) for the 18 candidate genes involved in secondary metabolism. The fold difference in the gene expression was calculated between the control (C) and resistant group (R1). The only gene (CYP6G1) presenting a difference in level of expression more than 2-fold Author details 1 Centro de Biologia Molecular e Engenharia Genética (CBMEG), Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil. 2 Departamento de Genética e Evolução, Universidade Estadual de Campinas (UNICAMP), Campinas, SP, Brazil. 3 Departamento de Genética e Biologia Evolutiva, Instituto de Biociências, Universidade de São Paulo (USP), São Paulo, SP, Brazil.</p><p>Authors' contributions RAC, AMLAE and TTT conceived of the study. RAC and TTT designed and carried out the experiments. TTT carried out the bioinformatic analysis, supervised the project and coordinated all activities. RAC and TTT wrote the manuscript. All authors read and approved the final manuscript. </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Myiasis of humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impact of Screwworm Eradication Programmes Using the Sterile Insect Technique</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vargas-Terán</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Tweddle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sterile Insect Technique: Principles and Practice in Area Wide Integrated Pest Management</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Dyck</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Hendrichs J, Robinson A. The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="629" to="650" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">History of the Sterile Insect Technique</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Klassen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cf ;</forename><surname>Curtis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Dyck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robinson</forename><forename type="middle">A</forename><surname>Hendrichs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sterile Insect Technique Principles and Practice in Area-Wide Integrated Pest Management</title>
+		<meeting><address><addrLine>The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="3" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Espin AML: A survey of mutations in the Cochliomyia hominivorax (Diptera: Calliphoridae) esterase E3 gene associated with organophosphate resistance and the molecular identification of mutant alleles</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Azeredo</forename><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="344" to="351" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Mosquito carboxylesterases: a review of the molecular biology and biochemistry of a major insecticide resistance mechanism</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hemingway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Karunaratne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Molecular mechanisms of metabolic resistance to synthetic and natural xenobiotics</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Schuler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Berenbaum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="231" to="253" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Genetic approaches for studying myiasis-causing flies: molecular markers and mitochondrial genomics</title>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetica</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="111" to="131" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Azeredo-Espin AML: Isolation and characterization of microsatellite markers in the new world screw-worm Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rpv</forename><surname>Brondani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Garcia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Ecology Notes</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="182" to="184" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Development of new polymorphic microsatellite markers for the New World screw-worm Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Ecology Notes</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="815" to="817" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Assessing Genetic Variation in New World Screwworm Cochliomyia hominivorax Populations from Uruguay</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Area-Wide Control of Insect Pests</title>
+		<editor>
+			<persName><forename type="first">Mjb</forename><surname>Vreysen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Robinson A, Hendrichs J. The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page" from="183" to="191" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Population genetics of New World screwworm from the Caribbean: insights from microsatellite data</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="23" to="31" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Complex patterns of genetic variability in populations of the New World screwworm fly revealed by mitochondrial DNA markers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">Suppl 1</biblScope>
+			<biblScope unit="page" from="32" to="42" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Analysis of mitochondrial DNA variability and genetic structure in populations of New World screwworm flies (Diptera: Calliphoridae) from Uruguay</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cristina</forename><forename type="middle">J</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lima</forename><surname>De Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="589" to="595" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Molecular characterization of esterase E3 gene associated with organophosphorus insecticide resistance in the New World screwworm fly, Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Paniago</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>De Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="86" to="91" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Investigation of mutations associated with pyrethroid resistance in populations of the New World Screwworm fly, Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Da Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>De Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genet Mol Res</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1067" to="1078" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Azeredo-Espin AML: Acetylcholinesterase cDNA sequencing and identification of mutations associated with organophosphate resistance in Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint/>
+	</monogr>
+	<note>Accepted Manuscript</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The same amino acid substitution in orthologous esterases confers organophosphate resistance on the house fly and a blowfly</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Claudianos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="675" to="686" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Oakeshott JG: cDNA cloning, baculovirus-expression and kinetic properties of the esterase, E3, involved in organophosphorus resistance in Lucilia cuprina</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="15" to="25" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Hydrolysis of pyrethroids by carboxylesterases from Lucilia cuprina and Drosophila melanogaster with active sites modified by in vitro mutagenesis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Heidari</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Devonshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Dorrian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Molec</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="597" to="609" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Oakeshott JG: Two different amino acid substitutions in the ali-esterase, E3, confer alternative types of organophosphorus insecticide resistance in the sheep blowfly, Lucilia cuprina</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Molec</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="139" to="150" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Gene discovery using massively parallel pyrosequencing to develop ESTs for the flesh fly Sarcophaga crassipalpis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hahn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Ragland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Shoemaker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Denlinger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bmc Genomics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Ffrench-Constant RH: Pyrosequencing of the midgut transcriptome of the poplar leaf beetle Chrysomela tremulae reveals new gene families in Coleoptera</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Pauchet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Wilkinson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Munster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Augustin</forename><forename type="middle">S</forename><surname>Pauron</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Molec</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="403" to="413" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">What can you do with 0.1× genome coverage? A case study based on a genome survey of the scuttle fly Megaselia scalaris (Phoridae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Rasmussen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maf</forename><surname>Noor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bmc Genomics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Rapid transcriptome characterization for a nonmodel organism using 454 pyrosequencing</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Vera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Wheat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Fescemyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Frilander</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Crawford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Hanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Marden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1636" to="1647" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Expression profiling of Drosophila mitochondrial genes via deep mRNA sequencing</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dolezal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schlotterer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ottenwalder</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="7509" to="7518" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Gene expression profiling by massively parallel sequencing</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Metta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ottenwälder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schlötterer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Res</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="172" to="177" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Using the miraEST assembler for reliable and automated mRNA transcript assembly and SNP detection in sequenced ESTs</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Chevreux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pfisterer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Drescher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Driesel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Weg</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Wetter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Suhai</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Research</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1147" to="1159" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Gapped BLAST and PSI-BLAST: a new generation of protein database search programs</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Schaffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="3389" to="3402" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ashburner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Blake</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Botstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Butler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cherry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Dolinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Dwight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Eppig</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Harris</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Hill</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Issel-Tarver</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kasarskis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Matese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ringwald</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Rubin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Sherlock</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">O</forename><surname>Consortium</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Gene Ontology: tool for the unification of biology</title>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="25" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Flybase</surname></persName>
+		</author>
+		<ptr target="http://flybase.bio.indiana.edu/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<ptr target="http://www.geneontology.org" />
+		<title level="m">The gene ontology project</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">The evolution of sex-biased genes and sex-biased gene expression</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ellegren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Parsch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Genet</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="689" to="698" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">A database of expressed genes from Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Guerrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Dowd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Djikeng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Wiley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Macmil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Saldivar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Najar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Roe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1109" to="1116" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Basic local alignment search tool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">215</biblScope>
+			<biblScope unit="page" from="403" to="410" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">PanGEA: identification of allele specific gene expression using the 454 technology</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Kofler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Lelley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schlotterer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Bioinformatics</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">143</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Insect glutathione transferases and insecticide resistance</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Enayati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ranson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hemingway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="3" to="8" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The acetylcholinesterase gene and organophosphorus resistance in the Australian sheep blowfly</title>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Newcomb</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Forbes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mckenzie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Batterham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lucilia cuprina. Insect Biochem Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="805" to="816" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Mutations of acetylcholinesterase which confer insecticide resistance in Drosophila melanogaster populations</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Menozzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Shi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lougarre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">H</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fournier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Evol Biol</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Oakeshott JG: MCE activities and malathion resistances in field populations of the australian sheep blowfly (Lucilia cuprina)</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Boyce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heredity</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="63" to="72" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>Pt 1</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Comparing the organophosphorus and carbamate insecticide resistance mutations in cholin-and carboxylesterases</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Devonshire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Claudianos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Sutherland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Horne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Ollis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Chem Biol Interact</title>
+		<imprint>
+			<biblScope unit="page" from="269" to="275" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Biochemistry of esterases associated with organophosphate resistance in Lucilia cuprina with comparisons to putative orthologues in other Diptera</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Campbell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Trott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Claudianos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>Smyth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Russell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Oakeshott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Genet</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="17" to="40" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">The molecular basis of insecticide resistance in mosquitoes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hemingway</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Hawkes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mccarroll</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Ranson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="653" to="665" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Insect P450 enzymes</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Feyereisen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="507" to="533" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Daborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Bogwitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Le</forename><surname>Goff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Feil</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Jeffers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Tijet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Perry</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Heckel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Batterham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Feyereisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ffrench-Constant RH: A single p450 allele associated with insecticide resistance in Drosophila</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">297</biblScope>
+			<biblScope unit="page" from="2253" to="2256" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">World-wide survey of an Accord insertion and its association with DDT resistance in Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Catania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Kauer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Daborn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Yen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Ffrench-Constant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Schlotterer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Ecol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="2491" to="2504" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Dissecting the insecticide-resistanceassociated cytochrome P450 gene Cyp6g1</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Mccart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ffrench-Constant</forename><surname>Rh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pest Manag Sci</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="639" to="645" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Strong selective sweep associated with a transposon insertion in Drosophila simulans</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Schlenke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Begun</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="1626" to="1631" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Expression of Cyp6g1 and Cyp12d1 in DDT resistant and susceptible strains of Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Festucci-Buselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Carvalho-Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>De Oliveira-Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Caixeta-Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">M</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Stuart</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Muir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Scharf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Pittendrigh</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="69" to="77" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">High expression of Cyp6g1, a cytochrome P450 gene, does not necessarily confer DDT resistance in Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kuruganti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Lam</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Pittendrigh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ganguly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gene</title>
+		<imprint>
+			<biblScope unit="volume">388</biblScope>
+			<biblScope unit="page" from="43" to="53" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Scott</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cytochromes P450 and insecticide resistance</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="757" to="777" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Toxicokinetic and toxicodynamic aspects of organophosphorus (OP) insecticide poisoning</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Vale</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toxicol Lett</title>
+		<imprint>
+			<biblScope unit="page" from="649" to="652" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Temporal synergism by microencapsulation of piperonyl butoxide and alphacypermethrin overcomes insecticide resistance in crop pests</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Bingham</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">V</forename><surname>Gunning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Gorman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Field</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Moores</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pest Manag Sci</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="page" from="276" to="281" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Resistance to Coumaphos and Diazinon in Boophilus microplus (Acari: Ixodidae) and evidence for the involvement of an oxidative detoxification mechanism</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Davey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>George</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="482" to="490" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Involvement of esterases in diazinon resistance and biphasic effects of piperonyl butoxide on diazinon toxicity to Haematobia irritans irritans (Diptera: Muscidae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">Y</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Guerrero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Pruett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesticide Biochemistry and Physiology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="147" to="155" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Cyp6a8 of Drosophila melanogaster: gene structure, and sequence and functional analysis of the upstream DNA</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Maitra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ganguly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="859" to="870" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Jiggins CD: Mis-spliced transcripts of nicotinic acetylcholine receptor alpha6 are associated with field evolved spinosad resistance in Plutella xylostella (L.)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Shelton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Heckel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">1000802</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Limia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>De Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Changes in the frequency of the G137 D and W251 S mutations in the carboxylesterase E3 gene of Cochliomyia hominivorax (Diptera: Calliphoridae) populations from Uruguay</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">170</biblScope>
+			<biblScope unit="page" from="297" to="301" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Reverse transcriptase template switching: a SMART approach for full-length cDNA library construction</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">Y</forename><surname>Zhu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Machleder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chenchik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">D</forename><surname>Siebert</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechniques</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="892" to="897" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Simple cDNA normalization using kamchatka crab duplexspecific nuclease</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Zhulidov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Bogdanova</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Shcheglov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Vagner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Khaspekov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">B</forename><surname>Kozhemyako</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Matz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Meleshkevitch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">L</forename><surname>Moroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Lukyanov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Shagin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">37</biblScope>
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Genome sequencing in microfabricated high-density picolitre reactors</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Margulies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Altman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Attiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Bader</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Bemben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Berka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Braverman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">J</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">T</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Dewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Du</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Fierro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">V</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Godwin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>He</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Helgesen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Ho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">P</forename><surname>Irzyk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Jando</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mli</forename><surname>Alenquer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Jarvie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Jirage</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Kim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Lanza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Leamon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lefkowitz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Lei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Li</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">437</biblScope>
+			<biblScope unit="page" from="376" to="380" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Cross_Match</surname></persName>
+		</author>
+		<ptr target="http://www.phrap.org/" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Vectorbase</surname></persName>
+		</author>
+		<ptr target="http://www.vectorbase.org" />
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Finney</surname></persName>
+		</author>
+		<title level="m">Probit analysis</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1971</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Primer3 on the WWW for general users and for biologist programmers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rozen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skaletsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="365" to="386" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Analysis of relative gene expression data using real-time quantitative PCR and the 2(-Delta Delta C(T)) Method</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">J</forename><surname>Livak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Schmittgen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="402" to="408" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

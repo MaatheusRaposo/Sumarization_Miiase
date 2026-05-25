@@ -1,0 +1,2849 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Complex patterns of genetic variability in populations of the New World screwworm fly revealed by mitochondrial DNA markers",
+    "authors": [
+      "Mariana Lyra",
+      "L Klaczko",
+      "A Azeredo‐espin"
+    ],
+    "doi": "10.1111/j.1365-2915.2008.00776.x",
+    "hash": "7244EDD9E6C61A7487CA4B8979F5FAA3",
+    "publication_date": "2009-03-24",
+    "publication_year": 2009,
+    "publisher": "Wiley",
+    "journal": "Medical and Veterinary Entomology",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae), the New World screwworm fly, is an important agent of traumatic myiasis, which is endemic in the Neotropical region and which has great economic impact on the development of the livestock industry. International efforts have been aimed at designing programmes to control and eradicate this species from endemic areas. Thorough knowledge of the population genetics of an insect pest is a fundamental component to ensuring the success of a pest management strategy because it enables the determination of an appropriate geographic scale for carrying out effective treatments. This study undertook an analysis of mtDNA polymerase chain reaction-restricted fragment length polymorphism (PCR-RFLP) in 34 populations of C. hominivorax from 10 countries, encompassing almost all the current distribution of the species. Results showed high levels of mitochondrial DNA variability ( = 2.9%) and a complex pattern of population genetic structure for this species. Significant population structure ( ⌽ st = 0.5234) and low variability were found in Caribbean populations, suggesting that, in general, islands constitute independent evolutionary entities connected by restricted gene flow. By contrast, high variability and low, but significant, differentiation was found among mainland populations ( ⌽ st = 0.0483), which could not be attributed to geographic distance. Several processes may be acting to maintain the observed patterns, with different implications for establishing control programmes.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_8fe43953",
+      "text": "Cochliomyia hominivorax Coquerel, the New World screwworm (NWS) fly, is a myiasis-causing fly endemic in the Neotropical region ( Guimarães et al. , 1983 ). The larvae of this insect pest invade and feed on the living tissues of warm-blooded vertebrates, enlarging wounds and attracting female flies to oviposit. Infestation without treatment may lead to the animal ' s death. Cochliomyia hominivorax has a very wide host range, from wildlife to man, but is most notorious when affecting livestock; the species causes injuries to leather and is responsible for declines in milk and beef production, and, consequently, substantial profit losses to livestock breeders ( Hall & Wall, 1995;Vargas-Terán et al. , 2005 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "( Guimarães et al. , 1983 )",
+          "offset_start": 128,
+          "offset_end": 155
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "( Hall & Wall, 1995;",
+          "offset_start": 666,
+          "offset_end": 686
+        },
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "Vargas-Terán et al. , 2005 )",
+          "offset_start": 686,
+          "offset_end": 714
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_8eb6fc27",
+      "text": "Historically, the geographic distribution of this insect extended from the southern U.S.A. to Uruguay and part of Argentina ( Hall & Wall, 1995 ). During the second half of the last century, C. hominivorax was successfully eradicated from North and most of Central America through the use of the sterile insect technique (SIT) and a sterile fly barrier system is now in place in Panama to prevent reinvasion. The insect is still present in several islands in the Caribbean and South America ( Klassen & Curtis, 2005 ). The fly was first found outside the Americas in 1988, in Libya, from which, after a major SIT programme, it was eradicated in 1991 ( Lindquist et al. , 1992;Wyss, 2000 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "( Hall & Wall, 1995 )",
+          "offset_start": 124,
+          "offset_end": 145
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "( Klassen & Curtis, 2005 )",
+          "offset_start": 491,
+          "offset_end": 517
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "( Lindquist et al. , 1992;",
+          "offset_start": 650,
+          "offset_end": 676
+        },
+        {
+          "type": "bibr",
+          "target": "#b56",
+          "text": "Wyss, 2000 )",
+          "offset_start": 676,
+          "offset_end": 688
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b27abde0",
+      "text": "Because of the economic importance of C . hominivorax to the livestock industry, international efforts have been aimed at designing programmes to control and eventually eradicate this species from other endemic areas (International Atomic Energy Agency/UN Food & Agriculture Organization [IAEA/FAO], 2000) . A fundamental component of a successful pest management strategy is a good knowledge of the genetic diversity and structure of field populations. Insights into these aspects of the species ' biology can help greatly in, for example, predicting geographic spread patterns, understanding the species ' colonization and establishment potential, and determining appropriate geographic scales for effective treatments ( Krafsur, 2005 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "( Krafsur, 2005 )",
+          "offset_start": 721,
+          "offset_end": 738
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_7d775461",
+      "text": "In the past few years the population genetics of this species have been studied with different techniques, giving rise to various speculations and conflicting reports about population structure and genetic diversity and their effects on control strategies (see Azeredo-Espin & Lessinger, 2006 ). Richardson et al. (1982) analysed karyotypes in natural populations of C . hominivorax in North America and proposed that the species was a complex of reproductively isolated populations, but subsequent investigations did not find evidence of any sub-structuring ( LaChance et al. , 1982;McInnis, 1983 ). Studies of genetic variation based on allozyme techniques also resulted in divergent conclusions. Krafsur & Whitten (1993) and Taylor et al. (1996) analysed populations from North and Central America and concluded that they constitute a single panmitic population. However, analysis of five Brazilian populations revealed a high geographic differentiation across southeastern Brazil ( Infante-Malachias, 1999 ). Analyses of mitochondrial DNA markers revealed high levels of variability in C. hominivorax populations, but with different levels of population differentiation. Roehrdanz and co-workers ( Roehrdanz & Johnson, 1988;Roehrdanz, 1989;Taylor et al. , 1991 ) analysed populations from North and Central America and found a small divergence among mainland populations, but a high divergence between these and the Jamaican population. Infante-Vargas & Azeredo-Espin (1995) analysed populations from southern Brazil and suggested that these populations were divergent. More recently, NWS populations from Uruguay were analysed by mtDNA polymerase chain reactionrestricted fragment length polymorphism (PCR-RFLP) and microsatellite markers ( Lyra et al. , 2005;Torres et al. , 2007 ) and results suggested that the populations were very similar in the extreme south of the distribution, where mtDNA markers did not reveal variation and microsatellite markers revealed a small, but significant, variation.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Azeredo-Espin & Lessinger, 2006 )",
+          "offset_start": 261,
+          "offset_end": 294
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "Richardson et al. (1982)",
+          "offset_start": 296,
+          "offset_end": 320
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "( LaChance et al. , 1982;",
+          "offset_start": 559,
+          "offset_end": 584
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "McInnis, 1983 )",
+          "offset_start": 584,
+          "offset_end": 599
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "Krafsur & Whitten (1993)",
+          "offset_start": 699,
+          "offset_end": 723
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "Taylor et al. (1996)",
+          "offset_start": 728,
+          "offset_end": 748
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "( Infante-Malachias, 1999 )",
+          "offset_start": 984,
+          "offset_end": 1011
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "( Roehrdanz & Johnson, 1988;",
+          "offset_start": 1200,
+          "offset_end": 1228
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "Roehrdanz, 1989;",
+          "offset_start": 1228,
+          "offset_end": 1244
+        },
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "Taylor et al. , 1991 )",
+          "offset_start": 1244,
+          "offset_end": 1266
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Infante-Vargas & Azeredo-Espin (1995)",
+          "offset_start": 1441,
+          "offset_end": 1478
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "( Lyra et al. , 2005;",
+          "offset_start": 1744,
+          "offset_end": 1765
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "Torres et al. , 2007 )",
+          "offset_start": 1765,
+          "offset_end": 1787
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_4dde630d",
+      "text": "There is no conclusive explanation for the discrepancies between different studies regarding the genetics of C. hominivorax , but one generic interpretation is that they result from the analyses of distinct populations and/or the use of different genetic markers.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_94477301",
+      "text": "Thus, it is clear that a more extensive study on genetic diversity and differentiation in this species throughout its geographic distribution, using a single genetic marker, would greatly help in highlighting the evolutionary scenario of C. hominivorax populations. The investigation reported here comprised an extensive survey of mtDNA PCR-RFLP in 34 C. hominivorax populations, which attempted to characterize genetic variability and the patterns of its distribution across the species ' current geographic range. We have included a discussion on the possible influences of several processes that might be acting to maintain the patterns observed and on the implications of our results for establishing control programmes.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_babe56e2",
+      "text": "A total of 883 individuals from 34 C. hominivorax populations in 10 countries across almost all the species ' current distribution range ( Table 1 , Fig. 1 ) were analysed. Samples were obtained as third instars from wounded cattle, sheep, dogs or pigs, between January 2003 and June 2007, except the sample from Campo Grande-MS (Brazil), which comprised 12 adults collected in a trap. Collected larvae were fixed in 100% ethanol or allowed to pupate in sawdust and were taken to the laboratory for species identification ( Guimarães et al. , 1983 ). The adults that emerged and the fixed larvae were used for DNA extractions. Samples from each wound were identified and DNA extractions from two or three individuals per wound were conducted. Total DNA from each individual was extracted with the phenol : chloroform method ( Infante-Vargas & Azeredo-Espin, 1995 ), with volumes adapted for microcentrifuge tubes. The extractions were stored at -20 °C.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "( Guimarães et al. , 1983 )",
+          "offset_start": 522,
+          "offset_end": 549
+        }
+      ],
+      "head_paragraph": "Materials and methods",
+      "head_section": "Fly samples and DNA extractions"
+    },
+    {
+      "id": "p_581a59f1",
+      "text": "The Uruguayan populations analysed in this study were the sum of samples collected in 2003 and analysed by Lyra et al. (2005) , together with new samples collected in 2004. Temporal analysis indicated that samples from the different years were not significantly different (data not shown) and so they were pooled. Samples from the Dominican Republic, as well as from Ecuador, originated from a few sub-locations and were pooled in the analysis because of the small number of individuals sampled in each sub-location; the geographic references considered were from the locality with the highest number of individuals sampled.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Lyra et al. (2005)",
+          "offset_start": 107,
+          "offset_end": 125
+        }
+      ],
+      "head_paragraph": "Materials and methods",
+      "head_section": "Fly samples and DNA extractions"
+    },
+    {
+      "id": "p_5578a750",
+      "text": "PCR amplifications and restriction procedures were performed as described in Lyra et al. (2005) with some slight modifications. Briefly, two specific mtDNA regions were amplified using the University of British Columbia-insect mtDNA oligonucleotide set ( Simon et al. , 1994 ). One region included complete sequences of cytochrome oxidase c subunits 1 and 2 (COI/COII: ~ 2360 bp), which was amplified using the primers C1-J-2195 and L2-N-3014. The other region included the complete control region and partial rRNA 12S sequences (A+T-rich/12S: ~ 2100 bp), which was amplified using the primers TM-N-193 and SR-J-14233. Standard PCR conditions as described in Lessinger & Azeredo-Espin (2000) and Litjens et al. (2001) were used.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Lyra et al. (2005)",
+          "offset_start": 77,
+          "offset_end": 95
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "( Simon et al. , 1994 )",
+          "offset_start": 253,
+          "offset_end": 276
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "Lessinger & Azeredo-Espin (2000)",
+          "offset_start": 659,
+          "offset_end": 691
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "Litjens et al. (2001)",
+          "offset_start": 696,
+          "offset_end": 717
+        }
+      ],
+      "head_section": "PCR amplification and restriction procedures"
+    },
+    {
+      "id": "p_37a6e350",
+      "text": "To improve the amplification of some samples, the regions were amplified using a nested PCR, with two sets of primers in two distinct reactions for each region. Three new primers were used: two flanking the COI/COII region at the genes ATP8 (A8-N-3931: 5 ′ AAT TGG TGC TAT TTG AGG 3 ′ ) and tRNA-Trp (TW-J-1287: 5 ′ ACT AAT AGC CTT CAA AGC 3 ′ ), and one downstream from the 12S rRNA subunit, at the tRNA-Val gene (TV-J-14122: 5 ′ TTC AAT GTA AAT GAA ATG C 3 ′ ). We used the TV-J-14022 with the N2-N-327 primer ( Oliveira et al. , 2006 ), to amplify the A+T-rich/12S region. An initial reaction was performed with the external primers for each region and the products of these amplifications were used as templates for the second reaction, as described above.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "( Oliveira et al. , 2006 )",
+          "offset_start": 512,
+          "offset_end": 538
+        }
+      ],
+      "head_section": "PCR amplification and restriction procedures"
+    },
+    {
+      "id": "p_4cd21c27",
+      "text": "For the construction of the three new mtDNA oligonucleotides, the sequence data for homologous regions from the tRNA-Trp , tRNA-Val and ATP8 genes of C. hominivorax and other Calliphoridae available in GenBank were aligned separately using ClustalX ( Thompson et al. , 1997 ). The primers were selected based on conserved aligned regions, and the structural stabilities and thermodynamic properties of each primer were analysed using Gene Runner software (Hastings Software Inc., Hastings on Hudson, NY, U.S.A.). The nomenclature and relative position for these new primers were assigned according to Simon et al. (1994) . The three primers were tested for different species of Calliphoridae and Muscidae (data not shown).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "( Thompson et al. , 1997 )",
+          "offset_start": 249,
+          "offset_end": 275
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Simon et al. (1994)",
+          "offset_start": 601,
+          "offset_end": 620
+        }
+      ],
+      "head_section": "PCR amplification and restriction procedures"
+    },
+    {
+      "id": "p_e81c37ac",
+      "text": "The PCR products of COI/COII were digested with the diagnostic restriction endonucleases Ase I and Msp I and A+T-rich/ 12S fragments were digested with the restriction endonuclease Dra I, as described in Lyra et al. (2005) . The fragments were separated by electrophoresis in 2.0% agarose gels, stained with ethidium bromide (EtBr) and photographed on Edas Kodak 290 (Eastman Kodak Company, Rochester, NY, U.S.A.); previously identified restriction fragment patterns were run on the gels as control. The size of the fragments was estimated by comparison with the molecular size standard DNA Ladder Plus 1 Kb (12 Kb to 100 bp; Invitrogen Corp., Carlsbad, CA, U.S.A.) using regression analysis, carried out manually. Digestions with enzymes that produced different restriction patterns were repeated to confirm that the observed patterns did not result from partial digests. Fragments of < 200 bp were not included in the analysis, resulting in a few inconsistencies that were either related to the sizes of the originally amplified PCR products or to the total size recovered from the sum of the digested fragments ( Table 2 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Lyra et al. (2005)",
+          "offset_start": 204,
+          "offset_end": 222
+        }
+      ],
+      "head_section": "PCR amplification and restriction procedures"
+    },
+    {
+      "id": "p_fcbe1376",
+      "text": "Data analyses were conducted as described in Lyra et al. (2005) . For haplotype frequency estimations and genetic comparisons, each haplotype found in a wound was considered only once. This approach was taken to avoid a bias in the analysis that might arise by sampling the same mitochondria because sibling larvae have gregarious behaviour ( Lyra et al. , 2005 ); for this reason, the number of C . hominivorax individuals considered in the analysis of genetic variation was reduced to 426 ( Table 1 ). The population from Juangriego, Venezuela was not included in population differentiation analyses because of the small number of samples obtained (just one wound sampled). Table 1 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Lyra et al. (2005)",
+          "offset_start": 45,
+          "offset_end": 63
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "( Lyra et al. , 2005 )",
+          "offset_start": 341,
+          "offset_end": 363
+        }
+      ],
+      "head_section": "Diversity indices and population genetic structure"
+    },
+    {
+      "id": "p_903c24d2",
+      "text": "The genetic diversity within populations was interpreted using the estimates of haplotype diversity ( Hs = probability that two randomly chosen haplotypes will be different; Nei, 1987 ) and nucleotide diversity ( = the proportion of nucleotide sites that are different when any two haplotype sequences are randomly compared; Nei & Tajima, 1981 ), computed using the Restriction Enzyme Analyses Package ( reap ; McElroy et al. , 1992 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "Nei, 1987 )",
+          "offset_start": 174,
+          "offset_end": 185
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Nei & Tajima, 1981 )",
+          "offset_start": 325,
+          "offset_end": 345
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "McElroy et al. , 1992 )",
+          "offset_start": 411,
+          "offset_end": 434
+        }
+      ],
+      "head_section": "Diversity indices and population genetic structure"
+    },
+    {
+      "id": "p_d51712c1",
+      "text": "Population structure was assessed by calculating nucleotide divergence for all pairs of populations ( Nei & Tajima, 1981 ;reap , McElroy et al. , 1992 ), Slatkin ' s linearized F ST matrix ( Slatkin, 1995 ) and analysis of molecular variance ( amova; Excoffier et al. , 1992 ), computed using arlequin Version 3.01 ( Excoffier et al. , 2005 ). The relationship among populations was explored by constructing an UPGMA (unweighted pair group method with arithmetic mean) tree using mega Version 4.0 ( Tamura et al. , 2007 ) and with a multidimensional scaling analysis diagram (MSD; statistica Version 6.1; StatSoft, Inc., Tulsa, OK, U.S.A.), with both the matrix of nucleotide divergence and Slatkin ' s linearized F ST s. The partition of haplotype diversity between groups formed in this tree and MSD was investigated by amova . The degree of isolation of populations, or between groups of populations, was interpreted using the ⌽ ST parameter ( Michalakis & Excoffier, 1996 ) and the significance of the variance components was tested by the non-parametric permutation method (10 000 permutations, Excoffier et al. , 1992 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( Nei & Tajima, 1981 ;",
+          "offset_start": 100,
+          "offset_end": 122
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "reap , McElroy et al. , 1992",
+          "offset_start": 122,
+          "offset_end": 150
+        },
+        {
+          "type": "bibr",
+          "target": "#b44",
+          "text": "( Slatkin, 1995 )",
+          "offset_start": 189,
+          "offset_end": 206
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Excoffier et al. , 1992 )",
+          "offset_start": 251,
+          "offset_end": 276
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "( Excoffier et al. , 2005 )",
+          "offset_start": 315,
+          "offset_end": 342
+        },
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "( Tamura et al. , 2007 )",
+          "offset_start": 497,
+          "offset_end": 521
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "( Michalakis & Excoffier, 1996 )",
+          "offset_start": 945,
+          "offset_end": 977
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Excoffier et al. , 1992 )",
+          "offset_start": 1100,
+          "offset_end": 1125
+        }
+      ],
+      "head_section": "Diversity indices and population genetic structure"
+    },
+    {
+      "id": "p_a51342a8",
+      "text": "A Mantel test ( Smouse et al. , 1986 ) was carried out to test for significant isolation by distance, when population subdivision was found. The test was conducted using matrices of geographic distance and nucleotide divergences between populations as input data and performed using arlequin ( Excoffier et al. , 2005 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "( Smouse et al. , 1986 )",
+          "offset_start": 14,
+          "offset_end": 38
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "( Excoffier et al. , 2005 )",
+          "offset_start": 292,
+          "offset_end": 319
+        }
+      ],
+      "head_section": "Diversity indices and population genetic structure"
+    },
+    {
+      "id": "p_34af4e35",
+      "text": "The diagnostic restriction patterns for each mtDNA region and the composed haplotypes recorded are shown in Table 2 . Amplifications of the A+T-rich/12S sequences showed size polymorphism, but little variation in restriction sites. Six different sizes of fragments were obtained and the most common fragment ( ~ 2100 bp) accounted for 99% of examined individuals. Other sizes appeared just once in a specific locality ( ~ 0.2% each) and the nature of the size variation is still under investigation. Digestion of the A+T-rich/12S sequences with the enzyme Dra I produced seven diagnostic patterns ( Table 2 ). Patterns A and B were digestion products of the 2100-bp fragment (restriction site polymorphism), and patterns C, D, E, F and G were identified when the different size fragments were digested (fragment size polymorphism). Pattern A appeared in approximately 98.8% of the samples analysed. The COI/COII sequences presented higher restriction site polymorphism than A+T-rich/12S, but did not present size polymorphism. For this region, the Msp I enzyme yielded seven diagnostic patterns, whereas the Ase I enzyme presented two different patterns ( Table 2 ).",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Haplotype frequencies and within-population diversity"
+    },
+    {
+      "id": "p_cd53449a",
+      "text": "No evidence of heteroplasmy was noted in the specimens analysed. Although C . hominivorax presents polymorphic restriction patterns for both mtDNA regions studied, the patterns obtained here do not overlap diagnostic restriction patterns obtained for the secondary screwworm, Cochliomyia macellaria (Fabricius), by Litjens et al. (2001) .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "Litjens et al. (2001)",
+          "offset_start": 315,
+          "offset_end": 336
+        }
+      ],
+      "head_paragraph": "Results",
+      "head_section": "Haplotype frequencies and within-population diversity"
+    },
+    {
+      "id": "p_2e35e7d0",
+      "text": "Eighteen different haplotypes were identified based on the restriction patterns obtained for each enzyme in the two mtDNA regions analysed ( Table 2 ), providing a measure of diversity and discrimination between populations. Table 2 shows the frequency of each haplotype in the total sample and Table 3 shows the distribution and frequency of the haplotypes found in the different populations sampled. Fourteen of the 18 haplotypes recorded were locally distributed and accounted for a very low proportion ( ~ 2.8% in total) of the individuals examined. The other four haplotypes were common between 17 or more populations. The most common haplotype (H1) was found in all populations, except the Cuban populations, and accounted for 51% of the total sample. Haplotypes H3, H4 and H8 represented, respectively, 18.6%, 13.6% and 14% of the individuals examined ( Table 2 ). H3 was widely distributed among populations, H4 was present only in populations from South America (mainland haplotype) and H8 was the most frequent in Cuban populations (83 -100%), but was found in South American populations with low frequencies ( ~ 5.1%) ( Table 3 ).",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Haplotype frequencies and within-population diversity"
+    },
+    {
+      "id": "p_8756c1d0",
+      "text": "Estimates of gene diversity within populations ( Hs and ) are shown in Table 3 . Populations from the Caribbean, except Trinidad and Tobago, presented low levels of diversity, with high frequencies of just one haplotype. Higher levels of diversity were found in populations from both Venezuela (VBA) and centralsouthern Brazil (e.g. BSS and BFV).",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "Haplotype frequencies and within-population diversity"
+    },
+    {
+      "id": "p_1533efa0",
+      "text": "The population structure was revealed by amova ( Table 4 ) and represented in UPGMA tree and MDS diagrams ( Fig. 2 ). Nucleotide divergences ranged from D = 0 to D = 0.0363 (average D = 0.00549 ± 0.000001), with higher divergences found between Caribbean island populations or between these and mainland populations. Nucleotide divergences and linearized F ST s presented very similar results.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Population structure"
+    },
+    {
+      "id": "p_8840adfe",
+      "text": "Analyses indicated a moderate and non-homogeneous level of genetic differentiation of C. hominivorax across its current geographic distribution. The Caribbean represented the area of most variation between populations, whereas South America showed low population differentiation ( Table 4 , Fig. 2 ). Cuban populations were highly divergent ( Fig. 2 ) from all other Caribbean and mainland populations. Populations from Jamaica and the Dominican Republic were more similar to one another and grouped with mainland populations ( Fig. 2A ), but represented marginal populations in the MSD ( Fig. 2B ), revealing that they are a little different from the mainland population. The population from Trinidad and Tobago, despite its status as a Caribbean island population, was very similar to some of the mainland populations and appeared together with these populations in the UPGMA tree and MSD. There was no clear pattern for population clusters on the mainland, but the MSD revealed some populations in a periferical distribution, or with little differentiation (Ecuador [ECO], Goiânia [BGO], Costa Rica City [BCR] and Pinheiro Machado [BPM]). Based on the significance of amova , isolation by distance was tested in Caribbean and mainland populations. Caribbean results indicated that 22.2% of genetic differentiation between populations could be explained by distance (Mantel r = 0.47, P = 0.0319). No association was detected for mainland populations (Mantel r = 0.058, P = 0.27), indicating that the degree of population differentiation was not related to the extent of geographic distance between sampled locations. As low but significant differentiation was found between South American populations, and differentiation was not correlated to geographic distance, an exploratory analysis was conducted to identify the major area of variation in mainland populations. Populations were apportioned into different groups, according to geographic region and an amova was conducted for each group. The groupings were: Northern (populations from Venezuela, Colombia, Ecuador and northern Brazil); Southern (populations from Uruguay, Paraguay and southern and southeastern Brazil), and Central (populations from midwestern Brazil). Results from amova are shown in Table 4 ; only the Central group presented significant variation between populations and the genetic variation was not correlated with geographic distance (Mantel test, r = -0.089, P = 0.5804).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Population structure"
+    },
+    {
+      "id": "p_8460bfa3",
+      "text": "This study on the NWS fly is one of the few studies of the genetic diversity and population structure of an insect pest across almost all of its geographic distribution. These results showed high levels of mitochondrial DNA variability and a complex pattern of genetic variation distribution for this species.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_c2dd4377",
+      "text": "Analysis by PCR-RFLP of mitochondrial regions, particularly COI/COII, was valuable and sufficient to provide information at the population level for C. hominivorax , as previously suggested for the species ( Litjens et al. , 2001;Lyra et al. , 2005 ), especially given the geographic scale studied here. Although the A+T/12S region did not present high restriction site polymorphism, it presented remarkable size variation. Intraspecific size variation in the control region has been documented in different groups of insects (e.g. Rondan Dueñas et al. , 2002;Snäll et al. , 2002;Oliveira et al. , 2007 ) and the analysis of this variation has provided important data on the population structure of insect species ( Mardulyn et al. , 2003;Townsend & Rand, 2004 ). For this reason, the mtDNA control region of C. hominivorax populations is being analysed by DNA sequencing to establish whether it might be useful to characterize variation at the intraspecific level.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "( Litjens et al. , 2001;",
+          "offset_start": 206,
+          "offset_end": 230
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Lyra et al. , 2005 )",
+          "offset_start": 230,
+          "offset_end": 250
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "Dueñas et al. , 2002;",
+          "offset_start": 539,
+          "offset_end": 560
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "Snäll et al. , 2002;",
+          "offset_start": 560,
+          "offset_end": 580
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "Oliveira et al. , 2007 )",
+          "offset_start": 580,
+          "offset_end": 604
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "( Mardulyn et al. , 2003;",
+          "offset_start": 714,
+          "offset_end": 739
+        },
+        {
+          "type": "bibr",
+          "target": "#b54",
+          "text": "Townsend & Rand, 2004 )",
+          "offset_start": 739,
+          "offset_end": 762
+        }
+      ],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_78e22b9f",
+      "text": "The genetic variability reported herein for C. hominivorax suggests that it is a highly polymorphic species and results obtained using mtDNA PCR-RFLP markers are consistent with conclusions reached using independently derived data from populations from North America, Central America, Brazil and Uruguay ( Roehrdanz, 1989;Infante-Vargas & Azeredo-Espin, 1995;Taylor et al. , 1996;Lyra et al. , 2005 ). The level of genetic diversity with respect to mtDNA observed for this species falls ). Population identification codes correspond to the localities given in Table 1 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "( Roehrdanz, 1989;",
+          "offset_start": 304,
+          "offset_end": 322
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Infante-Vargas & Azeredo-Espin, 1995;",
+          "offset_start": 322,
+          "offset_end": 359
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "Taylor et al. , 1996;",
+          "offset_start": 359,
+          "offset_end": 380
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "Lyra et al. , 2005 )",
+          "offset_start": 380,
+          "offset_end": 400
+        }
+      ],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_77d106b7",
+      "text": "well within the range expected for intraspecific variation (e.g. Martin & Simon, 1990;Chapco et al. , 1992 ) and is comparable with diversities found in other insect pests ( Estoup et al. , 1996;Baliraine et al. , 2004;Grapputo et al. , 2005 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "Martin & Simon, 1990;",
+          "offset_start": 65,
+          "offset_end": 86
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "Chapco et al. , 1992 )",
+          "offset_start": 86,
+          "offset_end": 108
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "( Estoup et al. , 1996;",
+          "offset_start": 172,
+          "offset_end": 195
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "Baliraine et al. , 2004;",
+          "offset_start": 195,
+          "offset_end": 219
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Grapputo et al. , 2005 )",
+          "offset_start": 219,
+          "offset_end": 243
+        }
+      ],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_a6a0a36d",
+      "text": "Higher levels of genetic variability found within South American populations of C. hominivorax , by contrast with the lower levels found in Caribbean island populations, strongly support the hypothesis that South America represents the centre of origin of the NWS fly ( Infante-Vargas & Azeredo-Espin, 1995;Infante-Malachias et al. , 1999 ). However, the presence of highly diverse populations in both central -southern Brazil and Venezuela hampers a more precise conclusion about the precise geographic origin of the species.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "( Infante-Vargas & Azeredo-Espin, 1995;",
+          "offset_start": 268,
+          "offset_end": 307
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Infante-Malachias et al. , 1999 )",
+          "offset_start": 307,
+          "offset_end": 340
+        }
+      ],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_2d73a202",
+      "text": "The low diversity indices found in Caribbean island populations, except that from Trinidad and Tobago, may be explained by a general model of the founder event, followed by genetic drift ( Hedrick, 2005 ). However, the current results contrast with the higher genetic diversity obtained for the Caribbean populations with microsatellite markers (Torres & Azeredo-Espin, 2009) , revealing that some alternative explanations for this more complex scenario of population structure in the Caribbean require elucidation.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "( Hedrick, 2005 )",
+          "offset_start": 187,
+          "offset_end": 204
+        },
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "(Torres & Azeredo-Espin, 2009)",
+          "offset_start": 345,
+          "offset_end": 375
+        }
+      ],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_5fb9742d",
+      "text": "The lack of congruence between nuclear and mtDNA genetic diversity may arise for other reasons, for example: (a) a rapid increase in population size after a recent founder event with a small number of females would recover nuclear diversity, but not mitochondrial diversity; (b) populations from islands may result from an ancient colonization, which also allows species to recover nuclear, but not mitochondrial, diversity, and (c) island populations may have arisen from multiple introductions of the same mtDNA haplotype. The complexity of the patterns observed may be a result of different histories of C. hominivorax introduction for the different islands studied (see Discussion) and, therefore, on the basis of our data we were unable to select any particular hypothesis as a more probable explanation for the scenario of diversity in the Caribbean.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Discussion",
+      "head_section": "Genetic diversity"
+    },
+    {
+      "id": "p_7207c3d7",
+      "text": "Comparisons among NWS populations revealed moderate subdivision on the geographic scale studied and indicated that the distribution of variation is non-uniform. High levels of differentiation were found among Caribbean populations and between them and mainland populations, by contrast with the low variation found among mainland populations.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_eef8ffa2",
+      "text": "Results suggested that, in general, island populations constitute independent evolutionary entities, connected by a greatly restricted gene flow. Nuclear data also support the conclusions from this study regarding the population structure for C. hominivorax in the Caribbean area (Torres & Azeredo-Espin, 2009) .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "(Torres & Azeredo-Espin, 2009)",
+          "offset_start": 280,
+          "offset_end": 310
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_bddf28d4",
+      "text": "Analogous comparisons for this pattern of population structure between island and mainland populations have been found in other insect species ( Estoup et al. , 1996;De La Rúa et al. , 2001;Baliraine et al. , 2004;Shao et al. , 2004 ) and geographic isolation has been interpreted as the main cause of this genetic differentiation in island populations. Indeed, inter-island and mainland geographic isolation probably plays a major role in causing the extremely high levels of genetic differentiation among NWS populations in the Caribbean islands. However, the Trinidad and Tobago population is a more diverse population and, in this case, distance from the mainland may be insufficient to prevent gene flow.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "( Estoup et al. , 1996;",
+          "offset_start": 143,
+          "offset_end": 166
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "De La Rúa et al. , 2001;",
+          "offset_start": 166,
+          "offset_end": 190
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "Baliraine et al. , 2004;",
+          "offset_start": 190,
+          "offset_end": 214
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "Shao et al. , 2004 )",
+          "offset_start": 214,
+          "offset_end": 234
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_63e435e7",
+      "text": "Cuban populations were the most differentiated populations sampled in this study. The four populations from Cuba were very similar to one another with respect to mtDNA markers, but presented some differentiation in relation to nuclear markers ( Torres & Azeredo-Espin, 2009 ). This difference between results may reflect a possible unequal contribution of the sexes in mediating gene flow, probably mediated by longer female dispersion ( Hightower et al. , 1965;Mayer & Atzeni, 1993 ), or it may represent differences in the mode of inheritance and polymorphism of the markers, as previously suggested for Uruguayan NWS populations ( Torres et al. , 2007 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "( Torres & Azeredo-Espin, 2009 )",
+          "offset_start": 243,
+          "offset_end": 275
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "( Hightower et al. , 1965;",
+          "offset_start": 436,
+          "offset_end": 462
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "Mayer & Atzeni, 1993 )",
+          "offset_start": 462,
+          "offset_end": 484
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "( Torres et al. , 2007 )",
+          "offset_start": 632,
+          "offset_end": 656
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_dbb8ee5c",
+      "text": "As Cuban populations presented unexpectedly high frequencies of haplotype H8 (which is rare in other populations), low diversity indices and high genetic divergences, we are conducting fine-scale analyses with DNA sequences to obtain more conclusive data about the relationship between the Cuban and other populations. Results strongly suggest that the haplotype H8 from Cuba is different from those present in South American and other Caribbean populations (data not shown) and that mtDNA diversity is very small. More extensive studies are being conducted with these samples to resolve whether the assemblage is endemic to Cuba or represents a recent introduction.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_99b26635",
+      "text": "Based on results obtained with mtDNA markers for diversity and population structure in Caribbean populations of C. hominivorax , we propose that islands have different histories of colonization. It is possible that the NWS in Jamaica, Dominican Republic and Trinidad and Tobago is of South American origin (via single or multiple introductions), whereas Cuban populations possibly originated from somewhere in Central or North America that was not sampled for this study. The Jamaican population was previously studied by Roehrdanz & Johnson (1988) , who also suggested a South American origin. An extensive and periodical investigation in the Caribbean area would help us to draw more precise conclusions about the profile of introduction for different populations.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "Roehrdanz & Johnson (1988)",
+          "offset_start": 522,
+          "offset_end": 548
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_fc330514",
+      "text": "This study found a general pattern of low populational subdivision in South America, except in mainland populations located in midwestern Brazil, which showed substantial genetic variation. Few studies have been previously conducted in South American populations and these obtained different results for population structure. In Brazil, populations mainly from the state of São Paulo revealed moderate to high populational subdivision for NWS ( Infante-Vargas & Azeredo-Espin, 1995 [RFLP of mtDNA]; Infante-Malachias et al. , 1999 [random amplification polymorphic DNA {RAPD-PCR};Infante-Malachias, 1999 [allozymes]). New World screwworm populations from Uruguay have also been analysed by mtDNA PCR-RFLP and microsatellite markers ( Lyra et al. , 2005;Torres et al. , 2007 ) and results suggest that the populations are very similar in the extreme south of the species ' distribution.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( Infante-Vargas & Azeredo-Espin, 1995 [RFLP of mtDNA]",
+          "offset_start": 443,
+          "offset_end": 497
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Infante-Malachias et al. , 1999 [random amplification polymorphic DNA {RAPD-PCR};",
+          "offset_start": 499,
+          "offset_end": 580
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Infante-Malachias, 1999 [allozymes]",
+          "offset_start": 580,
+          "offset_end": 615
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "( Lyra et al. , 2005;",
+          "offset_start": 732,
+          "offset_end": 753
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "Torres et al. , 2007 )",
+          "offset_start": 753,
+          "offset_end": 775
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_c4e9062c",
+      "text": "The current study, in addition to these previous studies, strongly indicates that genetic variation in C. hominivorax populations is not distributed uniformly across the continent. Population structures for insect pests are being reported in different continents and are often associated with isolation by distance ( Krafsur, 2002;Baliraine et al. , 2004 ). In this study, genetic differentiation between mainland populations could not be attributed to geographic distance, which implies a more complex pattern of cause for population differentiation.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "( Krafsur, 2002;",
+          "offset_start": 315,
+          "offset_end": 331
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "Baliraine et al. , 2004 )",
+          "offset_start": 331,
+          "offset_end": 356
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_805d5440",
+      "text": "Different patterns of genetic differentiation on the continent have been discussed for other insect pests. Grapputo et al. (2005) suggested that the genetic diversity partitioning in North American populations of the Colorado potato beetle, Leptinotarsa decemlineata L., is mainly the result of founder events during range expansion, agricultural management and insecticide application. Scataglini et al. (2006) , working with boll weevil, Anthonomus grandis Bohmen, populations from South America, proposed that different populations were the result of recent invaders and ancient populations isolated by events of historical fragmentation. Similarly, we need alternative explanations to understand the population subdivisions in the C. hominivorax population of South America.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Grapputo et al. (2005)",
+          "offset_start": 107,
+          "offset_end": 129
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "Scataglini et al. (2006)",
+          "offset_start": 387,
+          "offset_end": 411
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_92253150",
+      "text": "One possible cause for genetic diversity partitioning in the NWS is the potential influence of human activities. Management policies to control this pest and strong selection imposed by the use of insecticides ( Carvalho et al. , 2006 ) may partially explain differences in local populations. As C. hominivorax is mainly livestock-associated, the movement of animals across landscapes may be an important but often overlooked process influencing the population dynamics of this insect pest. Other factors, such as seasonal regimes, events of extinction and re-colonization and local selection regimes may have contributed to this complex pattern of variability distribution in some regions. Unfortunately, on the basis of the data from this study it was not possible to formulate a more precise explanation of local differentiation and our results highlight the need to evaluate factors that may influence population structure by, for example, fine-scale analysis and the use of supplemental ecological data.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "( Carvalho et al. , 2006 )",
+          "offset_start": 210,
+          "offset_end": 236
+        }
+      ],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_8d287ab5",
+      "text": "Over the past few years various studies have attempted to assess the population structure of C. hominivorax throughout its geographic distribution, but with discordant results. Based on the results of this study, we conclude that populations of C. hominivorax are diverse and structured with respect to mtDNA.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_3aa785cb",
+      "text": "The species presents a complex pattern of genetic distribution throughout the current range, with few isolated populations and some panmictic populations. The distinct patterns of genetic variation observed can be explained only by complex demography and their maintenance needs to be investigated in order to consider the influences of several processes, separately and in combination, in the different regions and geographic scales studied.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Population differentiation"
+    },
+    {
+      "id": "p_09e02888",
+      "text": "The current study provides different perspectives through which we might interpret patterns of population subdivision in C. hominivorax populations across its current distribution, from isolated evolutionary units to non-differentiated populations.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Implications from the results for control programmes"
+    },
+    {
+      "id": "p_a58c3d7e",
+      "text": "Our results indicate that some implications for the development of control programmes need to be discussed. The programme for the eradication of C. hominivorax in North and Central America, which has implemented the integrated use of SIT over the last 45 years, has been very successful ( Vargas-Terán et al. , 2005 ) and, at present, the pest is restricted to several Caribbean islands and South America. Some new efforts have been made in designing NWS eradication programmes in Cuba, Hispaniola and Jamaica ( FAO, 1999( FAO, , 2003 ; ;Dyck et al. , 2005 ). However, in Cuba, only the first part of the eradication campaign programme was concluded and the release of sterile insects was not initiated because of diplomatic problems and the absence of donors ( FAO, 1999 ;García-Rodriguez, 2003 ). In Jamaica, the programme began releasing sterile flies in 1999, but by mid-2004 little progress had been made ( Dyck et al. , 2005 ). Although most of the problems encountered in the Jamaican programme were attributed to several logistical factors, the importance of collecting baseline data on NWS population ecology and dynamics, before initiating sterile insect release, was recognized ( Dyck et al. , 2005 ). Roehrdanz (1989) found extensive genetic diversity (> 2%) between Jamaican and mainland populations of C. hominivorax , and it is still not known if this may have contributed to problems in the efficiency of the eradication programme in Jamaica ( FAO, 2003 ;Dyck et al. , 2005 ).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "( Vargas-Terán et al. , 2005 )",
+          "offset_start": 287,
+          "offset_end": 317
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( FAO, 1999",
+          "offset_start": 510,
+          "offset_end": 521
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( FAO, , 2003 ; ;",
+          "offset_start": 521,
+          "offset_end": 538
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Dyck et al. , 2005 )",
+          "offset_start": 538,
+          "offset_end": 558
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( FAO, 1999 ;",
+          "offset_start": 760,
+          "offset_end": 773
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "García-Rodriguez, 2003 )",
+          "offset_start": 773,
+          "offset_end": 797
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( Dyck et al. , 2005 )",
+          "offset_start": 910,
+          "offset_end": 932
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( Dyck et al. , 2005 )",
+          "offset_start": 1189,
+          "offset_end": 1211
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "Roehrdanz (1989)",
+          "offset_start": 1213,
+          "offset_end": 1229
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "( FAO, 2003 ;",
+          "offset_start": 1458,
+          "offset_end": 1471
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Dyck et al. , 2005 )",
+          "offset_start": 1471,
+          "offset_end": 1491
+        }
+      ],
+      "head_section": "Implications from the results for control programmes"
+    },
+    {
+      "id": "p_79c4e0fe",
+      "text": "Data presented here suggest that Caribbean islands may be ideal locations for the implementation of eradication programmes because their NWS populations can be delimited into units that are relatively isolated from one another. Before initiating an SIT programme, however, it is important to establish the extent of genetic diversity and divergence that may disrupt the control programme because we found different levels of genetic variation in populations analysed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Implications from the results for control programmes"
+    },
+    {
+      "id": "p_897e5b61",
+      "text": "New World screwworm populations from South America demonstrate low differentiation. The first implication of these results is that, as gene flow appears to be high enough to maintain extensive genetic homogeneity among almost all mainland populations, control programmes on a small geographic scale are unlikely to be effective. However, this study found local differentiation for some Brazilian populations and, as yet, little is known about Amazonian populations and whether the forest or the Andes may be considered as geographic barriers, suggesting that finescale analysis is needed to supplement our results in this area.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Implications from the results for control programmes"
+    },
+    {
+      "id": "p_cfe58bf7",
+      "text": "Therefore, prior to the development and implementation of any eradication strategies in mainland South America, comprehensive efforts to establish the most effective methods of control should be undertaken. These should involve a diverse range of areas and should include the undertaking of extensive, fine-scale genetic studies, as well as government and livestock producer involvement and personnel training (see Dyck et al. , 2005 ) .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Dyck et al. , 2005 )",
+          "offset_start": 415,
+          "offset_end": 435
+        }
+      ],
+      "head_section": "Implications from the results for control programmes"
+    },
+    {
+      "id": "p_01eab325",
+      "text": "We wish to thank Rosangela A. Rodrigues, Alessandra Staffocker and Maria Salete Couto for technical and laboratorial assistance, and Pablo Fresia for helpful discussion during various stages of this study and for assisting in sample collection in Uruguay. We are also grateful to Alfredo Coronado, for kindly providing us with samples from Venezuela, René Garcia for providing samples from Caribbean islands, Colombia and Ecuador, and W.W. Koller for providing samples from Campo Grande-MS. We especially thank the FAO/IAEA (Vienna), the FAO (Colombia and Ecuador), the Instituto Colombiano Agropecuario (ICA) and Servicios de Sanidad Agropecuaria (SESA) (Ecuador) for assistance in sample collection. MLL was supported by fellowships from Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP; grants no. 01/12528-2 and 03/13598-0). This work was supported by grants from FAO/ IAEA (11822/RO), Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) and FAPESP.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgements"
+    },
+    {
+      "id": "p_8fcd7f4f",
+      "text": "All authors declare no conflicts of interests.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conflicts of interest"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig. 1 .",
+      "type": "figure",
+      "desc": "Fig. 1. Map of South America and the Caribbean region, showing collecting localities for sampled populations of Cochliomyia hominivorax used in this study. Identification codes correspond to localities given in Table1.",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 56.93,
+          "width": 54.49,
+          "height": 227.3
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Fig. 2 .",
+      "type": "figure",
+      "desc": "Fig. 2. (A) UPGMA (unweighted pair group method with arithmetic mean) tree and (B) multidimensional scaling analysis diagram (MSD) showing the clustering of Cochliomyia hominivorax populations, obtained with Slatkin ' s linearized F ST matrix. Caribbean populations are indicated by black symbols; mainland populations are indicated by open symbols (see legend in [A]). Population identification codes correspond to the localities given in Table1.",
+      "note": "",
+      "coords": [
+        {
+          "x": 7.0,
+          "y": 65.09,
+          "width": 54.49,
+          "height": 466.34
+        }
+      ]
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1 .",
+      "type": "table",
+      "desc": "Geographic locations of Cochliomyia hominivorax populations sampled, population codes (ID codes) and number of individuals analysed.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Country",
+            "Location",
+            "ID code",
+            "Latitude",
+            "Longitude",
+            "Samples, n , T/A"
+          ],
+          [
+            "CB",
+            "Pinar del Rio",
+            "CPR",
+            "22°25 ′ N",
+            "83°41 ′ W",
+            "14/6"
+          ],
+          [
+            "",
+            "Ciego de Ávila",
+            "CCA",
+            "21°50 ′ N",
+            "78°46 ′ W",
+            "18/13"
+          ],
+          [
+            "",
+            "Santiago de Cuba",
+            "CSC",
+            "20°01 ′ N",
+            "75°49 ′ W",
+            "17/13"
+          ],
+          [
+            "",
+            "Ciro Redondo",
+            "CCR",
+            "21°53 ′ N",
+            "82°54 ′ W",
+            "14/11"
+          ],
+          [
+            "DR",
+            "Santo Domingos",
+            "DRP",
+            "18°28 ′ N",
+            "59°63 ′ W",
+            "25/14"
+          ],
+          [
+            "JM",
+            "Kingston",
+            "JAM",
+            "17°59 ′ N",
+            "76°47 ′ W",
+            "14/8"
+          ],
+          [
+            "T & T",
+            "Puerto España",
+            "TET",
+            "10°40 ′ N",
+            "61°28 ′ W",
+            "22/12"
+          ],
+          [
+            "VE",
+            "Encontrados",
+            "VEN",
+            "09°02 ′ N",
+            "72°13 ′ W",
+            "20/10"
+          ],
+          [
+            "",
+            "Barquisimeto",
+            "VBA",
+            "10°03 ′ N",
+            "69°19 ′ W",
+            "23/11"
+          ],
+          [
+            "",
+            "Juangriego",
+            "VJU",
+            "11°04 ′ N",
+            "63°57 ′ W",
+            "10/1"
+          ],
+          [
+            "CO",
+            "Turbo",
+            "COT",
+            "08°05 ′ N",
+            "76°43 ′ W",
+            "35/15"
+          ],
+          [
+            "EC",
+            "Sto Dom. de los Colorados",
+            "ECO",
+            "00°15 ′ S",
+            "79°10 ′ W",
+            "29/13"
+          ],
+          [
+            "BR",
+            "Santa Maria das Barreiras",
+            "BSM",
+            "08°52 ′ S",
+            "49°42 ′ W",
+            "26/20"
+          ],
+          [
+            "",
+            "Cocalinhos",
+            "BCO",
+            "14°22 ′ S",
+            "51°00 ′ W",
+            "11/6"
+          ],
+          [
+            "",
+            "Costa Rica City",
+            "BCR",
+            "18°32 ′ S",
+            "53°07 ′ W",
+            "25/5"
+          ],
+          [
+            "",
+            "Goiânia",
+            "BGO",
+            "16°43 ′ S",
+            "49°15 ′ W",
+            "28/10"
+          ],
+          [
+            "",
+            "Goianira",
+            "BGN",
+            "16°32 ′ S",
+            "49°22 ′ W",
+            "16/8"
+          ],
+          [
+            "",
+            "Caiapônia",
+            "BCA",
+            "16°57 ′ S",
+            "51°48 ′ W",
+            "68/31"
+          ],
+          [
+            "",
+            "Campo Grande",
+            "BCG",
+            "20°27 ′ S",
+            "54°36 ′ W",
+            "12/12"
+          ],
+          [
+            "",
+            "S.S. do Paraíso",
+            "BSS",
+            "20°55 ′ S",
+            "46°59 ′ W",
+            "18/6"
+          ],
+          [
+            "",
+            "Campinas",
+            "BCP",
+            "22°48 ′ S",
+            "47°03 ′ W",
+            "17/9"
+          ],
+          [
+            "",
+            "Estiva",
+            "BES",
+            "22°27 ′ S",
+            "46°01 ′ W",
+            "42/18"
+          ],
+          [
+            "",
+            "Carambeí",
+            "BCI",
+            "24°55 ′ S",
+            "50°05 ′ W",
+            "26/15"
+          ],
+          [
+            "",
+            "Fagundes Varela",
+            "BFV",
+            "28°52 ′ S",
+            "51°41 ′ W",
+            "9/5"
+          ],
+          [
+            "",
+            "Sto Antonio das Missões",
+            "BSA",
+            "29°04 ′ S",
+            "56°19 ′ W",
+            "22/11"
+          ],
+          [
+            "",
+            "Pinheiro Machado",
+            "BPM",
+            "31°04 ′ S",
+            "53°23 ′ W",
+            "24/9"
+          ],
+          [
+            "PY",
+            "Ybytymí",
+            "PYB",
+            "25°46 ′ S",
+            "56°41 ′ W",
+            "28/14"
+          ],
+          [
+            "UY *",
+            "Bañados de Medina",
+            "UBM",
+            "32°23 ′ S",
+            "54°21 ′ W",
+            "46/20"
+          ],
+          [
+            "",
+            "Paso Muñoz",
+            "UPM",
+            "31°27 ′ S",
+            "56°23 ′ W",
+            "36/10"
+          ],
+          [
+            "",
+            "San Antonio",
+            "UST",
+            "31°24 ′ S",
+            "57°58 ′ W",
+            "31/16"
+          ],
+          [
+            "",
+            "Dayman",
+            "UDA",
+            "31°33 ′ S",
+            "57°57 ′ W",
+            "24/11"
+          ],
+          [
+            "",
+            "Cerro Colorado",
+            "UCC",
+            "33°52 ′ S",
+            "55°33 ′ W",
+            "44/27"
+          ],
+          [
+            "",
+            "Colonia",
+            "UCO",
+            "34°28 ′ S",
+            "57°51 ′ W",
+            "43/15"
+          ],
+          [
+            "",
+            "Juaquín Suarez",
+            "UJS",
+            "34°44 ′ S",
+            "56°02 ′ W",
+            "46/21"
+          ],
+          [
+            "Total",
+            "",
+            "",
+            "",
+            "",
+            "883/426"
+          ]
+        ],
+        "metadata": {
+          "row_count": 36,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_1",
+      "label": "2",
+      "head": "Table 2 .",
+      "type": "table",
+      "desc": "(A) Diagnostic restriction patterns obtained by polymerase chain reaction-restricted fragment length polymorphism of Cochliomyia hominivorax. Capital letters indicate polymorphic restriction patterns for each region. (B) Composite haplotypes based on the restriction pattern obtained for each enzyme and their frequency in the total sample.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "(A) Restriction patterns"
+          ]
+        ],
+        "metadata": {
+          "row_count": 1,
+          "column_count": 1,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_2",
+      "label": "3",
+      "head": "Table 3 .",
+      "type": "table",
+      "desc": "Genetic diversity and haplotype distribution within populations of Cochliomyia hominivorax. Population ID codes correspond to the localities given in Table1.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Population",
+            "",
+            "Hs",
+            "",
+            "Hap, n",
+            "Haplotype frequency"
+          ],
+          [
+            "",
+            "CPR",
+            "0.2637 ± 0.14746",
+            "0.009022",
+            "2",
+            "H3 (17%), H8 (83%)"
+          ],
+          [
+            "CB",
+            "CCA CSC",
+            "0.0000 ± 0.00000 0.2831 ± 0.10948",
+            "0.000000 0.009911",
+            "1 3",
+            "H8 (100%) H3 (7.5%), H8 (85%), H17 (7.5%)"
+          ],
+          [
+            "",
+            "CCR",
+            "0.1732 ± 0.10812",
+            "0.003468",
+            "2",
+            "H8 (90%), H18 (10%)"
+          ],
+          [
+            "DR",
+            "DRP",
+            "0.1376 ± 0.08371",
+            "0.003536",
+            "2",
+            "H1 (93%), H8 (7%)"
+          ],
+          [
+            "JM",
+            "JAM",
+            "0.2333 ± 0.12562",
+            "0.006189",
+            "2",
+            "H1 (88%), H8 (12%)"
+          ],
+          [
+            "TeT",
+            "TET",
+            "0.5072 ± 0.04451",
+            "0.030616",
+            "2",
+            "H1 (59%), H3 (41%)"
+          ],
+          [
+            "",
+            "VEN",
+            "0.3368 ± 0.10981",
+            "0.020527",
+            "2",
+            "H1 (80%), H3 (20%)"
+          ],
+          [
+            "VE",
+            "VBA",
+            "0.7579 ± 0.06338",
+            "0.049380",
+            "5",
+            "H1 (40%), H3 (30%), H4 (10%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H14 (10%), H15 (10%)"
+          ],
+          [
+            "",
+            "VJG",
+            "nd",
+            "nd",
+            "1",
+            "H10 (nd)"
+          ],
+          [
+            "CO",
+            "COT",
+            "0.4046 ± 0.07765",
+            "0.024193",
+            "2",
+            "H1 (73%), H3 (27%)"
+          ],
+          [
+            "EC",
+            "ECO",
+            "0.5415 ± 0.07503",
+            "0.017697",
+            "3",
+            "H1 (61%), H3 (8%), H8 (31%)"
+          ],
+          [
+            "",
+            "BSM",
+            "0.6000 ± 0.07302",
+            "0.030486",
+            "4",
+            "H1 (60%), H3 (15%), H4 (10%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H8 (15%)"
+          ],
+          [
+            "",
+            "BCO",
+            "0.7111 ± 0.08600",
+            "0.029129",
+            "3",
+            "H1 (33%), H3 (33%), H8 (33%)"
+          ],
+          [
+            "",
+            "BCR",
+            "0.5455 ± 0.14361",
+            "0.021156",
+            "2",
+            "H1 (80%), H11 (20%)"
+          ],
+          [
+            "",
+            "BCG",
+            "0.5072 ± 0.09287",
+            "0.025430",
+            "3",
+            "H1 (20%), H3 (40%), H4 (40%)"
+          ],
+          [
+            "",
+            "BGO",
+            "0.6737 ± 0.04925",
+            "0.035128",
+            "3",
+            "H1 (37.5%), H3 (37.5%), H4"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(25%)"
+          ],
+          [
+            "",
+            "BGN",
+            "0.7000 ± 0.05063",
+            "0.042586",
+            "5",
+            "H1 (68%), H3 (16%), H4 (10%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H8 (3%), H13 (3%)"
+          ],
+          [
+            "BR",
+            "BCA",
+            "0.5119 ± 0.06748",
+            "0.032358",
+            "3",
+            "H1 (67%), H3 (25%), H8 (8%)"
+          ],
+          [
+            "",
+            "BSS",
+            "0.5455 ± 0.06155",
+            "0.050644",
+            "2",
+            "H1 (50%), H4 (50%)"
+          ],
+          [
+            "",
+            "BCP",
+            "0.6667 ± 0.07483",
+            "0.028079",
+            "3",
+            "H1 (55%), H3 (22.5%), H8"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(22.5%)"
+          ],
+          [
+            "",
+            "BES",
+            "0.5524 ± 0.04620",
+            "0.043660",
+            "3",
+            "H1 (56%), H3 (5%), H4 (39%)"
+          ],
+          [
+            "",
+            "BCI",
+            "0.5241 ± 0.09216",
+            "0.034715",
+            "4",
+            "H1 (66%), H3 (7%), H4 (20%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H8 (7%)"
+          ],
+          [
+            "",
+            "BFV",
+            "0.8000 ± 0.08884",
+            "0.040097",
+            "4",
+            "H1 (20%), H3 (40%), H4 (20%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H8 (20%)"
+          ],
+          [
+            "",
+            "BSA",
+            "0.7273 ± 0.05051",
+            "0.035243",
+            "4",
+            "H1 (36.5%), H3 (36.5%), H4"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(9%), H8 (18%)"
+          ],
+          [
+            "",
+            "BPM",
+            "0.7059 ± 0.06997",
+            "0.048979",
+            "4",
+            "H1 (33%), H3 (11%), H4 (45%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H16 (11%)"
+          ],
+          [
+            "PY",
+            "PYB",
+            "0.6243 ± 0.07950",
+            "0.036381",
+            "4",
+            "H1 (57%), H3 (22%), H4 (14%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H8 (7%)"
+          ],
+          [
+            "",
+            "UBM",
+            "0.7026 ± 0.03178",
+            "0.043842",
+            "4",
+            "H1 (40%), H2 (5%), H3 (30%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H4 (25%)"
+          ],
+          [
+            "",
+            "UPM",
+            "0.5684 ± 0.08629",
+            "0.036196",
+            "3",
+            "H1 (60%), H3 (30%), H4 (10%)"
+          ],
+          [
+            "",
+            "UST",
+            "0.6210 ± 0.07046",
+            "0.037881",
+            "4",
+            "H1 (56%), H3 (25%), H4 (13%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H7 (6%)"
+          ],
+          [
+            "UY",
+            "UDA",
+            "0.5887 ± 0.11396",
+            "0.025067",
+            "5",
+            "H1 (64%), H3 (9%), H5 (9%), H8"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "(9%), H9 (9%)"
+          ],
+          [
+            "",
+            "UCC",
+            "0.6569 ± 0.03814",
+            "0.042428",
+            "4",
+            "H1 (48%), H3 (18%), H4 (30%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H6 (4%)"
+          ],
+          [
+            "",
+            "UCO",
+            "0.6161 ± 0.06221",
+            "0.045371",
+            "4",
+            "H1 (53%), H3 (7%), H4 (33%),"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "H12 (7%)"
+          ],
+          [
+            "",
+            "UJS",
+            "0.6504 ± 0.03128",
+            "0.037409",
+            "3",
+            "H1 (38%), H3 (43%), H4 (19%)"
+          ],
+          [
+            "Average",
+            "",
+            "0.5263 ± 0.00114",
+            "0.029482 ± 0.000006",
+            "3",
+            ""
+          ],
+          [
+            "Hs, haplotype diversity; Hap, n , number of haplotypes found in each locality; , nucleotide diversity; nd, not determined."
+          ],
+          [
+            "CB, Cuba; DR, Dominican Republic; JM, Jamaica; T & T, Trinidad and Tobago; VE, Venezuela; CO, Colombia; EC, Ecuador; BR, Brazil; PY,"
+          ],
+          [
+            "Paraguay; UY, Uruguay.",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 53,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_3",
+      "label": "4",
+      "head": "Table 4 .",
+      "type": "table",
+      "desc": "amova results obtained for the distribution of genetic variation among populations or groups of Cochliomyia hominivorax. See text for details about mainland population groups.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "⌽ st",
+            "P -value"
+          ],
+          [
+            "All populations",
+            "0.1304",
+            "< 0.00001"
+          ],
+          [
+            "Caribbean",
+            "0.5234",
+            "< 0.00001"
+          ],
+          [
+            "South America (mainland)",
+            "0.0483",
+            "0.0058"
+          ],
+          [
+            "Northern",
+            "0.0044",
+            "0.4663 *"
+          ],
+          [
+            "Central",
+            "0.1584",
+            "0.0049"
+          ],
+          [
+            "Southern",
+            "0.0097",
+            "0.3055*"
+          ],
+          [
+            "Caribbean vs. mainland",
+            "0.1180",
+            "< 0.00001"
+          ],
+          [
+            "* Non-significant values.",
+            "",
+            ""
+          ],
+          [
+            "Significant values for population differentiation are in bold.",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 10,
+          "column_count": 3,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Genetic approaches for studying myiasis-causing flies: molecular markers and mitochondrial genomics",
+      "authors": [
+        "A Azeredo-Espin",
+        "A Lessinger"
+      ],
+      "journal": "Genetica",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "126",
+      "page_start": "111",
+      "page_end": "131"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Population genetics of the potentially invasive African fruit fly species, Ceratitis rosa and Ceratitis fasciventris (Diptera: Tephritidae)",
+      "authors": [
+        "F Baliraine",
+        "M Bonizzoni",
+        "C Guglielmino"
+      ],
+      "publication_date": "2004",
+      "year": 2004
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "journal": "Molecular Ecology",
+      "volume": "13",
+      "page_start": "683",
+      "page_end": "695"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "A survey of mutations in Cochliomyia hominivorax (Diptera: Calliphoridae) esterase E3 gene associated with organophosphate resistance and molecular identification of mutant alleles",
+      "authors": [
+        "R Carvalho",
+        "T Torres",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Veterinary Parasitology",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "140",
+      "page_start": "344",
+      "page_end": "351"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Intraspecific mitochondrial DNA variation in the migratory grasshopper, Melanoplus sanguinipes",
+      "authors": [
+        "W Chapco",
+        "R Kelln",
+        "D Mcfadyen"
+      ],
+      "journal": "Heredity",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "69",
+      "page_start": "547",
+      "page_end": "557"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Genetic structure and distinctness of Apis mellifera L. populations from the Canary Islands",
+      "authors": [
+        "P De La Rúa",
+        "J Galián",
+        "J Serrano",
+        "R Moritz"
+      ],
+      "journal": "Molecular Ecology",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "10",
+      "page_start": "1733",
+      "page_end": "1742"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Sterile Insect Technique: Principles and Practice in Area-Wide Integrated Pest Management",
+      "authors": [
+        "V Dyck",
+        "Hendrichs"
+      ],
+      "editors": "J. & Robinson , A.S.",
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "pages": "787"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Management of area-wide integrated pest management programmes that integrate the sterile insect technique",
+      "authors": [
+        "V Dyck",
+        "J Reyes Flores",
+        "M Vreysen"
+      ],
+      "editors": [
+        "V Dyck",
+        "J Hendrichs",
+        "A Robinson"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "524",
+      "page_end": "542"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Genetic differentiation of continental and island populations of Bombus terrestris (Hymenoptera: Apidae) in Europe",
+      "authors": [
+        "A Estoup",
+        "M Solignac",
+        "J Cornuet",
+        "J Goudet",
+        "A Scholl"
+      ],
+      "journal": "Molecular Ecology",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "5",
+      "page_start": "19",
+      "page_end": "31"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data",
+      "authors": [
+        "L Excoffier",
+        "P Smouse",
+        "J Quattro"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "131",
+      "page_start": "479",
+      "page_end": "491"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "arlequin Version 3.0: an integrated software package for population genetics data analysis",
+      "authors": [
+        "L Excoffier",
+        "G Laval",
+        "S Schneider"
+      ],
+      "journal": "Evolutionary Bioinformatics Online",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "1",
+      "page_start": "47",
+      "page_end": "50"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "The voyage of an invasive species across continents: genetic diversity of North American and European Colorado potato beetle populations",
+      "authors": [
+        "A Grapputo",
+        "S Boman",
+        "L Lindström",
+        "A Lyytinen",
+        "J Mappes"
+      ],
+      "journal": "Molecular Ecology",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "14",
+      "page_start": "4207",
+      "page_end": "4219"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "As miíases na região neotropical (identificação, biologia, bibliografia)",
+      "authors": [
+        "J Guimarães",
+        "N Papavero",
+        "A Prado"
+      ],
+      "journal": "Revista Brasileira de Zoologia",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "1",
+      "page_start": "239",
+      "page_end": "416"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Myiasis of human and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Advances in Parasitology",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "256",
+      "page_end": "333"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Genetics of Populations",
+      "authors": "P Hedrick",
+      "publisher": "Jones & Batlett Publishers",
+      "publication_date": "2005",
+      "year": 2005,
+      "pages": "737",
+      "notes": "3rd edn"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Dispersal of released irradiated laboratory-reared screwworm flies",
+      "authors": [
+        "B Hightower",
+        "A Adans",
+        "D Alley"
+      ],
+      "publisher": "International Atomic Energy Agency",
+      "publication_date": "1965",
+      "year": 1965,
+      "volume": "58",
+      "page_start": "373",
+      "page_end": "374",
+      "notes": "Genetic Sexing and Population Genetics of Screwworms . 7 -11 Infante-Malachias , M.E ."
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "authors": "S Campinas"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Random amplified polymorphic DNA of screwworm fly populations (Diptera: Calliphoridae) from southeastern Brazil and northern Argentina",
+      "authors": [
+        "M Infante-Malachias",
+        "K Yotoko",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Genome",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "42",
+      "page_start": "772",
+      "page_end": "779"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Genetic variability in mitochondrial DNA of Cochliomyia hominivorax (Diptera: Calliphoridae) from Brazil",
+      "authors": [
+        "M Infante-Vargas",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Biochemical Genetics",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "33",
+      "page_start": "237",
+      "page_end": "256"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Sterile Insect Technique: Principles and Practice in Area-Wide Integrated Pest Management",
+      "authors": [
+        "W Klassen",
+        "C Curtis"
+      ],
+      "editors": "V. A. Dyck , J. Hendrichs & A. S. Robinson",
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "3",
+      "page_end": "36",
+      "notes": "History of the sterile insect technique"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Population structure of tsetse fly Glossina pallidipes estimates by allozyme, microsatellite and mitochondrial gene diversities",
+      "authors": "E Krafsur",
+      "journal": "The Royal Entomological Society, Medical and Veterinary Entomology",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "11",
+      "page_start": "32",
+      "page_end": "42",
+      "notes": "Journal compilation © Insect Molecular Biology Suppl. 1"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Sterile Insect Technique: Principles and Practice in Area-Wide Integrated Pest Management",
+      "authors": "E Krafsur",
+      "editors": "V. A. Dyck , J. Hendrichs & A. S. Robinson",
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "389",
+      "page_end": "406",
+      "notes": "Role of population genetics in the sterile insect technique"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Breeding structure of screwworm fly populations (Diptera-Calliphoridae) in Colima, Mexico",
+      "authors": [
+        "E Krafsur",
+        "C Whitten"
+      ],
+      "journal": "Journal of Medical Entomology",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "30",
+      "page_start": "477",
+      "page_end": "480"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Speculating on screwworm speciation",
+      "authors": [
+        "L Lachance",
+        "A Bartllet",
+        "R Bram"
+      ],
+      "journal": "Science",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "218",
+      "page_start": "1142",
+      "page_end": "1145"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Evolution and structural organization of the mitochondrial DNA control region of myiasiscausing flies",
+      "authors": [
+        "A Lessinger",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "14",
+      "page_start": "71",
+      "page_end": "80"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "The New World screwworm fly in Libya: a review of its introduction and eradication",
+      "authors": [
+        "D Lindquist",
+        "M Abusowa",
+        "M Hall"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "6",
+      "page_start": "2",
+      "page_end": "8"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Characterization of screwworm flies Cochliomyia hominivorax and Cochliomyia macellaria by PCR-RFLP of mitochondrial DNA",
+      "authors": [
+        "P Litjens",
+        "A Lessinger",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "15",
+      "page_start": "183",
+      "page_end": "188"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Analysis of mitochondrial DNA variability and genetic structure in populations of New World screwworm flies (Diptera: Calliphoridae) from Uruguay",
+      "authors": [
+        "M Lyra",
+        "P Fresia",
+        "S Gama",
+        "J Cristina",
+        "L Klaczko",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Journal of Medical Entomology",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "42",
+      "page_start": "589",
+      "page_end": "595"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Structure and evolution of the mitochondrial control region of leaf beetles (Coleoptera: Chrysomelidae): a hierarchical analysis of nucleotide sequence variation",
+      "authors": [
+        "P Mardulyn",
+        "A Termonia",
+        "M Milinkovitch"
+      ],
+      "journal": "Journal of Molecular Evolution",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "56",
+      "page_start": "38",
+      "page_end": "45"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Differing levels of among population divergence in the mitochondrial DNA of periodical cicadas related to historical biogeography",
+      "authors": [
+        "A Martin",
+        "C Simon"
+      ],
+      "journal": "Evolution",
+      "publication_date": "1990",
+      "year": 1990,
+      "volume": "44",
+      "page_start": "1066",
+      "page_end": "1080"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Estimation of dispersal distances for Cochliomyia hominivorax (Diptera: Calliphoridae)",
+      "authors": [
+        "D Mayer",
+        "M Atzeni"
+      ],
+      "journal": "Environmental Entomology",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "22",
+      "page_start": "368",
+      "page_end": "374"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Chromosomal variation in the screwworm: polymorphism or cryptic species?",
+      "authors": [
+        "D Mcelroy",
+        "P Moran",
+        "E Bermingham",
+        "I Kornfield"
+      ],
+      "editors": "D Mcinnis",
+      "journal": "American Naturalist",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "122",
+      "page_start": "840",
+      "page_end": "842",
+      "notes": "Version 4.0 . University of Maine Restriction Analysis Package -REAP"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "A generic estimation of population subdivision using distances between alleles with special reference to microsatellite loci",
+      "authors": [
+        "Y Michalakis",
+        "L Excoffier"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "142",
+      "page_start": "1061",
+      "page_end": "1064"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Molecular Evolutionary Genetics , 512 pp . Columbia University",
+      "authors": "M Nei",
+      "editors": [
+        "M Nei",
+        "F Tajima"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "97",
+      "page_start": "145",
+      "page_end": "163",
+      "notes": "DNA polymorphism detectable by restriction endonucleases"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Improving access to the control region and tRNA gene clusters of Dipteran mitochondrial DNA",
+      "authors": [
+        "M Oliveira",
+        "A Rosa",
+        "A Azeredo-Espin",
+        "A Lessinger"
+      ],
+      "journal": "Journal of Medical Entomology",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "43",
+      "page_start": "636",
+      "page_end": "639"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Mitochondrial DNA control region of Muscidae flies: evolution and structural conservation in a dipteran context",
+      "authors": [
+        "M Oliveira",
+        "A Azeredo-Espin",
+        "A Lessinger"
+      ],
+      "journal": "Journal of Molecular Evolution",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "64",
+      "page_start": "519",
+      "page_end": "527"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Autocidal control of screwworms in North America",
+      "authors": [
+        "R Richardson",
+        "J Ellison",
+        "W Averhoff"
+      ],
+      "journal": "Science",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "215",
+      "page_start": "361",
+      "page_end": "370"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Intraspecific genetic variability in mitochondrial DNA of the screwworm fly ( Cochliomyia hominivorax )",
+      "authors": "R Roehrdanz",
+      "publisher": "Biochemical",
+      "publication_date": "1989",
+      "year": 1989
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "journal": "Genetics",
+      "volume": "27",
+      "page_start": "551",
+      "page_end": "569"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Mitochondrial DNA variation among geographical populations of the screwworm fly Cochliomyia hominivorax",
+      "authors": [
+        "R Roehrdanz",
+        "D Johnson"
+      ],
+      "journal": "Journal of Medical Entomology",
+      "publication_date": "1988",
+      "year": 1988,
+      "volume": "25",
+      "page_start": "136",
+      "page_end": "141"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Restriction fragment-length polymorphism of the mtDNA A+T-rich region as a genetic marker in Aedes aegypti (Diptera: Culicidae)",
+      "authors": [
+        "J Rondan Dueñas",
+        "G Panzetta-Dutari",
+        "A Blanco",
+        "C Gardenal"
+      ],
+      "journal": "Annals of the Entomological Society of America",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "95",
+      "page_start": "352",
+      "page_end": "358"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Diversity of boll weevil populations in South America: a phylogeographic approach",
+      "authors": [
+        "M Scataglini",
+        "A Lanteri",
+        "V Confalonieri"
+      ],
+      "journal": "Genetica",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "126",
+      "page_start": "353",
+      "page_end": "368"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Genetic structure of Asian populations of Bombus ignitus (Hymenoptera: Apidae)",
+      "authors": [
+        "Z.-Y Shao",
+        "H.-X Mao",
+        "W.-J Fu",
+        "M Ono",
+        "D.-S Wang",
+        "M Bonizzoni",
+        "Y.-P Zhang"
+      ],
+      "journal": "Journal of Heredity",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "95",
+      "page_start": "46",
+      "page_end": "52"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Evolution, weighting and phylogenetic utility of mitochondrial gene sequences and compilation of conserved polymerase chain reaction primers",
+      "authors": [
+        "C Simon",
+        "F Frati",
+        "A Beckenbach",
+        "B Crespi",
+        "H Liu",
+        "P Flook"
+      ],
+      "journal": "Annals of the Entomological Society of America",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "87",
+      "page_start": "651",
+      "page_end": "701"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "title": "A measure of population subdivision based on microsatellite allele frequencies",
+      "authors": "M Slatkin",
+      "journal": "Genetics",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "139",
+      "page_start": "457",
+      "page_end": "462"
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Multiple regression and correlation extensions of the Mantel test of matrix correspondence",
+      "authors": [
+        "P Smouse",
+        "J Long",
+        "R Sokal"
+      ],
+      "journal": "Systematic Zoology",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "35",
+      "page_start": "627",
+      "page_end": "632"
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Tandem repeats and length variation in the mitochondrial DNA control region of Epirrita autumnata (Lepidoptera: Geometridae)",
+      "authors": [
+        "N Snäll",
+        "K Huoponen",
+        "M Savontaus",
+        "K Ruohomäki"
+      ],
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "journal": "Genome",
+      "volume": "45",
+      "page_start": "855",
+      "page_end": "861"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "mega4: molecular evolutionary genetics analysis (MEGA) software version 4.0",
+      "authors": [
+        "K Tamura",
+        "J Dudley",
+        "M Nei",
+        "S Kumar"
+      ],
+      "journal": "Molecular Biology and Evolution",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "24",
+      "page_start": "1596",
+      "page_end": "1599"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "Reproductive compatibility and mitochondrial DNA restriction site analysis of the New World screwworm fly, Cochliomyia hominivorax , from North Africa and Central America",
+      "authors": [
+        "D Taylor",
+        "L Hammack",
+        "R Roehrdanz"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "5",
+      "page_start": "145",
+      "page_end": "151"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "A polymerase chain reaction-restriction fragment length polymorphism technique for identification of screwworms (Diptera: Calliphoridae)",
+      "authors": [
+        "D Taylor",
+        "A Szalanski",
+        "R Peterson",
+        "Ii"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "10",
+      "page_start": "63",
+      "page_end": "70"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "The ClustalX Windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+      "authors": [
+        "J Thompson",
+        "T Gibson",
+        "F Plewniak",
+        "F Jeanmougin",
+        "D Higgins"
+      ],
+      "journal": "Nucleic Acids Research",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "24",
+      "page_start": "4876",
+      "page_end": "4882"
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "Population structuring in New World screwworm populations from the Caribbean: insights from microsatellite data",
+      "authors": [
+        "T Torres",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "page_start": "23",
+      "page_end": "31",
+      "notes": "Suppl. 1"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "Assessing genetic variation in the New World screwworm Cochliomyia hominivorax populations from Uruguay . Area-Wide Control of Insect Pests: From Research to Field Implementation",
+      "authors": [
+        "T Torres",
+        "M Lyra",
+        "P Fresia",
+        "A Azeredo-Espin"
+      ],
+      "editors": "M. J. B. Vreysen , A. S. Robinson & J. Hendrichs",
+      "publisher": "Springer",
+      "publication_date": "2007",
+      "year": 2007,
+      "page_start": "183",
+      "page_end": "192"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "title": "Mitochondrial genome size variation in New World and Old World populations of Drosophila melanogaster",
+      "authors": [
+        "J Townsend",
+        "D Rand"
+      ],
+      "journal": "Heredity",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "93",
+      "page_start": "98",
+      "page_end": "103"
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "Impact of screwworm eradication programmes using insect sterile technique",
+      "authors": [
+        "M Vargas-Terán",
+        "H Hofmann",
+        "N Tweddle"
+      ],
+      "editors": [
+        "V Dyck",
+        "J Hendrichs",
+        "A Robinson"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "629",
+      "page_end": "650"
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "Screwworm eradication in the Americas",
+      "authors": "J Wyss",
+      "journal": "Annals of the New York Academy of Sciences",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "791",
+      "page_start": "241",
+      "page_end": "247"
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "See the Terms and Conditions",
+      "publisher": "Wiley Online Library for rules of use",
+      "publication_date": "2009",
+      "year": 2009,
+      "doi": "10.1111/j.1365-2915.2008.00776",
+      "identifiers": {
+        "analytic_identifiers_unknown": "21/01/2026",
+        "biblstruct_identifiers_unknown": "21/01/2026"
+      },
+      "notes": "Accepted OA articles are governed by the applicable Creative Commons License",
+      "urls": [
+        "https://onlinelibrary.wiley.com/terms-and-conditions",
+        "https://onlinelibrary.wiley.com/terms-and-conditions"
+      ]
+    }
+  ]
+}

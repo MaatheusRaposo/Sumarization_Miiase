@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Myiasis caused by the New World screwworm fly &lt;i&gt;Cochliomyia hominivorax&lt;/i&gt; (Diptera: Calliphoridae) in cats from Brazil: report of five cases</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>SAGE Publications</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2010-02">2010-02</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Clarissa</forename><forename type="middle">P</forename><surname>De Souza</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Departamento de Parasitologia Animal , Instituto de Veterina ´ria (IV) , Universidade Federal Rural do Rio de Janeiro(UFRRJ) , BR 465 , Km</note>
+								<orgName type="department" key="dep1">Departamento de Parasitologia Animal</orgName>
+								<orgName type="department" key="dep2">Instituto de Veterina ´ria (IV)</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro(UFRRJ)</orgName>
+								<address>
+									<addrLine>BR 465</addrLine>
+									<country>Km</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Universidade Esta ´cio de Sa ´ , Campus Vargem Pequena , Estrada Boca do Mato , 850 , Rio de Janeiro , RJ 22783-320 , Brazil</note>
+								<orgName type="institution">Universidade Esta ´cio de Sa ´</orgName>
+								<address>
+									<addrLine>Campus Vargem Pequena Estrada Boca do Mato</addrLine>
+									<postCode>850 22783-320</postCode>
+									<settlement>Rio de Janeiro</settlement>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Guilherme</forename><forename type="middle">G</forename><surname>Verocai</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Regina</forename><forename type="middle">Hr</forename><surname>Ramadinha</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>7</label> PSA/UFRRJ , Serope ´dica, RJ , Brazil</note>
+								<orgName type="department" key="dep1">PSA/UFRRJ</orgName>
+								<orgName type="department" key="dep2">Serope ´dica, RJ</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<note type="raw_affiliation">Department of Ecosystem and Public Health , Faculty of Veterinary Medicine , University of Calgary , 3330 Hospital Dr. NW , Calgary , AB T2N 4N1 Canada.</note>
+								<orgName type="department" key="dep1">Department of Ecosystem and Public Health</orgName>
+								<orgName type="department" key="dep2">Faculty of Veterinary Medicine</orgName>
+								<orgName type="institution">University of Calgary</orgName>
+								<address>
+									<addrLine>3330 Hospital Dr. NW</addrLine>
+									<postCode>T2N 4N1</postCode>
+									<settlement>Calgary</settlement>
+									<region>AB</region>
+									<country key="CA">Canada</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Myiasis caused by the New World screwworm fly &lt;i&gt;Cochliomyia hominivorax&lt;/i&gt; (Diptera: Calliphoridae) in cats from Brazil: report of five cases</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Feline Medicine and Surgery</title>
+						<title level="j" type="abbrev">Journal of Feline Medicine and Surgery</title>
+						<idno type="ISSN">1098-612X</idno>
+						<idno type="eISSN">1532-2750</idno>
+						<imprint>
+							<publisher>SAGE Publications</publisher>
+							<biblScope unit="volume">12</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="166" to="168"/>
+							<date type="published" when="2010-02" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">1523A69DAE859ABC27F6FB4162E4482F</idno>
+					<idno type="DOI">10.1016/j.jfms.2009.08.003</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This paper reports five cases of intact adult male crossbreed cats presenting with myiasis caused by Cochliomyia hominivorax. Three were stray animals that died despite treatment due to the severity of lesions while two were client-owned cats previously treated with cryosurgery which completely recovered. Myiasis caused by the New World screwworm fly in cats appears to be more frequent than previously thought, deserving more attention from both veterinary practitioners and owners.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>M yiasis is the infestation and the harmful action provoked by larvae of certain Diptera families on vertebrate animals. <ref type="bibr" target="#b0">1</ref> In the Americas one of the most studied species is Cochliomyia hominivorax, known as the New World screwworm, because of its great impact on both animal and human health and therefore, on the economies of many countries. <ref type="bibr" target="#b1">2</ref> The results of these investigations were used to establish successful eradication plans in the United States, Mexico, and Central America. <ref type="bibr" target="#b2">3</ref> Recently, this species was included in the list of Global Early Warning Systems for Major Animal Diseases, including Zoonoses by the World Health Organization. <ref type="bibr" target="#b3">4</ref> C hominivorax females oviposit on recent injuries of hosts. Larvae hatch during the first 24 h, actively invading lesions. They are highly voracious and feed on living tissues by releasing proteolytic enzymes that cause tissue digestion thus increasing damage. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b4">5</ref> Diagnosis can be easily done, based on serohemorrhagic exudation in association with the characteristic offensive smell of wounds and maggots identification. <ref type="bibr" target="#b5">6</ref> Clinical severity and resolution depends on the site and extent of the lesion, the severity of the infestation and rapidity of diagnosis. Hence, minor and superficial infestations are typically benign and easy to diagnose and treat. On the other hand, massive and invasive infestations commonly lead to death if not treated at an early stage. <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> In small animal practice, ivermectin and pyrethrin or pyrethroids sprays are commonly used as treatment of screwworm myiasis. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> Recently, nitempyran has been routinely administered to dogs in order to treat screwworm infestations in a single dose, following the recommended doses for flea control. <ref type="bibr" target="#b8">9</ref> Five cases of intact adult male crossbreed cats with myiasis are presented. Three were stray cats recovered from the streets, presenting with serious wounds admitted in a veterinary clinic in Rio de Janeiro municipality. One of the stray cats with an unknown history had a fracture on the left humerus and with injuries that predisposed it to myiasis infestation ( Thirty-six days after the procedure screwworm infestation was observed in a surgical wound at the level of temporalis muscle. The second cat presented with multiple ulcerative lesions caused by the thermally dimorphic fungus Sporothrix schenckii. Eighteen days following cryosurgery, myiasis was observed in a surgical wound at the level of the left elbow joint. Debridement of necrotic tissue and mechanical removal of accessible larvae were promptly performed as part of the treatment in all animals. For supplementary larval removal, nitempyran (Capstar; Novartis Animal Health) was orally administered following the approximately recommended doses for flea control (1 mg/kg), as this drug has been demonstrated as an efficient larvicidal against screwworm infestations due to C hominivorax on dogs. <ref type="bibr" target="#b8">9</ref> The animals also received flunixin meglumine (1 mg/kg, SC, 3 days) and enrofloxacin (5 mg/kg, SC, 7 days) as supportive treatment. Larvae were mechanically removed from all animals and fixed in ethanol 70% for identification under stereomicroscope. <ref type="bibr" target="#b0">1</ref> Maggots were classified as third-instar C hominivorax larvae. As demonstrated in previous studies, this infestation is quite common in feline practice in Rio de Janeiro State. <ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b9">10</ref> This suggests that it may occur in other countries throughout neotropical America.</p><p>Nitempyran lead to expulsion and larvicidal effects when administered to infested cats as reported on dogs. <ref type="bibr" target="#b8">9</ref> A few hours after administration larvae actively left wounds in all cats. Larvae that penetrated deeper into the lesion usually die without being expelled, requiring mechanical removal. Another therapeutic option is the use of subcutaneous ivermectin (50 mg/kg) associated to antibiotic therapy, previously reported in cats. <ref type="bibr" target="#b7">8</ref> The fact that all animals were intact crossbreed males agrees with previous reports in the literature. These are more likely to suffer injury as a result of territorial and reproductive competitive fighting behavior and have a higher incidence of lesions in the front part of the body. Moreover, stray cats are more susceptible to accidents, such as canine attacks and road traffic accidents. <ref type="bibr" target="#b9">10</ref> In the present study, client-owned cats were successfully treated because the diagnosis was made early and the lesions were not advanced. The cause of the myiasis infestation in both cases was inadequate postoperative wound care. <ref type="bibr" target="#b9">10</ref> In contrast, the two stray cats with facial and neck lesions died 1 day later; one with a broken front leg died 4 days later. These animals had massive infestation in extensive lesions. Myiasis diagnoses and treatment in stray cats are known to be difficult. Besides avoiding contact with humans because their feral behavior, injured animals often hide in places of limited access, aggravating lesions and making treatment frequently impossible. <ref type="bibr" target="#b7">8</ref> In comparison to other myiasis previously reported in domestic cats, C hominivorax infestation can be considered more aggressive. Many other infestations such  as those caused by Dermatobia hominis, <ref type="bibr" target="#b10">11</ref> Lucilia eximia, 12 L sericata, <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> Chrysomyia erytrocephala, <ref type="bibr" target="#b14">15</ref> and Cuterebra species, <ref type="bibr" target="#b15">16</ref> larvae penetrate subcutaneously, are relatively benign and are routinely effectively treated. However, in some cases, Cuterebra infestations can cause serious ophthalmological or neurological disorders if the larvae migrate through atypical host tissues and the outcome can be fatal. <ref type="bibr" target="#b16">17</ref> Clinical case reports of New World screwworm myiasis are relevant due to its overall importance and frequent occurrence in feline veterinary practice in many countries, especially in outdoor intact male cats. Nitempyran is useful in promoting larval expulsion and should be recommended as treatment for this parasitosis. Small animal practitioners should be aware of this myiasis and be able to appropriately inform owners on its recognition, prevention and treatment.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Date accepted: 7</head><label>7</label><figDesc>August 2009 Ó 2009 ESFM and AAFP. Published by Elsevier Ltd. All rights reserved.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Fig 1). The other two presented with serious lesions in the right front leg and left lateral region of the neck extending to the face, respectively (Fig 2). The remaining two were client-owned animals previously treated with cryosurgery in the Small Animal Hospital of the Universidade Federal Rural do Rio de Janeiro, Municipality of Serope ´dica. Both client-owned cats were previously treated with cryosurgery; the first one for squamous cell carcinoma causing facial lesions.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig 1 .</head><label>1</label><figDesc>Fig 1. Stray cat presenting myiasis by Cochliomyia hominivorax at left front leg.</figDesc><graphic coords="2,63.95,73.70,223.99,168.04" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig 2 .</head><label>2</label><figDesc>Fig 2. Stray cat presenting myiasis by Cochliomyia hominivorax on the left region of the neck extending to the face.</figDesc><graphic coords="2,63.95,531.10,223.99,168.04" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>1098-612X/09/020166+03 $36.00/0 Ó 2009 ESFM and AAFP. Published by Elsevier Ltd. All rights reserved.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Available online at www.sciencedirect.com</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">As miı ´ases da Região Neotropical</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Zool</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="239" to="e416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Impacto econo ˆmico das principais ectoparasitoses em bovinos no Brasil</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Pereira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hora Vet</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="8" to="e10" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Erradicac ¸ão ou manejo integrado das miı ´ases neotropicais das Ame ´ricas</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesq Vet Bras</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="131" to="e138" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<ptr target="http://www.who.int/zoonoses/outbreaks/glews/en/index.html" />
+		<title level="m">WHO</title>
+		<imprint>
+			<date type="published" when="2007-12-22">2007. December 22, 2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Alexander</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Screwworms</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Am Vet Med Assoc</title>
+		<imprint>
+			<biblScope unit="volume">228</biblScope>
+			<biblScope unit="page" from="357" to="e67" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">Ejl</forename><surname>Soulsby</surname></persName>
+		</author>
+		<title level="m">Parasitologia y enfermidades parasita ´rias en los animales dome ´sticos. 2nd edn. Mexico: Interamericana</title>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Muller &amp; Kirk&apos;s Small Animal Dermatology. 6th edn</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Griffin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>W B Saunders</publisher>
+			<pubPlace>Philadelphia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cochliomyia hominivorax myiasis in a colony of stray cats (Felis catus Linnaeus, 1758) in Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Mendes-De-Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Labarthe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guerrero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Vet Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="376" to="e378" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Emprego do nitenpyram como larvicida em miı ´ases caninas por Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">Mls</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emp</forename><surname>Rodrigues</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Sci Vet</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="59" to="e62" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Inque ´rito sobre os casos de miı ´ases por Cochliomyia hominivorax em gatos das zonas norte, sul e oeste e do centro do municı ´pio do Rio de Janeiro no ano 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Cramer-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rocco</forename><surname>Fscardoso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz J Vet Res An Sci</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="165" to="e70" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Estu ´dio retrospectivo de doscientos casos de miı ´asis presentados en el Hospital de Pequen ˜os Animales &apos;Dr Daniel Cabello-Mariani&apos;. Facultad de Ciencias Veterina ´rias, Universidad Central de Venezuela durante los an ˜os de 1996 a 1999</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Marcial</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Roman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">V</forename><surname>Pivat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Fac Cs Vet UCV</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="87" to="e95" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The occurrence of primary myiasis caused by Phaenicia eximia (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gar</forename><surname>Silveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pavan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Inst Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">341</biblScope>
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Cochliomyia hominivorax (Coquerel, 1858) and Phaenicia sericata (Meigen, 1826) parasiting domestic animals in Buenos Aires and vicinities (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Marluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Cervinazzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Quintana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Inst Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="page">139</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Myiasis cutaneo-ulcerosas en pequen ˜os animales</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Vignau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Arias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol Dia</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="36" to="e39" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Cutaneous myiasis in three obese cats</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Perez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet Q</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="102" to="e103" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Feline Cuterebriasis caused by Lagomorph-Infesting Cuterebra spp</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Slansky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Larva. J Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="959" to="e61" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">of the posterior segment and central nervous system myiasis: Cuterebra spp in a cat</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wyman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Starkey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Weisbrode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Filko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Grandstaff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ferrebee</forename><forename type="middle">E</forename><surname>Ophthalmomyiasis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet Ophthalmol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="77" to="e80" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+	<note>interna posterior</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

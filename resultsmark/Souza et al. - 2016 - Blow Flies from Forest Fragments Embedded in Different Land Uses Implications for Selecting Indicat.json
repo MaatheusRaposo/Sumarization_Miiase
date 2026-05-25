@@ -1,0 +1,1333 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Blow Flies from Forest Fragments Embedded in Different Land Uses: Implications for Selecting Indicators in Forensic Entomology",
+    "authors": [
+      "Mirian De Souza",
+      "Mateus Pepinelli",
+      "Eduardo De Almeida",
+      "Jose Ochoa-Quintero",
+      "Fabio Roque"
+    ],
+    "doi": "10.1111/1556-4029.12869",
+    "hash": "98192DFD1BDBAF35C1A8AAA94276D4C9",
+    "publisher": "",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Given the general expectation that forest loss can alter biodiversity patterns, we hypothesize that blow fly species abundances differ in a gradient of native vegetation cover. This study was conducted in 17 fragments across different landscapes in central Brazil. Different land cover type proportions were used to represent landscape structure. In total, 2334 specimens of nine species of Calliphoridae were collected. We used principal component analysis (PCA) to reduce dimensionality and multicollinearity of the landscape data. The first component explained 70%, and it represented a gradient of forest-pasture land uses. Alien species showed a wide distribution in different fragments with no clear relationship between the abundance values and the scores of PCA axes, whereas native species occurred only in areas with a predominance of forest cover. Our study revealed that certain native species may be sensitive to forest loss at the landscape scale, and they represent a bioindicator in forensic entomology.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_41f0c57d",
+      "text": "Forensic entomology is founded on the idea that particular species respond predictably to the environment (e.g., where a crime was committed) and that the presence and abundance of such species are useful for reconstructing crime scenes or conditions [1,2]. Most studies in this subject relate species to particular sampling point conditions and/or making inferences about the area where a corpse has been found or decayed based only on variables from a few meters around the crime scene [3].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "[1,",
+          "offset_start": 251,
+          "offset_end": 254
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "2]",
+          "offset_start": 254,
+          "offset_end": 256
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "[3]",
+          "offset_start": 488,
+          "offset_end": 491
+        }
+      ]
+    },
+    {
+      "id": "p_a3cba6b3",
+      "text": "In the Neotropical region, the vast majority of forensic studies have been conducted on a local scale-e.g., Ferraz [4], with limited attention to a broader geographical scale. However, there is a growing evidence that knowledge of variables at different scales is crucial to understanding the processes shaping biological communities [5]. Part of the challenge of large-scale studies is identifying what drives variation in insect communities associated with carrion [6], as well as establishing relationships between biological indicators and more easily measured regional variables, such as landscape metrics [7]. Furthermore, knowledge about patterns of tropical insect distribution and their relationship to landscape metrics to construct predictive models are still too limited to be used effectively in forensic entomology.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4]",
+          "offset_start": 115,
+          "offset_end": 118
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "[5]",
+          "offset_start": 334,
+          "offset_end": 337
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "[6]",
+          "offset_start": 467,
+          "offset_end": 470
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "[7]",
+          "offset_start": 611,
+          "offset_end": 614
+        }
+      ]
+    },
+    {
+      "id": "p_59a2116f",
+      "text": "In this study, we evaluate the use of landscape variables, such as percentage of different land uses, to explain the occurrence of blow flies (Diptera: Calliphoridae) in central Brazil-an area historically dominated by a mosaic of savannah (Cerrado) and semideciduous Atlantic Forest. Currently, this area is characterized by a fragmented landscape, in which native vegetation is embedded in a matrix dominated by grazing pastures and monocultures.",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_528b425b",
+      "text": "Given the general expectation that forest loss at a landscape scale alters biodiversity patterns (e.g., changes in species communities [8]), we hypothesize that blow fly species abundances would differ in a gradient of native vegetation cover (from areas with a high proportion of natural vegetation to areas of highly degraded-low natural vegetation cover). Based on previous studies about the influence of habitat loss and fragmentation on biodiversity-e.g., Faring et al. [9]; Estavillo et al. [10]-we predict: (i) that certain native blow flies-e.g., Gadelha et al. [11] -would be absent or have low abundance in anthropogenically disturbed landscapes (low natural vegetation proportion) and (ii) that alien species introduced from elsewhere in Neotropical region may occur across the entire gradient (anthropogenic landscapes). Finally, we discuss the implications of our study for incorporating landscape metrics into forensic entomology strategies.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "[8]",
+          "offset_start": 135,
+          "offset_end": 138
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "[9]",
+          "offset_start": 475,
+          "offset_end": 478
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "[10]",
+          "offset_start": 497,
+          "offset_end": 501
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "[11]",
+          "offset_start": 570,
+          "offset_end": 574
+        }
+      ]
+    },
+    {
+      "id": "p_41f72dda",
+      "text": "We used blow flies as a model group because they are among the most prominent groups of insects associated with corpses and carrion [1,12,13]. Several species are believed to breed almost exclusively on carrion and are therefore important forensic indicators [13]. Moreover, they are taxonomically and functionally diverse, with 24 named species in Neotropical regions [14].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "[1,",
+          "offset_start": 132,
+          "offset_end": 135
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "12,",
+          "offset_start": 135,
+          "offset_end": 138
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "13]",
+          "offset_start": 138,
+          "offset_end": 141
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "[13]",
+          "offset_start": 259,
+          "offset_end": 263
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "[14]",
+          "offset_start": 369,
+          "offset_end": 373
+        }
+      ]
+    },
+    {
+      "id": "p_d42ef84d",
+      "text": "This study was conducted in 17 sites across Mato Grosso do Sul state, Brazil (Fig. 1). Mato Grosso do Sul state has an area of 357,145,532 km 2 , supports a human population of about 2,449,024 [15], and has a tropical climate. Three major Biomes converge in this region: tropical seasonal forest or Atlantic semideciduous forest, Cerrado (Brazilian savanna), and Pantanal. The Atlantic Forest and Cerrado are among the most threatened biomes in the world. In the past, the state was dominated by Cerrado vegetation, but now its natural vegetation is limited to small fragments (as a consequence of deforestation) embedded in a matrix of pastures and agriculture, except in Pantanal where small natural forest fragments (called capões) are embedded in a large wetland area.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "[15]",
+          "offset_start": 193,
+          "offset_end": 197
+        }
+      ],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_2fe3d8d2",
+      "text": "Blow flies were sampled from October 2010 to May 2011, the wet season in the region. In each forest fragment, we installed three pyramidal traps for insect attraction exposed for a period of 48 h. The trap was constructed with an inverted plastic bottle (2 L), with a smaller plastic bottle inside (600 mL), serving as a funnel to permit one-way access to flies. Traps were wrapped with fine fabric (voal) to prevent the loss of flies. We also placed a tray containing a mixture of detergent, water, and salt inside each trap to capture visiting insects.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Collection of the Blow Flies"
+    },
+    {
+      "id": "p_dc6f3d5a",
+      "text": "Traps were set 100 m apart inside fragments at least 50 m from the edge of the fragment to avoid edge effects. Bait was a mixture of cow parts, such as fat, liver, and bone. Such material was aged for 7-10 days in a controlled condition at ambient temperature to simulate the decomposition process [1,13,16]. After this period, we used 0.5 kg of the mixture per trap. We choose this approach to capture carrion-visiting insects.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "[1,",
+          "offset_start": 298,
+          "offset_end": 301
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "13,",
+          "offset_start": 301,
+          "offset_end": 304
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "16]",
+          "offset_start": 304,
+          "offset_end": 307
+        }
+      ],
+      "head_section": "Collection of the Blow Flies"
+    },
+    {
+      "id": "p_78b5cf8d",
+      "text": "Although the best animal model for forensic studies of postmortem interval, carrion succession, and toxicology is pig [1,13,16], we choose a mixture of cow meat and other parts because we were only interested in attracting insects. A preliminary experiment using traps baited with a mixture of cow parts was used to test its efficacy for collecting forensic insects; this experiment also gave an indication of that optimal time of exposure was around 48 h.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "[1,",
+          "offset_start": 118,
+          "offset_end": 121
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "13,",
+          "offset_start": 121,
+          "offset_end": 124
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "16]",
+          "offset_start": 124,
+          "offset_end": 127
+        }
+      ],
+      "head_section": "Collection of the Blow Flies"
+    },
+    {
+      "id": "p_f0e8b515",
+      "text": "Captured insects were identified using the keys of McAlpine et al. [17], Mello [18], Carvalho & Mello-Patiu [19], and Kosman et al. [20]. Voucher specimens are deposited in the Entomological Collection of the Zoology Department of Federal University of Mato Grosso do Sul.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "[17]",
+          "offset_start": 67,
+          "offset_end": 71
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "[19]",
+          "offset_start": 108,
+          "offset_end": 112
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "[20]",
+          "offset_start": 132,
+          "offset_end": 136
+        }
+      ],
+      "head_section": "Collection of the Blow Flies"
+    },
+    {
+      "id": "p_3e0587d9",
+      "text": "Different land cover type proportions were used to represent landscape structure. This metric was selected because it is known to be among the main landscape properties influencing species distribution at different scales for a variety of taxonomic groups, for example, mammals [20] and mosquitoes [21]. To define the area of analysis, we created a 5 km radius for each forest fragment sampled to delimit the landscape around sampling points. Within these landscapes, we estimated the percentage of different land cover types forest, pasture, agriculture, and urban areas (including buildings and road network) (Table 1). Land cover maps were obtained from the most recent assessments of land cover change for Mato Grosso do Sul state (SOS Pantanal 2012 and GEOMS 2007) by interpretation of Landsat/ TM images at a scale of 1:50,000 with a spatial resolution of 30 m. Albers projection and Sad69 datum were used. It is important to note that we have no previous information to determine the best design (radius area) or scale to calculate landscape metrics because there is still no information about dispersal patterns of most flies in the Neotropical region. Moreover, previous studies of flies using a variety of measures in relation to land use at multiple scales report mixed influences [22,23]. Thus, given the absence of specific information for all taxa, and given that some blow flies may be dispersed beyond 2 km in a single day [24], we consider our exploratory approach an appropriate option for estimating the effect of landscape metrics on blow flies occurrence.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "[20]",
+          "offset_start": 278,
+          "offset_end": 282
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "[21]",
+          "offset_start": 298,
+          "offset_end": 302
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "[22,",
+          "offset_start": 1292,
+          "offset_end": 1296
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "23]",
+          "offset_start": 1296,
+          "offset_end": 1299
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "[24]",
+          "offset_start": 1439,
+          "offset_end": 1443
+        }
+      ],
+      "head_section": "Landscape Metrics"
+    },
+    {
+      "id": "p_ed776c6d",
+      "text": "To analyze the obtained data, we used principal component analysis (PCA) to reduce dimensionality and multicollinearity of the landscape data. Principal components were selected using the broken-stick model method-see Peres-Neto [25], and used as independent predictors. We then plotted the abundance of each species (sum of individuals collected in the three pyramidal traps for a period of 48 h at each site) across the landscape gradients. All the statistical analyses were conducted using R 2.9 [26].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "[25]",
+          "offset_start": 229,
+          "offset_end": 233
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "[26]",
+          "offset_start": 499,
+          "offset_end": 503
+        }
+      ],
+      "head_section": "Data Analysis"
+    },
+    {
+      "id": "p_900c5bec",
+      "text": "A total of 2334 specimens of Calliphoridae were collected representing 6 genera and nine species. Chloroprocta idioidea (Robineau-Desvoidy) was the most abundant species representing 45% of the total, followed by Chrysomya albiceps (Wiedemann) with 21%. The other 7 species were as follows: Mesembrinella bicolor (Fabricius) and Chrysomya putoria (Wiedemann) with 10% each, Chrysomya megacephala (Fabricius) 5%, Lucilia eximia (Wiedemann) 4%, Cochliomyia macellaria (Fabricius) 3%, Hemilucilia segmentaria (Fabricius) 2%, and Cochliomyia hominivorax (Coquerel) with <1%.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_b9a52f78",
+      "text": "The PCA explained over 99% of the total variability of the data in the two principal components (Fig. 2). The first component explained 70% and was associated with the landscape metrics of percentage of land cover: forest and pasture. The second For most species, there is no clear relationship between abundance values and the scores of axes from PCA axe 1 (Fig. 3). The alien species Chrysomya albiceps, Chrysomya putoria, and Chrysomya megacephala exhibited a wide distribution in the different fragments studied. Moreover, the native species Lucilia eximia and Hemilucilia segmentaria occurred almost exclusively in areas with a predominance of forest cover (positive scores of component 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_5ded584f",
+      "text": "Although blow flies have been suggested as bioindicators in forensic science [3], few studies have focused on the response of blow flies to environmental gradients at the landscape scale. Our study supports previous findings that most blow flies are widely distributed in fragmented landscapes [4,27,28]; in addition, it also shows that certain native species may be sensitive to forest loss at the landscape scale.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "[3]",
+          "offset_start": 77,
+          "offset_end": 80
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4,",
+          "offset_start": 294,
+          "offset_end": 297
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "27,",
+          "offset_start": 297,
+          "offset_end": 300
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "28]",
+          "offset_start": 300,
+          "offset_end": 303
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b950d9de",
+      "text": "As expected, our study revealed that alien species occur in both forested and anthropogenically disturbed landscapes. The lack of correlation between occurrence of species and the landscape gradient may be explained by low environmental requirements of most species of blow flies and high dispersal ability of these species. The introduction of invasive species such as Chrysomya sp. into the Americas, in combination with human impacts on the environment, may have induced changes on the population dynamics and spatial distribution of blow flies of different environments, including forests [4]. Chrysomya sp. provide an example of how opportunist species are able to exploit patchy and dynamic resources in a wide variety of environmental conditions. They were introduced to the Neotropical region in the mid-1970s and rapidly become among the most abundant and widely distributed forensically important species [29,30]. Chrysomyia sp. have a wide tolerance to variation in climate, and this may be among the key determinants of its adaptability, facilitating the expansion of its geographical range [31]. Further, larvae of Chrysomya albiceps release allomones that drive larvae of other species away [32], allowing them to live in a wide range of environmental conditions. Given that most blow fly communities in the Neotropical region are composed of alien species, and that they do not respond clearly to landscape gradients, we suggest that data on the occurrence and abundance of such species have little value for understanding forensic conditions at the landscape scale, except when compared with native species.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "[4]",
+          "offset_start": 593,
+          "offset_end": 596
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "[29,",
+          "offset_start": 915,
+          "offset_end": 919
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "30]",
+          "offset_start": 919,
+          "offset_end": 922
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "[31]",
+          "offset_start": 1103,
+          "offset_end": 1107
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "[32]",
+          "offset_start": 1205,
+          "offset_end": 1209
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_e75f54e9",
+      "text": "Recent studies have shown that certain calliphorid species have specific habitat requirements and respond in a predictable way to changes in land use and fragmentation, which suggests that members of the family are biological indicators of specific environmental conditions-e.g., Gadelha et al. [10]. In general, urbanization affects calliphorid assemblages in that alien species replace native ones, but the responses seem to be taxon specific [28]. In our study, Lucilia eximia and Hemilucilia segmentaria exhibited a clear relationship with forest cover. They have been detected predominantly in forested areas and have been rarely collected in urban environments [19,[33][34][35][36][37]. It is important to note that we found these species in forested fragments embedded within urban areas. This is not surprising because we studied such large fragments in Campo Grande City, which is well endowed with parkland. Previous studies also found native blow fly species in relatively high abundance in urban areas with a high proportion of parkland (>25%) [28].",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "[10]",
+          "offset_start": 295,
+          "offset_end": 299
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[28]",
+          "offset_start": 445,
+          "offset_end": 449
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "[19,",
+          "offset_start": 667,
+          "offset_end": 671
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "[33]",
+          "offset_start": 671,
+          "offset_end": 675
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "[34]",
+          "offset_start": 675,
+          "offset_end": 679
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "[35]",
+          "offset_start": 679,
+          "offset_end": 683
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "[36]",
+          "offset_start": 683,
+          "offset_end": 687
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "[37]",
+          "offset_start": 687,
+          "offset_end": 691
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[28]",
+          "offset_start": 1056,
+          "offset_end": 1060
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_3fb35fa6",
+      "text": "Our results, together with those of previous studies-e.g., Kavaros et al. [28], allow us to hypothesize that blow flies communities in mosaic landscapes-particularly those dominated by open areas such as savannas-should be characterized by species with high vagility and low ecological requirements, resulting in communities molded predominantly by stochastic processes. This finding has implications for the use of blow flies in forensic entomology because it reveals that most species are not bound to specific environments, especially the widely distributed ones like alien species. This corroborates the results found by other study [3] that inferred a limited applicability of blow flies distribution and abundance to be used to infer landscapes in which corpses have decayed. On the other hand, certain native species appear to be closely associated with particular environmental conditions in forest landscapes. These results should be studied more intensively to identify the ecological thresholds that control their distribution. Therefore, in the context of using blow flies for forensic studies in the Neotropical region, a clear challenge emerges: the species with the greatest potential for forensic entomology (i.e., native species) are the ones we know the least about in terms of their biology and natural history.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "[28]",
+          "offset_start": 74,
+          "offset_end": 78
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "[3]",
+          "offset_start": 637,
+          "offset_end": 640
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_f8287fa6",
+      "text": "We are grateful to the SisBiota Diptera team for helping us during the development of our project. Dr. Jos e Roberto Pujol-Luz and his team provided support in identification of blow flies in the laboratory of Dipterology and Forensic Entomology. F. O. Roque is a CNPq research fellow. Dr. Douglas C. Currie kindly reviewed the manuscript. M. Pepinelli is a PNPD fellowship (process number 23038.006958/2011-43).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgments"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "",
+      "head": "1",
+      "type": "figure",
+      "desc": "Programa de P os-Graduac ßão em Entomologia e Conservac ßão da Biodiversidade, Faculdade de Ciencias Biologicas e Ambientais, Universidade Federal da Grande Dourados, Dourados, Brazil.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_1",
+      "label": "1",
+      "head": "FIG. 1 -",
+      "type": "figure",
+      "desc": "FIG. 1--Outline of the area sampled, showing the geographical position of each sampled site (L1-L17).",
+      "note": "",
+      "coords": [
+        {
+          "x": 2.0,
+          "y": 105.45,
+          "width": 431.15,
+          "height": 363.6
+        }
+      ]
+    },
+    {
+      "id": "fig_2",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "component explained 29% and was also associated with agriculture and urban areas.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_3",
+      "label": "3",
+      "head": "FIG. 3 -",
+      "type": "figure",
+      "desc": "FIG. 3--Abundance of Calliphoridae species vs. the Principal Component scores of axes 1 with right side positively correlated with forest cover and left side with pasture cover.",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 31.75,
+          "width": 260.86,
+          "height": 516.02
+        }
+      ]
+    },
+    {
+      "id": "2b8b0cae",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 109.7,
+          "width": 540.57,
+          "height": 368.64
+        }
+      ]
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "TABLE 1 -",
+      "type": "table",
+      "desc": "-Sites sampled in Mato Grosso do Sul state with geographical coordinates and information on the metrics landscape. DE SOUZA ET AL. . BLOW FLIES: SELECTING INDICATORS IN FORENSICS 95 15564029, 2016, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/1556-4029.12869 by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [28/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "Coordenadas",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Location",
+            "LAT/MOD/S LONG/MOD/S",
+            "Forest Cover (%)",
+            "Pasture (%)",
+            "Urban (%)",
+            "Agriculture (%)"
+          ],
+          [
+            "L1",
+            "À19.774539",
+            "À55.243281",
+            "36",
+            "63",
+            "0",
+            "0"
+          ],
+          [
+            "L2",
+            "À19.767450",
+            "À55.227550",
+            "26",
+            "73",
+            "0",
+            "0"
+          ],
+          [
+            "L3",
+            "À19.780283",
+            "À55.241508",
+            "33",
+            "66",
+            "0",
+            "0"
+          ],
+          [
+            "L4",
+            "À21.694681",
+            "À57.802194",
+            "15",
+            "84",
+            "0",
+            "0"
+          ],
+          [
+            "L5",
+            "À21.684272",
+            "À57.757256",
+            "42",
+            "58",
+            "0",
+            "0"
+          ],
+          [
+            "L6",
+            "À21.428550",
+            "À56.444133",
+            "20",
+            "78",
+            "0",
+            "1.5"
+          ],
+          [
+            "L7",
+            "À21.207647",
+            "À56.444133",
+            "32",
+            "48",
+            "0",
+            "18.4"
+          ],
+          [
+            "L8",
+            "À22.520181",
+            "À56.462542",
+            "62",
+            "32",
+            "0",
+            "3.3"
+          ],
+          [
+            "L9",
+            "À22.145564",
+            "À53.813786",
+            "6",
+            "70.7",
+            "2",
+            "3.7"
+          ],
+          [
+            "L10",
+            "À20.509703",
+            "À54.398458",
+            "25",
+            "76",
+            "0",
+            "0"
+          ],
+          [
+            "L11",
+            "À22.317389",
+            "À54.747125",
+            "1",
+            "3",
+            "2",
+            "77"
+          ],
+          [
+            "L12",
+            "À20.683317",
+            "À56.862242",
+            "72",
+            "27",
+            "0",
+            "0"
+          ],
+          [
+            "L13",
+            "À20.694861",
+            "À56.863592",
+            "71",
+            "28",
+            "0",
+            "0"
+          ],
+          [
+            "L14",
+            "À20.702756",
+            "À56.873967",
+            "74",
+            "25",
+            "0",
+            "0"
+          ],
+          [
+            "L15",
+            "À19.569733",
+            "À57.019028",
+            "97",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "L16",
+            "À18.916622",
+            "À57.583308",
+            "99",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "L17",
+            "À18.600069",
+            "À53.172469",
+            "26",
+            "73",
+            "0",
+            "0"
+          ]
+        ],
+        "metadata": {
+          "row_count": 19,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "FIG.2--Ordination of 17 fragments in Mato Grosso do Sul State generated by applying principal component analysis to environmental variables. Components 1 and 2 explain 70% and 29% of the variability, respectively.",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Forensic entomology in criminal investigations",
+      "authors": [
+        "E Catts",
+        "M Goff"
+      ],
+      "journal": "Annu Rev Entomol",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "37",
+      "page_start": "253",
+      "page_end": "272"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Cadaver decomposition in terrestrial ecosystems",
+      "authors": [
+        "D Carter",
+        "D Yellowlees",
+        "M Tibbett"
+      ],
+      "journal": "Naturwissenschaften",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "94",
+      "page_start": "12",
+      "page_end": "24"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Seasonal blowfly distribution and abundance in fragmented landscapes. Is it useful in forensic inference about where a corpse has been decaying",
+      "authors": [
+        "J Zabala",
+        "M Salonã-Bordas"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "9",
+      "issue": "6",
+      "pages": "99668",
+      "doi": "10.1371/journal.pone.0099668"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biol ogica do Tingu a, Nova Iguac ßu",
+      "authors": [
+        "Acp Ferraz",
+        "B Gadelha",
+        "Mmc Queiroz",
+        "G Moya-Borja",
+        "Aguiar-Coelho Vm"
+      ],
+      "journal": "RJ. Braz J Biol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "70",
+      "page_start": "55",
+      "page_end": "63"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Comparing species and measures of landscape structure as indicators of conservation importance",
+      "authors": [
+        "C Banks-Leite",
+        "R Ewers",
+        "V Kapos",
+        "A Martensen",
+        "J Metzger"
+      ],
+      "journal": "J Appl Ecol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "48",
+      "page_start": "706",
+      "page_end": "714"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "The role of carrion in maintaining biodiversity and ecological processes in terrestrial ecosystems",
+      "authors": [
+        "P Barton",
+        "S Cunningham",
+        "D Lindenmayer",
+        "A Manning"
+      ],
+      "journal": "Oecologia",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "171",
+      "page_start": "761",
+      "page_end": "772"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Trends in the use of landscape spatial metrics as landscape indicators: a review",
+      "authors": [
+        "E Uuemaa",
+        "€ Mander",
+        "Marja"
+      ],
+      "journal": "Ecol Indic",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "28",
+      "page_start": "100",
+      "page_end": "106"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Beyond the fragmentation threshold hypothesis: regime shifts in biodiversity across fragmented landscapes",
+      "authors": [
+        "R Pardini",
+        "A Bueno",
+        "T Gardner",
+        "P Prado",
+        "J Metzger"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "5",
+      "page_start": "1",
+      "page_end": "10"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Effects of habitat fragmentation on biodiversity",
+      "authors": "L Faring",
+      "journal": "Annu Rev Ecol Evol Syst",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "34",
+      "page_start": "487",
+      "page_end": "515"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Forest loss and the biodiversity threshold: an evaluation considering species habitat requirements and the use of matrix habitats",
+      "authors": [
+        "C Estavillo",
+        "R Pardini",
+        "Plbd Rocha"
+      ],
+      "journal": "PLoS One",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "8",
+      "issue": "12",
+      "pages": "82369",
+      "doi": "10.1371/journal.pone.0082369"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "A importância dos mesembrinelineos (Diptera: Calliphoridae) e seu potencial como indicadores de preservac ßão ambiental",
+      "authors": [
+        "B Gadelha",
+        "Acp Ferraz",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Oecol Bras",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "13",
+      "page_start": "660",
+      "page_end": "664"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Forensic entomology. The utility of arthropods in legal investigation, 2nd rev",
+      "authors": [
+        "J Byrd",
+        "J Castner"
+      ],
+      "publisher": "CRC Press",
+      "publication_date": "2010",
+      "year": 2010
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Factors affecting decomposition and Diptera colonization",
+      "authors": [
+        "C Campobasso",
+        "G Divelha",
+        "F Introna"
+      ],
+      "journal": "Forensic Sci Int",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "120",
+      "page_start": "18",
+      "page_end": "27"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Entomologia forense: quando os insetos são vest ıgios. Tratados de per ıcias criminal ısticas, 2nd edn. Campinas",
+      "authors": "J Oliveira-Costa",
+      "publisher": "Millennium Editora",
+      "publication_date": "2008",
+      "year": 2008
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Manual of neartic diptera",
+      "authors": [
+        "J Mcalpine",
+        "B Peterson",
+        "G Shewell",
+        "H Teskey",
+        "J Vockeroth",
+        "D Wood"
+      ],
+      "journal": "Research Branch Agriculture",
+      "publication_date": "1981",
+      "year": 1981,
+      "pages": "1332"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "journal": "Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "390",
+      "page_end": "406"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Chrysomya albiceps (Wiedemann) and Hemilucilia segmentaria (Fabricius) (Diptera, Calliphoridae) used to estimate the postmortem interval in a forensic case in Minas Gerais",
+      "authors": [
+        "C Kosmann",
+        "M Macedo",
+        "Taf Barbosa",
+        "Pujol-Luz Jr"
+      ],
+      "journal": "Brazil. Rev Bras Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "55",
+      "page_start": "621",
+      "page_end": "623"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Habitat suitability of Anopheles vector species and association with human malaria in the Atlantic forest in south-eastern Brazil",
+      "authors": [
+        "G Laporta",
+        "D Ramos",
+        "C Ribeiro",
+        "Mam Sallum"
+      ],
+      "journal": "Mem Inst Oswaldo Cruz",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "106",
+      "page_start": "239",
+      "page_end": "245"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Spatio-Temporal dynamics and preference for type of bait in necrophagous insects, particularly native and introduced blow flies (Diptera: Calliphoridae)",
+      "authors": [
+        "T Moretti",
+        "Wac Godoy"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "50",
+      "page_start": "415",
+      "page_end": "424"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Seasonal necrophagous insect community assembly during vertebrate carrion decomposition",
+      "authors": [
+        "M Benbow",
+        "A Lewis",
+        "J Tomberlin",
+        "J Pechal"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "50",
+      "page_start": "440",
+      "page_end": "450"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Dispersal, density and habitat preference of the blow-flies Chrysomyia albiceps (Wd) and Chrysomyia marginalis (Wd) (Diptera: Calliphoridae)",
+      "authors": [
+        "Leo Braack",
+        "P Retief"
+      ],
+      "journal": "Onderstepoort J Vet Res",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "53",
+      "page_start": "13",
+      "page_end": "18"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Giving meaningful interpretation to ordination axes: assessing loading significance in principal component analysis",
+      "authors": [
+        "P Peres-Neto",
+        "Jackson Somers",
+        "K"
+      ],
+      "journal": "Ecology",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "84",
+      "page_start": "2347",
+      "page_end": "2363"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "BLOW FLIES: SELECTING INDICATORS IN FORENSICS 97 15564029",
+      "authors": [
+        "De",
+        "E Souza",
+        "Al"
+      ],
+      "publisher": "Wiley Online Library for rules of use",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "1",
+      "doi": "10.1111/1556-4029.12869",
+      "identifiers": {
+        "analytic_identifiers_unknown": "28/01/2026",
+        "biblstruct_identifiers_unknown": "28/01/2026"
+      },
+      "notes": "See the Terms and Conditions OA articles are governed by the applicable Creative Commons License",
+      "urls": [
+        "https://onlinelibrary.wiley.com/terms-and-conditions",
+        "https://onlinelibrary.wiley.com/terms-and-conditions"
+      ]
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "R: a language and environment for statistical computing",
+      "authors": "R Development Core Team",
+      "urls": [
+        "http://www.R-project.org/.2011",
+        "http://www.R-project.org/.2011"
+      ]
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Spatial and temporal variability of necrophagous Diptera from urban to rural areas",
+      "authors": [
+        "C Hwang",
+        "B Turner"
+      ],
+      "journal": "Med Vet Entomol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "19",
+      "page_start": "379",
+      "page_end": "391"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Community composition of carrion-breeding blowflies (Diptera: Calliphoridae) along an urban gradient in South-eastern Australia",
+      "authors": [
+        "Crj Kavazos",
+        "J Wallman"
+      ],
+      "journal": "Landsc Urban Plan",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "106",
+      "page_start": "183",
+      "page_end": "190"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Dynamics of handling time and functional response by larvae of Chrysomya albiceps (Diptera, Calliphoridae) on different prey species",
+      "authors": [
+        "Ldb Faria",
+        "Wac Godoy",
+        "L Trinca"
+      ],
+      "journal": "J Appl Entomol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "128",
+      "page_start": "432",
+      "page_end": "436"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Foraging behaviour by an intraguild predator blowfly, Chrysomya albiceps (Diptera: Calliphoridae)",
+      "authors": [
+        "Ldb Faria",
+        "C Reigada",
+        "L Trinca",
+        "Wac Godoy"
+      ],
+      "journal": "J Ethol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "25",
+      "page_start": "287",
+      "page_end": "294"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "journal": "Zool",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "10",
+      "issue": "4",
+      "page_start": "665",
+      "page_end": "672"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Abundance and richness of calliphoridae (Diptera) of public health importance in the tingu a biological reserve",
+      "authors": [
+        "J Batista-Da-Silva",
+        "G Moya-Borja",
+        "Pinto De Mello",
+        "R Queiroz",
+        "M"
+      ],
+      "journal": "Nova Iguac ßu (RJ), Brazil. Entomotrophica",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "26",
+      "page_start": "137",
+      "page_end": "142"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Synanthropy of calliphoridae and sarcophagidae (Diptera) in the city of Campinas",
+      "authors": "A Linhares",
+      "journal": "Rev Bras Entomol",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "25",
+      "page_start": "189",
+      "page_end": "215"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Sinantropia de calliphoridae (Diptera) em Goiânia, Goi as",
+      "authors": "Jmm Ferreira",
+      "journal": "Rev Bras Biol",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "43",
+      "page_start": "199",
+      "page_end": "210"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Castell on EG. Calliphoridae (Diptera) em Manaus: I levantamento taxonômico e sazonalidade",
+      "authors": "N Paraluppi",
+      "journal": "Rev Bras Entomol",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "38",
+      "page_start": "661",
+      "page_end": "668"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Sinantropia de califor ıdeos (Insecta, Diptera) de Curitiba, Paran a, Brasil",
+      "authors": [
+        "Mjm Ferreira",
+        "I Barbola"
+      ],
+      "journal": "Rev Bras Biol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "58",
+      "page_start": "203",
+      "page_end": "209"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Abundância absoluta, relativa e sazonalidade de d ıpteros califor ıdeos (Diptera, Calliphoridae) na baixada rluminense",
+      "authors": [
+        "R Rodrigues-Guimarães",
+        "R Guimarães",
+        "H Barros",
+        "R Carvalho",
+        "Moya-Borja Ge"
+      ],
+      "publisher": "Rio de Janeiro",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "7",
+      "page_start": "50",
+      "page_end": "63",
+      "notes": "Additional information and reprint requests"
+    }
+  ]
+}

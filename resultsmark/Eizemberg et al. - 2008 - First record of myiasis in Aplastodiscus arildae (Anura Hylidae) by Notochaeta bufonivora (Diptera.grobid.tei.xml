@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">First record of myiasis in Aplastodiscus arildae (Anura: Hylidae) by Notochaeta bufonivora (Diptera: Sarcophagidae) in the Neotropical area</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2007-10-17">17 October 2007</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Roberto</forename><surname>Eizemberg</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Leandro</forename><forename type="middle">Talione</forename><surname>Sabagh</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Renata</forename><forename type="middle">Da Silva</forename><surname>Mello</surname></persName>
+						</author>
+						<title level="a" type="main">First record of myiasis in Aplastodiscus arildae (Anura: Hylidae) by Notochaeta bufonivora (Diptera: Sarcophagidae) in the Neotropical area</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Parasitology Research</title>
+						<title level="j" type="abbrev">Parasitol Res</title>
+						<idno type="ISSN">0932-0113</idno>
+						<idno type="eISSN">1432-1955</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">102</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="329" to="331"/>
+							<date type="published" when="2007-10-17">17 October 2007</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">CCC60A02E891986F8B7EE94AE49D7541</idno>
+					<idno type="DOI">10.1007/s00436-007-0767-5</idno>
+					<note type="submission">Received: 14 August 2007 / Accepted: 20 September 2007 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Myiasis in anurans is usually caused by diptera from the Calliphoridae, Sarcophagidae, Chloropidae, and Muscidae families. In this study, one case of cloacal myiasis and one of oral myiasis were registered in Aplastodiscus arildae, caused by Notochaeta bufonivora in Teresópolis, RJ, Brazil. With this report, a new host is listed for N. bufonivora, the first case of tree-frog myiasis caused by sarcophagid flies and the first occurrence of hylid myiasis in the Neotropical area.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ecological relationships between Diptera and anurans are well recorded in literature. Among the food resources used by anurans are Diptera adults and larvae <ref type="bibr" target="#b16">(Siqueira et al. 2006)</ref>.</p><p>The latter can prey on anuran egg clutches <ref type="bibr" target="#b14">(Menin and Giaretta 2003)</ref> and occasionally parasitize and cause myiasis in anurans <ref type="bibr" target="#b2">(Briggs 1975;</ref><ref type="bibr" target="#b1">Bolek and Janovy 2004)</ref>; the main causes are Calliphoridae, Sarcophagidae, Chloropidae, and Muscidae <ref type="bibr" target="#b10">(James and Maslin 1947;</ref><ref type="bibr" target="#b3">Crump and Pounds 1985)</ref>.</p><p>The present study registers two cases of parasitism in the hylid species, Aplastodiscus arildae by Notochaeta bufonivora. The two specimens of A. arildae were collected in January and February of 2007 in a residential area of the municipality of Teresópolis, RJ, Brazil, near the Serra dos Órgãos National Park. The climate at the park is tropical super humid, with a high rain concentration in the summer and dry weather in winter, presenting ombrophilous vegetation <ref type="bibr" target="#b9">(IBAMA 2007)</ref>.</p><p>The A. arildae specimens were found moribund in the forest and parasitized by third instar larvae of muscoid fly. The first hylid, with 28.6 mm in snout-vent length (SVL), was collected with nine larvae in the cloacal area (Fig. <ref type="figure" target="#fig_0">1a</ref>), and the other, with 27.2 mm in SVL, was found already dead with 17 larvae in the oral cavity (Fig. <ref type="figure" target="#fig_0">1b</ref>). The first hylid died 2 h after being collected, allocated in a container with humid earth where the fly emergence was awaited. The larvae were offered Lithobates catesbianus (Ranidae) meat but rejected it and pupated 48 h after being collected. There was no humidity or temperature control. The adults emerged after 10 days and were identified as N. bufonivora (Fig. <ref type="figure" target="#fig_0">1c</ref> and <ref type="figure">d</ref>). The second tree frog was deposited at the National Museum, RJ collection under number MNRJ-48629.</p><p>Most Diptera species present diurnal activity <ref type="bibr" target="#b4">(Dasgupta 1962)</ref>, the opposite of what is encountered in A. arildae, an arboreal hylid with nocturnal activity that vocalizes in leaves, bushes, or epiphytic bromeliads over 2 m high <ref type="bibr" target="#b8">(Heyer et al. 1990</ref>; personal observation), who presents reduced activity during the day <ref type="bibr" target="#b18">(Zina and Haddad 2006)</ref>. Such hylids are distributed at Serra do Mar and Serra da Mantiqueira, Southeastern Brazil, in altitudes ranging from 600 to 1,000 m <ref type="bibr" target="#b6">(Frost 2007</ref>).</p><p>Among Sarcophagidae, the genera Sarcophaga, Sarcodexia, and Notochaeta are known in literature for causing myiasis in amphibians <ref type="bibr" target="#b17">(Souza et al. 1989;</ref><ref type="bibr" target="#b7">Hagman et al. 2005)</ref>. N. bufonivora was first registered as a parasite for Chaunus granulosus (Bufonidae; Lopes and Vogelsang 1953) and later, was recorded infecting Proceratophrys sp. (Cycloramphidae; Lopes 1981), Atelopus varius (Bufonidae; <ref type="bibr" target="#b3">Crump and Pounds 1985)</ref>, Eleutherodactylus sp. <ref type="bibr" target="#b5">(Dodge 1968)</ref>, and Brachycephalus ephippium (Schwartz and Sebben 1992), both Brachycephalidae. <ref type="bibr" target="#b17">Souza et al. (1989)</ref> also observed a species of Notochaeta causing oral myiasis in Lithobates catesbeianus raised in captivity.</p><p>Little is known about the biology of N. bufonivora, only that it is an obligatory parasite and possesses a variety of anuran species as hosts <ref type="bibr" target="#b3">(Crump and Pounds 1985)</ref>, although, until now, there were no records of this species as a hylid parasite. The only records of hylid myiasis, until now, referred to two calliphorid species, Lucilia illustris in Hyla versicolor raised in captivity <ref type="bibr" target="#b0">(Anderson and Bennett 1963)</ref>, and Lucilia bufonivora in H. arborea <ref type="bibr" target="#b11">(Koskela et al. 1974)</ref>, whose amphibian species are from the Neoarctic and Palearctic areas, respectively <ref type="bibr" target="#b6">(Frost 2007)</ref>. Thus, this is the record of a new host for N. bufonivora, the first case of tree-frog parasitism caused by sarcophagid flies, as well as the first hylid myiasis occurrence in the Neotropical area. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Cloacal area (a) and oral cavity (b) of Aplastodiscus arildae (Hylidae) with lesion caused by Notochaeta bufonivora (Sarcophagidae; c, d)</figDesc><graphic coords="2,178.58,53.86,366.65,275.47" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>ParasitolRes (2008)  102:329-331 DOI 10.1007/s00436-007-0767-5 Financial support was from CNPq and CAPES. R. Eizemberg Laboratório de Bioquímica de Insetos, IBqM, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, RJ, Brazil e-mail: insecta_tv@yahoo.com.br L. T. Sabagh Laboratório de Biosistemática de Anfíbios, Dept. Zool., Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Rio de Janeiro, RJ, Brazil e-mail: leandro_sabagh@yahoo.com.br R. d. S. Mello Laboratório de Biologia e Controle de Insetos Vetores, Instituto Oswaldo Cruz/FIOCRUZ, Rio de Janeiro, RJ, Brazil R. d. S. Mello (*) Departamento de Biologia, Laboratório Eco-Epidemiologia de Doenca de Chagas, sala A11, IOC/FIOCRUZ, CEP 21040-900 Av. Brasil 4365, Manguinhos, Rio de Janeiro, RJ, Brazil e-mail: mellorebio@yahoo.com.br</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgment The authors would like to thank <rs type="institution">CAPES</rs> and <rs type="institution">CNPq</rs> for the financial support and <rs type="person">Dr. Cátia Antunes de Mello Patiu</rs> (<rs type="affiliation">MN-UFRJ</rs>) for the confirmation and identification of the flesh fly.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Ophtalmic myiasis in amphibians in Algonquin Park</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Can J Zool</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1169" to="1170" />
+			<date type="published" when="1963">1963</date>
+			<pubPlace>Ontario, Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Observations on myiasis by the calliphorids, Bufolucilia silvarum and Bufolucilia elongata, in Wood Frogs, Rana sylvatica, From Southeastern Wisconsin</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bolek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Janovy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1169" to="1171" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">A case of Bufolucilia elongate Shannon 1924 (Diptera: Calliphoridae) Myiasis in the American Toad, Bufo americanus Holbrook 1836</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Briggs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">412</biblScope>
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Lethal parasitism of an Aposematic anuran (Atelopus varius) by Notochaeta bufonivora (Diptera: Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Crump</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Pounds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="588" to="591" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">On the myiasis of the Indian toad Bufo melanostictus</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dasgupta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="63" to="66" />
+			<date type="published" when="1962">1962</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">The Sarcophagidae of Barro Colorado Island, Panama (Diptera)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Dodge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Entomol Soc Am</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="421" to="450" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Frost</surname></persName>
+		</author>
+		<ptr target="http://www.research.amnh.org/herpetology/amphibia/index.php" />
+		<imprint>
+			<date type="published" when="2007-06-05">2007. June 5, 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Flesh fly myiasis (Diptera, Sarcophagidae) in Peruvian poison frogs genus Epipedobates (Anura, Dendrobatidae)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hagman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Schulte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Phyllomedusa</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="69" to="73" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Frogs of Boracéia</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">R</forename><surname>Heyer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Rand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cag</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">L</forename><surname>Peixoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Nelson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Zool</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="231" to="410" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ibama</surname></persName>
+		</author>
+		<ptr target="http://www.ibama.gov.br/parnaso/" />
+		<imprint>
+			<date type="published" when="2007-11-07">2007. November 7, 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Notes on myiasis of the toad, Bufo boreas (Baird and Girard)</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Maslin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Wash Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="366" to="368" />
+			<date type="published" when="1947">1947</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Lucilia bufonivora Moniez (Dip., Calliphoridae), a lethal parasite in Rana temporaria L. (Anura)</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Koskela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Itämies</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Pasanen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Zool Fennici</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="105" to="106" />
+			<date type="published" when="1974">1974</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Notes on American Sarcophagidae (Diptera)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="149" to="152" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Notochaeta bufonivora n. sp., parasita de Bufo granulosus Spix em Venezuela (Diptera Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">G</forename><surname>Vogelsang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">An Acad Bras Cienc</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="139" to="143" />
+			<date type="published" when="1953">1953</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Predation on foam nests of leptodactyline frogs (Anura: Leptodactylidae) by larvae of Beckeriella niger (Diptera: Ephydridae)</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Menin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Giaretta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Zool</title>
+		<imprint>
+			<biblScope unit="volume">261</biblScope>
+			<biblScope unit="page" from="239" to="243" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Predação de Brachycephalus ephippium (Amphibia, Anura, Brachycephalidae) por larvas de Notochaeta bufonivora (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sebben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the XII Congreso Latino-Americano de Zoologia e XIX Congresso Brasileiro de Zoologia</title>
+		<meeting>the XII Congreso Latino-Americano de Zoologia e XIX Congresso Brasileiro de Zoologia<address><addrLine>Belém</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="page">119</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Feeding ecology of Thoropa miliaris (Anura, Cycloramphidae) in four areas of Atlantic rain forest, Southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Siqueira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Van Sluys</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Ariani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cfd</forename><surname>Rocha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Herpetol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="520" to="525" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Cases of buccal myiasis in the bullfrog (Rana catesbeiana Shaw, 1802), with larvae of Notochaeta sp. Aldrich, 1916 (Diptera: Sarcophagidae</title>
+		<author>
+			<persName><forename type="first">Fls</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cwo</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hipolito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Baldassi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Martins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Inst Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="517" to="518" />
+			<date type="published" when="1989">1989</date>
+			<pubPlace>São Paulo, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ecology and reproductive biology of two species of Aplastodiscus (Anura: Hylidae) in the Atlantic forest, Brazil</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cfb</forename><surname>Haddad</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Nat Hist</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1831" to="1840" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

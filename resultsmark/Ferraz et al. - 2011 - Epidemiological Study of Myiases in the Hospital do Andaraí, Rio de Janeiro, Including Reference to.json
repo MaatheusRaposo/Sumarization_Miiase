@@ -1,0 +1,1149 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Epidemiological Study of Myiases in the Hospital do andaraí, Rio de Janeiro, Including Reference to an Exotic Etiological Agent",
+    "authors": [
+      "Acp Ferraz",
+      "Vrg De Almeida",
+      "D De Jesus",
+      "G Rotatori",
+      "R Nunes",
+      "B Proença",
+      "V Aguiar- Coelho",
+      "Adriana Ferraz"
+    ],
+    "hash": "C6883C98E49706880E27B7D4181663B1",
+    "publisher": "",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Myiases are infestations with dipteran larvae in both necrosed and living tissues, the food source of these insects. These illnesses occur in warm humid climates, and are most frequent in developing countries. We assessed the epidemiological aspects and the influence of climate on the occurrence of myiases and the bioagents in patients admitted to the federal Hospital do Andaraí in Rio de Janeiro from February 2007 to 2008. The influence of abiotic factors (temperature, humidity, and rainfall) on the incidence of myiases was investigated by using the Pearson's correlation test. Of the 40 patients studied, the prevalence of myiases was higher in adults, particularly in the 40 to 65 year-old (37.5%) African descent males (57.5%). Most of the injuries were caused by trauma (62.5%). Some patients made use of licit (50%) and illicit drugs (17.2%). The occurrence of myiases was not affected by the abiotic factors investigated. The cases reported here were treated in only one hospital, indicating that the disease is relatively common. The most frequent bioagent was Cochliomyia hominivorax (Coquerel), but Cochliomyia macellaria (Fabricius), Chrysomya albiceps (Wiedemann) and Dermatobia hominis (Wiedemann) (Diptera: Calliphoridae) were also detected causing myiases. Chrysomya albiceps is an exotic etiologic agent of myiases.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_1ce2eb34",
+      "text": "Although myiases are more common in developing countries in Latin America, Africa, the Middle East, and Asia, they may also occur in the developed world or infest first-world tourists when they travel to tropical countries (Desruelles et al 1999). In Brazil, the myiases occur mainly in hot and humid regions (Neves 2005). Clinical manifestations of myiases depend on the dipteran species acting as the etiological agent and the organ or tissue infested (Pierce 1981). The prognosis is directly related to the duration and location of the injury and the health status of the patient (Nascimento et al 2005).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(Desruelles et al 1999)",
+          "offset_start": 223,
+          "offset_end": 246
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "(Neves 2005)",
+          "offset_start": 309,
+          "offset_end": 321
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Pierce 1981",
+          "offset_start": 454,
+          "offset_end": 466
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "(Nascimento et al 2005)",
+          "offset_start": 583,
+          "offset_end": 606
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_7412e434",
+      "text": "The blowfly Cochliomyia hominivorax (Coquerel) is an autochthonous Neotropical dipteran that is commonly found in Brazil. It is one of the most important of the nearly thousand of species of Calliphoridae, as larvae of C. hominivorax are obligate parasites of domestic and wild mammals, including humans (Guimarães & Papavero 1999). Zoonotic infestations by larvae of C. hominivorax are of great public-health importance, and people inadequate hygienic habits are the most likely to have cutaneous lesions and/or systemic diseases, and are, consequently, highly susceptible to the infestation by this type of parasite (Martinez et al 2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Guimarães & Papavero 1999)",
+          "offset_start": 304,
+          "offset_end": 331
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Martinez et al 2003)",
+          "offset_start": 618,
+          "offset_end": 639
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_deb1adba",
+      "text": "For more than a century, C. hominivorax control has been used to minimize damage caused by myiases, mainly in cattle breeding (Moya-Borja et al 2003). The promising results of these control efforts derive from the technical application of the current knowledge on the host-parasite interaction and on the biology of the parasite during the life stage that is not associated with the host. However, there is little information on the prevalence of larvae of this blowfly in hosts as humans.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "(Moya-Borja et al 2003)",
+          "offset_start": 126,
+          "offset_end": 149
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_49a68326",
+      "text": "Other dipteran species, such as Dermatobia hominis (Wiedemann) and Cochliomyia macellaria (Fabricius), can also cause myiases. The former species causes a characteristic type of obligatory infestation known as furuncular myiases, and the latter causes secondary or facultative myiases, when the larvae feed on necrosed tissues (Guimarães & Papavero 1999).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Guimarães & Papavero 1999)",
+          "offset_start": 327,
+          "offset_end": 354
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_28b11988",
+      "text": "Physiological, biochemical and immunological studies of arthropods of medical and veterinary importance, especially flies that cause myiases, have been carried out in the last decade (Otranto 2001). However, epidemiological approaches that contribute to the proposal of primary preventive measures are crucial in tropical areas. In this article we present an epidemiological study based on cases of myiases treated in a public hospital in Rio de Janeiro. We aimed to: 1) describe the profile of these patients in relation to their age, sex, place of residence, socio-economic conditions and predisposing factors, 2) identify the etiological agents and other relevant abiotic factors, and 3) investigate the possible effects of abiotic factors on the incidence of the disease.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Otranto 2001)",
+          "offset_start": 183,
+          "offset_end": 197
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b846c73f",
+      "text": "The study was carried out in the Hospital do Andaraí (HA), located in the Andaraí neighborhood of the city of Rio de Janeiro, state of Rio de Janeiro. The study was approved by the Ethics Committee of the Universidade Federal do Estado do Rio de Janeiro (UNIRIO) and the Centro de Estudos of the HA. After the diagnosis of myiasis was confirmed, patients were taken to the minor procedure room, where the Free and Informed Consent Agreement was explained to them and signed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_dd2b26af",
+      "text": "All patients were clinically examined and evaluated by means of an epidemiological survey. Information gathered included their age, sex, race, socioeconomic condition, drug use (alcohol, tobacco, and licit or illicit drugs), and level of education. The analysis of the socioeconomic condition took into account whether the patient owned or rented a house or was homeless, his/her monthly income, the number of residents, and the presence of pets.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_8c899914",
+      "text": "After the clinical evaluation was completed and a photographic record was made of the lesion, the larvae were removed using tweezers and petroleum gel. They were placed in sterile sawdust or 70% ethanol for further identification following Guimarães & Papavero (1999).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Guimarães & Papavero (1999)",
+          "offset_start": 240,
+          "offset_end": 267
+        }
+      ],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_05d7ec06",
+      "text": "Larvae collected in sawdust were kept under controlled conditions (28ºC during the day and 26ºC at night; 60 ± 10% RH; 14h photophase) until adult emergence. Adults were identified following Mello (2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "Mello (2003)",
+          "offset_start": 191,
+          "offset_end": 203
+        }
+      ],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_099eb7ed",
+      "text": "Data on temperature, humidity and rainfall were supplied by the Sociedade de Meteorologia do Estado do Rio de Janeiro, whose meteorological station is located in the Tijuca neighborhood, near the HA. The number of patients admitted to the hospital and the abiotic factors recorded each month were analyzed by the Pearson's correlation coefficient, using the software Statistica, 1999 edition.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material and Methods"
+    },
+    {
+      "id": "p_2217027b",
+      "text": "Forty patients diagnosed with myiases were admitted to the Emergency sector of HA from February 2007 to February 2008 (Fig 1). With respect to age, 15 (37.5%) of them were between 40 and 65 years of age. The secondlargest group was represented by 11 (27.5%) children between 0 and 12 years of age, obliging the authors to notify the Tutelary Council, and the third most frequently affected age group was comprised by elderlies (more than 65 years old), with 7 cases out of the 40 detected (17.5%). The remaining age groups had minor percentages, as follows: 12 to 20 y-old -7.5% (3) and 20 to 40 y-old -10.0% (4). Of the 40 cases studied, 17 (42.5%) were females and 23 (57.5%) males. Of the 11 patients in the 0 to 12-year old age group, 8 (72.7%) were girls and 3 (27.3%) boys.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Fig 1)",
+          "offset_start": 118,
+          "offset_end": 125
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_fa5c2140",
+      "text": "A total of 23 (57.5%) patients were African descendent, 10 (25%) were Caucasian, and 7 (17.5%) were of mixed African and Caucasian descendancy. Most of the infected patients (16/40, 40%) were residents from the Tijuca 0 25 50 75 100 125 150 175 200 225 0 1 2 3 4 5 6 7 8 9 Feb/07 Mar/07 Apr/07 May/07 Jun/07 Jul/07 Aug/07 Sep/07 Oct/07 Nov/07 Dec/07 Jan/08 Feb/08 ºC / % / mm Number of patients Relative humidity (%) Preciptation (mm) Number of patients Temperature (ºC) area, and were followed by residents from Grande Méier (12/40, 30%), downtown Rio (4/40, 10%), Baixada Fluminense (3/40, 7.5%), Jacarepaguá (2/40, 5%), and Campo Grande (2/40, 5%). One patient (2.5%) did not report the area of residence.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_05b38376",
+      "text": "Twenty-two patients (55%) were home owners, 10 (25%) were living in a rented property, and 8 (20%) were homeless. For the 32 patients living in fixed addresses, 10 (31.25%) lived in a house with one other people, 10 (31.25%) with two or three people, and 12 (37.5%) with more than four. Sixteen out of the 32 patients had pets.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_15b34d7d",
+      "text": "In terms of monthly income, most of the patients (47.5%) had no income, 37.5% earned up to two minimum wages (US$ 7,217 per year), 10% from two to eight minimum wages (US$ 28,870 per year), and 5% from eight to 16 minimum wages (US$ 57,739 per year). In relation to schooling, 32.5% were illiterate, 60% had not finished primary school, 5% had finished their primary education, and 2.5% had completed secondary school.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_e4da15c4",
+      "text": "When the individuals over 12 years of age (29 patients) were asked about the use of licit and illicit drugs, 15 (51.7%) admitted smoking, 16 (55.2%) reported use of alcohol, and 5 (17.25%) were users of illicit drugs.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_e6ff60fc",
+      "text": "The monthly frequency of patients infected with myiases did not correlate with any of the abiotic factors evaluated: temperature (P = 0.664), humidity (P = 0.969) and rainfall (P = 0.342).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_38fb5ce3",
+      "text": "The presence of traumatic lesions was the most important predisposing factor (62.5%) for myiases, but the occurrence of ectoparasitoses, such as scabies and pediculosis (17.5%), or conditions such as bacterial infection of the skin (15%), allergies (2.5%), and skin tumors (2.5%), were also important factors permitting the installation of the disease.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_78b19e17",
+      "text": "Nineteen patients were only affected by C. hominivorax, one by C. macellaria, and another one by C. macellaria, Chrysomya albiceps (Wiedemann), and C. hominivorax. Two patients had larvae of D. hominis, and in another case, this species was associated with C. hominivorax. The identification of larvae or adult forms was not possible in 17 cases for various reasons such as no adult emergence from pupae stored in sawdust or damaged larvae at the time of withdrawal.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_ecc5cbdf",
+      "text": "This study recorded a total of 40 patients in 12 months and this number is considered high when compared to other studies in Brazil, such as Marquez et al (2007), that found 70 myiases cases in 48 months in four cities of the state of Rio de Janeiro, and Nascimento et al (2005), who found 24 cases in 35 months in three public hospitals in Recife, state of Pernambuco. These last two authors did not describe the months or seasons in which these cases occurred.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "Marquez et al (2007)",
+          "offset_start": 141,
+          "offset_end": 161
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Nascimento et al (2005)",
+          "offset_start": 255,
+          "offset_end": 278
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_50f7380e",
+      "text": "Studies in other countries also found a lower number of cases than the present authors did. Sherman (2000) reported 42 cases in 36 months in American hospitals and, unlike most authors, described the time of the occurrence of these infestations, most of them occurring between late spring and early autumn, with October being the month of highest frequency, which differs from our data for this month by only one case. The author did not collect in the months of February, March and April, when we had six, four and four cases respectively, high values compared to our other months. A better analysis could be achieved by taking the climatic conditions into account. Kumarasinghe et al (2000) found 16 cases in 18 months in Sri Lankan hospitals and Lukin (1989) recorded 14 cases in 36 months in hospitals in Brisbane, Australia. Larvae of the species Phaenicia cuprina (Wiedemann) were found in 12 of these latter cases, but this species was not found in the present study.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "Sherman (2000)",
+          "offset_start": 92,
+          "offset_end": 106
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Kumarasinghe et al (2000)",
+          "offset_start": 667,
+          "offset_end": 692
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Lukin (1989)",
+          "offset_start": 749,
+          "offset_end": 761
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a28cf67c",
+      "text": "However, the rate found here was lower than that reported by Oliveira et al (2004) in a study in six cities in the state of Rio de Janeiro: Nova Iguaçu, São João de Meriti, Queimados, Belford Roxo, Duque de Caxias, and Nilópolis, in which 68 cases were recorded in 12 months. Considering that the present study only involved one hospital, differently from the above-mentioned reports, the prevalence of myiases cases can be considered high.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Oliveira et al (2004)",
+          "offset_start": 61,
+          "offset_end": 82
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_920e9b80",
+      "text": "Although the ages of the patients ranged from 0 to 80 years old, it is noteworthy that approximately one-third of them were children. The high proportion of children may be linked to abuse (Fares et al 2005), the lack of basic health care by their guardians, which may allow infestations such as scabies and pediculosis, and minor injuries. Because of this, the Tutelary Council was notified. More girls than boys were affected, suggesting that pediculosis, more frequent in this age range and sex, may be an important predisposing factor for the prevalence of myiases in girls. These results are consistent with the findings of Catalá et al (2004). The elderly may, depending on the level of cognitive impairment, be similarly dependent. Myiases are more commonly reported in elderly, debilitated, ill, and mentally impaired persons, because it is easy for the flies to lay their eggs on individuals with such conditions (Desruelles et al 1999, Sherman 2000). This circumstance may explain the greater prevalence found among patients older than 65 y.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Fares et al 2005)",
+          "offset_start": 189,
+          "offset_end": 207
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "Catalá et al (2004)",
+          "offset_start": 629,
+          "offset_end": 648
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(Desruelles et al 1999",
+          "offset_start": 922,
+          "offset_end": 944
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": ", Sherman 2000)",
+          "offset_start": 944,
+          "offset_end": 959
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_5b4f4c22",
+      "text": "Dipterans have no preference for any particular ethnic group (Durighetto et al 1995), being primarily attracted by odor (Guimarães & Papavero 1999, Ferraz & Aguiar-Coelho 2008). The high proportion of patients with myiases that are African descents could be related to the supposed unfavorable socioeconomic conditions of many members of this ethnic group (Violante 1990). Therefore, the large number of African Americans in the population of Rio de Janeiro should also be considered.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Durighetto et al 1995)",
+          "offset_start": 61,
+          "offset_end": 84
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Guimarães & Papavero 1999",
+          "offset_start": 120,
+          "offset_end": 146
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Ferraz & Aguiar-Coelho 2008)",
+          "offset_start": 146,
+          "offset_end": 176
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Violante 1990)",
+          "offset_start": 356,
+          "offset_end": 371
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0969d95f",
+      "text": "The city of Rio de Janeiro is located in a predominantly hot and humid region, favoring the occurrence and development of myiases because these are the conditions preferred by Calliphoridae (Ribeiro et al 1993). Furthermore, in this city, many people live in generally unfavorable conditions which facilitate contact with dipterans (Passos et al 1997).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Ribeiro et al 1993)",
+          "offset_start": 190,
+          "offset_end": 210
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Passos et al 1997)",
+          "offset_start": 332,
+          "offset_end": 351
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a638d009",
+      "text": "According to Neves (2005), myiases are more prevalent in hot and humid months, but this did not happen in this study because the month in which the largest number of cases occurred (July 2007: seven cases) was that with the lowest temperature recorded during the study period. The second month in number of cases was February 2007 (six cases), but this was the third warmest month in the period.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "Neves (2005)",
+          "offset_start": 13,
+          "offset_end": 25
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2fff1e29",
+      "text": "Studies in Brazil and Central America using windoriented fly traps or sentinel animals with induced wounds suggested that the species C. hominivorax is more abundant during summer months, which normally coincide with more frequent rainfall (Oliveira et al 1982). However, we found no correlation between the number of myiases patients and climatic factors (temperature, humidity and precipitation). We must bear in mind that the month in which myiases appeared is not always the same as that in which the patients sought for medical care and thus we cannot determine with certainty the monthly activity of the flies causing myiases.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "(Oliveira et al 1982)",
+          "offset_start": 240,
+          "offset_end": 261
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_379d3ad5",
+      "text": "The socioeconomic analysis revealed that many of the patients were homeless. Even those who have a place of residence may still live in communities where housing conditions are inadequate. Some individuals had no income or only received up to two minimum wages (US$ 7,217 per year). Among those with fixed residences, the number of people in the household was another determining factor; most of the patients lived with three or more other people. The houses densely occupied or in poor conditions are extremely common in low-income families and lead to an increase in the incidence of diseases. The housing issue is closely linked to health problems, so interventions in the environments domiciliary area became an important means to combat diseases (Victora et al 1988, Esrey et al 1991). In the case of myiases, the removal of garbage, the installation of sewage systems and the care of stray dogs can reduce the risk of acquiring the disease (Lopes 2000, Nascimento et al 2005).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Victora et al 1988",
+          "offset_start": 751,
+          "offset_end": 770
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": ", Esrey et al 1991)",
+          "offset_start": 770,
+          "offset_end": 789
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Lopes 2000",
+          "offset_start": 946,
+          "offset_end": 957
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": ", Nascimento et al 2005)",
+          "offset_start": 957,
+          "offset_end": 981
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b9e99912",
+      "text": "The analysis of education level showed that most patients had only attended elementary school, and some of them were illiterate. Cultural factors often determine the occurrence of a disease (Martinez et al 2003) because they affect personal health care.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Martinez et al 2003)",
+          "offset_start": 190,
+          "offset_end": 211
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_914ede90",
+      "text": "Alcohol consumption is considered to be a predisposing factor for the occurrence of myiases (Gomez et al 2003). In this study, alcohol consumption was reported by approximately half of the patients. Some of the adult patients also acknowledged using illicit drugs. Smoking was also prevalent among the patients. These factors are considered to determine the occurrence of the disease, seeing that patients under the influence of these drugs do not adequately care for their own or for their families' physical and mental health (Schurckit 1991, OMS 2002, Carvalho 2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Gomez et al 2003)",
+          "offset_start": 92,
+          "offset_end": 110
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Schurckit 1991",
+          "offset_start": 528,
+          "offset_end": 543
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": ", OMS 2002",
+          "offset_start": 543,
+          "offset_end": 553
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": ", Carvalho 2003)",
+          "offset_start": 553,
+          "offset_end": 569
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_5f8e9e4f",
+      "text": "Trauma had an important role among the etiological factors. Because of the low socioeconomic and cultural level of the patients, they may not seek medical attention for wounds, and dipteran infestation may be facilitated. As previously observed by Martinez et al (2003), the hygienic and sanitary conditions of the patients were also determining factors for the occurrence of myiases.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "Martinez et al (2003)",
+          "offset_start": 248,
+          "offset_end": 269
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b5675697",
+      "text": "Cochliomyia hominivorax, the main etiological agent of human cavity and cutaneous myiases in tropical regions (Neira et al 2002, Shinohara et al 2004), was the most frequent and abundant of the etiological agents identified. Notably, C. albiceps was identified as a causative agent of myiases in one of the cases. This species has been reported as a secondary etiological agent in animal myiases in Hawaii, Africa, Central America, Argentina and Australia (Busetti 2004). However, in Rio de Janeiro, only one group of investigators has reported it as an etiological agent of human myiases (Oliveira et al 2004). The few other reports have described an association between C. hominivorax and D. hominis (Ferraz et al 2008) and a screwworm infestation in the gluteus region, an unusual location (Nunes et al 2009). The occurrence of C. albiceps associated with human myiasis is an important finding, because of the low number of occurrences, and because it is an exotic etiological agent of myiases in Brazil.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "(Neira et al 2002",
+          "offset_start": 110,
+          "offset_end": 127
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": ", Shinohara et al 2004)",
+          "offset_start": 127,
+          "offset_end": 150
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Busetti 2004)",
+          "offset_start": 456,
+          "offset_end": 470
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "(Oliveira et al 2004)",
+          "offset_start": 589,
+          "offset_end": 610
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Ferraz et al 2008)",
+          "offset_start": 702,
+          "offset_end": 721
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "(Nunes et al 2009)",
+          "offset_start": 793,
+          "offset_end": 811
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_ee5b4763",
+      "text": "We thank the Hospital do Andaraí for allowing this study to be carried out and for the generous assistance provided during the survey. We also thank UNIRIO and CNPq/PIBIC for grants to the students, and FINEP for financial support.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgments"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig 1",
+      "type": "figure",
+      "desc": "Fig 1 Number of cases of myiases in the Hospital de Andaraí (Rio de Janeiro, Brazil) in each month and meteorological conditions from February 2007 to February 2008.",
+      "note": "",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Myiasis cutánea producida por Chrysomya albiceps (Wiedemann, 1819) en lanares de la Pampa. Investigación en producción animal 2002-2003. Región subhúmeda y semiárida pampeana",
+      "authors": [
+        "M Busetti",
+        "V Suarez",
+        "O Anziani",
+        "D Bedotti",
+        "Ves Losada",
+        "J"
+      ],
+      "journal": "Bol Divulg Técn",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "79",
+      "page_start": "149",
+      "page_end": "151"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Sociedade Entomológica do Brasil Epidemiological Study of Myiases in the Hospital do andaraí infestação por Pediculus humanus capitis em escolares de seis a onze anos",
+      "authors": [
+        "S Catalá",
+        "L Carrizo",
+        "M Córdoba",
+        "R Khairallah",
+        "F Moschella",
+        "J Bocca",
+        "A Calvo",
+        "J Torres",
+        "R Tutino"
+      ],
+      "journal": "Prevalência e intensidade da Neotrop Entomol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "40",
+      "issue": "3",
+      "page_start": "499",
+      "page_end": "501",
+      "notes": "Rev Soc Bras Med Trop"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Bebidas alcoólicas -problema de saúde pública",
+      "authors": "A Carvalho",
+      "editors": [
+        "M Clímaco",
+        "L Ramos"
+      ],
+      "publication_date": "2003",
+      "year": 2003,
+      "pages": "260"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Myasis caused by Dermatobia hominis after an organized tour in Amazonia",
+      "authors": [
+        "F Desruelles",
+        "P Delaunay",
+        "Del Giudice",
+        "P Mantoux",
+        "F",
+        "Le Fichoux",
+        "Y Ortonne",
+        "J"
+      ],
+      "journal": "Press Med",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "28",
+      "page_start": "2223",
+      "page_end": "2225"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Miíases orais: aspectos clínico-laboratoriais de um caso humano",
+      "authors": [
+        "A Durighetto",
+        "M Machado",
+        "Favoretto Jr",
+        "S Magalhães",
+        "O"
+      ],
+      "journal": "ROBRAC",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "14",
+      "page_start": "19",
+      "page_end": "21"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Effects of improved water supply and sanitation on ascariasis, diarrhea, dracunculiasis, hookworm infection, schistosomiasis and trachoma",
+      "authors": [
+        "A Esrey",
+        "J Potash",
+        "L Roberts",
+        "C Shiff"
+      ],
+      "journal": "Bull World Health Organ",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "69",
+      "page_start": "609",
+      "page_end": "621"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Miíase em paciente com 10 anos de idade: relato de caso clínico e revisão de literatura",
+      "authors": [
+        "N Fares",
+        "D Melo",
+        "N Stucchi",
+        "A Carvalhosa",
+        "Phs Castro",
+        "Cbr Siqueira"
+      ],
+      "journal": "Rev de Clin Pesq Odontol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "1",
+      "page_start": "49",
+      "page_end": "54"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Desenvolvimento e avaliação de novas metodologias para testar a atratividade de Chrysomya megacephala (Fabricius) (Diptera: Calliphoridae) a estímulo visual por cores em condições laboratoriais",
+      "authors": [
+        "Acp Ferraz",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Neotrop Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "37",
+      "page_start": "334",
+      "page_end": "337"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Raro caso de miíases por Cochliomyia hominivorax (Diptera: Calliphoridae) e Dermatobia hominis (Diptera: Oestridae) em paciente humano",
+      "authors": [
+        "Acp Ferraz",
+        "R Nunes",
+        "B Gadelha",
+        "B Proença",
+        "V Aguiar-Coelho",
+        "Css Lessa"
+      ],
+      "journal": "Arq Ciênc Saúde",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "15",
+      "page_start": "142",
+      "page_end": "144"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Myiasis in man and animals in the Neotropical Region: bibliographic database",
+      "authors": [
+        "J Guimarães",
+        "N Papavero"
+      ],
+      "publication_date": "1999",
+      "year": 1999,
+      "pages": "308"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Oral myiasis by screwworm Cochliomyia hominivorax",
+      "authors": [
+        "R Gomez",
+        "P Perdigão",
+        "Fjgs Pimenta",
+        "Rios Leite",
+        "A",
+        "Tanos De Lacerda",
+        "J",
+        "Custodio Neto",
+        "A"
+      ],
+      "journal": "Br J Oral Maxillofac Surg",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "41",
+      "page_start": "115",
+      "page_end": "116"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "A study of cutaneous myiasis in Sri Lanka",
+      "authors": [
+        "Spw Kumarasinghe",
+        "N Karunaweera",
+        "R Ihalamulla"
+      ],
+      "journal": "Int J Dermatol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "39",
+      "page_start": "689",
+      "page_end": "694"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "A influência de vários fatores abióticos na atratividade de dípteros muscóides em lixo urbano exposto",
+      "authors": "S Lopes",
+      "journal": "Entomol Vect",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "7",
+      "page_start": "163",
+      "page_end": "189"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Human cutaneous myiasis in Brisbane: a prospective study",
+      "authors": "L Lukin",
+      "journal": "Med J Aust",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "150",
+      "page_start": "237",
+      "page_end": "240"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Myiasis associated with some socioeconomic factors in five urban areas of the State of Rio de Janeiro",
+      "authors": [
+        "A Marquez",
+        "Mdas Mattos",
+        "S Nascimento"
+      ],
+      "journal": "Rev Soc Bras Med Trop",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "40",
+      "page_start": "175",
+      "page_end": "180"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Miíase vulvar: relato de caso",
+      "authors": [
+        "Car Martinez",
+        "Dgp Romanini",
+        "A Campos",
+        "Vpp Carneiro",
+        "Cag Dalbem"
+      ],
+      "journal": "Rev Bras Ginecol Obstet",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "25",
+      "page_start": "291",
+      "page_end": "295"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Identification key of the adults of Calliphoridae (Diptera, Brachycera, Cyclorrhapha) in Brazil",
+      "authors": "R Mello",
+      "journal": "Entomol Vect",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Erradicação ou manejo integrado das miíases neotropicais das Américas? Pesq Vet Bras",
+      "authors": "Moya-Borja Ge",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "23",
+      "page_start": "131",
+      "page_end": "138"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Miíases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera, Calliphoridae) em hospitais públicos na cidade do Recife",
+      "authors": [
+        "Emf Nascimento",
+        "J Oliveira",
+        "M Paes",
+        "A Lobo",
+        "Ala Silva",
+        "Santos Jr",
+        "E Dos",
+        "Jlf Leal",
+        "Moya-Borja Ge"
+      ],
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "12",
+      "page_start": "37",
+      "page_end": "51"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Miasis auricular por Cochliomyia hominivorax (Diptera: Calliphoridae) (Coquerel, 1858)",
+      "authors": [
+        "P Neira",
+        "N Muñoz",
+        "D Cantero"
+      ],
+      "journal": "Rev Méd Chile",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "130",
+      "page_start": "907",
+      "page_end": "909"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Parasitologia Humana",
+      "authors": "D Neves",
+      "editors": [
+        "Ed São Paulo",
+        "Atheneu"
+      ],
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "11",
+      "pages": "494"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Miíase furuncular de localização atípica",
+      "authors": [
+        "R Nunes",
+        "Acp Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho",
+        "Css Lessa"
+      ],
+      "journal": "Medicina",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "42",
+      "page_start": "148",
+      "page_end": "150"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Flutuação populacional de Cochliomyia hominivorax no município de Itaguaí, Rio de Janeiro",
+      "authors": [
+        "Cmb Oliveira",
+        "Moya Borja",
+        "G Mello",
+        "R"
+      ],
+      "journal": "Pesq Vet Bras",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "2",
+      "page_start": "139",
+      "page_end": "142"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Ocorrência de miíases humanas na região da Baixada Fluminense, estado do Rio de Janeiro",
+      "authors": [
+        "J Oliveira",
+        "B Oliveira",
+        "A Gonçalves",
+        "N Serra-Freire"
+      ],
+      "journal": "Brasil. Entomol Vect",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "11",
+      "page_start": "85",
+      "page_end": "102"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Relatório Mundial da Saúde. Saúde mental: nova concepção, nova esperança. 1ª edição",
+      "authors": "Oms",
+      "publication_date": "2002",
+      "year": 2002,
+      "pages": "206"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "The immunology of myiases: parasite survival and host defense strategies",
+      "authors": "D Otranto",
+      "journal": "Trends Parasitol",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "17",
+      "page_start": "176",
+      "page_end": "182"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Miíase vulvar",
+      "authors": [
+        "Mrl Passos",
+        "Avv Carvalho",
+        "Arl Silva",
+        "A Dutra",
+        "Goulart Filho",
+        "R Barreto",
+        "N Salles",
+        "R Santos",
+        "Ccc Tibúrcio",
+        "A Monteiro",
+        "Acs"
+      ],
+      "journal": "DST J Bras Doenças Sex Transm",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "9",
+      "page_start": "9",
+      "page_end": "11"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Medical microbiology and infectious diseases",
+      "authors": [
+        "Aw ; Pierce",
+        "Myiasis"
+      ],
+      "editors": "A Braud",
+      "publication_date": "1981",
+      "year": 1981,
+      "page_start": "1704",
+      "page_end": "1710"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Influência da temperatura na captura de califorídeos em armadilhas W.O.T.C. Cochliomyia hominivorax e C. macellaria (Diptera: Calliphoridae)",
+      "authors": [
+        "P Ribeiro",
+        "Jgw Brum",
+        "Ppr Costa",
+        "I Saul"
+      ],
+      "journal": "Bras J Vet Parasitol",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "2",
+      "page_start": "53",
+      "page_end": "54"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Abuso de álcool e drogas: uma orientação clínica do diagnóstico e tratamento",
+      "authors": "M Schuckit",
+      "publisher": "Editora Artes Médica",
+      "publication_date": "1991",
+      "year": 1991,
+      "pages": "356"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Wound myiasis in urban and suburban United States",
+      "authors": "R Sherman",
+      "journal": "Arch Intern Med",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "160",
+      "page_start": "2004",
+      "page_end": "2014"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Oral myiasis treated with invermectin: case report",
+      "authors": [
+        "E Shinohara",
+        "M Martini",
+        "Oliveira Neto",
+        "H Takahashi",
+        "A"
+      ],
+      "journal": "Braz Dent J",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "15",
+      "page_start": "79",
+      "page_end": "81"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Epidemiologia da desigualdade: um estudo longitudinal de 6000 crianças brasileiras. 2ª edição",
+      "authors": [
+        "C Victora",
+        "F Barros",
+        "J Vaughan"
+      ],
+      "publisher": "Hucitec",
+      "publication_date": "1988",
+      "year": 1988,
+      "pages": "187"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "O perfil psicossocial da criança e do jovem marginalizados",
+      "authors": "Mlv Violante",
+      "journal": "Cadernos Fundap",
+      "publication_date": "1990",
+      "year": 1990,
+      "volume": "18",
+      "page_start": "46",
+      "page_end": "50"
+    }
+  ]
+}

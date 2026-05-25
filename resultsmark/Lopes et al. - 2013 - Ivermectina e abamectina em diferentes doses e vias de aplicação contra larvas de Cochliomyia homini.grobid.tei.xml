@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ivermectina e abamectina em diferentes doses e vias de aplicação contra larvas de Cochliomyia hominivorax em bolsas escrotais de bovinos recém-castrados, provenientes da região sudeste do Brasil Ivermectin and abamectin administered at different doses and routes against Cochliomyia hominivorax in the scrotum of newly castrated cattle from southeast region of Brazil</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Welber</forename><surname>Daniel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Zanetti</forename><surname>Lopes</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Weslen</forename><surname>Fabricio</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pires</forename><surname>Teixeira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gustavo</forename><surname>Felippelli</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Breno</forename><surname>Cayeiro</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cruz</forename><forename type="middle">I</forename><surname>Willian</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Giquelin</forename><surname>Maciel</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><surname>Lucas</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vinicius</forename><surname>Shigaki De Matos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">João</forename><surname>Carlos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Melo</forename><surname>Pereira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carolina</forename><surname>Buzzulini</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vando</forename><forename type="middle">Edésio</forename><surname>Soares</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Thais</forename><surname>Rabelo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Dos</forename><surname>Santos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><surname>Gilson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pereira</forename><surname>De Oliveira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">I</forename><surname>Alvimar</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">José</forename><surname>Da Costa</surname></persName>
+						</author>
+						<title level="a" type="main">Ivermectina e abamectina em diferentes doses e vias de aplicação contra larvas de Cochliomyia hominivorax em bolsas escrotais de bovinos recém-castrados, provenientes da região sudeste do Brasil Ivermectin and abamectin administered at different doses and routes against Cochliomyia hominivorax in the scrotum of newly castrated cattle from southeast region of Brazil</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0103-8478</idno>
+					</monogr>
+					<idno type="MD5">FFCB28E0AFF483A88D97A6AD97FE0079</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Ivermectina e abamectina em diferentes doses e vias de aplicação contra larvas de Cochliomyia hominivorax...</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESUMO</head><p>Avaliou-se a efi cácia preventiva da ivermectina e da abamectina, administradas em diferentes vias (subcutânea, intramuscular e pour-on) e doses (200 e 500mcg kg -1 ), contra larvas de Cochliomyia hominivorax em bolsas escrotais de bovinos após a castração. Foram utilizados animais de seis propriedades do estado de São Paulo e Minas Gerais, Brasil. Para cada estudo, selecionou-se de 30 a 45 bovinos não castrados, dependendo do número de grupos. No dia zero do estudo, realizou-se o processo de castração pelo método cruento, sendo os animais tratados após este processo. Avaliou-se a efi cácia da ivermectina e da abamectina administradas via pour-on (500mcg kg -1 ), subcutanea (200mcg kg -1 ), bem como a efi cácia da abamectina pela via intramuscular (200mcg kg -1 ). Em cada experimento, um grupo de animais foi mantido como controle. Os animais foram avaliados do 3 o ao 14 o dia após o processo de castração/tratamento. Os valores de efi cácia para ambos os princípios ativos foram ≤30% próximos ao 10 o dia pós-tratamento (DPT), sendo que, em cinco experimentos, tanto a ivermectina quanto a abamectina, independente da via de administração, foram inefi cazes (0,0%) no 10º DPT. Com base nos resultados encontrados no presente estudo, conduzidos em diferentes propriedades da região sudeste do Brasil, tanto a ivermectina quanto a abamectina, quando utilizadas com base no protocolo apresentado, foram consideradas inefi cazes na prevenção de miíases escrotais em bovinos, independente da via e dose de administração utilizada.</p><p>Palavras-chave: efi cácia preventiva, macrolactonas, miíases.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ABSTRACT</head><p>The preventive effi cacy of ivermectin and abamectin administered in different routes <ref type="bibr">(subcutaneous, intramuscular and pour-on)</ref> and doses (200 and 500mcg kg -1 ) against Cochliomyia hominivorax in the scrotal sac of cattle after castration, was evaluated. Animals from six different farms, in the state of São Paulo and Minas Gerais, Brazil were used. For each study, 30-45 uncastrated bulls, depending on the number of groups, were selected. On day zero of the study, the procedure was carried out by the method of bloody castration and the animals were treated after this process. The effi cacy of ivermectin and abamectin administered via the pour-on (500mcg kg -1 ), subcutaneous (200mcg kg -1 ) as well as the effi cacy of abamectin intramuscularly (200mcg kg -1 ) were evaluated. In each experiment, one group of animals was kept as control. The animals were evaluated from the 3rd to the 14 th day after castration process/treatment. The effi cacy values for both active principles were ≤30% the next day 10 post-treatment (PT), and in fi ve experiments, both ivermectin and abamectin, regardless of the route of administration, were ineffective (0.0%) on the day 10 th PT. Based on the results found in this study, conducted in different properties from southeastern Brazil, both ivermectin and abamectin, when used the protocol presented, were considered ineffective in preventing scrotal myiasis in bulls, irrespective of the route of administration and dose used.</p><p>Key words: preventive effi cacy, macrolactones, myiasis, resistance.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>A mosca Cochliomyia hominivorax <ref type="bibr">(COQUEREL, 1858)</ref> é responsável por causar uma miíase cutânea primária nos animais, popularmente conhecida como "bicheira", e constitui-se em sério problema sanitário nos países da América do Sul. Nos animais domésticos, especialmente bovinos e ovinos, os procedimentos de manejo como castração, descorna, assinalação, realizados na época das chuvas, tornam-se alvos para a realização de postura de ovos por essa mosca adulta, pois qualquer solução de continuidade na pele dos animais é um atrativo para esse comportamento <ref type="bibr" target="#b6">(GUIMARÃES &amp; PAPAVERO, 1999)</ref>. As miíases umbilicais também constituem I Centro de Pesquisas em Sanidade Animal (CPPAR), Faculdade de Ciências Agrárias e Veterinárias, Universidade Estadual Paulista "Júlio de Mesquita Filho" (UNESP), 14880-900, Jaboticabal, SP, Brasil. E-mail: wdzlopes@hotmail.com. *Autor para correspondência.</p><p>Ciência Rural, v.43, n.12, dez, 2013. uma preocupação constante em praticamente todo o território nacional <ref type="bibr" target="#b16">(SANAVRIA et al., 1996)</ref>. <ref type="bibr" target="#b5">GRISI et al. (2002)</ref> e MOYA BORJA (2003), relatam que os prejuízos acarretados por este díptero no Brasil, incluindo o tratamento curativo e preventivo dos animais, são estimados em aproximadamente 150 milhões de dólares ao ano.</p><p>Desde 1954, o tratamento curativo e preventivo das miíases com produtos químicos é a forma de controle mais utilizada <ref type="bibr" target="#b3">(CORREA, 1954)</ref>. Nos dias atuais, a utilização das avermectinas injetáveis e pour-on de ação prolongada facilitam o manejo do produtor e evitam a necessidade de repetições de tratamentos <ref type="bibr" target="#b12">(MOYA BORJA 2003;</ref><ref type="bibr" target="#b9">MARTINS et al., 2009)</ref>. Estudos que avaliam a efi cácia desse tipo de produto são encontrados mais facilmente com a doramectina <ref type="bibr" target="#b14">(OLIVEIRA et al., 1993;</ref><ref type="bibr" target="#b13">MUNIZ et al., 1995;</ref><ref type="bibr" target="#b16">SANAVRIA et al., 1996;</ref><ref type="bibr" target="#b11">MOYA BORJA et al., 1997;</ref><ref type="bibr" target="#b8">LOPES et al., 2009;</ref><ref type="bibr" target="#b9">MARTINS et al., 2009;</ref><ref type="bibr" target="#b15">SAKAMOTO et al., 2009)</ref>. Por outro lado, em relação à ivermectina e a abamectina pour-on, apesar de serem utilizadas preventivamente a campo no controle desse tipo de miíases, poucos estudos sobre a efi cácia destes princípios ativos estão descritos na literatura <ref type="bibr" target="#b0">(ANZIANI et al., 1993;</ref><ref type="bibr" target="#b1">ANZIANI et al., 1996;</ref><ref type="bibr">LOMBARDERO et al., 1997;</ref><ref type="bibr" target="#b2">ANZIANI et al., 2000;</ref><ref type="bibr">)</ref>.</p><p>Diante do exposto, o presente estudo teve como objetivo avaliar a efi cácia preventiva da ivermectina e da abamectina, administradas em diferentes vias (subcutânea, intramuscular e pouron) e doses (200 e 500mcg kg -1 ), contra larvas de Cochliomyia hominivorax em bolsas escrotais de bovinos após a castração.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL E MÉTODOS</head><p>O experimento foi realizado entre janeiro e abril de 2012. Foram utilizados animais de seis propriedades rurais, de diferentes municípios do estado de São Paulo e Minas Gerais (Brasil). Para cada estudo, foram selecionados de 30 a 45 animais que não haviam recebido qualquer tratamento antiparasitário nos últimos 90 dias, mestiços e não castrados, entre nove e 16 meses de idade, pesando entre 180 e 350kg. Os animais foram aleatoriamente alocados em dois ou três grupos experimentais de 15 animais cada, utilizando-se um modelo de randomização completa em bloco, baseado no peso individual (Tabela 1).</p><p>No dia zero, cada bovino recebeu 10mL de Xylocaína 2%, como anestésico local, pela via subcutânea, na região distal da bolsa escrotal ("tampa"). Após uma incisão na bolsa escrotal, iniciou-se o processo de castração dos animais pelo método cruento. Concomitantemente ao processo de orquiectomia, realizou-se o tratamento dos animais com as ivermectinas (Merial Saúde Animal Ltda) ou com as abamectinas (Alvet Saúde Animal Ltda.), de acordo com a via e dose de cada formulação, descrita na tabela 1. Em todos os experimentos, ao longo do período de observação, os animais foram mantidos na mesma pastagem (no caso dos produtos administrados pela via subcutânea e intramuscular), ou em pastagens separadas, quando se administraram os tratamentos via pour-on. Os bovinos receberam como alimentação, durante os estudos, pastagens, água e suplementação mineral ad libitum.</p><p>Para avaliar a efi cácia preventiva das formulações utilizadas, as lesões escrotais dos bovinos foram cuidadosamente examinadas, diariamente, do 3 o ao 14 o dia pós-orquiectomia/tratamento. As larvas de C. hominivorax nas incisões escrotais dos bovinos foram classifi cadas como ativas (pelo menos uma larva de C. hominivorax viva/lesão), e identifi cadas por meio de registro próprio com o dígito "um" (1) ou não ativas (ausência de larvas vivas de C. hominivorax na lesão), registradas com o dígito "zero" (0), conforme metodologia descrita por <ref type="bibr" target="#b8">LOPES et al. (2009</ref><ref type="bibr">) e MARTINS et al. (2009)</ref>.</p><p>Os percentuais de efi cácia de cada formulação foram calculados utilizando-se a fórmula descrita a seguir.</p><p>Os resultados referentes à presença ou ausência de larvas de C. hominivorax, nas bolsas escrotais, foram analisados pelo SAS (SAS/STAT User's Versão 9.13, SAS Institute, Cary, NC), por meio do teste exato não paramétrico de Fisher, com nível de signifi cância de 5%.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS E DISCUSSÃO</head><p>No experimento I, a ivermectina e a abamectina administradas via pour-on (500mcg/ kg) alcançaram efi cácia preventiva máxima de 62,50% no 3 o dia pós-tratamento. Após esta data de observação, quando o desafi o nos animais mantidos como controle aumentou, não foi possível verifi car efi cácia preventiva pelas referidas formulações, sendo que, inefi cácia, tanto da ivermectina e quanto da abamecitna, foi observada a partir do 6 o e 7 o DPT, respectivamente. Os resultados expressos pela análise estatística reforçam os resultados descritos neste estudo, uma vez que não houve diferença signifi cativa (P&gt;0,05) no número total de miíases observadas entre os grupos controle e tratados, durante todo o período</p><p>100 controle grupo no ativas Miíases tratado grupo no ativas Miíases -controle grupo no ativas Miíases (%) x Eficácia  experimental (Tabela 2). Em função da inefi cácia dessas formulações, observadas já no 6 o ou 7 o DPT, aliado ao bem estar dos animais envolvidos no estudo, optou-se por fi nalizar este experimento no 10 o DPT. Resultados semelhantes com a ivermectina, administrada via subcutânea (200mcg kg -1 ), foram obtidos por ANZIANI et al. <ref type="bibr">(2000)</ref>.</p><p>Os resultados obtidos por estes dois princípios ativos, administrados pela via subcutânea, no experimento II, são semelhantes aos relatados no estudo anterior. Neste caso, a efi cácia preventiva máxima foi de 84,62% e 26,67% para a abamectina e ivemectina no 4 o e 8 o DPT, respectivamente. Inefi cácia para ambas as formulações foi observada no 14 o DPT. O grupo medicado com abamectina, pela via subcutânea, apresentou número total de miíases inferior ao grupo não medicado (controle) apenas no 4 o DPT. Nas demais datas de observação, não houve diferença no total de miíases presentes nos animais tratados com as diferentes formulações, em relação ao grupo controle (Tabela 2).</p><p>A abamectina administrada via intamuscular, no experimento III, alcançou efi cácia máxima de 87,50% no 4 o DPT. Na sequência, tais valores decresceram, atingindo níveis inferiores a 11,11% no 11 o DPT, sendo que, após esta data, a formulação em questão demonstrou-se inefi caz (0,0%), quando o número de animais tratados com abamectina via intramuscular e positivos para o referido ectoaprasito aumentou, em comparação ao número de bovinos positivos para larvas de C. hominivorax (Tabela 1), mantido como controle. Apesar da diferença signifi cativa (P≤0,05) observada entre os grupos no 3 o DPT, em relação ao total de miíases quantifi cadas nas demais datas, o total de miíases presente nos animais mantidos sem tratamento (controle) não diferiu estatisticamente (P&gt;0,05), quando comparado ao número de lesões escrotais positivas para larvas de C. hominivorax, presentes nos bovinos tratados pela via intramuscular, com abamectina (Tabela 2).</p><p>Os resultados encontrados por estas mesmas formulações, administradas nas mesmas vias, nos três experimentos conduzidos no estado de Minas Gerais (Uberaba, Formiga e União de Minas), são semelhantes a todos os três conduzidos no estado de São Paulo. Em Minas Gerais, valores de efi cácia preventiva superiores foram alcançados pela abamectina nos três experimentos (independente Tabela 1 -Delineamento experimental utilizado em cada experimento.</p><p>- <ref type="figure">--------------------Dose----------------------Tratamento</ref> Grupo Animais por tratamento Via de aplicação (mL kg -1 ) ( m c g k g -1 )</p><p>-</p><formula xml:id="formula_0">-----------------------------------------------------------Experimento I -São João da Boa Vista/SP------------------------------------------------------- T01 Solução salina 0,9%<label>15</label></formula><p>Pour-on 1/10 -T02 Abamectina* 15 Pour-on 1/10 500 T03 Ivermectina* 15 Pour-on 1/10 500 - <ref type="figure">---------------------------------------------------------</ref>  <ref type="figure">------------------------------------------------------</ref>-T01 Solução salina 0,9% 15 Subcutânea 1/50 -T02 Abamectina* 15 Subcutânea 1/50 200 T03 Ivermectina* 15 Subcutânea 1/50 200 - <ref type="figure">------------------------------------------------------------</ref>  <ref type="figure">----------------------------------------------------------</ref>-T01 Solução salina 0,9% 15 Intramuscular 1/50 -T02 Abamectina* 15 Intramuscular 1/50 200 - <ref type="figure">-----------------------------------------------------------------Experimento IV -Uberaba/MG---------------------------------------------------------------</ref>-T01 Solução salina 0,9% 15 Pour-on 1/10 -T02 Abamectina* 15 Pour-on 1/10 500 T03 Ivermectina* 15 Pour-on 1/10 500 - <ref type="figure">----------------------------------------------------------------Experimento V -Formiga/MG----------------------------------------------------------------</ref>-T01 Solução salina 0,9% 15 Subcutânea 1/50 -T02 Abamectina* 15 Subcutânea 1/50 200 T03 Ivermectina* 15 Subcutânea 1/50 200</p><formula xml:id="formula_1">------------------------------------------------------------Experimento VI -União de Minas/MG----------------------------------------------------------- T01 Solução salina 0,9%<label>15</label></formula><p>Intramuscular 1/50 -T02 Abamectina* 15 Intramuscular 1/50 200 * Formulações comerciais adquiridas no mercado brasileiro. Ciência Rural, v.43, n.12, dez, 2013. da via de administração e dose) até o 4 o ou 5 o dia após o processo de orquiectomia dos animais, em comparação à ivermectina. Por outro lado, os valores de efi cácia tanto da ivermectina, quanto da abamectina, nos três experimentos realizados neste segundo estado, decresceram, sendo que, no experimento IV e V, tais formulações foram inefi cazes, na prevenção de miíases escrotais de bovinos recém-castrados, Tabela 2 -Total de miíases ativas nos animais de cada grupo e percentuais de eficácia para cada formulação, referente aos experimentos conduzidos no estado de São Paulo.</p><p>----------------------------------------------------------Experimento I -São João da Boa Vista/SP-----------------------------------------------------------T01: Controle T02: Abamectina pour-on (500mcg kg -1 )*</p><p>T03: Ivermectina pour-on (500mcg kg -1 )* Eficácia Dias pós-tratamento/ orquiectomia Total de miíase ativas Total de miíase ativas Total de miíase ativas T02 T03 3 0 8 A 03 A 03 A 62,5 62,5 4 1 0 A 05 A 08 A 50,0 20,0 5 1 3 A 09 A 11 A 30,7 15,4 6 1 5 A 15 A 13 A 0,0 13,3 7 1 5 A 15 A 15 A 0,0 0,0 8 1 4 A 15 A 15 A 0,0 0,0 9 1 4 A 15 A 15 A 0,0 0,0 10 14 A 15 A 15 A 0,0 0,0 - <ref type="figure">---------------------------------------------------------</ref>  <ref type="figure">-------------------------------------------------------</ref>-T01: Controle T02: Abamectina subctânea (200mcg kg -1 )* T03: Ivermectina subcutânea (200mcg kg -1 )* Eficácia Dias pós-tratamento/ orquiectomia Total de miíase ativas Total de miíase ativas Total de miíase ativas T02 T03 3 0 5 A 02 A 04 A 60,0 20,0 4 1 3 A 02 B 12 A 84,6 7,7 5 1 3 A 09 A 10 A 30,7 23,0 6 1 5 A 09 A 12 A 40,0 20,0 7 1 5 A 09 A 12 A 40,0 20,0 8 1 5 A 10 A 11 A 33,3 26,6 9 1 5 A 11 A 11 A 26,6 26,6 10 15 A 13 A 12 A 13,3 20,0 11 15 A 13 A 12 A 13,3 20,0 12 14 A 13 A 13 A 7,1 7,1 13 14 A 13 A 13 A 7,1 7,1 14 13 A 13 A 13 A 0,0 0,0 - <ref type="figure">------------------------------------------------------------</ref>  <ref type="figure">----------------------------------------------------------</ref>-T01: Controle T02: Abamectina intramuscular (200mcg kg -1 )* Eficácia Dias pós-tratamento/ orquiectomia Total de miíase ativas Total de miíase ativas T02 3 0 4 A 01 A 75,0 4 0 8 A 01 B 87,5 5 1 0 A 08 A 20,0 6 1 0 A 08 A 20,0 7 1 0 A 08 A 20,0 8 1 0 A 07 A 30,0 9 1 2 A 07 A 41,6 10 12 A 07 A 41,6 11 09 A 08 A 11,1 12 10 A 09 A 10,0 13 09 A 09 A 0,0 14 09 A 09 A 0,0 * Formulações comerciais adquiridas no mercado brasileiro. * Totais seguidos pela mesma letra, na linha, não diferem entre si (P&gt;0,05).</p><p>próximo ao 10 o DPT (Tabela 3). Os resultados da análise estatística, presentes nesta mesma Tabela, reforçam a inferência descrita acima. Da mesma forma que no experimento I, o estudo realizado na cidade de Uberaba/MG, também foi fi nalizado no 10 o DPT, em função da baixa efi cácia observada para ivermectina e abamectina, administradas via pour-on. Nenhuma das formulações utilizadas nos seis experimentos impediu a deposição de massas de ovos de C. hominivorax após o processo de castração dos bovinos.</p><p>De acordo com os resultados encontrados descritos na literatura <ref type="bibr" target="#b13">(MUNIZ et al., 1995;</ref><ref type="bibr" target="#b2">ANZIANI et al., 2000;</ref><ref type="bibr" target="#b8">LOPES et al., 2009;</ref><ref type="bibr" target="#b9">MARTINS et al., 2009;</ref><ref type="bibr" target="#b15">SAKAMOTO et al., 2009)</ref>, dentre as avermectinas, a doramectina é o princípio ativo que apresenta melhores resultados até então, no tratamento curativo e preventivo contra larvas deste ectoparasito em ruminantes. Utilizando a mesma metodologia descrita neste estudo, <ref type="bibr" target="#b8">LOPES et al. (2009</ref><ref type="bibr">) e MARTINS et al. (2009)</ref> relatam elevada efi cácia preventiva da doramectina, 700mcg kg -1 via subcutânea e intramuscular, contra larvas de C. hominivorax, em bovinos recém castrados no Estado de São Paulo e Rio Grande do Sul, respectivamente. Elevada efi cácia curativa dessa mesma formulação, administrada nas mesmas vias e dose anteriormente citadas, foi constatada por <ref type="bibr" target="#b15">SAKAMOTO et al. (2009)</ref> em bovinos naturalmente infestados por larvas de C. hominivorax. <ref type="bibr" target="#b11">MOYA BORJA et al. (1997)</ref>, no Brasil, avaliaram a efi cácia da doramectina e da ivermectina (200mcg/kg, subcutânea) contra larvas de C. hominivorax em bovinos experimentalmente infestados. Esses autores relataram que a doramectina eliminou 100% das larvas a partir de 48 horas póstratamento, enquanto que 29% dos animais tratados com ivermectina apresentaram, até o 7 o DPT, larvas ativas nas lesões. Em experimentos com delineamentos semelhantes ao deste estudo, <ref type="bibr" target="#b13">MUNIZ et al. (1995</ref><ref type="bibr" target="#b16">), SANAVRIA et al. (1996</ref><ref type="bibr" target="#b8">), LOPES et al. (2009</ref><ref type="bibr">) e MARTINS et al. (2009)</ref> constataram elevada efi cácia doramectina (aplicada via subcutânea ou intramuscular, em diferentes doses), contra larvas de C. hominivorax em bolsas escrotais de bovinos, após a castração, durante todo o período de observação.</p><p>Em relação a outros estudos publicados com ivermectina ou abamectina, os resultados de efi cácia, publicados na década de 90, foram elevados <ref type="bibr" target="#b0">(ANZIANI &amp; LOREFICE et al. 1993;</ref><ref type="bibr" target="#b1">ANZIANI et al., 1996;</ref><ref type="bibr">LOMBARDERO et al., 1997)</ref>. Alguns anos depois, <ref type="bibr" target="#b2">ANZIANI et al. (2000)</ref>, avaliando a ação da ivermectina, aplicada via subcutânea (200mcg kg -1 ), contra larvas de C. hominivorax, parasitando bovinos artifi cialmente infestados, verifi caram que, no 12 o DPT, o número de miíases ativas, presentes no grupo medicado com diferentes formulações contendo ivermectina 1%, não diferiu estatisticamente daquelas do grupo controle (não medicado). <ref type="bibr" target="#b10">MERCIER et al. (2001)</ref>, em estudo de castração, verifi cou que a ivermectina e a abamectina (200mcg kg -1 , via subcutânea) demonstraram um percentual de redução na eclosão de larvas deste díptero, de 69% e 85%, respectivamente. <ref type="bibr" target="#b8">LOPES et al. (2009)</ref>, <ref type="bibr" target="#b9">MARTINS et al. (2009</ref><ref type="bibr">) e SAKAMOTO et al. (2009)</ref> encontraram resultados semelhantes, de efi cácia preventiva ou curativa, aos encontrados neste estudo, para a abamectina administrada via intramuscular na dose de 200mcg kg -1 .</p><p>Trabalhos publicados que descrevem os aspectos farmacocinéticos de formulações (pour-on e/ou injetáveis) podem melhor elucidar a possível inefi cácia destas. De acordo com <ref type="bibr" target="#b18">TOUTAIN et al. (1997)</ref>, uma vez que nem todos os parasitas se alimentam de plasma, a distribuição das drogas para compartimentos diferentes deste (linfa, secreções da pele, do abomaso, entre outros) ocorrem em concentrações diferentes das encontradas no plasma, o que, por sua vez, poderia justifi car parcialmente a falta de correlação entre os valores farmacocinéticos observados por uma formulação e a inefi cácia desta contra alguns parasitas que não se alimentam de plasma. Outro aspecto que esses autores levam em consideração é que, não é totalmente defi nido se uma formulação deve atingir uma determinada concentração para que esta exerça sua ação antiparasitária, ou se o período (tempo) de exposição de um princípio ativo ao parasita seja mais importante para que uma formulação desempenhe sua atividade anti-parasitária. <ref type="bibr" target="#b4">GAYRARD et al. (1999)</ref>, avaliando a meia via da ivermectina e da doramectina, ambas administradas via pour-on, verifi caram que esta foi de 9,8 e 5,3 dias, para as referidas formulações, respectivamente. Resultados estes 2,8 e 3,7 vezes superiores aos anteriormente citados para ivermectina e doramectina, respectivamente <ref type="bibr" target="#b19">(WILKISON et al., 1985)</ref>. Essas diferenças, segundo <ref type="bibr" target="#b4">GAYRARD et al. (1999)</ref>, indicam que o processo de absorção de cada formulação pode ser o fator limitante para a cinética de ambas formulações pour-on. Resultados semelhantes a estes foram encontrados com a associação pouron da ivemectina 1,5% + abamectina 0,5% por SILVA <ref type="bibr">(2008)</ref>. Esse pesquisador observou, para a formulação supracitada, um baixo pico máximo de concentração (Cmax) e prolongado período de tempo para o seu surgimento (Tmax). De acordo com SILVA (2008), estes achados são características de casos em que Ciência Rural, v.43, n.12, dez, 2013. a cinética plasmática é limitada pela etapa de absorção da molécula. Talvez os relatos de resistência a estas formulações administradas pela via pour-on, devido à grande utilização destas de maneira imprudente, ou mesmo devido às diferenças encontradas nos parâmetros farmacocinéticos para este tipo de formulação, levanta a hipótese de readequação dessas dosagens para estes produtos com esse propósito em específi co.</p><p>Tabela 3 -Total de miíases ativas nos animais de cada grupo e percentuais de eficácia para cada formulação, referente aos experimentos conduzidos no estado de Minas Gerais.</p><p>------------------------------------------------------------------Experimento IV -Uberaba/MG----------------------------------------------------------------</p><p>T01: Controle T02: Abamectina pour-on (500mcg kg -1 )* T03: Ivermectina pour-on (500mcg kg -1 )* Eficácia Dias pós-tratamento/ orquiectomia Total de miíase ativas Total de miíase ativas Total de miíase ativas T02 T03 3 0 2 A 02 A 03 A 0,0 0,0 4 1 2 A 02 B 11 A 83,3 8,3 5 1 3 A 09 A 10 A 30,7 23,0 6 1 4 A 09 A 10 A 35,7 28,5 7 1 4 A 08 A 12 A 42,8 14,3 8 1 4 A 10 A 13 A 28,5 7,1 9 1 4 A 10 A 13 A 28,5 7,1 10 15 A 15 A 15 A 0,0 0,0 - <ref type="figure">-----------------------------------------------------------------</ref>  <ref type="figure">--------------------------------------------------------------</ref>-T01: Controle T02: Abamectina subctânea (200mcg kg -1 )* T03: Ivermectina subcutânea (200mcg kg -1 )* Eficácia Dias pós-tratamento/ orquiectomia Total de miíase ativas Total de miíase ativas Total de miíase ativas T02 T03 3 0 4 A 03 A 02 A 25,0 50,0 4 0 9 A 06 A 05 A 33,3 44,4 5 1 3 A 08 A 09 A 38,4 30,7 6 1 3 A 08 A 09 A 38,4 30,7 7 1 2 A 08 A 09 A 33,3 25,0 8 1 3 A 13 A 12 A 0,0 7,7 9 1 4 A 13 A 13 A 7,1 7,1 10 14 A 14 A 13 A 0,0 7,1 11 14 A 14 A 13 A 0,0 7,1 12</p><p>13 A 13 A 13 A 0,0 0,0 13 13 A 13 A 13 A 0,0 0,0 14 13 A 13 A 13 A 0,0 0,0 ------------------------------------------------------------Experimento VI -União de Minas/MG------------------------------------------------------------</p><p>T01: Controle T02: Abamectina intramuscular (200mcg kg -1 )* Eficácia Dias pós-tratamento/ orquiectomia Total de miíase ativas Total de miíase ativas T02 3 1 0 A 06 A 40,0 4 1 0 A 05 A 50,0 5 1 1 A 04 B 63,6 6 1 2 A 06 A 50,0 7 1 2 A 06 A 50,0 8 1 2 A 06 A 50,0 9 1 2 A 07 A 41,6 10 10 A 07 A 30,0 11 10 A 06 A 40,0 12 10 A 06 A 40,0 13 10 A 07 A 30,0 14 10 A 07 A 30,0 * Formulações comerciais adquiridas no mercado brasileiro. * Totais seguidos pela mesma letra, na linha, não diferem entre si (P&gt;0,05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSÃO</head><p>Com base nos resultados encontrados no presente estudo, em seis experimentos conduzidos contra larvas de Cochliomyia hominivorax em bolsas escrotais de bovinos provenientes de diferentes regiões do Brasil, tanto a ivermectina quanto a abamectina, quando utilizadas com base no protocolo apresentado, foram inefi cazes na prevenção de miíases escrotais em bovinos, independente da dose e da via de administração utilizada.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>COMITÊ DE ÉTICA E BIOSSEGURANÇA</head><p>Este trabalho foi submetido e aprovado pelo comitê de ética, sob processo n.004M2/2012.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>-Experimento II -São José do Rio Pardo/SP-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>-Experimento III -Águas da Prata/SP-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>-Experimento II -São José do Rio Pardo/SP-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><figDesc>-Experimento III -Águas da Prata/SP-</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>-Experimento V -Formiga/MG-</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Prevention of cutaneous myiasis caused by screw worm larvae (Cochliomyia hominivorax) using ivermectin</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lorefice</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ncbi.nlm.nih.gov/pubmed/8237199&gt;.Acesso" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Veterinay Medicine</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="1993">1993. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Larvicidal activity of abamectin against natural Cochliomyia hominivorax larvae infestation</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual NY Academic Science</title>
+		<imprint>
+			<biblScope unit="volume">791</biblScope>
+			<biblScope unit="page" from="443" to="444" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Persitent activity of doramectin and invermectin in the prevention of cutaneous myiasis in cattle experimentally infested with Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">S</forename><surname>Anziani</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ncbi.nlm.nih.gov/pubmed/10622617&gt;.Acesso" />
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2000">2000. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Contribuição ao estudo da profi laxia das miíases cutâneas pelo emprego do Toxafêno</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Correa</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1954">1954</date>
+			<biblScope unit="page">54</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Imprensa Universitária</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Comparison of pharmacokinetic profi les of doramectin and ivermectin pour-on formulations in cattle</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Gayrard</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ncbi.nlm.nih.gov/pubmed/9950328&gt;.Acesso" />
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="1999">1999. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">125</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Myiasis in man and animals in the neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">São Paulo. FAPESP Editora: Plêiade</title>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">308</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Brazilian Journal of Veterinary Parasitology</title>
+		<author>
+			<persName><forename type="first">Argentina</forename><surname>Corrientes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997">1997</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page">71</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Avaliação da efi cácia preventiva da doramectina 3,5% * contra larvas de Cochliomyia hominivorax (miíases) em bolsas escrotais de bovinos recém-castrados. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">D Z</forename><surname>Lopes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="33" to="39" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Atividade de uma nova formulação de Doramectina 3,5% comparativametne à Abamectina 1% LA no controle de miíase por Cochliomyia homivorax em bovinos submetidos à castração em condições de campo. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Martins</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="37" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Efeito protetor de avermectinas contra infestações naturais por Cochliomyia hominivorax pós-castração em bovinos de corte. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Mercier</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="25" to="29" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Protective effi cacy of doramectin and ivermectin against Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya Borja</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ncbi.nlm.nih.gov/pubmed/9403981&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="101" to="109" />
+			<date type="published" when="1997">1997. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Acesso em: 04 mai</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Erradicação ou manejo integrado das miíases neotropicais das Américas? Pesquisa Veterinária Brasileira</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya Borja</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.scielo.br/pdf/pvb" />
+		<imprint>
+			<date type="published" when="2003">2003. 2013</date>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effi cacy of injectable doramectin in the protection of castread cattltle against fi eld infestations of Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="327" to="333" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Efi cácia de doramectin contra infestações induzidas por Cochliomyia hominivorax (Coquerel, 1858) em bovinos do Rio Grande do Sul, Brasil. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M R</forename><surname>Oliveira</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.cbpv.com.br/rbpv/documentos/211993/c2107_10.pdf&gt;" />
+		<imprint>
+			<date type="published" when="1993">1993. 2013</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="7" to="10" />
+		</imprint>
+	</monogr>
+	<note>Acesso em: 01 mar</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Efi cácia da Doramectina 3,5% * , comparativamente à Abamectina 1% LA ** , no tratamento de miíases naturalmente infestadas por larvas de Cochliomyia hominivorax, em bovinos. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A M</forename><surname>Sakamoto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">SAS Institute, SAS ® User&apos;s guide: etatistics</title>
+		<meeting><address><addrLine>Cary, NC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="1989" to="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Efi cácia profi lática de doramectin contra infestações naturais por Cochliomyia hominivorax (Coquerel, 1858) em bovinos após a castração. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<ptr target="&lt;http://cbpv.com.br/rbpv/documentos/511996/c517_10.pdf&gt;" />
+		<imprint>
+			<date type="published" when="1996">1996. 2013</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="7" to="10" />
+		</imprint>
+	</monogr>
+	<note>Acesso em: 01 mar</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Parâmetros farmacocinéticos a atividade endectocida de uma nova formulação contendo avermectinas, via tópica (Pour-on) em bovinos</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Silva</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.fcav.unesp.br/download/pgtrabs/mvp/d/1928.pdf&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">SP</title>
+		<imprint>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2008">2008. 2013</date>
+		</imprint>
+		<respStmt>
+			<orgName>121f. Tese de Doutorado -Universidade Estadual Paulista</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Comparative pharmacokinetics of doramectin and ivermectin in cattle</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Toutain</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ncbi.nlm.nih.gov/pubmed/9403971&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="3" to="8" />
+			<date type="published" when="1997">1997. 2013</date>
+		</imprint>
+	</monogr>
+	<note>Acesso em 05 mai</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Pharmacokinetics of ivermectin administered intravenously to cattle</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Wilkison</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/jps.2600741020/pdf&gt;</idno>
+		<ptr target="&lt;http://onlinelibrary.wiley.com/doi/10.1002/jps.2600741020/pdf&gt;" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Pharmacological Science</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="1985">1985. 2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

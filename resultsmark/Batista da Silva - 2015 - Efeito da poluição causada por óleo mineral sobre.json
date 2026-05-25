@@ -1,0 +1,601 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Efeito da poluição causada por óleo mineral sobre a comunidade de Calliphoridae (Diptera, Oestroidea) em manguezal",
+    "authors": [
+      "José Batista-Da-Silva"
+    ],
+    "hash": "C65396D3EFB21040ED334153B45A1976",
+    "publisher": "",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Este trabalho foi realizado com o propósito de conhecer os Calliphoridae (Diptera) em um manguezal no distrito de Itambi, Itaboraí, Rio de Janeiro, Brasil e quantificar a flutuação das espécies antes e após impacto ambiental provocado por óleo mineral naftênico. As moscas foram capturadas durante dois anos, usando peixe em decomposição. Um total de 2 192 moscas pertencentes a 9 espécies foram capturadas: Chrysomya megacephala (Fabricius, 1794) (81,75 %), Chrysomya albiceps (Wiedemann, 1819) (6,30 %), Chrysomya putoria (Wiedemann, 1818) (2,37 %), Cochliomyia macellaria (Fabricius, 1775) (8,49 %), Lucilia eximia (Wiedemann, 1819) (0,36 %), Chloroprocta idioidea (Robineau-Desvoidy, 1830) (0,18 %), Cochliomyia hominivorax (Cocquerel, 1858) (0,36 %), Hemilucilia semidiaphana (Rondani, 1850) (0,09 %) e Lucilia cuprina (Wiedemann,1830) (0,09 %). Apenas C. albiceps mostrou-se mais adaptada a poluição causada por óleo mineral naftênico.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_8bf60b27",
+      "text": "Os Diptera da família Calliphoridae são moscas que se destacam tanto pela sua importância médica (Queiroz et al. 2005) e forense (Salviano et al. 1996) quanto pela sua importância ecológica, pois também podem atuar como agentes decompositores da matéria orgânica. Estes insetos estão amplamente distribuídos em toda região Neotropical, tanto em áreas ocupadas pela atividade humana, quanto em áreas de mata protegidas (Mello et al. 2007, Batista-da-Silva et al. 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(Queiroz et al. 2005)",
+          "offset_start": 97,
+          "offset_end": 118
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "(Salviano et al. 1996)",
+          "offset_start": 129,
+          "offset_end": 151
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Mello et al. 2007",
+          "offset_start": 418,
+          "offset_end": 436
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": ", Batista-da-Silva et al. 2011)",
+          "offset_start": 436,
+          "offset_end": 467
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_9af1e30d",
+      "text": "Os manguezais estão entre os ecossistemas mais antigos e antropizados do planeta, e estão também incluídos entre os ambientes plenamente ocupados pela família Calliphoridae (Gonçalves et al. 2011, Batista-da-Silva 2014). O manguezal é um ambiente de solo instável e responsável pela reprodução, abrigo ou criadouro de muitas espécies marinhas e terrestres, e que ao longo do tempo vem sofrendo intensa interferência humana por causa do valor comercial do solo, a caça ilegal, a pesca predatória e a coleta indiscriminada do caranguejo. Além destes problemas, algumas cidades litorâneas brasileiras são responsáveis pela grande quantidade de poluentes domésticos e industriais lançados diretamente nos rios que chegam a este ecossistema, provocando mudanças físicas, químicas e biológicas no ambiente que, de acordo com Ellison (1998), podem causar a morte de diversas espécies pelos efeitos acumulativos.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Gonçalves et al. 2011",
+          "offset_start": 173,
+          "offset_end": 195
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": ", Batista-da-Silva 2014)",
+          "offset_start": 195,
+          "offset_end": 219
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "Ellison (1998)",
+          "offset_start": 819,
+          "offset_end": 833
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_268ea71e",
+      "text": "De acordo com Johnston e Keough (2002), o impacto provocado por poluição passageira provoca mudanças nas populações de invertebrados podendo persistir por algum tempo após o agente causador do distúrbio ter sido removido. De acordo com Roberts et al. (2003), a manutenção de um ecossistema é o principal objetivo da conservação, por esta razão, estudos relacionados a acidentes ambientais provocados por humanos devem ser iniciados imediatamente após o fato.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Johnston e Keough (2002)",
+          "offset_start": 14,
+          "offset_end": 38
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Roberts et al. (2003)",
+          "offset_start": 236,
+          "offset_end": 257
+        }
+      ],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_fc5c72d5",
+      "text": "A APA de Guapi-Mirim destaca-se como a última área de manguezais preservados no entorno da Baia de Guanabara, Rio de Janeiro, Brasil. Além de sua importância ecológica, vital para manutenção da fauna e flora da região costeira do Rio de Janeiro, tem papel relevante na economia local, pois diversas famílias de pescadores sobrevivem do produto da pesca artesanal (peixes e crustáceos) de forma sustentável. Por estas razões, este estudo foi conduzido com o propósito de avaliar se o derramamento de óleo mineral no interior deste manguezal poderia alterar a biodiversidade de moscas da família Calliphoridae em um período de pós-impacto, e ainda saber se tais informações poderiam ser utilizadas em posteriores estudos de impactos ambientais em áreas de manguezais.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introdução"
+    },
+    {
+      "id": "p_e93ce063",
+      "text": "Todas as coletas foram realizadas em manguezal na Área de Proteção Ambiental de Guapi-Mirim (APA de Guapi-Mirim), localizada geograficamente nas coordenadas 22 0 39' 30\" -22 0 46' 50\" S de latitude e 42 0 57' 00\" -43 0 06' 40\" W de longitude, em Itaboraí, Rio de Janeiro, Brasil, dentro dos limites do distrito de Itambi (Figura 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_4e3f3b94",
+      "text": "Foram realizadas coletas quinzenais durante dois anos, 2009/2010 (ano 1 -pré impacto) e 2010/2011 (ano 2 -pós impacto), em uma área de manguezal que sofreu forte ação antrópica pelo derrame de óleo mineral naftênico (6 000 litros) no mês de março de 2010 e criou uma mancha de 10 km ao longo do rio Caceribu, cessando as atividades pesqueiras por dez dias e causando enormes prejuízos financeiros à comunidade local (ICMBio 2010). Para as coletas das moscas, foram utilizadas 4 armadilhas plásticas, com 35 cm altura e 15 cm diâmetro a uma distância de 100 m uma da outra, armadilhas de acordo com Ferreira (1978) e modificada de acordo com Batista-da-Silva et al. (2010).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "Ferreira (1978)",
+          "offset_start": 598,
+          "offset_end": 613
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "Batista-da-Silva et al. (2010)",
+          "offset_start": 641,
+          "offset_end": 671
+        }
+      ],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_9a9fe6f1",
+      "text": "As armadilhas, contendo 100 g de peixe (sardinha) em decomposição, foram suspensas a uma altura de 1,20 m acima do solo por um período de 48 horas. Após as coletas, todos os exemplares capturados foram mortos por asfixia no interior das armadilhas, utilizandose algodão umedecido com etanol 70 %, e em seguida todos os indivíduos foram separados, contados e identificados a partir de chave para gênero e espécie de acordo com Mello (2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Mello (2003)",
+          "offset_start": 426,
+          "offset_end": 438
+        }
+      ],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_e964db66",
+      "text": "Foi calculado o índice de diversidade de acordo com Shannon-Wiener (Shannon e Weaver 1949) para cada ano de coleta, o índice de uniformidade de Pielou (1966) e o índice de similaridade de Bray e Curtis (1957) entre os dois anos.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Pielou (1966)",
+          "offset_start": 144,
+          "offset_end": 157
+        }
+      ],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_e5adf063",
+      "text": "Foi realizado o teste de Mann-Whitney (p< 0,05) para saber se o poluente derramado temporariamente no manguezal teve efeito sobre a abundância das espécies. Foi realizado o teste de Qui-quadrado (x 2 ) (p< 0,05) para verificar as proporções de machos e fêmeas capturadas em cada ano.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_47593c3a",
+      "text": "A salinidade da água foi monitorada durante os dois anos, e as médias diárias da temperatura e da umidade do ar foram analisadas através do teste de Kendall Tau (p< 0,05) para saber se estas poderiam interferir na abundância das moscas, durante o período de coletas. Foi realizado o teste de Mann-Whitney para saber se o poluente derramado temporariamente no manguezal teve efeito sobre a abundância de alguma das espécies observadas, e foi constatado que apenas C. albiceps apresentou diferença significativa do ano 1 para o ano 2 (Z= -2,33; p= 0,019). Em nenhuma das outras espécies foi encontrada diferença significativa.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Material e Métodos"
+    },
+    {
+      "id": "p_d5667cdb",
+      "text": "No ano 1, foram coletados 190 machos e 636 fêmeas; no ano 2, foram coletados 332 machos e 1 034 fêmeas. A proporção entre o número de machos e fêmeas em cada ano foi testada através do teste de Qui-quadrado e foi constatado que não houve diferença significativa (X 2 = 0,48; DF = 1; p< 0,92).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_64964ff9",
+      "text": "Durante o período de coletas, foram observadas a temperatura e a umidade médias, e encontrados os seguintes valores: a temperatura média no ano 1 foi 30,75 ± 5,36 0 C e a umidade relativa do ar média foi de 65,06 ± 12,47 %; no ano 2, a temperatura média foi de 31,75 ± 4,63 0 C e a umidade reativa do ar foi 63,70 ± 11,81%. Nenhuma destas variáveis apresentou valor significante para as espécies capturadas e a salinidade da água manteve uma média em torno de 13 %.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_cfe61e89",
+      "text": "Fatores abióticos como temperatura, umidade e pluviosidade contribuem para as variações na abundância e na riqueza de moscas da família Calliphoridae (Batista-da-Silva et al. 2010, Batista-da-Silva 2014), no entanto, alterações antrópicas também têm a capacidade de provocar modificações em manguezais, principalmente quando ocorrem liberações de metais pesados (Machado et al. 2002).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Batista-da-Silva et al. 2010",
+          "offset_start": 150,
+          "offset_end": 179
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": ", Batista-da-Silva 2014)",
+          "offset_start": 179,
+          "offset_end": 203
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Machado et al. 2002)",
+          "offset_start": 362,
+          "offset_end": 383
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_0d0652bd",
+      "text": "Os manguezais são ecossistemas de transição entre a terra e o mar que sofrem constante interferência antrópica, principalmente, pelo despejo de grandes quantidades de esgoto industrial e doméstico, provocando mudanças na composição da água e do solo no ambiente, que, de acordo com Ellison (1998), podem causar a morte de diversas espécies pelos efeitos acumulativos de poluentes. Johnston e Keough (2002) destacaram que o impacto provocado por poluição passageira proporciona mudança nas populações de invertebrados e isto foi observado neste trabalho, pois no ano 2 houve um aumento de 65,37 % de moscas capturadas e um amento de 80 % de espécies de moscas (Tabela 1). Quando ocorrem mudanças no ambiente, pode ocorrer perda ou fragmentação de hábitat, e, de acordo com Roberts et al. (2003), estas mudanças dificultam a manutenção de um ecossistema.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "Ellison (1998)",
+          "offset_start": 282,
+          "offset_end": 296
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Johnston e Keough (2002)",
+          "offset_start": 381,
+          "offset_end": 405
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Roberts et al. (2003)",
+          "offset_start": 772,
+          "offset_end": 793
+        }
+      ],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_6fb7c3e0",
+      "text": "O aumento da riqueza e da abundância de Calliphoridae em área de manguezal no ano 2 pode ter proporcionado um bom indicador sobre estudos de impactos ambientais em manguezais, pois o agente causador do distúrbio (óleo mineral naftênico) em área de manguezal, apesar de ter sido temporário, provocou alterações ao ecossistema, o que pode ser observado com o aumento da diversidade da família Calliphoridae no ano 2, confirmando os dados observados por Johnston e Keough (2002) que relataram que mudanças provocadas por agentes poluidores alteraram as populações de invertebrados (esponjas, cnidários, poliquetas, dentre outros) em duas áreas em Port Phillip Bay, Victoria, Austrália. As alterações nas populações Tabela 1. Número de moscas da família Calliphoridae (N) capturadas com seus respectivos percentuais (%) por espécie, distribuídos no ano 1 (pré-impacto ambiental) e no ano 2 (pós-impacto ambiental), em área de manguezal no Município de Itaboraí, RJ, Brasil: (ano 1: 2009/2010); (ano 2: 2010/2011).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Resultados e Discussão"
+    },
+    {
+      "id": "p_1bd56eb4",
+      "text": "Ano 1 Ano 2 Total N % N % N % Chloroprocta idioidea (Robineau-Desvoidy, 1830) 0 0,00 4 0,29 4 0,18 Chrysomya albiceps (Wiedemann, 1819) 14 1,69 124 9,08 138 6,30 Chrysomya megacephala (Fabricius, 1794) 756 91,53 1 036 75,84 1 792 81,75 Chrysomya putoria (Wiedemann, 1818) 20 2,42 32 2,34 52 2,37 Cochliomyia hominivorax (Cocquerel, 1858) 0 0,00 8 0,59 8 0,36 Cochliomyia macellaria (Fabricius, 1775) 34 4,12 152 11,13 186 8,49 Hemilucilia semidiaphana (Rondani, 1850) 0 0,00 2 0,15 2 0,09 Lucilia cuprina (Wiedemann,1830) 0 0,00 2 0,15 2 0,09 Lucilia eximia (Wiedemann, 1819) 2 0,24 6 0,44 8 0,36 Total 826 100 1 366 100 2 192 100 de Calliphoridae observadas em manguezal parecem ter sido bastante positivas para esta família, demonstrando que estes muscóides são bastante versáteis e extremamente oportunistas. A espécie C. albiceps se destacou entre as demais espécies aumentando a sua abundância, o que demonstra que esta espécie pode ser capaz de resistir melhor que as demais espécies diante de variações impactantes em ecossistema de manguezal. O número de machos e fêmeas capturados no ano 2 demonstrou um aumento não significativo, o que significa que machos e fêmeas tiveram suas proporções mantidas. É importante a avaliação do ambiente no pré e no pós-impacto, observando os efeitos e a recuperação do ambiente e o nível do impacto provocado através do tempo (Wiens e Parker 1995), no entanto isto é possível quando um determinado ambiente é monitorado por longos períodos, como ocorre com os manguezais da APA de Guapi-Mirim, proporcionando confiabilidade nos resultados apresentados.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "1995)",
+          "offset_start": 1386,
+          "offset_end": 1391
+        }
+      ],
+      "head_section": "Espécies"
+    },
+    {
+      "id": "p_d57d406b",
+      "text": "A forte pressão antrópica provocada pelo derramamento de óleo mineral naftênico na área de manguezal parece ter sido um fator importante no aumento da abundância e da riqueza de muscóides da família Calliphoridae no ano 2, no entanto apenas a espécie C. albiceps mostrou-se estatisticamente mais adaptada a poluição causada pelo óleo, o que contribui com maiores informações sobre o comportamento destes insetos em manguezais, diante de impactos ambientais provocados pela ação humana.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Conclusão"
+    },
+    {
+      "id": "p_1ed724aa",
+      "text": "A Prefeitura Municipal de Itaboraí por proporcionar recursos materiais para a pesquisa e ao Instituto Chico Mendes (MMA) que forneceu as autorizações para todas as coletas de espécimes. Autorizações SISBIO: 14517-2 e 14517-3.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Agradecimentos"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "Durante um ano de coletas foram capturadas 2 192 moscas pertencentes a nove espécies da família Calliphoridae (Tabela 1). Os valores apresentados na Tabela 1 mostram que houve um aumento na abundância de 65,37 % e um aumento na riqueza de 80 % no ano 2. As espécies C. idioidea, C. hominivorax, H. semidiaphana e L. cuprina foram aquelas que contribuíram com o aumento da riqueza no período pós-impacto. As espécies C. albiceps, C. megacephala, C. putoria, C. macellaria e L. eximia foram aquelas que contribuíram com aumento na abundância também no período pós-impacto. Os valores para o índice de diversidade e o índice de uniformidade para o ano 1 -pré-impacto (2009/2010) foram H= 0,168 e e= 0,240; no ano 2 -pós impacto (2010/ 2011),equivalente a H= 0,369 e e= 0,386, e o índice de similaridade entre os dois anos calculado de acordo com Bray e Curtis (1957) foi de 0,233.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_1",
+      "label": "1",
+      "head": "Figura 1 .",
+      "type": "figure",
+      "desc": "Figura 1. Mapa de localização da APA de Guapi-Mirim no Estado do Rio de Janeiro, Brasil (Fonte: ICMBio 2010).",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 80.67,
+          "width": 116.67,
+          "height": 222.99
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Ocorrência e Sazonalidade de Muscóides (Diptera, Calliphoridae) de Importância Sanitária no Município de Itaboraí",
+      "authors": [
+        "J Batista-Da-Silva",
+        "G Moya-Borja",
+        "Mmc Queiroz"
+      ],
+      "journal": "RJ, Brasil. Entomobrasilis",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "3",
+      "issue": "1",
+      "page_start": "16",
+      "page_end": "21"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Effect of Lunar Phases, Tides, and Wind Speed on the Abundance of Diptera Calliphoridae in a Mangrove Swamp",
+      "authors": "J Batista-Da-Silva",
+      "journal": "Neotropical Entomology",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "43",
+      "issue": "1",
+      "page_start": "48",
+      "page_end": "52"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Abundance and richness of Calliphoridae (Diptera) of public health importance in the Tinguá Biological Reserve",
+      "authors": [
+        "J Batista-Da-Silva",
+        "G Moya-Borja",
+        "R Mello",
+        "Mmc Queiroz"
+      ],
+      "journal": "Nova Iguaçu (RJ), Brazil. Entomotropica",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "26",
+      "issue": "3",
+      "page_start": "137",
+      "page_end": "142"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "An ordination of the upland Forest communities of sourthern Wisconsin",
+      "authors": [
+        "J Bray",
+        "J Curtis"
+      ],
+      "journal": "Ecological Monographs",
+      "publication_date": "1957",
+      "year": 1957,
+      "volume": "27",
+      "page_start": "325",
+      "page_end": "349"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Impacts of sediment burial on mangrove",
+      "authors": "J Ellison",
+      "journal": "Marine Pollution Bulletin",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "37",
+      "issue": "8-12",
+      "page_start": "420",
+      "page_end": "426"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Sinantropia de dípteros muscóides de Curitiba, Paraná. I: Calliphoridae",
+      "authors": "Mjm Ferreira",
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "38",
+      "page_start": "445",
+      "page_end": "454"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Inventário de Calliphoridae (Diptera) em manguezal e fragmento de Mata Atlântica na região de Barra de Guaratiba",
+      "authors": [
+        "L Gonçalves",
+        "A Dias",
+        "C Espindola",
+        "F Almeida"
+      ],
+      "journal": "Brasil. Revista Brasileira de Biociências",
+      "publisher": "Rio de Janeiro",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "9",
+      "issue": "1",
+      "page_start": "50",
+      "page_end": "55"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Direct and indirect effects of repeated pollution events on marine hardsubstrate assemblages",
+      "authors": [
+        "E Johnston",
+        "M Keough"
+      ],
+      "journal": "Ecological Applications",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "12",
+      "page_start": "1212",
+      "page_end": "1228"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Trace metal retention in mangrove ecosystems in Guanabara Bay, SE Brazil",
+      "authors": [
+        "W Machado",
+        "E Silva-Filho",
+        "R Oliveira",
+        "L Lacerda"
+      ],
+      "journal": "Marine Pollution Bulletin",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "44",
+      "page_start": "1277",
+      "page_end": "1280"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Chave para identificação das formas adultas das espécies da família Calliphoridae (Díptera, Brachycera, Cyclorrhapha) encontradas no Brasil",
+      "authors": "R Mello",
+      "journal": "Entomologia y Vectores",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Population fluctuations of calliphorid species (Diptera, Calliphoridae) in the Biological Reserve of Tinguá, state of Rio de Janeiro",
+      "authors": [
+        "R Mello",
+        "Mmc Queiroz",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Brazil. Iheringia",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "97",
+      "issue": "4",
+      "page_start": "481",
+      "page_end": "485"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "The measurement of diversity in different types of biological collections",
+      "authors": "E Pielou",
+      "journal": "Journal of Theoretical Biology",
+      "publication_date": "1966",
+      "year": 1966,
+      "volume": "13",
+      "page_start": "131",
+      "page_end": "144"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Miíases Humanas por Cochliomyia hominivorax no Estado do Rio de Janeiro e Suas Conseqüências",
+      "authors": [
+        "Mmc Queiroz",
+        "P Ribeiro",
+        "Mmo Cabral",
+        "G Moya-Borja",
+        "R Mello",
+        "A Norberg"
+      ],
+      "journal": "XVII Congresso Latinoamericano de Parasitologia",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "60",
+      "page_start": "167",
+      "page_end": "168",
+      "notes": "Parasitologia Latinoamericana(Chile)"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Application of ecological criteria in selecting marine reserves and developing reserve networks",
+      "authors": [
+        "C Roberts",
+        "G Branch",
+        "R Bustamante",
+        "J Castilla",
+        "J Dugan",
+        "B Halpern",
+        "K Lafferty",
+        "H Leslie",
+        "J Lubchenco",
+        "D Mcardle",
+        "M Ruckelshaus",
+        "R Warner"
+      ],
+      "journal": "Ecological Applications",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "13",
+      "issue": "1",
+      "page_start": "215",
+      "page_end": "228"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Calliphoridae (Diptera) associated with human corpses in Rio de Janeiro",
+      "authors": [
+        "Rjb Salviano",
+        "R Mello",
+        "Rfs Santos",
+        "Lcnh Beck",
+        "A Ferreira"
+      ],
+      "journal": "Brazil. Entomologia y Vectores",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "3",
+      "page_start": "145",
+      "page_end": "146"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "The Mathematical Theory of Communication",
+      "authors": [
+        "C Shannon",
+        "W Weaver"
+      ],
+      "publisher": "University of Illinois Press",
+      "publication_date": "1949",
+      "year": 1949,
+      "pages": "117"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Analyzing the effects of accidental environmental impacts: approaches and assumptions",
+      "authors": [
+        "J Wiens",
+        "K Parker"
+      ],
+      "journal": "Ecological Applications",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "5",
+      "page_start": "1069",
+      "page_end": "1083",
+      "identifiers": {
+        "analytic_identifiers_unknown": "Recibido: 15-03-2014. Aceptado: 29-01-2015",
+        "biblstruct_identifiers_unknown": "Recibido: 15-03-2014. Aceptado: 29-01-2015"
+      }
+    }
+  ]
+}

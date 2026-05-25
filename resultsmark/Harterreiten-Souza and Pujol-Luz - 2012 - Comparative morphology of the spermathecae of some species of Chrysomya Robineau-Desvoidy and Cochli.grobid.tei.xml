@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+				<funder>
+					<orgName type="full">Universidade de São Paulo</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Universidade de Brasília</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundação de Amparo à Pesquisa do Distrito Federal/FAP-DF (JRPL)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior/CAPES</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Científico e Tecnológico/ CNPq</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Núcleo de Entomologia Forense/NEnt</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C6E385B8F6CB8F9F124A13E04765F407</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Calliphorid blowflies belong to the superfamily Oestroidea. Chrysomyinae is divided into two tribes: Chrysomyini and Phormiini; only the former occurs in the Neotropics <ref type="bibr" target="#b5">(Dear 1985)</ref>. Two genera are important in medicine and/or forensic entomology: Chrysomya Robineau-Desvoidy, 1830, introduced in Brazil in the 70's and currently distributed in almost all Brazilian territory <ref type="bibr" target="#b7">(Guimarães et al. 1978)</ref> and Cochliomyia Townsend, 1915, endemic to the Neotropics, with four species <ref type="bibr" target="#b5">(Dear 1985;</ref><ref type="bibr" target="#b8">Guimarães et al. 1983;</ref><ref type="bibr" target="#b9">Guimarães &amp; Papavero 1999)</ref>.</p><p>A peculiarity of this group of insects is the relative uniformity of the external characters normally used for identification <ref type="bibr" target="#b14">(McAlpine 1989)</ref>. Although there are studies of the external morphology and dichotomous keys that help to recognize the involved taxa <ref type="bibr" target="#b2">(de Carvalho &amp; Ribeiro 2000;</ref><ref type="bibr" target="#b20">Mello 2003;</ref><ref type="bibr" target="#b0">Amat et al. 2008;</ref><ref type="bibr" target="#b3">de Carvalho &amp; Mello-Patiu 2008)</ref>, little is known about the morphology of the internal female genitalia. An alternative to aid in the identification of these species is to establish and identify new characters, especially based on the study of the spermathecae.</p><p>The spermatheca store and maintain the viability of the spermatozoa and are indirectly related to the processes of mating, fertilization and oviposition <ref type="bibr" target="#b13">(McAlpine 1981;</ref><ref type="bibr" target="#b6">Gschwentner &amp; Tadler 2000)</ref>. This structure is covered by a glandular epithelium <ref type="bibr" target="#b4">(Dallai et al. 1993)</ref> originating from ectodermal tissue and is located at the end of the spermathecal duct. This duct is inserted inside the bursa <ref type="bibr" target="#b13">(McAlpine 1981)</ref>.</p><p>Depending on the group of insects, the capsule of the spermathecae may be found in different forms and numbers. The ovoid and subcylindrical-shaped are the most common ones and represent the plesiomorphic condition <ref type="bibr" target="#b23">(Toma &amp; de Carvalho 1995)</ref>. In Diptera, the predominant number of spermathecae is three, a plesiomorphic condition in the infraorder Muscomorpha. This number is often reduced to one or two spermathecae; a few groups present four <ref type="bibr" target="#b13">(McAlpine 1981)</ref>.</p><p>Studies of the structures of the spermathecae of the Calliphoridae are scarce. Those that exist, in most cases, are found in works describing species and illustrate only the capsule, without mentioning the ducts (i.e., <ref type="bibr" target="#b15">Mello 1968</ref><ref type="bibr" target="#b16">Mello , 1969</ref><ref type="bibr">Mello , 1972a</ref><ref type="bibr">Mello , b, 1974;;</ref><ref type="bibr" target="#b11">Mariluis 1978</ref><ref type="bibr" target="#b12">Mariluis , 1982) )</ref> (Table <ref type="table">I</ref>). The identification and description of comparable structural characteristics of the spermathecae may aid in the identification of blowfly species and in future works on the phylogeny of the group. For this reason, we aim to provide a detailed description of the morphological structures of the spermathecae of four species of Calliphoridae: Chrysomya albiceps (Wiedemann, 1819), Chrysomya megacephala (Fabricius, 1794), Cochliomyia macellaria <ref type="bibr">(Fabricius, 1775)</ref> and Cochliomyia hominivorax <ref type="bibr">(Coquerel, 1858)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL AND METHODS</head><p>We examined approximately 50 specimens of each species, except for C. hominivorax, represented by only 15 speci-</p><p>Comparative morphology of the spermathecae of some species of Chrysomya Robineau-Desvoidy and Cochliomyia Townsend (Diptera, Calliphoridae) Érica Sevilha Harterreiten-Souza 1 &amp; José Roberto Pujol-Luz 1 1 Departamento de Zoologia, Instituto de Ciências Biológicas, Universidade de Brasília, Campus Universitário Darcy Ribeiro, 70910-900 Brasília-DF, Brasil. jrpujol@unb.br, ericsevilha@hotmail.com ABSTRACT. Comparative morphology of the spermathecae of some species of Chrysomya Robineau-Desvoidy and Cochliomyia Townsend (Diptera, Calliphoridae). Little is known about the morphology of the chitinized structures of the spermathecae of the Calliphoridae. In this work, the spermathecae of Chrysomya albiceps Wiedemann, 1819, C. megacephala Fabricius, 1794, Cochliomyia macellaria Fabricius, 1775 and C. hominivorax Coquerel, 1858 are described and illustrated. The occurrence in one species of four spermathecae, an atypical form for blow flies, was recorded for the first time. The analysis of these structures will allow a better understanding of this group as well as provide taxonomic characters for future phylogenetic studies. KEYWORDS. Blowflies; females; morphology; taxonomy. RESUMO. Morfologia comparada das espermatecas de espécies de Chrysomya Robineau-Desvoidy e Cochliomyia Townsend (Diptera, Calliphoridae). Pouco se conhece sobre a morfologia das estruturas quitinizadas das espermatecas de Calliphoridae. Nesse trabalho as espermatecas de Chrysomya albiceps Wiedemann, 1819, C. megacephala Fabricius, 1794, Cochliomyia macellaria Fabricius, 1775 e C. hominivorax Coquerel, 1858 são descritas e ilustradas. Foi registrada pela primeira vez a ocorrência em uma espécie com quatro espermatecas, uma forma atípica em califorídeos. A análise dessas estruturas possibilitará uma melhor compreensão do grupo e fornecerá caracteres taxonômicos para futuros estudos filogenéticos. PALAVRAS-CHAVE. Fêmeas; morfologia; mosca varejeira; taxonomia.</p><p>mens. Specimens were collected in the Distrito Federal, Brazil and some reared in laboratory. For microscopic examination, the abdomen was sectioned transversely on the median region of the first tergite, then boiled in lactic acid for about 20 minutes to remove soft tissues and to clarify sclerotized portions. Subsequently the abdomen was transferred to a Petri dish with water and dissected with a cut along the abdominal pleura to remove the spermathecae. Afterwards, microscope slides were mounted with glycerin for analysis. Dissection and mounting of microscope slides was done using a Leica S8APO stereoscopic microscope. Morphological analysis was performed on the structures and images using a Leica DM 2000 microscope equipped with a Leica DFC 295 camera. The morphometric analysis of the images was performed using Leica´s LAS V3.6 program. Reference specimens of each species were stored in microtubes containing glycerin and deposited in the Entomological collection da Universidade de Brasília (UnB). The terminology used to describe the morphological structures of the spermathecae follows that proposed by <ref type="bibr" target="#b1">Artigas (1971)</ref> and <ref type="bibr" target="#b13">McAlpine (1981)</ref>, with some modification.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>The female reproductive tract of the four species examined, in ventral view, consists of a pair of ovaries, lateral oviducts, accessory glands, median oviduct, bursa, vaginal chamber and three spermathecae (Fig. <ref type="figure">1</ref>). Two of three spermathecae are encircled by the same glandular tissue, and are associated with an accessory gland positioned to the right. The third spermatheca is isolated and encircled by a glandular tissue, on the opposite side. It is also associated with an accessory gland (Fig. <ref type="figure">1</ref>). The spermathecae are positioned between the sixth and seventh segments of the telescoping abdomen. Based on the constriction and dilation of the spermathecal duct, it was divided into the following regions: proximal, median and distal (Figs. <ref type="figure">2b</ref>, <ref type="figure">c</ref>, <ref type="figure">d</ref>).</p><p>We found similarities in the morphological patterns of the structures of the spermathecae for the species belonging to the same genus; they are described below.</p><p>Chrysomya albiceps (Fig. <ref type="figure" target="#fig_0">3a</ref>) has three spermathecae, 0.130 x 0.160 mm in length, semi-spherical in shape, with a smooth surface and brown color. The spermathecal duct has a transverse ridge, is thinner in the proximal region and extends gradually to reach maximum caliber in the median region of the duct. The proximal region is approximately two to three times longer than the distal duct.</p><p>In Chrysomya megacephala (Fig. <ref type="figure" target="#fig_0">3b</ref>), the same pattern was observed: three spermathecae, 0.130 x 0.160 mm in length, semi-spherical in shape, with a smooth surface and brown color. The spermathecal duct has a transverse ridge, is thinner in the proximal region and extends gradually to reach maximum caliber in the median region of the duct. However, in two dissected specimens we observed the presence of four capsules (Fig. <ref type="figure">4</ref>), two of which were united by a single duct and separated only by the branched proximal region of the spermathecal duct.</p><p>Cochliomyia macellaria (Fig. <ref type="figure">5a</ref>) has three spermathecae, 0.120 x 0.210 mm in length, ovoid in shape, with a smooth surface and brown color. The spermathecal duct has a transverse ridge, is thinner in the proximal and distal regions and gradually reaches maximum caliber in the median region of the duct.</p><p>Cochliomyia hominivorax (Fig. <ref type="figure">5b</ref>) has three spermathecae, 0.136 x 0.261 mm in length, reniform in shape, with a smooth surface and brown color. The spermathecal duct has a transverse ridge, is thinner in the proximal and distal regions and gradually reaches maximum caliber in the median region of the duct.</p><p>The common duct in all the studied species is inserted into the bursa. This duct bifurcates and one branch of this fork bifurcates again, linking the common duct to the duct of the spermathecae.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The morphology of the spermathecal structures of four species of blow flies is described and illustrated. Diagnostic characters useful for the identification of species were found only for the genus Cochliomyia, based upon differences in the shape of the capsule. However, in Chrysomya, such characters are not useful to identify the species. Several authors have described and/or illustrated the structures of the spermathecae of some calliphorids (Table <ref type="table">I</ref>), but most of these works only described the shape of the capsules.</p><p>The structure of the female reproductive system for the four species described here included: a pair of ovaries, lateral oviducts, accessory glands, median oviduct, bursa, vaginal chamber and three spermathecae. These same structures were observed by Lawne (1870), who described and illustrated the female reproductive system of Calliphora vomitoria <ref type="bibr">(Linnaeus, 1758)</ref>.</p><p>The spermathecae were found to be located between the sixth and seventh abdominal segments, as noted by <ref type="bibr" target="#b22">Shewell (1987)</ref> and <ref type="bibr" target="#b13">McAlpine (1981)</ref>.</p><p>The capsule morphology and number of spermathecae observed in the present study is consistent with that reported in prior studies. A semispherical-shaped capsule and three spermathecae were found in C. albiceps and C. megacephala; <ref type="bibr" target="#b12">Mariluis (1982)</ref> reported the same for the species Lucilia sericata (Meigen, 1826), L. eximia (Wiedemann, 1819), L. purpurascens <ref type="bibr">(Walker, 1836</ref>). An ovoid-shaped capsule and three spermathecae were found in C. macellaria and C. hominivorax; <ref type="bibr" target="#b12">Mariluis (1982)</ref> reported the same for the two species and Lawne (1870) for Calliphora vomitoria. A similar capsule pattern was also reported by <ref type="bibr" target="#b10">Lopes &amp; Albuquerque (1955)</ref> for Callyntropyga humeralis (Walker, 1837); however, the described texture of that capsule was different, featuring transverse grooves and spines at the base.</p><p>Based on the constriction of the spermathecal ducts, a pattern was found among the genera studied (Figs. 2 I, II and III). Comparison with other species belonging to the same family was not possible due to a lack of information. How- Figs. 1-2. 1, Female reproductive system of the Calliphoridae: (a) ovary, (b) lateral oviduct, (c) median oviduct, (d) spermatheca, (e) accessory gland; (f) bursa, (g) vaginal chamber. Scale bar: 3 mm. 2, Structures of the spermathecae of blow flies: (a) capsule, (b) proximal duct, (c) median duct, (d) distal duct. Pattern found for species: I) Chrysomya albiceps and Chrysomya megacephala; II) Cochliomyia macelaria; III) Cochliomyia hominivorax.</p><p>1 2 3 4 5 ever, Lawne (1870) observed that the ducts reached maximum size in the central portion, becoming thinner at the extreme on either side. We observed four spermathecae in C. megacephala, which is an atypical form. The evolution from three to four spermathecae starts from the capsule and flows towards the common duct (Fig. <ref type="figure">4</ref>). This same phenomenon was observed by <ref type="bibr" target="#b24">Ward et al. (2008)</ref> in Scathophaga stercoraria (Linnaeus, 1758) (Scathophagidae), suggesting that such events may be linked to genetic variations between populations and/or associated with changes in environmental conditions (i.e., microhabitats). According to this author, the formation of a fourth spermatheca results in better genetic quality (i.e., less competition for the storage of sperm), but could generate costs for construction and maintenance of the additional structure. Such costs may result in fewer eggs <ref type="bibr" target="#b24">(Ward et al. 2008)</ref> and lower total volume of stored sperm when compared to the typical form with three spermathecae <ref type="bibr" target="#b21">(Parker et al. 1999)</ref>.</p><p>The presence of three separate ducts emerging from a common duct is considered the plesiomorphic condition, while the branched common duct represents an apomorphic condition. The presence of three basally united ducts can be found in many nematocerous and ground-plan of the Brachycera. However, the branched common duct is more often found in groups of apical Muscomorpha <ref type="bibr" target="#b14">(McAlpine 1989)</ref>.</p><p>Diagnostic characters based on the structures of the spermathecae were proposed to differentiate the genera Chrysomya and Cochliomyia. Given the lack of such information for other species of the family Calliphoridae, it is necessary to investigate a larger number of species, so these data may be used with them for the taxonomic and phylogenetic analysis of the group.</p><p>Table I. List of authors who described the structures of the spermathecae of species belonging to the family Calliphoridae. Author Species Structures of the spermathecae Number Capsule Ducts Lawne 1870 Calliphora vomitoria (Linnaeus, 1758) 3 Dark brown oval shape Transverse ridge, highest caliber in the medium portion Lopes &amp; Albuquerque 1955 Callintropyga humeralis (Walker, 1837) 3 Rounded shape with transverse ridge and spines next to the duct Not described Mello 1968 Paralucilia fulvicrura (Robineau-Desvoidy, 1830) Not described Strongly pigmented ellipsoid shape Not described Mello 1969 Paralucilia fulvinota (Bigot, 1877) Not described Strongly pigmented globose shape Not described Mello 1972a Sarconesia chlorogaster (Wiedemann, 1830) Not described Strongly pigmented long and sinuous shape Not described Mello 1972b Hemilucilia segmentaria (Fabricius, 1805) Not described Strongly pigmented globose shape Not described Hemilucilia semidiaphana (Rondani, 1850) = H. flavifacies = H. hermanlenti Not described Strongly pigmented elongate shape Not described Hemilucilia benoisti Séguy, 1925 Not described Strongly pigmented globose shape Not described Hemilucilia souzalopesi Mello 1972 Not described Strongly pigmented ellipsoid shape Not described Mello 1974 Calliphora nigra Mello, 1974 Not described Strongly pigmented ellipsoid shape Not described Mariluis 1978 Calliphora calcedoniae Mariluis, 1978 3 Oval shape Not described Mariluis 1982 Paralucilia fulvicrura (Robineau-Desvoidy, 1830) 3 Ellipsoid shape Not described Paralucilia lyrcea (Walker, 1849) 3 Ellipsoid shape Not described Cochliomyia hominivorax (Coquerel, 1858) 3 Oval and enlarged shape Not described Cochliomyia macellaria (Fabricius, 1775) 3 Oval and enlarged shape Not described Lucilia sericata (Meigen, 1826) 3 Lemon shape Not described Lucilia eximia (Wiedemann, 1819) 3 Lemon shape Not described Lucilia purpurascens (Walker, 1836) 3 Lemon enlarged shape Not described Calliphora vicina Robineau-Desvoidy, 1830 3 Oval shape Not described Calliphora antojuanae Mariluis, 1982 3 Oval shape with a slightly curved beak Not described Neta chilensis (Walker, 1836) 3 Spiral shape Not described Sarconesia chlorogaster (Wiedmann, 1830) 3 Broad and sinuous shape distal portion Not described Chlorobrachycoma gracielae Mariluis, 1982 3 Rounded and oval shape Not described</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figs. 3</head><label>3</label><figDesc>Figs. 3-5. 3, Spermathecae: a) Chrysomya albiceps; b) Chrysomya megacephala. 4, Four spermathecae in Chrysomya megacephala. 5, Spermathecae: a) Cochliomyia macellaria; b) Cochliomyia hominivorax. Scale bars: 0.100 mm.</figDesc><graphic coords="3,33.85,466.40,496.20,262.65" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Revista Brasileira de Entomologia 56(1):54-58, março, 2012   </p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Harterreiten-Souza &amp; Pujol-Luz Revista Brasileira de Entomologia 56(1):54-58, março, 2012   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>ACKNOWLEDGMENTS</head><p>The authors thanks <rs type="person">Dr. Nelson Papavero</rs> from the <rs type="funder">Universidade de São Paulo</rs> for reviewing the manuscript, <rs type="person">Francisco Diogo Rocha Souza</rs> from the <rs type="funder">Universidade de Brasília</rs> for the ilustration of Figs. <ref type="figure">1</ref> and <ref type="figure">2</ref>, colleagues from the <rs type="funder">Núcleo de Entomologia Forense/NEnt</rs>, and <rs type="funder">Conselho Nacional de Desenvolvimento Científico e Tecnológico/ CNPq</rs> (JRPL), <rs type="funder">Fundação de Amparo à Pesquisa do Distrito Federal/FAP-DF (JRPL)</rs>, <rs type="funder">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior/CAPES</rs> and <rs type="institution">Programa de Pós-Graduação em Ecologia, Universidade de Brasília</rs> for the grants (ESH).</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Clave ilustrada para la identificación de los géneros y las especies de califóridos (Diptera: Calliphoridae) de Colombia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Amat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vélez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">&amp;</forename><forename type="middle">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Caldasia</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="231" to="244" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Las structuras quitinizadas de la spermatheca y funda del pene de los asilidos y su valor sistematico atraves del studio por taxonomia numerica</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Artigas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gayana Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="1" to="106" />
+			<date type="published" when="1971">1971</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Chave de identificação das espécies de Calliphoridae (Diptera) do Sul do Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>De Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Key to the adults of the most common forensic species of Diptera in South America</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>De Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">The ultrastructure of the spermatheca in Ceratitis capitata Wied. and Dacus oleae Gmel. (Diptera: Tephritidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Dallai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marchini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Del Bene</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Redia</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="147" to="167" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A revision of the new world Chrysomyini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="169" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Functional anatomy of the spermatheca and its duct in the seed bug Lygaeus simulans (Heteroptera: Lygaeidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gschwentner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tadler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="305" to="312" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Three newly introduced blowfly species in southern Brazil (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="53" to="60" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">As miíases na Região Neotropical (Identificação, Biologia, Bibliografia)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Myiasis in man and animals in the Neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">São Paulo, Plêiade/FAPESP, 308 p. Lawne, B. T. 1870. The anatomy &amp; physiology of the blow-fly</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Thomson &amp; Pinder, Printers</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">121</biblScope>
+		</imprint>
+	</monogr>
+	<note>A Monograph</note>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Albuquerque</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Los insectos de las islas Juan Fernandez 22. Calliphoridae e Sarcophagidae (Diptera)</title>
+		<imprint>
+			<date type="published" when="1955">1955</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="95" to="119" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Contribucion al conocimiento del genero Chlorobrachycoma Townsend, 1918. (Diptera, Calliphoridae, Toxotarsinae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista de la Sociedad Entomológica Argentina</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="107" to="111" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Contribucion al conocimiento de las Calliphoridae de la Argentina (Insecta, Diptera)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Opera Lilloana</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="5" to="59" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Manual of Neartic Diptera</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Teskey</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vockeroth</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Morphology and Terminology -Adultos</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Wood</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">674</biblScope>
+		</imprint>
+	</monogr>
+	<note>Research Branch, Agriculture Canada</note>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Phylogeny and classification of the Muscomorpha</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</author>
+		<editor>J. F. McAlpine &amp; D. M. Wood</editor>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Agriculture Canada</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1581</biblScope>
+		</imprint>
+	</monogr>
+	<note>Manual of Nearctic Diptera</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Contribuição ao estudo gênero &quot;Paralucilia&quot; Brauer &amp; Bergenstamm, 1891 (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="177" to="192" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Contribuição ao estudo do gênero Myiolucilia Hall (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Studia Entomologica</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="1969">1969</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Contribuição ao estudo do gênero Sarconesia Bigot, 1857 (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="533" to="537" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Revisão das espécies do gênero Hemilucilia Brauer, 1985 (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="539" to="554" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Nova espécie do gênero Calliphora Robineau-Devoidy, 1930 (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arquivos da Universidade Federal Rural do Rio de Janeiro</title>
+		<imprint>
+			<date type="published" when="1974">1974</date>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="59" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Chave para identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomología y Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Optimal copula duration in yellow dung flies: effects of female size and egg content</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Parker</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>Simmons</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Stockley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Mcchristie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Charnov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Behavior</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="795" to="805" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<title level="m">Manual of Neartic Diptera</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Peterson</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Teskey</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Vockeroth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ottawa, Agriculture Canada, Research Branch</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">1332</biblScope>
+		</imprint>
+	</monogr>
+	<note>Calliphoridae</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Estudo f ilogenético de Mesembrinellinae com ênfase no gênero Eumesembrinella Townsend (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Toma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>De Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="127" to="144" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">A cost of cryptic female choice in the yellow dung fly</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Ward</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Reim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetica</title>
+		<imprint>
+			<biblScope unit="volume">134</biblScope>
+			<biblScope unit="page" from="63" to="67" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Marcia Souto Couri</title>
+		<imprint/>
+	</monogr>
+	<note>Received 5/7/2011; accepted 7/12/2011 Editor</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

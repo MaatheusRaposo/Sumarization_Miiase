@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">New records of Muscidae (Diptera) in</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>MS, Brazil</roleName><forename type="first">Campo</forename><surname>Grande</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Hera</forename><forename type="middle">Luana</forename><surname>Luiz</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Curso de Ciências Biológicas , Universidade Federal de Mato Grosso do Sul -UFMS , Campo Grande , MS , Brasil</note>
+								<orgName type="laboratory">Curso de Ciências Biológicas</orgName>
+								<orgName type="institution">Universidade Federal de Mato Grosso do Sul -UFMS</orgName>
+								<address>
+									<addrLine>Campo Grande</addrLine>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tiago</forename><forename type="middle">Ledesma</forename><surname>Taira</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> Curso de Agronomia , Universidade Estadual de Mato Grosso do Sul -UEMS , Aquidauana , MS , Brasil</note>
+								<orgName type="department">Curso de Agronomia</orgName>
+								<orgName type="institution">Universidade Estadual de Mato Grosso do Sul -UEMS</orgName>
+								<address>
+									<settlement>Aquidauana</settlement>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Wilson</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Werner</forename><surname>Koller</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Ectoparasitologia , Área de Sanidade Animal , Embrapa Gado de Corte , Campo Grande , MS , Brasil</note>
+								<orgName type="department">Área de Sanidade Animal</orgName>
+								<orgName type="laboratory">Laboratório de Ectoparasitologia</orgName>
+								<orgName type="institution">Embrapa Gado de Corte</orgName>
+								<address>
+									<addrLine>Campo Grande</addrLine>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Novos registros de dípteros muscóides em Campo Grande , MS , Brasil</note>
+								<orgName type="institution">Novos registros de dípteros muscóides em Campo Grande</orgName>
+								<address>
+									<region>MS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">New records of Muscidae (Diptera) in</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">EDEA84B1D55029E4A8058E0BA30B0C3D</idno>
+					<note type="submission">Received July 17, 2011 Accepted December 19, 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Calliphoridae</term>
+					<term>fish bait</term>
+					<term>Muscidae</term>
+					<term>relative abundance</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Synanthropic flies outstanding beside other flies due their relative abundance close to domestic animals and human population, to which they are able to cause myiasis or transmit pathogenic agents. As they're necrophagous they act as corpse decomposers and are useful in the forensic entomology in the post mortem interval determination. This study aimed to know flies diversity and abundance in Campo Grande, State of Mato Grosso do Sul. Captures were made weekly, utilizing three traps baited with decaying fish meat, from June of 2008 to May of 2009 in a remainder ciliary forest of the Embrapa's Cattle Beef Experimental Farm. The dipterans families that were considered and respectively number of collected specimens were: Calliphoridae (105,334); Muscidae (27,999); Sarcophagidae (21,083); Fanniidae (17,759) and Mesembrinellidae (305), totalizing 172,480 dipterous. To the local known species some Muscidae were increased as follows: Neomuscina atincticosta, Pseudoptilolepis elbida, Polietina orbitalis, Polietina flavithorax, Scutellomusca scutellaris, Graphomya analis and Morellia couriae.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resumo</head><p>As moscas sinantrópicas se destacam pelo fato de serem relativamente abundantes junto à população humana e animais domésticos, podendo causar a estes miíases ou transmitir agentes patogênicos. Por serem necrófagas, atuam na decomposição de cadáveres e são úteis para a entomologia forense como indicadores na determinação do intervalo post mortem -IPM. Este trabalho visou conhecer a diversidade e a abundância das espécies em Campo Grande, Estado de Mato Grosso do Sul. As capturas foram realizadas semanalmente, com três armadilhas, utilizando isca de peixe deteriorado, durante o período de junho de 2008 a maio de 2009 em mata ciliar remanescente na fazenda experimental da Embrapa Gado de Corte. Foram consideradas as seguintes famílias de dípteros, seguidas pelo número de exemplares obtidos: Calliphoridae (105.334); <ref type="bibr">Muscidae (27.999)</ref>; Sarcophagidae (21.083); Fanniidae (17.759) e Mesembrinellidae (305), totalizando 172.480 dípteros. Foram acrescentadas às espécies de Muscidae já notificadas para o local deste estudo: Neomuscina atincticosta, Pseudoptilolepis elbida, Polietina orbitalis, Polietina flavithorax, Scutellomusca scutellaris, Graphomya analis e Morellia couriae.</p><p>Palavras-chave: Calliphoridae, isca de peixe, Muscidae, abundância relativa.</p><p>The flies that belong to the Calliphoridae, Mesembrinellidae, Muscidae, Sarcophagidae, and Fanniidae families are mostly associated with decaying meat and/or corpses (D'ALMEIDA; <ref type="bibr" target="#b4">ALMEIDA, 1998;</ref><ref type="bibr" target="#b1">CARVALHO;</ref><ref type="bibr" target="#b3">MELLO-PATIU, 2009)</ref>. Several species can also develop in vegetable organic matter. Besides its usefulness as a decaying matter decompositor, these flies have great importance as pollinators (FAEGRI; <ref type="bibr" target="#b5">VAN DER PIJL, 1979)</ref>. They also can cause economic damage when responsible for primary myiasis (Cochliomyia hominivorax) or secondary myiasis (GUIMARÃES; <ref type="bibr" target="#b10">PAPAVERO, 1999)</ref>. Especially in cattle, an annual loss in meat and milk production estimated at US$ 150 million has been suggested by <ref type="bibr" target="#b9">Grisi et al. (2002)</ref>, only due C. hominivorax action. By visiting these different food sources, including garbage and sewage, they pose a risk to human and livestock health, due to their ability to convey pathogens <ref type="bibr" target="#b15">(VON ZUBEN et al., 1996)</ref>.</p><p>The most common species on cadavers, because they have their biology well studied, were used as indicators in forensic entomology *Corresponding author: Wilson Werner Koller Embrapa Gado de Corte, Av. Rádio Maia, 830, CEP 79106-550, Campo Grande, MS, Brasil e-mail: wilson.koller@embrapa.br to determine postmortem interval -PMI <ref type="bibr" target="#b13">(SALVIANO et al., 1996;</ref><ref type="bibr" target="#b0">ANDRADE et al., 2005)</ref>. Besides synanthropic flies, because of their abundance, proximity to man, health, and economic importance, the Calliphoridae and Muscidae families are considered the most interesting <ref type="bibr" target="#b12">(LOPES, 2000)</ref>.</p><p>This study was conducted for a better understanding of local diversity of flies belonging to the families above highlighted. For the catches we used three traps adapted from <ref type="bibr" target="#b6">Ferreira (1978)</ref>, using as containers for collection two two-liter PET bottles in a system of three funnels of the same type of bottle. The traps were activated for two days a week and catches occurred from June 2008 to May 2009.</p><p>The traps were installed in a remnant ciliary forest near the headquarters of the experimental farm of Embrapa Beef Cattle Research Center, 1.2 meters above the floor and about 100 meters distant from each other. Every week, about a third of the bait, 150 grams per trap, was replaced by fish exposed to the environment during 48 hours, with enough water to keep the bait moist during the two days of activation. The fish used is popularly known as "piauthree-spots" -Leporinus reinhardt (Anostomidae, Characiformes). The flies catched were killed with ethyl acetate and taken to the Embrapa Beef Cattle Entomology Laboratory -Animal Health Sector -, at which species screening and quantification were performed based on especific keys (CARVALHO; <ref type="bibr" target="#b2">RIBEIRO, 2000;</ref><ref type="bibr" target="#b1">CARVALHO, 2002;</ref><ref type="bibr" target="#b14">SCHUEHLI;</ref><ref type="bibr" target="#b14">CARVALHO, 2005</ref>; CARVALHO; <ref type="bibr" target="#b3">MELLO-PATIU, 2009)</ref>. After that, species to be confirmed and/or identified were sent to the Federal University of Parana, in Curitiba, to the Center for Environmental and Wildlife Studies (CDZOO). The relative abundance of the families here studied, as well as the mentioned species, is showed on Table <ref type="table" target="#tab_1">1</ref>.</p><p>In this samples, the Calliphoridae family was represented by the same species previously reported by <ref type="bibr" target="#b7">Gomes et al. (1998)</ref>, featuring, in descending order, the following total of captured specimens: Chrysomya albiceps -74,843; Chrysomya megacephala -19,975; Chloroprocta idioidea -6966; Chrysomya putoria -1278; Cochliomyia macellaria -1111; Lucilia eximia -909; Hemilucilia segmentaria -176; Lucilia cuprina -60; Cochliomyia hominivorax -14; and Hemilucilia semidiaphana -2. These ten species added for a total of 105,334 flies, accounting for 61.07% of the total capture.</p><p>The Muscidae family was represented, including those reported by <ref type="bibr" target="#b7">Gomes et al. (1998)</ref> and <ref type="bibr" target="#b11">Koller et al. (2004)</ref>, by 16 species already determined and two still to be determined, showing the following total of captured specimens: Atherigona orientalis -18,189, Musca domestica -3,073; Synthesiomyia nudiseta -2,777; Pseudoptilolepis elbida -1,037; Ophyra aenescens -914; Neomuscina atincticosta -680; Parapyrellia maculipennis -562; Biopyrellia bipuncta -245; Morellia nigricosta -187; Ophyra solitaria -153; Polietina flavithorax -74; Morellia humeralis -65; Morellia couriae -16; Muscidae sp .1 -14; Muscidae sp.2 -5; Polietina orbitalis -5; Graphomya analis -2, and Scutellomusca scutellaris -1. The total number of captured specimens of this family was 27,999, representing 16.23% of the catched flies. Although there were used decaying fish meat in this catches, the authors mentioned above used baits consisted by deteriorated beef liver for Calliphoridae and Muscidae. Mesembrinellidae was represented only by the species Mesembrinella peregrina and occurred in relatively low numbers. It presented a total of 305 flies, only 0.18% of total captured. Fanniidae local species were recently identified by <ref type="bibr" target="#b8">Gomes et al. (2002)</ref>. Thus, they were here only identified as genus, and counting 17,759 Fannia spp. flies that represented 10.3% of the total flies captured. Representatives of Sarcophagidae were identified until family level, resulting in 21,083 individuals, which accounted for 12.22% of the 172,480 flies belonging to the families here considered (Table <ref type="table" target="#tab_1">1</ref>).</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 1 .</head><label>1</label><figDesc>Species of muscoid dipterans, respective number of specimens and relative abundance, captured weekly with three traps using "rotten fish" in a riparian remaining forest at the Embrapa Beef Cattle Research Center, in Campo Grande, MS, from May 2008 to April 2009.</figDesc><table><row><cell>Family/Species</cell><cell>Number of</cell><cell>Relative</cell></row><row><cell></cell><cell>specimens</cell><cell>abundance (%)</cell></row><row><cell>CALLIPHORIDAE</cell><cell>105.334</cell><cell>61.07</cell></row><row><cell>Chrysomya albiceps</cell><cell>74.843</cell><cell>43.37</cell></row><row><cell>Chrysomya megacephala</cell><cell>19.975</cell><cell>11.61</cell></row><row><cell>Chloroprocta idioidea</cell><cell>6.966</cell><cell>4.04</cell></row><row><cell>Chrysomya putoria</cell><cell>1.278</cell><cell>0.74</cell></row><row><cell>Cochliomyia macellaria</cell><cell>1.111</cell><cell>0.64</cell></row><row><cell>Lucilia eximia</cell><cell>909</cell><cell>0.53</cell></row><row><cell>Hemilucilia segmentaria</cell><cell>176</cell><cell>0.10</cell></row><row><cell>Lucilia cuprina</cell><cell>60</cell><cell>0.03</cell></row><row><cell>Cochliomyia hominivorax</cell><cell>14</cell><cell>0.01</cell></row><row><cell>H. semidiaphana</cell><cell>2</cell><cell>0.00</cell></row><row><cell>MUSCIDAE</cell><cell>27.999</cell><cell>16.23</cell></row><row><cell>Atherigona orientalis</cell><cell>18.189</cell><cell>10.56</cell></row><row><cell>Musca domestica</cell><cell>3.073</cell><cell>1.78</cell></row><row><cell>Synthesiomyia nudiseta</cell><cell>2.777</cell><cell>1.61</cell></row><row><cell>Pseudoptilolepis elbida</cell><cell>1.037</cell><cell>0.60</cell></row><row><cell>Ophyra aenescens</cell><cell>914</cell><cell>0.53</cell></row><row><cell>Neomuscina atincticosta</cell><cell>680</cell><cell>0.39</cell></row><row><cell>Parapyrellia maculipennis</cell><cell>562</cell><cell>0.32</cell></row><row><cell>Biopyrellia bipuncta</cell><cell>245</cell><cell>0.14</cell></row><row><cell>Morellia nigricosta</cell><cell>187</cell><cell>0.11</cell></row><row><cell>Ophyra solitaria</cell><cell>153</cell><cell>0.09</cell></row><row><cell>Polietina flavithorax</cell><cell>74</cell><cell>0.04</cell></row><row><cell>Morellia humeralis</cell><cell>65</cell><cell>0.04</cell></row><row><cell>Morellia couriae</cell><cell>16</cell><cell>0.01</cell></row><row><cell>Muscidae sp.1</cell><cell>14</cell><cell>0.01</cell></row><row><cell>Muscidae sp.2</cell><cell>5</cell><cell>0.00</cell></row><row><cell>Polietina orbitalis</cell><cell>5</cell><cell>0.00</cell></row><row><cell>Graphomya analis</cell><cell>2</cell><cell>0.00</cell></row><row><cell>Scutellomusca scutellaris</cell><cell>1</cell><cell>0.00</cell></row><row><cell>MESEMBRINELLIDAE</cell><cell>305</cell><cell>0.18</cell></row><row><cell>Mesembrinella peregrina</cell><cell>305</cell><cell>0.18</cell></row><row><cell>FANNIIDAE</cell><cell>17.759</cell><cell>10.30</cell></row><row><cell>Fannia spp.</cell><cell>17.759</cell><cell>10.30</cell></row><row><cell>SARCOPHAGIDAE</cell><cell>21.083</cell><cell>12.22</cell></row><row><cell>Total</cell><cell>172.480</cell><cell>100.00</cell></row></table><note><p>(%) Percentage.</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>v. 21, n. 4, out.-dez. 2012  </p></note>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Luiz, H.L.; Taira, T.L.; <ref type="bibr">Koller, W.W. Rev. Bras. Parasitol. Vet.</ref> It was registered for the first time in Campo Grande, MS, the occurrence of the Muscidae species: Neomuscina atincticosta, Pseudoptilolepis elbida, Polietina orbitalis, P. flavithorax, Scutellomusca scutellaris, Graphomya analis, and Morellia couriae.</p><p>Concerning the geographical distribution of these species, <ref type="bibr" target="#b1">Carvalho (2002)</ref> registered that N. atincticosta occurs in Brazil, but it is not specified in wich states of the country. P. elbida is referred only to Paraguay (SCHUEHLI; CARVALHO, 2005); P. orbitalis occurs in Peru, Bolivia, Brazil, and Argentina; P. flavithorax in Peru and Brazil; S. scutellaris in Brazil; G. analis in Argentina, Chile, Peru, and Brazil; and, finally, M. couriae is reported only to Brazil.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) coletados em cadáveres humanos no Rio Grande do Norte</title>
+		<author>
+			<persName><forename type="first">Hta</forename><surname>Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Varela-Freira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mja</forename><surname>Batista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Medeiros</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S1519-566X2005000500021</idno>
+		<ptr target="http://dx.doi.org/10.1590/S1519-566X2005000500021" />
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="855" to="856" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Muscidae (Diptera) of the Neotropical Region: taxonomy</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Curitiba</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Chave de identificação das espécies de Calliphoriadae (Diptera) do Sul do Brasil</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Parasitol Vet</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Key to the adults of the most common forensic species of Diptera in South America</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0085-56262008000300012</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0085-56262008000300012" />
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Nichos tróficos em dípteros caliptrados, no Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename></persName>
+		</author>
+		<idno type="DOI">10.1590/S0034-71081998000400004</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0034-71081998000400004" />
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">9987210</biblScope>
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">K</forename><surname>Faegri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Van</forename><surname>Der Pijl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename></persName>
+		</author>
+		<title level="m">The principles of pollination ecology</title>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Pergamon Press</publisher>
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Sinantropia de dípteros muscóides de Curitiba, Paraná. I: Calliphoridae</title>
+		<author>
+			<persName><forename type="first">Mjm</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Vetores de ovos de Dermatobia hominis (L. JR. 1781) (Diptera; Cuterebridae) na região de Cerrados do Mato Grosso do Sul</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev Bras Parasitol Vet</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="40" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Dípteros fanídeos vetores de ovos de Dermatobia hominis em Campo Grande</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Zorzatto</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0100-736X2002000300005</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0100-736X2002000300005" />
+	</analytic>
+	<monogr>
+		<title level="j">Pesq Vet Bras</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="114" to="118" />
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Mato Grosso do Sul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moya</forename><surname>Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hora Vet</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">125</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region; bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Plêiade/FAPESP</publisher>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Dinâmica populacional de Muscidae (Diptera) em mata ciliar remanescente</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Stp</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Acs</forename><surname>Umaki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Inst Biol</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="page" from="636" to="639" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Campo Grande, MS, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Influência de vários fatores abióticos na atratividade de dípteros muscóides em lixo urbano exposto</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol Vect</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="163" to="189" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) associated with human corpses in Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">Rjb</forename><surname>Salviano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rfs</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lcnh</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Entomol Vect</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">5-6</biblScope>
+			<biblScope unit="page" from="145" to="146" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Revision and cladistics of the Neotropical genus Pseudoptilolepis Snyder (Diptera, Muscidae)</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Schuehli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0101-81752005000100004</idno>
+		<ptr target="http://dx.doi.org/10.1590/S0101-81752005000100004" />
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Zool</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="34" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Theoretical approaches to forensic entomology: I. Mathematical model of postfeeding larval dispersal</title>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Zuben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Bassanezi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Reis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Godoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Wac</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Zuben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Appl Entomol</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">1-5</biblScope>
+			<biblScope unit="page" from="379" to="382" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

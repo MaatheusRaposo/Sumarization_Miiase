@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">NOTA DE PESQUISA OCORRÊNCIA DE ECTOPARASITOS EM AVESTRUZES (Struthio camelus) CRIADAS NO SEMI-ÁRIDO BAIANO*</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Maria</forename><surname>Ângela</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">O</forename><surname>Almeida</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Departamento de Patologia e Clínicas , Escola de Medicina Veteriná- ria , Universidade Federal da Bahia (UFBA) , Av. Adhemar de Barros , 500, Ondina , Salvador , BA 40.170-110 , Brasil.</note>
+								<orgName type="department">Departamento de Patologia e Clínicas</orgName>
+								<orgName type="institution">Universidade Federal da Bahia (UFBA)</orgName>
+								<address>
+									<addrLine>Escola de Medicina Veteriná- ria Av. Adhemar de Barros 500, Ondina 40.170-110</addrLine>
+									<region>Salvador BA</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Larissa</forename><surname>De Fátima</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Duarte</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Bolsista de Iniciação Científica/PIBIC / CNPq</note>
+								<orgName type="department">Bolsista de Iniciação Científica/PIBIC</orgName>
+								<address>
+									<country>CNPq</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Juliana</forename><surname>Da</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">S</forename><surname>Rocha</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Bolsista de Iniciação Científica/PIBIC / CNPq</note>
+								<orgName type="department">Bolsista de Iniciação Científica/PIBIC</orgName>
+								<address>
+									<country>CNPq</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mariana</forename><forename type="middle">S A</forename><surname>Silva</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Curso de Pós-Graduação em Ciências Animal nos Trópicos , UFBA , Salvador , BA.</note>
+								<orgName type="department">Curso de Pós-Graduação em Ciências Animal nos Trópicos</orgName>
+								<orgName type="institution">UFBA</orgName>
+								<address>
+									<region>Salvador BA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eugenio</forename><surname>Guimarães</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Departamento de Patologia e Clínicas , Escola de Medicina Veteriná- ria , Universidade Federal da Bahia (UFBA) , Av. Adhemar de Barros , 500, Ondina , Salvador , BA 40.170-110 , Brasil.</note>
+								<orgName type="department">Departamento de Patologia e Clínicas</orgName>
+								<orgName type="institution">Universidade Federal da Bahia (UFBA)</orgName>
+								<address>
+									<addrLine>Escola de Medicina Veteriná- ria Av. Adhemar de Barros 500, Ondina 40.170-110</addrLine>
+									<region>Salvador BA</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><surname>Consuêlo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">C</forename><surname>Ayres</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Departamento de Patologia e Clínicas , Escola de Medicina Veteriná- ria , Universidade Federal da Bahia (UFBA) , Av. Adhemar de Barros , 500, Ondina , Salvador , BA 40.170-110 , Brasil.</note>
+								<orgName type="department">Departamento de Patologia e Clínicas</orgName>
+								<orgName type="institution">Universidade Federal da Bahia (UFBA)</orgName>
+								<address>
+									<addrLine>Escola de Medicina Veteriná- ria Av. Adhemar de Barros 500, Ondina 40.170-110</addrLine>
+									<region>Salvador BA</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">NOTA DE PESQUISA OCORRÊNCIA DE ECTOPARASITOS EM AVESTRUZES (Struthio camelus) CRIADAS NO SEMI-ÁRIDO BAIANO*</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5C8654D926E73B4CE374ECB3CC81A358</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESUMO</head><p>No período de maio a agosto de 2005, foram visitados 19 planteis de avestruzes na região semi-árida do município de Irecê, Bahia, objetivando identificar os ectoparasitos. As aves, predominantemente da raça "African Black", eram criadas em sistema intensivo e distribuídas, por faixa etária, em colônias, trio, casal ou creche. Durante a inspeção das aves, as plumas colhidas aleatoriamente, de várias regiões do corpo, foram acondicionadas em sacos plásticos e as larvas, colhidas das miíases, em álcool etílico a 70%. Em 74% (14/19) e 47% (04/ 19) dos plantéis encontravam-se avestruzes infestadas, respectivamente, pelas espécies Struthiopterolichus bicaudatus e Struthiolipeurus rheae. Somente em um plantel (5,3%) foi encontrado um animal parasitado por larvas de Cochliomyia hominivorax.</p><p>PALAVRAS-CHAVE: Ectoparasito, ácaro, piolho, miíase, avestruz.</p><p>A estrutiocultura é um segmento agropecuário que desperta interesse pela possibilidade de realização de novos investimentos, como a produção de couro e plumas que apresentam alto valor agregado <ref type="bibr" target="#b7">(ROSA, 2005/06)</ref>. O estado da Bahia, por possuir grande parte do seu território no semi-árido, apresenta condições edafoclimaticas adequadas para criação de avestruzes <ref type="bibr">(SANTOS, 2005/06)</ref>.</p><p>A presença de ectoparasitos influencia na qualidade do couro e das plumas das aves, por causar destruição dos folículos e das plumas, e como conseqüência, ocorre prurido, bicagem excessiva, perdas das plumas, estresse e predispõe os animais a infecções secundárias <ref type="bibr">(COOPER, 2005)</ref>. Dife-ABSTRACT:-ALMEIDA, M.A.O.; DUARTE, L. DE F.C.; ROCHA, J. DA S.; SILVA, M.S.A.; GUIMARÃES, J.E.; AYRES, M.C.C. [Occurence of ectoparasites in ostriches (Struthio camelus) reared in semi-arid region of Bahia]. Ocorrência de ectoparasitos em avestruzes (Struthio camelus) criadas no semi-árido baiano. Revista Brasileira de Parasitologia <ref type="bibr">Veterinária, v. 17, n. 3, p.155-157, 2008</ref>. Departamento de Patologia e Clínicas, Escola de Medicina Veterinária, Universidade Federal da Bahia, Av. Adhemar de <ref type="bibr">Barros,</ref><ref type="bibr">500,</ref><ref type="bibr">Ondina,</ref><ref type="bibr">Salvador,</ref> In the period of May to August of 2005, 19 ostrich's farms were visited in the semi-arid area of the Irecê, Bahia, in order to describe the ectoparasites. The African Black ostriches were reared in intensive system, and distributed for age group, in colonies, trio, couple or crèche. In each farm, after visually inspection of the ostrich, the feathers were taken in several areas of the body and were kept in plastic bags. The screwworms found were collected and stored in 70% ethanol. In 74% (14/19) and 47% (04/19) of the flocks were found ostriches infested, respectively, for the Struthiopterolichus bicaudatus (acari) and Struthiolipeurus rheae (mallophaga). In only one flock (5.3%) it was found an animal with Cochliomyia hominivorax larvae. KEY-WORDS: Ectoparasites, mite, lice, myiasis, ostrich.</p><p>rentes espécies de artrópodes infestam as avestruzes, destacando Struthiopterolichus (Pterolichidae) e Struthiolipeurus (Philopteridae), que são transmitidos por contato direto entre os animais, sendo que o impacto econômico destas ectoparasitoses não foi determinado nas criações de avestruzes <ref type="bibr" target="#b4">(PONCE GORDO et al., 2002)</ref>.</p><p>No Brasil, Struthiolipeurus nandu (Eicheler, 1950) foi encontrado em plantéis de avestruzes em Pernambuco <ref type="bibr">(SIL-VA et al., 2004a)</ref>, enquanto a espécie S. struthionis (Gervais, 1844) foi observada no Rio Grande do Sul <ref type="bibr">(RIBEIRO et al., 2004a)</ref> e em São Paulo <ref type="bibr" target="#b13">(VALIM et al., 2005)</ref>. O parasitismo por Struthiolipeurus spp. em avestruzes foi também constatado por Fagundes et al. ( <ref type="formula">2004</ref>), no Rio de Janeiro. Estas espécies de malofágos parasitam também Rhea americana (Linnaeus, 1758) <ref type="bibr">(SILVA et al., 2004b;</ref><ref type="bibr" target="#b12">SINKOC et al., 2005)</ref>.</p><p>Com relação a ácaro Struthiopterolichus bicaudatus (Gervais) infestações em avestruzes foram relatadas no Rio Grande do Sul por <ref type="bibr">Ribeiro et al. (2004b)</ref> e em Minas Gerais por <ref type="bibr" target="#b2">Faccini et al. (2006)</ref>, sendo que estes últimos autores esclarecem sobre a posição taxionômica do ácaro, citado como Gabucinia bicaudata <ref type="bibr" target="#b4">(PONCE GORDO et al., 2002;</ref><ref type="bibr">RIBEI-RO et al., 2004b)</ref>.</p><p>Objetivando a melhoria da qualidade do couro e das plumas e a estruturação da cadeia produtiva da avestruz no Estado da Bahia, realizou-se o levantamento de ectoparasitos em 19 criatórios de avestruzes, no período de maio a agosto de 2005, no município de Irecê, que apresenta uma área de 336,8 km², situado na área central da região fisiográfica da Chapada Diamantina, no Platô Calcário, localizado entre os paralelos 11º 00' e 12º 30' de latitude norte e meridianos 41º 00' e 42º 30'de longitude oeste e altitude de 721m <ref type="bibr">(IBGE, 2004)</ref>. A vegetação é caatinga arbórea aberta sem palmeiras e a época das chuvas estende-se de novembro a março, sendo dezembro o mês mais chuvoso (123,87 mm), evidenciando-se baixos totais anuais (605,65 mm) para o período considerado. A distribuição pluvial é marcada pela irregularidade mensal e anual, principalmente pela posição geográfica da área, na periferia da atuação dos climas com regime de chuvas de primavera-verão, e do avanço das Frentes Frias para o interior, em sintonia com o Sistema Amazônico. A temperatura varia de 17,6 a 28,7 O C (SEI, 2007).</p><p>As áreas das propriedades variaram entre 33 e 300 hectares, e os plantéis eram constituídos de 20 a 1000 avestruzes, predominantemente, da raça "African Black", mantidas em sistema intensivo e distribuídas por faixa etária, em creche, colônia, trio ou casal.</p><p>Em cada plantel, as aves foram inspecionadas para presença de ectoparasitos, sendo colhidas, aleatoriamente, as plumas em várias regiões do corpo, no máximo de cinco animais infestados, de ambos os sexos, adultos e jovens. As plumas foram acondicionadas em sacos plásticos, até o momento da identificação dos ácaros e piolhos. As larvas coletadas das miíases foram acondicionadas em álcool etílico a 70%.</p><p>Os parasitos foram clarificados em lacto-fenol, transferido para o creosoto por 24 horas e montados em lâminas com Bálsamo do Canadá. A identificação das espécies de malógo e ácaro foi realizada de acordo com Ponce <ref type="bibr" target="#b4">Gordo et al. (2002)</ref> e das larvas de mosca segundo <ref type="bibr">Guimarães e Papavero (1999)</ref>.</p><p>As avestruzes da região semi-árida do município de Irecê encontravam-se parasitadas pelas espécies S. bicaudatus e S. rheae <ref type="bibr">(Harrison, 1916)</ref> e, em uma ave, observou-se miíase por Cochliomyia hominivorax <ref type="bibr">(Coquerel, 1858)</ref>.</p><p>Em 74% (14/19) dos planteis os animais estavam infestados por S. bicaudatus. Um número abundante de ovos, larvas, ninfas e adultos de ácaros estavam aderidos à calha das ráquis das plumas mais velhas, especialmente as rêmiges, enquanto as plumas em desenvolvimento albergavam poucos ácaros, como também observado por Ponce Gordo et al. <ref type="bibr">(2002)</ref>. Os principais sinais associados com a presença dos ácaros foram semelhantes aos descritos por <ref type="bibr" target="#b2">Faccini et al. (2006)</ref>, prurido e penas quebradas com a falta de barbas no vexilo.</p><p>Grandes quantidades de ovos de malofágo encontravamse fixados nas barbelas das plumas mais novas, por toda parte do corpo das aves e os estágios adultos eram facilmente recuperados das avestruzes com infestação alta, que apresentavam as plumas sem brilho e com perdas das bárbulas. Em 47% (09/19) dos rebanhos os animais estavam parasitados, observando-se bicagem excessiva, redução à ida ao comedouro e da atividade física.</p><p>O alto grau de parasitismo das avestruzes, nos diferentes criatórios, por S. bicaudatus e de S. rheae foi decorrente da fácil transmissão entre os animais, pela adoção dos manejos intensivo ou semi-intensivo, e principalmente pela incorporação de animais parasitados, sem inspeção e tratamento, ao rebanho <ref type="bibr" target="#b4">(PONCE GORDO et al., 2002)</ref>.</p><p>A infestação por larvas de C. hominivorax foi encontrada em uma ave de um plantel (5,3%), e ocorreu em virtude de ferimentos provocados por bicagem.</p><p>O controle químico é a principal medida adotada nas propriedades para o controle das infestações por artrópodes, no qual 100% dos produtores utilizavam ivermectina, em aves jovens (46%), adultos (18%) e em todas as idades (36%). Apenas 8% dos criadores fazem rodízio de medicamento, geralmente semestral, utilizando piretróides associado ou não aos organofosforados. Como método alternativo, dois produtores (10,5%) pulverizavam os animais com extratos de folhas de Azadirachta indica (Neem) e também incorporam as folhas na alimentação das avestruzes, apesar de não terem avaliado sua eficiência no controle de parasitos.</p><p>A estrutiocultura é uma atividade desenvolvida no Brasil a partir de 1995 (ROSA, 2005/06) e pouco se conhece sobre as doenças de avestruzes, o risco de infecção para outras aves e o impacto econômico destes ectoparasitos em criatórios comerciais. Neste levantamento pode-se constatar o parasitismo das avestruzes por ácaro e malófago, indicando que as barreiras sanitárias, não têm evitado a entrada de avestruzes com infestações por artrópodes, em vários plantéis deste estado e de outras regiões brasileira <ref type="bibr">(SILVA et al., 2004a;</ref><ref type="bibr">RI-BEIRO et al., 2004;</ref><ref type="bibr" target="#b2">FAGUNDES et al., 2004)</ref> e demonstra a</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Rev.Bras. Parasitol. Vet., 17, 3, 155-157 (2008)   (Brazil. J. Vet. Parasitol.)</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. J. Vet. Parasitol.)</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="155" to="157" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Rev. Bras. Parasitol. Vet.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Ocorrência de ectoparasitos em avestruzes (Struthio camelus) criadas no semi-árido baiano capacidade da adaptação dos parasitos de avestruz ao clima semi-árido. REFERÊNCIAS BIBLIOGRAFICAS COOPER, R.G. Bacterial, fungal and parasitic infections in the ostrich (Struthio camelus var. domesticus)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Animal Science Journal</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="97" to="106" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Inquérito preliminar sobre parasitas de avestruzes (Struthio camelus) de um criatório localizado no Estado do Rio de Janeiro. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L H</forename><surname>Faccini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Verocai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">N</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Fagundes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">V C</forename><surname>Bath</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Soleiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Famadas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C A A</forename><surname>Menezes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Arquivos Brasileiro de Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<date type="published" when="2004">2006. 2004</date>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page">368</biblScope>
+		</imprint>
+	</monogr>
+	<note>Occurrence of Struthiopterolichus bicaudatus (Acari; Pterolichidae) in Southeastern Brazil</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Myiases in man and animals in the Neotropical region; bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.ibge.gov.br/english&gt;" />
+	</analytic>
+	<monogr>
+		<title level="m">São Paulo: Plêiade/FAPESP, 1999. 308 p. IBGE -Instituto Brasileiro de Geografia e Estatística</title>
+		<imprint>
+			<date type="published" when="2004">2004. 2007</date>
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+	<note>Disponível em</note>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Parasites from farmed ostriches (Struthio camelus) and rheas (Rhea amaricana) in Europe</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ponce Gordo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Herrera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Garcia Duran</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Martinez Díaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Veterinary Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="137" to="160" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Ocorrência de Struthiolipeurus struthionis (Gervais, 1844) (Phihiraptera: Philopteridae) em Struthio camelus Linnaeus, 1758 (Struthioniformes: Struthionidae) no Rio Grande do Sul, Brasil. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Dalmagro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bianco Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">332</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Ocorrência de Gabucinia bicaudata (Acari, Gabuciniidae) em Struthio camelus (Struthioniformes: Struthionidae) no Rio Grande do Sul, Brasil. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">L</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Peruzzi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Gene-Roso</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">346</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">A implantação do Progestruz em criatórios de todo o Brasil</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Rosa</surname></persName>
+		</author>
+		<idno>ANUÁRIO DA ESTRUTIOCULTURA BRASILEIRA -2005/06</idno>
+		<imprint>
+			<date type="published" when="2005">2005/06</date>
+			<publisher>Associação dos Criadores de Avestruzes do Brasil</publisher>
+			<biblScope unit="page" from="51" to="56" />
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Abcav -Bahia</surname></persName>
+		</author>
+		<title level="m">ANUÁRIO DA ESTRUTIOCULTURA BRASILEIRA -2005/06</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Associação dos Criadores de Avestruzes do Brasil</publisher>
+			<date type="published" when="2005">2005/ 06</date>
+			<biblScope unit="page">125</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Os impactos da seca de 1993 no semi-árido baiano -caso de Irecê</title>
+		<author>
+			<persName><surname>Sei -Superintendência De Estudos Econômicos E Sociais Da Bahia</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.sei.ba.gov.br&gt;" />
+		<imprint>
+			<date type="published" when="2007">2007. 2007</date>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Parasitos de avestruz (Struthio camelus) em Pernambuco. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C N</forename><surname>Botelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D B</forename><surname>Cavalcanti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Santos Júnior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">370</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Malófagos parasitas de aves campestres cativas do zoológico municipal Quinzinho de Barros</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Friccielo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Entomologia y Vectores</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="333" to="339" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Sorocaba, Estado de São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ocorrência de Struthiolipeurus rheae (Phthiraptera: Ischnocera, Philopteridae) em Rhea americana (Rheiformes: Rheidae) no Brasil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Sinkoc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Muller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G W</forename><surname>Brum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Soares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">T</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">P D</forename><surname>Gonçalves</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivos do Instituto Biológico</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="535" to="538" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Malófagos (Phthiraptera) recolhidos de aves silvestres no Zoológico de São Paulo, SP, Brasil. Revista Brasileira de Entomolologia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">.</forename><surname>Valim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H F</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="584" to="587" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

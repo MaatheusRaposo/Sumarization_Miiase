@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">EFEITO DE DIFERENTES ISCAS NA ATRAÇÃO DE CALIFORÍDEOS (DIPTERA) NO CAMPUS DO VALONGUINHO, UNIVERSIDADE FEDERAL FLUMINENSE, NITERÓI, RJ, BRASIL</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">José</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+							<email>dalmeida@vm.uff.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Biologia e Controle de Insetos Vetores , Departamento de Biología , Instituto Oswaldo Cruz/FlOCRUZ , Av. Brasil 4365 , Manguinhos , RJ 21045-900 , Brasil. Laboratório de Biologia e Controle de Insetos Vetores ,</note>
+								<orgName type="department" key="dep1">Laboratório de Biologia e Controle de Insetos Vetores</orgName>
+								<orgName type="department" key="dep2">Departamento de Biología</orgName>
+								<orgName type="laboratory">Laboratório de Biologia e Controle de Insetos Vetores</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz/FlOCRUZ</orgName>
+								<address>
+									<addrLine>Av. Brasil 4365</addrLine>
+									<postCode>21045-900</postCode>
+									<settlement>Manguinhos</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Biología , Instituto Oswaldo Cruz/FlOCRUZ , Av. Brasil 4365, Manguinhos , RJ 21045-900 , Brasil.</note>
+								<orgName type="department">Departamento de Biología</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz/FlOCRUZ</orgName>
+								<address>
+									<addrLine>Av. Brasil 4365, Manguinhos</addrLine>
+									<postCode>21045-900</postCode>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mariana</forename><forename type="middle">B</forename><surname>Fraga</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Biología , Instituto Oswaldo Cruz/FlOCRUZ , Av. Brasil 4365, Manguinhos , RJ 21045-900 , Brasil.</note>
+								<orgName type="department">Departamento de Biología</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz/FlOCRUZ</orgName>
+								<address>
+									<addrLine>Av. Brasil 4365, Manguinhos</addrLine>
+									<postCode>21045-900</postCode>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Departamento de Biologia Geral , Instituto de Biologia , Universidade Federal Fluminense , Outeiro de São João Batista, s/n , Niterói , RJ 24020- 150 , Brasil.</note>
+								<orgName type="department">Departamento de Biologia Geral</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biologia</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal Fluminense</orgName>
+								<orgName type="institution" key="instit3">Outeiro de São João Batista, s/n</orgName>
+								<address>
+									<postCode>24020- 150</postCode>
+									<settlement>Niterói</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">EFEITO DE DIFERENTES ISCAS NA ATRAÇÃO DE CALIFORÍDEOS (DIPTERA) NO CAMPUS DO VALONGUINHO, UNIVERSIDADE FEDERAL FLUMINENSE, NITERÓI, RJ, BRASIL</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">C98A99B442604F5DD32192FCDD4A9B61</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Blowflies</term>
+					<term>baits</term>
+					<term>urban área</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESUMO</head><p>Foi realizado um estudo sobre califorideos no Campus do Valonguinho, Universidade Federal Fluminense. A pesquisa foi efetuada de dezembro de 2003 a novembro de 2004, com coletas feitas com armadilhas utilizando iscas à base de peixe (sardinha), fígado bovino, camarão e banana. Foram coletados 6015 califorideos, Chrysomya megacephala e Lucilia eximia foram as mais freqüentes (50,55% e 21, 52%, respectivamente). A isca mais atrativa foi peixe (38,32%) com picos populacionais em fevereiro e março.</p><p>PALAVRAS-CHAVE: Califorideos, iscas, áreas urbanas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>Os dípteros muscóides, além da importância ecológica, por terem larvas que contribuem para a eliminação de carcaças, fezes e outros tipos de matéria orgânica em decomposição (DAJOZ, 1973), também podem veicular mecanicamente variados patógenos, tais como: enterovírus, enterobactérias, cistos de protozoários e ovos de helmintos <ref type="bibr" target="#b13">(GREENBERG, 1971)</ref>. As moscas são atraídas por uma série de substratos, que vão desde carcaças, fezes e frutas em decomposição, portanto, diferentes tipos de armadilhas e de iscas têm sido desenvolvidos e testados em levantamentos populacionais (</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>(Brazil. J. Vet. Parasitol.) d'Almeida e Braga residencial de São Domingos, Niterói, RJ. Voltado para a Baía de Guanabara, o Campus é formado basicamente pelo morro Outeiro de São João Batista, que apesar de estar bem próximo do centro da cidade, é um verdadeiro "mosaico verde", com árvores frondosas seculares, proporcionando muitas áreas de sombra. Algumas construções foram feitas no Valonguinho, no entanto, ainda encontram-se mamíferos (micos), aves e invertebrados, principalmente insetos, destacando-se até mesmo borboletas do gênero Morpho (Lepidoptera), Para a captura das moscas utilizaram-se armadilhas descritas por <ref type="bibr">Khouri (1995)</ref>, com modificações, onde garrafas plásticas transparentes de refrigerante de 2 litros foram pintadas de preto.</p><p>As armadilhas, em número de duas para cada isca, foran penduradas em árvores, a uma altura de 30 cm do solo e mantendo entre elas uma distância de 3 metros. Como iscas foram utilizados: peixe (sardinha), camarão, fígado bovino e banana; todos esses substratos foram expostos no meio ambiente durante 48 horas, para permitir a decomposição. O levantamento foi conduzido de dezembro de 2003 a novembro de 2004, com 3 coletas por mês, totalizando 36 coletas. As armadilhas eram expostas às 9 horas e retiradas às 16 horas, as moscas coletadas eram eutanasiadas com éter, deixadas secar e identificados apenas os califorídeos, que eram acondicionados em recipientes apropriados para serem processados posteriormente. Os exemplares coletados encontram-se depositados no Laboratorio de Bioecologia e Comportamento Animal do Departamento de Biologia Geral da Universidade Federal Fluminense.</p><p>Para as análises estatísticas, de preferência pelas iscas, os dados foram submetidos ao teste não paramétrico de Kruskall-WaIlis, para testar a hipótese de igualdade entre os grupos, enquanto que, para as comparações múltiplas foi utilizado o teste de Dunn, a nível de 5% de significância. Só foram analisadas estatisticamente as espécies que obtiveram 100 ou mais exemplares.</p><p>Para a análise da constância foi utilizado o Índice de Constância de Bodenheirmer <ref type="bibr" target="#b25">(SILVEIRA-NETO et al., 1976)</ref>, IC = P x 100 / N, onde: P = número de coletas contendo a espécie estudada; N = número total de coletas efetuadas. De acordo com o resultado, têm-se as seguintes categorias: 1) espécies constantes = presentes em mais de 50% das coletas; 2) espécies acessórias = presentes entre 25% e 50% das coletas e 3) espécies acidentais = presentes em menos de 25% das coletas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS E DISCUSSÃO</head><p>Foram coletados 6015 califorídeos, pertencentes a 9 espécies, que estão nominadas a seguir: Chrysomya megacephala (Fabricius, 1794); Lucilia eximia (Wiedemann, 1830); C. albiceps (Wiedemann, 1819); C. putoria (Wiedemann, 1818); Hemilucilia semidiaphana (Rondani, 1850); H. segmentaria (Fabricius, 1805); Cochliomyia macellaria (Fabricius, 1775); L. (Wiedemann, 1830) e C. hominivorax <ref type="bibr">(Cocquerel, 1858)</ref>.</p><p>Peixe foi a isca mais atrativa, com 38,32% dos califorídeos coletados, seguido pelo fígado (35,08%), tendo sido camarão a menos atrativa (26,58%). As moscas não foram atraídas pela banana fermentada. <ref type="bibr">Segundo d'Almeida e Lopes (1983)</ref>, em levantamento realizado no Rio de Janeiro (área rural, urbana e florestal) a banana foi a isca menos eficiente, atraindo apenas 2,12% dos 15293 califorídeos capturados, mesmo assim essa freqüência deveu-se aos mesembrinelíneos, coletados apenas na mata.</p><p>Na Tabela 1 pode-se observar, com exceção de C. putoria, L. eximia e H. segmentaria que não ocorreram diferenças significativas (5%) na atratividade exercida pelas iscas sobre os muscóides.</p><p>Na Figura 1 constata-se que os picos populacionais de califorídeos ocorreram em fevereiro e março (verão) e setembro e outubro (primavera), o que coincide com os meses mais quentes do ano. Mesmo com a precipitação elevada de fevereiro, foram capturados muitos muscóides, o que sugere que as chuvas de verão por serem fortes, mas rápidas, não interferem tanto quanto as de inverno, que são muito prolongadas, não dando tempo do solo secar, inviabilizando as pupas. <ref type="bibr">Vogt e Woodburn (1982)</ref> relataram que os califorídeos possuem os Tabela 1. Influência das diferentes iscas na atratividade das principais espécies de Calliphoridae (Diptera) no período de dezembro de 2003 a novembro de 2004, no Campus do Valonguinho, Universidade Federal Fluminense, Niterói, RJ. Espécies 1 Iscas Peixe Fígado Camarão Total N" % N" % N" % N" Chrysomya megacephala 1256(a) 2 41,31 976(a) 32,10 808(a) 26,57 3040 C. albiceps 361(a) 46,46 180(a) 23,16 236(a) 30,37 777 C. putoria 200(a) 52,21 75(b) 19,58 108(a,c) 28,19 383 Hemilucilia segmentaria 63(a) 34,05 88(a) 47,56 34(a,b) 18,37 185 H. semidiaphana 67(a) 28,38 100(a) 42,37 69(a) 29,23 236 Lucilia eximia 351(a) 27,10 650(a) 50,19 294(a,b) 22,70 1295 1: Espécies com 100 ou mais exemplares; 2: Valores referentes a exemplares atraídos pelas diferentes iscas seguidos por letras em comum não diferem entre si, e os seguidos de letras diferentes, diferem significativamente a nível de 5%, pelo Teste de Dunn.  <ref type="bibr">(2003)</ref>, em área urbana do município do Rio de Janeiro. <ref type="bibr" target="#b18">Linhares (1981)</ref> considerou este califorídeo como o mais freqüente no lixo urbano, implicado como um importante vetor de patógenos. Peixe foi a isca mais atrativa (41,31%), seguida pelo fígado e camarão (Tabela 1). Segundo Linhares (1981) e d <ref type="bibr">'Almeida e Lopes (1983)</ref>, a isca à base de peixe foi a mais atrativa no Rio de Janeiro e Campinas. Na Iha de Paquetá, Rio de Janeiro, C. megacephala foi a espécie mais coletada entre os califorídeos (65,50%) <ref type="bibr">(PAMPLONA el al., 2000)</ref>. No presente trabalho, este muscóide esteve presente em todas as coletas (IC=100%), portanto, considerada como espécie constante.</p><p>Na Tabela 2 observa-se que C. albiceps foi mais abundante em setembro e outubro, meses caracterizados pela temperatura alta e pouca pluviosidade. Representou 12,92% dos califorídeos coletados. <ref type="bibr" target="#b20">Marinho et al. (2003)</ref> constataram baixos percentuais para esta espécie em área urbana do Rio de Janeiro. Segundo d <ref type="bibr">'Almeida e Lopes (1983)</ref>, também no Rio de Janeiro, foi a segunda espécie em abundância. Em Pelotas, Rio Grande do Sul, foi o califorídeo mais freqüente (64,62%) <ref type="bibr" target="#b26">(VIANNA et al., 1998)</ref>.</p><p>Em estudos realizados no Município de Seropédica, Rio de Janeiro, Carraro e Milward-de-Azevedo (1999) destacaram que C. albiceps colonizou massivamente este município que era considerado até então zona rural. No presente trabalho, peixe foi a isca mais atrativa para esta espécie, assim como para C. megacephala e C. putoria (Tabela 1). Segundo <ref type="bibr" target="#b20">Madeira (2001)</ref>, C. albiceps desenvolve-se em carcaças de animais e, opcionalmenle, preda larvas de outras espécies, A predação favorece a emergência de adultos capazes de produzir grande número de ovos, quando comparados com adultos oriundos de larvas desenvolvidas em culturas puras <ref type="bibr">(ULYETT, 1950)</ref>. Os baixos percentuais assinalados no presente trabalho, para C. macellaria (1,43%) e L. cuprina (0,20%), espécies, outrora encontradas em abundância nas áreas urbana e rural do Rio de Janeiro (LOPES, 1973) podem estar associados à competição com as moscas do gênero Chrysomya. Em laboratório, larvas de C. albiceps predam preferencialmente larvas de C. macellaria <ref type="bibr" target="#b10">(FARIA et al., 1999)</ref>. No Peru, C. macellaria foi a espécie de mosca varejeira mais abundante em um estudo conduzido em 1980, oito meses depois, decresceu de 89% para 0,2%, possivelmente deslocada por C. albiceps e C. putoria <ref type="bibr">(BAÜMGARTNER;</ref><ref type="bibr">GREENBERG, 1984)</ref>. No Valonguinho, C. albiceps esteve presente em 83,3% das coletas, o que a caracteriza como espécie constante. Tabela 2. Freqüência absoluta e relativa de califorídeos (Diptera) capturados no período de dezembro de 2003 a novembro de 2004 no Campus do Valonguinho, UFF, Niterói, RJ. Meses Espécies Chrysomya C. albiceps C. putoria Lucilia L. cuprina Hemilucilia H. semi-Cochliomyia megacephala eximia segmentaria diaphana macellaria N o % N a % N fi % N o % N o % N a % N fi % N o % Dez/2003 96 3,15 36 4,63 33 8,61 0 0,00 0 0,00 0 0,00 0 0,00 0 0,00 Jan/2004 337 11,08 26 3,34 19 4,96 92 7,10 0 0,00 26 14,05 23 9,74 7 8,13 Fevereiro 427 14,04 49 6,30 0 0,00 195 15,05 0 0,00 15 8,10 71 30,08 0 0,00 Março 543 17,86 95 12,22 0 0,00 164 12,66 0 0,00 24 12,97 24 10,16 15 17,44 Abril 336 11,05 12 1,54 24 6,26 143 11,04 12 100,0 39 21,08 15 6,35 0 0,00 Maio 211 6,94 51 6,56 12 3,13 139 10,73 0 0,00 35 18,91 0 0,00 0 0,00 Junho 97 3,19 46 5,92 0 0,00 61 4,71 0 0,00 23 12,43 10 4,23 0 0,00 Julho 227 7,46 61 7,85 68 17,75 54 4,16 0 0,00 12 6,48 10 4,23 0 0,00 Agosto 88 2,89 22 2,83 15 3,91 61 4,71 0 0,00 11 5,94 11 4,66 0 0,00 Setembro 353 11,61 182 23,42 121 31,59 120 9,26 0 0,00 0 0,00 57 24,15 48 55,81 Outubro 200 6,57 138 17,76 67 17,49 185 14,28 0 0,00 0 0,00 0 0.00 0 0,00 Nov./2004 125 4.11 59 7 59 24 6.26 81 6,25 0 0,00 0 0,00 15 635 16 18,60 Total 3040 100,0 777 100,0 383 100,0 1295 100,0 12 100,0 185 100,0 236 100,0 86 100,0 d'Almeida e Braga</p><p>Dentre as espécies do gênero Chrysomya, C. putoria foi a menos freqüente (6,37%). Resultados semelhantes foram observados no Rio de Janeiro <ref type="bibr" target="#b22">(d'ALMEIDA;</ref><ref type="bibr" target="#b7">LOPES, 1983;</ref><ref type="bibr">CARRARO;</ref><ref type="bibr">MILWARD-DE-AZEVEDO, 1999;</ref><ref type="bibr" target="#b20">MARINHO et al., 2003)</ref>. Entretanto, em Campinas, C. putoria representou 87,48% do total de Calliphoridae <ref type="bibr">(L1NHARES, 1981)</ref>. <ref type="bibr" target="#b14">Guimarães (1984)</ref> relatou a sua ocorrência, em altas taxas, em aviários de São Paulo. Segundo este mesmo autor, entre as espécies de Chrysomya, C. putoria é a que se apresenta mais difundida pelo Brasil <ref type="bibr" target="#b15">(GUIMARÃES et al., 1978)</ref>. Foi freqüente em área urbana de Pelotas, no Rio Grande do Sul <ref type="bibr" target="#b26">(VIANNA et al., 1998)</ref>. Analisando alguns levantamentos populacionais efetuados, pode-se observar que logo após a introdução do gênero Chrysomya, C. putoria se difundiu mais para o interior e C. megacephala para a área costeira. Atualmente, C. megacephala continua sendo a mais abundante no litoral, enquanto que, no interior, C. albiceps é a mais freqüente. Tal qual C. albiceps, C. putoria foi mais abundante em setembro e outubro (Tabela 2) e a isca à base de peixe a mais atrativa (Tabela 1), estes resultados corroboram os encontrados por d <ref type="bibr">'Almeida e Lopes (1983)</ref>. No presente trabalho, esta espécie ocorreu em 44,40% das coletas, podendo ser considerada espécie acessória.</p><p>No Campus do Valonguinho, L. eximia foi a segunda espécie em abundância (21,53%) (Tabela 2) e esteve presente em 86,1% das capturas, o que a caracteriza como espécie constante. Resultados semelhantes foram observados por <ref type="bibr" target="#b20">Marinho et al. (2003)</ref> no Rio de Janeiro e Ferreira e Barbola (1998) em Curitiba, respectivamente. Esta espécie foi mais freqüente nos meses mais quentes (Tabela 2). No Rio de Janeiro, d <ref type="bibr">'Almeida e Lopes (1983</ref><ref type="bibr">) e Marinho et al. (2003)</ref> constataram que o pico populacional de L. eximia se deu no outono e verão, respectivamente. A isca mais atrativa para este califorídeo foi o fígado (Tabela I), resultados semelhantes foram obtidos por d <ref type="bibr">'Almeida e Lopes (1983)</ref>, no Rio de Janeiro e por <ref type="bibr">Ferreira (1978)</ref>, em Curitiba, divergindo das observações de <ref type="bibr" target="#b18">Linhares (1981)</ref> em Campinas, onde constatou que L. eximia é mais atraída por carcaça de camundongo. d <ref type="bibr" target="#b6">'Almeida (1989)</ref> em trabalho efetuado no Jardim Zoológico do Rio de Janeiro, observou que as carcaças de camundongo eram muito procuradas por este califorídeo para a postura e desenvolvimento larval, As espécies do gênero Hemilucilia, aqui representadas pela H. segmentaria e H. semidiaphana foram pouco freqüentes (3,07% e 3,92%, respectivamente), d <ref type="bibr">'Almeida e Lopes (1983)</ref> também fizeram observações semelhantes. <ref type="bibr">Segundo d'Almeida e Lopes (1983)</ref>, H. segmentaria e H. semidiaphana demonstraram preferência por áreas desabitadas e aversão por áreas habitadas pelo homem, respectivamente. Em Pelotas, Rio Grande do Sul, H. semidiaphana não apresentou diferenças significativas no número de exemplares, quando comparadas às áreas urbana, rural e florestal <ref type="bibr" target="#b26">(VIANNA et al., 1998)</ref>. No entanto, <ref type="bibr" target="#b18">Linhares (1981)</ref> e <ref type="bibr" target="#b11">Ferreira (1983)</ref> classificaram este muscóide como uma espécie assinantrópica. Pensa-se que a ocorrência de espécies silvestres em áreas urbanizadas possa estar associada aos desflorestamentos em matas próximas, levando-as a tentarem se colonizar nesses novos ambientes, o que vem ocorrendo constantemente em Niterói, RJ. Com relação à constância, H. segmentaria (IC= 36,1%) e H. semidiaphana (IC= 38,9%) foram consideradas espécies acessórias. Neste trabalho, a isca à base de fígado foi a mais atrativa (Tabela 1), o que corrobora os resultados encontrados por d <ref type="bibr">'Almeida e Lopes (1983)</ref>.</p><p>Foi capturado apenas um exemplar de Cochlomyia hominivorax, em isca à base de camarão, o que pode-se considerar uma coleta casual. Esta espécie, cujas larvas desenvolvem-se em tecidos vivos causando miíases primárias, pode ser atraída pelo odor de fígado bovino deteriorado <ref type="bibr">(COPPEDGE et al., 1977)</ref> O peixe (sardinha) tem sido a isca mais utilizada em trabalhos de levantamentos populacionais de muscóides <ref type="bibr">(FERRE1RA, 1978;</ref><ref type="bibr" target="#b18">LINHARES, 1981;</ref><ref type="bibr" target="#b22">d'ALMEIDA;</ref><ref type="bibr" target="#b7">LOPES, 1983;</ref><ref type="bibr">CARRARO;</ref><ref type="bibr">MILWARD-DE-AZEVEDO, 1999</ref><ref type="bibr">, MAR1NHO et al., 2003: dentre outros)</ref>, mesmo na mata <ref type="bibr" target="#b19">(LOPES, 1973;</ref><ref type="bibr" target="#b22">d'ALMEIDA;</ref><ref type="bibr" target="#b7">LOPES, 1983)</ref> o que causa certa estranheza, já que a sardinha não é encontrada no interior de florestas. A atração exercida pelo fígado varia muito, de acordo com o grau de decomposição, podendo-se até mesmo destacar diferenças marcantes nos odores exalados <ref type="bibr">(COPPEDGE, 1977)</ref>. Como foi observado, a isca à base de camarão foi a menos atrativa (Tabela 1), no entanto, é um ótimo substrato para o desenvolvimento larval, tanto em condições naturais <ref type="bibr">(d'ALMEIDA, 1986</ref><ref type="bibr">(d'ALMEIDA, e 1993))</ref>, quanto em laboratório <ref type="bibr" target="#b22">(d'ALMEIDA;</ref><ref type="bibr">MELLO, 1995)</ref>.</p><p>A fragmentação de mata é conseqüência das atividades humanas e as áreas de vegetação natural que restaram encontram-se geralmente próximas de áreas com perturbação antrópica, sujeitas à tensão excessiva de agentes externos como fogo, inseticidas, espécies invasoras etc <ref type="bibr" target="#b16">(JANZEN, 1983)</ref>. O Campus do Valonguinho não pode ser considerado um fragmento florestal, apenas um "mosaico verde" inserido em uma área urbana, permitindo a ocorrência de diferentes espécies de aves, sagüis e artrópodos, principalmente insetos.</p><p>No presente trabalho, apesar de terem sido capturados alguns califorideos usualmente encontrados em matas, a abundância de moscas sinantrópicas, especialmente C. megacephala, indica forte impacto ambiental.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REFERÊNCIAS BIBLIOGRÁFICAS</head><p>BAUMGARTNER, D.L.; GREENBERG, B. Dístributíon and medical ecology of the blowflies (Díptera: Calliphoridae) of Peru. Annals of Entomologycal Society of <ref type="bibr">America, v. 78, p. 565-587, 1985</ref>. CARRARO, V.M.; M1LWARD-DE-AZEVEDO, E.M.V.</p><p>Quantitative description of calliphorid dipterans captured</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>seus picos populacionais nos períodos mais quentes, sendo a temperatura o fator que mais interfere na coleta destes insetos. Resultados semelhantes foram observados por d'Almeida  e Lopes (1983);<ref type="bibr" target="#b21">Oliveira (1985)</ref>; Valgode e Aguiar-Coelho(1988).O califorídeo C. megacephala, espécie considerada estrategista r (sensu PIANKA, 1970), representou 50,55% das moscas coletadas e foi mais freqüente em março e fevereiro (Tabela 2), meses mais quentes do ano, enquanto que, em agosto, um dos meses mais frios foi pouco freqüente. Resultados semelhantes foram observados por Marinho et al.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figura 1 .</head><label>1</label><figDesc>Figura 1. Flutuação populacional de califorídeos (Diptera) no período de dezembro de 2003 a novembro de 2004, no Campus do Valonguinho, Universidade Federal Fluminense, Niterói, RJ.</figDesc><graphic coords="3,48.18,81.02,243.73,139.13" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Rev.Bras. Parasitol. Vet., 16, 4, 199-204 (2007)   (Brazil. J. Vet. Parasitol.)Efeito de diferentes iscas na atração de califorídeos no campus do Valonguinho, Universidade Federal Fluminense</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Rev. Bras. Parasitol. Vet., 16, 4, 199-204 (2007)   (Brazil. J. Vet. Parasitol.)</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. J. Vet. Parasitol.)</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="199" to="204" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+	<note>Rev. Bras. Parasitol. Vet.</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Universidade Federal Fluminense on Campus of the Federal Rural University of Rio de Janeiro using sardine bait</title>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoociências</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="77" to="89" />
+			<date type="published" when="1999">1999</date>
+			<publisher>Efeito de diferentes iscas na atração de califorídeos no campus do Valonguinho</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Coppedge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Field comparisons of the liver and a new chemical mixture as attractants for the screwworm fly</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Ahrens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Goodenough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Entomology</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="66" to="68" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">Ecologia</forename><surname>Dajoz</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Geral</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<biblScope unit="page">472</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Vozes/Universidade de São Paulo</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Substratos</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1986">1986</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="13" to="22" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Substratos utilizados para a criação de dípteros caliptrados no Jardim Zoológico do Rio de Janeiro. Memórias do Instituto Cruz</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Memórias do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="215" to="220" />
+			<date type="published" when="1989">1989. 1993</date>
+		</imprint>
+	</monogr>
+	<note>Capture of calyptrate flies with different breeding substrates on beaches in Rio de Janeiro</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ro</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Eficiência de variadas dietas na criação de Chrysomya megacephala</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1794">Fabricius, 1794</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diptera: Calliphoridae), sob condições de laboratório</title>
+		<author>
+			<persName><surname>Chrysomya Putoria (wiedemann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Entomología y Vectores</title>
+		<imprint>
+			<date type="published" when="1818">1818. 1995</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="95" to="106" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The larval predation by Chrysomya albiceps on Cochliomyia macellaria, Chrysomya megacephala and Chrysomya putoria</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B L</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L;</forename><surname>Orsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Trinca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dipteros Muscóides de Curitiba, Paraná. I. Calliphoridae. Revista Brasileira de Biologia</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Sinantropia De</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1978">1999. 1978</date>
+		</imprint>
+	</monogr>
+	<note>Entomologia Experimentalis et Applicata</note>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Sinantropia de Calliphoridae (Diptera) em Goiânia</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="199" to="210" />
+			<date type="published" when="1983">1983</date>
+			<pubPlace>Goiás</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Sinantropia de califorídeos (Insecta, Diptera) de Curitiba</title>
+		<author>
+			<persName><forename type="first">Mjm</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">F</forename><surname>Barbola</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="203" to="209" />
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Paraná, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Flies and Diseases</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>Princeton University Press</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">856</biblScope>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">Considerações gerais sobre moscas do gênero Chrysomya no Brasil. Agroquímica, Ciba Geigy</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984">1984</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="7" to="14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Three newly introduced blowflie species in southern Brazil (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="53" to="60" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">No park is an island: increase in interference from outside as park size decreases</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Janzen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oikos</title>
+		<editor>
+			<persName><forename type="first">A</forename><surname>Khouri</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Notas</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="402" to="410" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Valle</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="55" to="59" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) ín the city of Campinas</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="189" to="215" />
+			<date type="published" when="1981">1981</date>
+			<pubPlace>São Paulo, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Collecting and rearing Sarcophagidae flies (Diptera) in Brazil, during forty years. Anais da Academia Brasileira de Ciências</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="279" to="291" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Would Chrysomya albiceps (Diptera: Calliphoridae) be a beneficial species</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C G</forename><surname>Azevedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo Brasileiro de Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="185" to="199" />
+			<date type="published" when="2001">2001. 2003</date>
+			<publisher>Rio de Janeiro. Entomología y Vectores</publisher>
+		</imprint>
+	</monogr>
+	<note>Diversidade de Califorideos (Díptera: Calliphoridae) em área urbana</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Chrysomya albiceps, novo agente de miíase cutânea secundária de ovinos no Brasil. Pesquisa Agropecuária Brasileira</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="497" to="498" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Capture of Adults Cochliomyia hominivorax (Diptera: Calliphridae) and Occurence of Myiases in Wild Animals of the Rio de Janeiro Zoo. Revista Brasileira de Medicina Veterinária</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">P</forename><surname>Fedullo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Almelda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Brazilian Journal of Biology</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="196" />
+			<date type="published" when="1998">1998. 2002</date>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Population Dynamics of Calyptrate Díptera (Muscidae and Sarcophagidae) at the Rio-Zoo Foundation RJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">A Survey of Díptera on Paquetá Island, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Pamplona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Maia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J E</forename><surname>Lamas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C C</forename><surname>Aires</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian Entomologist&apos;s Monthly Magazine</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<biblScope unit="page" from="169" to="176" />
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Oxfordshire</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">On r and k selection</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pianka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="592" to="597" />
+			<date type="published" when="1970">1970</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">ULLYETT, G.C. Competition for food and allied phenomena in sheep-blowfly populations</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Silveira-Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Nakano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">;</forename><surname>Barbin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Vila Nova</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Manual de ecologia dos insetos</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editora Agronômica Ceres</publisher>
+			<date type="published" when="1950">1976. 1950</date>
+			<biblScope unit="volume">234</biblScope>
+			<biblScope unit="page" from="77" to="174" />
+		</imprint>
+	</monogr>
+	<note>1 ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae (Diptera) in Pelotas</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Valgode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M A</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Levan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E S</forename><surname>Vianna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Brum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. J. Vet. Parasitol.)</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="141" to="147" />
+			<date type="published" when="1988">2007. 1988. 1998</date>
+		</imprint>
+		<respStmt>
+			<orgName>Rio Grande do Sul State, Brazil. Revista Brasileira de Parasitologia Veterinaria</orgName>
+		</respStmt>
+	</monogr>
+	<note>Rev. Bras. Parasitol. Vet.</note>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Dispersal of post-feeding larvae of Lucilia cuprina (Wiedemann) (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Vogt</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Woodburn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Australian Entomological Society</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="289" to="291" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

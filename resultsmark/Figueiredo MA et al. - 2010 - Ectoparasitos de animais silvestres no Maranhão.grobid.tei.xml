@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ectoparasitos de animais silvestres no Maranhão 1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Mayra</forename><forename type="middle">A P</forename><surname>Figueiredo</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Bolsista PIBIC/CNPq , Universidade Estadual do Maranhão (UEMA) , Cidade Universitária Paulo VI , Caixa Postal 09 ,</note>
+								<orgName type="institution" key="instit1">Bolsista PIBIC/CNPq</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual do Maranhão (UEMA)</orgName>
+								<address>
+									<addrLine>Cidade Universitária Paulo VI Caixa Postal 09</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><surname>Clara</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">G</forename><surname>Santos</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>3</label> Departamento de Patologia , Curso de Medicina Veterinária , UEMA, São Luis , MA.</note>
+								<orgName type="department">Departamento de Patologia</orgName>
+								<orgName type="institution" key="instit1">Curso de Medicina Veterinária</orgName>
+								<orgName type="institution" key="instit2">UEMA, São Luis</orgName>
+								<address>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rita</forename><surname>De</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><forename type="middle">S N C</forename><surname>Guerra</surname></persName>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>3</label> Departamento de Patologia , Curso de Medicina Veterinária , UEMA, São Luis , MA.</note>
+								<orgName type="department">Departamento de Patologia</orgName>
+								<orgName type="institution" key="instit1">Curso de Medicina Veterinária</orgName>
+								<orgName type="institution" key="instit2">UEMA, São Luis</orgName>
+								<address>
+									<region>MA</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">RESUMO.-Objetivou-se identificar os ectoparasitos de animais silvestres recepcionados pelo Centro de Triagem de Animais Silvestres , São Luís , Maranhão.</note>
+								<orgName type="department">Centro de Triagem de Animais Silvestres</orgName>
+								<orgName type="laboratory">RESUMO.-Objetivou-se identificar os ectoparasitos de animais silvestres recepcionados pelo</orgName>
+								<address>
+									<settlement>São Luís</settlement>
+									<region>Maranhão</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Patologia , Curso de Medicina Veterinária , Universidade Estadual do Maranhão , Cidade Universitária Paulo VI , Tirirical , São Luis , MA 65055-970 , Brazil. Recebido em 19 de março de 2010 . Aceito para publicação em 20 de setembro de 2010 .</note>
+								<orgName type="department">Departamento de Patologia</orgName>
+								<orgName type="institution" key="instit1">Curso de Medicina Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual do Maranhão</orgName>
+								<orgName type="institution" key="instit3">Cidade Universitária Paulo VI</orgName>
+								<address>
+									<postCode>65055-970 2010</postCode>
+									<settlement>Tirirical</settlement>
+									<region>São Luis MA</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Bairro Tirirical, São Luis , MA 65055-970 , Brasil.</note>
+								<orgName type="institution">Bairro Tirirical, São Luis</orgName>
+								<address>
+									<postCode>65055-970</postCode>
+									<region>MA</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ectoparasitos de animais silvestres no Maranhão 1</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">223E8DC388A7C05FE617621AFAC8E850</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Wild animals</term>
+					<term>ectoparasites</term>
+					<term>Maranhão</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Os ectopararasitos identificados foram: piolhos Acidoproctus sp., Trinoton sp., Ciconiphilus sp, Austromenopon sp., Quadraceps sp., Saemundssonia sp. e Trichodectes canis; carrapato Amblyomma rotundatum e Rhipicephalus sanguineus; pulgas Ctenocephalides felis e larvas de Cochliomyia hominivorax. Os resultados apresentados documentam a infestação de mamíferos, répteis e aves silvestres por ectoparasitos. TERMOS DE INDEXAÇÃO: Animais silvestres, ectoparasitos, Maranhão.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>O Brasil é um dos seis países com maior diversidade biológica do mundo, com estimativas de dois milhões de espécies e aproximadamente duzentas mil catalogadas <ref type="bibr" target="#b13">(Lewinsohn &amp; Prado 2002)</ref>. Gerenciar este patrimônio biológico requer o estabelecimento de estratégias, planos e programas que assegurem a utilização sustentável dos recursos naturais <ref type="bibr" target="#b6">(Dias 2001)</ref>.</p><p>Diante dessa conjuntura tem se intensificado as pesquisas sobre a fauna silvestre no Brasil, para tentar amenizar o desequilíbrio ecológico causado pela retirada histórica desses animais do hábitat natural. Os Centros de Triagens, os zoológicos e os criadouros são locais importantes para as pesquisas sobre animais silvestres em situação de cativeiro, principalmente a pesquisa clínica e laboratorial. Possibilitam conhecer as condições que podem tornar parasitos naturais em patogênicos, quando os animais estão sob o estresse do cativeiro <ref type="bibr" target="#b2">(Arrojo 2002)</ref>, evitando o óbito dos animais por doenças com agente e tratamento conhecidos <ref type="bibr" target="#b4">(Catão-Dias 2003)</ref>.</p><p>Dessa forma, o estudo das doenças parasitárias e da interação parasito-hospedeiro de animais silvestres cativos e de vida livre é uma ferramenta importante para auxiliar nos programas de conservação e preservação, prevenindo impactos negativos sobre a biodiversidade e a saúde pública <ref type="bibr" target="#b4">(Catão-Dias 2003)</ref>. A relevância da pesquisa da fauna parasitária é reconhecida e exigida em protocolos de reintrodução <ref type="bibr" target="#b23">(UICN 1998</ref><ref type="bibr" target="#b8">, FELASA 1999)</ref> e na rotina clínica de animais silvestres.</p><p>O objetivo desse trabalho foi identificar os ectoparasitos dos animais silvestres recepcionados pelo Centro de Triagem de Animais Silvestres (CETAS) do Instituto Brasileiro de Meio Ambiente e Recursos Naturais Renováveis (IBAMA) de São Luís, Maranhão.</p><p>Bombeiros e da população. Por existir apenas esse centro no estado, atualmente exercer a função de centro de manejo e de triagem dos animais silvestres. As coletas de amostras ocorreram quando da admissão dos animais no CETAS. Os animais foram inspecionados no período de agosto de 2006 a julho de 2008 para pesquisa de ectoparasitos.</p><p>Para a coleta dos ectoparasitos, os animais eram inspecionados manualmente e visualmente e os espécimes coletados acondicionados em frascos com álcool a 70°GL e encaminhados ao Laboratório de Parasitologia Veterinária do Curso de Medicina Veterinária da Universidade Estadual do Maranhão para triagem, processamento e identificação. Em casos suspeitos de sarna e de otite parasitária realizaram-se raspados de pele e swabs de ouvido, respectivamente, para pesquisa de ácaros. A identificação dos artrópodes foi realizada com chaves propostas por <ref type="bibr" target="#b0">Aragão &amp; Fonseca (1961)</ref>, <ref type="bibr" target="#b9">Furman &amp; Catts (1970)</ref>, <ref type="bibr" target="#b14">Linard &amp; Guimarães (2000)</ref> e <ref type="bibr" target="#b18">Price et al. (2003)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS E DISCUSSÃO</head><p>Os resultados encontram-se sumarizados no Quadro 1.</p><p>Detectou-se parasitismo por piolhos da espécie Trichodectes canis em raposinha (Cerdocyon thous) e em quati (Nasua nasua). Resultados semelhantes aos obtidos por <ref type="bibr" target="#b7">Dominguez (2003)</ref> na Espanha que identificou em canídeos silvestres de vida livre esta espécie de piolho.</p><p>As pulgas da espécie Ctenocephalides felis foram identificada em quati. No Brasil este pulicídeo já foi registrado em quatis por <ref type="bibr" target="#b14">Linard &amp; Guimarães (2000)</ref> e <ref type="bibr" target="#b19">Rodrigues et al. (2006)</ref>, estes últimos autores assinalam também o parasitismo por Rhopalopsyllus lutzi lutzi, comentam ainda que os quatis podem manter espécies de ectoparasitos e intercambiá-los entre os ambientes rural e urbano, considerando que sua amostragem foi proveniente de um fragmento de mata na área urbana.</p><p>Em furão (Galictis cuja) identificaram-se adultos Rhipicephalus sanguineus e em tamanduá-mirim (Tamandua tetradactyla) larvas Amblyomma sp.</p><p>Labruna et al. (2002) relataram o encontro de Amblyomma cajennense em nove hospedeiros, Mymercophaga tridactyla, Tamandua tetradactyla, Puma concolor, Cerdocyon thous, Tayassu tajacu, Mazana gouazoubira, Hydrochaeris hydrochaeris, Alouatta caraya e Cebus apella. Torres-Mejia &amp; Fuente (2006) também identificaram Amblyomma sp. em T. tetradactyla na Colômbia, confirmando a polixevia deste gênero. Larvas de terceiro estádio do díptero Cochliomyia hominivorax foram identificadas em lesão cutânea de furão. Este achado comprova que os animais silvestres também estão expostos as miíases. As aves são freqüentemente parasitadas por piolhos. Fato que pode ser observado no presente estudo onde se constatou em trinta-réis-real (Thalasseus maximus) o parasitismo por Austromenopon sp., Quadraceps sp. e Saemundssonia sp. Resultados semelhantes foram obtidos por González-Acuña et al. (2006), no Chile, ao identificarem espécies dos gêneros Quadraceps e Saemundssonia em aves da ordem Charadriiformes, família Laridae, mesma classe taxonômica de T. maximus. Espécies dos gêneros Austromenopon e Quadraceps são comumente registradas parasitando membros da família Laridae (González-Acuña et al. 2006). Em irerê (Dendrocygna viduata) e marreca cabocla (Dendrocygna autumnalis) verificou-se o parasitismo por piolhos do gênero Acidoproctus Segundo Arnold (2006) o gênero Acidoproctus é freqüentemente encontrado em aves da ordem Anseriformes (famílias Anatidae e Anseranatidae), embora Brum et al. (2005) não tenham registrado este gênero nas aves anseriformes da família Anatidae (Netta peposaca e Cygnus melancoryphus) amostradas no Rio Grande do Sul, posteriormente a espécie Acidoproctus fuligulae foi assinalada neste estado por Paulsen &amp; Brum (2007), indicando de estudos desta natureza devem ser contínuos objetivando verificar as associações parasitárias. Valim et al. (2005) registram por primeira vez no Brasil parasitismo em Dendrocygna bicolor por Acidoproctus rostratus. Em socozinho (Butorides striatus) identificou-se o gênero Ciconiphilus, este gênero contem espécies de piolhos cuja distribuição está limitada a determinados hospe-Quadro 1. Espécies de hospedeiros examinados, números de animais amostrados, ectoparasitos identificados em animais silvestres no período de agosto/2006 a julho/2008 no Centro de triagem de Animais Silvestres (Cetas) Maranhão, Brasil Espécie de Nº de animais Nº de animais Ectoparasito hospedeiro amostrados positivos para identificado examinado ectoparasitos Boa constrictor 07 06 Amblyomma rotundatum Iguana iguana 01 01 Amblyomma rotundatum Cerdocyon thous 03 02 Trichodectes canis Nasua nasua 08 08 Trichodectes canis Nasua nasua 08 04 Ctenocephalides felis Galactis cuja 02 02 Rhipicephalus sanguineus Galactis cuja 02 01 Cochliomyia hominivorax Tamandua 01 01 Amblyomma sp. tetradactyla Thalasseus 03 03 Austromenopon maximus Thalasseus 03 Quadraceps maximus Thalasseus 03 Saemundssonia maximus Dendrocygna 24 24 Acidoproctus viduata Dendrocygna 10 10 Acidoproctus autumnalis Butorides striatus 02 02 Ciconiphiluis</p><p>Jibóias (Boa constrictor) e iguanas (Iguana iguana) estavam infestadas por carrapatos adultos da espécie Amblyomma rotundatum, ectoparasito já identificado em outros répteis no Maranhão <ref type="bibr" target="#b11">(Guerra et al. 2000)</ref>. A literatura cita diversos hospedeiros heterotérmicos para esse carrapato <ref type="bibr" target="#b21">(Teixeira et al. 2003</ref><ref type="bibr" target="#b5">, Dantas-Torres et al. 2005)</ref>. deiros das ordens Ciciniformes e Anseriorformes. <ref type="bibr" target="#b20">Silva et al.(2009)</ref> registraram o encontro de Ciconiphilus pectiniventris em Cygnus atratus (Anseriformes, Anatidae) e <ref type="bibr" target="#b17">Price &amp; Graham (1997)</ref> relatam que várias espécies de aves das ordens Ciconiformes e Anseriformes são hospedeiros desta espécie de piolho.O gênero Trinoton foi identificado em sabiá-laranjeira (Turdus rufiventris) e irerê, e o díptero Hippoboscidae Pseudolynchia sp. em socozinho.</p><p>Segundo <ref type="bibr" target="#b24">Valim et al. (2005)</ref>, a análise de malófagos provenientes de aves apreendidas ou cativas poderá fornecer subsídios que permitam compreender a fauna de piolhos no Brasil, especialmente considerando-se a dificuldade de amostrar animais de vida livre.</p><p>A pesquisa de microscopia de pele e os swabs de ouvidos foram negativos para todos os felinos amostrados, assim como para os macacos-pregos, sagüis dos tufos brancos e raposinhas.</p><p>Estudos desta natureza contribuem para o conhecimento da fauna parasitária de animais silvestres ao tempo em que permitem estabelecer novas áreas de ocorrência e distribuição geográfica de ectoparasitos, especialmente em locais pouco estudados como o estado do Maranhão. De igual forma oportunizam conhecer os potenciais vetores de zoonoses.</p></div>		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Aragão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Fonseca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Notas de Ixodologia. VII. Lista e chave para os representantes da fauna ixodológica brasileira</title>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="115" to="149" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Review of the genus Acidoproctus (Phthiraptera: Ischnocera: Philopteridae), with description of the new species</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Arnold</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Kansas Entomol. Soc</title>
+		<imprint>
+			<biblScope unit="volume">79</biblScope>
+			<biblScope unit="page" from="272" to="282" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Parásitos de animales silvestres en cativerio en Lima</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Arrojo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Perú. Revta Peru. Biol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="118" to="120" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Parasitos de animais silvestres no Rio Grande do Sul: I-piolhos de alguns anseriformes</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B W</forename><surname>Brum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Coimbra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Albano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M M</forename><surname>Paulsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arqs Inst. Biológico</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="261" to="262" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Doenças e seus impactos sobre a biodiversidade</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Catão-Dias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ciência e Cultura</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="32" to="34" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">First record of Amblyomma rotundatum Koch, 1844 (Acari: Ixodidae) parasitizing Crotalus durissus cascavella (Wagler, 1824) (Squamata: Viperidae) in the state of Pernambuco</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Dantas-Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Oliveira-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">O F</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">B</forename><surname>Sá</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Arqs Inst. Biológico</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="389" to="390" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Demandas governamentais para o monitoramento da diversidade biológica brasileira</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dias</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Conservação da Biodiversidade em Ecossistemas Tropicais: avanços conceituais e revisão de novas metodologias de avaliação e monitoramento</title>
+		<editor>
+			<persName><forename type="first">I</forename><surname>Garay</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><surname>Dias</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rio de Janeiro</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page" from="17" to="28" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dominguez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ectoparásitos de los mamíferos silvestres Del Norte de Burgos (España)</title>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="47" to="60" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Health monitoring of non-human primate colonies</title>
+		<author>
+			<persName><surname>Felasa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Laboratory Animals</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1" to="S16" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Suppl.1</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Manual of Medical Entomology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Furman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Catts</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970">1970</date>
+			<publisher>Mayfiled Publishing Company</publisher>
+			<biblScope unit="page">163</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">D</forename><surname>González-Acuña</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Fisher</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Moreno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Barrientos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Muñoz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Ardoles</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cicchino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Piojos (Phthiraptera: Insecta) de aves de la familia Laridae (Aves: Charadriiformes) en Chile. Parasitología Latinoamericana</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="188" to="191" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Amblyomma rotundatum (Acari: Ixodidae) in Kinosternon scorpioides (Chelonia: Kinosternidae) in Maranhão state</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Guerra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">C</forename><surname>Sn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Abreu-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Entomol. Vect</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="335" to="338" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ticks (Acari: Ixodidae) of wild animals from the Porto-Primavera Hydroeletric Power Station area</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Labruna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Paula</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Sana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Mem. Inst. Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="1133" to="1136" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Biodiversidade Brasileira: síntese do estado atual do conhecimento</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Lewinsohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Prado</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="page">176</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Linard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sifonápteros do Brasil</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">291</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Parasitos de animais silvestres no Rio Grande do Sul</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M M</forename><surname>Paulsean</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G W</forename><surname>Brum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. II. Piolhos (Amblycera: Ischnocera)</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Aves: Anaetidae)</title>
+		<author>
+			<persName><surname>De Netta Peposaca</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arqs Inst. Biológico</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="35" to="37" />
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+	<note>marreção</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Chewing and sucking lice as parasites of mammals and birds</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">H</forename><surname>Graham</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">USDA Agricultural Research Service</title>
+		<imprint>
+			<biblScope unit="page">257</biblScope>
+			<date type="published" when="1849">1997. 1849</date>
+		</imprint>
+	</monogr>
+	<note type="report_type">Technical Bull</note>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The chewing lice: world checklist and biological overview</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Price</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Hellenthal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Palma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">P</forename><surname>Johnson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Clayton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Natural Survey Special Publication</title>
+		<imprint>
+			<biblScope unit="page">501</biblScope>
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Illinois</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Ectoparasites of Nasua nasua (Carnivora, Procyonidae) from an urban forest in southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F S F</forename><surname>Rodrigues</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Daemon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Massard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Bras. Med. Vet. Zootec</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="969" to="971" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Malófagos (Phthiraptera, Amblycera, Ischnocera) em aves cativas no sudeste do Brasil</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">O</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">H</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H F</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amorim</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revta Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="495" to="497" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H F</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Gazeta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ixodofauna de répteis cativos do Zoológico de Sorocaba</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="319" to="329" />
+			<date type="published" when="2003">2003</date>
+			<publisher>São Paulo</publisher>
+		</imprint>
+	</monogr>
+	<note>Brasil. Entomol. Vect.</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Risks associated with ectoparasites of wild mammals in the Departamento of Quindio, Colombia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Torres-Mejia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Fuente</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. Appl. Res.Vet. Med</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="187" to="192" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Guias para reintroducciones de la UICN: preparada por el UICN</title>
+		<author>
+			<persName><surname>Uicn</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<pubPlace>UICN, Gland, Suiza, y Cambridge, Reino Unido</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Malófagos (Phthiraptera) recolhidos de aves silvestres no Zoológico de São Paulo</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Valim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H F</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SP, Brasil. Revta Bras. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="584" to="587" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

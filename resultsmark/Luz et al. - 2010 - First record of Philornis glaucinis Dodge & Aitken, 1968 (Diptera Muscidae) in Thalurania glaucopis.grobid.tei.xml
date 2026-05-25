@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">First record of Philornis glaucinis Dodge &amp; Aitken, 1968 (Diptera: Muscidae) in Thalurania glaucopis Gmelin, 1788 (Aves: Trochilidae)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Hermes</forename><surname>Ribeiro Luz</surname></persName>
+							<email>hermes@ufrrj.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> PPG em Parasitologia Veterinária , Universidade Federal Rural do Rio de Janeiro km 47 , CEP 23890-000 ,</note>
+								<orgName type="institution" key="instit1">PPG em Parasitologia Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal Rural do Rio de Janeiro km 47</orgName>
+								<address>
+									<postCode>23890-000</postCode>
+									<region>CEP</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rafaela</forename><surname>Dias Antonini</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Laboratório de Ecologia Florestal e Biologia Vegetal , DCA , Instituto de Florestas Universidade Federal Rural do Rio de Janeiro</note>
+								<orgName type="laboratory" key="lab1">Laboratório</orgName>
+								<orgName type="laboratory" key="lab2">DCA</orgName>
+								<orgName type="institution" key="instit1">Ecologia Florestal e Biologia Vegetal</orgName>
+								<orgName type="institution" key="instit2">Instituto de Florestas Universidade Federal Rural do Rio de Janeiro</orgName>
+							</affiliation>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> PPG em Biologia Animal , Instituto de Biologia Universidade Federal Rural do Rio de Janeiro</note>
+								<orgName type="department">PPG em Biologia Animal</orgName>
+								<orgName type="institution">Instituto de Biologia Universidade Federal Rural do Rio de Janeiro</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Michele</forename><forename type="middle">Silva</forename><surname>Rodrigues</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> PPG em Biologia Animal , Instituto de Biologia Universidade Federal Rural do Rio de Janeiro</note>
+								<orgName type="department">PPG em Biologia Animal</orgName>
+								<orgName type="institution">Instituto de Biologia Universidade Federal Rural do Rio de Janeiro</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">André</forename><surname>Felippe Nunes-Freitas</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Laboratório de Ecologia Florestal e Biologia Vegetal , DCA , Instituto de Florestas Universidade Federal Rural do Rio de Janeiro</note>
+								<orgName type="laboratory" key="lab1">Laboratório</orgName>
+								<orgName type="laboratory" key="lab2">DCA</orgName>
+								<orgName type="institution" key="instit1">Ecologia Florestal e Biologia Vegetal</orgName>
+								<orgName type="institution" key="instit2">Instituto de Florestas Universidade Federal Rural do Rio de Janeiro</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Renata</forename><surname>Da</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Silva</forename><surname>Mello</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> PPG em Biologia Animal , Instituto de Biologia Universidade Federal Rural do Rio de Janeiro</note>
+								<orgName type="department">PPG em Biologia Animal</orgName>
+								<orgName type="institution">Instituto de Biologia Universidade Federal Rural do Rio de Janeiro</orgName>
+							</affiliation>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>4</label> Laboratório de Transmissores de Leishmaniose , Setor de Entomologia Médica e Forense IOC/ FIOCRUZ , Rio de Janeiro -RJ , Brazil</note>
+								<orgName type="department">Setor de Entomologia Médica e Forense IOC/ FIOCRUZ</orgName>
+								<orgName type="laboratory">Laboratório de Transmissores de Leishmaniose</orgName>
+								<orgName type="institution">Rio de Janeiro -RJ</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Seropédica -RJ , Brazil</note>
+								<orgName type="institution">Seropédica -RJ</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">First record of Philornis glaucinis Dodge &amp; Aitken, 1968 (Diptera: Muscidae) in Thalurania glaucopis Gmelin, 1788 (Aves: Trochilidae)</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0103 -1643</idno>
+					</monogr>
+					<idno type="MD5">CB63B063E02CF0AF093A6743F909F0D6</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Diptera</term>
+					<term>Miíases</term>
+					<term>Muscidae</term>
+					<term>Philornis</term>
+					<term>Trochilidae Diptera</term>
+					<term>Muscidae</term>
+					<term>Myiasis Philornis</term>
+					<term>Trochilidae</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Submetido em 30/11/2009 Aceito para publicação em 23/04/2010 Resumo Primeiro registro de Philornis glaucinis Dodge &amp; Aitken, 1968 (Diptera: Muscidae) em Thalurania glaucopis Gmelin, 1788 (Aves: Trochilidae). Dos grupos causadores de miíases o gênero Philornis Meinert, 1890 aparece como o único representante da família Muscidae, obrigatoriamente associado a aves. Assim, o objetivo deste estudo foi relatar a ocorrência de Philornis em Thalurania glaucopis (Trochilidae). Foram encontrados dois ninhegos de T. glaucopis parasitados em maio de 2008, em uma área de elevado grau de degradação, no município de Petrópolis, Rio de Janeiro. Um total de 11 larvas foi localizado intra-dermicamente nas regiões da cabeça e pescoço. As larvas foram retiradas com auxílio de pinça e colocadas em um pote de plástico com pó de serragem, com objetivo de aguardar a emergência do adulto. Apenas sete larvas completaram a metamorfose H FKHJDUDP DR HVWiJLR DGXOWR VHQGR LGHQWL¿FDGDV FRPR Philornis glaucinis. Este estudo apresentou o primeiro registro de P. glaucinis no Estado do Rio de Janeiro e também a primeira ocorrência deste parasita em ninhegos de T. glaucopis.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The genus Philornis Meinert, 1890 (Diptera, Muscidae) is predominantly Neotropical. Within groups causing myiasis, this genus appears as the only representative of the family Muscidae, obligatorily associated with birds. The adults pertaining to the genus Philornis behave like the majority of the non-parasite muscids, and they can also be captured in decomposing organic matter, flowers, and other substrates. The larvae can live intradermically or in the nests <ref type="bibr" target="#b4">(Couri, 1985)</ref>. Thus, the larvae of Philornis may present three types of association with birds: coprophagous or semihematophagous, free in nests and hematophagous, or as subcutaneous endoparasites <ref type="bibr" target="#b5">(Couri, 1999)</ref>. <ref type="bibr" target="#b9">Pont (1972)</ref> catalogued 32 species of Philornis in the Neotropical Region, to which 14 were added by <ref type="bibr">Couri (1983a;</ref><ref type="bibr">1983b)</ref>. The genus currently includes 50 described species, 39 of which are found in Brazil <ref type="bibr" target="#b0">(Carvalho, 2002)</ref>. This work aimed to study the parasitic association between Philornis larvae and birds.</p><p>Two parasitized nestlings of Thalurania glaucopis (Gmelin, 1788) (Aves: Trochilidae) were encountered in May 2008 in the district of Posse, municipal district of Petrópolis (RJ), in an area located 33.5km away from WKH 3LDEDQKD ULYHU ¶V FRQÀXHQFH ZLWK WKH ULYHU 3DUDtED do Sul, between the coordinates 22º17'08.57" and 22º16'17.95"S and 43º06'42.37" and 43º05'07.41"O. The area presents heterogeneous vegetation of 6.2ha and is characterized by a high degree of degradation, with large areas of abandoned pasture and scrub vegetation. It is a fairly anthropogenically disturbed area, where residences existed previously, but have now been demolished.</p><p>The nestlings seemed to have ages between 12 and 16 days of life, approximately. The larvae were found in intradermal regions of the head and neck. A total of 11 larvae were collected using tweezers, and they were placed in a plastic container with sawdust in order to await the emergence of the adult. Only seven larvae completed metamorphosis and reached the adult stage. 7KH\ ZHUH LGHQWL¿HG DV Philornis glaucinis <ref type="bibr" target="#b7">(Dodge and Aitken, 1968)</ref>.</p><p>According to <ref type="bibr" target="#b6">Couri and Carvalho (2005)</ref>, the state of Rio de Janeiro has 10 described species belonging to the genus Philornis: P. cinnamomina (Stein 1918), P. downsi <ref type="bibr" target="#b7">(Dodge and Aitken, 1968)</ref>, P. grandis <ref type="bibr" target="#b3">(Couri 1984)</ref>, P. insularis <ref type="bibr">(Couri 1983)</ref>, P. lopesi <ref type="bibr">(Couri 1983)</ref>, P. sabroskyi (Albuquerque 1957), P. setinervis <ref type="bibr">(Dodge 1963)</ref>, P. torquans (Nielsen 1913), P. univittata <ref type="bibr" target="#b7">(Dodge 1968</ref>) and P. vulgaris <ref type="bibr" target="#b3">(Couri 1984)</ref>. <ref type="bibr" target="#b6">Couri and Carvalho (2005)</ref> described the parasitism of Philornis on nestlings of T. glaucopis in Rio de Janeiro, but did not mention the species of the parasite. Nevertheless, the authors, after examining morphologically the puparia found in their study, reported that the parasite was probably the species P. insularis.</p><p>In the table presented by <ref type="bibr" target="#b8">Guimarães et al. (1983)</ref>, only one species of bird host for P. glaucinis belonging to the family Trochilidae was registered: Glaucis hirsutus (Gmelin, 1788). <ref type="bibr" target="#b10">Teixeira (1999)</ref> presented a list of nine families of birds parasitized by P. Glaucinis and included the Trochilidae family, which also included the species Glaucis hirsutus as host and added three species of Trochilidae, among them the genus Thalurania (but without mentioning the species).</p><p>7KHUHIRUH WKLV FXUUHQW VWXG\ ZDV WKH ¿UVW UHFRUG of P. glaucinis for the State of Rio de Janeiro, and also WKH ¿UVW RFFXUUHQFH RI WKLV VSHFLHV SDUDVLWL]LQJ QHVWOLQJV of T. glaucopis.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">André César Lopes da Silva</rs> and <rs type="person">Rodrigo Rocha Barbosa</rs> for helping to identify Philornis glaucinis. We also thank <rs type="person">Ursula Brazil</rs> for helping us with the translation, and <rs type="person">Janeska Xavier Pellim</rs> for her support and suggestions.</p></div>
+			</div>			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>First record of Philornis glaucinis in Thalurania glaucopis</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Muscidae (Diptera) of the Neotropical Region: Taxonomy</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Editora UFPR</title>
+		<imprint>
+			<biblScope unit="page">287</biblScope>
+			<date type="published" when="2002">2002</date>
+			<pubPlace>Curitiba, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Descrição de 6 espécies novas de Philornis Meinert, 1890 (Diptera, Muscidae, Cyrtoneurininae)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="297" to="310" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Notes and descriptions of Philornis ÀLHV</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="473" to="490" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Notes and description of Philornis ÀLHV &apos;LSWHUD Muscidae). Cyrtoneurinae</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="473" to="490" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Considerações sobre as relações ecológicas das larvas de Philornis Meinert, 1890 (Diptera: Muscidae) com aves</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="17" to="20" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Myiasis in man and animals in the neotropical region -Bibliographic database</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Editora Plêiade</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo, Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="51" to="70" />
+		</imprint>
+	</monogr>
+	<note>Myiasis caused by obligatory parasites. Philornis Meinert (Muscidae)</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Diptera muscidae do estado do Rio de Janeiro (Brasil)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biota Neotropica</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="205" to="222" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Philornis ÀLHV IURP 7ULQLGDG (Diptera: Muscidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">R</forename><surname>Dodge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">H G</forename><surname>Aitken</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ibid</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="134" to="154" />
+			<date type="published" when="1968">1968</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">As miíases na 5HJLmR 1HRWURSLFDO</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">GHQWL¿FDomR ELRORJLD ELEOLRJUD¿D Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="261" to="267" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Family Muscidae. A catalogue of the Diptera of the Americas South of the United States</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Pont</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1972">1972</date>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="page" from="1" to="111" />
+		</imprint>
+		<respStmt>
+			<orgName>Museu de Zoologia da Universidade de São Paulo</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Myiasis caused by obligatory parasites. General observations on the biology of species of the genus Philornis Meinert, 1890 (Diptera Muscidae</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Teixeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FAPESP</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="71" to="96" />
+			<date type="published" when="1999">1999</date>
+			<publisher>Editora Plêiade</publisher>
+			<pubPlace>São Paulo, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Myiasis in man and animals in the neotropical region -Bibliographic database</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

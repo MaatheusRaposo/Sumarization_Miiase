@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Oral infection by Diptera larvae in children: a case report</title>
+				<funder ref="#_qBKFpxt">
+					<orgName type="full">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2008-06-28">2008-06-28</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Taís</forename><surname>De Souza Barbosa</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Pediatric Dentistry , Piracicaba Dental School , State University of Campinas , and</note>
+								<orgName type="department" key="dep1">Department of Pediatric Dentistry</orgName>
+								<orgName type="department" key="dep2">Piracicaba Dental School</orgName>
+								<orgName type="institution">State University of Campinas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Renata</forename><forename type="middle">Andréa</forename><surname>Salvitti Sá Rocha</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cecília</forename><forename type="middle">Gatti</forename><surname>Guirado</surname></persName>
+						</author>
+						<author>
+							<persName><roleName>PhD</roleName><forename type="first">Fábio</forename><forename type="middle">Jordão</forename><surname>Rocha</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Agricultural Engineering , Luiz de Queiroz School of Agriculture , University of São Paulo , Piracicaba , Brazil</note>
+								<orgName type="department" key="dep1">Department of Agricultural Engineering</orgName>
+								<orgName type="department" key="dep2">Luiz de Queiroz School of Agriculture</orgName>
+								<orgName type="institution">University of São Paulo</orgName>
+								<address>
+									<region>Piracicaba</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Graduate student</roleName><forename type="first">Maria</forename><forename type="middle">Beatriz</forename><surname>Duarte Gavião</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Pediatric Dentistry , Piracicaba Dental School , State University of Campinas , and</note>
+								<orgName type="department" key="dep1">Department of Pediatric Dentistry</orgName>
+								<orgName type="department" key="dep2">Piracicaba Dental School</orgName>
+								<orgName type="institution">State University of Campinas</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Departamento de Odontologia Infantil Faculdade de Odontologia de Piracicaba/ UNICAMP Avenida Limeira 901 CEP 13414-903 Piracicaba SP Brazil</note>
+								<orgName type="department">Departamento de Odontologia Infantil Faculdade de Odontologia de Piracicaba/ UNICAMP</orgName>
+								<address>
+									<addrLine>Avenida Limeira 901 CEP</addrLine>
+									<postCode>13414-903</postCode>
+									<settlement>Piracicaba</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Oral infection by Diptera larvae in children: a case report</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">International Journal of Dermatology</title>
+						<title level="j" type="abbrev">Int J Dermatology</title>
+						<idno type="ISSN">0011-9059</idno>
+						<idno type="eISSN">1365-4632</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">47</biblScope>
+							<biblScope unit="issue">7</biblScope>
+							<biblScope unit="page" from="696" to="699"/>
+							<date type="published" when="2008-06-28" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">3E66201F18A0AAA10994282418850F01</idno>
+					<idno type="DOI">10.1111/j.1365-4632.2008.03725.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background Oral myiasis is usually caused by flies of the order Diptera. One of the causes of human myiasis is Cochliomyia hominivorax , which is a true obligate parasite of mammals.</p><p>Methods A case of oral myiasis in a 5-year-old girl is reported. She presented with a swelling on the hard palate accompanied by intense pain and a fetid odor. A literature review of oral myiasis reports in children was performed.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>The poor oral hygiene, lip incompetence, open bite, and residence in a rural area were considered to be predisposing factors for larval infestation in this patient. Treatment consisted of manual larval removal and systemic therapy with antimicrobials.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusions</head><p>The prevention of human myiasis should involve the control of fly populations and general cleanliness, such as reducing decomposition odors and cleaning and covering wounds. In addition, the public should be informed that individuals living in locations without basic sanitation are more predisposed to infestation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The term myiasis (from the Greek " myi " meaning fly) refers to the infestation of living tissues of animals or humans by Diptera larvae. <ref type="bibr" target="#b0">1</ref> Human myiasis is a rare condition. It is more common in regions with a warm and humid climate and in areas in which people live close to livestock, mostly in rural zones and villages. <ref type="bibr" target="#b1">2</ref> Depending on the condition of the tissue involved, myiasis can be classified as follows: accidental myiasis, in which larvae ingested together with food produce infection; semispecific myiasis, in which the larvae are laid on necrotic tissue in wounds; and obligatory myiasis, in which larvae affect undamaged skin. <ref type="bibr" target="#b2">3</ref> Other classification criteria are the anatomic sites affected: cutaneous myiasis, myiasis of external orifices (aural, ocular, nasal, oral, vaginal, and anal), and myiasis of internal organs (intestinal and urinary). <ref type="bibr" target="#b1">2</ref> Three dipteran families are considered to be the main causes of myiasis in livestock and also, occasionally, in humans: Calliphoridae, Oestridea, and Sarcophagidae. <ref type="bibr" target="#b3">4</ref> Cochliomyia hominivorax (Calliphoridae) is one of the most important obligate parasitic species of livestock in the Americas, and causes myiasis in tropical areas. <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b5">6</ref> Female C. hominivorax lay eggs at the edges of wounds on living mammals or on the mucous membranes associated with natural body openings, such as the nostrils and sinuses, eye orbits, mouth, ears, and vagina.</p><p>In this article, we report a case of oral myiasis in a 5-year-old girl and discuss previous reports of oral myiasis in children.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Case Report</head><p>A 5-year-old white girl, with a 2-day history of a painful mouth, was referred to the Clinic of Pediatric Dentistry (Piracicaba Dental School, State University of Campinas, Piracicaba, SP, Brazil) for the evaluation of a swelling on the hard palate accompanied by intense pain and a fetid odor.</p><p>Physical examination revealed an erythematous palatal swelling with a deep gingival pocket related to the maxillary right canine (Fig. <ref type="figure" target="#fig_0">1</ref>), which was vital and sound. Radiographic examination revealed no changes in the underlying bone. The child had anterior vertical overlap, poor oral hygiene, gingivitis, and caries in almost all teeth. She was afebrile, but no cervical lymph nodes were palpable.</p><p>Moreover, the oral features of infection consisted of a painful erythematous swelling that pulsated as a result of the movement of larvae. The child's parents reported that the larvae could be seen through the opening with indurated margins present on the surface, which helped to make the definitive diagnosis. The child's poor oral hygiene, lip incompetence, vertical overlap, and residence in a rural area were considered to be predisposing factors for larval infestation.</p><p>Oral prophylaxis was carried out, involving descaling of all the teeth followed by 0.12% chlorhexidine digluconate. During the same consultation, under local anesthesia, an incision was made and a palatal mucoperiosteal flap was retracted. Two larvae were manually removed under the surrounding mucoperiosteum (Fig. <ref type="figure" target="#fig_1">2</ref>). After complete larval removal, the lesion was irrigated with warm saline solution, and the patient's carer was instructed in the use of 0.12% chlorhexidine digluconate until the lesion had healed completely. The patient was receiving antimicrobial medication [amoxicillin 250 mg (5 mL of suspension), 25 mg/kg/day every 8 h] previously prescribed at a medical center. Advice regarding oral hygiene maintenance and regular care was also given.</p><p>A re-examination was scheduled in 7 days. At the next consultation, intraoral examination revealed a decrease in palatal swelling, but the gingival tissue had not adhered to the palatal bone. After 2 weeks, the palatal mucoperiosteal flap had completely adhered to the palatal bone and the wound had healed (Fig. <ref type="figure" target="#fig_2">3</ref>). Follow-up visits were advised for dental and gingivitis treatment, as well as for monitoring, because of the possibility of further larval infection; however, the parents have not cooperated.</p><p>The larval specimens were identified as the third instar of the blowfly C. hominivorax (family Calliphoridae). Third instar larvae of C. hominivorax may be identified by the presence of dark pigmentation on the dorsal tracheal trunk that extends from the twelfth segment to the tenth or ninth (Fig. <ref type="figure" target="#fig_1">2</ref>). Such pigmentation is unique to this species amongst those encountered in wound myiasis, and is a major character for identification. It is most easily observed in living larvae; those in preservative may need dissection to remove opaque tissue covering the trunk. Furthermore, at this stage, living specimens of C. hominivorax are creamy white and have a typical maggot shape. Figure <ref type="figure" target="#fig_1">2</ref> shows the mouthparts of the larvae that are responsible for devouring its host, and the   prominent rings of spines around the body which help anchor the larvae into the wound. <ref type="bibr" target="#b6">7,</ref><ref type="bibr">8</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Only eight papers presenting reliable descriptions of oral myiasis in children were found (Medline/PubMed search for publications in English since 1972 within the limits "age: child 0 -18 years" and a manual search of their reference lists). <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr">[9]</ref><ref type="bibr">[10]</ref><ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref> Their summaries are presented in Table <ref type="table" target="#tab_0">1</ref>.</p><p>Cochliomyia hominivorax is a dipteran insect of the Calliphoridae family (flies). This thermophilic species is endemic to the tropical and subtropical zones of the American continent. The larval stages of the fly C. hominivorax are obligatory parasites of mammals, including humans, and are responsible for myiasis of wounds, particularly superficial wounds.</p><p>Female C. hominivorax lay batches of approximately 500 eggs on the edges of wounds or natural body orifices. The eggs hatch after 14-18 h. In the 24 h following hatching, the larvae burrow into living tissue to find food. The complete development of the larvae takes 5-9 days, and the insect then leaves the host to pupate in the soil. <ref type="bibr" target="#b13">14</ref> The location of wounds by female C. hominivorax is thought to be mediated by both visual and olfactory cues. <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> Blood and body fluids may also attract common flies. <ref type="bibr" target="#b2">3,</ref><ref type="bibr" target="#b16">17</ref> There have also been reports of the infestation of healthy tissue. <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b12">13</ref> In our case, the patient was healthy, but her general and oral hygiene, as well as her oral condition, was poor, which might have attracted the fly.</p><p>Erol et al . <ref type="bibr" target="#b11">12</ref> described a 4-year-old girl who developed oral myiasis in the vestibular sulcus at the level of both deciduous teeth along the deep upper lip tissues. Similar to the findings in the present report, perpetual mouth breathing was a predisposing factor for the development of the disease, as the open mouth is a suitable place for ovipositioning, <ref type="bibr" target="#b3">4</ref> as found in patients with cerebral palsy and incompetent lips, anterior open bite, and very poor oral hygiene. 10 Moreover, Ogbalu et al . <ref type="bibr" target="#b1">2</ref> reported that infants, who were breastfed by mothers with breasts infected by C. anthropophaga , presented with larvae in the upper and lower lips, and in other parts of the body. The authors attributed this to poor hygiene in the living conditions of the studied population. Conversely, a healthy 12-year-old Dutch girl was accidentally infected during the family's walking holiday in Norway, <ref type="bibr" target="#b12">13</ref> corroborating reports that have described oral myiasis in healthy individuals with acceptable oral hygiene. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b11">12</ref> Infestation in humans may occur accidentally with direct inoculation by the fly. <ref type="bibr" target="#b12">13</ref> In the described cases (Table <ref type="table" target="#tab_0">1</ref>), the location of the lesions in the anterior part of the oral cavity suggests a direct inoculation of the tissues, as demonstrated here. The diagnosis of myiasis at an early stage can prevent the involvement of deeper tissues. This is especially important in individuals with a low socio-economic level, who may be unaware of the oral lesions. 9-11 Moreover, a lack of regular oral care in these patients may cause the lesions to go unnoticed until extensive tissue involvement occurs.</p><p>Mechanical removal of larvae under local anesthesia is the traditional treatment for myiasis, 2,10 -12 but the use of systemic ivermectin can produce favorable results in more severe cases. <ref type="bibr" target="#b0">1</ref> Sometimes, topical antimicrobials are used as coadjuvants. <ref type="bibr" target="#b2">3</ref> In the present case, complete removal of the larvae was performed manually. Antimicrobial therapy was recommended by the physician when the parents first sought medical assistance. In healthy subjects, undiagnosed larvae may be eliminated by the immune system. <ref type="bibr" target="#b12">13</ref> The most important stage in the life cycle requiring identification is the larval stage. Living specimens of C. hominivorax should be examined for pigmentation of the tracheal trunk. Second instar larvae of C. hominivorax may be identified by the presence of dark pigmentation of the dorsal tracheal trunk for over half of its length in the terminal segment, whereas stage three C. hominivorax larvae are characterized by pigmentation of the dorsal tracheal trunk from the twelfth segment to the tenth or ninth. Other species show less marked pigmentation of the dorsal tracheal trunk, which, for example, extends for no more than one-third of its length in the twelfth segment of second instar C. bezziana .</p><p>Adult flies are encountered much less often than larvae. Cochliomyia species may be separated from those of other genera by the confirmation of a deep blue to blue-green metallic body color with three dark longitudinal stripes on the thorax. <ref type="bibr" target="#b17">18</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The prevention of human myiasis involves the control of fly populations and general cleanliness, such as reducing decomposition odors and cleaning and covering wounds. In addition, the public should be informed that individuals living in locations without basic sanitation are more predisposed to infestation.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1</head><label>1</label><figDesc>Figure 1 Initial clinical appearance. Erythematous palatal swelling with the larvae inside</figDesc><graphic coords="2,53.36,83.73,228.00,229.12" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 Third instar larvae of Cochliomyia hominivorax illustrating general appearance: 1, darkly pigmented dorsal tracheal trunk in posterior segments; 2, mouth parts; 3, bands of spines</figDesc><graphic coords="2,299.36,83.73,228.00,289.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure 3 Clinical appearance 2 weeks after removal of the larvae. Note the poor oral conditions</figDesc><graphic coords="2,299.36,444.73,228.00,160.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Case reports from the literature</figDesc><table><row><cell></cell><cell></cell><cell>Patient age</cell><cell></cell><cell>Number</cell><cell></cell><cell>Underlying</cell></row><row><cell>Reference</cell><cell>Species</cell><cell>(years)/gender</cell><cell>Country</cell><cell cols="2">of larvae Location of lesion</cell><cell>disorder</cell></row><row><cell>Yazar et al. 1</cell><cell>Sarcophaga sp.</cell><cell>15/male</cell><cell>Turkey</cell><cell>4</cell><cell>Oral cavity and gingival</cell><cell>Tuberculosis,</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>tissue of right side</cell><cell>meningitis</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>of mandible</cell><cell></cell></row><row><cell>Ogbalu et al. 2</cell><cell>Cordylobia</cell><cell>NM/27 infants</cell><cell>Niger Delta</cell><cell cols="2">2.3 ± 0.6 Upper lip</cell><cell>NM</cell></row><row><cell></cell><cell>anthropophaga</cell><cell>(males and females)</cell><cell></cell><cell cols="2">3.8 ± 0.7 Lower lip</cell><cell>NM</cell></row><row><cell>Hakimi and Yazdi 4</cell><cell>Oestrus ovis</cell><cell>3/male</cell><cell>Iran</cell><cell>5</cell><cell>Gingival tissue of</cell><cell>NM</cell></row><row><cell></cell><cell>(Oestridae)</cell><cell></cell><cell></cell><cell></cell><cell>anterior maxilla</cell><cell></cell></row><row><cell>Dhooria and Badhe 9</cell><cell>Musca domesticus</cell><cell>11/female</cell><cell>India</cell><cell>3</cell><cell>Palate</cell><cell>Incompetent lips</cell></row><row><cell></cell><cell>(Muscidae)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Anterior open bite</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Oral habit</cell></row><row><cell>al-Ismaily and Scully 10</cell><cell>NM</cell><cell>12/female</cell><cell>Oman</cell><cell>8</cell><cell>Palate</cell><cell>Incompetent lips</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Anterior open bite</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Poor oral hygiene</cell></row><row><cell cols="2">Bhatt and Jayakrishnan 11 Musca domesticus</cell><cell>12/male</cell><cell>India</cell><cell>3</cell><cell>Gingival tissue of</cell><cell>Incompetent lips</cell></row><row><cell></cell><cell>(Muscidae)</cell><cell></cell><cell></cell><cell></cell><cell>anterior mandible</cell><cell>Poor oral hygiene</cell></row><row><cell>Erol et al. 12</cell><cell>Hypoderma bovis</cell><cell>4/female</cell><cell>Turkey</cell><cell>3</cell><cell>Vestibular sulcus of</cell><cell>Poor oral hygiene</cell></row><row><cell></cell><cell>larvae (Oestridae)</cell><cell></cell><cell></cell><cell></cell><cell>the upper lip</cell><cell>Mouth breathing</cell></row><row><cell>Faber and Hendrikx 13</cell><cell>Hypoderma tarandi</cell><cell>12/female</cell><cell cols="2">Netherlands 1</cell><cell cols="2">Right corner of the mouth NM</cell></row><row><cell></cell><cell>(Oedemagena)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Present study</cell><cell>Cochliomyia hominivorax</cell><cell>5/female</cell><cell>Brazil</cell><cell>2</cell><cell>Palate</cell><cell>Poor oral hygiene</cell></row><row><cell></cell><cell>(Calliphoridae)</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Incompetent lips</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Anterior open bite</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>Living in a rural area</cell></row><row><cell>NM, not mentioned.</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>© 2008 The International Society of Dermatology International Journal of Dermatology 2008, 47 , 696-699</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>13654632, 2008, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-4632.2008.03725.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [28/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p>Tropical medicine rounds Oral infection by Diptera larvae in childrende Souza Barbosa et al.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_3"><p>13654632, 2008, 7, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1365-4632.2008.03725.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [28/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License © 2008 The International Society of Dermatology International Journal of Dermatology 2008, 47 , 696-699</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We are grateful to the <rs type="funder">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES)</rs>, <rs type="institution">Brasília, DF, Brazil</rs> for the scholarship received by the first author, and to the <rs type="programName">Post-Graduate Program</rs> of <rs type="affiliation">Dentistry, Pediatric Dentistry Division, Piracicaba Dental School, State University of Campinas, SP, Brazil</rs>, for support with clinical procedures.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_qBKFpxt">
+					<orgName type="program" subtype="full">Post-Graduate Program</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Nosocomial oral myiasis by Sarcophaga sp. in Turkey</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yazar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Dik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Yalcin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Yonsei Med J</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="431" to="434" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Incidence of multiple myiases in breasts of rural women and oral infection in infants from the human warble fly larvae in the humid Tropic-Niger Delta</title>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">K</forename><surname>Ogbalu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Achufusi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Adibe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="1069" to="1070" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Diagnostic Pathology of Parasitic Infections with Clinical Correlations</title>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Gutierrez</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990">1990</date>
+			<publisher>Lea &amp; Febiger</publisher>
+			<biblScope unit="page">4896</biblScope>
+			<pubPlace>Philadelphia and London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Oral mucosa myiasis caused by Oestrus ovis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hakimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yazdi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Iran Med</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="194" to="196" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Seasonal and spatial distributions of adult screwworms (Diptera: Calliphoridae) in the Panama Canal Area, Republic of Panama</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Phillips</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kramer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="121" to="129" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">A case of anterior internal ophthalmomyiasis: case report</title>
+		<author>
+			<persName><forename type="first">V</forename><surname>Saraiva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Amaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Belfort R Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Bras Oftalmol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="741" to="743" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Kurkjian</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Screwworm</surname></persName>
+		</author>
+		<ptr target="http://www.vet.uga.edu/vpp/ivm/eng/screwworm/intro.htm" />
+		<imprint>
+			<date type="published" when="2007-10-28">28 October 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: a case report</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Rossi-Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Cherubini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Yurgel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="85" to="88" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Oral myiasis. A case report</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Dhooria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Badhe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Indian Dent Assoc</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="25" to="27" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: report of two cases</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ismaily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scully</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Paediatr Dent</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="177" to="179" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: a case report</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jayakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Paediatr Dent</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="67" to="70" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Oral myiasis caused by Hypoderma bovis larvae in a child: a case report</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Erol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Unlu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Balci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="247" to="249" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Oral myiasis in a child by the reindeer warble fly larva Hypoderma tarandi</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">E</forename><surname>Faber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Hendrikx</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="345" to="346" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Nosocomial nasal myiasis owing to Cochliomyia hominivorax: a case in French Guiana</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Couppie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Roussel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rabarison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="302" to="303" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Oviposition by screwworm flies (Diptera: Calliphoridae) on contact with host fluids</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hammack</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Econ Entomol</title>
+		<imprint>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page" from="185" to="190" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Responses of gravid screwworm flies, Cochliomyia hominivorax, to whole wounds, wound fluid, and a standard blood attractant in olfactometer tests</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Hammack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Holt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Chem Ecol</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="913" to="922" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Aural myiasis in children and literature review</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Yuca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Caksen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">F</forename><surname>Sakin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tohoku J Exp Med</title>
+		<imprint>
+			<biblScope unit="volume">206</biblScope>
+			<biblScope unit="page" from="125" to="130" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Manual for the Control of the Screwworm Fly</title>
+	</analytic>
+	<monogr>
+		<title level="j">Cochliomyia Hominivorax. Coquerel. Rome: FAO</title>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Food and Agriculture Organization of the United Nations</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Espécies de Calliphoridae (Diptera) associadas a carcaças de Sus scrofa Linnaeus, 1758 em área de restinga na Paraíba, Brasil, e espécies de importância forense para a estimativa do Intervalo Pós-Morte (IPM)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Alexandre</forename><surname>Nicolas</surname></persName>
+							<email>alexandre_npc@hotmail.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Sistemática e Ecologia , CCEN , Universidade Federal da Paraíba -UFPB , 58059-900 , João Pessoa , PB , Brasil.</note>
+								<orgName type="department">Departamento de Sistemática e Ecologia</orgName>
+								<orgName type="institution" key="instit1">CCEN</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal da Paraíba -UFPB</orgName>
+								<address>
+									<postCode>58059-900</postCode>
+									<settlement>João Pessoa</settlement>
+									<region>PB</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Pedrosa</forename><surname>Cavalcante</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Sistemática e Ecologia , CCEN , Universidade Federal da Paraíba -UFPB , 58059-900 , João Pessoa , PB , Brasil.</note>
+								<orgName type="department">Departamento de Sistemática e Ecologia</orgName>
+								<orgName type="institution" key="instit1">CCEN</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal da Paraíba -UFPB</orgName>
+								<address>
+									<postCode>58059-900</postCode>
+									<settlement>João Pessoa</settlement>
+									<region>PB</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><surname>Dal-Bó</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Sistemática e Ecologia , CCEN , Universidade Federal da Paraíba -UFPB , 58059-900 , João Pessoa , PB , Brasil.</note>
+								<orgName type="department">Departamento de Sistemática e Ecologia</orgName>
+								<orgName type="institution" key="instit1">CCEN</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal da Paraíba -UFPB</orgName>
+								<address>
+									<postCode>58059-900</postCode>
+									<settlement>João Pessoa</settlement>
+									<region>PB</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Antonio</forename><forename type="middle">José</forename><surname>Creão-Duarte</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Sistemática e Ecologia , CCEN , Universidade Federal da Paraíba -UFPB , 58059-900 , João Pessoa , PB , Brasil.</note>
+								<orgName type="department">Departamento de Sistemática e Ecologia</orgName>
+								<orgName type="institution" key="instit1">CCEN</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal da Paraíba -UFPB</orgName>
+								<address>
+									<postCode>58059-900</postCode>
+									<settlement>João Pessoa</settlement>
+									<region>PB</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rodrigo</forename><surname>César</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Sistemática e Ecologia , CCEN , Universidade Federal da Paraíba -UFPB , 58059-900 , João Pessoa , PB , Brasil.</note>
+								<orgName type="department">Departamento de Sistemática e Ecologia</orgName>
+								<orgName type="institution" key="instit1">CCEN</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal da Paraíba -UFPB</orgName>
+								<address>
+									<postCode>58059-900</postCode>
+									<settlement>João Pessoa</settlement>
+									<region>PB</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Azevedo</forename><surname>Pereira</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Sistemática e Ecologia , CCEN , Universidade Federal da Paraíba -UFPB , 58059-900 , João Pessoa , PB , Brasil.</note>
+								<orgName type="department">Departamento de Sistemática e Ecologia</orgName>
+								<orgName type="institution" key="instit1">CCEN</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal da Paraíba -UFPB</orgName>
+								<address>
+									<postCode>58059-900</postCode>
+									<settlement>João Pessoa</settlement>
+									<region>PB</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Espécies de Calliphoridae (Diptera) associadas a carcaças de Sus scrofa Linnaeus, 1758 em área de restinga na Paraíba, Brasil, e espécies de importância forense para a estimativa do Intervalo Pós-Morte (IPM)</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2443-437X (electrónico)</idno>
+					</monogr>
+					<idno type="MD5">D57B7671476FD3186051792AD492DBC8</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Calliphoridae</term>
+					<term>decomposição</term>
+					<term>Entomologia Forense Calliphoridae</term>
+					<term>decomposition</term>
+					<term>Forensic Entomology</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Os Calliphoridae são moscas cosmopolitas e importantes agentes na decomposição da matéria orgânica. Quando presentes em cadáveres humanos são úteis em investigações criminais, particularmente, na determinação do Intervalo Pós-Morte (IPM). O presente estudo foi realizado em uma área de restinga em distintos períodos climáticos. Armadilhas Shannon contendo uma carcaça de suíno (Sus scrofa) cada foram utilizadas na coleta das moscas adultas, já os imaturos foram coletados em bandejas sob as carcaças. Foram amostrados 3 499 indivíduos adultos pertencentes às espécies Chrysomya megacephala, Chrysomya albiceps, Cochliomyia macellaria, Chrysomya putoria, Lucilia eximia, Cochliomyia hominivorax e Chloroprocta idioidea. Seis das sete espécies apresentaram comportamento sazonal e quatro foram consideradas de importância forense na estimativa do IPM, por terem se desenvolvido nas carcaças.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introdução</head><p>As moscas da família Calliphoridae apresentam distribuição cosmopolita, são facilmente identificadas pela coloração verde metálico e são popularmente chamadas de "varejeiras" <ref type="bibr" target="#b24">(Mello 2003</ref><ref type="bibr" target="#b17">, Kosmann et al. 2013)</ref>. Na região Neotropical existem 29 gêneros e 99 espécies reconhecidas pertencentes a sete subfamílias, quatro delas ocorrendo no Brasil: Calliphorinae, Chrysomyinae, Mesembrinellinae e Toxotarsinae <ref type="bibr" target="#b17">(Kosmann et al. 2013)</ref>.</p><p>Os califorídeos possuem hábito sarcosaprofágico e/ou coprófago, sendo considerados importantes agentes no processo de decomposição de matéria vegetal e animal <ref type="bibr" target="#b16">(Goff 2000)</ref>. Algumas espécies exibem comportamento sinantrópico, por isso possuem grande importância médica e veterinária como vetores de doenças ou causadoras de miíase <ref type="bibr" target="#b19">(Lima e Luz 1991</ref><ref type="bibr" target="#b37">, Thyssen et al. 2012)</ref>. A notável capacidade das moscas serem os organismos pioneiros na localização de cadáveres e carcaças as torna ferramentas essenciais para a Entomologia Forense <ref type="bibr" target="#b16">(Goff 2000)</ref>.</p><p>Tanto os adultos quanto os imaturos são utilizados na estimativa do Intervalo Pós-Morte (IPM) <ref type="bibr" target="#b26">(Oliveira-Costa 2011)</ref>, apesar de também possuírem grande importância nas demais searas forenses, tais como: genética forense, toxicologia forense, casos de abuso ou negligência no cuidado de crianças dentre outros <ref type="bibr">(Catts e Goff 1992)</ref>. As espécies dos gêneros Chrysomya, Hemilucilia, Cochliomyia, Lucilia e Calliphora são consideradas as de maior importância forense para a região Neotropical <ref type="bibr" target="#b26">(Oliveira-Costa 2011)</ref>.</p><p>Muitos estudos faunísticos sobre os insetos associados a carcaças no Brasil mostraram a grande abundância e frequência das espécies da família Calliphoridae <ref type="bibr" target="#b30">(Paraluppi 1996</ref><ref type="bibr">, Souza e Linhares 1997</ref><ref type="bibr" target="#b3">, Andrade et al. 2005</ref><ref type="bibr" target="#b25">, Moretti et al. 2008</ref><ref type="bibr" target="#b5">, Barros-Souza et al. 2012</ref><ref type="bibr" target="#b26">, Oliveira-Costa et al. 2013</ref><ref type="bibr">e Alves et al. 2014a)</ref>.</p><p>Entretanto, ainda é escasso o número de estudos sobre a diversidade dos califorídeos em biomas tropicais, bem como a ecologia e biologia das suas espécies, o que dificulta a expansão do conhecimento desse grupo na América Latina <ref type="bibr" target="#b17">(Kosmann et al. 2013)</ref>.</p><p>O ambiente de restinga tem idade geológica recente e, segundo <ref type="bibr" target="#b14">Freire (1990)</ref>, as espécies da flora que a colonizaram são oriundas de outros ecossistemas, como a Mata Atlântica, Tabuleiro e Caatinga. Na Paraíba, a vegetação típica de restinga divide-se em tipos fisionômicos que se sucedem do litoral para o interior desde a chamada restinga herbácea ou praiana até atingirem a savana arborizada ou Tabuleiro <ref type="bibr">(Oliveira-Filho e Carvalho 1993)</ref>. Essas fisionomias de vegetação afetam a riqueza e a estrutura de comunidade dos insetos, além disso, as condições ambientais e as características do solo contribuem para a variação na diversidade <ref type="bibr" target="#b38">(Vasconcellos et al. 2005</ref><ref type="bibr" target="#b12">, Farias et al. 2008)</ref>.</p><p>Desde as duas últimas décadas do século XX a restinga vem sendo alvo de estudos mais sistematizados. Esses estudos geralmente são voltados para levantamentos florísticos e faunísticos, o que evidenciam a grande importância desse ecossistema para a biodiversidade do país <ref type="bibr">(Oliveira-Filho e Carvalho 1993</ref><ref type="bibr">, Esteves e Lacerda 2000</ref><ref type="bibr" target="#b38">, Vasconcellos et al. 2005</ref><ref type="bibr" target="#b12">, Farias et al. 2008)</ref>. Na Paraíba, estudos sobre os insetos envolvidos na decomposição de corpos de vertebrados ainda estão em fase inicial <ref type="bibr" target="#b13">(Farias et al. 2013</ref><ref type="bibr" target="#b23">, Martins et al. 2013</ref><ref type="bibr">, Santos et al. 2013;</ref><ref type="bibr" target="#b1">Alves et al. 2014a</ref><ref type="bibr" target="#b2">Alves et al. , 2014b) )</ref> e, para contribuir com o conhecimento das espécies de Calliphoridae em ambiente de restinga, o presente estudo procurou determinar as espécies associadas a carcaças de suínos, mediante a avaliação da abundância dos adultos e a influência da sazonalidade, assim como determinar as espécies cujos imaturos se desenvolveram nas carcaças.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materiais e Métodos</head><p>O estudo realizou-se na Área de Proteção Ambiental (APA) da Barra do Rio Mamanguape, que pertence ao município de Rio Tinto, a cerca de 40 km da capital João Pessoa, <ref type="bibr">Paraíba (lat 6° 46' 55'' S ,</ref><ref type="bibr">long 35° 03' 46'' W)</ref>. A área apresenta formação vegetal denominada restinga, a qual reveste as dunas costeiras cuja fisionomia varia profundamente desde o tipo herbáceo até o florestal fechado <ref type="bibr">(Oliveira-Filho e Carvalho, 1993)</ref>. O clima regional tropical chuvoso apresenta uma pluviosidade média anual de 1 177 mm e temperaturas que variam de 24 °C a 27 °C, e possui uma estação chuvosa entre os meses de março a agosto e uma estação seca presente nos meses de setembro a fevereiro <ref type="bibr" target="#b29">(Paraíba 1985</ref><ref type="bibr" target="#b22">, Macedo et al. 2010)</ref>.</p><p>As coletas foram realizadas ao longo de 15 dias durante a estação chuvosa e seca no ano de 2012. Para atração dos Dipteros foram utilizadas quatro carcaças de Sus scrofa Linnaeus, 1758 com 10 kg cada, sendo duas para cada período climático. Os animais foram mortos por meio de arma de fogo, disparada uma única vez na região craniana (CEUA-CBiotec/UFPB protocolo Nº 0405/12). As carcaças foram colocadas em gaiolas individuais (65 cm x 40 cm x 40 cm) a fim de evitar o acesso a animais necrófagos de grande porte (Figura 1A). Abaixo das gaiolas foram colocadas bandejas de madeira (95 cm x 70 cm x 10 cm) preenchidas com maravalhas para facilitar a coleta de pupas dos dípteros que se desenvolveram nas carcaças. As pupas coletadas foram acondicionadas em potes plásticos (11,7 cm x 15 cm x 9,5 cm) fechados com tecido voil para manter a areação e facilitar a coleta dos adultos emergidos (Figura 1B). Os potes foram mantidos sob a temperatura ambiente até a emergência dos adultos.</p><p>Cobrindo a carcaça, foi instalada uma armadilha Shannon de formato cônico formados por tecido voil, medindo 1,5 m de altura e 1,5 m de diâmetro em sua base (Figura 1C). Um tubo coletor contendo álcool 70 % foi acoplado na porção superior da armadilha Shannon com o intuito de coletar as moscas adultas.</p><p>Os insetos coletados foram depositados na Coleção Entomológica do Departamento de Sistemática e Ecologia da Universidade Federal da Paraíba. A identificação dos espécimes foi realizada por meio das chaves <ref type="bibr">de Carvalho e Ribeiro (2000)</ref>, <ref type="bibr" target="#b24">Mello (2003)</ref> e <ref type="bibr" target="#b17">Kosmann et al. (2013)</ref>.</p><p>Os dados climatológicos do ambiente foram obtidos por meio da estação automática Camaratuba-A352 do Instituto Nacional de Meteorologia (INMET) a aproximadamente 20 km do local de estudo. As médias diárias de temperatura e umidade relativa do ar foram utilizadas para avaliar a diferença entre as duas estações climáticas. Para isto foi realizado o teste-T utilizando o programa R v. 3.0.1, precedido pelo teste de Shapiro-Wilk para confirmar a normalidade dos dados. Para avaliar a diferença na abundância das espécies entre as estações climáticas, foram realizados testes de χ 2 (qui-quadrado), no mesmo programa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resultados e Discussão</head><p>Foram coletados 3 499 califorídeos pertencentes a sete espécies: Chrysomya megacephala (Fabricius, 1794), Chysomya albiceps (Wiedemann, 1819), Cochliomyia macellaria (Fabricius, 1775), Chrysomya putoria (Wiedemann, 1818), Lucilia eximia (Wiedemann, 1819), Cochliomyia hominivorax (Coquerel, 1858) e Chloroprocta idioidea (Robineau-Desvoidy, 1830) (Tabela 1). As espécies amostradas no presente estudo também foram registradas no Brasil em diversos ambientes <ref type="bibr" target="#b2">(Alves et al. 2014b)</ref>. No entanto, este é o primeiro registro de moscas da família Calliphoridae associadas ao processo de decomposição animal em ambiente de restinga.  A B C</p><p>Lucilia eximia é uma espécie nativa da região Neotropical e representou 1,5 % dos califorídeos coletados. Também em ambiente de restinga, Lomônaco e Almeida (1995b) registraram Phaenicia eximia (=Lucilia eximia) como a segunda espécie mais abundante dentre os Calliphoridae. Além disso, a maior abundância esteve relacionada à área de flora nativa em comparação com área antropizada. <ref type="bibr" target="#b25">Moretti et al. (2008)</ref> observaram que esta espécie representou 82,9 % dos califorídeos coletados em carcaças de camundongos, em Campinas, SP. Os autores procuraram justificar a elevada abundância pelo fato dessa espécie ser especialmente adaptada a colonizar carcaças de pequeno porte.</p><p>Foram coletados oito indivíduos de C. hominivorax, representando 0,2 % dos espécimes. Esta espécie é nativa da região Neotropical e exerce parasitismo obrigatório ou miíase e, apesar de ter importância zoonótica, possui maior importância veterinária por causar prejuízo econômico ao agronegócio <ref type="bibr" target="#b18">(Leite 2004</ref>). Alguns estudos têm registrado baixa abundância desses califorídeos associados a carcaças de suínos, como observados por <ref type="bibr" target="#b34">Rosa et al. (2011)</ref> em Minas Gerais, <ref type="bibr" target="#b26">Oliveira-Costa et al. (2013)</ref> no Rio de Janeiro e Alves et al. (2014a) na Paraíba. Além disso, devido ao registro raro em carcaças na região Neotropical <ref type="bibr" target="#b2">(Alves et al. 2014b</ref>) tornam-se necessárias obter mais informações para confirmar a importância forense dessa espécie para a região.</p><p>Chloroprocta idioidea foi a espécie menos coletada, representada por apenas quatro indivíduos (0,1 %). Esta baixa abundância coincide com o observado por <ref type="bibr" target="#b34">Rosa et al. (2011)</ref>, que coletaram apenas dois indivíduos em ambiente de Cerrado. No entanto, outros estudos mostraram maior abundância dessa espécie, como observado por <ref type="bibr" target="#b1">Alves et al. (2014a)</ref>, em área de Caatinga na Paraíba, e por <ref type="bibr" target="#b30">Paraluppi (1996)</ref> na Amazônia Central, onde C. idioidea representou, respectivamente, a primeira e segunda espécie mais abundante. Mais estudos serão necessários para entender o motivo da discrepância na quantidade de indivíduos a fim de confirmar a importância forense desta espécie para a região de restinga.</p><p>No que se refere aos dados climáticos, as médias de temperatura e umidade na estação chuvosa durante os dias de coleta foram de 25,7 ± 2,6 °C e 80 ± 13 %, respectivamente, enquanto que nos dias da estação seca foram de 25,1 ± 2,4 °C e 78 ± 12 % (Figura 2). Através do Teste-T observouse diferença significativa na temperatura (t = 287,047, p &lt; 0,0001) e na umidade (t = 149,415, p &lt; 0,0001) entre as estações.</p><p>Com referência a sazonalidade, 66,1 % dos califorídeos foram coletados na estação chuvosa, enquanto que 33,9 % na estação seca (Tabela 1).</p><p>Seis das sete espécies coletadas apresentaram comportamento sazonal. Chrysomya megacephala (86,4 %), L. eximia (82,7 %) e C. hominivorax (87,5 %) foram mais abundantes na estação chuvosa, além de C. idioidea (100 %) ter sido exclusiva para esta estação; já C. albiceps (52,8 %) e C. macellaria (63 %) foram mais abundantes na estação seca. Apenas a espécie C. putoria não apresentou comportamento sazonal, já que o mesmo número de indivíduos foi observado em ambas as estações. A diferença na abundância das espécies entre as estações climáticas foi avaliada através do teste de χ 2 e pôde-se constatar que as espécies C. albiceps, C. hominivorax e C. idioidea apresentaram diferença significativa; já as espécies C. megacephala, C. macellaria e L. eximia apresentaram variação altamente significativa (Tabela 1). Rosa et al. (2011), em ambiente de Cerrado, observaram comportamento sazonal das espécies C. megacephala e C. macellaria semelhante ao do presente estudo, em contraponto, C. hominivorax ocorreu apenas na estação seca, assim como C. putoria foi mais abundante nesta estação. Na Paraíba, Alves et al. (2014a) observaram comportamento sazonal da Espécie Abundância relativa Total Estação chuvosa (março a agosto) Estação seca (setembro a fevereiro) n % Chrysomya megacephala 1 444** 228 1 672 47,8 Chrysomya albiceps 719 804* 1 523 43,5 Cochliomyia macellaria 68 116** 184 5,3 Chrysomya putoria 28 28 56 1,6 Lucilia eximia 43** 9 52 1,5 Cochliomyia hominivorax 7* 1 8 0,2 Chloroprocta idioidea 4* 0 4 0,1 Total 2 313 1 186 3 499 100 Tabela 1. Abundância das espécies de Calliphoridae coletadas em carcaças de suínos na APA da Barra do Rio Mamanguape, Rio Tinto-PB. Teste χ²: *p &lt; 0,05, **p &lt; 0,001. 0 10 20 30 40 50 60 70 80 90 100 1º 2º 3º 4º 5º 6º 7º 8º 9º 10º 11º 12º 13º 14º 15º Temperatura (ºC); Umidade (%) Dias de decomposição Temperatura Chuv. Umidade Chuv. Temperatura Seca Umidade Seca Figura 2. Valores de temperatura (°C) e umidade relativa (%) referente aos dias de decomposição das carcaças de suínos durante as estações chuvosa e seca de 2012. maioria das espécies coletadas, principalmente, na estação chuvosa. Segundo Freire (1914), as variações climáticas no Brasil influenciam principalmente em relação à quantidade de espécimes de moscas capturadas. Lomônaco e Almeida (1995a, 1995b) observaram que em ambiente de restinga tanto a abundância quanto a diversidade de dípteros muscóides podem variar segundo a sazonalidade. Em relação às moscas emergidas a partir das carcaças, todas foram coletadas até o término do estudo em campo. A temperatura ambiente na qual os espécimes foram mantidos foi de 25,7 ± 2,6 °C para a estação chuvosa e 25,1 ± 2,4 °C para a estação seca. Quatro espécies foram registradas: C. albiceps, C. putoria, C. megacephala e C. macellaria, todas registradas para a estação seca, mas apenas as três primeiras para a estação chuvosa (Tabela 2). As espécies C. albiceps, C. megacephala e C. putoria também foram registradas por Souza e Linhares (1997) em Campinas, SP, como espécies desenvolvidas em carcaças de suíno. Adultos emergidos de C. albiceps, C. megacephala e C. macellaria em cadáveres humanos no Rio Grande do Norte e de C. albiceps e C. putoria emergidos de carcaças de suínos em Uberlândia, Minas Gerais, foram registrados por Andrade et al. (2005) e Rosa et al. (2009), respectivamente. Tanto na estação chuvosa quanto na seca os espécimes de C. albiceps e C. putoria começaram a emergir a partir do nono dia após a morte. A primeira manteve emergência de indivíduos diariamente até o 15º dia, enquanto que a segunda até o 13º dia (Tabela 2). Já espécimes de C. megacephala emergiram apenas no 11º e 12º dias durante a estação chuvosa, enquanto que na estação seca emergiram no 10º, 11º e 15º dias, iniciando um dia antes em comparação a outra estação. Espécimes de C. macellaria emergiram no 10º dia após a morte apenas na estação seca. Sob condições controladas de laboratório, Queiroz e Milward-de-Azevedo (1991) observaram que C. albiceps apresenta desenvolvimento de larva a adulto em 10,86 dias a 27 °C. Oliveira et al. (2007) determinaram um tempo de desenvolvimento médio de 8,1 dias para C. putoria sob temperatura de 27 °C. Para C. megacephala, Barros-Cordeiro e Pujol-Luz (2010) observaram um tempo de desenvolvimento de 8,08 dias a 26 °C. Byrd e Butler (1996) constataram a emergência de adultos de C. macellaria no 10º dia, sob temperatura de 25 °C. Já sob condições naturais, Barros-Souza et al. (2012) observaram que C. megacephala apresenta emergência de adultos entre 9,42 e 10,73 dias e C. albiceps, entre 9,43 e 14,56 dias. Estes autores também perceberam que o tempo total de desenvolvimento daquelas espécies assemelha-se ao observado em condições laboratoriais. Geralmente as moscas iniciam a postura de ovos em carcaças logo nas primeiras horas após a morte, desde que não haja impedimentos (Goff 2000). Em decorrência dessa atividade, elas possuem grande potencial forense, pois uma das formas de estimar o Intervalo Pós-Morte (IPM) é baseada na idade de desenvolvimento das progênies oriundas, sobretudo, da primeira geração (Catts e Goff 1992). No presente estudo foram observadas massas de ovos logo que se iniciaram as coletas dos adultos na armadilha Shannon, e comparando-se com os tempos de emergência citados nos estudos acima, pode-se estimar que os espécimes emergidos (C. albiceps, C. putoria, C. megacephala e C. macellaria) refletem o tempo de morte dos suínos e, portanto, têm grande potencial forense na estimativa do IPM para a região de restinga. Conclusões A composição das espécies distinguiu-se da observada em outros estudos de mesma natureza e reforça a importância de estudos em ambientes diferentes. Foi observada maior abundância dos califorídeos na estação chuvosa, e seis das sete espécies coletadas apresentaram comportamento sazonal, sendo que três de forma mais pronunciada (C. megacephala e C. macellaria e L. eximia) e outras três de forma menos pronunciada (C. albiceps, C. hominivorax e C. idioidea). Quatro espécies foram consideradas de grande potencial forense para a área de estudo (C. albiceps, C. putoria, C. megacephala e C. macellaria) por apresentarem desenvolvimento de progênie em carcaças em decomposição, o que possibilita a estimação do IPM. Estudo futuros de biologia, bionomía e distribuição das espécies ocorrentes no ambiente de restinga são necessários para melhor compreender a relação destas espécies com o processo de decomposição animal e assim contribuir com o conhecimento de Entomologia Forense para a região.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos</head><p>À Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) pela bolsa de pesquisa. Aos avaliadores anônimos pelos comentários no manuscrito.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>As espécies C. megacephala e C. albiceps compuseram 91,3 % do total. Em ambiente de restinga no Rio de Janeiro,Lomônaco e Almeida  (1995b)  observaram que essas espécies foram mais coletadas em ambiente antropizado em comparação com área de flora nativa, apesar de não ter havido diferença significativa. As duas espécies são consideradas de grande importância forense(Souza e Linhares 1997, Carvalho et al.  2000, Carvalho e Linhares 2001) assim como foram amplamente registradas em estudos de mesmo escopo na região Neotropical<ref type="bibr" target="#b2">(Alves et al. 2014b)</ref>.As duas espécies são exóticas e a adaptação às características dos novos ambientes se mostrou tão efetiva que resultou na distribuição dessas espécies por todo o país e, em alguns casos, levou ao deslocamento ou extinção dos muscóides nativos, devido à interferência e competição das espécies (Prado e Guimarães 1982, Aguiar-Coelho e Milward-de-Azevedo 1998).Cochliomyia macellaria foi a terceira espécie mais abundânte com 5,3 % dos Calliphoridae coletados. Essa espécie é nativa e sua abundância ficou muito aquém das espécies exóticas C. megacephala e C. albiceps. Cochliomyia macellaria foi bem mais abundante nos estudos de<ref type="bibr" target="#b30">Paraluppi (1996)</ref> e segunda espécie mais abundante da família no estudo de Rosa et al. (2011). O atual estado de conhecimento sobre biologia e bionomia desta espécie (Byrd e Butler 1996, Aguiar-Coelho e Milward-de-Azevedo 1998), além do amplo registro no Neotrópico (Alves et al. 2014b) indicam que esta espécie tem potencial forense para a região Neotropical apesar da baixa abundância no presente estudo. Foram coletados 56 indivíduos de C. putoria, representando 1,6 % dos Calliphoridae. Em ambiente de Caatinga na Paraíba, Alves et al. (2014a) também observaram baixa abundância dessa espécie. Resultado oposto foi relatado por Carvalho et al. (2000) e Carvalho e Linhares (2001), ambos realizados em Campinas, SP, onde essa espécie foi a segunda mais abundante.O bom conhecimento sobre a bionomia desta espécie<ref type="bibr" target="#b28">(Oliveira et al. 2007</ref>) e o amplo registro em diversos ambientes na região Neotropical<ref type="bibr" target="#b2">(Alves et al. 2014b</ref>) confirmam sua aplicabilidade como indicador forense para a restinga.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figura 1 .</head><label>1</label><figDesc>Figura 1. A: Carcaça de suíno no interior da gaiola e sobre bandeja contendo maravalhas. B: Pote para coleta das moscas emergidas. C: Armadilha para coleta dos Calliphoridae.</figDesc><graphic coords="4,141.84,117.84,360.24,247.47" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Combined rearing of Cochliomyia macellaria (Fabr.), Chrysomya megacephala (Fabr.) and Chrysomya albiceps (Wied.) (Dipt., Calliphoridae) under laboratory conditions</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emv</forename><surname>Milward-De-Azevedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Entomology</title>
+		<imprint>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page" from="551" to="554" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Blowflies (Diptera, Calliphoridae) associated with pig carcasses in a Caatinga area, Northeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Acf</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rcap</forename><surname>Farias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Creão-Duarte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="122" to="126" />
+			<date type="published" when="2014">2014a.</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Diptera (Insecta) de importância forense da região Neotropical</title>
+		<author>
+			<persName><forename type="first">Acf</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Creão-Duarte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomotropica</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="77" to="94" />
+			<date type="published" when="2014">2014b.</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) coletados em cadáveres humanos no Rio Grande do Norte</title>
+		<author>
+			<persName><forename type="first">Hta</forename><surname>Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Varela-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Batista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Medeiros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="855" to="856" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Morfologia e duração do desenvolvimento pós-embrionário de Chrysomya megacephala (Diptera: Calliphoridae) em condições de laboratório</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">B</forename><surname>Barros-Cordeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papéis Avulsos de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">47</biblScope>
+			<biblScope unit="page" from="709" to="717" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Development period of forensic importance Calliphoridae (Diptera: Brachycera) in urban area under natural conditions in Manaus</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Barros-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Ferreira-Keppler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Agra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomobrasilis</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="99" to="105" />
+			<date type="published" when="2012">2012</date>
+			<pubPlace>Amazonas, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Effects of temperature on Cochliomyia macellaria (Diptera: Calliphoridae) development</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Butler</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="901" to="905" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Chave de identificação das espécies de Calliphoridae (Diptera) do Sul do Brasil</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A checklist of arthropods associated with pig carrion and human corpses in southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Lml</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fab</forename><surname>Palhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memória do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="135" to="138" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Seasonality of insect succession and pig carcass decomposition in a natural forest area in southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Lml</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Forensic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="604" to="608" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Forensic entomology in criminal investigations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Catts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="253" to="272" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Esteves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Lacerda</surname></persName>
+		</author>
+		<title level="m">Ecologia de restingas e lagoas costeiras</title>
+		<meeting><address><addrLine>Macaé</addrLine></address></meeting>
+		<imprint>
+			<publisher>NUPEM/UFRJ</publisher>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="page">446</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Composição e sazonalidade de espécies de Euglossina (Hymenoptera: Apidae) em mata e duna na Área de Proteção Ambiental da Barra do Rio Mamanguape</title>
+		<author>
+			<persName><forename type="first">Rcap</forename><surname>Farias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Madeira-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Pereira-Peixoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Martins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="253" to="258" />
+			<date type="published" when="2008">2008</date>
+			<pubPlace>Rio Tinto, PB</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">First record of Scirtidae (Coleoptera) associated with decaying carcasses in the Neotropical region</title>
+		<author>
+			<persName><forename type="first">Rcap</forename><surname>Farias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dal-Bó</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Creão-Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomobrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="171" to="172" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Levantamento florístico do Parque Estadual das Dunas do Natal</title>
+		<author>
+			<persName><forename type="first">Msb</forename><surname>Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Botanica Brasilica</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="41" to="59" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Algumas notas para o estudo da fauna cadavérica da Bahia</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gazeta Médica da Bahia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="149" to="162" />
+			<date type="published" when="1914">1914</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">A fly for the prosecution -How insect evidence helps solve crimes</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Harvard University Press</publisher>
+			<biblScope unit="page">225</biblScope>
+			<pubPlace>Cambridge</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">A list of current valid blowflies names (Diptera: Calliphoridae) in the americas south of Mexico with key to the Brazilian species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Harterreiten-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Biologia e Controle de Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">Acr</forename><surname>Leite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="116" to="117" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Espécies exóticas de Chrysomya (Diptera, Callihpridae) como veiculadoras de enterobactérias patogênicas em Curitiba, Paraná, Brasil</title>
+		<author>
+			<persName><forename type="first">Mlps</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luz</forename><forename type="middle">E</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Biológica Paranaense</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1-2-3-4</biblScope>
+			<biblScope unit="page" from="61" to="83" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sazonalidade e uso de recursos para alimentação e oviposição de dípteros muscóides na restinga de Jacarepaguá, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lomônaco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="883" to="890" />
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Estrutura comunitária de dípteros muscóides da restinga de Jacarepaguá</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Lomônaco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="891" to="896" />
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Rio de Janeiro, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Análise do índice padronizado de precipitação para o estado da Paraíba</title>
+		<author>
+			<persName><forename type="first">Mjh</forename><surname>Macedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rvs</forename><surname>Guedes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fas</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Frc</forename><surname>Dantas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Ambi-Água</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="204" to="214" />
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Taubaté</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Estimativa do intervalo pós-morte em um canino (Canis lupus familiaris Linnaeus, 1758) pela entomologia forense em Cabedelo-PB, Brasil: relato de caso</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Creão-Duarte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lbg</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aaf</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo Brasileiro de Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1107" to="1110" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Chave para identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomologia y Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Insects on decomposing carcasses of small rodents in a secondary forest in southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">O</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Solis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="691" to="696" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Diptera Calliphoridae de importância forense no município do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">J ;</forename><surname>Oliveira-Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Oliveira-Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Bastos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Entomologia forense: quando os insetos são os vestígios, 3ª Ed. Campinas: Millennium. 520 p</title>
+		<imprint>
+			<date type="published" when="2011">2011. 2013</date>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="41" to="52" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Florística e fisionomia da vegetação no extremo norte do litoral da Paraíba</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Oliveira-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Botânica</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="115" to="130" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Morfologia e duração dos instares larvais de Chrysomya putoria (Wiedemann) (Diptera, Calliphoridae), em laboratório</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="239" to="245" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Atlas geográfico do estado da Paraíba</title>
+		<author>
+			<persName><surname>Paraíba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Secretaria de Educação</title>
+		<imprint>
+			<date type="published" when="1985">1985</date>
+			<publisher>Grafes</publisher>
+			<pubPlace>João Pessoa</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Universidade Federal da Paraíba</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Calllphoridae (Diptera) da bacia do alto rio Urucu</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Paraluppi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1996">1996</date>
+			<pubPlace>Amazônia Central, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Estado atual de dispersão e distribuição do gênero Chrysomya Robineau-Desvoidy na região Neotropical (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="225" to="231" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Técnicas de criação e alguns aspectos da biologia de Chrysomya albiceps (Wiedemann) (Diptera: Calliphoridae), sob condições de laboratório</title>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emv</forename><surname>Milward-De-Azevedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1-2-3-4</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Dípteros de interesse forense em dois perfis de vegetação de Cerrado em Uberlândia, MG</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mly</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="859" to="866" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Arthropods associated with pig carrion in two vegetation profiles of Cerrado in the State of Minas Gerais</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mly</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Z</forename><surname>Vaz-De-Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="424" to="434" />
+			<date type="published" when="2011">2011</date>
+			<pubPlace>Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Ecological roles of Coleoptera associated with carcasses in Caatinga</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Acf</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rcap</forename><surname>Farias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Creão-Duarte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomobrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="248" to="250" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diptera and Coleoptera of potential forensic importance in southeastern Brazil: relative abundance and seasonality</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="12" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Record of oral myiasis by Cochliomyia hominivorax (Diptera: Calliphoridae): case evidencing negligence in the treatment of incapable</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Nassu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amu</forename><surname>Costella</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Costella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitology Research</title>
+		<imprint>
+			<biblScope unit="volume">111</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="957" to="959" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Cupins de duas florestas de restinga do nordeste brasileiro</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vasconcellos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Acs</forename><surname>Mélo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Emv</forename><surname>Segundo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Bandeira</surname></persName>
+		</author>
+		<idno>Recibido: 13-06-2014. Aceptado: 04-02-2015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Iheringia, Série Zoológica</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="127" to="131" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

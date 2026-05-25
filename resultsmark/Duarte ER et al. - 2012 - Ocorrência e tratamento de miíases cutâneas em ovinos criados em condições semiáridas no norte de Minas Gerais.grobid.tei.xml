@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Ocorrência e tratamento de miíases cutâneas em ovinos criados em condições semiáridas no norte de Minas Gerais 1</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Eduardo</forename><forename type="middle">R</forename><surname>Duarte</surname></persName>
+							<email>duartevet@hotmail.com</email>
+						</author>
+						<author>
+							<persName><forename type="first">Fabrício</forename><forename type="middle">T</forename><surname>Da Rocha</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Lucas</forename><forename type="middle">M</forename><surname>Teixeira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rayana</forename><forename type="middle">B</forename><surname>Silva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Flávia</forename><forename type="middle">A</forename><surname>Nogueira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Nathalie</forename><forename type="middle">O</forename><surname>Silva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Anna</forename><forename type="middle">C</forename><surname>Almeida</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Silva</forename><forename type="middle">N O &amp;</forename><surname>Al-</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Instituto de Ciências Agrárias , Universidade Federal de Minas Gerais , Av. Universitária 1000 ,</note>
+								<orgName type="institution" key="instit1">Instituto de Ciências Agrárias</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Minas Gerais</orgName>
+								<address>
+									<addrLine>Av. Universitária 1000</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Bairro Universitário , Montes Claros , MG 39400- 006 , Brazil.</note>
+								<orgName type="institution">Bairro Universitário</orgName>
+								<address>
+									<addrLine>Montes Claros</addrLine>
+									<postCode>39400- 006</postCode>
+									<region>MG</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Ocorrência e tratamento de miíases cutâneas em ovinos criados em condições semiáridas no norte de Minas Gerais 1</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">6CB8BF72D4E087310F7464F3057A6521</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cochliomyia hominivorax</term>
+					<term>miyasis</term>
+					<term>sheep</term>
+					<term>predisposing factors</term>
+					<term>semiarid</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>RESUMO.-A ocorrência de miíases cutâneas foi veriϐicada em 10 diferentes criatórios de ovinos no norte de Minas Gerais, Brasil, durante o período de um ano, onde foram analisados os fatores relacionados a essas parasitoses. Os rebanhos possuíam predominantemente animais mestiços Santa Inês, criados em sistemas semiextensivo. Foram registrados 50 casos e a maior incidência foi observada nos meses de março (22%) e abril (18%), períodos de maiores temperaturas e umidade relativa do ar. As patas foram as regiões mais frequentemente acometidas (34% dos casos). As lesões por pododermatites (38% dos casos), onfaloϐlebites (10%), linfadenite (6%) e dermatobiose (6%) foram os fatores mais frequentemente relacionados às miíases. As</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>taxas de ocorrência não diferiram quanto ao sexo e idade dos animais. Foi constatado que a maioria dos proprietários não realizava o tratamento das miíases de forma correta, sendo que após a implantação de uma terapia preconizada nesta pesquisa, 92% das lesões apresentaram cura entre sete e trinta dias. Os resultados apontam a importância de estratégias para prevenção baseadas nos fatores relacionados neste estudo. A inspeção constante dos ovinos, identiϐicando-se os ferimentos e tratando-se as lesões precocemente, devem constituir práticas rotineiras, principalmente no período chuvoso e quando estão presentes nas patas dos animais.</p><p>TERMOS DE INDEXAÇÃO: Cochliomyia hominivorax, miíases, ovinocultura, fatores predisponentes, sazonalidade, semiárido.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>As miíases são lesões causadas pela invasão do tecido cutâneo por larvas de insetos dípteros que se alimentam de te-cidos vivos, não necrosados (biontófagas), ou em necrose (necrobiontófagas) <ref type="bibr" target="#b5">(Fortes 2004</ref><ref type="bibr" target="#b2">, Bowman et al. 2006)</ref>. Essas larvas são os ectoparasitos mais frequentes nos plantéis de ovinos em regiões tropicais e sub-tropicais e responsáveis por grandes perdas econômicas <ref type="bibr" target="#b11">(Madeira et al. 2000)</ref>.</p><p>A mosca Cochliomyia hominivorax (Coquerel), conhecida como mosca das bicheiras, causa grandes prejuízos à pecuária. As larvas parasitam animais de sangue quente e produzem feridas em animais domésticos, selvagens e até mesmo em humanos <ref type="bibr" target="#b8">(Guimarães &amp; Papavero 1999)</ref>. É um parasito que requer tecido vivo como alimento. Vinte e quatro horas após a postura, que geralmente ocorre nas bordas das feridas, os ovos eclodem o primeiro estágio da larva que penetra no tecido vivo para se alimentar. Até o sétimo dia de parasitismo as larvas escavam o tecido, aumentando e aprofundando ainda mais a ferida. Nas lesões observa-se secreção serosa e sanguinolenta, de cheiro pútrido característico, que atrai novas posturas, resultando em infestações múltiplas com centenas a milhares de larvas de diferentes estádios <ref type="bibr" target="#b5">(Fortes 2004</ref><ref type="bibr" target="#b2">, Bowman et al. 2006)</ref>.</p><p>Existem situações em que, dependendo da localização, as infestações se tornam profundas, provocando a morte dos animais por hemorragia ou inviabilizando-os quando destrói a glândula mamária, o sistema reprodutor ou locomotor. Especialmente em pequenos ruminantes, como os ovinos, as larvas das moscas podem destruir muitos tecidos em períodos inferiores a 24 horas e na maioria das vezes o animal ϐica mutilado <ref type="bibr" target="#b16">(Snoep et al. 2002</ref><ref type="bibr" target="#b17">, Teixeira et al. 2008)</ref>.</p><p>As miíases em ovinos são frequentemente relatadas por criadores em regiões tropicais. Entretanto, os fatores predisponentes para esses pequenos ruminantes e as medidas proϐiláticas e curativas não estão completamente estabelecidas. O conhecimento dos aspectos epidemiológicos das miíases em ovinos é fundamental para adoção de medidas preventivas e de controle, uma vez que nesses pequenos ruminantes as larvas podem ocasionar rápidas e signiϐicativas perdas de tecidos. O objetivo neste estudo foi relatar e caracterizar a ocorrência de miíases em rebanhos de ovinos criados em condições tropicais semiáridas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL E MÉTODOS</head><p>Durante o período de setembro de 2006 a agosto de 2007, foram realizadas visitas mensais em 10 diferentes criatórios de ovinos no norte de Minas Gerais, pertencentes aos municípios de Montes Claros, Coração de Jesus, Francisco Sá e Janaúba. A região está localizada a aproximadamente 16º40'02'' de latitude Sul, 43º51'23'' de longitude Leste de Greenwich e a aproximadamente 465m de altitude. O clima da região é caracterizado como tropical típico, quente e semi-úmido, com uma estação chuvosa curta (de novembro a março) e outra seca longa (abril a outubro) bem deϐinida. O clima é caracterizado como Aw, ou seja, tropical quente, com chuvas de verão e temperaturas médias anuais entre 22 e 24°C e pluviosidade média anual entre 700 e 1100mm <ref type="bibr" target="#b9">(Koppen 1948)</ref>.</p><p>Os planteis de ovinos visitados eram constituídos principalmente por animais mestiços da raça Santa Inês e possuíam em média 145 animais. Durante as visitas, todos os animais foram vistoriados para identiϐicação de miíases, observando-se o local da ferida e pesquisando-se a possível causa do ferimento. Os dados de ocorrência das miíases foram analisados pelo teste do qui-qua-drado, considerando-se signiϐicativas as diferenças com P&lt;0,05. Para identiϐicação parasitológica, larvas viáveis provenientes das feridas foram recolhidas, lavadas em solução salina estéril e cultivadas em frascos com serragem estéril para a obtenção dos adultos e classiϐicação de acordo com <ref type="bibr" target="#b2">Bowman et al. (2006)</ref>.</p><p>Após o diagnóstico, práticas terapêuticas foram realizadas nos animais parasitados. Primeiramente, os animais foram isolados do rebanho em um local de fácil acesso, para facilitar o tratamento. Para tal, foi procedida a tricotomia e as áreas acometidas eram lavadas com água morna ϐiltrada. Posteriormente, foi aplicada solução 50% éter/álcool 92º para facilitar a retirada das larvas com o auxilio de pinças. Foi aplicada a tintura de iodo a 5% em toda lesão e logo após foi administrado o larvicida trichlorphon, na forma de unguento. Para evitar re-infestações, os proprietários foram orientados a procederem inspeção diária nos animais acometidos, realizar o tratamento tópico recomendado e, em casos de feridas muito amplas (com diâmetro superior a 5cm) administrar doramectina (200μg/kg de peso corporal (pc), via subcutânea.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS E DISCUSSÃO</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ocorrência</head><p>Os resultados indicaram que em todos os plantéis visitados ocorreram miíases, totalizando 50 casos ao longo do ano de estudo. A maior incidência foi nos meses de março e abril (P&lt;0,05), sendo registrados 22% e 18% dos casos, respectivamente como demonstrado no Quadro 1. Atenção especial deve ser adotada para a inspeção dos animais durante esses meses em regiões com características climáticas semelhantes à área estudada. Em um estudo da ϐlutuação da mosca Cochliomyia hominivorax em armadilhas no estado de Mato Grosso, Brasil, <ref type="bibr" target="#b6">Gomes et al (1998)</ref> reportaram que apesar de não terem capturado grande número de adultos, a presença foi constatada em todos os meses do ano. Entretanto, no mês de março foi veriϐicado o maior número de adultos capturados, o que corrobora com os dados de ocorrência de miíases deste estudo, uma vez que maiores populações poderiam favorecer a maior incidência de lesões.</p><p>Segundo <ref type="bibr" target="#b0">Alahmed (2004)</ref> a ocorrência de miíases ocasionadas por Chrysomya spp. em ovinos criados na região de Riyadh, Arábia Saudita, também foi signiϐicativamente maior para os meses com maiores umidades relativas do ar, correspondendo a 60% dos casos.</p><p>Os resultados dos cultivos de larvas provenientes de duas propriedades produziram adultos da espécie Cochliomyia hominivorax. Para as demais propriedades, as lesões possuíam larvas inviáveis para o cultivo e identiϐicação. Em outro estudo no estado de São Paulo, Brasil, por <ref type="bibr" target="#b11">Madeira et al. (2000)</ref> , essa espécie também foi identiϐicada. Em 89,5% das propriedades foi relatada a presença de ectoparasitas no rebanho, sendo Cochliomyia hominivorax o ectoparasita mais frequente (72,5%), seguida por larvas Dermatobia hominis (45,0%). Foi constatado que as miíases ocasionaram grandes prejuízos econômicos e a prevalência foi 100% em rebanhos com mais de 500 animais e a infestação foi maior na primavera e no verão <ref type="bibr" target="#b11">(Madeira et al. 2000)</ref>.</p><p>Além de Cochliomyia hominivorax, causando miíase primária, há registros que as espécies do gênero Chrysomya causam miíases secundárias em animais domésticos <ref type="bibr" target="#b11">(Madeira et al. 2000)</ref>. No Brasil, Chrysomya albiceps foi detec-Eduardo R.Duarte et al.</p><p>tada em bovinos e ovinos <ref type="bibr" target="#b13">(Oliveira 1985</ref><ref type="bibr" target="#b12">, Madeira 2001)</ref>, ocorrendo em associação com C. hominivorax em ovinos. Segundo <ref type="bibr" target="#b12">Madeira (2001)</ref>, as miíases causadas por essa espécie no Brasil podem ser apenas secundárias, não havendo evidências que possam conϐirmar a sua capacidade de iniciar uma lesão no tecido.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Regiões anatômicas acometidas</head><p>Os locais de maiores ocorrências das lesões foram as patas (34%, P&lt;0,05), orelhas (16%) e umbigo (10%) conforme demonstrado no Quadro 2. A ocorrência não variou de forma signiϐicativa entre patas anteriores (12 casos) e posteriores (15 casos). Existem situações em que, dependendo da localização, as infestações se tornam profundas, provocando a morte dos animais por hemorragia ou inviabilizando-os quando destroem a glândula mamária, o sistema reprodutor ou locomotor. Especialmente em pequenos ruminantes as larvas das moscas podem destruir tecidos desses sistemas em períodos inferiores a 24 horas e na maioria das vezes o animal ϐica mutilado <ref type="bibr" target="#b17">(Teixeira et al. 2008)</ref>.</p><p>Entretanto, <ref type="bibr" target="#b4">Farkas et al. (1997)</ref> e Al-Eissa et al. ( <ref type="formula">2008</ref>), em estudos realizados respectivamente na Hungria e na Síria, constataram que os órgãos genitais foram os locais mais comuns de infestação por miíases em ovinos. A epidemiologia de miíases em ovinos criados na Holanda indicou que a região mais acometida foi a cauda dos animais e foram relacionadas principalmente a elevadas temperaturas e umidade relativa do ar <ref type="bibr" target="#b16">(Snoep et al. 2002)</ref>. Esses relatos podem sugerir que diferenças de manejo e a região geográϐica de criação dos animais possam inϐluenciar os locais de ocorrências das lesões, ou possivelmente ás espécies de moscas prevalentes em cada região geográϐica.</p><p>Acredita-se que os locais de ocorrência possam ser inϐluenciados pela espécie do hospedeiro. <ref type="bibr" target="#b19">Veríssimo &amp; Franco (1994)</ref> relataram para um rebanho com aproximadamente 700 cabeças de bovinos mestiços que as miíases foram mais frequentemente localizadas na região mediana e ventral do períneo, na inserção dorsal da cauda ou no úbere e na orelha ou pescoço, correspondendo respectivamente a 29,3%, 13,8% e 10,3 % dos casos.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fatores predisponentes</head><p>No presente estudo, os fatores predisponentes para as miíases mais frequentemente relatados foram às lesões por pododermatites (38%), onfaloϐlebites (10%), linfa-</p><p>Quadro 1. Distribuição de casos de miíases cutâneas em ovinos criados no norte de Minas Gerais e precipitação pluviométrica, umidade relativa e temperatura mensal no período de setembro de 2006 a agosto de 2007 Mês/ano Índice Temperatura Umidade Número Ocorrência Pluviométrico (mm) (média O C) de casos (%) Set/06 0,0 23,2 45 4 8 Out/07 13,3 26,0 42 3 6 Nov/06 72,5 26,7 52 4 8 Dez/06 101,8 24,9 67 0 0 Jan/07 139,1 24,9 74 4 8 Fev/07 264,1 23,4 80 4 8 Mar/07 146,0 24,1 68 11* 22 Abr/07 16,4 23,6 69 9* 18 Mai/07 2,2 21,7 64 4 8 Jun/07 0,0 20,5 60 4 8 Jul/07 0,0 20,9 56 0 0 Ago/07 0,0 21,0 49 3 6 * Indica diferença signiϐicativamente maior com valor de P&lt;0,05 no teste do qui-quadrado. Quadro 2. Local de ocorrência e fatores predisponentes relacionados às miíases em ovinos criados no norte de Minas Gerais Locais de ocorrências Fatores relacionados n Frequência% n Frequência% Olho 1 2 Pododermatite 19* 38 Cauda 1 2 Linfadenite 3 6 Pescoço 3 6 Mastite 2 4 Patas 17* 34 Onfaloϐlebite 5 10 Umbigo 5 10 Berne 3 6 Orelhas 8 16 Parto 1 2 Vulva 1 2 Brinco 1 2 Costado 3 6 Arame 2 4 Úbere 2 4 Colar 2 4 Região mandibular 1 2 Não identiϐicado 12 24 Região torácica 4 8 Dorso 1 2 Membro anterior 3 6 Total 50 100 50 100 * Indica diferença signiϐicativamente maior com valor de P&lt;0,05 no teste do qui-quadrado. denite (6%) e dermatobiose (6%). Esses dados indicam a importância dessas doenças para o controle e prevenção das miíases. Três entre quatro casos relacionados a mortes estavam associados às pododermatites e para um quarto animal, essa doença, juntamente com a miíase, culminou na amputação de um membro anterior. Pododermatites e onfaloblebites foram detectadas em maiores frequências nos meses de março e abril, indicando uma associação direta com as miíases neste presente estudo. Foram também observados casos associados à mastite crônica, partos distócicos, lesões provocadas por brincos e colares de identiϐicação e cerca de arame (Quadro 2). Os borregos estão sujeitos a miíases já nas primeiras horas de vida, uma vez que as moscas são atraídas para as bordas do cordão umbilical, ainda não cicatrizado. Matrizes com partos distócicos ou com retenção de placenta também favorecem a presença das moscas de miíases. As intervenções relacionadas ao manejo, como castrações, descornas, ferimentos em cercas de arame farpado e feridas causadas nas infestações por carrapatos em ovinos ou por larvas de Dermatobia hominis podem também ocasionar ferimentos com perda de integridade dos tecidos, contribuindo com a iniciação das lesões <ref type="bibr" target="#b2">(Bowman et al. 2006</ref><ref type="bibr" target="#b17">, Teixeira et al. 2008)</ref>.</p><p>Segundo um relato de <ref type="bibr" target="#b18">Veríssimo (2003)</ref>, as lesões de miíases foram detectadas no umbigo de bezerros e cordeiros recém-nascidos. Especiϐicamente para bovinos as lesões foram associadas à castração e nas orelhas foram relacionadas a alta infestação por carrapatos. Em ovinos, as lesões foram detectadas no pavilhão auricular, após a instalação de brincos, e no ferimento causado por caudectomia, tosquia e por um carcinoma epidermoide de células escamosas. <ref type="bibr" target="#b7">Gomes et al. (2006)</ref>, relataram que em uma ovelha que havia sofrido pequenas escoriações na vulva, durante o processo de inseminação artiϐicial, foi detectada a infestação por Cochliomyia hominivorax. Posteriormente, no mesmo animal foi veriϐicada miíase cutânea secundária, de grande extensão, provocada por Chrysomya sp. nas regiões lombar, sacral e perineal. Segundo os autores, essa colonização ocorreu, possivelmente, em função das secreções e odores produzidos pela miíase primária. A presença de tecido necrótico, da oleosidade e descamação da pele, da lã comprida com retenção de exsudatos foram fatores favorecedores. As larvas se alimentavam da mistura superϐicial, lesionando a epiderme do animal, culminando com o aumento das lesões.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Tratamento e medidas de controle</head><p>Para a maioria dos casos detectados neste estudo, o criador ou tratador já haviam aplicado óleo queimado ou repelente com organofosforados nas lesões, ocasionando a morte das larvas localizadas na superϐície das feridas. Entretanto, após a higienização e debridamento das feridas, muitas larvas vivas foram encontradas. Para os cinquenta ovinos com miíases que foram tratados com as práticas adotadas neste estudo, 46 deles apresentaram cura clínica e parasitológica entre sete e 30 dias. Quatro animais que possuíam lesões profundas e crônicas nas patas (três matrizes) e no ventre (um reprodutor), ambos com gran-de perda de tecidos e contaminações secundárias microbianas, morreram. Para uma outra matriz foi necessária a amputação do membro anterior e para outra foi removido cirurgicamente a orelha e, posteriormente, ambas apresentaram cura após 30 dias de tratamentos tópicos, com limpeza diária e aplicação de unguento, além da administração subcutânea de enroϐloxacina (2,5mg/kg de pc durante sete dias) e doramectina (200μg/kg de pc).</p><p>Os ovinos que apresentam miíases tornam-se inquietos, pastejam menos, perdem peso e frequentemente o quadro culmina com a morte, devido às hemorragias e toxemias originadas de infecções bacterianas secundárias <ref type="bibr" target="#b2">(Bowman et al. 2006</ref><ref type="bibr" target="#b17">, Teixeira et al. 2008)</ref>. <ref type="bibr" target="#b3">Caballero et al. (1996)</ref>, em uma pesquisa para isolar e identiϐicar microrganismos associados com miíases, encontrou trinta e oito diferentes espécies bacterianas nos exudatos coletados antes, durante e após o ciclo parasitário. <ref type="bibr" target="#b18">Veríssimo (2003)</ref> relata que em casos de miíases no pavilhão auricular, com possibilidade de atingir o ouvido interno, deve-se sempre preconizar a administração de antibiótico sistêmico para evitar infecções secundárias, que podem levar o animal ao óbito. Recente estudo indicou que o tratamento local da ferida com óleo de terebintina, obtido da destilação de resinas de coníferas, associada à administração intramuscular de penicilina e estreptomicina apresentou alta eϐicácia para a cura de miíases em bovinos <ref type="bibr" target="#b14">(Rahman et al. 2009)</ref>.</p><p>Muitos produtores utilizam para tratamento apenas a administração de produtos larvicidas em sprays, sendo esses considerados frequentemente bons repelentes quando usados de forma correta. Porem, tais produtos não possuem efeito larvicida satisfatório no controle de larvas instaladas profundamente nos tecidos <ref type="bibr" target="#b10">(Madeira et al. 1998)</ref>. Em alguns casos, tem-se suspeitado da resistência de algumas populações de moscas aos produtos à base de organofosforados <ref type="bibr" target="#b19">(Veríssimo &amp; Franco 1994)</ref>.</p><p>Devido à alta susceptibilidade dos ovinos à miíase, é necessário adoção de programas preventivos baseados nos fatores predisponentes identiϐicados e, quando instalada, deve-se realizar o tratamento precocemente. A intervenção imediata evita que se crie condição favorável para as larvas completarem o ciclo evolutivo e aumentarem a população das moscas na região. Ferimentos desnecessários devem ser evitados e quando ocorrerem, a assepsia deve ser imediata, evitando-se a postura das moscas.</p><p>Tratamento do umbigo dos recém-nascidos deve ser realizado imediatamente após o nascimento com tinturas de iodo a 5-10%. Animais com lesões ou feridas nas patas devem ser separados do rebanho, tratados e monitorados diariamente até a cura completa das lesões, que especiϐicamente para essa região anatômica apresentam diϐícil cicatrização, ocasionada pela constante contaminação microbiana.</p><p>Cercas de arame farpado, instalações com obstáculos e farpas, instrumentos pontiagudos e cães ou outros animais ferozes devem ser evitados. As pastagens devem estar sempre limpas e ter lotação de animais adequada evitando brigas e predisposições a ferimentos.</p><p>As marcações com ferro quente ou perfurações das orelhas devem ser evitadas e infestações de berne, linfadenite e pododermatite devem ser monitoradas e controladas. Os animais doentes devem ϐicar isolados em um local conϐinado até a cura da ferida para facilitar as intervenções e tratamentos. Outro aspecto importante é que esse animal doente, quando mantido junto com os demais, acaba sendo dominado e frequentemente não tem acesso á alimentação e à água.</p><p>É imprescindível que antes da cura das feridas se realize tricotomia, limpeza e a aplicação de solução com éter/ álcool. Para a cura das bicheiras deve ser utilizada a tintura de iodo a 5% primeiramente. Posteriormente, pode ser utilizado um dos vários compostos químicos larvicidas, apresentados em pós, líquidos, ungüentos e sprays, os quais estão associados com antimicrobianos, anti-sépticos, piretróides, cicatrizantes e adstringentes. Os ungüentos têm apresentado bons resultados principalmente nos períodos de maior precipitação pluviométrica. Os inseticidas e larvicidas comerciais geralmente possuem ação residual curta e para evitar re-infestações, exigem inspeção diária e tratamentos freqüentes nos animais.</p><p>Em uma pesquisa avaliando-se os efeitos da administração de ivermectina e permetrina no controle de miíases em ovinos, foi observada a redução signiϐicativa no número de larvas vivas em comparação ao grupo não tratado. Ambas as drogas reduziram a re-infestação, com proteção total durante 22 dias, no grupo tratado com ivermectina. Para o grupo tratado com permetrina, a proteção foi apenas parcial e prevaleceu durante 13 dias. A ivermectina foi mais eϐicaz para a erradicação das larvas das feridas infestadas, reduziu os prejuízos ocasionados pelas lesões nos animais e foi signiϐicativamente mais efetiva para evitar o surgimento de pupa e adultos das moscas <ref type="bibr" target="#b1">(Al-Eissa et al. 2008)</ref>. Esse fármaco apresenta mecanismo de ação semelhante à doramectina, preconizada neste presente estudo, corroborando a importância de medicação dos animais para a cura das lesões.</p><p>Ivermecitina e doramectina têm demonstrado boa eϐicácia na prevenção das miíases e devem ser utilizadas rotineiramente como curativo e/ou preventivo nos ferimentos cirúrgicos <ref type="bibr" target="#b15">(Sanavria et al. 1996</ref><ref type="bibr" target="#b1">, Al-Eissa et al. 2008)</ref>. Esses produtos são essenciais para se evitar as re--infestações nas lesões, como pôde ser observado nesta presente pesquisa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSÕES</head><p>Os dados obtidos indicaram que em todos os planteis de ovinos ocorreram miíases, totalizando 50 casos.</p><p>A incidência foi maior nos meses de março e abril e os locais de maior ocorrência das lesões foram as patas, as orelhas e o umbigo.</p><p>Os resultados indicam a necessidade da implantação de programas preventivos baseados nos fatores observados neste estudo.</p><p>Agradecimentos.-Este trabalho teve apoio do Conselho Nacional de Desenvolvimento Cientíϐico e Tecnológico (CNPq), Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig), Fundo de Desenvolvimento Cientíϐico e Tecnológico Fundo (Fundeci, Banco do Nordeste) e Pró--reitoria de pesquisa da Universidade Federal de Minas Gerais.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Recebido em 30 de agosto de</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2011" xml:id="foot_1"><p>Aceito para publicação em 9 de janeiro de</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2012" xml:id="foot_2"><p>2 Instituto de Ciências Agrárias, Universidade Federal de Minas Gerais, Av. Universitária 1000, Montes Claros, MG 39400-006, Brasil. * Autor para correspondência: duartevet@hotmail.com</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Myiasis in sheep farms in Riyadh Region, Saudi Arabia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Alahmed</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Egypt. Soc. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="153" to="160" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Evaluation of the therapeutic and protective effects of ivermectin and permethrin in controlling of wound myiasis infestation in sheep</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Al-Eissa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Gammaz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mohamed</forename><surname>Hassan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F</forename><surname>Abdel-Fattah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Al-Kholany</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">M</forename><surname>Halami</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Y</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Res</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="379" to="385" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Bowman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Lynn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Eberhard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alcaraz</surname></persName>
+		</author>
+		<title level="m">Parasitologia Veterinária de Georgis</title>
+		<editor>
+			<persName><forename type="first">Editora</forename><surname>Malone</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Tamboré</forename></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page">422</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Isolation and identiϐication of bacteria associated with the screwworm ϐly Cochliomyia hominivorax, coquerel and its myiasis</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Caballero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Hernández</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">I</forename><surname>Poudevigne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Ruiz-Martínez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann. N.Y. Acad. Sci</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="248" to="254" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Wound myiasis of sheep in Hungary</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Farkas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Kelemen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page" from="133" to="144" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">E</forename><surname>Fortes</surname></persName>
+		</author>
+		<title level="m">Parasitologia Veterinária. 4ª ed. Ícone Editora</title>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<biblScope unit="page">607</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Flutuação populacional da mosca Cochliomyia hominivorax (Coquerel, 1858) (Diptera; Calliphoridae) capturada em Armadilhas Orientadas pelo Vento (W.O.T.), no Município de Campo Grande</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Honer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MS. Rev. Bras. Parasitol. Vet</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="41" to="45" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Caso de miíase cutânea secundária em ovino em Mato Grosso do Sul</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A S</forename><surname>Monteiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="page" from="27" to="28" />
+			<pubPlace>Brasil. Biológico, São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the neotropical region, bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>Plêiade, FAPESP, São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">W</forename><surname>Koppen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Climatologia</title>
+		<imprint>
+			<biblScope unit="page">478</biblScope>
+			<date type="published" when="1948">1948</date>
+			<pubPlace>Panamericana, Buenos Aires</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Effect of management practices on screw-worm among sheep in São Paulo State</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F T</forename><surname>Amarante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Padovani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Trop. Anim. Hlth Prod</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="149" to="157" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Diversity of ectoparasites in sheep ϐlocks in São Paulo</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Amarante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Padovani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Trop. Anim. Hlth Prod</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="225" to="232" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Would Chrysomya albiceps (Diptera: Calliphoridae) be a beneϐicial species?</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq. Bras. Med. Vet. Zootec</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="157" to="161" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Chrysomya albiceps, novo agente de miíase cutânea secundária de ovinos no Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesq. Agropec. Bras</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="497" to="498" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Clinical evaluation of different treatment regimes for management of myiasis in cattle</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rahman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Hossain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Alam</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bangl. J. Vet. Med</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="348" to="352" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Eϐicácia proϐilática de doramectina contra infestações naturais por Coclhiomyia hominivorax (Colquerel, 1858) em bovinos, após castração. Revta Bras</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Muniz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C B</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Rew</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S F</forename><surname>Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol. Vet</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="7" to="10" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Snoep</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Sol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">C</forename><surname>Sampimon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R W</forename><surname>Elbers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">W</forename><surname>Scholten</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H M</forename><surname>Borgsteede</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Myia sis in sheep in the Netherlands</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="357" to="363" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Cuidados com miíases ou bicheira</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Duarte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revta o Berro</title>
+		<imprint>
+			<biblScope unit="volume">116</biblScope>
+			<biblScope unit="page" from="94" to="97" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Morte de ruminantes devido à infecção na orelha conseqüente à miíase causada por Cochliomyia hominivorax (Coquerel, 1858)</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Veríssimo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arqs Inst. Biológico</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="187" to="189" />
+			<date type="published" when="2003">2003</date>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Relação entre infestação pelo carrapato Boophilus microplus e ocorrência de miíase em bovinos mestiços</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Veríssimo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V M</forename><surname>Franco</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bolm Ind. Anim</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="3" to="5" />
+			<date type="published" when="1994">1994</date>
+			<pubPlace>Nova Odessa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

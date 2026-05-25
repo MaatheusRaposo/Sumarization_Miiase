@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Glutamate-gated chloride channel subunit cDNA sequencing of Cochliomyia hominivorax (Diptera: Calliphoridae): cDNA variants and polymorphisms</title>
+				<funder ref="#_ynu2UNe">
+					<orgName type="full">Grants Conselho Nacional de Desenvolvimento Cientı ´fico e Tecnolo ´gico and Fundac ¸a ˜o de Amparo a `Pesquisa do Estado de Sa ˜o Paulo</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014-06-15">15 June 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Alberto</forename><forename type="middle">Moura Mendes</forename><surname>Lopes</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Renato</forename><forename type="middle">Assis</forename><surname>De Carvalho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Maria Lima</forename><surname>De Azeredo-Espin</surname></persName>
+						</author>
+						<title level="a" type="main">Glutamate-gated chloride channel subunit cDNA sequencing of Cochliomyia hominivorax (Diptera: Calliphoridae): cDNA variants and polymorphisms</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Invertebrate Neuroscience</title>
+						<title level="j" type="abbrev">Invert Neurosci</title>
+						<idno type="ISSN">1354-2516</idno>
+						<idno type="eISSN">1439-1104</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">14</biblScope>
+							<biblScope unit="issue">2</biblScope>
+							<biblScope unit="page" from="137" to="146"/>
+							<date type="published" when="2014-06-15">15 June 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">8572CE6E1C303C022D7ED649BD2DFF1F</idno>
+					<idno type="DOI">10.1007/s10158-014-0172-6</idno>
+					<note type="submission">Received: 15 March 2014 / Accepted: 29 May 2014 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>GluCla</term>
+					<term>Myiasis</term>
+					<term>Cattle</term>
+					<term>Macrocyclic lactone</term>
+					<term>Resistance</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The New World screwworm (NWS) Cochliomyia hominivorax (Coquerel) is one of the major myiasiscausing flies that injures livestock and leads to losses of *US$ 2.7 billions/year in the Neotropics. Ivermectin (IVM), a macrocyclic lactone (ML), is the most used preventive insecticide for this parasite and targets the glutamate-gated chloride (GLUCLa) channels. Several authors have associated altered GluCla homologues to MLs resistance in invertebrates, although studies about resistance in NWS are limited to other genes. Here, we aimed to characterise the NWS GluCla (ChGluCla) cDNA and to search for alterations associated with IVM resistance in NWS larvae from a bioassay. The open reading frame of the ChGluCla comprised 1,359 bp and encoded a sequence of 452 amino acids. The ChGluCla cDNAs of the bioassay larvae showed different sequences that could be splice variants, which agree with the occurrence of alternative splicing in GluCla homologues. In addition, we found cDNAs with premature stop codons and the K242R SNP, which occurred more frequently in the surviving larvae and was located close to mutation (L256F) involved in ML resistance. Although these alterations were in low frequency, the ChGluCla sequencing will allow further studies to find alterations in the gene of resistant natural populations.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The New World screwworm (NWS) fly, Cochliomyia hominivorax (Coquerel), is one of the worst parasites that injure livestock population in South American countries, except Chile. This species has a myiasis-causing larval stage on its life cycle <ref type="bibr" target="#b11">(Hall and Wall 1995)</ref> that leads to reduced fertility, weight and milk production <ref type="bibr" target="#b40">(Welch and Hall 2008)</ref>, and to economic losses of *US$ 2.7 billions/ year in the Neotropics <ref type="bibr" target="#b38">(Vargas-Tera ´n et al. 2005)</ref>. Although the releasing of sterile males in infested areas (sterile insect technique) results in the control of NWS in North and Central America <ref type="bibr" target="#b38">(Vargas-Tera ´n et al. 2005)</ref>, in South America control is accomplished by the use of chemical insecticides such as the macrocyclic lactones (MLs) <ref type="bibr" target="#b40">(Welch and Hall 2008)</ref>, which has led to the emergence of resistance.</p><p>Ivermectin (IVM) is the most profitable macrocyclic lactone used in the world <ref type="bibr" target="#b26">(Omura and Crump 2004)</ref>. It targets the members of the cys-loop ligand-gated ionchannel (cys-loop LGIC) superfamily, mainly the glutamate-gated chloride channels (GLUCLa) <ref type="bibr" target="#b42">(Wolstenholme and Rogers 2005)</ref>, which occur by the co-assemble of five subunits in the neuromuscular cell membranes of invertebrates <ref type="bibr" target="#b6">(Cleland 1996)</ref>. The IVM binds at the interface of GLUCLa subunits <ref type="bibr" target="#b12">(Hibbs and Gouaux 2011)</ref> and irreversibly opens it <ref type="bibr" target="#b7">(Cully et al. 1994)</ref>, which causes the parasite death. The members of this ion-channel superfamily extend their diversity by post-transcriptional alterations such as alternative splicing and RNA editing in many arthropods (Drosophila melanogaster, Apis mellifera, Nasonia vitripennis) <ref type="bibr" target="#b32">(Semenov and Pak 1999;</ref><ref type="bibr" target="#b16">Jones and Sattelle 2006;</ref><ref type="bibr" target="#b18">Jones et al. 2010)</ref>.</p><p>Several authors have associated ML-resistant strains to mutations in GluCla homologues such as in Cooperia oncophora (L256F) <ref type="bibr" target="#b25">(Njue et al. 2004</ref>), Tetranychus urticae (G323D; G326E) <ref type="bibr" target="#b21">(Kwon et al. 2010;</ref><ref type="bibr" target="#b9">Dermauw et al. 2012)</ref> and D. melanogaster (P299S) <ref type="bibr" target="#b19">(Kane et al. 2000)</ref>. In addition, artificially induced mutations in Haemonchus contortus GluCla (L256F/W/Y; P316S) <ref type="bibr" target="#b24">(McCavera et al. 2009;</ref><ref type="bibr" target="#b43">Yamaguchi et al. 2012</ref>) reduced the level of MLs binding. Nevertheless, studies about molecular resistance in NWS are focused on other genes and insecticides. Based on these mutations in GluCla genes, the high similarity of amino acid sequence among the cys-loop LGICs <ref type="bibr" target="#b27">(Ortells and Lunt 1995)</ref>, and the rise of IVM inefficiency against NWS, it is possible that the NWS GluCla (ChGluCla) could be an IVM target-site and that resistance could be linked to alterations in this gene. Here, we aimed to characterise the ChGluCla cDNA and perform an IVM bioassay to search for polymorphisms probably associated with resistance. This study will help further researchers to investigate new alterations linked to IVM resistance, which would improve the NWS control in the field.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NWS samples</head><p>The NWS larvae used were derived from a strain originally collected in 2006 directly from infested livestock animals on farms with a history of MLs use, located in the municipality of Caiapo ˆnia (16°57S/51°48 W), State of Goia ´s, Brazil. They were reared to adults and maintained in the laboratory conditions for several generations (*6 years) according to <ref type="bibr" target="#b37">Vargas and Espin (1995)</ref>, without selection, prior to RNA extraction. The NWS larvae used for GluCla characterisation and bioassay evaluation were of the L3 and L2 life stages, respectively.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bioassay with IVM</head><p>Due to the lack of well-characterised NWS IVM-resistant and IVM-susceptible reference strains to study molecular mechanisms of resistance, we carried out an IVM bioassay and compared the GluCla cDNA of the bioassay larvae to find alterations probably associated with resistance. The bioassay was carried out in the laboratory in February 2011. The commercial formulation of IVM 1 % used is a mixture of C22, C23-dihydroavermectin B1a and B1b, in the proportion of about 90 and 10 %, respectively (IVO-MECÓ, Merial Sau ´de Animal, Brazil). Four IVM concentrations were tested with three replications of 30 larvae for each concentration replicate (90 larvae for triplicate) and a control group of 30 larvae, resulting in a total of 390 larvae. The control group had the same characteristics of the replicates with IVM, but without it. The sample size of each replicate in the bioassay was chosen based on recommendations of <ref type="bibr" target="#b31">Robertson et al. (1984)</ref>. The IVM concentrations of 0.32 ppm-3.2 lL of IVOMECÓ 1 % solution in 100 g of culture medium-1.0, 3.2 and 10 ppm, were prepared mixing the respective IVM dose, separately, for about 20 s, with a mixture of blood and water (2:1) (30 mL) into plastic conic tubes (50 mL) capped with a lid. The respective IVM mixture was subsequently mixed with ground meat (70 g) in a container (11 cm diameter, 4 cm high) capped with a screen lid, to allow for air and moisture exchange. The containers were subsequently put in a dark room, due to IVM instability under light, at room temperature (*25 °C). The L2 larvae tested were randomly chosen, removed from the rearing diet medium and subsequently held into the respective containers with (IVM groups) or without (control group) IVM. We scored mortality 24 h post-treatment, and 15 dead larvae in the lowest IVM concentration (ChSusc) and 15 surviving larvae in the highest IVM concentration (ChIVR) were randomly chosen and removed with tweezers from the containers, cleaned and dried on paper towels, put into plastic conic tubes and immediately stored at -70 °C. The larvae that showed some locomotion were considered alive. The PoloPlus Ò software (Jacqueline L. Robertson 2007) was used to estimate the lethal concentrations (LC 50 and LC 90 ), their confidence intervals (95 % CI) and the significance of the slope of the regression line by a t test.</p><p>RNA extraction, cDNA synthesis, ChGluCla cloning and sequencing Total RNA was extracted from NWS L3 larvae (n = 4) for the GluCla characterisation and from L2 larvae of the bioassay groups, ChSusc (n = 15) and ChIVR (n = 15), using Trizol treatment (Life Technologies TM ) according to the manufacturer's instructions. Samples were treated with TURBO TM DNase (Life Technologies TM ) to remove the genomic DNA residues, and 1 lg of total RNA was used for first-strand synthesis of poly(A) cDNA using the Re-vertAid First Strand cDNA Synthesis Kit (Fermentas) and an oligodT 18 VN primer.</p><p>The primers F1 (5 0 AACCGGCCATTATTTCTGG 3 0 ), F2 (5 0 ATGCAAGAATACGACCATCC 3 0 ), F3 (5 0 CCTTTGGATCGTCAAGTCTG 3 0 ) and R3 (5 0 GAT CAAGCCAGAATGACACC 3 0 ), used for PCR amplifications, were designed based on the previously published ChGluCla partial sequence <ref type="bibr" target="#b3">(Carvalho et al. 2010)</ref>. The primer F1 was located two nucleotides downstream of the initiation codon (Online Resource 1A), at a corresponding position on the Lucilia cuprina GluCla. The most downstream primer, R4 (5 0 ACTCATCCTCCTCTTCACGG 3 0 ), was designed based on the stop codon region of the L. cuprina GluCla considering the sequence alignment of dipteran GluCla genes (L. cuprina: AF081674.1, Musca domestica: AB177546.1 and D. melanogaster: FBtr0335417). Two primer sets were used for the characterisation of the ChGluCla cDNA: F1/R3 and F3/R4. These primers and other two combinations, F2/R3 and F1/R4, were used to PCR amplify the ChGluCla cDNA of the bioassay larvae.</p><p>Initially, from the 10 NWS larvae of each bioassay group that had the ChGluCla cDNA analysed, 16 had it amplified in a single reaction using the pair of primers F1/ R4-10 from the ChIVR group and 6 from the ChSusc group-and 4 using the pairs of primers F1/R3 and F3/R4. Subsequently, we carried out the search for polymorphisms in a subset of five more larvae from each group using the pair of primers F2/R3.</p><p>The 25 lL PCR mix had 1.5 U of Taq DNA Polymerase (Life Technologies TM ) and 1 lL of cDNA. The reaction concentrations for the pair of primers F1/R3 were 14 lM of dNTPs, 2.8 mM of MgCl 2 and 0.4 lM of primers. For the primers combination F3/R4, the reaction concentrations were 10 lM of dNTPs, 2.4 mM of MgCl 2 and 0.16 lM of primers, while the pairs of primers F1/R4 and F2/R3 had 56 lM of dNTPs, 2.8 mM of MgCl 2 and 0.4 lM of primers. The PCR conditions used for the primer sets F1/ R3 and F3/R4 were a denaturation step of 95 °C (3 min) followed by 35 cycles of 95 °C (30 s), an annealing temperature of 54 and 60 °C (30 s), respectively, and 72 °C (1 min), finalising with an extension step of 72 °C (15 min). For the primer sets F1/R4 and F2/R3, the specific conditions were a denaturation step of 95 °C (5 min) followed by 35 cycles of 95 °C (1 min), an annealing temperature of 58 and 61 °C (1 min), respectively, and 72 °C (1 min 30 s), with a final step of 72 °C (10 min).</p><p>The PCR products amplified by the pair of primers F1/ R3 were purified directly from the amplification reaction, while those amplified by the pairs of primers F3/R4, F1/R4 and F2/R3 had the fragments of the expected size purified after running in a 1 % agarose gel (w/v) and staining with 0.5 lg/mL ethidium bromide. The purification was carried out using the Invisorb Ò Fragment CleanUp kit (Invitek). After purification, the fragments were cloned into the pGEMT-Easy vector (Promega) and sequenced bidirectionally with universal vector primers. Three clones per larva of amplicons amplified by each primer set (F1/R3, F3/R4, F1/R4 and F2/R3) were sequenced with the Big Dye TM Terminator Cycle Sequencing Ready Kit v. 3.0 (ABI Prism TM , Perkin-Elmer) on a 96-capillary ABI-3730xl (Applied Biosystems) sequencer.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sequence analysis</head><p>The chromatograms were analysed using the Sequence Scanner v.1.0 software (Life Technologies TM ). The CAP3 software <ref type="bibr" target="#b14">(Huang and Madan 1999)</ref> assembled the 5 0 -and 3 0 -end consensus cDNAs to obtain a baseline sequence for the characterisation of the open reading frame (ORF) of ChGluCla. The nucleotide sequences were translated using the Emboss Transeq software <ref type="bibr" target="#b30">(Rice et al. 2000)</ref>, and the BioEdit software <ref type="bibr" target="#b10">(Hall 1999</ref>) performed the ClustalW multiple sequence alignment <ref type="bibr" target="#b35">(Thompson et al. 1997)</ref> for the search of polymorphisms, comparison to other invertebrate GLUCLa subunits, and analysis of cDNA variants. The analysis of the indels (insertions and deletions) of cDNA variants were carried out with the sequences amplified by the pair of primers F1/R4. The statistical significances were assessed using the Fisher's exact test.</p><p>The molecular weight and isoelectric point of the putative protein encoded by ChGluCla were predicted by Compute pI/Mw tool in Expasy Server <ref type="bibr" target="#b41">(Wilkins et al. 1999)</ref>. The N-terminal signal peptide and transmembrane domains were predicted by SignalP v.4.0 <ref type="bibr" target="#b28">(Petersen et al. 2011)</ref> and MemPype <ref type="bibr" target="#b29">(Pierleoni et al. 2011)</ref>, respectively. The N-terminal loops and the L-glutamate-binding positions were predicted using homology to corresponding regions of arthropod cys-loop LGIC receptors <ref type="bibr">(Jones and</ref><ref type="bibr">Sattelle 2006, 2007;</ref><ref type="bibr" target="#b12">Hibbs and Gouaux 2011)</ref>. The putative N-glycosylation and potential phosphorylation sites were deduced using Prosite <ref type="bibr" target="#b33">(Sigrist et al. 2010)</ref>, and the database searches were performed using NCBI BLAST <ref type="bibr" target="#b0">(Altschul et al. 1990</ref>) and FlyBase <ref type="bibr" target="#b23">(Marygold et al. 2013)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>ChGluCla cDNA characterisation</head><p>We obtained the first ORF of ChGluCla. The consensus sequences of the 5 0 -and 3 0 -end of the ChGluCla cDNA had 806 bp and 844 bp, respectively, and overlapped by 298 bp. The assembly of these cDNAs resulted in a fragment of 1,352 bp, which comprised the almost full-length ORF of ChGluCla. We added five nucleotides with the ATG codon, from the NWS GluCla partial sequence by <ref type="bibr" target="#b3">Carvalho et al. (2010)</ref>, and two nucleotides from the stop codon, in order to obtain the full-length ORF. Thus, the ORF of ChGluCla comprised 1,359 nucleotides (KF214912) and encoded a deduced protein of 452 amino acids (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>This sequence showed significant nucleotide identity with the GluCla of D. melanogaster (82 %, RI variant), M. domestica (89 %) and L. cuprina (96 %). At the amino acid level, the ChGluCla showed an even higher identity with the putative orthologs of D. melanogaster (94 %, PI isoform), M. domestica (95 %) and L. cuprina (99 %). The deduced molecular weight and isoelectric point were 52.29 kDa and 8.76, respectively. We already found four putative N-glycosylation and 8 potential phosphorylation sites.</p><p>The deduced ChGluCla amino acid sequence has the characteristic features of members of the cys-loop LGIC superfamily: four proposed transmembrane domains; a N-terminal extracellular domain containing distinct loops <ref type="bibr" target="#b20">(Knipple and Soderlund 2010)</ref>; the signature pair of cysteine residues (cys-loop) <ref type="bibr" target="#b5">(Cederholm et al. 2009</ref>); a variable intracellular M3-M4 loop domain; the conserved residues aspartic acid (D) and arginine (R) <ref type="bibr" target="#b34">(Sine and Engel 2006)</ref>. Moreover, this sequence has exclusive features of the ligand-gated chloride channel family such as the PAR, VT, L and T residues responsible for the chloride selectivity <ref type="bibr" target="#b15">(Jensen et al. 2005</ref>) and another pair of cysteine residues (loop C) <ref type="bibr" target="#b20">(Knipple and Soderlund 2010)</ref>. We already found the sites YGWT and TGEY inferred to be positions of L-glutamate binding (Hibbs and Gouaux 2011) (Fig. <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bioassay with IVM</head><p>The larvae mortality and the insecticide concentration were directly proportional, and the linear regression showed significant correlation (p value \0.01, t test). The highest respectively) are conserved in the cys-loop LGICs; PAR, VT, L and T residues responsible for ion charge selectivity. The two cysteines forming the cys-loop as well as those forming the loop C (LpC) are highlighted in black shading. N-glycosylation sites are underlined and potential phosphorylation sites are indicated by black filled rectangles above the sequences. Positions according to sequence of NWS</p><p>and the lowest IVM concentrations showed 80 and 39 % of mortality, respectively, while the control group (0 ppm) had an insignificant mortality (Table <ref type="table" target="#tab_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Analysis of the GluCla cDNA of the bioassay larvae</head><p>Sixteen bioassay larvae-10 of the ChIVR group and 6 from the ChSusc group-had the ChGluCla cDNA amplified by a single reaction that resulted in cDNAs ranging from 983 to 1,364 bp (Table <ref type="table">2</ref>). However, 8 cDNA variants were present at single copies, and 9 were consistent with two or more copies (Online Resource 1A). The cDNAs that comprised 1,349 bp and 1,352 bp showed, each one, two variants: A and B. The cDNA variant A of 1,352 bp was the most represented with 27.1 % of the sequences of the clones. Other four larvae of the ChSusc group had the ChGluCla cDNAs amplified by two primer combinations that resulted in 5 0 -and 3 0 -end fragments between 735-806 and 691-844 bp (data not shown), respectively. Therefore, 20 bioassay larvae had the almost full-length ORF of the ChGluCla amplified.</p><p>We compared the predicted amino acid sequence of the reference ChGluCla cDNA characterised in this study (1,359 bp) with those of the bioassay larvae that were amplified by one primer combination and found several regions probably affected by alternative splicing, as well as premature stop codons (Fig. <ref type="figure">2</ref>). Here, we use the nomenclature suggested by <ref type="bibr" target="#b17">Jones and Sattelle (2007)</ref> in order to maintain consistency with other cys-loop LGIC subunits. The ChGluCla possesses exon variants equivalent for Drosophila GluCla exons 3a, 3b (Modules 1 and 2, respectively) <ref type="bibr" target="#b32">(Semenov and Pak 1999</ref>) and an additional exon, here denoted as 3c, that generates specific isoforms of Drosophila (FlyBase: FBtr0335418 and FBpp0307403) <ref type="bibr" target="#b23">(Marygold et al. 2013)</ref> and Tribolium castaneum (Jones and Sattelle 2007) GluClas (Online Resource 2A, B, C, D). The putative Cochliomyia GluCla exons 3a and 3b are identical to the corresponding regions in Drosophila Glu-Cla; however, they differ by two and one residue, respectively, to those of Tribolium GluCla. The Drosophila exon 3c and the putative corresponding Cochliomyia exon differ by 7 residues while that of Tribolium GluCla is shorter than these two. This additional exon generates 4 of the 9 ChGluCla cDNA variants, including those of 1,352 bp, which could explain its presence in the baseline ChGluCla sequence. As with Drosophila GluCla isoform PE (Fly-Base: FBpp0290592), the cDNA variant comprising 1,281 bp presents the lack of these putative homologous exons (3a, 3b or 3c), including an inferred different position for the starting methionine, which results in the absence of the leader signal peptide.</p><p>The region of the intracellular loop between M3 and M4 in ChGluCla cDNAs clearly undergoes alternative splicing. This region in Drosophila GluCla isoforms is generated either by the use of differential splice sites or use of alternative exons that cause their M3-M4 loop to differ by In each one of the ChGluCla cDNAs of 1,120 and 1,352 bp (variant B), the loss of M3-M4 domain eliminates one potential phosphorylation site, while the smaller variant additionally lost one N-glycosylation site. These premature stops were due to a single nucleotide polymorphism (SNP) or to deletions resulting in frameshifts (Online Resource 1A). Within the ChGluCla cDNAs, we still found sequences in the boundaries of gaps that are similar to consensus splice site motifs of pre-mRNAs (Online Resource 1B).</p><p>The ChGluCla cDNAs of the bioassay larvae also showed 65 SNPs overall, with 34 being encoding (Table <ref type="table" target="#tab_1">3</ref>). However, consistent SNPs were detected at two positions: the K242R SNP (AAG to AGG) occurred in a lower frequency in the ChIVR group, while the K398* (AAA to TAA) occurred exclusively in this group. The other SNPs were present at single copies, probably as artefacts obtained during amplification. In the ChIVR group, nine of the ten larvae showed the K242 allele in all clones and one larva was heterozygote (K242 and R242). In the ChSusc group, five of the ten larvae showed the K242 allele in all clones and the other five were heterozygous. Due to proximity to positions involved in ML resistance and in IVM binding (Fig. <ref type="figure" target="#fig_1">3</ref>), we additionally amplified a region of 672 bp with this SNP in a subset of five more larvae of each bioassay group. It is worth noting that the process of pre-mRNA A-to-I editing replaces AAG by AGG at the position K241 of D. melanogaster GluCla and changes the genomic lysine (K) to arginine (R) <ref type="bibr" target="#b32">(Semenov and Pak 1999)</ref>, the same alteration we observed at the equivalent position K242 in the ChGluCla cDNAs.</p><p>The analysis showed an insignificant difference (p [ 0.05) between the frequencies of larvae with the R242 allele on the three clones in both groups. However, a significant difference occurred between the frequencies of clones with this allele (Table <ref type="table" target="#tab_1">3</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The results reveals that the ChGluCla cDNA consensus sequence have high identity with the GluCla nucleotide sequence of L. cuprina, D. melanogaster and M. domestica. In addition, the deduced amino acid sequence of ChGluCla has features that suggest this gene belongs to three groups: the cys-loop LGICs <ref type="bibr" target="#b20">(Knipple and Soderlund 2010;</ref><ref type="bibr" target="#b34">Sine and Engel 2006;</ref><ref type="bibr" target="#b5">Cederholm et al. 2009)</ref>; the ligand-gated chloride channel family <ref type="bibr" target="#b15">(Jensen et al. 2005)</ref>; and the glutamate-gated chloride channel subfamily <ref type="bibr">(Hibbs and</ref> b Fig. <ref type="figure">2</ref> Multiple sequence alignment of putative C. hominivorax GluCla isoforms. Putative exon 3 splice variants (a, b, c) are highlighted in bold.</p><p>The N-terminal signal peptide as well as the four transmembrane domains are indicated. The two cysteines forming the cys-loop as well as those forming the loop C (LpC) are highlighted in black shading. Loops that interfere in ligand binding (LpA-F) are indicated. The first two residues, with the initiation methionine, upstream the F1 primer, are highlighted in light grey shading. The putative initiation methionine of the Ch_1281 cDNA variant is highlighted in underlined bold. N-glycosylation sites are underlined, and potential phosphorylation sites are indicated by black filled rectangles and dark grey shading (putative exons 3a, 3b and 3c). Premature stop codons are indicated by asterisks. Ch_X_Y = cDNAs. X represents the cDNA size in nucleotides and Y represents the variants A or B of cDNAs comprising 1,349 bp (49_A or 49_B) and 1,352 bp (52_A or 52_B). Sequence data of these NWS GluCla variants were deposited with the GenBank Data Library: KJ725365-KJ725373 Gouaux 2011). For these reasons, we suggest that this gene is an ortholog of other dipteran GluCla genes.</p><p>The features of ChGluCla cDNAs of the bioassay larvae-different sizes, inferred exons and differential splice sites, along with sequences similar to consensus splice site motifs-agree with the occurrence of splice variants found in GluCla orthologs of insects such as T. castaneum <ref type="bibr" target="#b17">(Jones and Sattelle 2007)</ref>, A. mellifera <ref type="bibr" target="#b16">(Jones and Sattelle 2006)</ref> and D. melanogaster <ref type="bibr" target="#b32">(Semenov and Pak 1999)</ref>. As with the fruit fly, honey bee and Tribolium GluClas, the predicted ChGluCla alternative exons and splice sites diversify this receptor. Evidence of this is the use of different variants of exon 3 with amino acid substitutions and insertion that disrupt the position of potential phosphorylation sites in the vicinity of loop D, which may interfere in agonist binding. Moreover, we propose that the lack of this exon, as is the case for Drosophila GluCla isoform PE (Online Resource 2C, D), in cDNA variant of 1,281 bp could be the cause for the differential position of start codon and for the absence of one phosphorylation and one N-glycosylation site in the N-terminal extracellular domain. Species-specific variants also occur, since the putative Cochliomyia GluCla exon 3c and those of the orthologous Drosophila and Tribolium differ substantially in the N-terminal portion.</p><p>Another hot spot that increases variability of GluCla receptors is the M3-M4 loop. The ChGluCla shows remarkable diversity in this domain (Fig. <ref type="figure">2</ref>), in addition to inferred premature end of translation that causes the loss of potential phosphorylation and N-glycosylation sites. Interestingly, in Drosophila GluCla isoforms, the intracellular loop is highly similar to the equivalent region in the Cochliomyia ortholog with identical stretches between them (Online Resource 2F). We suggest that, as with its Drosophila counterpart, the alterations in the intracellular loop of Cochliomyia GluCla cDNAs are generated by the use of differential splice sites and alternative exons.</p><p>These cDNAs still showed premature stop codons, although insignificantly different between the groups. When compared with the reference ChGluCla amino acid sequence, these premature stop codons results in loss of subunit domains (Fig. <ref type="figure">2</ref>), with probable impact in the protein function and in the insecticide binding. Several authors have associated ML resistance in invertebrates to viable truncated transcripts of nAchRs <ref type="bibr" target="#b2">(Baxter et al. 2010;</ref><ref type="bibr" target="#b39">Watson et al. 2010;</ref><ref type="bibr" target="#b13">Hsu et al. 2012)</ref> and GluCla homologues <ref type="bibr" target="#b8">(Dent et al. 2000)</ref>. Although these researchers described truncated transcripts that were artificially induced or spinosad resistant, their work suggests that uncommon modified forms of cys-loop LGICs bind differently to MLs compared with the standard protein structure. Moreover, the loss of putative N-glycosylation and phosphorylation sites in the M3-M4 loop affects receptor activity <ref type="bibr" target="#b4">(Cascio 2006)</ref>. This suggests that the predicted variants of ChGluCla cDNAs with these features could bind differently to IVM.</p><p>The clones with the R242 allele occurred in both bioassay groups, at a significant lower frequency in the surviving larvae. This SNP is close to the M1 domain and to L256F mutation in GLUCLa of nematodes, involved in IVM binding <ref type="bibr" target="#b12">(Hibbs and Gouaux 2011)</ref> and in ML resistance <ref type="bibr" target="#b43">(Yamaguchi et al. 2012;</ref><ref type="bibr" target="#b25">Njue et al. 2004)</ref>, respectively. Furthermore, the K242R SNP is positioned in a domain (pre-M1) associated with conformational changes that result in channel gating and opening by agonists <ref type="bibr" target="#b1">(Bartos et al. 2009;</ref><ref type="bibr" target="#b22">Lee et al. 2009</ref>). Therefore, alterations on the M1 domain and adjacent regions such as this SNP are probably involved in conformational changes, which could avoid the receptor to be open by ligands such as IVM. Since this polymorphism is similar to pre-mRNA A-to-I editing in the equivalent position of the Drosophila GluCla, it is probable that the same process occurs in NWS GluCla. In order to verify this alteration and the alternative splicing, the NWS GluCla genomic DNA sequencing needs to be carried out.</p><p>Although these alterations occurred in a specific subpopulation and were in low frequency, the two SNPs and cDNA variants in the ChIVR group could clarify mechanisms probably associated with IVM resistance in NWS. The absence of any polymorphism clearly linked to IVM resistance could be explained by other targets or mechanisms that need to be addressed: alterations in other ionchannel genes or the metabolic detoxification, which could be the major type of resistance in this strain. Nevertheless, the ChGluCla sequencing of this isolate of NWS, along with the cDNA variants, provides a basis for characterisation of new molecular markers that could help to track resistant natural populations. indicated by empty triangle while the position of the K242R SNP in C. hominivorax is indicated by black star. Residues associated to IVM-binding in C. elegans and those corresponding in C. hominivorax and C. oncophora are highlighted in bold. The pre-M1 region is indicated by dashed line</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Multiple sequence alignment of GluCla protein sequences of NWS (KF214912), L. cuprina (AF081674.1), M. domestica (AB177546.1) and D. melanogaster (FBtr0335417). Predicted signal peptide as well as the four transmembrane domains (M1-4) are indicated. Highlighted in grey shading: YGWT and TGEY are sites predicted to bind to L-glutamate; D and R (positions 79 and 243,</figDesc><graphic coords="4,85.06,59.24,425.28,357.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 3</head><label>3</label><figDesc>Fig. 3 Portion of multiple sequence alignment of GluCla protein sequences of C. hominivorax (KF214912), C.elegans (U14524.1) and C. oncophora (AY372756). M1 = first transmembrane domain. The two cysteines forming the loop C (LpC) are highlighted in black shading. The position of the L256F mutation in C. oncophora is</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Results after 24 h of treatment and parameters of the IVM bioassay estimated by PoloPlus Ò IVM] ivermectin concentrations, ppm parts per million, LC lethal concentration, s.e. standard error[IVM]  of which the larvae were removed for cDNA analysis are highlighted in bold underlined * Significantly different mortality from that of the lowest concentration (0.32 ppm), p value \0.001, Fisher's exact test a Mortality versus [IVM] regression line, p value \0.01, t test</figDesc><table><row><cell cols="2">[IVM] (ppm)</cell><cell>0*</cell><cell>0.32</cell><cell>1</cell><cell>3.2</cell><cell>10</cell><cell>LC 50 (CI95 %)</cell><cell>LC 90 (CI95 %)</cell><cell>Slope a ± s.e</cell><cell>t test</cell></row><row><cell>Dead</cell><cell></cell><cell>2</cell><cell>35</cell><cell>39</cell><cell>51</cell><cell>72</cell><cell>1.74</cell><cell>104.61</cell><cell>0.72 0.16</cell><cell>4.62</cell></row><row><cell>Alive</cell><cell></cell><cell>28</cell><cell>55</cell><cell>51</cell><cell>39</cell><cell>18</cell><cell>(0.56-4.34)</cell><cell>(22.70-13,749)</cell><cell></cell></row><row><cell cols="7">[Table 2 cDNAs amplified by the primers combination F1/R4 and</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">number of sequences analysed (number of clones with the respective</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">size/total number of clones) in each bioassay group</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>cDNA</cell><cell>N°clones/</cell><cell></cell><cell>N°clones/</cell><cell>Premature</cell><cell cols="2">Predicted lost</cell><cell></cell><cell></cell><cell></cell></row><row><cell>(bp)</cell><cell cols="2">total ChSusc</cell><cell>total ChIVR</cell><cell>stop codon a</cell><cell>domains b</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>983</cell><cell>-</cell><cell></cell><cell>1/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,117</cell><cell>-</cell><cell></cell><cell>1/30</cell><cell>Yes</cell><cell cols="2">M3-M4 loop; M4</cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,120</cell><cell>3/18</cell><cell></cell><cell>5/30</cell><cell>Yes</cell><cell cols="2">M3-M4 loop; M4</cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,236</cell><cell>1/18</cell><cell></cell><cell>-</cell><cell>No</cell><cell>N-terminal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,281</cell><cell>-</cell><cell></cell><cell>2/30</cell><cell>No</cell><cell>N-terminal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,295</cell><cell>-</cell><cell></cell><cell>1/30</cell><cell>No</cell><cell>N-terminal</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,304</cell><cell>1/18</cell><cell></cell><cell>2/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,307</cell><cell>1/18</cell><cell></cell><cell>1/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,316</cell><cell>1/18</cell><cell></cell><cell>2/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,319</cell><cell>1/18</cell><cell></cell><cell>-</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,340</cell><cell>1/18</cell><cell></cell><cell>-</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">1,349_A 1/18</cell><cell></cell><cell>1/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">1,349_B 1/18</cell><cell></cell><cell>3/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">1,352_A 6/18</cell><cell></cell><cell>7/30</cell><cell>-</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">1,352_B -</cell><cell></cell><cell>3/30</cell><cell>Yes c</cell><cell cols="2">M3-M4 loop; M4</cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,361</cell><cell>-</cell><cell></cell><cell>1/30</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>1,364</cell><cell>1/18</cell><cell></cell><cell>-</cell><cell>No</cell><cell>-</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">M4 fourth transmembrane domain, M3-M4 loop loop between M3 and M4</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">a Presence of premature stop codon compared with the reference ChGluCla</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="2">cDNA characterised</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="7">b In the deduced amino acid sequence of the cDNAs compared with the</cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="5">reference ChGluCla amino acid sequence characterised</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell cols="4">c Premature stop codon due to a SNP</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3</head><label>3</label><figDesc>Coding SNPs described in the ChGluCla cDNAs and number of clones analysed (number of clones with the SNP/total number of clones analysed in the respective bioassay group)</figDesc><table><row><cell>AA substitutions</cell><cell>SNP/total</cell><cell>AA substitutions</cell><cell>SNP/total</cell></row><row><cell>ChSusc</cell><cell>ChSusc</cell><cell>ChIVR</cell><cell>ChIVR</cell></row><row><cell>N149S</cell><cell>1/30</cell><cell>Q105R</cell><cell>1/30</cell></row><row><cell>N149D</cell><cell>1/30</cell><cell>I138V</cell><cell>1/30</cell></row><row><cell>S159T</cell><cell>1/30</cell><cell>N141D</cell><cell>1/30</cell></row><row><cell>M182T</cell><cell>1/30</cell><cell>V177I</cell><cell>1/30</cell></row><row><cell>V193I</cell><cell>1/30</cell><cell>F194S</cell><cell>1/30</cell></row><row><cell>L215F</cell><cell>1/30</cell><cell>E198G</cell><cell>1/30</cell></row><row><cell>L219S</cell><cell>1/30</cell><cell>L239P</cell><cell>1/30</cell></row><row><cell>N224S</cell><cell>1/30</cell><cell>K242R *</cell><cell>1/45</cell></row><row><cell>S225G</cell><cell>1/30</cell><cell>I252T</cell><cell>1/30</cell></row><row><cell>K236E</cell><cell>1/30</cell><cell>E350G</cell><cell>1/30</cell></row><row><cell>K242R *</cell><cell>10/45</cell><cell>K398</cell><cell>3/30</cell></row><row><cell>R242</cell><cell>1/45</cell><cell>Y443C</cell><cell>1/30</cell></row><row><cell>I250F</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>Q251R</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>W264R</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>S279P</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>V314I</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>A322 V</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>E325 V</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>S333P</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>I427 V</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>T428A</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell>A434 V</cell><cell>1/30</cell><cell></cell><cell></cell></row><row><cell cols="4">Positions according to ChGluCla amino acid sequence characterised</cell></row><row><cell cols="2">* p value \0.05, Fisher's exact test</cell><cell></cell><cell></cell></row><row><cell cols="2">Premature stop codon</cell><cell></cell><cell></cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>InvertNeurosci (2014) 14:137-146   </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments This study was funded by <rs type="funder">Grants Conselho Nacional de Desenvolvimento Cientı ´fico e Tecnolo ´gico and Fundac ¸a ˜o de Amparo a `Pesquisa do Estado de Sa ˜o Paulo</rs> (# <rs type="grantNumber">2011/01030-5</rs>). We would like to thank <rs type="person">Rosa ˆngela Rodrigues</rs> for the technical assistance and <rs type="person">Salete Couto Campos</rs> for the help with the bioassay and NWS strain maintenance. We are grateful to <rs type="person">Dr. Thiago Mastra</rs> ˆngelo for advices in preparing the manuscript.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ynu2UNe">
+					<idno type="grant-number">2011/01030-5</idno>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Conflict of interest None.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Basic local alignment search tool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">215</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="403" to="410" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Structural basis of activation of cys-loop receptors: the extracellular-transmembrane interface as a coupling region</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bartos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Corradi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Bouzat</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Neurobiol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="236" to="252" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Mis-spliced transcripts of nicotinic acetylcholine receptor alpha6 are associated with field evolved spinosad resistance in Plutella xylostella (L.)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Baxter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Chen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dawson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z</forename><surname>Zhao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Vogel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Shelton</surname></persName>
+		</author>
+		<idno type="DOI">10.1371/journal.pgen.1000802</idno>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2164-11-695</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Genom</title>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Modulating inhibitory ligand-gated ion channels</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cascio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AAPS J</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="353" to="E361" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Gating mechanisms in Cys-loop receptors</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cederholm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Schofield</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Lewis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Eur Biophys J</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="37" to="49" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inhibitory glutamate receptor channels</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Cleland</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Neurobiol</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="97" to="136" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Cloning of an avermectin-sensitive glutamate-gated chloride channel from Caenorhabditis elegans</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Cully</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Vassilatis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">K</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Paress</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">H</forename><surname>Van Der Ploeg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Schaeffer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">371</biblScope>
+			<biblScope unit="issue">6499</biblScope>
+			<biblScope unit="page" from="707" to="711" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">The genetics of ivermectin resistance in Caenorhabditis elegans</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Dent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">K</forename><surname>Vassilatis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Avery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="2674" to="2679" />
+			<date type="published" when="2000">2000</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">The cys-loop ligand-gated ion channel gene family of Tetranychus urticae: implications for acaricide toxicology and a novel mutation associated with abamectin resistance</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Dermauw</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ilias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Riga</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tsagkarakou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Grbic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Tirry</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="455" to="465" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">BioEdit: a user-friendly biological sequence alignment editor and analysis program for Windows 95/98/NT</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Symp Ser</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="95" to="98" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Myiasis of humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Parasit</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Principles of activation and permeation in an anion-selective Cys-loop receptor</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hibbs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gouaux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">474</biblScope>
+			<biblScope unit="issue">7349</biblScope>
+			<biblScope unit="page" from="54" to="60" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Truncated transcripts of nicotinic acetylcholine subunit gene Bda6 are associated with spinosad resistance in Bactrocera dorsalis</title>
+		<author>
+			<persName><forename type="first">J-C</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H-T</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W-J</forename><surname>Wu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Geib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C-H</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vontas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="806" to="815" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">CAP3: A DNA sequence assembly program</title>
+		<author>
+			<persName><forename type="first">X</forename><surname>Huang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Madan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Res</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="868" to="877" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Charge selectivity of the Cys-loop family of ligand-gated ion channels</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Schousboe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">K</forename><surname>Ahring</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="217" to="225" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">The cys-loop ligand-gated ion channel superfamily of the honeybee</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sattelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Apis mellifera. Invertebr Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="123" to="132" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The cys-loop ligand-gated ion channel gene superfamily of the red flour beetle, Tribolium castaneum</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sattelle</surname></persName>
+		</author>
+		<idno type="DOI">10.1186/1471-2164-8-327</idno>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Genomics</title>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">The cys-loop ligandgated ion channel gene superfamily of the parasitoid wasp, Nasonia vitripennis</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Bera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lees</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Sattelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heredity</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="247" to="259" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Drug-resistant Drosophila indicate glutamategated chloride channels are targets for the antiparasitics nodulisporic acid and ivermectin</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">S</forename><surname>Kane</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hirschberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Qian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Hunt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Thomas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Brochu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proc Natl Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="13949" to="13954" />
+			<date type="published" when="2000">2000</date>
+			<pubPlace>USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The ligand-gated chloride channel gene family of Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">C</forename><surname>Knipple</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Soderlund</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pestic Biochem Phys</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="140" to="148" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">A point mutation in a glutamate-gated chloride channel confers abamectin resistance in the two-spotted spider mite</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Kwon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">S</forename><surname>Yoon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">H</forename><surname>Lee</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tetranychus urticae Koch. Insect Mol Biol</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="583" to="591" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Binding to gating transduction in nicotinic receptors: Cys-loop energetically couples to pre-M1 and M2-M3 regions</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">Y</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Free</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="3189" to="3199" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">FlyBase: improvements to the bibliography</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">J</forename><surname>Marygold</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Leyland</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Seal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Goodman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Thurmond</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">B</forename><surname>Strelets</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="751" to="D757" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">An ivermectin-sensitive glutamate-gated chloride channel from the parasitic nematode Haemonchus contortus</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mccavera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Yates</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Woods</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wolstenholme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mol Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1347" to="1355" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Mutations in the extracellular domains of glutamate-gated chloride channel alpha3 and beta subunits from ivermectin-resistant Cooperia oncophora affect agonist sensitivity</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Njue</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Hayashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Kinne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">P</forename><surname>Feng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Prichard</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1137" to="1147" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The life and times of ivermectin-a success story</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Omura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Crump</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Rev Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="984" to="989" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Evolutionary history of the ligand-gated ion-channel superfamily of receptors</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">O</forename><surname>Ortells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Lunt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="121" to="127" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">SignalP 4.0: discriminating signal peptides from transmembrane regions</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">N</forename><surname>Petersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Brunak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Von Heijne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nielsen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nat Methods</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="785" to="786" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">MemPype: a pipeline for the annotation of eukaryotic membrane proteins</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pierleoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Indio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Savojardo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fariselli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">L</forename><surname>Martelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Casadio</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="375" to="W380" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">EMBOSS: the European molecular biology open software suite</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Rice</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Longden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bleasby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends Genet</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="276" to="277" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Effects of dose selection and sample size on the precision of lethal dose estimates in dose-mortality regression</title>
+		<author>
+			<persName><forename type="first">Jl ;</forename><surname>Robertson</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Savin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Lavigne</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bioassays with arthropods</title>
+		<meeting><address><addrLine>Boca Raton Robertson</addrLine></address></meeting>
+		<imprint>
+			<publisher>CRC Press</publisher>
+			<date type="published" when="1984">2007. 1984</date>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="833" to="837" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Diversification of Drosophila chloride channel gene by multiple posttranscriptional mRNA modifications</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Semenov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Pak</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Neurochem</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="66" to="72" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">PROSITE, a protein domain database for functional characterization and annotation</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J</forename><surname>Sigrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cerutti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>De Castro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">S</forename><surname>Langendijk-Genevaux</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Bulliard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bairoch</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="161" to="D166" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Recent advances in Cys-loop receptor structure and function</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Sine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Engel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">440</biblScope>
+			<biblScope unit="issue">7083</biblScope>
+			<biblScope unit="page" from="448" to="455" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Plewniak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jeanmougin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Higgins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Res</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">24</biblScope>
+			<biblScope unit="page" from="4876" to="4882" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Invert Neurosci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="137" to="146" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Genetic variability mitochondrial DNA of the screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae) from Brazil</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Vargas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Genet</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">7-8</biblScope>
+			<biblScope unit="page" from="237" to="256" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Impact of screwworm eradication programmes using the sterile insect technique</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Vargas-Tera ´n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Hofmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Tweddle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sterile insect technique</title>
+		<editor>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Dyck</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Hendrichs</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Robinson</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Netherlands</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer</publisher>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page" from="629" to="650" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">A spinosyn-sensitive Drosophila melanogaster nicotinic acetylcholine receptor identified through chemically induced target site resistance, resistance gene identification, and heterologous expression</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">B</forename><surname>Watson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Chouinard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Cook</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Geng</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Gifford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Gustafson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Biochem Mol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="376" to="384" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">New World screwworm (Cochliomyia hominivorax) and Old World screwworm (Chrysomya bezziana)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Welch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mjr</forename><surname>Hall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OIE Biological Standards Commission</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Organisation for Animal Health</publisher>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="page" from="265" to="275" />
+		</imprint>
+	</monogr>
+	<note>Manual of diagnostic tests and vaccines for terrestrial animals</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Protein identification and analysis tools in the ExPASy server</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Wilkins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Gasteiger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bairoch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Sanchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Appel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Link AJ (ed) 2-D proteome analysis protocols</title>
+		<meeting><address><addrLine>Totowa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Humana Press</publisher>
+			<date type="published" when="1999">1999</date>
+			<biblScope unit="page" from="531" to="552" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Glutamate-gated chloride channels and the mode of action of the avermectin/milbemycin anthelmintics</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">J</forename><surname>Wolstenholme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Rogers</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">131</biblScope>
+			<biblScope unit="page" from="85" to="S95" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Amino acid residues of both the extracellular and transmembrane domains influence binding of the antiparasitic agent milbemycin to Haemonchus contortus AVR-14B glutamate-gated chloride channels</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Yamaguchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Sawa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Matsuda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Ozoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Ozoe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochem Biophys Res Commun</title>
+		<imprint>
+			<biblScope unit="volume">419</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="562" to="566" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

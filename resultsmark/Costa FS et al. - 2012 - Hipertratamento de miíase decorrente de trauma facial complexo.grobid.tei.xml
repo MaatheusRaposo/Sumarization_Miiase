@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Hipertratamento de miíase decorrente de trauma facial complexo Treatment of myiasis resulting from complex facial trauma</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Fábio</forename><surname>Santos Costa</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>I</label> . Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. III. Doutor em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR, Brasil. IV. Mestre em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR , Brasil.</note>
+								<orgName type="department" key="dep1">Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep2">Maringá-PR, Brasil. III. Doutor em Cirurgia</orgName>
+								<orgName type="department" key="dep3">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep4">Maringá-PR, Brasil. IV. Mestre em Cirurgia</orgName>
+								<orgName type="department" key="dep5">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="institution" key="instit1">Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit2">Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit3">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit4">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit5">Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit6">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit7">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit8">Universidade Estadual de Maringá (UEM)</orgName>
+								<address>
+									<addrLine>Maringá-PR</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexandre</forename><surname>Bellotti</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>I</label> . Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. III. Doutor em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR, Brasil. IV. Mestre em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR , Brasil.</note>
+								<orgName type="department" key="dep1">Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep2">Maringá-PR, Brasil. III. Doutor em Cirurgia</orgName>
+								<orgName type="department" key="dep3">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep4">Maringá-PR, Brasil. IV. Mestre em Cirurgia</orgName>
+								<orgName type="department" key="dep5">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="institution" key="instit1">Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit2">Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit3">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit4">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit5">Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit6">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit7">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit8">Universidade Estadual de Maringá (UEM)</orgName>
+								<address>
+									<addrLine>Maringá-PR</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ii</forename><forename type="middle">|</forename><surname>Gustavo</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>I</label> . Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. III. Doutor em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR, Brasil. IV. Mestre em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR , Brasil.</note>
+								<orgName type="department" key="dep1">Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep2">Maringá-PR, Brasil. III. Doutor em Cirurgia</orgName>
+								<orgName type="department" key="dep3">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep4">Maringá-PR, Brasil. IV. Mestre em Cirurgia</orgName>
+								<orgName type="department" key="dep5">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="institution" key="instit1">Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit2">Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit3">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit4">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit5">Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit6">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit7">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit8">Universidade Estadual de Maringá (UEM)</orgName>
+								<address>
+									<addrLine>Maringá-PR</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Jacobucci</forename><surname>Farah</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>I</label> . Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. III. Doutor em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR, Brasil. IV. Mestre em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR , Brasil.</note>
+								<orgName type="department" key="dep1">Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep2">Maringá-PR, Brasil. III. Doutor em Cirurgia</orgName>
+								<orgName type="department" key="dep3">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep4">Maringá-PR, Brasil. IV. Mestre em Cirurgia</orgName>
+								<orgName type="department" key="dep5">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="institution" key="instit1">Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit2">Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit3">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit4">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit5">Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit6">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit7">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit8">Universidade Estadual de Maringá (UEM)</orgName>
+								<address>
+									<addrLine>Maringá-PR</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Iii</forename><forename type="middle">|</forename><surname>Edevaldo</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>I</label> . Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. III. Doutor em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR, Brasil. IV. Mestre em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR , Brasil.</note>
+								<orgName type="department" key="dep1">Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep2">Maringá-PR, Brasil. III. Doutor em Cirurgia</orgName>
+								<orgName type="department" key="dep3">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep4">Maringá-PR, Brasil. IV. Mestre em Cirurgia</orgName>
+								<orgName type="department" key="dep5">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="institution" key="instit1">Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit2">Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit3">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit4">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit5">Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit6">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit7">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit8">Universidade Estadual de Maringá (UEM)</orgName>
+								<address>
+									<addrLine>Maringá-PR</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Tadeu</forename><surname>Camarini</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>I</label> . Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM) ; Maringá-PR, Brasil. III. Doutor em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR, Brasil. IV. Mestre em Cirurgia Buco-Maxilo-Facial . Professor adjunto do Departamento de Cirurgia e Traumatologia Buco-Maxilo-Facial , Universidade Estadual de Maringá (UEM) , Maringá-PR , Brasil.</note>
+								<orgName type="department" key="dep1">Maringá-PR, Brasil. II. Estudante residente em Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep2">Maringá-PR, Brasil. III. Doutor em Cirurgia</orgName>
+								<orgName type="department" key="dep3">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="department" key="dep4">Maringá-PR, Brasil. IV. Mestre em Cirurgia</orgName>
+								<orgName type="department" key="dep5">Departamento de Cirurgia e Traumatologia</orgName>
+								<orgName type="institution" key="instit1">Estudante residente em Cirurgia e Traumatologia Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit2">Buco-Maxilo-Facial pela Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit3">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit4">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit5">Universidade Estadual de Maringá (UEM)</orgName>
+								<orgName type="institution" key="instit6">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit7">Buco-Maxilo-Facial</orgName>
+								<orgName type="institution" key="instit8">Universidade Estadual de Maringá (UEM)</orgName>
+								<address>
+									<addrLine>Maringá-PR</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Hipertratamento de miíase decorrente de trauma facial complexo Treatment of myiasis resulting from complex facial trauma</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1679-5458 (versão impressa</idno>
+					</monogr>
+					<idno type="MD5">1BD7A3C7E251835C611FCC382F02588F</idno>
+					<note type="submission">Recebido em 12/01/2012 Aprovado em 30/01/2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Miíase</term>
+					<term>Fratura de Órbita Myiasis</term>
+					<term>Orbital Fractures</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESUMO</head><p>Miíase é uma infestação em tecidos e órgãos ou ocasionada por larvas de dípteros, em humanos ou em animais, por depositarem os seus ovos em tecidos do corpo. Acomete, na maioria das vezes, pessoas de nível socioeconômico baixo, de regiões de clima tropical, imunocomprometidas e com desordens psiquiátricas. Devido ao grande potencial destrutivo, prevenção e tratamento apropriado em tempo hábil são necessários. Apresentamos um caso de miíase em paciente vítima de acidente automobilístico há 08 dias, o qual apresentava múltiplas fraturas e extensos ferimentos faciais não tratados devido à difícil localização e falta de estrutura hospitalar locais. Os ferimentos em face estavam infestados por larvas do díptero Cochliomyia hominivorax spp. As fraturas foram tratadas cirurgicamente, e os tecidos infestados pelas larvas, por meio do debridamento cirúrgico e terapia com o antiparasitário ivermectina.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>COSTA, et al. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>O nome myiases em inglês é derivado da palavra Grega "Mya", que significa mosca. As moscas depositam os seus ovos, os quais eclodem em larvas, que se infiltram nos tecidos e os degeneram 1 . Após a penetração, uma pequena pápula é formada, que se dilata para formar um nódulo, semelhante a um furúnculo, com um poro central para a larva respirar. A larva amadurece e pode sobreviver na profundidade dos tecidos, aderida a eles por meio de seus ganchos. O paciente pode percebê-las tanto pelos seus movimentos, que causam desconforto como pela liberação de um tipo de exudato. Quando se tem a maturidade das larvas, elas deixam a ferida para completar o seu processo de desenvolvimento, tornando-se novas   I, fratura de zigoma direito, fratura nasal (figura 2) e velamento de seio maxilar direito, sugestivo de hemosinus. Não havia sinais de erosão óssea na região do ferimento. presença persistente de larvas. No transoperatório foi constatada uma grande cominuição em região de pilar zigomático maxilar e na parede anterior de seio maxilar. Havia extensa perda tecidual sem áreas de erosões ósseas, além do comprometimento do seio maxilar direito pelas larvas, provavelmente devido à comunicação do seio com as linhas de fraturas, as quais facilitaram a entrada das larvas na cavidade. A fratura Le Fort I foi acessada, reduzida e fixada por acesso intrabucal. Os ferimentos foram fechados por primeira intenção. Inicialmente, o paciente foi tratado com ivermectina 12mg via oral em dose única e 1g intravenoso de cefalotina de 06 em 06 horas, para evitar infecções secundárias. No segundo dia de internação, sob anestesia geral, a ferida foi debridada e lavada abundantemente, com soro fisiológico 0,9%. Não havia sinais de infecção secundária nos tecidos moles mais profundos. Com o auxílio de vaselina, foram removidas aproximadamente 55 larvas da ferida extrabucal, as quais foram enviadas vivas para análise parasitológica e identificação. As bordas da ferida operatória foram discretamente aproximadas para uma segunda intervenção. A espécie de mosca disgnosticada após análise foi Cochliomyia hominivorax. No quarto dia de internação, sob entubação submentoniana, devido às múltiplas fraturas faciais, as reduções e fixações das fraturas foram realizadas. O mesmo ferimento facial foi usado como acesso para redução e fixação com miniplacas e parafusos da fratura zigomática direita (Figura 3), para acesso ao pilar zigomático maxilar e margem infraorbitária. Nesse momento, não foi observada No pós-operatório, foram prescritos 500mg de Cefalexina de 06 em 06 horas, por 07 dias. No pósoperatório de 60 dias, o paciente encontrava-se em bom estado geral (BEG), com parestesia infraorbitária direita, extensa cicatriz em face, ectrópio em pálpebra inferior direita, sem assimetria facial, sem sinais de infecção em feridas operatórias e sem sinais de paralisia facial. Ao exame intrabucal apresentava-se com mucosas íntegras e coradas em bom aspecto cicatricial, oclusão estável, boa abertura bucal e articulações livres e palpáveis. DISCUSSÃO As moscas das famílias Calliphoridae, Sarcophagidae, Oestridae possuem muitos gêneros e ISSN 1679-5458 (versão impressa) ISSN 1808-5210 online) Rev. Cir. Traumatol. Buco-Maxilo-Fac., Camaragibe v.12, n.3, p. 17-24, jul./set. 2012 20 COSTA, et al. espécies que causam miíase 11 . No nosso caso, a infestação ocorreu pela Cochliomyia hominivorax, que é um tipo mais comum em países de climas tropicais, como no Brasil. As miíases são classificadas de acordo com a localização anatômica que ela ocupa, principalmente em animais ou acidentalmente em humanos, podendo ser dérmica, subdérmica, cutânea, nasofaringeal, ocular, intestinal e urogenital. Quando as miíases acometem ferimentos abertos, são chamadas de miíase traumática 6 , como o presente caso. Muitas espécies de moscas preferem animais de sangue quente ou humanos como substratos para alimentação e reprodução, além de serem atraídas por odores fétidos de ferimentos ou orifícios do corpo para desovarem. Esses locais apresentam temperaturas adequadas para eclosão dos ovos e posterior sobrevivência das larvas 12,6,9 , como é o caso da espécie aqui apresentada. Em humanos, é mais comum em homens com média de 60 anos. Desabrigados, alcoólatras, doença vascular periférica, mordida aberta anterior, paralisia cerebral, incompetência labial, fraturas abertas de face negligenciadas, má higiene corporal foram citados como cofatores para a infestação em humanos 6 . No presente caso, o paciente era jovem e encontrava-se consciente em BEG, porém a demora do tratamento dos ferimentos de face que ficaram abertos por 08 dias em más condições de higiene e em ambiente não apropriado propiciou a instalação de ovos de mosca, atraída pelos odores e exudatos, e posterior desenvolvimento das larvas. As miíases podem ser classificadas em obrigatórias e facultativas. As primeiras são caracterizadas por larvas, que se alimentam de tecidos vivos, os quais são destruídos pelos seus ganchos orais e pela liberação de enzimas proteolíticas. Necessitam, portanto, de um hospedeiro intermediário, que pode ser o humano, para o seu desenvolvimento. As miíases secundárias ou facultativas apresentam larvas que se alimentam de tecidos necróticos, como em ferimentos não tratados e matéria orgânica em decomposição 13,8 . Nosso paciente apresentou miíase obrigatória, que é causada pela única mosca da família Calliphorina da espécie Cochliomyia hominivorax. As fêmeas de C. hominivorax, atraídas por secreções humanas, produzidas em feridas da pele, como sangue e pus 7,9, depositam grande quantidade de ovos, 200 a 300, que se aderem firmemente nos tecidos secos ao redor das bordas das feridas recentes, lesões ou em simples arranhões. As larvas eclodem após 24 horas, penetram na pele, consumindo ali tecido muscular, tecido conjuntivo, vasos, nervos e cartilagem e sempre mantendo a região posterior voltada para o meio exterior, a fim de permitir a respiração pelos espiráculos ali existentes. O desenvolvimento completo da larva no hospedeiro varia de cinco a nove dias, quando então ela sai para desenvolver a fase de pupa, no solo. O estágio de pupa se estende de seis a oito dias, quando, então, se dá a fase adulta. As moscas adultas sugam líquidos achados em excrementos, em carnes expostas, em ferimentos e substâncias apodreciadas, locais estes para desova e acasalamento. O cliclo total dura cerca de 24 dias 14,10,13 . A ivermectina é um derivado da classe dos antiparasitários de amplo espectro, com atividade contra ectoparasitas e endoparasitas com tropismo cutâneo (Strongyloides stercoralis, Ancylostoma braziliense, Cochliomyia hominivora, Dermatobia hominis Wuchereria bancrofti, Brugia malayi, Onchocerca volvulus) em animais e humanos. Tem estrutura similar ao antibiótico macrolídeo, mas sem atividade antibactariana 15,9,13 . É metabolizado no fígado pela enzima P450 e excretado, principalmente, nas fezes e, em menor parte, pelas glândulas sebáceas que podem desencadear mau cheiro 2 . O bem-sucedido tratamento com a ivermectina em animais tem conduzido ao uso em humanos com bons resultados em várias doenças parasitárias 9 . Relataram-se casos de parasitas resistentes à iver-1679-5458 (versão impressa) ISSN 1808-5210 (versão online) Rev. Cir. Traumatol. Buco-Maxilo-Fac., Camaragibe v.12, n.3, p. 17-24, jul./set. 2012 21 COSTA, et al. mectina em nematelmintos de cavalos e ovelhas 15,2 . A ivermectina atua pela ligação específica a neurotransmissores, que funcionam em sinapses motoras periféricas dos parasitas. Ela tem efeito simultâneo em ectoparasitas e endoparasitas, induzindo à paralisia tônica da musculatura do nematelminto, artrópode e insetos pela supressão da condução de impulsos nervosos em sinapses interneurônicas (neurônios intermediários) de nematelmintos e sinapses nervo-músculo de artrópodes e insetos. A ivermectina bloqueia os canais de cloro controlados pelo glutamato ou ácido alfaaminobitírico (GABA), podendo, também, interagir com os receptores GABA do cérebro de mamíferos, mas a afinidade pelos receptores dos invertebrados é mais de cem vezes maior. Nos mamíferos, os canais iônicos, mediados pelo GABA, somente estão presentes no cérebro, e a ivermectina não atravessa a barreira hematoencefálica em situações normais, além disso os mamíferos não possuem, nos seus nervos e nas suas células musculares, canais de Cl-controlados pelo glutamato 15 . Prescrição de antibióticos geralmente não é necessária, porque as larvas manifestam um poderoso efeito antibacteriano que parecem ter efeito predominantemente em bactérias gram-positivas 1,6 .</p><p>Entretanto o uso de antibióticos é necessário para evitar infecções secundárias <ref type="bibr" target="#b12">16</ref> . Por isso, citando-se até terapia com larvas de miíases secundárias no debridamento de ferimentos com tecidos necróticos, removendo-os e deixando o tecido viável com mínimo ou nenhum dano 2,6 .</p><p>A ivermectina é usada em humanos e somente administrada oral ou topicamente <ref type="bibr" target="#b6">9,</ref><ref type="bibr" target="#b10">14,</ref><ref type="bibr" target="#b9">13</ref> . É bastante efetiva no tratamento da escabiose com doses de 200 µg/kg de peso, após uma simples dose oral, mas frequentemente doses são repetidas, duas ou três vezes, separadas com intervalo de 01 a 02 semanas, com índice de 79,3% de cura. Assen et   al.(2005) obtiveram eficáfia de 100% ao administrar topicamente 1% de ivermectina em propilenoglicol (400 µg/kg), por 02 horas, em paciente com miíase causada por Cochliomyia hominivorax. Em 15 minutos, a dor diminuiu, e, em 2 horas, as larvas morreram <ref type="bibr" target="#b11">15</ref> . Não é indicada para crianças com menos de 05 anos e menos de 15kg de peso 2 . Na dose de 150 a 200 µg/kg de peso, a droga atinge altas concentrações no sangue em um curto intervalo de tempo <ref type="bibr" target="#b6">9,</ref><ref type="bibr" target="#b9">13</ref> .</p><p>A ivermectina é usada para evitar a necessidade de extenso debridamento mecânico das larvas em regiões de difícil acesso, podendo resultar em defeitos cosméticos e funcionais ao paciente <ref type="bibr" target="#b6">9</ref> . Alguns autores relatam que a dose 200 µg/kg de peso nem sempre é capaz de eliminar todas as larvas, então indicavam mais uma dose de 100 µg/kg após 24 horas. Por isso, sugere-se que o tratamento deveria iniciar com dose superior a 200 µg/kg de peso. Dessa forma, pacientes entre 40 e 60kg, dois comprimidos (12mg) deveriam ser indicados, e três comprimidos (18mg) para pacientes com peso entre 60 e 90kg3. É citado o uso de doses altas de 400 µg/kg indicadas para tratar parasitoses por Wucheria bancrofti, a fim de que bons resultados sejam alcançados no tratamento de miíases <ref type="bibr" target="#b6">9</ref> . Também é citada a completa resolução do quadro de miíase nas primeiras 24 horas após a administração da dose usual de 200 µg/kg de peso17, por outro lado, o tratamento definitivo da miíase se dá por total retirada das larvas <ref type="bibr" target="#b14">18</ref> .</p><p>Entre os efeitos secundários da droga, estão a interação com os benzodiazepínicos e outros tranquilizantes, irritação e dor ocular e palpebral, febre, prurido, erupção cutânea, mialgia, artralgia, cefaleia, edema de face e membros, tontura, perda de apetite, sonolência e hipotensão <ref type="bibr" target="#b13">17</ref> .</p><p>Em nosso paciente, foram dados dois comprimidos (12mg) via oral no primeiro atendimento. A prevenção de infecções nosocomiais ou não, deve ser feita com melhores instalações hospitalares, eliminação de moscas em ambiente hospitalar com o uso de inseticidas, melhor atenção aos pacientes incapacitantes, estímulo à higienização corporal e melhor treinamento dos profissionais <ref type="bibr" target="#b2">5,</ref><ref type="bibr" target="#b10">14</ref> .</p><p>Ainda, por meio do controle das fontes de larvas e da ovoposição das moscas fêmeas <ref type="bibr" target="#b3">6</ref> .</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONSIDERAÇÕES FINAIS</head><p>A miíase, quando decorrente de um trauma de face sem tratamento, deve ser observada com cau- 4-Baer WS: The treatment of chronic osteomyelitis with the maggot (larvae of the blowfly). J Bone Joint Surg 13:438, 1931  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figura 1 -</head><label>1</label><figDesc>Figura 1 -Ferida pré-operatória.</figDesc><graphic coords="2,323.39,440.97,188.21,206.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>moscas 2 . Ambrose Pare foi o primeiro a perceber a presença de larvas em ferimentos de batalha em 1557 3 . Noticiou como um ferimento com odor fétido, repleto de vermes com gangrena e putrefação 3 . Em 1917, Baer percebeu o benéfico efeito das larvas em ferimentos abertos, pois, embora o ferimento estivesse com larvas, o paciente estava em bom estado, sem evidências de septicemia 4,5,6 . O nome científico em latim da espécie Cochliomyia hominivorax significa "voraz do homem". Áreas endêmicas para essa espécie de mosca incluem as regiões do sul do México ao norte da Argentina e Caribe. Têm sido relatados casos no norte da África, não havendo casos de miíase por C. hominivorax em regiões onde a média de temperarura é inferior a 12 graus Celsius 7,8,9 . No Brasil, o agente causal das miíases orais e cutâneas, quer no homem, quer nos animais domésticos, são as larvas de Cochlyomyia hominivora. Oliveira et al. afirmam que essa espécie é a causadora dos casos mais graves de miíases humanas no Novo Mundo. Suas larvas são parasitas obrigatórios e atacam somente lesões recentes e limpas, classifacadas como histiófagas 10 . O presente trabalho tem como objetivo relatar um caso de miíase cutânea em face, decorrente de trauma facial com múltiplos ferimentos cortocontusos, descrevendo as suas características e tratamento. RELATO DE CASO Paciente E. E de 38 anos, gênero masculino, admitido no Hospital Metropolitano de Sarandi e encaminhado à equipe de cirurgia e traumatologia bucomaxilofacial, para avaliação devido a acidente automobilístico há 08 dias. Apresentava-se eupneico, acianótico e responsivo. Ao exame extrabucal, apresentava extenso ferimento corto-contuso com bordas irregulares, acometendo região nasal e zigomática direita com aparente perda de substância em pálpebra inferior direita e região nasal direita (Figura 1). Não se observou supuração nem demais sinais sugestivos de infecção ativa. Foram observadas múltiplas larvas em todo o ferimento facial e ausência de áreas necróticas. Ao exame intrabucal apresentava hematoma em fundo de vestíbulo bilateral e creptação em maxila sugestivo de fratura Le Fort I. Ao exame tomográfico, apresentava sinais compatíveis com fraturas Le Fort ISSN 1679-5458 (versão impressa) ISSN 1808-5210 (versão online) Rev. Cir. Traumatol. Buco-Maxilo-Fac., Camaragibe v.12, n.3, p. 17-24, jul./set. 2012 19 COSTA, et al.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figura 2 -</head><label>2</label><figDesc>Figura 2 -Reconstrução 3D, evidenciando as fraturas Le fort I, zigomática direita e nasal.</figDesc><graphic coords="3,63.36,142.78,222.90,159.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Figura 3 -</head><label>3</label><figDesc>Figura 3 -Fixação de fratura zigomática direita.</figDesc><graphic coords="3,307.34,269.40,224.30,183.78" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><figDesc>Após 24 horas, o paciente referia menos dor, porém algumas larvas ainda persistiam vivas, tendo sido removidas por meio de debridamento mecânico, ISSN 1679-5458 (versão impressa) ISSN 1808-5210 online) Rev. Cir. Traumatol. Buco-Maxilo-Fac., Camaragibe v.12, n.3, p. 17-24, jul./set. 2012 22 COSTA, et al. sem maiores problemas. A região de pálpebra inferior apresentava perda de substância devido à destruição tecidual pelas larvas, o que resultou em cicatriz desfavorável ao paciente e sem comprometimento do globo ocular. Algumas larvas também foram removidas do seio maxilar direito, que teve sua membrana removida devido ao grau de comprometimento pelas larvas, para evitar sinusites ou infecções pós-operatórias. O uso de substâncias tópicas irritantes ou não, como vaselina, clorofórmio, éter, iodofórmio ou outros agentes oclusivos para bloquear a respiração larval, é de grande valia no debridamento mecânico das larvas em ferimentos cutâneos, pois, ao se vedar o ferimento, as larvas aeróbias ficam asfixiadas e, assim, tendem a ir para a superfície do ferimento em busca de oxigênio, facilitando, assim, a sua remoção 11, 8, 12, 2, 6 . Esse procedimento não é facilmente aplicável na cavidade bucal. É aconselhável também vacinar o paciente contra o tétano devido a essas infestações facilitarem a entrada do Clostridium tetani durante o debridamento mecânico com instrumentais que possam estar contaminados 11 . Fizemos uso de vaselina antes de iniciar o debridamento por, aproximadamente, 20 minutos. Com isso, as larvas tornaram-se mais superficiais, sendo mais facilmente removidas. As miíases em humanos podem ter um curso fatal, principalmente em casos de comprometimento de cavidades pré existentes, como em nariz, olhos, boca, ouvidos, pulmões, vagina e ânus. George K. et al. (2006) relatam um caso de extenso pneumoencéfalo em espaço subaracnoideo, como complicação de miíase nasal, em que se observava alargamento nasal, extensa destruição tecidual da mucosa nasal, ausência de conchas nasais, com perfuração septal óssea e cartilaginosa, erosão em placa pterigoidea direita e asa maior do esfenoide, comprometimento de seio cavernoso direito e dilatação de veia oftálmica superior direita com presença de proptose e oftalmoplegia 14 . Pierre C. et al. citam um caso de miíase nosocomial, com extensa destruição de pirâmide nasal e perfuração da narina por Cochliomyia hominivorax, demonstrando a agressividade da larva 5 .</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><figDesc>tela. O tratamento mais adequado é a associação do debridamento mecânico das larvas com o uso do antiparasitário. A prevenção ainda é a melhor forma de combatê-la por meio da adequada higiene corporal e educação sanitária mediante treinamentos específicos à população e aos profissionais da saúde. REFERÊNCIAS 1-Cavuşoglu T, Apan T, Eker E, Vargel I, Saray A. Massive oculofacial myiasis infestation with Lucilia sericata. J Am Acad Dermatol. 2009 Jul;61(1):169-70 2-Nordlund JJ. Cutaneous ectoparasites. Dermatol Ther. 2009 Nov-Dec;22(6):503-17. 3-Reames MK, Christensen C, Luce EA: The use of maggots in wound debridement. Ann Plast Surg 21:388, 1988</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<imprint/>
+	</monogr>
+	<note>versão impressa versão online</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Cir. Traumatol. Buco-Maxilo-Fac., Camaragibe v</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="17" to="24" />
+			<date type="published" when="2012-07">jul. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Pneumocephalus: a rare complication of nasal myiasis</title>
+		<author>
+			<persName><forename type="first">George</forename><surname>Kuruvilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rita</forename><surname>Ruby</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anbuselvi</forename><surname>Albert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Anand</forename><surname>Job</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Thazhath</forename><surname>Vellithiruthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Paul</forename><surname>Ranjith</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Selvakumar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Otolaryngology-Head and Neck Medicine and Surgery</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="133" to="135" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Traumatic Wound Myiasis: An Unusual Finding in Maxillofacial Trauma</title>
+		<author>
+			<persName><forename type="first">Rajesh</forename><surname>Gutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Luis</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><forename type="middle">J</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="2083" to="2086" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Lucilia sericata (Diptera: Calliphoridae) causing hospitalacquired myiasis of a traumatic wound</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Daniel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Srámová</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Zálabská</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Hosp Infect</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="149" to="152" />
+			<date type="published" when="1994-10">1994 Oct</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Extensive myiasis infestation over a squamous cell carcinoma in the face. Case report. Med Oral Patol Oral Cir Bucal</title>
+		<author>
+			<persName><forename type="first">Guilherme</forename><surname>João</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><forename type="middle">Aparecida</forename><surname>Gabriel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Flaviana</forename><forename type="middle">Dornela</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ricardo</forename><forename type="middle">Guilherme</forename><surname>Verli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Liliane</forename><forename type="middle">Soares</forename><surname>Krause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Karen</forename><surname>Yurgel</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Cherubini</surname></persName>
+		</author>
+		<imprint>
+			<date>2008 Jan1</date>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="9" to="11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Role of Ivermectin in the Treatment of Severe Orbital Myiasis Due to Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">Johanna</forename><surname>Osorio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ligia</forename><surname>Moncada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Alejandra</forename><surname>Molano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Valderrama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sandra</forename><surname>Gualtero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carlos</forename><surname>Franco-Paredes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clinical Infectious Diseases</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="57" to="59" />
+			<date type="published" when="2006-09-15">2006 Sep 15</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Myasis of the tongue: report of a case of hospital infestation</title>
+		<author>
+			<persName><forename type="first">Gomes</forename><surname>Pereira De Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Maria</forename><forename type="middle">Inês</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mayara</forename><surname>Patelli De</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Cir. Traumatol. Buco-Maxilofac., Camaragibe v</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="47" to="50" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>out./ dez</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">12-Jyothi Sharma, Gowda Panchaksharappa Mamatha , Rachana Acharya. Primary oral myiasis: A case report. Med Oral Patol Oral Cir Bucal</title>
+		<author>
+			<persName><forename type="first">Eitan</forename><surname>Bar Droma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Amos</forename><surname>Wilamowski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Heather</forename><surname>Schnur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Noam</forename><surname>Yarom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Esther</forename><surname>Scheuer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Eli</forename><surname>Schwartz</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007">2007. 2008 Nov 1</date>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="page" from="714" to="716" />
+		</imprint>
+	</monogr>
+	<note>Oral myiasis: a case report and literature review.Oral Surg Oral Med Oral Pathol Oral Radiol Endod</note>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ueslei Teodoro, Edevaldo Tadeu Camarini. Treatment of oral myiasis caused by Cochliomyia hominivorax: two cases treated with ivermectin</title>
+		<author>
+			<persName><forename type="first">Walter</forename><surname>Cristiano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gealh</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Geovane</forename><forename type="middle">Miranda</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Gustavo</forename><forename type="middle">Jacobucci</forename><surname>Farah</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of Oral and Maxillofacial Surgery</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="23" to="26" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Nosocomial nasal myiasis owing to Cochliomyia hominivorax:a case in French Guiana</title>
+		<author>
+			<persName><forename type="first">Pierre</forename><surname>Couppié</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Morgane</forename><surname>Roussel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Patrick</forename><surname>Rabarison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Marie-Josée</forename><surname>Sockeel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dominique</forename><surname>Sainte-Marie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Christian</forename><surname>Martyand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bernard</forename><surname>Carme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Dermatology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="302" to="303" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Ivermectin: pharmacology and application in dermatology</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Assen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lyubomir</forename><forename type="middle">A</forename><surname>Dourmishev</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Dourmishev</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Schwartz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Dermatology</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="981" to="988" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Scalp Myiasis Associated with Advanced Basal Cell Carcinoma</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Asilian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Andalib</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Dermatol Surg</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1539" to="1540" />
+			<date type="published" when="2009-07-28">2009 Oct. 2009 Jul 28</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">André Gustavo Bombana Nicoletti, Suzana Matayoshi,José Byron Vicente Dias Fernandes. Ivermectina no tratamento de miíase orbitária -Relato de caso</title>
+		<author>
+			<persName><forename type="first">Mario</forename><surname>Enrique</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lovatón</forename><surname>Rodríguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lísia</forename><surname>Aoki</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Bras Oftalmol</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="519" to="521" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Pierce</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Myiasis</surname></persName>
+		</author>
+		<idno>ISSN 1808-5210 online</idno>
+		<title level="m">Braud AI. Medical microbiology and infectious diseases</title>
+		<meeting><address><addrLine>Philadelphia</addrLine></address></meeting>
+		<imprint>
+			<publisher>W.B. Saunders</publisher>
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+	<note>versão impressa</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Cir. Traumatol. Buco-Maxilo-Fac., Camaragibe v</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="17" to="24" />
+			<date type="published" when="2012-07">jul./set. 2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">ENDEREÇO PARA CORRESPONDÊNCIA Fábio S. Costa Av. dos Holandeses, 1100/1102 -Ponta do Farol</title>
+		<author>
+			<persName><surname>Costa</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="650675" to="650650" />
+			<pubPlace>São Luís/MA CEP</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">E-Mail</forename></persName>
+		</author>
+		<title level="m">fabiocoosta@hotmail.com</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

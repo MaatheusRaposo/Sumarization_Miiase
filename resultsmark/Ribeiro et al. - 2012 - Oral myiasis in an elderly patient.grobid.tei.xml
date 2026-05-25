@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Oral myiasis in an elderly patient</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Michel</forename><surname>Campos</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Oral and Maxillofacial Surgery and Periodontology , School of Dentistry of Ribeirao Preto , University of Sao Paulo ;</note>
+								<orgName type="department" key="dep1">Department of Oral and Maxillofacial Surgery and Periodontology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry of Ribeirao Preto</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Andre</forename><surname>´de Oliveira Pepato</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Oral and Maxillofacial Surgery and Periodontology , School of Dentistry of Ribeirao Preto , University of Sao Paulo ;</note>
+								<orgName type="department" key="dep1">Department of Oral and Maxillofacial Surgery and Periodontology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry of Ribeirao Preto</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><surname>Pando</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">De</forename><surname>Matos</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Oral and Maxillofacial Surgery and Periodontology , School of Dentistry of Ribeirao Preto , University of Sao Paulo ;</note>
+								<orgName type="department" key="dep1">Department of Oral and Maxillofacial Surgery and Periodontology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry of Ribeirao Preto</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">´ssio</forename><forename type="middle">Edvard</forename><surname>Ca</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Sverzut</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Oral and Maxillofacial Surgery and Periodontology , School of Dentistry of Ribeirao Preto , University of Sao Paulo ;</note>
+								<orgName type="department" key="dep1">Department of Oral and Maxillofacial Surgery and Periodontology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry of Ribeirao Preto</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><surname>Ame</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carraro</forename><surname>Abraha</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Department of Clinical Analisys, Toxicology and Bromatologics , Laboratory of Parasitology , School of Pharmacy of Ribeirao Preto , University of Sao Paulo , Ribeirao Preto , Brazil</note>
+								<orgName type="department" key="dep1">Department of Clinical Analisys, Toxicology and Bromatologics</orgName>
+								<orgName type="department" key="dep2">School of Pharmacy of Ribeirao Preto</orgName>
+								<orgName type="laboratory">Laboratory of Parasitology</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+								<address>
+									<settlement>Ribeirao Preto</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Alexandre</forename><forename type="middle">Elias</forename><surname>Trivellato</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Department of Oral and Maxillofacial Surgery and Periodontology , School of Dentistry of Ribeirao Preto , University of Sao Paulo ;</note>
+								<orgName type="department" key="dep1">Department of Oral and Maxillofacial Surgery and Periodontology</orgName>
+								<orgName type="department" key="dep2">School of Dentistry of Ribeirao Preto</orgName>
+								<orgName type="institution">University of Sao Paulo</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Oral myiasis in an elderly patient</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">F83E76D91DE4EC2205941F3BE84FF5BD</idno>
+					<idno type="DOI">10.1111/j.1741-2358.2010.00432.x</idno>
+					<note type="submission">Accepted 18 April 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>oral myiasis</term>
+					<term>maggots</term>
+					<term>senility</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Oral myiasis in an elderly patient</head><p>Background: Myiasis is the invasion of living tissue of humans and other mammals by eggs or maggots of flies of the order of Diptera. It occurs mainly in the Tropics and is associated with inadequate public and personal hygiene. Oral myiases in an older man appears to be rare. Objective: To relate a case of oral myiases in a debilitated older man treated by mechanical removal of the maggots, identifying the adult insect that caused the infestation. Methods: The diagnosis of oral myiasis was established by the clinical examination and it was detected that the infestation involved only soft tissue and the sinus cavity. The patient was submitted to two mechanical removal of the visible maggots. Results: Total of 110 maggots was removed from the oral cavity of the patient and adult insects was identified as belonging to the Calliphoridae Family, Cochliomyia hominivorax species. The patient died two days after the second procedure by severe systemic complications. Conclusions: The mechanic removal and the identification of the maggots must be adopted as soon as possible to prevent further tissue damage and bacterial infection in cases of oral myiasis. Special attention should be given to the debilitated old patients that are particularly susceptible to oral myiasis infestation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Myiasis is the infestation of humans and vertebrate animals with dipterous larvae, which feed on the host's dead or living tissues, liquid body substances, or ingested food. Maggots can infest any organ or tissue accessible to fly oviposition, most cases probably occur with a female fly depositing either eggs or larvae on necrotic tissue, open wounds, and unbroken skin or mucosa of animal or human host <ref type="bibr" target="#b0">1</ref> . Such invasions may be benign in effect, asymptomatic, may result in mild to violent disturbances, or even death <ref type="bibr" target="#b1">2,</ref><ref type="bibr" target="#b2">3</ref> . Eighty different species of Diptera have been known to invade man <ref type="bibr" target="#b3">4</ref> .</p><p>Oral myiasis was first described by Laurence in 1909 <ref type="bibr" target="#b4">5</ref> (two cases) and occurs in humans mainly in the Tropics. It is associated with poor oral hygiene, alcoholism, senility, severe halitosis, suppurating lesions and others conditions. A case of myiasis caused by Cochliomyia hominivorax in a debilitated man is presented with extensive infestation of maggots in the jaws that were treated by surgical removal.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Case Report</head><p>A 97-year-old white male from Cravinhos, State of Sao Paulo, Brazil, was admitted to Sao Francisco Hospital. His relatives described the presence of maggots inside his mouth. An immediately evaluation by the Oral and Maxillofacial Surgery team was requested. The patient had a positive medical history for intestinal, dermatological (skin cancer) and heart diseases and had been bedridden for a number of years. During physical examination he was found to be cachectic, conscious but not responsive, mouth breathing with the oral cavity permanently open, and being fed by a nasogastric catheter for the last 8 months.</p><p>Oral examination revealed the remaining teeth in both jaws to be in a very poor condition, with ulcerated and necrosed mucosal tissue, a bad odour and the presence of maggots. The diagnosis of oral myiasis was established and X-rays were taken of the frontal and lateral skull (Fig. <ref type="figure" target="#fig_0">1</ref>). Fortunately, the infestation involved only soft tissue and the sinus cavity. The patient was first submitted to the removal of the visible maggots. A total of 20 maggots were removed, which showed a spiral form and varied in size from 5 to 10 mm (Fig. <ref type="figure" target="#fig_1">2</ref>). Due to the poor condition of the patient, a second procedure was planned, this being for removal of remaining maggots and extraction of teeth that were in poor condition, with debridement of the necrotic tissue.</p><p>During the second evaluation, a re-infested wound was revealed with several maggots two or three times larger than previously described A surgical procedure was performed under local anaesthesia (2% xylocaine with 1:100 000 epinephrine). Fifteen teeth were extracted and all visible maggots, totalling 80, were removed. The   wound was irrigated with saline, debrided and sutured with Vicryl 3-0 in the maxilla and mandible (Fig. <ref type="figure" target="#fig_2">3</ref>). Post-operative care and recommendations were given to the family of the patient. One day after the surgery, the patient presented requiring special care and was taken to the Intensive Care Unit. A new evaluation was carried out and the presence of 10 more maggots in the oral cavity, dehiscence of the previous sutures and the presence of necrotic tissues was recorded. The patient was intubated but was severely ill, and unfortunately died 2 days later.</p><p>In all the surgical interventions, a total of 110 maggots had been removed from the oral cavity of the patient. The maggots were sent to the Laboratory of Parasitology of the School of Pharmaceutical Sciences of the University of Sao Paulo for identification. The maggots at the third stage were 15 mm in length, white-orange in colour, with pigmented tracheal trunks until the third segment. After 2 days, they transformed into brown barrel-shaped puparia. The puparium stage terminated 9 days later with the emergence of adults.</p><p>The adult flies presented on average from 8-10 mm in length, with a greenish-blue metallic colour, a yellow face, reddish eyes and three dark stripes on the dorsal surface of the thorax. In accordance with the morphological characteristics observed and using taxonomic keys, the larvae and adult insects had been identified as belonging to the Calliphoridae Family, Cochliomyia hominivorax species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Oral myiasis occurs following direct infestation of oral tissue with the eggs of the flies <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref> . The patient in the present case was a mouth breather, with his mouth permanently open, bedridden, and senile with ulcerative necrotic lesions in the oral cavity. The precarious oral hygiene, intense halitosis, mouth breathing and senility could have facilitated the infestation. Once the maggots were present, an aggravation of the patient's general health state was triggered, causing a severe acute inflamatory reaction of tissues, resulting in pain and extreme discomfort.</p><p>Cases alrealdy seen in the literature describe patients who may have poor oral hygiene <ref type="bibr" target="#b5">6,</ref><ref type="bibr" target="#b6">7</ref> , a weak nutritional state, senility, trauma, paralysis, unconsciousness, mental debility, alcoholic, fingersucking habits, mouth breathers or people who maintain their mouths open for long periods of time, outdoors or residence in agricultural zones <ref type="bibr" target="#b4">5,</ref><ref type="bibr" target="#b7">8,</ref><ref type="bibr" target="#b8">9</ref> .</p><p>Other cases of oral myiasis have been reported in epileptic patients with lacerated lips following seizure, in children with incompetent lips and thumb-sucking habits, in patients with advanced periodontal disease, tooth extration sites, in a fungating carcinoma of the buccal mucosa and in a patient with tetanus who had his mouth propped open to maintain the airway <ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref> .</p><p>In Goia ´s State, Brazil, myiasis was commonly found in poor and malnourished people who lived alone or were cared for by relatives who had little concern for their well-being. Patients with neurological, psychiatric pathologies, physical deficiencies and bedridden individuals presented with lesions with a higher numbers of maggots in the periodontal tissues and the tongue <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b13">14</ref> .</p><p>A study by Fernandes et al. <ref type="bibr" target="#b9">10</ref> indicated that C. hominivorax is the predominant agent of human myiases in the New World. In Brazil, C. hominivorax maggots were identified in cases of oral myiases <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b11">12</ref> . The larvae are an obligatory parasite that generally use mucous membranes or wounds as entry points and grow on the healthy tissue of their live host and destroy the tissues.</p><p>The adults females may lay more than 2800 eggs, deposited in batches of 10 to 400 eggs each and the incubation period ranges from 11 to 21 h. The larval feeding period ranges from 3.5 to 4.5 days or more <ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref> and the number of maggots that develop in a specific lesion is directly proportional to the tissue damage. Severe infections may lead to death of the host, which enphasises the importance of an early diagnosis.</p><p>Removal of the maggots is the most prudent treatment and must be adopted as soon as possible to prevent further tissue damage and bacterial infection <ref type="bibr" target="#b10">[11]</ref><ref type="bibr" target="#b11">[12]</ref><ref type="bibr" target="#b12">[13]</ref><ref type="bibr" target="#b13">[14]</ref> .</p><p>Prevention of oral myiasis involves good hygiene but old, bedridden and debilitated patients are particularly at risk and special attention should be given to dental and oral hygiene <ref type="bibr" target="#b8">9,</ref><ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b14">15</ref> .</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 X</head><label>1</label><figDesc>Figure 1 X-rays of the patient.</figDesc><graphic coords="2,226.35,73.46,312.00,143.07" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2</head><label>2</label><figDesc>Figure 2 The mechanical removal of maggots.</figDesc><graphic coords="2,65.97,238.39,226.93,169.70" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Figure 3</head><label>3</label><figDesc>Figure3The surgical procedure performed and the removed maggots.</figDesc><graphic coords="2,224.34,488.33,313.91,236.23" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>17412358, 2012, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1741-2358.2010.00432.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [28/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">On insects and their larvae occasionally found in the human body</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">W</forename><surname>Hope</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trans Royal Entomol Soc of London</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="256" to="271" />
+			<date type="published" when="1840">1840</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Entomology in Human and Animal Health (7th edn)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Harwood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>James</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1979">1979</date>
+			<publisher>Macmillan Publishing</publisher>
+			<biblScope unit="page">548</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Linhares AX Miı ´ases</title>
+	</analytic>
+	<monogr>
+		<title level="m">Parasitologia humana</title>
+		<editor>
+			<persName><surname>Dp Neves</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="page">387</biblScope>
+		</imprint>
+	</monogr>
+	<note>th edn Atheneu: Sa ˜o Paulo</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Manual of Tropical Medicine</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Hunter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Frye</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966">1966</date>
+			<publisher>WB Saunders Company</publisher>
+			<biblScope unit="page" from="720" to="781" />
+			<pubPlace>Philadelphia, PA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Dipterous larvae infection</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Laurence</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br Med J</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">88</biblScope>
+			<date type="published" when="1909">1909</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Oral myiasis caused by sarcophagidae in an extration wound. Oral Surg Oral Med Oral</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Bozzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">A</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">P</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scully</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pathol</title>
+		<imprint>
+			<biblScope unit="volume">74</biblScope>
+			<biblScope unit="page" from="733" to="735" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: a case report</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">K</forename><surname>Kapila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Aggarwal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="455" to="456" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oral myiasis caused by hypoderma bovis larvae in a child: a case report</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Erol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Balci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tanrikulu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Sci</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="247" to="249" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Treatment of oral myiasis caused by Cochliomyia hominivorax: two cases treated with ivermectin</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">C</forename><surname>Gealh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">J</forename><surname>Farah</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Teodoro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename><surname>Camarini</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="23" to="26" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">First report of human myiasis in Goia¢ s state, Brazil: frequency of different types of myiasis, their various etiological agents, and associated factors</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Fernandes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="page" from="32" to="38" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Oral myiasis by screwworm Cochliomyia hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Perdiga ˜o Pf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Pimenta</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="115" to="116" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Oral infection by Diptera larvae in children: a case report</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">S</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rass</forename><surname>Rocha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Guirado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="696" to="699" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Oral myiasis: Report of case and review of management</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Felices</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kue</forename><surname>Ogbureke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="219" to="220" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Traumatic wound myiasis: na unusual finding in maxillofacial trauma</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gutta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="2083" to="2086" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Cutaneous myiasis: diagnosis, treatment, and prevention</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Caissie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Beaulieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Giroux</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="560" to="568" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Correspondence to: Michel Campos Ribeiro</title>
+		<imprint>
+			<biblScope unit="volume">750</biblScope>
+			<biblScope unit="page">21</biblScope>
+			<pubPlace>Rodrigues Alves</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Vila Tibe ´rio</surname></persName>
+		</author>
+		<idno>Brazil. Tel.: (+55) 16-81181619 Fax: (+55) 31-38234490</idno>
+		<imprint>
+			<publisher>Ribeirao Preto</publisher>
+			<biblScope unit="page" from="14050" to="14390" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">E-Mail</forename></persName>
+		</author>
+		<title level="m">michelcampos@usp.br</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

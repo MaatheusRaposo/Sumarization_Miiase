@@ -1,0 +1,913 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Myiasis associated with an invasive ductal carcinoma of the left breast: case study",
+    "authors": [
+      "Felipe Rodrigues",
+      "Larissa Klemig",
+      "Marcos Cardozo",
+      "Paulo Alves",
+      "Valéria Aguiar",
+      "Claudia Lessa"
+    ],
+    "doi": "10.1590/s1678-9946201759035",
+    "hash": "99EA02B5227134F28528BEED75596EC7",
+    "publication_date": "2017",
+    "publication_year": 2017,
+    "publisher": "FapUNIFESP (SciELO)",
+    "journal": "Revista do Instituto de Medicina Tropical de São Paulo",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Most breast cancers originate in the ductal epithelium and are referred to as invasive ductal carcinoma. In this study we report on the clinical procedures adopted to diagnose myiasis in association with infiltrating metastatic breast carcinoma in a female patient. A 41 years old woman came to the Federal Hospital of Andaraí complaining of intense itching, warmth, redness and hardening of the breast, which had acquired the aspect of an orange peel. A lesion in the left breast was cavitated, dimpled, had fetid odor, and had fibrotic and infected air nodules filled with exudate and Dipteran larvae. The tissue was cleaned and 33 larvae were extracted. The patient was hospitalized and received Ivermectin. Eighteen of the larvae extracted from the patient were placed in 70% alcohol, and twelve were placed in a container with sterile wood shavings under controlled conditions until they metamorphosed into adults. The taxonomic identification of the flies revealed that the culprit was Cochliomyia hominivorax. A histopathological exam conducted three months earlier had revealed infiltrating ductal carcinoma. Two months after the myiasis treatment, the breast tissue had healed. The patient had waited ten days from the onset of the myiasis to seek treatment, and that delay interfered negatively in the prognosis of both the neoplasm and the myiasis. This study is relevant to public health in view of the strong social impact of myiasis.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_9cfa960b",
+      "text": "Cancer is currently the second leading cause of death in the world and in Brazil. It has great impact in developing countries, given the prolonged life expectation, the precarious and difficult access to preventive health care and early treatment, and unhealthy lifestyles such as smoking, sedentary habits and unbalanced diets 1 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "1",
+          "offset_start": 328,
+          "offset_end": 329
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_3944c882",
+      "text": "In Brazil alone, 57,960 new cases of breast cancer are expected in 2016, with an estimated risk of 56-56.2 cases per 100,000 women. Most breast cancers (about 80%) originate in the ductal epithelium and are known as invasive ductal carcinoma. Breast cancer has multiple causes, including biological and endocrine factors, reproductive life, behavior and lifestyle. Aging factors, the woman's reproductive history, breast tissue density (ratio of glandular tissue and adipose tissue of the breast), and family history of breast cancer, all have been acknowledged as playing a role in the development of breast cancer. Mutations such as in the BRCA family increase the risk of developing the disease 2 . The inheritance of one or more susceptible genes is the primary cause of approximately 12% of the cases 3 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "2",
+          "offset_start": 698,
+          "offset_end": 699
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "3",
+          "offset_start": 806,
+          "offset_end": 807
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_4061b029",
+      "text": "Calliphoridae and Oestridae flies are economically important, particularly when it comes to the health of animals and humans. Infestations caused by the larval forms of these flies are called myiases 4 . Depending on the degree of larval parasitism, myiases are classified into obligatory (requiring living tissue), facultative (developing in necrotic tissue) or accidental (when the larvae are ingested by the host; the resulting infestation is called pseudomyiasis) 5 . The obligatory or primary myiasis occurs on the skin and subcutaneous tissue of mammals, and the most common etiological agents in America are, respectively, Cochliomyia hominivorax (Coquerel, 1858) and Dermatobia hominis (Wiedemann, 1819) 6 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "4",
+          "offset_start": 200,
+          "offset_end": 201
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "5",
+          "offset_start": 468,
+          "offset_end": 469
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "6",
+          "offset_start": 712,
+          "offset_end": 713
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_f77135a0",
+      "text": "Myiases are more prevalent in tropical and subtropical climates and in underdeveloped countries. Fly eggs are deposited in the natural orifices of the host or in regions where there is a discontinuity in the skin. The larvae hatch and feed on the host tissue, causing severe pain and tissue destruction 6 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "6",
+          "offset_start": 303,
+          "offset_end": 304
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_915299bd",
+      "text": "The course of a myiasis treatment usually involves manual removal of the larvae. When it is not possible to remove all immature instars, oral administration of ivermectin becomes necessary. This compound causes parasite paralysis and death. Oral ivermectin administration is known to offer several advantages over standard therapy of scabies, pediculosis, demodicidosis, larva migrans, myiasis, filariasis, and other parasitic infestations with cutaneous tropism 7,8 . The use of antibiotics to prevent secondary infections is often indicated 9 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "7,",
+          "offset_start": 463,
+          "offset_end": 465
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "8",
+          "offset_start": 465,
+          "offset_end": 466
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "9",
+          "offset_start": 543,
+          "offset_end": 544
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_7cf92914",
+      "text": "In recent years, epidemiological studies using larger samples have sought to describe more accurately the incidence of myiases in our environment. From these studies it can be concluded that myiases affect more men, and individuals from lower socio-economic classes and levels of education 10,11 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "10,",
+          "offset_start": 290,
+          "offset_end": 293
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "11",
+          "offset_start": 293,
+          "offset_end": 295
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_065ee178",
+      "text": "This study is important in the context of public health given the strong social impact of myiasis, which is directly linked to poverty and lack of primary health care. When treated, myiases are not severe and run a short course, but when treatment is delayed myiases are often associated with comorbidities that may lead to a fatal outcome. Since many cases of myiases will be never reported to health officials, it is difficult to obtain reliable data on their prevalence in the rural and urban populations 6 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "6",
+          "offset_start": 508,
+          "offset_end": 509
+        }
+      ],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_2b2f6dd4",
+      "text": "This study describes the medical decisions and procedures adopted in the clinical and entomological diagnosis of a patient with myiasis, associated with an invasive breast carcinoma and metastasis.",
+      "coords": [],
+      "refs": [],
+      "head_section": "INTRODUCTION"
+    },
+    {
+      "id": "p_e03405be",
+      "text": "Female patient, 41 years old and a family history of breast cancer, had given birth to a healthy child three years before. She resides in a brick house located in the coastal region of the Atlantic Forest, next to a riverbed, in the rural municipality of Angra dos Reis, State of Rio de Janeiro. Housewife, denied smoking and alcoholism; she was married to a fisherman who had the habit of depositing fish remains (an outstanding fly attractant) in the surroundings of their residence.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_ae1c3860",
+      "text": "The patient came to the Federal Hospital of Andaraí complaining of intense itching, warmth, redness and hardening of the left breast, which had acquired the aspect of an orange peel. Physical examination revealed that the patient was in good condition, she was well oriented in space and time, cooperated with the examination, had no fever, no edema, was hydrated, her skin had normal color, she had no circulatory problems and presented left axillary lymphadenopathy. The lymph node was stiff, 2 cm diameter with little mobility. The lesion in the left breast was cavitated, dimpled, exhaled fetid odor because of the simultaneous bacterial infection, there were fibrotic and infected air nodules filled with extensive exudative fluid and Diptera larvae (Figure 1A). The patient signed a consent form approved by the Research Ethics Committee of UNIRIO, Protocol (Nº 56/2006), which authorized the removal of the larvae, completion of a clinical and epidemiological file, and photographic records.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_15c9128b",
+      "text": "The tissue was cleaned with chlorhexidine, and 33 larvae were taken from the lesion. The patient was hospitalized and ivermectin was prescribed according to a protocol for myiasis (200 mg/kg in a single oral dose), which is very effective in the systemic control of larvae at different instars of development, and has few side effects 12 . Faced with the serious conditions of the wounds and because it was not possible to ensure the removal of all larvae during treatment, ivermectin was used to kill any missed larvae and to prevent reinfestation during breast healing 7 . From the larvae collected from the wound, 18 were placed in sealed polyethylene containers filled with 70% alcohol, and 12 larvae were placed in a sealed container with nylon fabric and secured with elastic, containing sterile wood shavings, which serves as a substrate for pupating Diptera. Immature instars were taken to the Diptera Laboratory of the Federal University of the State of Rio de Janeiro (LED-UNIRIO), for identification. The larvae preserved in 70% alcohol were identified following a taxonomic key 13,14 . Those kept in sterilized wood shavings under controlled conditions (28 ºC, 70 + 10% RH and 12-hour photoperiod) were identified after they metamorphosed into adults 15,16 . The 18 larvae in alcohol were identified as the third instar of Cochliomyia hominivorax (Figure 2A). All larvae that had been kept in wood shavings pupated. They metamorphosed into eight females and four males of the same species (Figure 2B). The specimens were deposited in the LED-UNIRIO Entomological Collection.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "12",
+          "offset_start": 335,
+          "offset_end": 337
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "7",
+          "offset_start": 571,
+          "offset_end": 572
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "13,",
+          "offset_start": 1090,
+          "offset_end": 1093
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "14",
+          "offset_start": 1093,
+          "offset_end": 1095
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "15,",
+          "offset_start": 1263,
+          "offset_end": 1266
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "16",
+          "offset_start": 1266,
+          "offset_end": 1268
+        }
+      ],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_eda14609",
+      "text": "Three months before coming to the hospital with the myiasis the patient had an ultrasound, a mammogram and an histopathologic examination of her breast tissue. The density of her left breast was increased and there was suspicion of an inflammatory neoplasm or mastitis. BI-RADS classification was 4C. The histopathological examination by thick puncture needle revealed infiltrating ductal carcinoma, Elston histological grade III, characterized as a malignant breast carcinoma (CID 10 -C50) which was positive for the markers Ki-67 e HER2, finally classified as Stage IV, T3N2M1, according to the American Joint Committee on Cancer (AJCC) 17 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "17",
+          "offset_start": 639,
+          "offset_end": 641
+        }
+      ],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_acc74987",
+      "text": "Radiotherapy sessions were started after the diagnostic tests. However, the patient left the treatment at the beginning because of the distance to her house in Angra dos Reis.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_a666b7e8",
+      "text": "Two weeks after the extraction of the larvae, bone scintigraphy revealed areas of hyperfixation of radioactive material in the sternum, ribcage, spine, sacrum and proximal femoral thirds, compatible with the occurrence of multiple secondary osteoblastic implants. Computed tomography was very difficult in view of the restriction of the acoustic windows due to the extensive inflammation of the left hemithorax. Lung expansion capacity was reduced and multiple nodular formations of different sizes were observed in it, which converged at the base of the lung. The ejection fraction of the heart's left ventricle was visually limited to 65-70%.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_d437c87a",
+      "text": "The blood work, also done two weeks after the extraction of the larvae, revealed neutrophilia, lymphocytopenia, h-hyperglobulinemia, hyperglycemia, high erythrocyte anisocytosis (RDW), hypohemoglobinemia and abovereference values for gamma glutamil transferase (GGT) and alkaline phosphatase.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_dbb5d27d",
+      "text": "Two months after the removal of the larvae and treatment with oral ivermectin, the breast tissue healed (Figure 1B) and the patient was undergoing chemotherapy sessions with Doxorubicine (Adriblastine) + Fluorouracil + Cyclophosphamide.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CASE STUDY"
+    },
+    {
+      "id": "p_fd759542",
+      "text": "The patient, who had an inherited predisposition to cancer, developed myiasis in the neoplastic lesion. Malignant fungal wounds are very common and are the outcome from uncontrolled cellular proliferation with consequent infiltration of malignant cells into the structures of the skin 18 . The entomological diagnosis revealed Cochliomyia hominivorax. Larvae of this species are biontophagous, i.e. they feed on the living tissue of the host. Blood from the neoplastic lesions with open wounds probably served as an attractant to C. hominivorax females, which prefer to lay eggs around a wound. With the outbreak of the first instar larvae that invaded the injury and began to voraciously feed on living tissue, the tissue was gradually destroyed, leading to the clinical picture. Extensive, cavitated, dimpled lesions were observed and many larvae were obtained. The fetid odor emanated from the myiasis and can attract other flies, which re-infest the injury, increasing the severity of the clinical picture and causing extensive tissue destruction and, further, the attraction of other species of Diptera associated with myiasis 19 . It is probable that several instances of oviposition by C. hominivorax occurred in the lesion of the patient because, in addition to the 33 third instar larvae removed, larvae of younger instars were observed at the time of treatment. The oldest larvae indicated that the infestation had occurred no more than about 6 -8 days before treatment. This is the average time from egg to third instar in C. hominivorax in the tropics 20 . To perform the etiological identification, the larvae collected from the myiasis or the adults (after larval metamorphosis), can be used. Climate conditions in which the immatures were kept at LED-UNIRIO favored the development of the insects, since 100% of them emerged as adults. Taxonomists can make a differential diagnosis from other neotropical caliphorid flies, recognizing the taxonomic characters of the different phases of these flies and there is little room for errors in species identification.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "18",
+          "offset_start": 285,
+          "offset_end": 287
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "19",
+          "offset_start": 1132,
+          "offset_end": 1134
+        }
+      ],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_4d8190dc",
+      "text": "The environmental and socio-educational conditions of the patient may have contributed to the occurrence of this case of myiasis, since she lives in the tropical Atlantic Forest, and the conditions surrounding her favor the attraction of muscoid flies. Garbage remains, mainly of fish, around the residence, probably attracted flies into the home environment, but the patient was unaware of the presence of flies around and in her home, and that these flies might deposit eggs in her wound while she was sleeping 21,22 . The lack of health education is related to socio-educational factors, which probably hindered a primary prophylaxis to the patient, since oviposition is associated with precarious hygiene and protection of the wound. The patient also reported her feeling of shame about showing her breast to strangers, maybe because of her religious beliefs.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "21,",
+          "offset_start": 513,
+          "offset_end": 516
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "22",
+          "offset_start": 516,
+          "offset_end": 518
+        }
+      ],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_1dbc9de2",
+      "text": "The patient developed an invasive ductal carcinoma of the breast prior to myiasis. The tumor affected the skin and lungs, compromising the left axillary lymph nodes, which under the examination were stiff and large (2 cm in diameter) suggesting malignancy. Imaging detected blastic bone metastases.",
+      "coords": [],
+      "refs": [],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_353a09b0",
+      "text": "Based on the patient's blood tests it may be inferred that there was persistent neutrophilia, which may be associated with the parasitic larvae and secondary bacterial infection of the breast. Lymphocytopenia is characteristic of bone marrow suppression by chemotherapeutic agents.",
+      "coords": [],
+      "refs": [],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_a4286fe4",
+      "text": "As for the hypohemoglobinemia and high erythrocyte anisocytosis index of Red Blood Cell Distribution Width (RDW), known as poikilocytosis, it can be explained as an attempt by the bone marrow to produce more red blood cells to compensate for the lack of enough oxygen. This is generally the case when there is iron deficiency, chronic anemia associated with chronic infectious disorders, inflammatory or neoplastic diseases. It is one of the most common clinical syndromes in clinical practice and in hospitalized patients. In this case it was caused by the cancer or by the infection originated from the myiasis, characterized by the decreased survival of red blood cells, failure of the bone marrow to increase red blood cell production and disorder of the deposit iron mobilization of the phagocytic mononuclear system 23 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "23",
+          "offset_start": 822,
+          "offset_end": 824
+        }
+      ],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_2391cbe1",
+      "text": "Concerning the increase in the rates of gamma-glutamyl transferase (GGT) and alkaline phosphatase, the first is an enzyme involved in the metabolism of glutathione and studies suggest that this enzyme has high activity in the lumen of the secretory and absorptive cells, for instance, the cells in the bile canaliculi and possibly mammary duct. It is also high in neoplastic transformation and proliferation 24 . Alkaline phosphatases are relatively nonspecific enzymes that catalyze the hydrolysis of various phosphomonoesters at alkaline pH, being present mainly in the liver and bones, and becoming elevated in serum as the result of liver obstructions, expansive lesions such as metastasis and bone diseases such as fractures and osteoblastic tumors, such as the case of the patient 25,26 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "24",
+          "offset_start": 408,
+          "offset_end": 410
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "25,",
+          "offset_start": 787,
+          "offset_end": 790
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "26",
+          "offset_start": 790,
+          "offset_end": 792
+        }
+      ],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_54f58100",
+      "text": "Ki 67 protein markers and oncogene HER2 correlate with high mitotic activity, lack of cell differentiation, and tendency to invasion. In about 20% to 30% of the patients, the disease develops more severely than in patients with normal expression. Moreover, the oncogene HER2 is associated with resistance to chemotherapy and hormone therapy, increased local relapse and reduced survival of patients. Concluding, both Ki 67 protein marker and oncogene HER2 tend to indicate malignancy 27 .",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "27",
+          "offset_start": 484,
+          "offset_end": 486
+        }
+      ],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_e73525ef",
+      "text": "Myiasis is a neglected disease of relevance to public health 28 , since its appearance is related to socio-economic issues, as well as the patient's understanding of the disease; in addition, issues such as personal hygiene are fundamental, since the lack of wound care facilitates the occurrence of myiases. Other appropriate prevention measures to reduce the population of flies are sanitation, insecticide use and animal health care.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "28",
+          "offset_start": 61,
+          "offset_end": 63
+        }
+      ],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_8e2b25d8",
+      "text": "From this report it can be concluded that the delay in seeking or getting medical care and chemotherapy treatment has severely and negatively worsened the prognosis of the breast cancer and myiasis treatments.",
+      "coords": [],
+      "refs": [],
+      "head_section": "DISCUSSION"
+    },
+    {
+      "id": "p_ba2b0e84",
+      "text": "This work was supported by Universidade Federal do Estado do Rio de Janeiro (UNIRIO) and Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ).",
+      "coords": [],
+      "refs": [],
+      "head_section": "FINANCIAL SUPPORT"
+    },
+    {
+      "id": "p_870e53cc",
+      "text": "All authors declare that there are no conflicts of interest.",
+      "coords": [],
+      "refs": [],
+      "head_section": "CONFLICT OF INTERESTS"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Figure 1 -",
+      "type": "figure",
+      "desc": "Figure 1 -(A)Cavitated lesion of the left breast with numerous larvae of Cochliomyia hominivorax; (B)Breast lesion after extraction of the larvae and treatment with ivermectin.",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 64.72,
+          "width": 70.28,
+          "height": 214.98
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Figure 2 -",
+      "type": "figure",
+      "desc": "Figure 2 -(A)The New World screw-worm larva showing its dark dorsal tracheal trunks; (B)The metallic blue-green adult fly presenting the distinct bold black stripes on the presuturel and postsuturel areas of the thoracic scutum, and the typical angular vein M on the wing.",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 126.84,
+          "width": 564.87,
+          "height": 341.52
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Cancer patients, emergencies service and provision of palliative care",
+      "authors": [
+        "B Miranda",
+        "S Vidal",
+        "M Mello",
+        "J Lima",
+        "J Rêgo",
+        "M Pantaleão"
+      ],
+      "journal": "Rev Assoc Med Bras",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "62",
+      "page_start": "207",
+      "page_end": "211"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Instituto Nacional de Câncer José Alencar Gomes da Silva. Estimativa 2016: incidência de câncer no Brasil",
+      "authors": [
+        "Ministério Brasil",
+        "Da Saúde"
+      ],
+      "publication_date": "2015",
+      "year": 2015,
+      "urls": [
+        "http://www.inca.gov.br/estimativa/2016/estimativa-2016-v11.pdf",
+        "http://www.inca.gov.br/estimativa/2016/estimativa-2016-v11.pdf"
+      ]
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Heterogeneity of breast cancer associations with five susceptibility loci by clinical and pathological characteristics",
+      "authors": [
+        "M Garcia-Closas",
+        "P Hall",
+        "H Nevanlinna",
+        "K Pooley",
+        "J Morrison",
+        "D Richesson"
+      ],
+      "journal": "PLoS Genet",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "4",
+      "pages": "1000054"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Erradicação ou manejo integrado das miíases neotropicais das Américas? Pesq Vet Bras",
+      "authors": "G Borja",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "23",
+      "page_start": "131",
+      "page_end": "138"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "authors": [
+        "A Linhares",
+        "Miíases",
+        "D Neves",
+        "A Mello",
+        "O Genaro",
+        "P Linardi"
+      ],
+      "publisher": "Atheneu",
+      "publication_date": "2000",
+      "year": 2000
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Screw-worm fly: a tale of two species",
+      "authors": "J Spradbery",
+      "journal": "Agric Zoolog Rev",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "6",
+      "page_start": "1",
+      "page_end": "62"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Ivermectin: pharmacology and therapeutic applications",
+      "authors": [
+        "S Chhaiya",
+        "D Mehta",
+        "B Kataria"
+      ],
+      "journal": "Int J Basic Clin Pharmacol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "1",
+      "page_start": "132",
+      "page_end": "139"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Uporaba ivermectina u potpornoj terapiji oralne mijaze",
+      "authors": [
+        "F Conto",
+        "M Bortoli",
+        "T Bordignon",
+        "D Marcolin",
+        "J Stobbe",
+        "G Rovani"
+      ],
+      "journal": "Acta Stomatol Croat",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "47",
+      "page_start": "246",
+      "page_end": "252"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Tratamento da miíase humana cavitária com ivermectina oral",
+      "authors": [
+        "F Ribeiro",
+        "C Pereira",
+        "A Alves",
+        "M Marcon"
+      ],
+      "journal": "Rev Bras Otorrinolaringol",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "67",
+      "page_start": "755",
+      "page_end": "761"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Miíases associadas com alguns fatores sócio-econômicos em cinco áreas urbanas do Estado do Rio de Janeiro",
+      "authors": [
+        "A Marquez",
+        "M Mattos",
+        "S Nascimento"
+      ],
+      "journal": "Rev Soc Bras Med Trop",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "40",
+      "page_start": "175",
+      "page_end": "180"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Miíases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera,Calliphoridae) em hospitais públicos da Cidade do Recife",
+      "authors": [
+        "E Nascimento",
+        "J Oliveira",
+        "M Paes",
+        "A Lobo",
+        "A Silva",
+        "R Santos"
+      ],
+      "journal": "Brasil. Entomol Vectores",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "12",
+      "page_start": "37",
+      "page_end": "51"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "authors": [
+        "F Francesconi",
+        "O Lupi",
+        "Myiasis"
+      ],
+      "journal": "Clin Microbiol Rev",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "25",
+      "page_start": "79",
+      "page_end": "105"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Myiasis in man and animals in the neotropical region: bibliographic database",
+      "authors": [
+        "J Guimarães",
+        "N Papavero"
+      ],
+      "publisher": "Plêiade",
+      "publication_date": "1999",
+      "year": 1999
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Entomologia e acarologia na medicina veterinária",
+      "authors": [
+        "N Serra-Freire",
+        "R Mello"
+      ],
+      "publisher": "L.F. Livros de Veterinária",
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Chave para a identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil",
+      "authors": "R Mello",
+      "journal": "Entomol Vectores",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species",
+      "authors": [
+        "C Kosmann",
+        "R Mello",
+        "E Souza",
+        "J Luz"
+      ],
+      "journal": "EntomoBrasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "74",
+      "page_end": "85"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "American Joint Committee on Cancer. AJCC cancer staging manual",
+      "publisher": "Springer",
+      "publication_date": "2002",
+      "year": 2002,
+      "notes": "th ed"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Ocorrência e manejo de feridas neoplásicas em mulheres com câncer de mama avançado",
+      "authors": [
+        "T Gozzo",
+        "F Tahan",
+        "M Andrade",
+        "T Nascimento",
+        "M Prado"
+      ],
+      "publisher": "Esc Anna Nery",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "18",
+      "page_start": "270",
+      "page_end": "276"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "First record of human myiasis caused by association of the species Chrysomya megacephala (Diptera: Calliphoridae), Sarcophaga (Liopygia) ruficornis (Diptera: Sarcophagidae), and Musca domestica (Diptera: Muscidae)",
+      "authors": [
+        "A Ferraz",
+        "B Proença",
+        "B Gadelha",
+        "L Faria",
+        "M Barbalho",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "J Med Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "47",
+      "page_start": "487",
+      "page_end": "490"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "World Organisation for Animal Health. Manual of diagnostic tests and vaccines for terrestrial animals",
+      "notes": "mammals, birds and bees"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "World Organisation for Animal Health",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "1",
+      "notes": "th ed."
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Influência climática e antrópica na abundância e riqueza de Calliphoridae (Diptera) em fragmento florestal da Reserva Biológica do Tinguá",
+      "authors": [
+        "A Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "RJ. Neotrop entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "39",
+      "page_start": "476",
+      "page_end": "485"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Sinantropía de Calliphoridae (Diptera) del Municipio La Pintada, Antioquia -Colombia",
+      "authors": [
+        "A Montoya",
+        "J Sánchez",
+        "M Wolff"
+      ],
+      "journal": "Rev Colomb Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "35",
+      "page_start": "73",
+      "page_end": "82"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Deficiência de ferro no paciente com câncer",
+      "authors": [
+        "A Calabrich",
+        "A Katz"
+      ],
+      "journal": "Rev. Bras Hematol Hemoter",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "32",
+      "issue": "Supl",
+      "page_start": "84",
+      "page_end": "88"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Gamma glutamyl transferase of cancer cells at the crossroads of tumor progression, drug resistance and drug targeting",
+      "authors": [
+        "A Corti",
+        "M Franzini",
+        "A Paolicchi",
+        "A Pompella"
+      ],
+      "journal": "Anticancer Res",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "30",
+      "page_start": "1169",
+      "page_end": "1181"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "The measurement of serum alkaline phosphatase in clinical medicine",
+      "authors": [
+        "S Posen",
+        "E Doherty"
+      ],
+      "journal": "Adv Clin Chem",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "22",
+      "page_start": "163",
+      "page_end": "245"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Multiple forms of human serum alkaline phosphatase: detection and quantitation",
+      "authors": "C Price",
+      "journal": "Ann Clin Biochem",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "30",
+      "issue": "4",
+      "page_start": "355",
+      "page_end": "372"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Marcadores moleculares em câncer de mama preditivos de metástases axilares",
+      "authors": [
+        "V Marinho",
+        "K Metze",
+        "F Sanches",
+        "G Rocha",
+        "H Gobbi"
+      ],
+      "journal": "Rev Assoc Med Bras",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "54",
+      "page_start": "203",
+      "page_end": "207"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Traumatic myiasis: a neglected disease in a changing world",
+      "authors": [
+        "M Hall",
+        "R Wall",
+        "J Stevens"
+      ],
+      "journal": "Annu Rev Entomol",
+      "publication_date": "2016",
+      "year": 2016,
+      "volume": "61",
+      "page_start": "159",
+      "page_end": "176"
+    }
+  ]
+}

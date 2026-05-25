@@ -1,0 +1,2362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Evaluating the Effects of Different Vegetation Types on Necrophagous Fly Communities (Diptera: Calliphoridae; Sarcophagidae): Implications for Conservation</title>
+				<funder>
+					<orgName type="full">National Counsel of Technological and Scientific Development</orgName>
+				</funder>
+				<funder ref="#_ErUp4cQ #_AN6EMpm">
+					<orgName type="full">Maranhão State Research Foundation</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Public Library of Science (PLoS)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2016-10-31">October 31, 2016</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">Roberto</forename><surname>Pereira De Sousa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><forename type="middle">Da Silva</forename><surname>Carvalho-Filho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Leandro</forename><surname>Juen</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Bele ´m-PA , Brazil, Biological Sciences Institute ,</note>
+								<orgName type="department">Biological Sciences Institute</orgName>
+								<orgName type="institution">Bele ´m-PA</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Maria</forename><forename type="middle">Cristina</forename><surname>Esposito</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Bele ´m-PA , Brazil, Biological Sciences Institute ,</note>
+								<orgName type="department">Biological Sciences Institute</orgName>
+								<orgName type="institution">Bele ´m-PA</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Universidade Federal do Para ´ , Bele ´m-PA , Brazil</note>
+								<orgName type="institution">Universidade Federal do Para ´</orgName>
+								<address>
+									<settlement>Bele ´m-PA</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<note type="raw_affiliation">USDA Agricultural Research Service , UNITED STATES</note>
+								<orgName type="institution">USDA Agricultural Research Service</orgName>
+								<address>
+									<country key="US">UNITED STATES</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Evaluating the Effects of Different Vegetation Types on Necrophagous Fly Communities (Diptera: Calliphoridae; Sarcophagidae): Implications for Conservation</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">PLOS ONE</title>
+						<title level="j" type="abbrev">PLoS ONE</title>
+						<idno type="eISSN">1932-6203</idno>
+						<imprint>
+							<publisher>Public Library of Science (PLoS)</publisher>
+							<biblScope unit="volume">11</biblScope>
+							<biblScope unit="issue">10</biblScope>
+							<biblScope unit="page">e0164826</biblScope>
+							<date type="published" when="2016-10-31">October 31, 2016</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">5E010CD7298D259F774CF364401CB11B</idno>
+					<idno type="DOI">10.1371/journal.pone.0164826</idno>
+					<note type="submission">Received: April 1, 2016 Accepted: October 1, 2016</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The present study was conducted in five different phytogeographic zones of the Brazilian state of Maranhão, three of which (the Amazon Forest, Cerrado, and Palm Groves) are more heterogeneous, whereas the other two (Marshlands and Mangroves) are more homogeneous. In each zone, nine sites were visited for the collection of necrophagous flies using bait traps in 2010, 2011, and 2012. The calliphorid and sarcophagid communities observed at each site were compared in terms of species richness, composition, and abundance. The more heterogeneous zones had higher species richness, except in the case of the sarcophagids in the forest habitats. The calliphorids Chloroprocta idioidea (Robineau-Desvoidy, 1830), Mesembrinella bicolor (Fabricius, 1805), Hemilucilia semidiaphana (Rondani, 1850) and Lucilia eximia (Wiedemann, 1819) were more closely associated with the Cerrado, Palm Grove and Amazon Forest zones, and Chrysomya megacephala (Fabricius, 194)  with the Mangrove. In the sarcophagids, Peckia (Euboettcheria) subducta (Lopes, 1935) and P. (Pattonella) palidipilosa (Curran &amp; Walley,  1934)  were associated with the Amazon Forest, and P. (Sarcodexia) lambens (Wiedemann, 1830) and Tricharaea (Sarcophagula) occidua (Fabricius, 1794) with the Palm Grove and Cerrado zones. In the calliphorids, the greatest dissimilarity was recorded between the Amazon Forest and the Mangrove and Lowland grassland zones. In the sarcophagids, by contrast, the greatest dissimilarities were recorded between the Amazon Forest and all the other four zones. In general, then, the phytogeographic zones with the highest environmental heterogeneity were characterized by the greatest species richness and abundance of necrophagous flies.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The type of vegetation found in a given area plays a fundamental role in habitat structure, given that the variation in the height, density, and distribution of trees within the environment creates new conditions and habitats with a larger number of subdivisions. This diversity of conditions is considered to be one of the primary determinants of variation in the species richness levels found within different environments <ref type="bibr" target="#b0">[1]</ref><ref type="bibr" target="#b1">[2]</ref><ref type="bibr" target="#b2">[3]</ref><ref type="bibr" target="#b3">[4]</ref><ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b7">[8]</ref><ref type="bibr" target="#b8">[9]</ref><ref type="bibr" target="#b9">[10]</ref><ref type="bibr" target="#b10">[11]</ref>.</p><p>A number of different organisms, especially vertebrates <ref type="bibr" target="#b6">[7]</ref>, tend to occur at higher densities in structurally more complex environments, in which species with distinct ecological needs can coexist <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>. The environmental heterogeneity hypothesis predicts that animal species richness will tend to increase in more complex environments, where a broader range of niches are available for the different species <ref type="bibr" target="#b13">[14]</ref>. More spatially heterogeneous environments may accommodate a larger number of species because they encompass a larger number of microhabitats and a broader range of microclimates, as well as a greater abundance of refuges from predators <ref type="bibr" target="#b14">[15]</ref>.</p><p>In the case of invertebrates, by contrast, and especially for insects, the evidence indicates that patterns of species distribution and diversity are related primarily to the type of vegetation <ref type="bibr" target="#b8">[9]</ref>, the degree of shade and exposure <ref type="bibr" target="#b15">[16,</ref><ref type="bibr" target="#b16">17]</ref>, and temperature and humidity <ref type="bibr" target="#b15">[16]</ref>. These features may determine the occurrence of different animal species in a given habitat, depending on how they favor behaviors such as reproduction, nest-building, development, and foraging <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b17">18,</ref><ref type="bibr" target="#b18">19]</ref>.</p><p>The influence of the heterogeneity of the landscape on the spatial distribution of species has been investigated in some dipteran groups <ref type="bibr">[11, 20 -22]</ref>. The levels of habitat disturbance, substrate cover, and the height of the vegetation all had a significant influence on the distribution of Chironomidae species <ref type="bibr" target="#b20">[21]</ref>. In the Empididae, the use of different habitats by different species indicates that they respond to the environmental heterogeneity in different ways, and may thus be sensitive to different spatial scales <ref type="bibr" target="#b19">[20]</ref>. In drosophilid flies, differences in the species composition between different environments (Cerrado savanna and gallery forest) were related to climatic stability and the greater environmental heterogeneity of the gallery forest <ref type="bibr" target="#b10">[11,</ref><ref type="bibr" target="#b21">22]</ref>.</p><p>The dipterans of the families Calliphoridae and Sarcophagidae are necrophagous, widely distributed, and occur in a wide diversity of environments <ref type="bibr" target="#b22">[23]</ref><ref type="bibr" target="#b23">[24]</ref><ref type="bibr" target="#b24">[25]</ref><ref type="bibr" target="#b25">[26]</ref>. Many of these flies are forensically useful, due to the fact that their larvae feed on dead organic matter, acting as decomposers and providing a potential estimate of the postmortem interval <ref type="bibr" target="#b26">[27]</ref>. The adults are also potential vectors of pathogens <ref type="bibr" target="#b27">[28]</ref>, while the larvae of some species parasitize humans and other vertebrates, causing myiasis, a condition known as blowfly strike <ref type="bibr">[29 -31]</ref>.</p><p>Both families include species associated with forest environments and more open types of vegetation, as well as urban and rural environments <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33]</ref>. Studies in Argentina indicated that sites of intermediate impact had a higher diversity of calliphorids and sarcophagids than those where disturbance was either intense or totally absent <ref type="bibr" target="#b33">[34]</ref>. Research on calliphorids in the Brazilian Amazon Forest, Atlantic Forest and Mangroves <ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref><ref type="bibr" target="#b37">[38]</ref><ref type="bibr" target="#b38">[39]</ref><ref type="bibr" target="#b39">[40]</ref> indicates that the greatest variation in species composition and abundance is found between areas with different degrees of forestation, with the highest species richness being found in the forested environments. In sarcophagids, in contrast, the highest species richness in found typically in clearings and other open areas rather than forest <ref type="bibr" target="#b40">[41,</ref><ref type="bibr" target="#b41">42]</ref>. Given this, the type of vegetation and the heterogeneity of the environment appear to be key factors determining the characteristics of calliphorid and sarcophagid communities.</p><p>The Brazilian state of Maranhão encompasses a large area located strategically at the interface of the Amazon, Cerrado, and Caatinga biomes <ref type="bibr" target="#b42">[43]</ref>. The vegetation of the state reflects the transition from the semi-arid climate of the Brazilian Northeast to the more humid climates of the northern region <ref type="bibr" target="#b43">[44,</ref><ref type="bibr" target="#b44">45]</ref>, which comprises enormous diversity of phytophysiognomies, with five main phytogeographic zones-Amazon Forest, Palm Groves (Mata de cocais), Cerrado, Marshlands, and Mangroves <ref type="bibr" target="#b42">[43,</ref><ref type="bibr" target="#b45">46]</ref>. The vegetation of these zones varies considerably, with major differences in the physical structure of the environment <ref type="bibr" target="#b46">[47]</ref>, which varies according to plant species richness and abundance <ref type="bibr" target="#b6">[7]</ref>. These zones can be divided into two main types, the more heterogeneous zones, that is, the Amazon Forest <ref type="bibr" target="#b47">[48]</ref><ref type="bibr" target="#b48">[49]</ref><ref type="bibr" target="#b49">[50]</ref>, Cerrado savannas <ref type="bibr" target="#b50">[51]</ref><ref type="bibr" target="#b51">[52]</ref><ref type="bibr" target="#b52">[53]</ref><ref type="bibr" target="#b53">[54]</ref> and Palm Groves <ref type="bibr" target="#b54">[55,</ref><ref type="bibr" target="#b55">56]</ref>, and the more homogeneous zones, characterized by a reduced plant diversity, that is, the Marshlands <ref type="bibr" target="#b45">[46]</ref> and the Mangroves <ref type="bibr" target="#b56">[57,</ref><ref type="bibr" target="#b57">58]</ref>.</p><p>Given this basic difference, this study evaluated the structure of the necrophagous dipteran communities of the Calliphoridae and Sarcophagidae families in the five phytogeographic zones of the Brazilian state of Maranhão. The study tested the hypothesis that the more heterogeneous phytogeographic zones (Amazon Forest, Cerrado and Palm Groves) are characterized by a greater species richness and abundance of these dipterans than found in the Marshlands and Mangroves.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Study area</head><p>The present study was conducted in 45 areas of natural vegetation located in 14 municipalities of the Brazilian state of Maranhão (Fig</p><p>1, Table <ref type="table">1</ref>). There are two types of climate found in the state, according to the Köppen classification system, type Am in the western extreme (Amazon Forest Zone), which is characterized by a tropical monsoon type of climate with a short dry season, while the Aw type prevails in the rest of the state (Cerrado, Palm groves, Marshlands and Mangrove), characterized as a tropical savanna climate, with dry winters and intense summer rains <ref type="bibr" target="#b58">[59]</ref>.</p><p>The Cerrado vegetation is a heterogeneous mosaic of habitats, with grasslands at one extreme and forest formations at the other, forming a gradient of tree height and density <ref type="bibr" target="#b60">[61,</ref><ref type="bibr" target="#b61">62]</ref>. Based on the size and density of its trees and shrubs, the Cerrado can be divided into four habitat subgroups-savanna woodland (Cerradão), tree savanna, park savanna and grassyshrubby savanna <ref type="bibr" target="#b62">[63]</ref>. Savanna woodland areas (Fig 1 ) were selected for this study. This is a forest formation with a non-grassy herbaceous stratum dominated by seedlings and shrubs, with relatively well-developed tree cover and taller trees than those found in the other savanna subtypes <ref type="bibr" target="#b63">[64]</ref>.</p><p>The predominant vegetation in the Amazon Forest is dense rainforest (Fig <ref type="figure" target="#fig_0">1</ref>), which is the region's most exuberant type of habitat, with trees reaching 20 m in height <ref type="bibr" target="#b62">[63]</ref>. Tropical forests are known for their high plant diversity <ref type="bibr" target="#b64">[65]</ref>, which is sustained in large part by niche differentiation <ref type="bibr" target="#b65">[66]</ref> and is closely related to the spatial heterogeneity of the forest.</p><p>The Palm Groves are located between the Cerrado and the Amazon Forest, and are characterized by a mixture of plant species found in these vegetation types (Fig <ref type="figure" target="#fig_0">1</ref>). This forest is evergreen with prevailing babaçu palm (Orbignya phalerata), and trees of reduced height in comparison with the typical dense Amazon broadleaf forest.</p><p>The Marshland zone (Fig <ref type="figure" target="#fig_0">1</ref>) is an immense area formed by a series of lakes with extensive marshes and flooded grassland, which are dry during approximately seven months of the year. These floodplains are dominated by open vegetation, with several taller trees and palms, in addition to the igapó swamp, found at the banksof streams, rivers, and lakes, lasting four to six months of the year (Fig <ref type="figure" target="#fig_0">1</ref>). The areas selected for this study were open fields dominated by herbaceous vegetation interspersed with a few trees and lianas.</p><p>The mangrove is a microphanerophyte community found in brackish environments, generally at the mouths of rivers and in coastal channels, where the muddy soils support a specialized Table 1. Geographic coordinates of the area surveyed in the Brazilian state of Maranhão (2010-2012) and their respective municipalities and phytogeographic zones. Area Municipality South West Phytogeographic zones Number of traps by area 1 Carolina 07˚22'10.80" 047˚15'56.93" Cerrado-C 2 Carolina 07˚20'11.28" 047˚15'59.87" Cerrado-C 3 Carolina 07˚21'21.60" 047˚12'46.00" Cerrado-C 4 Riachão 07˚25'28.79'' 046˚38'51.17'' Cerrado-C 5 Riachão 07˚42'53.85'' 046˚45'4.53'' Cerrado-C 6 Riachão 07˚38'22.85'' 046˚45'53.15'' Cerrado-C 7 Balsas 07˚26'44.07'' 046˚08'29.99'' Cerrado-C 8 Balsas 07˚28'28.75'' 046˚06'03.23'' Cerrado-C 9 Balsas 07˚29'09.59'' 046˚07'20.99'' Cerrado-C 10 Esperantinopolis 04˚55'09.02'' 044˚57'09.43'' Palm Grove-PG 11 Esperantinopolis 04˚56'04.83'' 044˚58'07.58'' Palm Grove-PG 12 Esperantinopolis 04˚55'25.86'' 044˚55'56.33'' Palm Grove-PG 13 Poc ¸ãodePedras 04˚49'10.95'' 044˚55'35.55'' Palm Grove-PG 14 Poc ¸ãodePedras 04˚48'5.55'' 044˚54'06.22'' Palm Grove-PG 15 Poc ¸ãodePedras 04˚46'23.22'' 044˚53'00.38'' Palm Grove-PG 16 LagodoJunco 04˚36'51.45'' 045˚02'26.62'' Palm Grove-PG 17 LagodoJunco 04˚35'56.37'' 045˚02'01.28'' Palm Grove-PG 18 LagodoJunco 04˚33'23.03'' 045˚03'04.09'' Palm Grove-PG 19 Cajari 03˚19'18.03'' 044˚52'13.06'' Marshlands-ML 20 Cajari 03˚18'49.3'' 044˚54'26.08'' Marshlands-ML 21 Cajari 03˚17'10.0' 044˚57'21.01'' Marshlands-ML 22 Cajapio ´02˚51'33.5'' 044˚41'31.08'' Marshlands-ML 23 Cajapio ´02˚51'12.6'' 044˚42'46.06'' Marshlands-ML 24 Cajapio ´02˚49'07.67'' 044˚44'31.22'' Marshlands-ML 25 Viana 03˚14'16.2'' 044˚56'25.3'' Marshlands-ML 26 Viana 03˚12'51.6'' 045˚02'19.5'' Marshlands-ML 27 Viana 03˚12'21.59'' ,045˚03'51.25'' Marshlands-ML 28 Cedral 01˚57'44.3' 044˚30'41.6'' Mangrove-M 29 Cedral 01˚59'13.79'' 044˚29'41.21'' Mangrove-M 30 Cedral 02˚00'20.2'' 044˚34'20.2'' Mangrove-M 31 Guimaraes 02˚03'50.54'' 044˚31'05.21'' Mangrove-M 32 Guimaraes 02˚02'54.2'' 044˚29'47.7'' Mangrove-M 33 Guimaraes 02˚02'11.37'' 044˚33'03.09'' Mangrove-M 34 Ca ˆndido Mendes 01˚25'54.39'' 045˚30'45.12'' Mangrove-M 35 Ca ˆndido Mendes 01˚29'30.67'' 045˚32'39.54'' Mangrove-M 36 Turiac ¸u ´01˚31'07.4'' 045˚25'47.2'' Mangrove-M 37 Centro Novo do MA 03˚37'09.1'' 046˚43'22.6'' Amazon Forest-AF 38 Centro Novo do MA 03˚35'47.34'' 046˚42'54.56'' Amazon Forest-AF 39 Centro Novo do MA 03˚36'34.6'' 046˚44'20.8'' Amazon Forest-AF 40 Centro Novo do MA 03˚35'39.8'' 046˚45'48.3'' Amazon Forest-AF 41 Centro Novo do MA 03˚33'57.90'' 046˚45'32.78'' Amazon Forest-AF 42 Centro Novo do MA 03˚33'35.14'' 046˚50'17.11'' Amazon Forest-AF 43 Centro Novo do MA 03˚35'34.60'' 046˚50'25.40'' Amazon Forest-AF 44 Centro Novo do MA 03˚32'07.16'' 046˚47'39.95'' Amazon Forest-AF 45 Centro Novo do MA 03˚34'52.4'' 046˚46'43.6'' Amazon Forest-AF doi:10.1371/journal.pone.0164826.t001</p><p>vegetation adapted to highly saline conditions and include: Rhizophora mangle L., Avicennia spp. (the local species depends on its latitude), and Laguncularia racemosa L. which grows on the highest terrain and is only flooded at high tide (Fig <ref type="figure" target="#fig_0">1</ref>). One or two of these elements may be missing from some areas, however, a homogeneous Rhizophora mangrove is typical of some parts of the Maranhão coast <ref type="bibr" target="#b62">[63]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data collection</head><p>The permits for the collection and transportation of zoological specimens (necrophagous Diptera) were provided by the Chico Mendes Institute for the Conservation of Biodiversity (ICM-Bio) / Sisbio, in accordance with federal law and the regulations of the Brazilian Environmental Ministry, through process number 1403-1 (for private properties) and 29342-1 (for the conservation unit, the Gurupi Biological Reserve in the state of Maranhão). In private sampling sites, permission from the owner or manager was obtained prior to sampling. None of the sampled species were protected by Brazilian law or red-listed.</p><p>The campaigns for the collection of fly specimens were conducted during the dry season, between August and October in 2010, April through October in 2011, and May through November in 2012.</p><p>The 45 areas (sampling units) were distributed evenly among the five phytogeographic zones, three of which (Cerrado, Amazon Forest and Palm Groves) are more heterogeneous in terms of the complexity of their vegetation, whereas the other two zones (Marshlands and Mangrove) were more homogeneous. Nine well-conserved areas (replicates) were sampled in each zone, always in natural habitats, with a minimum distance of 2 km between sites. Each area was sampled twice, with five traps per area, making a total of 225 traps, with 450 samples (two per trap) being collected by the end of the study.</p><p>The specimens were collected in traps designed specifically for the capture of saprophagous dipterans <ref type="bibr" target="#b31">[32]</ref>, as described by Almeida et al. <ref type="bibr" target="#b66">[67]</ref> and used successfully by Sousa et al <ref type="bibr" target="#b36">[37]</ref>. The traps were baited with 50 g of cow lung, and were placed in shaded locations, along a 1 km transect at intervals of 200 m, for 48 h. A total of 45 traps were set in each of the nine phytogeographic zones.</p><p>The calliphorid specimens were identified using the keys of Mello <ref type="bibr" target="#b67">[68]</ref>, Carvalho &amp; Mello-Patiu <ref type="bibr" target="#b68">[69]</ref>, and Kosmann et al. <ref type="bibr" target="#b69">[70]</ref>. The sarcophagids were identified using the species keys available for the genera Thexysarcodexia Townsend <ref type="bibr" target="#b70">[71,</ref><ref type="bibr" target="#b71">72]</ref> and Peckia Robineau-Desvoidy <ref type="bibr" target="#b72">[73]</ref> and other references, including the studies of Lopes <ref type="bibr" target="#b73">[74]</ref><ref type="bibr" target="#b74">[75]</ref><ref type="bibr" target="#b75">[76]</ref><ref type="bibr" target="#b76">[77]</ref>, Tibana <ref type="bibr" target="#b77">[78,</ref><ref type="bibr" target="#b78">79]</ref>, Tibana &amp; Xerez <ref type="bibr" target="#b79">[80]</ref>, and Guimarães <ref type="bibr" target="#b80">[81]</ref>.</p><p>Part of the material collected was prepared in a dry medium and deposited in the Entomology Collection of the Goeldi Museum (MPEG) and the Zoology Museum at the Biological Sciences Institute of UFPA, both in Belém. The rest of the specimens were conditioned in liquid medium (70% ethanol) and then included in the teaching collection of Prof. Clésio Fonseca Zoology Laboratory at the Imperatriz campus of Maranhão State University.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analysis</head><p>The species richness was estimated for each phytogeographic zone using a first-order jackknife approach <ref type="bibr" target="#b81">[82]</ref> run in EstimateS, version 9.0 <ref type="bibr" target="#b82">[83]</ref>. The sampling efficiency was evaluated through cumulative species curves, using the same estimator, with 1,000 randomizations based on the number of traps <ref type="bibr" target="#b83">[84]</ref>. Richness estimators were used to evaluate the heterogeneity of the data. Each occurrence of a species considered rare <ref type="bibr" target="#b82">[83]</ref> increases the heterogeneity of the dataset and the probability of encountering a new species. In this case, the first-order jackknife estimator is less strict than other estimators, with species occurring in only one sample ("unique species") being considered rare <ref type="bibr" target="#b84">[85]</ref>, and was thus considered the most appropriate estimator for this study. We emphasize that we also performed the analyses using the first-order Chao estimator in addition to the jackknife estimate, but the result obtained using the two estimators were congruent. Therefore, we chose to present the article only the results of the first-order jackknife. A confidence interval-based inference approach was used to test the hypothesis that the differences found among the phytogeographic zones influenced the species richness of calliphorids and sarcophagids. This approach was also based on first-order jackknife estimates <ref type="bibr" target="#b83">[84]</ref>, with the zones being considered significantly different when their respective confidence intervals did not overlap the mean values of the other zone.</p><p>Species composition was analyzed using non-metric multidimensional scaling (NMDS) based on a Bray-Curtis dissimilarity matrix <ref type="bibr" target="#b85">[86,</ref><ref type="bibr" target="#b86">87]</ref>, with the data being log (x+1) transformed to reduce the effect of discrepant values. To test the hypothesis that differences among the phytogeographic zones influence the composition and abundance of calliphorid and sarcophagid species, a nonparametric permutational analysis of variance (PERMANOVA) for models with multiple factors was applied, based on a Bray-Curtis similarity index, with 9,999 permutations <ref type="bibr" target="#b87">[88]</ref>. When significant results were obtained for the PERMANOVA, multiple pairwise a posteriori tests were applied for comparisons between zones.</p><p>The mean similarity of the zones based on the structure of the calliphorid and sarcophagid community, and the species that most contributed to the similarity among environments were determined by a percentage similarity analysis, or SIMPER <ref type="bibr" target="#b86">[87]</ref>. The dissimilarity between zones and the species that most contributed to this dissimilarity were also analyzed using SIM-PER <ref type="bibr" target="#b86">[87]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>A total of 6,498 calliphorid specimens were collected, distributed in seven genera and 12 species (Table <ref type="table">2</ref>; S1 Table). The most abundant were Chrysomya albiceps (Wiedemann) (29.38% of the specimens) and Cochliomyia macellaria (Fabricius) (23.07%). A total of 2,921 sarcophgid specimens (Table 3; S2 Table) were collected, representing 11 genera and 40 species, of which the most abundant were Tricharaea (Sarcophagula) occidua (Fabricius) (32.80%) and Peckia (Sarcodexia) lambens (Wiedemann) (20.16%).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species richness</head><p>The sampling efficiency varied between 63% and 82% for the family Calliphoridae, and between 70% and 83% for the Sarcophagidae, indicating that the sampling effort was sufficient to estimate species richness. In some zones, however, the cumulative species curve did not stabilize (Figs <ref type="figure" target="#fig_2">2</ref> and <ref type="figure" target="#fig_4">3</ref>, Table <ref type="table">4</ref>). The highest calliphorid species richness was estimated for the Cerrado zone (13.96±2.76), followed by the Amazon Forest (13.91±3.81), and Palm Grove (10.98±1.98), but with no significant difference among the zones (Fig <ref type="figure" target="#fig_5">4</ref>). The highest sarcophagid richness was also recorded in the Cerrado (34.8±6.05) and Palm Grove (26.84±8.42), which were statistically similar (Fig <ref type="figure" target="#fig_5">4</ref>). The Amazon Forest (9.93±3.33) returned the lowest estimated richness of sarcophagid species for any zone.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Composition and abundance</head><p>Significant differences were found in the composition and abundance of both calliphorid (pseudo-F = 54.01; d.f. = 4; p &lt; 0.001) and sarcophagid (pseudo-F = 6.69; d.f. = 4; p &lt; 0.001) species in the different phytogeographic zones (Table <ref type="table" target="#tab_6">5</ref>). The results were significant (p &lt; 0.01) for all the comparisons among zones, in both the Calliphoridae and the Sarcophagidae (Table <ref type="table">6</ref>), which predominate in the Cerrado (40.97% of the Calliphoridae and 48.61% of the Sarcophagidae) and Palm Grove, with 20.85% and 27.80%, respectively (Tables <ref type="table">2</ref> and <ref type="table">3</ref>).</p><p>The ordination analysis showed a segregation of the calliphorid and sarcophagid communities among zones. In the calliphorids, there was a clear gradient from the more homogeneous zones (Marshlands and Mangrove) to the most heterogeneous ones, i.e., Amazon Forest, Cerrado, and Palm Grove (Fig 5A <ref type="figure">;</ref> <ref type="figure" target="#fig_0">axis 1</ref>). In the sarcophagids, however, the Amazon Forest was clearly separated from the other zones (Fig 6A <ref type="figure">;</ref> <ref type="figure" target="#fig_0">axis 1</ref>).</p><p>A strong association was observed between the calliphorids Chloroprocta idioidea (Robineau-Desvoid), Mesembrinella bicolor (Fabricius), Hemilicilia semidiaphana (Rondani) and Lucilia eximia (Wiedemann) and the Cerrado, Palm Grove, and Amazon Forest zones, and of Chrysomya megacephala (Fabricius) with the Mangrove zone (Fig <ref type="figure">5B</ref>). Similarly, the sarcophagids Peckia (Euboettcheria) subducta <ref type="bibr">(Lopes)</ref> and Peckia (Pattonella) palidipilosa were associated with the Amazon Forest, P.(S.) lambens with the Palm Grove and Cerrado, and T. (S.) occidua with the Cerrado (Fig <ref type="figure">6B</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Similarities among zones</head><p>The mean similarity between zones varied from 77% to 86% in the calliphorids, and from 31% to 57% in the sarcophagids (Table <ref type="table" target="#tab_8">7</ref>). The calliphorids C. albiceps, L. eximia, C. macellaria, C. megacephala and C. idioidea contributed most to the observed pattern. The sarcophagid species that most contributed to the similarity among zones were P. (S.) lambens, P. (P). chrysostoma and Oxysarcodexia intona (Curran &amp; Walley).</p><p>In the case of the calliphorids, C. albiceps and C. macellaria were the main species responsible for the mean levels of similarity in the Cerrado and Marshland zones, whereas C. megacephala and C. albiceps were the key species for the Mangrove, L. eximia and C. idioidea contributed most to the similarity in the Palm Grove, and C. idioidea and M. bicolor in the Amazon Forest (Table <ref type="table">6</ref>).</p><p>Table 2. Composition and abundance of calliphorid species in the different phytogeographic zones surveyed in the Brazilian state of Maranhão, between 2010 and 2012. SPECIES PZ-C PZ-PG PZ-AF PZ-ML PZ-M TOTAL % Chrysomya albiceps (Wiedemann, 1819) 1,270 194 30 109 306 1,909 29.32 Chrysomya megacephala (Fabricius, 1794) 106 54 0 0 578 738 11.33 Chrysomya putoria (Wiedemann, 1819) 34 6 0 0 38 78 1.20 Chloroprocta idioidea (Robineau-Desvoidy,1830) 382 234 426 12 0 1,054 16.19 Cochliomyia hominivorax (Coquerel, 1858) 3 0 1 0 1 5 0.08 Cochliomyia macellaria (Fabricius, 1775) 647 317 22 419 94 1,499 23.02 Hemilucilia benoisti Se ´guy, 1925 0 1 0 0 0 1 0.02 Hemilucilia segmentaria (Fabricius, 1805) 2 0 1 0 0 3 0.05 Hemilucilia semidiaphana (Rondani, 1850) 6 6 156 0 0 168 2.58 Lucilia eximia (Wiedemann, 1819) 135 540 108 10 0 793 12.18 Mesembrinella bicolor (Fabricius, 1805) 66 0 169 0 0 235 3.61 Paralucilia paraensis (Mello, 1969) 11 3 1 0 0 15 0.23 ABUNDANCE 2,662 1,355 914 550 1,017 6,498 100 ABUNDANCE % 40.97 20.85 14.07 8.46 15.65 100 RICHNESS (S) 11 9 9 4 5 Legend: PZ = Phytogeographic Zones; C = Cerrado; PG = Palm Grove; AF = Amazon Forest; ML = Marshlands; M = Mangrove. doi:10.1371/journal.pone.0164826.t002 Table 3. Composition and abundance of sarcophagid species in the different phytogeographic zones surveyed in the Brazilian state of Maranhão, between 2010 and 2012. SPECIES PZ-C PZ-PG PZ-AF PZ-ML PZ-M TOTAL % Blaesoxipha (Gigantotheca) stallengi 2 0 0 0 0 2 0.07 Helicobia aurescens (Townsend, 1927) 1 1 0 0 0 2 0.07 Helicobia borgmeieri Lopes,1939 1 0 0 0 0 1 0.03 Helicobia morionella (Aldrich, 1930) 6 2 0 0 1 9 0.31 Helicobia pilifera Lopes, 1939 11 0 0 0 0 11 0.38 Helicobia pilipleura Lopes 1939 0 2 0 0 0 2 0.07 Helicobia rapax (Walker, 1849) 0 4 0 0 0 4 0.14 Oxysarcodexia admixta (Lopes, 1933) 0 4 0 0 0 4 0.14 Oxysarcodexia amorosa (Schiner, 1868) 0 0 0 1 15 16 0.55 Oxysarcodexia aura (Hall,1937) 1 0 0 0 0 1 0.03 Oxysarcodexia avuncula (Lopes, 1933) 1 11 0 0 0 12 0.41 Oxysarcodexia bakeri (Aldrich, 1916) 0 0 0 0 1 1 0.03 Oxysarcodexia fringidae (Curran &amp; Walley, 1934) 0 1 0 18 2 21 0.72 Oxysarcodexia intona (Curran &amp; Walley, 1934) 0 213 0 214 28 455 15.58 Oxysarcodexia modesta Lopes, 1946 8 0 0 0 0 8 0.27 Oxysarcodexia thornax (Walker, 1849) 37 43 0 0 0 80 2.74 Oxysarcodexia timida (Aldrich, 1916) 11 1 0 0 11 23 0.79 Oxysarcodexia vilosa Lopes, 1946 0 0 0 0 3 3 0.1 Peckia (Euboettcheria) anguilla (Curran &amp; Walley, 1934) 3 10 2 0 1 16 0.55 Peckia (Euboettcheria) collusor (Curran &amp; Walley, 1934) 28 62 5 4 21 120 4.11 Peckia (Euboettcheria) subducta (Lopes, 1935) 0 0 1 0 0 1 0.03 Peckia (Peckia) chrysostoma (Wiedemann, 1830) 67 121 0 83 126 397 13.59 Peckia (Peckia) pexata (Wulp, 1895) 8 15 0 10 0 33 1.13 Peckia (Peckia) uncinata (Hall, 1933) 0 0 0 2 0 2 0.07 Peckia (Pattonella) intermutans(Walker, 1861) 11 3 0 0 0 14 0.48 Peckia (Pattonella) palidipilosa (Curran &amp; Walley, 1934) 0 0 1 0 0 1 0.03 Peckia (Squamatodes) ingens (Walker,1849) 39 35 6 0 0 80 2.74 Peckia (Squamatodes) trivitata (Curran, 1927) 1 1 0 0 0 2 0.07 Peckia (Sarcodexia) lambens (Wiedemann, 1830) 290 237 13 34 15 589 20.16 Ravinia belforti (Prado &amp; Fonseca, 1932) 1 1 0 0 0 2 0.07 Ravinia effrenata (Walker, 1861) 20 0 0 0 0 20 0.68 Retrocitomyia mizuguchiana Tibana &amp; Xerez, 1985 4 0 0 2 0 6 0.21 Retrocitomya uromajoensis Lopes, 1985 0 0 0 0 5 5 0.17 Sarcophaga (Lipoptilocnema) misella Lopes, 1938 1 0 0 0 0 1 0.03 Sarcofahrtiopsis cuneata Townsend, 1935 2 0 0 0 0 2 0.07 Sarcophaga polistensis Hall, 1933 1 0 0 0 0 1 0.03 Titanogrypa (Cucullomyia) larvicida (Lopes, 1935) 1 0 0 0 0 1 0.03 Tricharaea (Sarcophagula) canuta Wulp, 1896 0 0 0 0 13 13 0.45 Tricharaea (Sarcophagula) occidua (Fabricius, 1794) 864 45 1 18 30 958 32.8 Villegasia almeidai (Lopes, 1938) 0 0 0 0 2 2 0.07 ABUNDANCE 1,420 812 29 386 274 2,921 100 ABUNDANCE % 48.61 27.8 0.99 13.21 9.38 100 RICHNESS (S) 26 20 7 10 15  <ref type="table">6</ref>).  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dissimilarity among zones</head><p>In the calliphorids, the highest dissimilarity scores were obtained for the comparisons between the Amazon Forest and the Mangrove and Marshland zones. The highest values for the sarcophagids were found between the Amazon Forest and all the other four zones, in other words, the Palm Grove, Cerrado, Marshlands, and Mangrove (Table <ref type="table" target="#tab_10">8</ref>). </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>The calliphorid and sarcophagid communities varied considerably among the different phytogeographic zones found in the Brazilian state of Maranhão. The communities in the more structured and heterogeneous vegetation types had higher species richness than those observed in the less complex zones, with the exception of the sarcophagids in the Amazon Forest zone.</p><p>The lower sarcophagid species richness recorded in the Amazon Forest may be related to microclimatic variables and the dense vegetation characteristics of this environment, which may be unfavorable to many species that depend on exposure to sunlight <ref type="bibr" target="#b88">[89]</ref><ref type="bibr" target="#b89">[90]</ref><ref type="bibr" target="#b90">[91]</ref>. In a number of studies, larger numbers of sarcophagid flies were collected on bait exposed in sunny areas in comparison with more shaded sites <ref type="bibr" target="#b90">[91]</ref>. Furthermore, adults were observed flying or visiting flowers during the sunniest hours of the day <ref type="bibr" target="#b88">[89,</ref><ref type="bibr" target="#b89">90]</ref>. The color of the abdominal cuticle of the sarcophagids has a high capacity for thermal reflectance <ref type="bibr" target="#b89">[90]</ref>, which could help minimize overheating. Sousa and colleagues <ref type="bibr" target="#b41">[42]</ref> also recorded a lower species richness of sarcophagids in forests, in comparison to neighboring environments, with varying degrees of vegetation cover (clearings at different stages of recuperation) in the Amazon Forests.</p><p>In the case of the calliphorids, studies in the Brazilian Atlantic Forest <ref type="bibr">[38-40, 92, 93]</ref> and Amazonia <ref type="bibr" target="#b34">[35]</ref><ref type="bibr" target="#b35">[36]</ref><ref type="bibr" target="#b36">[37]</ref> have invariably recorded higher species richness in forests in comparison to open habitats. This positive relationship between species richness and habitat complexity appears to be typical of these dipterans <ref type="bibr" target="#b6">[7]</ref>, and is based on the premise that a more complex environment will provide a greater abundance of potential niches, enabling the coexistence of a larger number of species <ref type="bibr" target="#b2">[3]</ref>. For the calliphorids, in particular, the more complex formations (Cerrado, Amazon Forest, and Palm Grove) may provide a greater diversity of potential feeding resources for both adults and larvae, such as feces and animal carcasses, as well as providing more shaded and stable environments. The resources available in open environments are more exposed to rainfall and dehydration, which makes them more ephemeral. As the sarcophagids are viviparous or ovoviviparous <ref type="bibr" target="#b93">[94]</ref>, their larvae remain in the substrates where they breed for shorter periods, and they are therefore less exposed to these environmental conditions. In this case, less sarcophagid diversity was lost in the more open formations (mangrove and marshlands) than in the more complex habitats, in contrast with the pattern observed in the calliphorids. However, sarcophagid diversity was also higher in the more complex and heterogeneous environments, such as the Cerrado and palm groves, which are naturally more open than the Amazon Forest. This may also account for the lower abundance and species richness of sarcophagids found in the Amazon Forest, where the incidence of sunlight is limited by the closed canopy, restricting the occurrence of many species.</p><p>Table 4. Sampling efficiency (observed and estimated species richness) of the calliphorid and sarcophagid species in the different phytogeographic zones (Cerrado, Palm Grove, Marshlands, Mangroves, and Amazon Forest) surveyed in the Brazilian state of Maranhão between 2010 and 2012. Family Calliphoridae PZ-Cerrado PZ-Palm Grove PZ-Amazon Forest PZ-Marshlands PZ-Mangrove Observed Richness 11 9 9 4 5 Estimated Richness 14 11 14 6 8 Sampling Efficiency (%) 79 82 64 67 63 Family Sarcophagidae PZ-Cerrado PZ-Palm Grove PZ-Amazon Forest PZ-Marshlands PZ-Mangrove Observed Richness 26 20 7 10 15 Estimated Richness 35 27 10 12 18 Sampling Efficiency (%) 74 74 70 83 83 Legend: PZ = Phytogeographic Zones doi:10.1371/journal.pone.0164826.t004 The calliphorid and sarcophagid communities were distributed along a vegetation complexity gradient (homogenous-heterogeneous), with patterns of occurrence and abundance typical of each zone. The species C. idioidea, M. bicolor and H. semidiaphana and L. eximia, which were associated with the Amazon Forest, Cerrado and Palm Grove, have already been recorded in forest environments <ref type="bibr">[35-37, 39,95]</ref> and C. megacephala, which was associated with the Mangrove zone, has been registered in the mangroves of the Brazilian state of Rio de Janeiro <ref type="bibr" target="#b39">[40,</ref><ref type="bibr" target="#b95">96]</ref>. Peckia (Euboettcheria) subducta <ref type="bibr">(Lopes)</ref> and Peckia (Pattonella) palidipilosa (Curran &amp; Walley) were associated with the Amazon Forest, P. (S.) lambens with the Palm Grove and Cerrado zones, and T. (S.) occidua the Cerrado.</p><p>The distribution pattern of the calliphorids resulted in greater mean similarity among the areas surveyed in each zone than the sarcophagids. This appears to be related to the much greater species diversity of the Sarcophagidae, which is double that of the Calliphoridae <ref type="bibr" target="#b96">[97]</ref>. The Calliphoridae is known to include 1525 species, while the Sarcophagidae has close to 3094 <ref type="bibr" target="#b96">[97]</ref>. While only 130 calliphorid species are found in the Neotropical region <ref type="bibr" target="#b97">[98]</ref>, there are about 800 sarcophagids <ref type="bibr" target="#b98">[99]</ref>, and in Brazil, only 38 calliphorid species have been recorded <ref type="bibr" target="#b99">[100]</ref> compared with 350 sarcophagids <ref type="bibr" target="#b100">[101]</ref>. These differences alone would be enough to account for the greater similarities found within the group with the lowest diversity (i.e., the Calliphoridae). It is important to note that the restriction of a species to forested areas may filter its distribution in an extremely selective way, although it may also result in a wider niche for other factors, such as feeding and egg-laying substrates, which would favor niche overlap, Table 6. Multiple a posteriori pairwise comparisons for the results of the Permutational Analysis of Variance (PERMANOVA) of the community structure of the calliphorids and sarcophagids recorded in the five phytogeographic zones of the Brazilian state of Maranhão. PHYTOGEOGRAPHIC ZONES Calliphoridae Sarcophagidae t P(perm) perms t P(perm) perms Cerrado x Palm Grove 2.65 0.0005 8123 1.93 0.0008 8166 Cerrado x Marshlands 4.9 0.0001 8139 3.60 0.0002 8159 Cerrado x Mangrove 5.62 0.0001 8117 2.76 0.0002 8166 Cerrado x Amazon Forest 6.8 0.0001 8164 2.66 0.0008 4328 Palm Grove x Marshlands 5.67 0.0003 8136 2.47 0.0004 8171 Palm Grove x Mangrove 8 0.0001 8154 2.12 0.0006 8192 Palm Grove x Amazon Forest 8.22 0.0001 8199 2.58 0.0002 4324 Marshlands x Mangrove 5.94 0.0001 8163 1.92 0.0017 8183 Marshlands x Amazon Forest 10.34 0.0002 8121 3 0.0001 4314 Mangrove x Amazon Forest 16.66 0.0002 8141 2.56 0.0001 4311 doi:10.1371/journal.pone.0164826.t006 Fig 6. Multi-dimensional non-metric scaling (NMDS) of the 45 study areas representing the five principal phytogeographic zones (Cerrado, Palm Grove, Amazon Forest, Marshlands, and Mangrove) found in the Brazilian state of Maranhão, between 2010 and 2012, based on the composition and abundance of sarcophagid species. A) Groups defined by the analysis; B) Association of species with the phytogeographic zones. doi:10.1371/journal.pone.0164826.g006</p><p>with no competitive exclusion of species. The calliphorid species that most contributed to the similarity found within each zone included species associated with more forested and well-preserved habitats, such as C. idioidea and L. eximia <ref type="bibr" target="#b31">[32,</ref><ref type="bibr" target="#b32">33,</ref><ref type="bibr" target="#b36">37,</ref><ref type="bibr" target="#b101">102]</ref>, as well as those associated with more open and urbanized environments, like C. albiceps, C. megacephala and C. macellaria <ref type="bibr" target="#b102">[103]</ref>. The sarcophagids P. (S.) lambens, P. (P.) chrysostoma and O. intona have been recorded in both forests and more open or urbanized environments <ref type="bibr" target="#b103">[104]</ref>. The greatest dissimilarities in calliphorid diversity were found between the most complex and heterogeneous zone (forest) and the most homogeneous ones (Marshlands and Mangroves). In the case of the sarcophagids, however, the greatest dissimilarities were found between the forests and all other zones, including the Cerrado and the Palm Grove. This indicates the influence of some additional factor that affects the diversity of sarcophagids in Amazon forested habitats, probably related to microclimatic factors and the greater shading in these environments, which reduces the potential exposure of the flies to sunlight. Given this, the selection of areas for the conservation of these and other taxa, should consider not only the contribution of the structurally more complex habitats, but areas representative of all the biomes, including the more homogeneous ones, such as the mangroves and Marshlands.</p><p>Our results have shown that the natural environments found in the different phytogeographic zones are inhabited by distinct sets of species. The composition of the fly communities varies because of the different climatic conditions of the distinct zones and the characteristics of their plant cover, which combine to create a unique set of environmental conditions under which the species survive, reproduce, and interact. These differences reinforce the need to take into account the characteristics of each distinct area when planning the conservation of a given region. Of the five vegetation types sampled in this study in the state of Maranhao, only the Cerrado and the Amazon rainforest have full conservation protection units, in other words, those with a higher degree of restriction of use by man (Cerrado 3%, Amazon Forest 2%) <ref type="bibr" target="#b42">[43]</ref>. Furthermore, given the differences observed in the present study, and the local history of land use for farming and ranching, there is also an urgent need for the investigation of the effects of anthropogenic impacts on the calliphorid and sarcophagid communities found in each phytophysiognomy. These data will be essential for a more systematic understanding of the conservation status of the two groups within each study area.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Supporting Information</head><note type="other">S1</note><p>Table. Full list of dipteran necrophagous fauna of Calliphoridae family, sampling locations and environments. (XLS) S2 Table. Full list of dipteran necrophagous fauna of Sarcophagidae family, sampling locations and environments. (XLS) </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig 1 .</head><label>1</label><figDesc>Fig 1. a: Location in Brazil; b: Location of the municipalities in the Brazilian state of Maranhão (modified from Sousa et al. 2015 [60]), in which the samples were collected and their respective phytogeographic zones (Cerrado, Amazon Forest, Palm Groves, Marshlands and Mangrove), sampled between 2010 and 2012. (Key: 1 -Balsas; 2 -Riachão; 3 -Carolina; 4 -Esperantino ´polis; 5 -Poc ¸ão de Pedras; 6 -Lago do Junco; 7 -Cajari; 8 -Viana; 9 -Cajapio ´; 10 -Guimarães; 11 -Cedral; 12 -Turiac ¸u ´; 13 -Ca ˆndido Mendes; 14 -Centro Novo do Maranhão. This map was prepared using "shapefile" data from the Brazilian Institute of Geography and Statistics-IBGE (www.ibge.gov.br). doi:10.1371/journal.pone.0164826.g001</figDesc><graphic coords="4,149.27,78.01,426.61,552.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>Legend: PZ = Phytogeographic Zones; C = Cerrado; PG = Palm Grove; AF = Amazon Forest; ML = Marshlands; M = Mangrove. doi:10.1371/journal.pone.0164826.t003 In the sarcophagids, the key species contributing to similarity were P. (S.) lambens and T. (S.) occidua in the Cerrado; P.(P.) chrysostoma and P. (S.) lambens in the Palm Grove; O. intona and P. (P.) chrysostoma in the Marshlands; P. (S.) lambens and P. (Euboettcheria) anguilla (Curran &amp; Walley) in the Amazon Forest; and P. (P.) chrysostoma (Wiedemann, 1830) and P. (Euboettcheria) collusor (Curran &amp; Walley) in the Mangrove (Table</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig 2 .</head><label>2</label><figDesc>Fig 2. Cumulative species curves (Observed [Mao Tau] and Estimated [Jackknife1] species richness) for the family Calliphoridae (traps as pseudoreplicates) in the different phytogeographic zones surveyed in the Brazilian state of Maranhão between 2010 and 2012. Axis Y: estimated species richness (Jackknife).</figDesc><graphic coords="10,153.86,70.58,422.08,515.91" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>doi: 10 .</head><label>10</label><figDesc>1371/journal.pone.0164826.g002</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig 3 .</head><label>3</label><figDesc>Fig 3. Cumulative species curves (Observed [Mao Tau] and Estimated [Jackknife1] species richness) for the family Sarcophagidae (traps as pseudoreplicates) in the different phytogeographic zones surveyed in the Brazilian state of Maranhão between 2010 and 2012. Axis Y: estimated species richness (Jackknife). doi:10.1371/journal.pone.0164826.g003</figDesc><graphic coords="11,174.50,78.01,401.44,472.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig 4 .</head><label>4</label><figDesc>Fig 4. Estimated species richness (mean±confidence interval) of the Calliphoridae and Sarcophagidae (Jackknife 1) in the five phytogeographic zones sampled in the Brazilian state of Maranhão between 2011 and 2012. The values indicated by different letters are significantly different from one another. Legend: C = Cerrado; PG = Palm Grove; AF = Amazon Forest; ML = Marshlands; M = Mangrove. Axis Y: estimated species richness (Jackknife).doi:10.1371/journal.pone.0164826.g004</figDesc><graphic coords="13,200.01,78.01,263.91,555.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig 5 .Fig 6 .</head><label>56</label><figDesc>Fig 5. Multi-dimensional non-metric scaling (NMDS) of the 45 study areas representing the five main phytogeographic zones (Cerrado, Palm Grove, Amazon Forest, Marshlands, and Mangrove) found in the Brazilian state of Maranhão, between 2010 and 2012, based on the composition and abundance of calliphorid species. A) Groups defined by the analysis; B) Association of species with the phytogeographic zones. doi:10.1371/journal.pone.0164826.g005</figDesc><graphic coords="15,137.54,78.01,438.41,564.66" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_6"><head>Table 5 . Results of the Permutational Analysis of Variance (PERMANOVA) of the community structure of the calliphorids and sarcophagids recorded in the different phytogeographic zones (Cerrado, Palm Grove, Amazon Forest, Marshlands and Mangrove) of the Brazilian state of Mar- anhão</head><label>5</label><figDesc>. d.f. = degrees of freedom.</figDesc><table><row><cell>PERMANOVA-Calliphoridae</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Treatment</cell><cell>d.f.</cell><cell>F</cell><cell>p</cell><cell>Contribution</cell></row><row><cell>Zones</cell><cell>4</cell><cell>54.01</cell><cell>0.0001</cell><cell>36.18</cell></row><row><cell>Residues</cell><cell>40</cell><cell></cell><cell></cell><cell>14.9</cell></row><row><cell>PERMDISP-Calliphoridae</cell><cell>4</cell><cell>6.52</cell><cell>0.0001</cell><cell></cell></row><row><cell>PERMANOVA-Sarcophagidae</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Treatment</cell><cell>d.f.</cell><cell>F</cell><cell>p</cell><cell>Contribution</cell></row><row><cell>Zones</cell><cell>4</cell><cell>6.69</cell><cell>0.0001</cell><cell>31.95</cell></row><row><cell>Residues</cell><cell>37</cell><cell></cell><cell></cell><cell>38.72</cell></row><row><cell>PERMDISP -Sarcophagidae</cell><cell>4</cell><cell>2.97</cell><cell>0.0756</cell><cell></cell></row><row><cell>doi:10.1371/journal.pone.0164826.t005</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_8"><head>Table 7 . Similarity of the zones based on the structure of the calliphorid and sarcophagid communities.</head><label>7</label><figDesc>MS = Mean Similarity; % C = Contribution of the species to the similarity index. % AC = Accumulated Contribution.</figDesc><table><row><cell>Phytogeographic Zones</cell><cell></cell><cell>Calliphoridae</cell><cell></cell><cell></cell><cell></cell><cell>Sarcophagidae</cell><cell></cell><cell></cell></row><row><cell></cell><cell>% MS</cell><cell>SPECIES</cell><cell>% C</cell><cell>% AC</cell><cell>% MS</cell><cell>SPECIES</cell><cell>% C</cell><cell>% AC</cell></row><row><cell>Cerrado</cell><cell>74</cell><cell>C. albiceps</cell><cell>30</cell><cell>30</cell><cell>55</cell><cell>P. (S.) lambens</cell><cell>31</cell><cell>31</cell></row><row><cell></cell><cell></cell><cell>C. macellaria</cell><cell>24</cell><cell>54</cell><cell></cell><cell>T. (S.) occidua</cell><cell>18</cell><cell>49</cell></row><row><cell></cell><cell></cell><cell>C. idioidea</cell><cell>22</cell><cell>77</cell><cell></cell><cell>P. (P.) chrysostoma</cell><cell>17</cell><cell>66</cell></row><row><cell>Palm Grove</cell><cell>83</cell><cell>L. eximia</cell><cell>27</cell><cell>27</cell><cell>53</cell><cell>P. (P.) chrysostoma</cell><cell>29</cell><cell>29</cell></row><row><cell></cell><cell></cell><cell>C. idioidea</cell><cell>24</cell><cell>51</cell><cell></cell><cell>P. (S.) lambens</cell><cell>21</cell><cell>50</cell></row><row><cell></cell><cell></cell><cell>C. macellaria</cell><cell>20</cell><cell>71</cell><cell></cell><cell>P. (E.) collusor</cell><cell>19</cell><cell>68</cell></row><row><cell>Amazon Forest</cell><cell>86</cell><cell>C. idioidea</cell><cell>30</cell><cell>30</cell><cell>31</cell><cell>P. (S.) lambens</cell><cell>85</cell><cell>85</cell></row><row><cell></cell><cell></cell><cell>M. bicolor</cell><cell>23</cell><cell>53</cell><cell></cell><cell>P. (E.) anguilla</cell><cell>6</cell><cell>91</cell></row><row><cell></cell><cell></cell><cell>H. semidiaphana</cell><cell>22</cell><cell>74</cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>Marshlands</cell><cell>77</cell><cell>C. macellaria</cell><cell>58</cell><cell>58</cell><cell>57</cell><cell>O. intona</cell><cell>46</cell><cell>46</cell></row><row><cell></cell><cell></cell><cell>C. albiceps</cell><cell>38</cell><cell>97</cell><cell></cell><cell>P. (P.) chrysostoma</cell><cell>31</cell><cell>77</cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>P. (S.) lambens</cell><cell>12</cell><cell>89</cell></row><row><cell>Mangrove</cell><cell>86</cell><cell>C. megacephala</cell><cell>41</cell><cell>41</cell><cell>41</cell><cell>P. (P.) chrysostoma</cell><cell>48</cell><cell>48</cell></row><row><cell></cell><cell></cell><cell>C. albiceps</cell><cell>33</cell><cell>74</cell><cell></cell><cell>P. (E.) collusor</cell><cell>11</cell><cell>59</cell></row><row><cell></cell><cell></cell><cell>C. macellaria</cell><cell>23</cell><cell>98</cell><cell></cell><cell>O. intona</cell><cell>8</cell><cell>68</cell></row><row><cell>Legend: %</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table><note><p>doi:10.1371/journal.pone.0164826.t007</p></note></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_10"><head>Table 8 . Dissimilarity between zones (significant results of the a posteriori pairwise tests of the PERMANTOVA) based on the structure of the cal- liphorid and sarcophagid communities.</head><label>8</label><figDesc>Legend: % MD = Mean Similarity; % C = Contribution of the species to the similarity index. % AC = Accumulated Contribution.</figDesc><table><row><cell>Phytogeographic Zones</cell><cell></cell><cell>Calliphoridae</cell><cell></cell><cell></cell><cell></cell><cell>Sarcophagidae</cell><cell></cell></row><row><cell></cell><cell>% MD</cell><cell>Espe ´cie</cell><cell>% C</cell><cell>% AC</cell><cell>% MD</cell><cell>Espe ´cie</cell><cell>% C</cell><cell>% AC</cell></row><row><cell>Cerrado x Palm Grove</cell><cell>29</cell><cell>L. eximia</cell><cell>19</cell><cell>19</cell><cell>54</cell><cell>T. (S.) occidua</cell><cell>15</cell></row><row><cell></cell><cell></cell><cell>C. albiceps</cell><cell>19</cell><cell>38</cell><cell></cell><cell>O. intona</cell><cell>12</cell></row><row><cell></cell><cell></cell><cell>C. megacephala</cell><cell>12</cell><cell>50</cell><cell></cell><cell>P. (S.) lambens</cell><cell>10</cell></row><row><cell>Cerrado x Marshlands</cell><cell>49</cell><cell>C. idioidea</cell><cell>23</cell><cell>23</cell><cell>70</cell><cell>O. intona</cell><cell>16</cell></row><row><cell></cell><cell></cell><cell>C. albiceps</cell><cell>17</cell><cell>40</cell><cell></cell><cell>P. (S.) lambens</cell><cell>14</cell></row><row><cell></cell><cell></cell><cell>L. eximia</cell><cell>14</cell><cell>55</cell><cell></cell><cell>T. (S.) occidua</cell><cell>13</cell></row><row><cell>Palm Grove x Marshlands</cell><cell>47</cell><cell>L. eximia</cell><cell>33</cell><cell>33</cell><cell>58</cell><cell>O. intona</cell><cell>15</cell></row><row><cell></cell><cell></cell><cell>C. idioidea</cell><cell>25</cell><cell>58</cell><cell></cell><cell>P. (S.) lambens</cell><cell>14</cell></row><row><cell></cell><cell></cell><cell>C. megacephala</cell><cell>16</cell><cell>74</cell><cell></cell><cell>P.(E.) collusor</cell><cell>13</cell></row><row><cell>Cerrado x Mangrove</cell><cell>46</cell><cell>C. idioidea</cell><cell>26</cell><cell>26</cell><cell>71</cell><cell>P. (S.) lambens</cell><cell>17</cell></row><row><cell></cell><cell></cell><cell>C. megacephala</cell><cell>16</cell><cell>42</cell><cell></cell><cell>T. (S.) occidua</cell><cell>14</cell></row><row><cell></cell><cell></cell><cell>L. eximia</cell><cell>15</cell><cell>57</cell><cell></cell><cell>P. (S.) ingens</cell><cell>8</cell></row><row><cell>Palm Grove x Mangrove</cell><cell>49</cell><cell>L. eximia</cell><cell>30</cell><cell>30</cell><cell>64</cell><cell>P. (S.) lambens</cell><cell>14</cell></row><row><cell></cell><cell></cell><cell>C. idioidea</cell><cell>25</cell><cell>55</cell><cell></cell><cell>O. intona</cell><cell>12</cell></row><row><cell></cell><cell></cell><cell>C. megacephala</cell><cell>18</cell><cell>73</cell><cell></cell><cell>P. (S.) ingens</cell><cell>10</cell></row><row><cell>Marshlands x Mangrove</cell><cell>47</cell><cell>C. megacephala</cell><cell>48</cell><cell>48</cell><cell>60</cell><cell>O. intona</cell><cell>20</cell></row><row><cell></cell><cell></cell><cell>C. macellaria</cell><cell>16</cell><cell>64</cell><cell></cell><cell>P. (P.) chrysostoma</cell><cell>12</cell></row><row><cell></cell><cell></cell><cell>C. albiceps</cell><cell>12</cell><cell>76</cell><cell></cell><cell>P. (S.) lambens</cell><cell>10</cell></row><row><cell>Cerrado x Amazon Forest</cell><cell>53</cell><cell>C. albiceps</cell><cell>20</cell><cell>20</cell><cell>81</cell><cell>P. (S.) lambens</cell><cell>17</cell></row><row><cell></cell><cell></cell><cell>C. macellaria</cell><cell>17</cell><cell>38</cell><cell></cell><cell>T. (S.) occidua</cell><cell>17</cell></row><row><cell></cell><cell></cell><cell>H. semidiaphana</cell><cell>15</cell><cell>52</cell><cell></cell><cell>P. (P.) chrysostoma</cell><cell>13</cell></row><row><cell>Palm Grove x Amazon Forest</cell><cell>48</cell><cell>M. bicolor</cell><cell>21</cell><cell>21</cell><cell>80</cell><cell>P. (P.) chrysostoma</cell><cell>20</cell></row><row><cell></cell><cell></cell><cell>H. semidiaphana</cell><cell>18</cell><cell>39</cell><cell></cell><cell>P. (S.) lambens</cell><cell>14</cell></row><row><cell></cell><cell></cell><cell>C. macellaria</cell><cell>16</cell><cell>54</cell><cell></cell><cell>O. intona</cell><cell>14</cell></row><row><cell>Marshlands x Amazon Forest</cell><cell>74</cell><cell>C. idioidea</cell><cell>21</cell><cell>21</cell><cell>86</cell><cell>O. intona</cell><cell>31</cell></row><row><cell></cell><cell></cell><cell>M. bicolor</cell><cell>19</cell><cell>40</cell><cell></cell><cell>P. (P.) chrysostoma</cell><cell>22</cell></row><row><cell></cell><cell></cell><cell>H. semidiaphana</cell><cell>18</cell><cell>58</cell><cell></cell><cell>P. (S.) lambens</cell><cell>11</cell></row><row><cell>Mangrove x Amazon Forest</cell><cell>85</cell><cell>C. megacephala</cell><cell>19</cell><cell>19</cell><cell>88</cell><cell>P. (P.) chrysostoma</cell><cell>25</cell></row><row><cell></cell><cell></cell><cell>C. idioidea</cell><cell>18</cell><cell>37</cell><cell></cell><cell>P. (E.) collusor</cell><cell>10</cell></row><row><cell></cell><cell></cell><cell>M. bicolor</cell><cell>14</cell><cell>51</cell><cell></cell><cell>O. intona</cell><cell>9</cell></row></table><note><p>doi:10.1371/journal.pone.0164826.t008</p></note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>PLOS ONE | DOI:10.1371/journal.pone.0164826October 31, 2016  </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank the <rs type="funder">Maranhão State Research Foundation</rs> for funding and for providing the first author with a doctoral stipend. <rs type="person">Leandro Juen</rs> (process: <rs type="grantNumber">303252/2013-8</rs>) and <rs type="person">Maria Cristina Esposito</rs> (process: <rs type="grantNumber">309572/2013-4</rs>) would like to thank <rs type="institution">CNPq</rs> for research fellowships. The authors are also grateful to <rs type="person">Dr. Stephen F. Ferrari</rs> and to the editor <rs type="person">J. Joe Hull</rs> for revising our manuscript and to the anonymous reviewer who has contributed substantially to the improvement of manuscript.</p></div>
+			</div>
+			<div type="funding">
+<div><p>The authors acknowledge the <rs type="funder">Maranhão State Research Foundation</rs> for funding and for providing the first author with a doctoral stipend (JRPS), and the <rs type="funder">National Counsel of Technological and Scientific Development</rs>, for research fellowships (LJ and MCE).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ErUp4cQ">
+					<idno type="grant-number">303252/2013-8</idno>
+				</org>
+				<org type="funding" xml:id="_AN6EMpm">
+					<idno type="grant-number">309572/2013-4</idno>
+				</org>
+			</listOrg>
+
+			<div type="availability">
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>All relevant data are within the paper and its Supporting Information files. (S1 Table: Full list of dipteran necrophagous fauna of Calliphoridae family, sampling locations and environments. S2 Table: Full list of dipteran necrophagous fauna of Sarcophagidae family, sampling locations and environments.)</p></div>
+			</div>
+
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Author Contributions</head><p>Conceptualization: JRPS FSCF LJ MCE.</p><p>Data curation: JRPS.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Formal analysis: JRPS LJ.</head><p>Funding acquisition: JRPS LJ MCE.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Methodology: JRPS.</head><p>Resources: JRPS MCE.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Writing -original draft: JRPS FSCF LJ MCE.</head><p>Writing -review &amp; editing: JRPS LJ MCE.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">On bird species diversity</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Macarthur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">W</forename><surname>Macarthur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="594" to="598" />
+			<date type="published" when="1961">1961</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The structure of lizard communities</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pianka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Ecol Evol Syst</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="53" to="74" />
+			<date type="published" when="1973">1973</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Plant species diversity in old-field successional ecosystems in southern Illinois</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Bazzaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="485" to="488" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Small mammal populations of brasilian cerrado: the dependence of abundance and diversity on habitat complexity</title>
+		<author>
+			<persName><forename type="first">Cjr</forename><surname>Alho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="223" to="230" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Spatial separation of Afrotropical dung beetle guilds: a trade-off between competitive superiority and energetic constraints (Coleoptera: Scarabaeidae)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">T</forename><surname>Krell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">K</forename><surname>Westerwalbesloh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Weib</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Eggleton</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Linsenmair</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="210" to="222" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Rapid turnover and edge effects in dung beetle assemblages (Scarabaeidae) at a Bolivian Neotropical forest-savanna ecotone</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Spector</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ayzama</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotropica</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="394" to="404" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Animal species diversity driven by habitat heterogeneity/diversity: the importance of keystone structures</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Tews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">U</forename><surname>Brose</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Grimm</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tielborger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Wichmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Schwager</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Biogeogr</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="79" to="92" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Dung beetle (Coleoptera: Scarabaeidae) assemblages across a natural forest-cerrado ecotone in Minas Gerais</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Durães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">P</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">Z</forename><surname>Vaz-De-Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="721" to="731" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Estrutura da comunidade de Scarabaeinae (Scarabaeidae: Coleoptera) em fitofisionomias do cerrado e sua importa ˆncia para a conservac ¸ão</title>
+		<author>
+			<persName><forename type="first">Ssp</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jnc</forename><surname>Louzada</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="32" to="43" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Diversidade de Scarabaeinae (Coleoptera, Scarabaeidae) coletados com armadilha de interceptac ¸ão de vo ˆo no Refu ´gio Ecolo ´gico Charles Darwin, Igarassu-PE</title>
+		<author>
+			<persName><forename type="first">Cmq</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Fab</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">I</forename><surname>Farias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">C</forename><surname>Moura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="88" to="94" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The relative roles of habitat heterogeneity and disturbance in drosophilid assemblages (Diptera, Drosophilidae) in the Cerrado</title>
+		<author>
+			<persName><forename type="first">Da</forename><surname>Mata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Tidon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Conserv Divers</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="663" to="670" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The role of habitat complexity and heterogeneity in structuring tropical mammal communities</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">V</forename><surname>August</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="1495" to="1507" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Primate species richness in relation to habitat structure in Amazonian rainforest fragments</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Schwarzkopf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Rylands</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol Conserv</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1" to="12" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Evolution of body size: varanid lizards as a model system</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R</forename><surname>Pianka</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am Nat</title>
+		<imprint>
+			<biblScope unit="volume">146</biblScope>
+			<biblScope unit="page" from="398" to="414" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Townsend</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Begon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Harper</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Fundamentos em Ecologia. Porto Alegre: Editora ARTMED</title>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">On definition and quantification of heterogeneity</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Li</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Reynolds</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oikos</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="page" from="280" to="284" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Riqueza, abunda ˆncia e diversidade de Euglossina (Hymenoptera, Apidae) em três a ´reas da Reserva Biolo ´gica Guaribas, Paraı ´ba</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">D</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mim</forename><surname>Herna ´ndez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">F</forename><surname>Martins</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev Bras Zool</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="320" to="325" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Historical and ecological factors determining the geographical distribution of beetles (Coleoptera: Scarabaeidae: Scarabaeinae)</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Halffter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Folia Entomol Mex</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="page" from="195" to="238" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Relative effects of biotic and abiotic factors on the composition</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Franklin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">E</forename><surname>Magnusson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Luizão</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Appl Soil Ecol</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="259" to="273" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Local biodiversity and multihabitat use by Empididae (Diptera)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Delettre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Morvan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tre</forename><surname>´hen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Grootaert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodivers Conserv</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="9" to="25" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Short-range spatial patterning of terrestrial Chironomidae (Insecta: Diptera) and farmland heterogeneity</title>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">R</forename><surname>Delettre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pedobiologia</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="15" to="27" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Relationships between drosophilids (Diptera, Drosophilidae) and the environment in two contrasting tropical vegetations</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tidon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biol J Linn Soc Lond</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="233" to="247" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Manual of Nearctic Diptera. Ottawa: Research Branch Agriculture</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Calliphoridae</surname></persName>
+		</author>
+		<editor>McAlpine JF</editor>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="page" from="1133" to="1145" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Manual of Neartic Diptera. Ottawa: Research Branch Agriculture</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sarcophagidae</surname></persName>
+		</author>
+		<editor>McAlpine JF</editor>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<biblScope unit="page" from="1159" to="1186" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Erzinc ¸lioglu Z. Blowflies. Naturalist&apos;s Handbooks</title>
+		<imprint>
+			<date type="published" when="1996">1996</date>
+			<publisher>Richmond Publishing Co. Ltd</publisher>
+			<pubPlace>Great Britain</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Catalogue of the Sarcophagidae of the World (Insecta: Diptera)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Entomol Int</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="1" to="558" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title level="m" type="main">The science of forensic entomology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Rivers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">A</forename><surname>Dahlem</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>John Wiley &amp; Sons Ltd</publisher>
+			<pubPlace>UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Flies and disease ecology, classification and biotic association</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971">1971</date>
+			<publisher>University Press</publisher>
+			<pubPlace>New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Old World</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<publisher>Butterworths</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Myiasis of human and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+		<idno type="PMID">7709854</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Parasitol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title level="m" type="main">Myasis of man and animals in the neotropical region</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Editora Plêiade</publisher>
+			<pubPlace>Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Sinantropia de dı ´pteros musco ´ides de Curitiba, Parana ´. I. Calliphoridae</title>
+		<author>
+			<persName><forename type="first">Mjm</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="189" to="215" />
+			<date type="published" when="1981">1981</date>
+			<pubPlace>São Paulo, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Assessment of the abundance and diversity of Calliphoridae and Sarcophagidae (Diptera) in Sites With Different Degrees of Human Impact in the Ibera Wetlands (Argentina)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">I</forename><surname>Dufek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">B</forename><surname>Oscherov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Damborsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mulieri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="9" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Diversidade de Calliphoridae (insecta, Diptera) em ambientes de matas e pro ´ximos de habitac ¸ões da Estac ¸ão Cientı ´fica Ferreira Penna (ECFPn), Melgac ¸o/PA, e da cidade de Portel/PA</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jrp</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+		<editor>Lisboa PLB</editor>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page" from="461" to="469" />
+		</imprint>
+	</monogr>
+	<note>Caxiuanã: Desafios para a Conservac ¸ão de uma Floresta na Amazo ˆnia. Bele ´m: Museu Paraense Emı ´lio Goeldi</note>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Diversidade de Calliphoridae (Insecta: Diptera) na base de extrac ¸ão petrolı ´fera da Bacia do Rio Urucu, na Amazo ˆnia brasileira</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jrp</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Carvalho</forename><surname>Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Amazon</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="579" to="584" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">A fauna de califorı ´deos (Dı ´ptera) das matas e clareiras com diferentes coberturas vegetais da Base de Extrac ¸ão Petrolı ´fera, bacia do Rio Urucu</title>
+		<author>
+			<persName><forename type="first">Jrp</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="270" to="276" />
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Coari, Amazonas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Ana ´lise faunı ´stica de Calliphoridae (Diptera) da Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">Acp</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="620" to="628" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u</title>
+		<author>
+			<persName><forename type="first">Acp</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+		<idno type="PMID">20231960</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Braz J Biol</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="55" to="63" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+	<note>RJ</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">Inventa ´rio de Calliphoridae (Diptera) em manguezal e fragmento de Mata Atla ˆntica na região de Barra de Guaratiba, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gonc ¸alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Espindola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev Bras Biocienc</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="50" to="55" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Flesh flies species (Diptera: Sarcophagidae</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mulieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Torretta</surname></persName>
+		</author>
+		<idno type="PMID">19419045</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Reserve of Buenos Aires</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="1287" to="1294" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+	<note>Argentina. Rev Biol Trop</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Composition, abundance and richness of Sarcophagidae (Diptera: Oestroidea) in Forests and Forest Gaps with Different Vegetation Cover</title>
+		<author>
+			<persName><forename type="first">Jrp</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+		<idno type="PMID">21437478</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="20" to="27" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Atlas Escolar do Maranhão: espac ¸o geo-histo ´ricocultural</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Feitosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Trovão</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>Grafset</publisher>
+			<pubPlace>João Pessoa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Vegetac ¸ão</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">P</forename><surname>Veloso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mas</forename><surname>Japiassu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Leite</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Levantamento de Recursos Naturais</title>
+		<editor>
+			<persName><forename type="first">Radam</forename><surname>Projeto</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>Brasil</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Rio de Janeiro</addrLine></address></meeting>
+		<imprint>
+			<publisher>MME/DNPM</publisher>
+			<date type="published" when="1973">1973</date>
+			<biblScope unit="page" from="71" to="72" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Maranhão</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Atlas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="middle">São</forename><surname>Maranhão</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Luis</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>GEPLAN-LABGE/UEMA</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<analytic>
+		<title level="a" type="main">Ecossistemas Maranhenses: Se ´rie Ecolo ´gica</title>
+		<author>
+			<persName><forename type="first">Acg</forename><surname>Azevedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">São Luı ´s</title>
+		<imprint>
+			<publisher>Editora Universidade Estadual do Maranhão</publisher>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Effects of habitat complexity on ant assemblages</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Lassau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">F</forename><surname>Hochuli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecography</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="157" to="164" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<analytic>
+		<title level="a" type="main">Fenologia de espe ´cies arbo ´reas tropicais na Amazo ˆnia Central</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Alencar</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Floresta Amazo ˆnica: Dina ˆmica, Regenerac ¸ão e Manejo</title>
+		<editor>
+			<persName><forename type="first">C</forename><surname>Gascon</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">P</forename><surname>Moutinho</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Manaus</addrLine></address></meeting>
+		<imprint>
+			<publisher>MCT/INPA</publisher>
+			<date type="published" when="1998">1998</date>
+			<biblScope unit="page" from="25" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">On the role of microenvironmental heterogeneity in the ecology and diversification of Neotropical rain-forest palms (Arecaceae)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Svenning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bot Rev</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1" to="53" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Efeito da heterogeneidade da floresta na composic ¸ão de espe ´cies de palmeiras na Amazo ˆnia Central</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Raupp</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Cintra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Biol Neotrop</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="13" to="26" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Diversity, floristics and structural patterns of cerrado vegetation in central Brazil</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Felfili</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Silva</forename><surname>Ju ´nior</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Mc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Sevilha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Fagg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bmt</forename><surname>Walter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">E</forename><surname>Nogueira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Plant Ecol</title>
+		<imprint>
+			<biblScope unit="volume">175</biblScope>
+			<biblScope unit="page" from="37" to="46" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">Estrutura e composic ¸ão florı ´stica da vegetac ¸ão de um Cerradão</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Figueiredo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Andrade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Cerrado Norte do Brasil</title>
+		<editor>
+			<persName><forename type="first">L</forename><surname>Barreto</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="141" to="155" />
+			<date type="published" when="2007">2007</date>
+			<publisher>USEB</publisher>
+			<pubPlace>Pelotas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<analytic>
+		<title level="a" type="main">Estrutura da vegetac ¸ão de um cerradão e a heterogeneidade regional do Cerrado no Maranhão</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Figueiredo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">V</forename><surname>Andrade</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev A ´rvore</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="921" to="930" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Floristic and structural comparisons of two woody communities of typical and rocky cerrado in the state of Mato Grosso</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Lenza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Maracahipes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Marimon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">A</forename><surname>Oliveira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Acta Bot Brasilica</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="865" to="875" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Proposta de uma ma ´quina para colheita mecanizada de babac ¸u (Orbignya phalerata Mart.) para a agricultura familiar</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Albiero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ajs</forename><surname>Maciel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Gamero</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Amaz</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="337" to="346" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<analytic>
+		<title level="a" type="main">Caracterizac ¸ão da fauna eda ´fica em sistemas de manejo para produc ¸ão de forragens no Estado do Piauı ´</title>
+		<author>
+			<persName><forename type="first">Lapl</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dib</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Arau ´jo Asf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lfc</forename><surname>Leite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mef</forename><surname>Correia</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Ciênc Agron</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="30" to="37" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<analytic>
+		<title level="a" type="main">Novas formas de gestão dos manguezais brasileiros: A Baı ´a de Paranagua ´como estudo de caso</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Lana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Desenvolvimento e Meio Ambiente</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="169" to="174" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<analytic>
+		<title level="a" type="main">Manguezais amazo ˆnicos: status para conservac ¸ão e a sustentabilidade na zona costeira maranhense</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Rebêlo-Mochel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Amazo ˆnia Maranhense: Diversidade e Conservac ¸ão. Bele ´m: Museu Paraense Emı ´lio Goeldi</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Martins</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Oliveira</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="2011">2011</date>
+			<biblScope unit="page" from="93" to="116" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<analytic>
+		<title level="a" type="main">Updated world map of the Ko ¨ppen-Geiger climate classification</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Peel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Finlayson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Mcmahon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hydrol Earth Syst Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1633" to="1644" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Distribution and Abundance of Necrophagous Flies (Diptera: Calliphoridae and Sarcophagidae) in Maranhão, Northeastern Brazil</title>
+		<author>
+			<persName><forename type="first">Jrp</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Esposito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Carvalho-Filho</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jisesa/iev054</idno>
+		<idno type="PMID">26078304</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">70</biblScope>
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<analytic>
+		<title level="a" type="main">The cerrado vegetation of Brazil</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bot Rev</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="201" to="341" />
+			<date type="published" when="1972">1972</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<analytic>
+		<title level="a" type="main">Brazilian savannas</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Eiten</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Ecology of tropical savannas</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">J</forename><surname>Huntley</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">H</forename><surname>Walker</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer-Verlag</publisher>
+			<date type="published" when="1982">1982</date>
+			<biblScope unit="page" from="25" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title level="m" type="main">Manual te ´cnico da vegetac ¸ão brasileira: sistema fitogeogra ´fico, inventa ´rio das formac ¸ões florestais e campestres, te ´cnicas e manejo de colec ¸ões bota ˆnicas, procedimentos para mapeamentos</title>
+		<author>
+			<persName><surname>Ibge</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012">2012</date>
+			<publisher>Gra ´fica do Instituto Brasileiro de Geografia e Estatı ´stica</publisher>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<analytic>
+		<title level="a" type="main">Cerrado: conhecimento cientı ´fico quantitativo como subsı ´dio para ac ¸ões de conservac ¸ão</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Marinho-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rpb</forename><surname>Henriques</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brası ´lia</title>
+		<editor>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Diniz</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Marinho-Filho</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Machado</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Cavalcanti</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="page" from="15" to="34" />
+			<date type="published" when="2010">2010</date>
+			<publisher>Thesaurus</publisher>
+		</imprint>
+	</monogr>
+	<note>Evoluc ¸ão do conhecimento e da conservac ¸ão do Cerrado Brasileiro</note>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<analytic>
+		<title level="a" type="main">Microhabitat specialization in a species-rich palm community in Amazonian Ecuador</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Svenning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Ecol</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="55" to="65" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<analytic>
+		<title level="a" type="main">On the role of microenvironmental heterogeneity in the ecology and diversification of Neotropical rain-forest palms (Arecaceae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Svenning</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bot Rev</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="1" to="53" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ribeiro-Costa</forename><surname>Cs</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Marioni</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De Coleta</surname></persName>
+		</author>
+		<title level="m">Conservac ¸ão, Montagem e Identificac ¸ão de Insetos</title>
+		<meeting><address><addrLine>Ribeirão Preto</addrLine></address></meeting>
+		<imprint>
+			<publisher>Holos Editora</publisher>
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title level="a" type="main">Chave para identificac ¸ão das formas adultas das espe ´cies da famı ´lia Calliphoridae (Dı ´ptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<analytic>
+		<title level="a" type="main">Keys to the adults of the most common forensic species of Diptera in South America</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Harterreiten-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>´s</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Entomo-Brasilis</publisher>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Contribuic ¸ão ao conhecimento das espe ´cies do gênero Oxysarcodexia Townsend, 1917 (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1946">1946</date>
+			<publisher>Bol Esc Nac Vet</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="62" to="134" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<analytic>
+		<title level="a" type="main">On Oxysarcodexia (Diptera, Sarcophagidae), with descriptions of five new species, key, list and geographic distribution of the species</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="329" to="347" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<analytic>
+		<title level="a" type="main">Revision of the New World genus Peckia Robineau-Desvoidy (Diptera: Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Buenaventura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<idno type="PMID">25320760</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<imprint>
+			<biblScope unit="volume">3622</biblScope>
+			<biblScope unit="page" from="1" to="87" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<analytic>
+		<title level="a" type="main">Contribuic ¸ão ao conhecimento do gênero Helicobia Coquillett (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Entomolo ´gica</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="497" to="517" />
+			<date type="published" when="1939">1939</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+		<title level="m">Considerac ¸ões sobre as espe ´cies de Peckia Desvoidy, 1830 e de gêneros afins. (Diptera, Sarcophagidae). An Acad Bras Cien</title>
+		<imprint>
+			<date type="published" when="1958">1958</date>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="211" to="239" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<analytic>
+		<title level="a" type="main">On the holotypes, mostly females of Sarcophagidae (Diptera) described by Francis Walker</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="629" to="146" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<analytic>
+		<title level="a" type="main">On american Sarcophagidae (Diptera) with revision of Pekiamyia Dodge</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="837" to="845" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<analytic>
+		<title level="a" type="main">Duas redescric ¸ões e uma descric ¸ão de espe ´cie nova do gênero Helicobia (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="723" to="729" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<analytic>
+		<title level="a" type="main">Estudo sobre 7 espe ´cies de Helicobia Coquillett, 1895. (Diptera,Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Biol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="625" to="634" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<analytic>
+		<title level="a" type="main">Uma nova espe ´cie de Retrocitomyia Lopes, 1982, (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Tibana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Xerez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras de Biol</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="485" to="488" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<analytic>
+		<title level="a" type="main">Redescric ¸ão dos machos de dez espe ´cies Neotropicais de Ravinia Robineau-Desvoidy, 1863 (Diptera, Sarcophagidae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Mus Nac Rio Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="45" to="66" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<analytic>
+		<title level="a" type="main">Estimating terrestrial biodiversity through extrapolation</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Colwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Coddington</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philos Trans R Soc Lond</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="101" to="118" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title level="m" type="main">EstimateS: Statistical estimation of species richness and shared species from samples. Version 9. User&apos;s Guide and application published</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Colwell</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<analytic>
+		<title level="a" type="main">Interpolating, extrapolating, and comparing incidence-based species accumulation curves</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">K</forename><surname>Colwell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">X</forename><surname>Mao</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="2717" to="2727" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<analytic>
+		<title level="a" type="main">Estimativas de riqueza em espe ´cies</title>
+		<author>
+			<persName><forename type="first">Aj ;</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Cullen</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Valladares-Padua</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Rudran</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Me ´todos de estudos em biologia da conservac ¸ão e manejo da vida silvestre</title>
+		<meeting><address><addrLine>Curitiba</addrLine></address></meeting>
+		<imprint>
+			<publisher>Editora da UFRP</publisher>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">P</forename><surname>Legendre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Legendre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Numerical Ecology</title>
+		<imprint>
+			<date type="published" when="1998">1998</date>
+			<publisher>Elsevier</publisher>
+			<pubPlace>Amsterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title level="m" type="main">Change in marine communities: an approach to statistical analysis and interpretation</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Clarke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Warwick</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title level="m" type="main">PERMANOVA: A Fortran computer Program for Permutational Multivariate Analysis of Variance</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Anderson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005">2005. 2005</date>
+		</imprint>
+		<respStmt>
+			<orgName>University of Auckland</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<analytic>
+		<title level="a" type="main">Field analyses of insect heat budgets: reflectance, size and heating rates</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Willmer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Unwin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="250" to="255" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<analytic>
+		<title level="a" type="main">Thermoregulatory mechanisms in Sarcophaga</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Willmer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="382" to="385" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<analytic>
+		<title level="a" type="main">Diversity and seasonal dynamics of an assemblage of sarcophagid Diptera in a gradient of urbanization</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mulieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Patitucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Schnack</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Mariluis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<analytic>
+		<title level="a" type="main">Influência clima ´tica e antro ´pica na abunda ˆncia e riqueza de Calliphoridae (Diptera) em fragmento florestal da Reserva Biolo ´gica do Tingua ´</title>
+		<author>
+			<persName><forename type="first">Acp</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="476" to="485" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<analytic>
+		<title level="a" type="main">Diversity and synanthropy of Calliphoridae (Diptera) in the Region of Rio Claro, SP, Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Von</forename><surname>Zuben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cjv</forename></persName>
+		</author>
+		<idno type="DOI">10.1007/s13744-012-0037-9</idno>
+		<idno type="PMID">23950050</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="243" to="248" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title level="m" type="main">Manual of neartic Diptera</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sarcophagidae</surname></persName>
+		</author>
+		<editor>McAlpine JF</editor>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<pubPlace>Ottawa, Canada</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Research Branch Agriculture</note>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) da Bacia do Alto Rio Urucu, Amazo ˆnia Central</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Paraluppi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Rev Bras Zool</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="553" to="559" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">Effect of lunar phases, tides, and wind speed on the abundance of Diptera Calliphoridae in a mangrove swamp</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s13744-013-0181-x</idno>
+		<idno type="PMID">27193403</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop Entomol</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="48" to="52" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">Animal biodiversity: an outline of higher-level classification and survey of taxonomic richness</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Blagoderov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mostovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<editor>
+			<persName><forename type="first">Z</forename><forename type="middle">Q</forename><surname>Zhang</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">3148</biblScope>
+			<biblScope unit="page" from="222" to="229" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Order Diptera Linnaeus, 1758</note>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<analytic>
+		<title level="a" type="main">Keys to the adults of the most common forensic species of Diptera in South America</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<analytic>
+		<title level="a" type="main">Catalogue of the Sarcophagidae of the World (Insecta: Diptera)</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mem Entomol Int</title>
+		<imprint>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1" to="558" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<title level="m" type="main">A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Harterreiten-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Pujol-Luz</forename><surname>´s</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Jr</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013">2013</date>
+			<publisher>Entomo-Brasilis</publisher>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<analytic>
+		<title level="a" type="main">Estado do Conhecimento dos Diptera Neotropicais</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Amorim</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">C</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mipa ;</forename><surname>Balbi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Vanin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Melic</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PRIBES</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Sociedad Entomolo ´gica Aragoneza</publisher>
+			<pubPlace>Zaragoza, Spain</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<analytic>
+		<title level="a" type="main">Contribuic ¸ão ao conhecimento da fauna de Calliphoridae (Diptera) sinantro ´picos de Pampulha</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mascarenhas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="137" to="140" />
+			<date type="published" when="1982">1982</date>
+			<pubPlace>Belo Horizonte, Minas Gerais</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<analytic>
+		<title level="a" type="main">Estado atual de dispersão e distribuic ¸ão do gênero Chrysomya Robineau-Desvoidy na Região Neotropical (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="225" to="248" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<analytic>
+		<title level="a" type="main">Synanthropy Of Sarcophagidae (Diptera) In La Pintada, Antioquia-Colombia</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Yepes-Gaurisas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sanchez-Rodriguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Wolff</surname></persName>
+		</author>
+		<idno type="PMID">24027923</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Biol Trop</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="1275" to="1287" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

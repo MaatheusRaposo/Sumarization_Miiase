@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">&lt;b&gt;Evolution and structural organisation of mitochondrial DNA control region of myiasis‐causing flies&lt;/b&gt;</title>
+				<funder ref="#_ZnY5et3">
+					<orgName type="full">Fundac Ëa Äo de Amparo a Á Pesquisa do Estado de Sa Äo Paulo</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Cientõ Â®co e Tecnolo Âgico (CNPq, Brazil)</orgName>
+				</funder>
+				<funder ref="#_GYB5sEK">
+					<orgName type="full">PADCT/CNPq</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Wiley</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2000-03">2000-03</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Ana</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+							<email>lessinge@unicamp.br</email>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Laborato Ârio de Gene Âtica Animal , Centro de Biologia Molecular e Engenharia Gene Âtica (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , C.P. Box 6109 , Campinas , Sa Äo Paulo , Brazil , CEP 13083-970 .</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Gene Âtica (CBMEG)</orgName>
+								<orgName type="institution" key="instit1">Laborato Ârio de Gene Âtica Animal</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<addrLine>C.P. Box 6109 Sa Äo Paulo</addrLine>
+									<postCode>13083-970</postCode>
+									<settlement>Campinas Brazil</settlement>
+									<region>CEP</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo‐espin</surname></persName>
+						</author>
+						<title level="a" type="main">&lt;b&gt;Evolution and structural organisation of mitochondrial DNA control region of myiasis‐causing flies&lt;/b&gt;</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Medical and Veterinary Entomology</title>
+						<title level="j" type="abbrev">Medical Vet Entomology</title>
+						<idno type="ISSN">0269-283X</idno>
+						<idno type="eISSN">1365-2915</idno>
+						<imprint>
+							<publisher>Wiley</publisher>
+							<biblScope unit="volume">14</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="71" to="80"/>
+							<date type="published" when="2000-03" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">9824C4EC44943ADF075F7DA76385FFAF</idno>
+					<idno type="DOI">10.1046/j.1365-2915.2000.00209.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Calliphoridae</term>
+					<term>Oestridae</term>
+					<term>A + T-rich region</term>
+					<term>mitochondrial DNA</term>
+					<term>molecular evolution</term>
+					<term>mtDNA control region</term>
+					<term>myiasis</term>
+					<term>Brazil</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study reports the molecular characterization of the mtDNA control region (called the A + T-rich region in insects) of ®ve dipteran species which cause myiasis: Cochliomyia hominivorax Coquerel, Cochliomyia macellaria Fabricius, Chrysomya megacephala Fabricius, Lucilia eximia Wiedemann (Diptera: Calliphoridae) and Dermatobia hominis Linnaeus Jr (Diptera: Oestridae). The control region in these species varies in length from 1000 to 1600 bp. Two structural domains with speci®c evolutionary patterns were identi®ed. These were (1) conserved sequence blocks containing primary sequence motifs, including dinucleotide pyrimidine-purine series and long T-stretches, located at the 5¢ end adjacent to the tRNA Ile gene and (2) a hypervariable domain at the 3¢ end characterized by increased nucleotide divergence and size variation. A high frequency of A«T transversions at nucleotide substitution level indicated directional mutation pressure. The phylogenetic usefulness of the insect control region is discussed.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The control region is the major non-coding region of the animal mitochondrial genome and is believed to be involved in the regulation of transcription and control of mtDNA replication <ref type="bibr" target="#b15">(Shadel &amp; Clayton, 1997)</ref>. The control region (or D-loop) of vertebrate mtDNA has been well characterized at the nucleotide level, resulting in the identi®cation of conserved sequence blocks (CSB) and hypervariable regions <ref type="bibr" target="#b15">(Shadel &amp; Clayton, 1993)</ref>.</p><p>Among insect species, the best characterized control region is that of Drosophila. Indeed, Drosophila species could be divided into two distinct categories, based on the structure of their control region. The total length of the control region varies between Drosophila species and the primary sequence elements differ in their organization, particularly with regard to absence or presence of repetitive motifs <ref type="bibr" target="#b3">(Clary &amp; Wolstenholme, 1985</ref><ref type="bibr">, 1987;</ref><ref type="bibr" target="#b12">Monnerot et al., 1990;</ref><ref type="bibr" target="#b11">Monforte et al., 1993;</ref><ref type="bibr" target="#b6">Inohira et al., 1997)</ref>. No D-loop structure or any of the conserved sequences identi®ed in the control region of vertebrate mtDNAs have been found in the Drosophila A + Trich region.</p><p>Variations in the organization of conserved sequence elements in mtDNA control regions suggest that these sequences follow distinct evolutionary patterns in different insect species or taxa (reviewed in <ref type="bibr" target="#b27">Zhang &amp; Hewitt, 1997)</ref>. Because conserved sequences may be associated with speci®c domains or distributed along the entire mtDNA control region, this region may contain phylogenetic information which varies among insect species <ref type="bibr" target="#b27">(Zhang et al., 1995)</ref>. <ref type="bibr" target="#b27">Zhang &amp; Hewitt (1997)</ref> suggested that the control region can be a suitable marker for studying genetic polymorphism and population structure in species containing a single copy of a highly variable domain. Furthermore, for species in which the control region has a highly conserved domain of reasonable size (&gt; 350 bp), phylogenetic studies may be done using the conserved domain as a marker. These observations emphasize the importance of studies that examine the patterns of structural organization in mtDNA control regions as a mean of providing information on the overall evolution of this region in a group as widely diversi®ed as the insects.</p><p>Although numerous insect mtDNA sequences have been used as ef®cient molecular markers of speci®c taxonomic levels, more information is still required on the structure and function of this region in order to establish conclusively its phylogenetic usefulness in insect studies. The polymerase chain reaction (PCR) and sequencing strategies require additional optimization to provide ef®cient ampli®cation results. Speci®c proprieties of the mtDNA control region that may increase technical dif®culties include the extremely high A + T content, the presence of potential secondary structures, the existence of potential regulatory domains and the occurrence of long thymidylate arrays (poly T), which may decrease the ability of DNA polymerase to produce elongation <ref type="bibr" target="#b14">(Robbins et al., 1996)</ref>. Methodological dif®culties in sequencing the insect mtDNA control region include a lack of information on useful PCR primers, high levels of primary sequence divergence among related insect species and little or no information on the total size of the control region and on potentially useful restriction sites <ref type="bibr" target="#b17">(Simon et al., 1994;</ref><ref type="bibr" target="#b27">Zhang &amp; Hewitt, 1997)</ref>.</p><p>The aim of this paper was to examine the entire A + Trich region at the nucleotide level of Brachycera taxa other than the Drosophilidae, including calypterate species from the families Calliphoridae and Oestridae. The control regions of Cochliomyia hominivorax Coquerel, Cochliomyia macellaria Fabricius, Chrysomya megacephala Fabricius, Lucilia eximia Weidemann and Dermatobia hominis Linnaeus Jr. were sequenced and the data then used to determine structural organization of conserved and hypervariable sequences, and to evaluate the phylogenetic usefulness of information provided by the mtDNA control region of these species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Flies and materials</head><p>The specimens of C. hominivorax, C. macellaria, C. megacephala, L. eximia and D. hominis used in this study were samples from ®eld collections and laboratory lineages from Brazil. Collected larvae were reared to pupae and then stored at ± 70°C <ref type="bibr">(Azeredo-Espin, 1987;</ref><ref type="bibr" target="#b26">Valle &amp; Azeredo-Espin, 1995;</ref><ref type="bibr">Yotoko, 1998)</ref>. Lucilia eximia pupae were from Botucatu and C. megacephala pupae were from Adamantina, both in Sa Äo Paulo State (SP). One individual from each of these species was used for sequence analysis. For the Cochliomyia and Dermatobia species, two individuals from different populations were analysed. Cochliomyia hominivorax pupae were from Alfenas (Minas Gerais State, MG) and Manaus (Amazonia State, AM); C. macellaria pupae were from Rio de Janeiro (Rio de Janeiro State, RJ) and Porto Urucu (AM); and D. hominis pupae were from Alfenas (MG) and Ponta Grossa (Parana Â State, PR). Individuals derived from these populations are referred as 1 or 2 in all analyses below. A 1986 dried-pinned adult L. eximia (Botucatu, SP) from an entomological collection was also used for ampli®cation of the control region.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Genome DNA extraction</head><p>Total individual DNA was extracted from each species as described in <ref type="bibr" target="#b1">Azeredo-Espin (1993)</ref> and <ref type="bibr">Infante &amp; Azeredo-Espin (1995)</ref>. Pinned adult ¯ies were extracted using guanidine isothiocyanate (GIBCO/BRL) to improve the nucleic acid recovery from dried preserved samples (A. C. M. Junqueira, personal communication).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nested PCR</head><p>Ampli®cation of the control region required two separate PCR reactions. This strategy increased product resolution and guaranteed suf®cient amounts of speci®c DNA for cloning and sequencing. The ®rst ampli®cation reaction was performed using primers anchored on tRNA Met sequences (TM- <ref type="bibr">N-193)</ref> and the srRNA 12S gene (SR-J-14233). This large PCR product was diluted 1 : 50 and used as a template for the second round of PCR. A second set of primers from the tRNA Ile gene (TI-N-24) and an inner srRNA 12S sequence (SR-J-14776) were used to allow speci®c ampli®cation of a short A + T-rich fragment in the control region. Table <ref type="table">1</ref> describes the primers used in this work, with additional information from previous studies.</p><p>The PCR reactions were done using oligonucleotide primers based on D. yakuba mtDNA sequences <ref type="bibr" target="#b3">(Clary &amp; Wolstenholme, 1985;</ref><ref type="bibr" target="#b17">Simon et al., 1994)</ref>. The reactions were run in a DNA thermal cycler (Perkin Elmer, Foster City, CA, Table <ref type="table">1</ref>. Primers used for ampli®cation of the control region by PCR. Primer identi®cation is that reported by <ref type="bibr" target="#b17">Simon et al. (1994)</ref> and was also used for SR-J-14776. The oligonucleotide sequences are in the 5¢® 3¢ direction.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Identi®cation</head><p>Previously reported for References External ampli®cation Primers (long A + T-rich reaction) 5¢±TGGGGTATGAACCCAGTAGC±3¢ TM-N-193 Lepidoptera Taylor et al. (1993) 5¢±AAGAGCGACGGGCGATGTGT±3¢ SR-J-14233 Drosophila virilis Simon et al. (1991) Internal ampli®cation Prmers (short A + T ± rich reaction) 5¢±ATTTACCCTATCAAGGTAA±3¢ TI-N-24 Drosophila virilis Simon et al. (1991) 5¢±GCTGGCACGAATTTTGTC±3¢ SR-J-14776 ®rst reported in this work M. C. Arias (pers. comm.)</p><p>U.S.A.), in a volume of 50 ml containing 1.5 mM MgCl 2 , 200 mM of each dNTP, 0.5 mM of each primer, approximately 1 ng of template DNA and 2.5 units of Taq DNA polymerase (Perkin Elmer). The reaction consisted of 30 s at 94°C, 1 min at 58°C (initial PCR) or 56°C (nested PCR) and 2 min at 60°C for a total of 30 cycles, followed by a ®nal cycle in which the elongation step at 60°C was extended to 10 min. The elongation step at 60°C was necessary to provide a reliable control region ampli®cation for these species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cloning and sequencing</head><p>The ampli®ed DNA product was puri®ed from the PCR mixture by dialysis for 20 min using a VM 0.05 mM (Millipore, Bedford, MA, U.S.A.) ®lter with T.E. buffer, pH 7.0. An aliquot of the PCR product was used in the cloning reaction. The ampli®ed control region was cloned into the pMOSBlue T-vector system (Amersham, Bucks, U.K.) according to the manufacturer's speci®cations. The cloning step was used prior to sequencing in order to avoid the presence of ampli®cation by-products that may contribute as a source of interference in sequencing reactions. Two to four clones from independent PCR assays were sequenced for each species in both strands. After preparation of plasmid DNA <ref type="bibr">(Sambook et al., 1989)</ref>, the samples were dried and sequenced automatically.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sequence analysis</head><p>The nucleotide sequences of the ®ve species were aligned using the Clustal W software <ref type="bibr" target="#b24">(Thompson et al., 1994)</ref> set to default parameters with manual adjustments where necessary. BLASTN version 2.0.8 <ref type="bibr" target="#b0">(Altschul et al., 1997)</ref> was used to identify the control region content using conserved tRNA Ile and srRNA sequences to search databases for similar sequences. Aligned sequences were analysed using the MEGA software package <ref type="bibr" target="#b7">(Kumar et al., 1993)</ref>, the Tamura distance method <ref type="bibr" target="#b21">(Tamura, 1992)</ref> and the neighbour-joining method <ref type="bibr">(Saitou &amp; Nei, 1987)</ref>. MAST (motif alignment and search tool) software version 2.2 was used to provide a statistically valid approach for searching for control region sequence homology <ref type="bibr" target="#b1">(Bailey &amp; Gribskov, 1998)</ref>. The determination of conserved sequence blocks (CSBs) was based on the identi®cation of a minimum of four consecutive identical sites on the aligned sequences and a minimum length of 10 bp until another series of four divergent sites was reached. The search for energetically stable secondary structures for the control region sequences was done using the software PCfold <ref type="bibr" target="#b28">(Zuker, 1989)</ref> and MOLECULE <ref type="bibr" target="#b8">(Lapalme et al., 1982)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>GenBank accession numbers</head><p>The nucleotide sequences reported in this paper have the following GenBank accession numbers: AF151382, AF151383, AF151384, AF151385, AF151386, AF151387, AF151388 and AF151389.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Access to the mtDNA control region</head><p>The nested PCR strategy used here provided suf®cient ampli®ed DNA for further cloning and sequencing of the mtDNA control region. The intermediate cloning step was fundamental for improving the sequencing results. However, this procedure may provide inaccurate information as a result of incorrectly incorporated nucleotides by polymerase and may itself be a potential source of sequence variation. The sequencing of multiple clones from independent PCR assays was used to guarantee the sequence identi®cation. The ampli®cation reactions provided diagnostic markers that varied from 1200 to 1800 bp for each species, including sequences from tRNA Ile and rRNA12S genes. The mtDNA control region was recovered ef®ciently from a dried Lucilia collected in 1986, indicating that it is possible to access the genetic information in preserved Calliphoridae species.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Structural organization</head><p>The sequenced clones included control region sequences plus 200 bp from the srRNA 12S ¯anking region on the 3¢ end and an additional 42 bp from ¯anking tRNA Ile gene on the 5¢ end of the control region in all the species. A BLASTN <ref type="bibr" target="#b0">(Altschul et al., 1997)</ref> search of sequence databases showed that the sequence of these RNA genes was highly conserved, a ®nding which helped in the identi®cation and alignment of the control region. The sizes of control regions were 1178±1179 bp in C. hominivorax (n = 2); 1222±1226 bp in C. macellaria (n = 2); 986 bp in C. megacephala (n = 1); 1130 bp in L. eximia (n = 1) (Calliphoridae) and 1570±1569 bp in D. hominis (n = 2) (Oestridae).</p><p>Alignment of the control region sequences revealed speci®c patterns of structural organization. Two main subregions (domains A and B) were responsible for the distinct rates of nucleotide substitution. Domain A, which varied in size from 586 to 783 bp, was highly conserved, whereas the B domain sequences were highly divergent between species, varying from 393 to 794 bp in size. To increase the consistency of the data, further analysis was done by considering each domain independently. The A domain sequences aligned consistently in all species, even with the inclusion of D. hominis data, which increased the general sequence divergence. Eight conserved sequence blocks (CSB) were distributed near the 5¢ end of the aligned A domains (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>Further analysis to identify homologous sequence motifs was done using the unaligned A domain sequences and MAST software <ref type="bibr" target="#b1">(Bailey &amp; Gribskov, 1998)</ref>. Although this procedure was not as effective in recovering the previously reported CSBs, seven conserved motifs were observed along the control region, with a high degree of overlapping with the CSBs (Table <ref type="table">2</ref>). The MAST motifs not shared by all the species were not included in the ®nal diagram (Fig. <ref type="figure" target="#fig_2">2</ref>).</p><p>Arrangement of the seven motifs on the aligned sequences revealed a signi®cant association with the previously identi®ed   CSBs. Motif 1 was used to recover tRNA Ile sequences included in the analysis as an additional parameter. CSB VI was one of the largest conserved elements identi®ed in the alignment and included sequences from motifs 3 and 2. The poly-adenine region of CSB VIII indicates a second T-stretch on the opposite strand, which accurately matched motif 7. Conserved G/C sites were found in CSB II (4), CSB V (2), CSB VI (8) and CSB VII (1), while two consecutive G conserved sites were located after CSB VII in a Calliphoridae-speci®c G + A-rich conserved element (Fig. <ref type="figure" target="#fig_0">1</ref>).</p><p>A highly variable B domain was identi®ed in the 3¢ subregion of the mtDNA control region. Most of the length variation in this domain was attributable to insertion/deletion events and the presence of frequent short repetitive sequences in tandem, which were especially evident in D. hominis (largest B domain with ~793 bp). The hypervariable B domain contained extensive gaps when Oestridade and Calliphoridae species are aligned. However, even with the Calliphoridae, the high level of sequence divergence greatly increased the inconsistency of the resulting alignment of the B domain sequences.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Nucleotide content</head><p>The mean AT content was 91% for C. hominivorax, 87% for C. macellaria, 90.5% for L. eximia, 88.5% for C. megacephala and 91% for D. hominis. Transversions (tv) were more common than transitions (ts) in all comparisons between species, with a maximum ts : tv rate of 1 : 5.2 between L. eximia and C. megacephala and a minimum of 1 : 1.6 between C. hominivorax and C. macellaria. Analysis of the A domain nucleotide substitution frequencies showed an average of 75% for transversion events, of which 67±84% resulted from A«T replacements. The A domain sequences were used for these analyses instead of the total control region information, as the B domain provided low alignment con®dence and had not been analysed at this level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Phylogenetic data</head><p>The number of nucleotide substitutions per nucleotide site for the species studied was estimated using the method of <ref type="bibr" target="#b21">Tamura (1992)</ref>, taking into account the extremely high A + T content of the control region. No B domain sequences were included in this analysis. The distance matrix for Calliphoridae and Oestridae A domain sequences is shown in Table <ref type="table" target="#tab_1">3</ref>. If D. hominis is removed from the analysis to calculate distances based on a Calliphoridae-speci®c alignment of the A domain sequences, the resulting Calliphoridae matrix has slightly higher distance values which yield a very similar relationship to the results with D. hominis. Although functional constraints may operate at the conserved sites of the control region, variable sequences within the A domain were useful for ef®cient outgroup identi®cation (D. hominis) and correctly grouped together C. hominivorax and C. macellaria in neighbour-joining (NJ) analysis (Fig. <ref type="figure">3</ref>). However, the NJ tree incorrectly grouped C. megacephala and L. eximia, which are classi®ed in distinct subfamilies (Chrysomyinae and Luciliinae, respectively). The B domain sequences were too variable to guarantee consistent alignment and validate homologous sites for phylogenetic inferences at this taxonomic level. Even among the Calliphoridae species, no consensus sequences were accurately identi®ed. However, the B domain sequences could be used to align the Cochliomyia species with a high level of con®dence. Based on this alignment, the estimated <ref type="bibr" target="#b21">Tamura (1992)</ref> distance between C. hominivorax and C. macellaria was approximately 0.389. The hypervariable B domain evolved at least three times faster, based on nucleotide substitution rates, than the A domain between Cochliomyia species (see Tables <ref type="table" target="#tab_1">3</ref> and <ref type="table" target="#tab_2">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Zhang &amp; Hewitt (1997) have divided insect species into two groups based on the distribution of conserved sequence elements in the control region. The structural organization of the control region reported here for blow¯ies is similar to that for Drosophila species, but differs from the model proposed for Lepidoptera <ref type="bibr" target="#b23">(Taylor et al., 1993)</ref>, Orthoptera <ref type="bibr" target="#b27">(Zhang et al., 1995)</ref> and Anopheles <ref type="bibr" target="#b2">(Caccone et al., 1996)</ref>. The genetic variability in the species studied here is apparently restricted to a speci®c area in the major non-coding region, which suggests that sequences in the A domain may be under functional constraints. These ®ndings agree with previous analyses of the Drosophila A + T-rich region <ref type="bibr" target="#b4">(Clary &amp; Wolstenholme, 1987;</ref><ref type="bibr" target="#b11">Monforte et al., 1993;</ref><ref type="bibr" target="#b9">Lewis et al., 1994;</ref><ref type="bibr" target="#b6">Inohira et al., 1997)</ref>.</p><p>The organization observed here suggests that the replication/ transcription system may interact with cis regulatory elements present in the control region 5¢ end of Brachycera species. However, despite extensive sequence analysis, only CSB I and CSB VIII have been described as potentially associated with regulatory domains in insects. <ref type="bibr" target="#b9">Lewis et al. (1994)</ref> suggested that the positions and orientations of the two conserved thymidylate stretches indicated roles in promoting the transcription and replication of Drosophila mtDNA. The search for homologous conserved elements in Ceratitis capitata control region sequences <ref type="bibr" target="#b18">(Spanos et al., 2000)</ref> revealed the presence of long poly-T stretches close to the tRNA Ile gene and on the opposite strand. This ®nding strongly supports the idea that highly conserved poly-T sequences may play a fundamental role in the maintenance and function of mtDNA in higher Diptera. At least one of these poly-T stretches (close to the tRNA Ile gene) may have similar regulatory mechanisms in Orthopteran mtDNA <ref type="bibr" target="#b27">(Zhang et al., 1995)</ref>. It may be noticed that polymerase gamma requires the presence of a single-stranded DNA-binding protein for ef®cient elongation using poly-(dT) templates, T7 DNA polymerase has a similar requirement <ref type="bibr">(Mikhailov &amp; Bogenhagen, 1996)</ref>. Other conserved features of the control region include a dinucleotide pyrimidine-purine series in tandem (CSB II and III), which has also been reported for phylogenetically distant insect groups <ref type="bibr" target="#b27">(Zhang &amp; Hewitt, 1997)</ref>.</p><p>Although multiple and extensive intrastrand base pairing was common within conserved domains of the control region <ref type="bibr" target="#b9">(Lewis et al., 1994)</ref>, no conserved secondary structure could conclusively be assigned to the A domain sequences of the species studied here. The absence of a widely conserved secondary structure has been reported for D. melanogaster mtDNA <ref type="bibr" target="#b6">(Inohira et al., 1997)</ref>.</p><p>In addition to control region analysis, the nucleotide composition of the ¯anking srRNA 12S sequences was also determined in order to allow comparison of the average AT content of this region between Calliphoridae species and other dipterans. The average A + T composition of 82% found here was similar to the 79% reported for D. yakuba srRNA <ref type="bibr" target="#b3">(Clary &amp; Wolstenholme, 1985)</ref> and identical to the srRNA A + T content reported for Anopheles quadrimaculatus <ref type="bibr" target="#b11">(Mitchell et al., 1993)</ref>. The nucleotide composition of the control region was comparable to the Drosophila A + T content, which varies from 90% to 96% <ref type="bibr" target="#b3">(Clary &amp; Wolstenholme, 1985</ref><ref type="bibr">, 1987;</ref><ref type="bibr" target="#b12">Monnerot et al., 1990;</ref><ref type="bibr" target="#b9">Lewis et al., 1994)</ref> and to that of Anopheles gambiae <ref type="bibr">(Beard et al., 1993)</ref> and A. quadrimaculatus <ref type="bibr" target="#b11">(Mitchell et al., 1993)</ref>, which have an A + T content of 94%.</p><p>The A«T nucleotide substitution pattern of the control region sequences indicates selection for a high AT content. These data agree with the interpretation of <ref type="bibr" target="#b3">Clary &amp; Wolstenholme (1985)</ref>, who suggested that the maintenance of an AT biased composition may be important for optimizing energy-requiring processes in the replication system of dipteran species. Directional mutation pressure has been suggested to be responsible for the high A + T composition in insect mtDNA <ref type="bibr">(Jermiin et al., 1994)</ref> The incongruent phylogenetic arrangements derived from the present data indicate that the control region has limited usefulness for resolving taxonomic relationships among genera. At this level, control region sequences are in¯uenced considerably by the alignment parameters and distance estimation methodology, which in turn decrease the con®dence in homologous site inferences. The inclusion of additional species from diversi®ed Calliphoridae taxa may improve our understanding of phylogenetic usefulness of the control region in these group of organisms.</p><p>There are many questions concerning the ecological and evolutionary behaviour of blow¯ies species that could be elucidated using informative molecular markers. The colonization of the Americas by Chrysomya species has reportedly led to a reduction in the native ¯y fauna <ref type="bibr" target="#b5">(Ferreira, 1982;</ref><ref type="bibr">Prado &amp; Guimara Äes, 1982;</ref><ref type="bibr">Baumgartner &amp; Greenberg, 1984)</ref>. The decrease in the genetic variability of C. macellaria populations has been associated with the presence of Chrysomya <ref type="bibr" target="#b26">(Valle &amp; Azeredo-Espin, 1995)</ref>. However, the exact source of New World Chrysomya remains to be de®ned. The controversial taxonomic status of C. albiceps (Wiedmann) and C. ru®facies (Maquart) has recently been investigated using mtDNA markers, which provide an unambiguous approach to species identi®cation <ref type="bibr" target="#b25">(Wells &amp; Sperling, 1999)</ref>. In Latin America, where the distributions of these species overlap <ref type="bibr" target="#b22">(Tantawi &amp; Greenberg, 1993)</ref>, the investigation of useful mitochondrial and nuclear DNA markers may be important in ecological, forensic and genetic studies.</p><p>Control region sequences can be very informative when traditional mtDNA markers show low or inadequate levels of genetic variability. The recent report of primary myiasis caused by L. eximia in Brazil <ref type="bibr" target="#b1">(Azeredo Espin &amp; Madeira, 1996)</ref> suggests that it would be important to investigate the evolutionary processes related to these facultative species.</p><p>The complete control region sequences provided information about which Calliphoridae and Oestridae species would be useful in designing primers for each domain. This approach could lead to the development of PCR-RFLP diagnostic tests and the screening of suitable markers directly on mtDNA hypervariable sequences. The identi®cation of species-speci®c restriction sites in these myiasis-causing ¯ies could improve the study of individual variation by providing a useful PCR-RFLP marker for genetic polymorphism. Interspeci®c analyses of speci®c mtDNA regions have already been carried out with blow¯ies in an attempt to identify diagnostic markers for species-speci®c identi®cation in forensic investigations <ref type="bibr" target="#b19">(Sperling et al., 1994)</ref>, calliphorid taxonomy <ref type="bibr" target="#b20">(Stevens &amp; Wall, 1997;</ref><ref type="bibr" target="#b25">Wells &amp; Sperling, 1999)</ref> and in the monitoring and control of screwworm ¯ies <ref type="bibr" target="#b24">(Taylor et al., 1996)</ref>.</p><p>Our preliminary search for diagnostic restriction sites using the program WebCutter 2.0 <ref type="bibr" target="#b6">(Heiman, 1997)</ref>, con®rmed by experimental analysis, revealed ®ve restriction sites that unambiguously identify C. hominivorax and C. macellaria in Brazilian screwworm populations <ref type="bibr">(Litjens et al., unpublished)</ref>. This observation demonstrates the potential applicability of control region sequences to population genetic studies and to the phylogeny of closely related species.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Alignment of the nucleotide sequences of the A domain in the control region of Calliphoridae and Oestridae species. Differences from the sequence for D. hominis 1 are indicated for each species. Conserved sequence blocks are underlined and identi®ed (I±VIII). Conserved Calliphoridae-speci®c sequences are indicated by an asterisk. A dot indicates site identity with D. hominis 1. Gaps are indicated by dashes. A D. hominis-speci®c sequence indicative of size variation is delimited by vertical arrows. The numbers 1 and 2 indicate individuals from distinct populations.</figDesc><graphic coords="4,80.96,107.04,433.56,538.68" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Continued</figDesc><graphic coords="5,58.78,69.77,436.92,590.64" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. MAST diagram for A domain sequences for all species investigated. Identi®ed conserved motifs are identi®ed as M1 to M7. Note that M1 corresponds to tRNA Ile gene sequences. * indicates the location of this motif in the complementary strand (poly-A stretch). The nucleotide content of each motif is indicated in Table 2. Overlaps with conserved sequence blocks (CSB) are delimited by arrows. Ch = C. hominivorax, Cm = C. macellaria, Le = L. eximia, Cg = C. megacephala and Dh = D. hominis. The numbers 1 and 2 indicate individuals from different populations. The CSB denomination used to indicate conserved elements in these species has no relationship with the vertebrate mtDNA control region nomenclature.</figDesc><graphic coords="6,59.53,553.16,476.04,87.96" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Table 2 .</head><label>2</label><figDesc>Fig. 3. Neighbour-joining tree obtained with control region A domain sequences using Tamura (1992) distance method. Bootstrap values are indicated. The numbers 1 and 2 indicate individuals from different populations.</figDesc><graphic coords="7,60.43,239.20,474.72,132.84" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 3 .</head><label>3</label><figDesc><ref type="bibr" target="#b21">Tamura (1992)</ref> distance matrix for Calliphoridae and Oestridae A domain sequences. C. homi. = C. hominivorax, C. mace. = C. macellaria, L. exim. = L. eximia, C. mega. = C. megacephala and D. homi. = D. hominis. The upper-right matrix indicates the distance and the lower-left matrix indicates the standard error. Gap sites and missing information were removed from the analysis.</figDesc><table><row><cell></cell><cell>D. homi. 1</cell><cell>D. homi. 2</cell><cell>C. mace. 1</cell><cell>C. mace. 2</cell><cell>C. homi. 1</cell><cell>C. homi. 2</cell><cell>L. exim. 1</cell><cell>C. mega. 1</cell></row><row><cell>D. homi. 1</cell><cell></cell><cell>0.0096</cell><cell>0.2801</cell><cell>0.2793</cell><cell>0.2927</cell><cell>0.2994</cell><cell>0.2980</cell><cell>0.3022</cell></row><row><cell>D. homi. 2</cell><cell>0.0044</cell><cell></cell><cell>0.2668</cell><cell>0.2662</cell><cell>0.2860</cell><cell>0.2926</cell><cell>0.2914</cell><cell>0.2955</cell></row><row><cell>C. mace. 1</cell><cell>0.0298</cell><cell>0.0285</cell><cell></cell><cell>0.0076</cell><cell>0.0981</cell><cell>0.1057</cell><cell>0.2104</cell><cell>0.2120</cell></row><row><cell>C. mace. 2</cell><cell>0.0296</cell><cell>0.0283</cell><cell>0.0038</cell><cell></cell><cell>0.0977</cell><cell>0.1052</cell><cell>0.2046</cell><cell>0.2117</cell></row><row><cell>C. homi. 1</cell><cell>0.0309</cell><cell>0.0303</cell><cell>0.0153</cell><cell>0.0151</cell><cell></cell><cell>0.0097</cell><cell>0.1995</cell><cell>0.1992</cell></row><row><cell>C. homi. 2</cell><cell>0.0316</cell><cell>0.0309</cell><cell>0.0161</cell><cell>0.0160</cell><cell>0.0044</cell><cell></cell><cell>0.2085</cell><cell>0.2018</cell></row><row><cell>L. exim. 1</cell><cell>0.0311</cell><cell>0.0305</cell><cell>0.0241</cell><cell>0.0236</cell><cell>0.0232</cell><cell>0.0241</cell><cell></cell><cell>0.1828</cell></row><row><cell>C. mega. 1</cell><cell>0.0317</cell><cell>0.0310</cell><cell>0.0240</cell><cell>0.0239</cell><cell>0.0231</cell><cell>0.0234</cell><cell>0.0217</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_2"><head>Table 4 .</head><label>4</label><figDesc>Cochliomyia intrageneric analysis: Tamura (1992) distance for B domain sequences. SE indicates standard errors. Gap sites and missing information were removed from the analysis.</figDesc><table><row><cell>Control region B domain</cell><cell></cell></row><row><cell>Species</cell><cell>Tamura distance (SE)</cell></row><row><cell>C. hominivorax 1 3 C. hominivorax 2</cell><cell>0.0039 (0.0028)</cell></row><row><cell>C. hominivorax 1 3 C. macellaria 1</cell><cell>0.3878 (0.0410)</cell></row><row><cell>C. hominivorax 1 3 C. macellaria 2</cell><cell>0.3920 (0.0416)</cell></row><row><cell>C. hominivorax 2 3 C. macellaria 1</cell><cell>0.3878 (0.0410)</cell></row><row><cell>C. hominivorax 2 3 C. macellaria 2</cell><cell>0.3920 (0.0416)</cell></row><row><cell>C. macellaria 1 3 C. macellaria 2</cell><cell>0.0077 (0.0039)</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>13652915, 2000, 1, Downloaded from https://resjournals.onlinelibrary.wiley.com/doi/10.1046/j.1365-2915.2000.00209.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [21/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p># 2000 Blackwell Science Ltd, Medical and Veterinary Entomology, 14, 71±80 74 A. C. Lessinger and A. M. L. Azeredo-Espin 74 A. C. Lessinger and A. M. L. Azeredo-Espin 13652915, 2000, 1, Downloaded from https://resjournals.onlinelibrary.wiley.com/doi/10.1046/j.1365-2915.2000.00209.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [21/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_2"><p># 2000 Blackwell Science Ltd, Medical and Veterinary Entomology, 14, 71±80 78 A. C.Lessinger and A. M. L. Azeredo-Espin  </p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank <rs type="person">M. C. Arias</rs> for helpful comments and suggestions on sequencing and sequence analysis, <rs type="person">R. A. Rodrigues</rs>, <rs type="person">M. S. do Couto</rs> and <rs type="person">M. C. Filho</rs> for valuable technical assistance and two anonymous referees for their critical review of the manuscript. This research was supported by <rs type="funder">Fundac Ëa Äo de Amparo a Á Pesquisa do Estado de Sa Äo Paulo</rs> (<rs type="grantName">FAPESP grant</rs> <rs type="grantNumber">95/8856-1</rs>) and <rs type="funder">PADCT/CNPq</rs> grant <rs type="grantNumber">620097/ 95-7</rs> to A.M.L.A.E. A.C.L. was supported by a fellowship from the <rs type="funder">Conselho Nacional de Desenvolvimento Cientõ Â®co e Tecnolo Âgico (CNPq, Brazil)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_ZnY5et3">
+					<idno type="grant-number">95/8856-1</idno>
+					<orgName type="grant-name">FAPESP grant</orgName>
+				</org>
+				<org type="funding" xml:id="_GYB5sEK">
+					<idno type="grant-number">620097/ 95-7</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA Variability in Geographic Populations of Screwworm Fly from Brazil</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Madden</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Scha Èffer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<editor>
+			<persName><surname>Brazil</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="161" to="165" />
+			<date type="published" when="1987">1997. 1987. 1993</date>
+			<publisher>International Atomic Energy Agency</publisher>
+			<pubPlace>Vienna</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Gapped BLAST and PSI-BLAST: a new generation of protein data base search programs</note>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">The mitochondrial genome of the mosquito Anopheles gambiae: DNA sequence, genome organization and comparisons with mitochondrial sequence of other insects</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">L</forename><surname>Bailey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Gribskov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Beard</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Hamm</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Collins</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">105</biblScope>
+			<biblScope unit="page" from="2" to="103" />
+			<date type="published" when="1984">1996. 1998. 1984. 1993</date>
+		</imprint>
+	</monogr>
+	<note>Combining evidence using pvalues: application to sequence homology searches Bioinformatics The genus Chrysomya (Diptera: Calliphoridae) in the New World Journal of Medical Entomology Primary myiasis in dog caused by Phaenicia eximia (Diptera: Calliphoridae) and preliminary mitochondrial DNA analysis of the species in Brazil Insect Molecular Biology</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Evolution of the # 2000 Blackwell Science Ltd, Medical and Veterinary Entomology, 14, 71±80 Mitochondrial DNA in myiasis-causing ¯ies 79 Mitochondrial DNA in myiasis-causing ¯ies 79 13652915</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Caccone</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Garcia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Powell</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-2915.2000.00209</idno>
+		<idno>21/01/2026</idno>
+		<ptr target="https://onlinelibrary.wiley.com/terms-and-conditions)onWiley" />
+	</analytic>
+	<monogr>
+		<title level="m">See the Terms and Conditions</title>
+		<imprint>
+			<date type="published" when="1996">1996. 2000</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">59</biblScope>
+		</imprint>
+		<respStmt>
+			<orgName>UFMA -Universidade Federal do Maranhao</orgName>
+		</respStmt>
+	</monogr>
+	<note>Online Library for rules of use; OA articles are governed by the applicable Creative Commons License mitochondrial DNA control region in the Anopheles gambiae complex Wiley Online Library</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">The mitochondrial DNA molecule of Drosophila yakuba: nucleotide sequence, gene organization and genetic code</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Clary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Wolstenholme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Evolution</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">252</biblScope>
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Drosophila mitochondrial DNA: conserved sequences in the A+T-rich region and supporting evidence for a secondary structure model of the small ribosomal RNA</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">O</forename><surname>Clary</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Wolstenholme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Evolution</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">125</biblScope>
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Sinatropia de Calliphoridae (Diptera) em Goia Ãnia, Goia Âs</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">199</biblScope>
+			<biblScope unit="page">210</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nucleotide sequence divergence in the A+T-rich region of mitochondrial DNA in Drosophila simulans and Drosophila mauritiana</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Heiman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Inohira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Matsuura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">T</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Jermiin</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Graur</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">M</forename><surname>Lowe</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Crozier</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page">160</biblScope>
+			<date type="published" when="1994">1997. 1995. 1997. 1994</date>
+		</imprint>
+	</monogr>
+	<note>Genetic variability in mitochondrial DNA of screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae), from Brazil Biochemical Genetics Analysis of directional mutation pressure and nucleotide content in mitochondrial cytochrome b genes Journal of Molecular Evolution</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">MEGA: Molecular Evolutionary Genetics Analysis, Version 1.01</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Kumar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Nei</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<pubPlace>University Park, Pennsylvania</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>The Pennsylvania State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">An algorithm for the display of nucleic acid secondary structure</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Lapalme</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Cedergren</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sankoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">836</biblScope>
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Sequence, organization, and evolution of the A+T region of Drosophila melanogaster mitochondrial DNA</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Farr</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Farquhar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Kaguni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">538</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Chemistry</title>
+		<imprint>
+			<biblScope unit="volume">271</biblScope>
+			<biblScope unit="page">30780</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The mitochondrial genome of Anopheles quadrimaculatus species A: complete nucleotide sequence and gene organization</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">E</forename><surname>Mitchell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Cockburn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Seawright</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Monforte</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Barrio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Latorre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Evolution</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page">223</biblScope>
+			<date type="published" when="1058">1993. 1058. 1993</date>
+		</imprint>
+	</monogr>
+	<note>Characterisation of the length polymorphism in the A+T-rich region of the Drosophila obscura group species Genome</note>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Discrepancy in divergence of the mitochondrial and nuclear genomes of Drosophila teissieri and Drosophila yakuba</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Monnerot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Solignac</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Wolstenholme</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Evolution</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">508</biblScope>
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Entomologia</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">231</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">The neighbor±joining method: a new method for reconstructing phylogenetic trees</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Hsu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Gillevet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Molecular Cloning: A Laboratory Manual</title>
+		<editor>
+			<persName><forename type="first">J</forename><surname>Sambook</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">E</forename><forename type="middle">F</forename><surname>Fritsch</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">T</forename><surname>Maniatis</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Cold Spring Harbor, New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cold Spring Harbor Laboratory Press</publisher>
+			<date type="published" when="1987">1996. 1987. 1989</date>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+	<note>Sequencing homopolymer tracts and repetitive elements Biotechniques</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Mitochondrial transcription initiation: variation and conservation</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Shadel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Clayton</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Biological Chemistry</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Shadel</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Clayton</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">268</biblScope>
+			<biblScope unit="page">435</biblScope>
+			<date type="published" when="1993">1993. 16083±16086. 1997</date>
+		</imprint>
+	</monogr>
+	<note>Mitochondrial DNA maintenance in vertebrates Annual Reviews of Biochemistry</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Molecular systematics of the species boundary: exploiting conserved and variable regions of the mitochondrial genome of animals via direct sequencing from ampli®ed DNA</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Simon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Molecular Techniques in Taxonomy</title>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Hewitt</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">A</forename><forename type="middle">W B</forename><surname>Johnston</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename></persName>
+		</editor>
+		<meeting><address><addrLine>Berlin</addrLine></address></meeting>
+		<imprint>
+			<publisher>Springer Verlag</publisher>
+			<date type="published" when="1991">1991</date>
+			<biblScope unit="page" from="33" to="71" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Evolution, weighting and phylogenetic utility of mitochondrial DNA sequences and a compilation of conserved polymerase chain reaction primers</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Simon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Frati</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Beckenbach</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Crespi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Flook</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society</title>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Ceratitis capitata sequence</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Spanos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Koutroumbas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kotsyfakis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Louis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Insect Molecular Biology</title>
+		<imprint>
+			<biblScope unit="page">651</biblScope>
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+	<note>America in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">A DNA-based approach to the identi®cation of insect species used for postmorten interval estimation</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A H</forename><surname>Sperling</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Anderson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Hickey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Forensic Sciences</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">427</biblScope>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">The evolution of ectoparasitism in the genus Lucilia (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">59</biblScope>
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Estimation of the number of nucleotide substitutions when there are strong transition-transversion and G+C-content biases</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Tamura</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">687</biblScope>
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Chrysomya albiceps and C. ru®facies (Diptera: Calliphoridae) contribution to an ongoing taxonomic problem</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">I</forename><surname>Tantawi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">648</biblScope>
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">The lepidopteran mitochondrial control region: structure and evolution</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">F J</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Mckechnie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Pierce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kreitman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="1259" to="1272" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Clustal W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, positions-speci®c gap penalties and weight matrix choice</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Szalanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Ii ; Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Gibson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">4680</biblScope>
+			<date type="published" when="1994">1996. 1994</date>
+		</imprint>
+	</monogr>
+	<note>Identi®cation of screwworm species by polymerase chain reaction±restriction fragment length polymorphism Nucleic Acids Research</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Molecular phylogenetics of Chrysomya albiceps and Chrysomya ru®facies (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A H</forename><surname>Sperling</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="222" to="226" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Mitochondrial DNA variation in two Brazilian populations of C. macellaria (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">S</forename><surname>Valle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian Journal of Genetics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="521" to="526" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Insect mitochondrial control region: a review of its structure, evolution and usefulness in evolutionary studies</title>
+		<author>
+			<persName><forename type="first">D.-X</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Hewitt</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemical and Systematics Ecology</title>
+		<editor>
+			<persName><forename type="first">D.-X</forename><surname>Zhang</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Szymura</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Hewitt</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">391</biblScope>
+			<date type="published" when="1995">1997. 1995</date>
+		</imprint>
+	</monogr>
+	<note>Evolution and structural conservation of the control region of insect mitochondrial DNA Journal of Molecular Evolution</note>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Computer prediction of RNA structure</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Zuker</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Blackwell Science Ltd, Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">180</biblScope>
+			<biblScope unit="page">80</biblScope>
+			<date type="published" when="1989-10-26">1989. 26 October 1999. 2000</date>
+		</imprint>
+	</monogr>
+	<note>Methods in Enzymology</note>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

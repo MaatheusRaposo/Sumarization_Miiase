@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">The influence of temperature and humidity on abundance and richness of Calliphoridae (Diptera)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Rodrigo</forename><forename type="middle">R</forename><surname>Azevedo</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> . Universidade Federal de Pelotas , Instituto de Biologia , Laboratório de Ecologia de Parasitos e Vetores , Campus Universitário s/n, caixa postal 354 , 96010-000 , Pelotas , RS , Brasil.</note>
+								<orgName type="laboratory">Laboratório de Ecologia de Parasitos e Vetores</orgName>
+								<orgName type="institution" key="instit1">Universidade Federal de Pelotas</orgName>
+								<orgName type="institution" key="instit2">Instituto de Biologia</orgName>
+								<address>
+									<addrLine>Campus Universitário s/n, caixa postal 354</addrLine>
+									<postCode>96010-000</postCode>
+									<settlement>Pelotas</settlement>
+									<region>RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Rodrigo</forename><forename type="middle">F</forename><surname>Krüger</surname></persName>
+							<email>rodrigorickes@hotmail.com</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> . Universidade Federal de Pelotas , Instituto de Biologia , Laboratório de Ecologia de Parasitos e Vetores , Campus Universitário s/n, caixa postal 354 , 96010-000 , Pelotas , RS , Brasil.</note>
+								<orgName type="laboratory">Laboratório de Ecologia de Parasitos e Vetores</orgName>
+								<orgName type="institution" key="instit1">Universidade Federal de Pelotas</orgName>
+								<orgName type="institution" key="instit2">Instituto de Biologia</orgName>
+								<address>
+									<addrLine>Campus Universitário s/n, caixa postal 354</addrLine>
+									<postCode>96010-000</postCode>
+									<settlement>Pelotas</settlement>
+									<region>RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">The influence of temperature and humidity on abundance and richness of Calliphoridae (Diptera)</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0073-4721</idno>
+					</monogr>
+					<idno type="MD5">9C0F55AA9FAEBAA253BF1086173055C6</idno>
+					<note type="submission">Received 22 December 2012. Accepted 19 June 2013.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Blow flies</term>
+					<term>diversity</term>
+					<term>GLM</term>
+					<term>models</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The blowfly species are important components in necrophagous communities of the Neotropics. Besides being involved in the degradation of animal organic matter, they may serve as vectors for pathogens and parasites, and also cause primary and secondary myiasis. The occurrence pattern of these species is well defined, yet it is still not very clear which of these environmental factors determine the structure of the assemblies. This paper was developed to evaluate the influence of mean temperature and relative humidity variation in the abundance and richness of blowflies in the Brazilian southernmost state, Rio Grande do Sul, where temperature variation is well marked throughout the year. To evaluate this objective, WOT (Wind Oriented Trap) were installed with beef liver as bait in three environments for 10 consecutive days in each month between July 2003 and June 2004. A total of 13,860 flies were collected distributed among 16 species with a higher frequency of Lucilia eximia (Wiedemann, 1819)  and Chrysomya albiceps (Wiedemann, 1819). The mean temperature and relative humidity influence the richness of blowflies, with greater richness and abundance in late spring and early summer, whereas abundance was only influenced by temperature. Each species responded differently with respect to these variables, where L. eximia is not influenced by any of the two abiotic factors, despite the high abundance presented. This paper presents the results of the sensitivity for the presence or absence of species of Calliphoridae and on the variation of the abundance of these species under regime temperature changes and relative humidity with implications for public health and animal management.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In recent years, species distribution models for inference of theoretical and practical questions about climate change and its influence on the probability of occurrence of species have been looked for <ref type="bibr" target="#b14">(Loarie et al., 2008)</ref>. In these prediction models, the central problem is to use information about where a species occurs and on the relevant environmental factors. Typically the space variable is not considered and the models are based on two main assumptions: (1) that environmental factors are the main determinants of species distribution and (2) species have reached or almost reached equilibrium in function of these factors <ref type="bibr" target="#b22">(Schwartz et al., 2006)</ref>. These assumptions behind the species distribution modeling have two analytical approaches, generalized linear models (GLM) and generalized additive models (GAM). The GAM model tends to fit the data better than the GLM model, since it employs additional parameters, but lose simplicity in interpretation, which can be obtained from the GLM model depending on the number of variables used <ref type="bibr" target="#b6">(Chakraborty et al., 2010)</ref>.</p><p>These models have been rarely used in checking the distribution pattern of Calliphoridae species and their abundance as a function of time. Along this axis of analysis it is possible to verify the influence of environmental factors on the occurrence of these species. In general, works on the variation of species richness (S) and abundances of species of Calliphoridae were restricted simply to synanthropy analyzes, based on indexes or ecological correlations, usually pseudo replicated.</p><p>The blowfly species are of great importance for human and other animals health. They cause myiasis in humans and other animals, and because of their feeding and oviposition behavior in decomposing organic remains, such as city dumps, carcasses, sewage, feces and rotting fruit, they gain high importance as vectors of pathogens, causing various types of diseases <ref type="bibr" target="#b12">(Guimarães &amp; Papavero, 1999)</ref>. This fact is aggravated by their high degree of association with the anthropic environment <ref type="bibr" target="#b26">(Vianna et al., 1998;</ref><ref type="bibr" target="#b25">Souza &amp; Zuben, 2012)</ref>. Some species can also be used in criminal investigations, allowing an estimate of postmortem interval (PMI) and the detection of antemortem drugs and toxins <ref type="bibr" target="#b3">(Carvalho &amp; Linhares, 2001;</ref><ref type="bibr" target="#b17">Pujol-Luz et al., 2008)</ref>.</p><p>Despite the importance of this group, the knowledge</p><p>The influence of temperature and humidity on abundance and richness...</p><p>of the influence of mean temperature and relative humidity on the occurrence of the blowfly species is incipient, as well as their abundances using robust statistical models that provide for the interaction of these variables. Therefore, the objective of this study was to evaluate the influence of these two abiotic factors on the variation of abundance and species richness of Calliphoridae in southern Rio Grande do Sul.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL AND METHODS</head><p>Samples were collected between July 2003 and June 2004 at three sites in the region of Pelotas, state of Rio Grande do Sul, Brazil: Area A (31°45'23.51"S, 52°21'45.80"W), headquarters of the 9th Motorized Infantry Battalion, located in the neighborhood Fragata about 2.5 km from the center of the city of Pelotas with sparse and introduced vegetation; Area B (31°48'14.39"S, 52°24'12.94"W), dam in the Canal São Gonçalo on the municipality of Capão do Leão, located about 13 Km from the center of the city of Pelotas, where cattle is predominant in the margins of the Lagoa do Fragata, where there is a dominance of grasses and vegetation characteristic of wetlands; and Area C (31°48'55.49"S, 52°25'53.04"W), Botanical Garden Irmão Luiz Theodoro, municipality of Capão do Leão, located approximately 15.5 km from the center of the city of Pelotas with vegetation characteristic of Atlantic forest.</p><p>We used three WOT (Wind Oriented Trap) traps, a trap for area, containing bovine liver. The traps were prepared according to the model of <ref type="bibr" target="#b1">Broce et al. (1977)</ref> modified by <ref type="bibr" target="#b16">Oliveira et al. (1982)</ref> and used by <ref type="bibr" target="#b26">Vianna et al. (1998</ref><ref type="bibr" target="#b27">Vianna et al. ( , 2004) )</ref> for Calliphoridae and <ref type="bibr" target="#b7">Costa et al. (2000)</ref> for the species of Ophyra Wiedemann, 1830 (Diptera, Muscidae), both in southern Brazil.</p><p>The trap was tied on branches of trees to a height of about 1.20 meter from the ground. The installation of the traps occurred on the tenth day of each month and samples were collected in the thirteenth, sixteenth and twentieth day of each month. The trap was removed from the field after 10 days. Within each trap a plastic container with 300 g liver was placed and remained in the trap for 10 days. Samples were collected in the thirteenth, sixteenth and twentieth day of each month. The samples were taken between 8 and 12 a.m. Each container was covered with tulle to prevent the fall of individuals into the substrate (liver).</p><p>Measures of mean temperature and relative humidity were obtained in Estação Agroclimatológica de Pelotas (Capão do Leão), near to the areas.</p><p>Data analysis. The influence of mean temperature (MT) and relative humidity (RH) of the sampling period (10 days) in species richness (S), total abundance and abundance of species was evaluated by generalized linear model (GLM) with quasi-Poisson distribution. The similarity between the models constructed for both S and for abundance was tested by chi-square test (χ 2 ) as suggested by <ref type="bibr" target="#b8">Crawley (2007)</ref>.</p><p>The sites were used as replicas for estimates of abundance and S to avoid spatial and temporal pseudo replication. The tests were performed in the statistical program R (R Development Team, 2011), considering P &lt;0.05.</p><p>Identification of specimens. The identification of specimens was based on <ref type="bibr" target="#b2">Carvalho &amp; Ribeiro (2000)</ref>. A reference collection was deposited in the Padre Jesus Santiago Moure, Departamento de Zoologia Collection, Universidade Federal do Paraná (UFPR) and another is in the Diptera Collection of the Laboratório de Ecologia de Parasitos e Vetores (LEPAV), Departamento de Microbiologia e Parasitologia, Universidade Federal de Pelotas (UFPel).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTS</head><p>A total of 13,860 flies belonging to 16 species were collected, with Chrysomya albiceps and Lucilia eximia being the most abundant species (Tab. I).</p><p>Tab. I. Abundance (Ab) and relative frequency (%) of blowfly species, captured in WOT trap baited with liver in all three environments of the region of Pelotas and Capão do Leão, RS, from July 2003 to June 2004.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Environments</head><p>Species A B C Total Ab % Ab % Ab % Calliphora lopesi Mello, 1962 14 17 49 59.8 19 23.2 82 Calliphora vicina Robineau-Desvoidy, 1830 54 54 0 0 0 0 54 Chloroprocta idiodea (Robineau-Desvoidy, 1830) 1 11.1 1 11.1 7 77.8 9 Chrysomya albiceps (Wiedemann, 1819) 2,486 47.6 787 15.1 1,947 37.3 5,220 Chrysomya megacephala (Fabricius, 1794) 208 73 14 4.9 63 22.1 285 Chrysomya putoria (Wiedemann, 1818) 19 55.9 0 0 15 44.1 34 Cochliomyia hominivorax (Coquerel, 1858) 2 18.2 3 27.3 6 54.5 11 Cochliomyia macellaria (Fabricius, 1775) 16 20 22 27.5 42 52.5 80 Hemilucilia segmentaria (Fabricius, 1805) 0 0 2 66.7 1 33.3 3 Hemilucilia semidiaphana (Rondani, 1850) 37 5.5 109 16.3 524 78.2 670 Hemilucilia souzalopesi Mello, 1972 0 0 0 0 13 100 13 Lucilia cuprina (Wiedemann, 1830) 228 98.7 3 1.3 0 0 231 Lucilia eximia (Wiedemann, 1819) 2,320 36 3,255 50.6 863 13.4 6,438 Lucilia sericata (Meigen, 1826) 4 66.6 1 16.7 1 16.7 6 Paralucilia xanthogeneiates Dear, 1985 27 3.8 274 38.3 414 57.9 715 Sarconesia chlorogaster (Wiedemann, 1830) 2 22.2 7 77.8 0 0 9 Total 5,418 39.1 4,527 32.7 3,915 28.2 13,860</p><p>The relative humidity (RH) and mean temperature (MT) of the sample period (Tab. II) influenced the variation of S throughout the year (Fig. <ref type="figure" target="#fig_0">1</ref>, χ 2 = 80.63, df =1,35, p = 0.016), while the abundance was influenced only by the mean temperature (Fig. <ref type="figure">2</ref>, χ 2 =15,758.5, df=1,35, P=0.002) and not by RH (χ 2 =14,905.5, df=1,35, P=0.5).</p><p>Seasonality and monthly frequency of species. According to Figs 3-8, we can identify three groups of species that fit into characteristic patterns of abundance in relation to the months of the year. The first group consisting of C. vicina (Fig. <ref type="figure" target="#fig_1">3</ref>), H. semidiaphana (Fig. <ref type="figure" target="#fig_3">6</ref>), H. souzalopesi (Fig. <ref type="figure" target="#fig_3">6</ref>), L. cuprina (Fig. <ref type="figure" target="#fig_6">7</ref>), L. eximia (Fig. <ref type="figure" target="#fig_6">7</ref>), C. idiodea (Fig. <ref type="figure" target="#fig_5">8</ref>), P. xanthogeniates (Fig. <ref type="figure" target="#fig_5">8</ref>) and S. chlorogaster (Fig. <ref type="figure" target="#fig_5">8</ref>) occur in high abundance between October and December. The other group consists of the species C. albiceps (Fig. <ref type="figure" target="#fig_2">4</ref>), C. megacephala (Fig. <ref type="figure" target="#fig_2">4</ref>), C. putoria (Fig. <ref type="figure" target="#fig_2">4</ref>), C. hominivorax (Fig. <ref type="figure" target="#fig_4">5</ref>) and C. macellaria (Fig. <ref type="figure" target="#fig_4">5</ref>) which occur in high abundance between December and March, with a peak of population in late summer in the southern hemisphere. The third group consists of species that was not possible to adjust</p><p>Tab. II. Mean temperature (°C) (MT) and relative humidity (RH) of the sampling period in the region of Pelotas and Capão do Leão, RS, Brazil, between July 2003 and June 2004. Month MT RH July 12.6 85.0 August 12.3 85.7 September 14.2 83.8 October 18.3 79.1 November 19.9 79.0 December 20.6 75.7 January 23.0 82.8 February 22.5 77.2 March 21.3 80.6 April 20.0 83.9 May 14.7 89.5 June 14.2 89.3 Fig. 2. Abundance of Calliphoridae as a function of mean temperature (°C) in the region of Pelotas and Capão do Leão, RS, Brazil between July 2003 and June 2004. The curve corresponds to the generalized linear model (GLM) with quasi-Poisson distribution.</p><p>to the other two groups, such as C. lopesi (Fig. <ref type="figure" target="#fig_1">3</ref>), H. segmentaria (Fig. <ref type="figure" target="#fig_3">6</ref>) and L. sericata (Fig. <ref type="figure" target="#fig_6">7</ref>).</p><p>The evaluation of the influence of MT and the RH and the interaction of these two variables using the GLM model in the abundance of species of Calliphoridae revealed five patterns with respect to the statistical models considered (Tab. III): i) without influence of any of the variables; ii) with influence of RH and the interaction between this variable and MT, with no influence of isolated MT; iii) influence of only the MT; iv) influence of only the RH and v) influence of only the MT and RH with no interaction between the two variables. In seven species was not possible to establish a robust model because of low abundance (&lt;50 flies) (see Tab. I).    The influence of temperature and humidity on abundance and richness...  </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>A significant shift in the blowfly faunal structure was observed in the field experiment between seasons. The spring fauna persist up until the decrease of RH on late summer, in march-april. In the late summer the richness decreased dramatically on all localities. The relative dominance of different genera also changed considerably. Subsequently, a new fauna emerged with Chrysomya and Cochliomyia species.</p><p>The pattern of seasonality of L. eximia and C. albiceps observed in this study is in accordance with other studies in the same region <ref type="bibr" target="#b26">(Vianna et al., 1998</ref><ref type="bibr" target="#b27">(Vianna et al., , 2004;;</ref><ref type="bibr" target="#b24">Souza et al., 2008;</ref><ref type="bibr" target="#b13">Krüger et al., 2010)</ref>. There was a numerical dominance of L. eximia in winter, spring and autumn while C. albiceps was numerically dominant in summer at all sites, with a marked decrease in the frequency of occurrence of L. eximia in this season. <ref type="bibr" target="#b15">Moretti et al. (2008)</ref> and <ref type="bibr" target="#b13">Krüger et al. (2010)</ref> attributed this pattern to three possibilities: i) the type and size of substrates in each season; ii) optimum conditions for the development and iii) the capacity of predation of C. albiceps. The short interval between generations at high temperatures <ref type="bibr">(Queiroz &amp; Milwardde-Azevedo, 1991;</ref><ref type="bibr" target="#b13">Krüger et al., 2010)</ref> and the high predation capacity of C. albiceps are factors that can be affect the abundance of other Calliphoridae that colonizes ephemeral resources, such as L. eximia during the southern hemisphere summer. Models to check the influence of randomness on population fluctuations of C. albiceps and L. eximia, based on data of South American populations have shown that intrinsic factors such as predation are more important than the extrinsic (environmental factors) to explain the variation in the abundance of these two species <ref type="bibr" target="#b11">(Godoy et al., 2001;</ref><ref type="bibr" target="#b23">Silva et al., 2003;</ref><ref type="bibr" target="#b10">Gião &amp; Godoy, 2006)</ref>. This observation supports the third explanation of <ref type="bibr" target="#b15">Moretti et al. (2008)</ref> and <ref type="bibr" target="#b13">Krüger et al. (2010)</ref> aforementioned and is supported by the observed data in southern Brazil to explain the antagonistic fluctuation of C. albiceps and L. eximia. Only the abundance of C. albiceps responds positively to increased temperature, whereas the abundance of L. eximia is not explained by abiotic factors, probably due to the influence of the occurrence in high abundance of C. albiceps.</p><p>Density-independent factors such as MT and RH are important in determining the richness (Fig. <ref type="figure" target="#fig_0">1</ref>) and MT in determining abundance (Fig. <ref type="figure">2</ref>) of blowflies in southern Brazil and other regions of South America, as in the province of Buenos Aires in Argentina <ref type="bibr" target="#b5">(Centeno et al., 2002)</ref>, São Paulo <ref type="bibr" target="#b3">(Carvalho &amp; Linhares, 2001;</ref><ref type="bibr" target="#b4">Carvalho et al., 2004)</ref> and in the cerrado of Minas Gerais <ref type="bibr" target="#b20">(Rosa et al., 2009</ref><ref type="bibr" target="#b21">(Rosa et al., , 2011))</ref>, although the tests used are very different from the GLM models used in this study. The seasonality influenced the establishment of blowfly species through the MT and RH, and these two variables influenced the population fluctuation of each species differently, except the abundance of L. <ref type="bibr">eximia, C. lopesi, C. macellaria, and L. cuprina.</ref> With the eminent climate changes, increased warming and decreased humidity, there is a strong tendency for carrion flies communities to be impacted as shown by the analyses performed in the present study. The increase in temperature and reduction of relative humidity interactions are very important in determining the occurrence of most species of this family in an area, considering the intervals of data interpolation shown in this study. But not all species respond similarly because they have a single set of reactions, or because they suffer from the influence of biotic factors more strongly than other species <ref type="bibr" target="#b0">(Angilletta, 2009)</ref>.</p><p>The genera Chrysomya and Cochliomyia have strong tendency to increase abundance with increasing temperature without suffering influences of the variation of relative humidity, considering specially the data for C. albiceps and C. hominvorax, two species that are important to forensic entomology and animal health <ref type="bibr" target="#b12">(Guimarães &amp; Papavero, 1999;</ref><ref type="bibr" target="#b17">Pujol-Luz et al., 2008)</ref>. The first species is a facultative predator <ref type="bibr" target="#b9">(Faria et al., 1999)</ref> and the second is a biontophagous that causes screwworm <ref type="bibr" target="#b29">(Zumpt, 1965)</ref>, both in the larval stage. Therefore, the temperature increase with a decrease in RH would facilitate the early peak occurrence of these species when compared to that observed in this work and others <ref type="bibr" target="#b28">(Wiegand et al., 1991;</ref><ref type="bibr" target="#b27">Vianna et al., 2004)</ref>. In this case, we would have an increase in populations of Chrysomya and the frequency of screwworms before summer. According to the results obtained by the application of statistical models, other species such as C. vicina and P. xanthogeniates would also be heavily Tab. III. Influence of mean temperature (MT), relative air humidity (RH) and the interaction of these two factors (mt*rh) variation in the abundance of species of Calliphoridae in southern Rio Grande do Sul, Brazil, using generalized linear models (GLM) with quasi-Poisson distribution considering 35 degrees of freedom in each test. The models built with the variables MT and RH were compared by chi-square (χ 2 ) at 5% probability.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Species</head><p>Mt Rh mt*rh Model χ 2</p><p>impacted by the increase in MT and the presence of a predator in decomposing animal organic matter, with the possibility of displacement of these species from these regions to others with lower temperatures.</p><p>From the results presented it is concluded that temperature and humidity are among the main regulating factors of the blowfly fauna in wetlands of southern Brazil. Generally, temperature is a more important factor than humidity, but for the richness and the frequency of occurrence of some species, the state of humidity is a major factor to interact with temperature to determine the occurrence of a high richness through robust statistical models. From the significant changes of the blowfly fauna detected in this study, it is proposed that the envisaged global and regional changes of temperature and humidity in the future will cause serious alterations in the blowfly fauna. Importantly, it has been shown that the response of blowflies to climate change is very rapid. Therefore, this fly group represents an especially useful tool in modeling the impact, and monitoring the biological effects of global climate change.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Species richness (right bar) of Calliphoridae as function of mean temperature (°C) and relative humidity (%) in the region of Pelotas and Capão do Leão, state of Rio Grande do Sul, Brazil, between July 2003 and June 2004. Species richness estimated (SEST) corresponds to the maximum value (darker area in the graph) and minimum (lighter area in the graph) obtained through generalized linear model (GLM) with quasi-Poisson distribution.</figDesc><graphic coords="3,332.22,62.65,209.20,205.98" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig 3 .</head><label>3</label><figDesc>Fig 3. Mean (transverse dark bar), error (box) and standard deviation of the abundance Calliphora species between July 2003 and June 2004 in Pelotas, RS, Brazil.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig 4 .</head><label>4</label><figDesc>Fig 4. Mean (transverse dark bar), error (box) and standard deviation of the abundance Chrysomya species between July 2003 and June 2004 in Pelotas, RS, Brazil.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig 6 .</head><label>6</label><figDesc>Fig 6. Mean (transverse dark bar), error (box) and standard deviation of the abundance Hemilucilia species between July 2003 and June 2004 in Pelotas, RS, Brazil.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head>Fig 5 .</head><label>5</label><figDesc>Fig 5. Mean (transverse dark bar), error (box) and standard deviation of the abundance Cochliomyia species between July 2003 and June 2004 in Pelotas, RS, Brazil.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>Fig 8 .</head><label>8</label><figDesc>Fig 8. Mean (transverse dark bar), error (box) and standard deviation of the abundance Chloroprocta idiodea, Paralucilia xanthogeneiates and Sarconesia chlorogaster species between July 2003 and June 2004 in Pelotas, RS, Brazil.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>Fig 7 .</head><label>7</label><figDesc>Fig 7. Mean (transverse dark bar), error (box) and standard deviation of the abundance Lucilia species between July 2003 and June 2004 in Pelotas, RS, Brazil.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Azevedo &amp; Krüger</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgements. We are grateful to <rs type="person">M.Sc. Juliano Lessa Pinto Duarte</rs> (<rs type="affiliation">UFPEL</rs>) and <rs type="person">Dr. Thiago de Carvalho Moretti</rs> (<rs type="affiliation">USP</rs>) for critically reading the paper.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Thermal Adaptation: A Theoretical and Empirical Synthesis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Angilletta</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<publisher>Oxford University Press</publisher>
+			<biblScope unit="page">291</biblScope>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">A wind oriented trap for screwworm flies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Broce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Goodenowgh</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Coppedge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Entomology</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="413" to="416" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Chave de identificação das espécies de Calliphoridae (Diptera) do Sul do Brasil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>De &amp; Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Seasonality of insect succession and pig carcass decomposition in a natural forest area in Southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M L</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Forensic Science</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="604" to="608" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Observations on succession patterns of necrophagous insects on pig carcass in a urban area of Southeastern Brazil. Aggrawal&apos;s</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>L; Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Internet Journal of Forensic Medicine and Toxicology</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="40" to="44" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Seasonal patterns of arthropods occurring on sheltered and unsheltered pig carcasses in Buenos Aires Province (Argentina)</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Centeno</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Maldonado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Oliva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Science International</title>
+		<imprint>
+			<biblScope unit="volume">126</biblScope>
+			<biblScope unit="page" from="63" to="70" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Modeling large scale species abundance with latent spatial processes</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Chakraborty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E</forename><surname>Gelfand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Wilson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Latimer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Silander-Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Annals of Applied Statistics</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1403" to="1429" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Ophyra spp. (Diptera, Muscidae) in Pelotas, RS, Brazil</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Franz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="165" to="168" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Crawley</surname></persName>
+		</author>
+		<title level="m">The R Book. Chichester</title>
+		<imprint>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">942</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Larval predation by Chrysomya albiceps on Cochliomyia macellaria, Chrysomya megacephala and Chrysomya putoria</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D B</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Orsi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Trinca</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomologia Experimentalis et Applicata</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="149" to="155" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Seasonal population dynamics in Lucilia eximia (Wiedemann) (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z</forename><surname>Gião</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="753" to="756" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Spatiotemporal dynamics and transition from asymptotic equilibrium to bounded oscillations in Chrysomya albiceps (Diptera. Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J V</forename><surname>Zuben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J V</forename><surname>Zuben</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Reis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memórias do Instituto Oswaldo Cruz</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="627" to="634" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the neotropical region: bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Editora Plêide/FAPESP</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Rate of development of forensically-important Diptera in southern Brazil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Krüger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Kirst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S B</forename><surname>Souza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="624" to="629" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Climate change and the future of California&apos;s endemic flora</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Loarie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">E</forename><surname>Carter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Hayhoe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mcmahon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Moe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Knight</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">D</forename><surname>Ackerly</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS ONE</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">2502</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Insects on decomposing carcasses of small rodents in a secondary forest in Southeastern Brazil</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">D</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">B</forename><surname>C; Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Solis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="page" from="691" to="696" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Flutuação populacional de Cochliomyia hominivorax no município de Itaguaí, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesquisa Agropecuária Brasileira</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="139" to="142" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Arantes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Constantino</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cem anos da entomologia Forense no Brasil</title>
+		<imprint>
+			<date type="published" when="1908">2008. 1908 -2008</date>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="485" to="492" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Técnicas de criação e alguns aspectos da biologia de Chrysomya albiceps (Wiedemann) (Diptera, Calliphoridae) em condições de laboratório</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M V</forename><surname>Milward-De-Azevedo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="75" to="84" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">R: A Language and environment for statistical computing</title>
+		<author>
+			<orgName type="collaboration">R Development Core Team</orgName>
+		</author>
+		<ptr target="&lt;http://www.R-project.org&gt;" />
+	</analytic>
+	<monogr>
+		<title level="m">R Foundation for Statistical Computing</title>
+		<meeting><address><addrLine>Vienna</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011-12">2011. December, 2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Dípteros de Interesse Forense em Dois Perfis de Vegetação de Cerrado em Uberlândia</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L Y</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="859" to="866" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+	<note>MG</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Arthropods associated with pig carrion in two vegetation profiles of Cerrado in the State of Minas Gerais. Brazil</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">A</forename><surname>Rosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L Y</forename><surname>Babata</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Sousa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Vaz-De-Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mendes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="424" to="434" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Predicting extinctions as a result of climate change</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Schwartz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Iverson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Prasad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">N</forename><surname>Matthews</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>O'connor</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="page" from="1611" to="1615" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Population dynamics of Lucilia eximia (Diptera. Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">C R</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F A</forename><surname>Mancera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Entomology</title>
+		<imprint>
+			<biblScope unit="volume">127</biblScope>
+			<biblScope unit="page" from="2" to="6" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Insects of forensic importance from Rio Grande do Sul state in Southern Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S B</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">D</forename><surname>Kirst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Krüger</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="641" to="646" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Diversity and synanthropy of Calliphoridae (Diptera) in the region of Rio Claro, SP, Brazil</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J V</forename><surname>Zuben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="243" to="248" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Sinanthropy of Calliphoridae (Diptera) in Pelotas</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E S</forename><surname>Vianna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G W</forename><surname>Brum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E A</forename><surname>Berne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Silveira-Jr</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="141" to="147" />
+			<date type="published" when="1998">1998</date>
+			<pubPlace>Rio Grande do Sul State, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Abundância e flutuação populacional das espécies de Chrysomya (Diptera, Calliphoridae) em Pelotas</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">E S</forename><surname>Vianna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R P</forename><surname>Costa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Iheringia, Série Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="234" />
+			<date type="published" when="2004">2004</date>
+			<pubPlace>Rio Grande do Sul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Flutuação populacional de Cochliomyia hominivorax e C. macellaria (Diptera: Calliphoridae) no Município do Capão do Leão</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Wiegand</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G W</forename><surname>Brum</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R P</forename><surname>Costa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo Brasileiro de Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="155" to="162" />
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Rio Grande do Sul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World</title>
+		<meeting><address><addrLine>London, Butterworhs</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">O O O O Oc c c c cor or or or orrência de miíases em animais de c rência de miíases em animais de c rência de miíases em animais de c rência de miíases em animais de c rência de miíases em animais de companhia no D ompanhia no D ompanhia no D ompanhia no D ompanhia no Distr istr istr istr istrit it it it ito F o F o F o F o Feder eder eder eder ederal, al, al, al, al, B B B B Br r r r rasil asil asil asil asil Occurrence of Myiasis in Pets From the Federal District, in Brazil</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Edison</forename><surname>Rogério</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cansi</forename><surname>Dison</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Rogério</forename><surname>Cansi</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Caroline</forename><surname>Demo Aroline Demo Aroline Demo Aroline Demo Aroline Demo</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Departamento de Zoologia , Instituto de Ciências Biológicas , Universidade de Brasília Departamento de Zoologia , Instituto de Ciências Biológicas -UNB , Campus Darcy Ribeiro , Asa Norte , CEP 70910-900 Brasília , DF , Brasil.</note>
+								<orgName type="department" key="dep1">Departamento de Zoologia</orgName>
+								<orgName type="department" key="dep2">Departamento de Zoologia</orgName>
+								<orgName type="institution" key="instit1">Instituto de Ciências Biológicas</orgName>
+								<orgName type="institution" key="instit2">Universidade de Brasília</orgName>
+								<orgName type="institution" key="instit3">Instituto de Ciências Biológicas -UNB</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Asa Norte Brasília</settlement>
+									<region>CEP DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>b</label> SHORT COMMUNICATION P u . 9 8 2 P u b . 9 8 2 P u b . 9 8 2 P u b . 9 8 2 P u b . 9 8 2</note>
+								<orgName type="department">SHORT COMMUNICATION P u</orgName>
+								<address>
+									<addrLine>9 8 2 P u b . 9 8 2 P u b . 9 8 2 P u b . 9 8 2 P u b . 9 8 2</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">O O O O Oc c c c cor or or or orrência de miíases em animais de c rência de miíases em animais de c rência de miíases em animais de c rência de miíases em animais de c rência de miíases em animais de companhia no D ompanhia no D ompanhia no D ompanhia no D ompanhia no Distr istr istr istr istrit it it it ito F o F o F o F o Feder eder eder eder ederal, al, al, al, al, B B B B Br r r r rasil asil asil asil asil Occurrence of Myiasis in Pets From the Federal District, in Brazil</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1679-9216 (Online)</idno>
+					</monogr>
+					<idno type="MD5">E2ED08089458ECB730F1451CCCBA69C6</idno>
+					<note type="submission">Received: January 2011 www.ufrgs.br/actavet Accepted: March 2011</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cochliomyia hominivorax</term>
+					<term>Lucilia eximia</term>
+					<term>Musca domestica</term>
+					<term>ectoparasitism</term>
+					<term>myiasis</term>
+					<term>canidae</term>
+					<term>felidae</term>
+					<term>new world screwworm Cochliomyia hominivorax</term>
+					<term>Lucilia eximia</term>
+					<term>Musca domestica</term>
+					<term>ectoparasitismo</term>
+					<term>caninos</term>
+					<term>felinos</term>
+					<term>miíase neotropical</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Background: Myiasis is one of the main causes of infestation by Diptera larvae in animals and human beings. This parasitic disease is frequently diagnosed at veterinary and medical practices. It is classified according to its anatomical location in the host or to its dependency relations and parasitic occurrence. In Brazil, the two diptera species with the highest myiasis incidence in domestic animals are Cochliomyia hominivorax (Calliphoridae) and Dermatobia hominis (Oestridae). These ectoparasites are primarily found in dogs and secondarily in cats, and they are often associated with omission or mistreatment by the owner. This study describes myiasis cases and the main predisposing factors in domestic animals that occurred in 2009 in the Federal District, Brazil. Materials, Methods &amp; Results: Between January and December 2009, veterinary practitioners from 90 small animal practices were requested to supply the larvae collected from clinical myiasis cases. The larvae were kept alive inside biological containers containing vermiculite to preserve their integrity during transportation. Data on the collection month, age, gender, breed, color and type of coat, as well as lesion site, myiasis type and dwelling type were obtained. The larvae were identified in laboratory and then kept inside incubators, fed on rotten bovine meat during 24h. The resulting flies were again identified and sexed. Then the absolute and relative proportions of the clinical cases were obtained, based on the epidemiological factors and respective parasites. Forty cases were recorded (39 of which were dogs and one was a cat). Cochliomyia hominivorax was the most abundant parasite, with 37 cases observed in dogs and only one in a cat. The other two myiasis cases were caused by Lucilia eximia and Musca domestica. In dogs, the highest occurrence of myiasis was observed in males, especially in German Sheepdogs and Cocker Spaniels. The predominant anatomical sites of the disease in dogs were the front limbs and tail. The period in which the disease occurred most frequently was between March and May, period which corresponds to the rainy season in the Brazilian Cerrado. Dogs living in houses within urban areas had the highest parasitism occurrence. Discussion: Myiasis in companion animals is a common finding throughout practices in Brazil and around the world. However, this situation has been under control in North American countries, especially after erradication of myiases caused by C. hominivorax in bovines, which represented great economic losses. Therefore, the incidence of the parasitism in dogs and cats was reduced. In Brazil, obligatory and facultative cutaneous myiases in dogs and cats are caused by omission and mistreatment by the owner. The results presented in this study corroborate the characteristics of neotropical myiases in the Southeast and South region of Brazil in relation to the incidence period and preferential host characteristics, except that the disease has a preference for male light-colored animals, being predominantly observed on the hind limbs. New cases were observed in dogs, particularly in Central Brazil, such as the facultative cutaneous myiasis cases caused by Lucilia eximia and Musca domestica.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>Miíase é o ectoparasitismo por infestação de larvas de dípteros em animais e humanos <ref type="bibr" target="#b22">[23]</ref>, sendo considerada uma zoonose de notificação obrigatória pela Organização Internacional de Epizootias (OIE).</p><p>A classificação desta doença é baseada na sua localização no corpo do hospedeiro (cutânea, subcutânea, interna ou intestinal e cavitária) <ref type="bibr" target="#b11">[12]</ref> ou em termos parasitológicos, na relação entre parasita-hospedeiro (obrigatória, facultativa ou pseudomiíase) <ref type="bibr" target="#b12">[13,</ref><ref type="bibr" target="#b22">23]</ref>. No Brasil as duas espécies de parasitas que chamam atenção pela alta incidência e patogenia são Cochliomyia hominivorax (Calliphoridae) e Dermatobia hominis (Oestridae) <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b12">13]</ref>.</p><p>Em cães e gatos as miíases estão, em sua grande maioria, associadas à negligência do proprietário em relação ao tratamento feridas cutâneas ou pelo acúmulo de fezes e urina nos pêlos atraindo as moscas para a oviposição ou larviposição aspecto que garante aos casos clínicos uma sutil, mas importante interface com a ciência forense <ref type="bibr">[1,</ref><ref type="bibr" target="#b17">18]</ref>.</p><p>Este estudo descreve os casos de miíases em animais de companhia (cães e gatos) e os fatores que predispõem a ocorrência na região central do Brasil, durante os anos de 2009 a 2010.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAIS E MÉTODOS</head><p>Durante janeiro a dezembro de 2009 foi realizado o levantamento dos casos de miíases em animais de companhia no Distrito Federal (DF) (15°47'30,9''S; 47°53'06,89''O) e no município de Formosa, estado de Goiás (GO) (15°32'13,10''S; 47°20'14,72"O), no Centro-Oeste do Brasil. Foi solicitada a entrega das larvas das miíases em 90 clínicas de pequenos animais (cães e gatos) do Distrito Federal (DF) e duas no município de Formosa (GO). Para cada caso solicitava-se o preenchimento da ficha epidemiológica, com o mês da coleta e as seguintes informações sobre o hospedeiro: idade, sexo, raça, cor e tipo da pelagem, local da lesão, tipo de miíase, tipo de moradia. As larvas foram acondicionadas em recipientes biológicos de 70 mL contendo um quarto de vermiculita ®1 , a seguir o material foi remetido para o Laboratório. As larvas foram inicialmente identificadas com as chaves proposta por Florez &amp; Wolff <ref type="bibr" target="#b8">[9]</ref> e mantidas em estufas tipo B.O.D., quando ocorria à emergência dos adultos era refeita a iden-tificação com as chaves de Mello <ref type="bibr" target="#b15">[16]</ref> e Guimarães &amp; Papavero <ref type="bibr" target="#b12">[13]</ref>. A seguir era relatada a proporção relativa e absoluta dos casos de acordo com o hospedeiro e suas características epidemiológicas e os respectivos parasitas.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS</head><p>Apenas 25 clínicas das 90 solicitadas forneceram as amostras dos casos clínicos. Obteve-se 40 casos de miíases em pequenos animais, 38 no Distrito Federal e dois em Formosa (39 aconteceram em cães e um caso em gato) por C. hominivorax. Dentre os 39 casos de miíases em cães: 37 correspondiam ao parasitismo por C. hominivorax, uma por Lucilia eximia e uma por Musca domestica (Tabela 1). As características das miíases observadas em cães por C. hominivorax foram: predomínio de 81,1% em cães de raça, com preferência paras as raças Pastor Alemão (16,2%), Cocker Spaniel Inglês (13,6%), Poodle (10,8%) e Pit Bull (10,8%), em contrapartida aos cães sem raça definida com ocorrência de 18,9%. A pelagem foi classificada em três categorias de tonalidade: clara (branca, bege e branca com bege), escura (preta, característica das raças Pastor Alemão e Rottweiller), e intermediária (marrom, tigrada e preta com branco). A predominância de parasitismo foi na tonalidade clara com 37,8%, seguido de escura 35,2%, e intermediária 27%. Os meses com maior número de achado em 2009 foram de março a maio, com taxa de 21,6% por mês. Outubro a dezembro do mesmo ano não houve nenhum relato de caso nas clínicas pesquisadas. Na região amostrada os machos foram mais infestados (59,5%) que as fêmeas (40,5%), sendo os adultos predominantemente parasitados (83,8%). As regiões anatômicas dos caninos com maior número de lesões foram: membros posteriores (18,9%), cauda (13,5%), ouvido externo (8,1%), narinas (8,1%) e membros anteriores (8,1%). Em duas oportunidades ocorreu infestação concomitante em duas áreas: uma no membro posterior e pescoço e outra nos olhos e mandíbula. A miíase cutânea correspondeu a 73% das enfermidades, a cavitária 24,3% e apenas uma descrição de miíase cutânea e cavitária. Os cães infestados com C. hominivorax eram 75,7% oriundos de moradia urbana em casa, 13,5% urbana em apartamento, 8,1% em áreas rurais e apenas um episódio em animal errante.</p><p>Miíase facultativa cavitária ocorreu pelo parasita Lucilia eximia no mês de abril, em uma fêmea</p><p>N E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. Ocorrência de miíases em animais de companhia no Distrito Federal, Brasil. . sdasdadasdasdasdasdasdasdasdasdasdas Acta Scientiae Veterinariae. 39(3): 982. Parasita Mês Hospedeiro Raça Sexo Pelagem Local da lesão Moradia Ch Jan C Poodle F Branca Abdômen Casa Ch Fev C Labrador F Bege Abdômen Casa Ch Fev C CSI † M Preta e Branca Ouvido externo Apartamento Ch Mar C PA ‡ M Padrão MP1 Casa Ch Mar C Pit Bull F Marrom e Branca MP e Pescoço Casa Ch * Mar C Poodle M Marrom Narinas Casa Ch Mar C SRD** M Marrom Cauda Errante Ch Mar C PA F Branca Vulva Casa Ch Mar C Fila Brasileiro M Tigrado Cauda Rural Ch Mar C Pastor belga M Preta Cauda Casa Ch * Mar C CSI M Marrom Cauda Casa Ch * Abr C PA F Padrão MA2 Casa Ch * Abr C Pit Bull M Marrom MP Casa Ch * Abr C PA M Padrão MA Rural Ch Abr C PA M Padrão MP Casa Ch Abr C SRD M Bege MP Casa Ch * Abr C SRD F Bege Cabeça Casa Ch Abr C Fox terrier M Preta Pescoço Apartamento Ch Abr C Fila brasileiro F Tigrado Vagina Rural Ch Mai C SRD M Preta MP Casa Ch * Mai C PA M Padrão Narinas Casa Ch * Mai C Rottweiller F Padrão MA Casa Ch * Mai C Pitt Bull M Bege Ouvido interno Casa Ch * Mai C Shar Pei M Bege Pescoço Apartamento Ch Mai C Golden retriever M Marrom Testículos Casa Ch Mai C Poodle F Preta Cauda Casa Ch Mai C SRD F Preta MP Casa Ch * Jun C Poodle M Branca Boca Casa Ch Jun C CSI M Preta Narinas Casa Ch * Jun C CSI F Marrom e Branca Olhos e Mandíbula Casa Ch Jun C Chow Chow M Bege Ouvido externo Casa Ch Jul C CSI † F Preta e Branca Ouvido externo Casa Ch * Jul C Shi tzu M Branca Olho Apartamento Ch * Ago C Rottweiller F Padrão Mamas Casa Ch Ago C SRD F Bege MP Casa Ch Set C SRD M Preta e Branca Anal Casa Ch Set C Pitt Bull F Branca Dorso Apartamento Ch Mar F SRD F Tricolor MP Casa Le Abr C PA F Padrão Vulva Urbana/casa Md Jun C SRD M Preta Cauda Urbana/ casa Tabela1. Ocorrência de miíases em cães e gatos no Centro-Oeste brasileiro durante o ano de 2009. Ch: Cochliomyia hominivorax; Le: Lucilia eximia; Md:Musca domestica; CSI † : Cocker Spaniel Inglês; PA ‡ : Pastor Alemão; MP 1 : Membro posterior; MA 2 : Membro anterior.*Identificada somente pela larva; **SRD=Sem raça definida. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. E.R. Cansi &amp; C. Demo. 2011. Ocorrência de miíases em animais de companhia no Distrito Federal, Brasil. . sdasdadasdasdasdasdasdasdasdasdasdas Acta Scientiae Veterinariae. 39(3): 982.</p><p>adulta de Pastor Alemão, animal era oriundo de moradia de casa urbana, e apresentava as larvas na vulva e vagina. O outro caso foi uma miíase facultativa cutânea por Musca domestica, na região perianal de um cão macho adulto de moradia urbana, sem raça definida e com pelagem escura no mês de junho.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSÃO</head><p>Miíases em animais de companhia são achados comuns nas clínicas e em outros trabalhos recentes no Brasil e mundo, por isso da relativa ocorrência em nosso trabalho <ref type="bibr" target="#b4">[5]</ref><ref type="bibr" target="#b5">[6]</ref><ref type="bibr" target="#b6">[7]</ref><ref type="bibr" target="#b19">20]</ref>, não corroborando as informações de Scott et al. <ref type="bibr" target="#b20">[21]</ref>, que assumem que a doença é pouco expressiva nas Américas. As miíases obrigatórias e facultativas cutâneas em cães e gatos são situações resultantes da negligência do proprietário [1], devido à presença de lesões não tratadas e acúmulos de matéria orgânica (urina, fezes e outros).</p><p>Na América do Sul, a espécie mais importante causadora de miíase obrigatória é a C. hominivorax. As fêmeas depositam entre 200 a 300 ovos sobre ferimentos abertos ou cavidades de vertebrados <ref type="bibr" target="#b11">[12,</ref><ref type="bibr" target="#b13">14]</ref>. Essa espécie tem ampla distribuição, ocorrendo nas regiões Neártica e Neotropical, ocupando todo o território brasileiro <ref type="bibr" target="#b12">[13]</ref>. Na região sudeste, a C. hominivorax afeta cães em meses mais quentes, entre dezembro a abril: cães de raça, com pelagem longa escura, sem preferência por sexo, porém atinge mais animais adultos, com predileção primeiramente aos ouvidos, devido à alta freqüência de otite, secundariamente a região lombar e membros <ref type="bibr" target="#b4">[5,</ref><ref type="bibr" target="#b6">7]</ref>. Estas informações são semelhantes ao nosso estudo no cerrado brasileiro com exceção, da preferência por animais machos, de pelagem clara e a predominância de miíases nos membros posteriores. A incidência nas raças Pastor Alemão e Cocker Spaniel no presente trabalho corroboram dados anteriormente encontrados no Sudeste. A negligência é evidenciada pela a constatação da maioria dos cães serem oriundos de casas em área urbana, agravante já descrito anteriormente <ref type="bibr">[1,</ref><ref type="bibr" target="#b4">5]</ref>.</p><p>Houve apenas um caso em gato, situação prevista pelo predomínio populacional no Brasil ainda de cães <ref type="bibr" target="#b6">[7]</ref>, pelo comportamento preservativo dos felinos e pelas miíases nesses hospedeiros ocorrerem quase exclusivamente associadas às doenças debilitantes <ref type="bibr" target="#b7">[8,</ref><ref type="bibr" target="#b21">22]</ref>. C. hominivorax em gatos é altamente patogênica, podendo ocasionar a morte dos animais infestados <ref type="bibr" target="#b5">[6,</ref><ref type="bibr" target="#b21">22]</ref>.</p><p>Verificamos também dois casos inéditos de miíase cutânea facultativa em cães no Brasil central, uma por L. eximia e outra por M. domestica. L. eximia apresenta ampla distribuição no Brasil <ref type="bibr" target="#b3">[4,</ref><ref type="bibr" target="#b16">17]</ref>. Ela pode ser facilmente encontrada em áreas urbanas e rurais <ref type="bibr" target="#b9">[10,</ref><ref type="bibr" target="#b14">15]</ref>. Apesar da invasão de espécies exóticas de Calliphoridae do Velho Mundo, ocupando os nichos das espécies nativas, a L. eximia ainda é um problema sanitário com relatos de miíases primárias em gatos <ref type="bibr" target="#b14">[15]</ref>, cães <ref type="bibr" target="#b1">[2]</ref>, e coelhos <ref type="bibr" target="#b18">[19]</ref>. Madeira et al. <ref type="bibr" target="#b14">[15]</ref> relataram em humanos casos de miíases secundárias. Os achados somente não são mais frequentes devido à competição pelo hospedeiro com C. hominivorax e a falta do hábito da identificação das larvas parasitárias pelos clínicos. Observação de miíase por M. domestica é uma situação rara, havendo poucos relatos desta espécie ocasionando o parasitismo em animais, ou até mesmo em humanos. Na maioria das vezes, as enfermidades por M. domestica estão associadas a casos de pseudomiíases e à presença de nematóides, bactérias, protozoários, vírus ou outros patógenos <ref type="bibr" target="#b2">[3,</ref><ref type="bibr" target="#b10">11]</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONCLUSÃO</head><p>Este estudo alerta para a necessidade do censo populacional de cães e gatos na América do Sul, para que se possa obter a funcional aplicação de medidas preventivas, principalmente nas enfermidades zoonóticas. É imprescindível, também, a identificação correta dos agentes etiológicos.</p><p>NOTA INFORMATIVA 1 Vermiculita ® -JB Agropecuária, Brasília,DF, Brasil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos. Gostaríamos de agradecer ao professor</head><p>José Roberto Pujol Luz (UnB) pelas críticas e sugestões ao artigo, e ao Conselho Nacional de Desenvolvimento Científico e Tecnológico -CNPq, pela concessão da bolsa de doutoramento de ERC.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Declaration of interest.</head><p>The authors report no conflicts of interest. The authors alone are responsible for the content and writing of the paper. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>REFERÊNCIAS1</head><figDesc>Anderson G.S. &amp; Huitson N.R. 2004. Myiasis in pet animals in British Columbia: the potential of forensic entomology for determining duration of possible neglect. Canadian Veterinary Journal. 45(12): 993-998.</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">sdasdadasdasdasdasdasdasdasdasdasdas Acta Scientiae Veterinariae</title>
+		<author>
+			<persName><forename type="first">Brasil</forename><surname>Federal</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page">982</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Primary myiasis in dog caused by Phaenicia eximia (Diptera: Calliphoridae) and preliminary mitochondrial DNA analysis of the species in Brazil</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="839" to="843" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Competence of the housefly, Musca domestica, as a vector of Microsporum canis under experimental conditions</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Cafarchia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Lia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Romito</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Otranto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="21" to="25" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Notas sobre a distribuição geográfica de Phaenicia (Diptera, Calliphoridae) no Brasil. Arquivos da</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">UFRRJ</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="165" to="171" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Inquérito sobre os casos de miíase por Cochliomyia hominivorax cães da zona sul do município do Rio de Janeiro no ano 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Cramer-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Rocco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Cardoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian Journal of Veterinary Research and Animal Science</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="171" to="175" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Inquérito sobre os casos de miíases por Cochliomyia hominivorax em gatos das zonas norte, sul e oeste e do centro do município do Rio de Janeiro no ano 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Cramer-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Rocco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">G</forename><surname>Cardoso</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian Journal of Veterinary Research and Animal Science</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="165" to="170" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inquiry of cases of myiasis by Cochliomyia hominivorax in dogs (Canis familiaris) of the Northern and Western zones of Rio de Janeiro city in 2000</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Cramer-Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Sanavria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Monteiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Q</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazilian Journal of Veterinary Research and Animal Science</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="13" to="20" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Grooming and control of fleas in cats</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Eckstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">L</forename><surname>Hart</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Animal Behaviour Science</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="141" to="150" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Descripción y Clave de los Estadios Inmaduros de las Principales Especies de Calliphoridae (Diptera) de Importancia Forense en Colombia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Florez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="418" to="429" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Seasonal Population Dynamics in Lucilia eximia (Wiedemann) (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">Z</forename><surname>Gião</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">A C</forename><surname>Godoy</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="753" to="756" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Flies and Disease</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biology and Disease Transmission</title>
+		<imprint>
+			<biblScope unit="volume">II</biblScope>
+			<biblScope unit="page">447</biblScope>
+			<date type="published" when="1973">1973</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Miíases na região Neotropical</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="239" to="416" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region. Bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>FAPESP/Editora Plêiade</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Myiasis of human and domestic animals</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advanced Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">The occurrence of primary myiasis in cats caused by Phaenicia eximia (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Silveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pavan</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1989">1989</date>
+			<publisher>Memórias do Instituto Oswaldo Cruz</publisher>
+			<biblScope unit="volume">84</biblScope>
+			<biblScope unit="page">341</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Chave para identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrapha) Encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Entomologia y Vectores</publisher>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">Contribuição ao estudo do gênero Phaenicia (R-D: 1863) (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961">1961</date>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="page" from="259" to="278" />
+		</imprint>
+	</monogr>
+	<note>Memórias do Instituto Oswaldo Cruz</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">D</forename><surname>Merck</surname></persName>
+		</author>
+		<title level="m">Veterinary Forensics: Animal Cruelty Investigations</title>
+		<imprint>
+			<publisher>Ames: Blackwell Publishing</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="page">327</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Miíase primária em coelho doméstico causada por Lucilia eximia (Diptera: Calliphoridae) no Brasil: relato de caso</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">C</forename><surname>Moretti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivos Brasileiro de Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="28" to="30" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Schnur</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Zivotofsky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wilamowski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Myiasis in domestic animals in Israel</title>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="volume">161</biblScope>
+			<biblScope unit="page" from="352" to="355" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">W</forename><surname>Scott</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">H</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Griffin</surname></persName>
+		</author>
+		<title level="m">Muller e Kirk&apos;s Small Animal Dermatology</title>
+		<meeting><address><addrLine>Philadelphia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Saunders Company</publisher>
+			<date type="published" when="2001">2001</date>
+			<biblScope unit="page">1528</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Myiasis caused by the New World screwworm fly Cochliomyia hominivorax (Diptera: Calliphoridae) in cats from Brazil: report of five cases</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">G</forename><surname>Verocai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H R</forename><surname>Ramadinha</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Feline Medicine and Surgery</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="166" to="168" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Butterworth</publisher>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

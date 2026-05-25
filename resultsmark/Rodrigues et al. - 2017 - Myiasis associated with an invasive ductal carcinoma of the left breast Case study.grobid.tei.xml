@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Myiasis associated with an invasive ductal carcinoma of the left breast: case study</title>
+				<funder>
+					<orgName type="full">Universidade Federal do Estado do Rio de Janeiro (UNIRIO)</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro</orgName>
+					<orgName type="abbreviated">FAPERJ</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>FapUNIFESP (SciELO)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2017">2017</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Felipe</forename><forename type="middle">Tavares</forename><surname>Rodrigues</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> ( ) Universidade Federal do Estado do Rio de Janeiro , Escola de Medicina e Cirurgia do Rio de Janeiro , Rio de Janeiro , Rio de Janeiro , Brazil (</note>
+								<orgName type="department">Escola de Medicina e Cirurgia do Rio de Janeiro</orgName>
+								<orgName type="institution">Universidade Federal do Estado do Rio de Janeiro</orgName>
+								<address>
+									<settlement>Rio de Janeiro Rio de Janeiro</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Larissa</forename><forename type="middle">Raquel</forename><surname>Klemig</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> ( ) Universidade Federal do Estado do Rio de Janeiro , Escola de Medicina e Cirurgia do Rio de Janeiro , Rio de Janeiro , Rio de Janeiro , Brazil (</note>
+								<orgName type="department">Escola de Medicina e Cirurgia do Rio de Janeiro</orgName>
+								<orgName type="institution">Universidade Federal do Estado do Rio de Janeiro</orgName>
+								<address>
+									<settlement>Rio de Janeiro Rio de Janeiro</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marcos</forename><forename type="middle">Roberto Pereira</forename><surname>Cardozo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Paulo</forename><forename type="middle">Cesar</forename><surname>Alves</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> ) Hospital Federal de Andaraí , Rio de Janeiro , Rio de Janeiro , Brazil (</note>
+								<orgName type="institution">Hospital Federal de Andaraí</orgName>
+								<address>
+									<settlement>Rio de Janeiro Rio de Janeiro</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> ) Universidade Federal do Estado do Rio de Janeiro , Departamento de Microbiologia e Parasitologia , Rio de Janeiro , Rio de Janeiro , Brazil</note>
+								<orgName type="department">Departamento de Microbiologia e Parasitologia</orgName>
+								<orgName type="institution">Universidade Federal do Estado do Rio de Janeiro</orgName>
+								<address>
+									<settlement>Rio de Janeiro Rio de Janeiro</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Valéria</forename><forename type="middle">Magalhães</forename><surname>Aguiar</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> ) Universidade Federal do Estado do Rio de Janeiro , Departamento de Microbiologia e Parasitologia , Rio de Janeiro , Rio de Janeiro , Brazil</note>
+								<orgName type="department">Departamento de Microbiologia e Parasitologia</orgName>
+								<orgName type="institution">Universidade Federal do Estado do Rio de Janeiro</orgName>
+								<address>
+									<settlement>Rio de Janeiro Rio de Janeiro</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Claudia</forename><forename type="middle">Soares</forename><surname>Lessa</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Rodrigues Universidade Federal do Estado do Rio de Janeiro , Escola de Medicina e Cirurgia do Rio de Janeiro , Instituto Biomédico , Departamento de Microbiologia e Parasitologia , Laboratório de Estudo de Dípteros , Rua Frei Caneca , 94 , CEP 20211-040 , Rio de Janeiro , RJ , Brazil</note>
+								<orgName type="department" key="dep1">Escola de Medicina e Cirurgia do Rio de Janeiro</orgName>
+								<orgName type="department" key="dep2">Departamento de Microbiologia e Parasitologia</orgName>
+								<orgName type="laboratory">Laboratório de Estudo de Dípteros</orgName>
+								<orgName type="institution" key="instit1">Rodrigues Universidade Federal do Estado do Rio de Janeiro</orgName>
+								<orgName type="institution" key="instit2">Instituto Biomédico</orgName>
+								<orgName type="institution" key="instit3">Rua Frei Caneca</orgName>
+								<address>
+									<addrLine>94</addrLine>
+									<postCode>20211-040</postCode>
+									<settlement>Rio de Janeiro</settlement>
+									<region>CEP RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Myiasis associated with an invasive ductal carcinoma of the left breast: case study</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Revista do Instituto de Medicina Tropical de São Paulo</title>
+						<title level="j" type="abbrev">Rev. Inst. Med. trop. S. Paulo</title>
+						<idno type="eISSN">0036-4665</idno>
+						<imprint>
+							<publisher>FapUNIFESP (SciELO)</publisher>
+							<biblScope unit="volume">59</biblScope>
+							<biblScope unit="issue">0</biblScope>
+							<date type="published" when="2017" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">99EA02B5227134F28528BEED75596EC7</idno>
+					<idno type="DOI">10.1590/s1678-9946201759035</idno>
+					<note type="submission">Received: 27 August 2016 Accepted: 22 February 2017</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Myiasis</term>
+					<term>Breast cancer</term>
+					<term>Cochliomyia hominivorax</term>
+					<term>Neoplasic wounds</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Most breast cancers originate in the ductal epithelium and are referred to as invasive ductal carcinoma. In this study we report on the clinical procedures adopted to diagnose myiasis in association with infiltrating metastatic breast carcinoma in a female patient. A 41 years old woman came to the Federal Hospital of Andaraí complaining of intense itching, warmth, redness and hardening of the breast, which had acquired the aspect of an orange peel. A lesion in the left breast was cavitated, dimpled, had fetid odor, and had fibrotic and infected air nodules filled with exudate and Dipteran larvae. The tissue was cleaned and 33 larvae were extracted. The patient was hospitalized and received Ivermectin. Eighteen of the larvae extracted from the patient were placed in 70% alcohol, and twelve were placed in a container with sterile wood shavings under controlled conditions until they metamorphosed into adults. The taxonomic identification of the flies revealed that the culprit was Cochliomyia hominivorax. A histopathological exam conducted three months earlier had revealed infiltrating ductal carcinoma. Two months after the myiasis treatment, the breast tissue had healed. The patient had waited ten days from the onset of the myiasis to seek treatment, and that delay interfered negatively in the prognosis of both the neoplasm and the myiasis. This study is relevant to public health in view of the strong social impact of myiasis.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>Cancer is currently the second leading cause of death in the world and in Brazil. It has great impact in developing countries, given the prolonged life expectation, the precarious and difficult access to preventive health care and early treatment, and unhealthy lifestyles such as smoking, sedentary habits and unbalanced diets <ref type="bibr" target="#b0">1</ref> .</p><p>In Brazil alone, 57,960 new cases of breast cancer are expected in 2016, with an estimated risk of 56-56.2 cases per 100,000 women. Most breast cancers (about 80%) originate in the ductal epithelium and are known as invasive ductal carcinoma. Breast cancer has multiple causes, including biological and endocrine factors, reproductive life, behavior and lifestyle. Aging factors, the woman's reproductive history, breast tissue density (ratio of glandular tissue and adipose tissue of the breast), and family history of breast cancer, all have been acknowledged as playing a role in the development of breast cancer. Mutations such as in the BRCA family increase the risk of developing the disease <ref type="bibr" target="#b1">2</ref> . The inheritance of one or more susceptible genes is the primary cause of approximately 12% of the cases <ref type="bibr" target="#b2">3</ref> .</p><p>Calliphoridae and Oestridae flies are economically important, particularly when it comes to the health of animals and humans. Infestations caused by the larval forms of these flies are called myiases <ref type="bibr" target="#b3">4</ref> . Depending on the degree of larval parasitism, myiases are classified into obligatory (requiring living tissue), facultative (developing in necrotic tissue) or accidental (when the larvae are ingested by the host; the resulting infestation is called pseudomyiasis) <ref type="bibr" target="#b4">5</ref> . The obligatory or primary myiasis occurs on the skin and subcutaneous tissue of mammals, and the most common etiological agents in America are, respectively, Cochliomyia hominivorax (Coquerel, 1858) and Dermatobia hominis (Wiedemann, 1819) <ref type="bibr" target="#b5">6</ref> .</p><p>Myiases are more prevalent in tropical and subtropical climates and in underdeveloped countries. Fly eggs are deposited in the natural orifices of the host or in regions where there is a discontinuity in the skin. The larvae hatch and feed on the host tissue, causing severe pain and tissue destruction <ref type="bibr" target="#b5">6</ref> .</p><p>The course of a myiasis treatment usually involves manual removal of the larvae. When it is not possible to remove all immature instars, oral administration of ivermectin becomes necessary. This compound causes parasite paralysis and death. Oral ivermectin administration is known to offer several advantages over standard therapy of scabies, pediculosis, demodicidosis, larva migrans, myiasis, filariasis, and other parasitic infestations with cutaneous tropism <ref type="bibr">7,</ref><ref type="bibr" target="#b7">8</ref> . The use of antibiotics to prevent secondary infections is often indicated <ref type="bibr" target="#b8">9</ref> .</p><p>In recent years, epidemiological studies using larger samples have sought to describe more accurately the incidence of myiases in our environment. From these studies it can be concluded that myiases affect more men, and individuals from lower socio-economic classes and levels of education <ref type="bibr" target="#b9">10,</ref><ref type="bibr" target="#b10">11</ref> .</p><p>This study is important in the context of public health given the strong social impact of myiasis, which is directly linked to poverty and lack of primary health care. When treated, myiases are not severe and run a short course, but when treatment is delayed myiases are often associated with comorbidities that may lead to a fatal outcome. Since many cases of myiases will be never reported to health officials, it is difficult to obtain reliable data on their prevalence in the rural and urban populations <ref type="bibr" target="#b5">6</ref> .</p><p>This study describes the medical decisions and procedures adopted in the clinical and entomological diagnosis of a patient with myiasis, associated with an invasive breast carcinoma and metastasis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CASE STUDY</head><p>Female patient, 41 years old and a family history of breast cancer, had given birth to a healthy child three years before. She resides in a brick house located in the coastal region of the Atlantic Forest, next to a riverbed, in the rural municipality of Angra dos Reis, State of Rio de Janeiro. Housewife, denied smoking and alcoholism; she was married to a fisherman who had the habit of depositing fish remains (an outstanding fly attractant) in the surroundings of their residence.</p><p>The patient came to the Federal Hospital of Andaraí complaining of intense itching, warmth, redness and hardening of the left breast, which had acquired the aspect of an orange peel. Physical examination revealed that the patient was in good condition, she was well oriented in space and time, cooperated with the examination, had no fever, no edema, was hydrated, her skin had normal color, she had no circulatory problems and presented left axillary lymphadenopathy. The lymph node was stiff, 2 cm diameter with little mobility. The lesion in the left breast was cavitated, dimpled, exhaled fetid odor because of the simultaneous bacterial infection, there were fibrotic and infected air nodules filled with extensive exudative fluid and Diptera larvae (Figure <ref type="figure" target="#fig_0">1A</ref>). The patient signed a consent form approved by the Research Ethics Committee of UNIRIO, Protocol (Nº 56/2006), which authorized the removal of the larvae, completion of a clinical and epidemiological file, and photographic records.</p><p>The tissue was cleaned with chlorhexidine, and 33 larvae were taken from the lesion. The patient was hospitalized and ivermectin was prescribed according to a protocol for myiasis (200 mg/kg in a single oral dose), which is very effective in the systemic control of larvae at different instars of development, and has few side effects <ref type="bibr" target="#b11">12</ref> . Faced with the serious conditions of the wounds and because it was not possible to ensure the removal of all larvae during treatment, ivermectin was used to kill any missed larvae and to prevent reinfestation during breast healing <ref type="bibr">7</ref> . From the larvae collected from the wound, 18 were placed in sealed polyethylene containers filled with 70% alcohol, and 12 larvae were placed in a sealed container with nylon fabric and secured with elastic, containing sterile wood shavings, which serves as a substrate for pupating Diptera. Immature instars were taken to the Diptera Laboratory of the Federal University of the State of Rio de Janeiro (LED-UNIRIO), for identification. The larvae preserved in 70% alcohol were identified following a taxonomic key <ref type="bibr" target="#b12">13,</ref><ref type="bibr" target="#b13">14</ref> . Those kept in sterilized wood shavings under controlled conditions (28 ºC, 70 + 10% RH and 12-hour photoperiod) were identified after they metamorphosed into adults <ref type="bibr" target="#b14">15,</ref><ref type="bibr" target="#b15">16</ref> . The 18 larvae in alcohol were identified as the third instar of Cochliomyia hominivorax (Figure <ref type="figure" target="#fig_1">2A</ref>). All larvae that had been kept in wood shavings pupated. They metamorphosed into eight females and four males of the same species (Figure <ref type="figure" target="#fig_1">2B</ref>). The specimens were deposited in the LED-UNIRIO Entomological Collection.</p><p>Three months before coming to the hospital with the myiasis the patient had an ultrasound, a mammogram and an histopathologic examination of her breast tissue. The density of her left breast was increased and there was suspicion of an inflammatory neoplasm or mastitis. BI-RADS classification was 4C. The histopathological examination by thick puncture needle revealed infiltrating ductal carcinoma, Elston histological grade III, characterized as a malignant breast carcinoma (CID 10 -C50) which was positive for the markers Ki-67 e HER2, finally classified as Stage IV, T3N2M1, according to the American Joint Committee on Cancer (AJCC) <ref type="bibr" target="#b16">17</ref> .</p><p>Radiotherapy sessions were started after the diagnostic tests. However, the patient left the treatment at the beginning because of the distance to her house in Angra dos Reis.</p><p>Two weeks after the extraction of the larvae, bone scintigraphy revealed areas of hyperfixation of radioactive material in the sternum, ribcage, spine, sacrum and proximal femoral thirds, compatible with the occurrence of multiple secondary osteoblastic implants. Computed tomography was very difficult in view of the restriction of the acoustic windows due to the extensive inflammation of the left hemithorax. Lung expansion capacity was reduced and multiple nodular formations of different sizes were observed in it, which converged at the base of the lung. The ejection fraction of the heart's left ventricle was visually limited to 65-70%.</p><p>The blood work, also done two weeks after the extraction of the larvae, revealed neutrophilia, lymphocytopenia, h-hyperglobulinemia, hyperglycemia, high erythrocyte anisocytosis (RDW), hypohemoglobinemia and abovereference values for gamma glutamil transferase (GGT) and alkaline phosphatase.</p><p>Two months after the removal of the larvae and treatment with oral ivermectin, the breast tissue healed  (Figure <ref type="figure" target="#fig_0">1B</ref>) and the patient was undergoing chemotherapy sessions with Doxorubicine (Adriblastine) + Fluorouracil + Cyclophosphamide.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>The patient, who had an inherited predisposition to cancer, developed myiasis in the neoplastic lesion. Malignant fungal wounds are very common and are the outcome from uncontrolled cellular proliferation with consequent infiltration of malignant cells into the structures of the skin <ref type="bibr" target="#b17">18</ref> . The entomological diagnosis revealed Cochliomyia hominivorax. Larvae of this species are biontophagous, i.e. they feed on the living tissue of the host. Blood from the neoplastic lesions with open wounds probably served as an attractant to C. hominivorax females, which prefer to lay eggs around a wound. With the outbreak of the first instar larvae that invaded the injury and began to voraciously feed on living tissue, the tissue was gradually destroyed, leading to the clinical picture. Extensive, cavitated, dimpled lesions were observed and many larvae were obtained. The fetid odor emanated from the myiasis and can attract other flies, which re-infest the injury, increasing the severity of the clinical picture and causing extensive tissue destruction and, further, the attraction of other species of Diptera associated with myiasis <ref type="bibr" target="#b18">19</ref> . It is probable that several instances of oviposition by C. hominivorax occurred in the lesion of the patient because, in addition to the 33 third instar larvae removed, larvae of younger instars were observed at the time of treatment. The oldest larvae indicated that the infestation had occurred no more than about 6 -8 days before treatment. This is the average time from egg to third instar in C. hominivorax in the tropics 20 . To perform the etiological identification, the larvae collected from the myiasis or the adults (after larval metamorphosis), can be used. Climate conditions in which the immatures were kept at LED-UNIRIO favored the development of the insects, since 100% of them emerged as adults. Taxonomists can make a differential diagnosis from other neotropical caliphorid flies, recognizing the taxonomic characters of the different phases of these flies and there is little room for errors in species identification.</p><p>The environmental and socio-educational conditions of the patient may have contributed to the occurrence of this case of myiasis, since she lives in the tropical Atlantic Forest, and the conditions surrounding her favor the attraction of muscoid flies. Garbage remains, mainly of fish, around the residence, probably attracted flies into the home environment, but the patient was unaware of the presence of flies around and in her home, and that these flies might deposit eggs in her wound while she was sleeping <ref type="bibr" target="#b21">21,</ref><ref type="bibr" target="#b22">22</ref> . The lack of health education is related to socio-educational factors, which probably hindered a primary prophylaxis to the patient, since oviposition is associated with precarious hygiene and protection of the wound. The patient also reported her feeling of shame about showing her breast to strangers, maybe because of her religious beliefs.</p><p>The patient developed an invasive ductal carcinoma of the breast prior to myiasis. The tumor affected the skin and lungs, compromising the left axillary lymph nodes, which under the examination were stiff and large (2 cm in diameter) suggesting malignancy. Imaging detected blastic bone metastases.</p><p>Based on the patient's blood tests it may be inferred that there was persistent neutrophilia, which may be associated with the parasitic larvae and secondary bacterial infection of the breast. Lymphocytopenia is characteristic of bone marrow suppression by chemotherapeutic agents.</p><p>As for the hypohemoglobinemia and high erythrocyte anisocytosis index of Red Blood Cell Distribution Width (RDW), known as poikilocytosis, it can be explained as an attempt by the bone marrow to produce more red blood cells to compensate for the lack of enough oxygen. This is generally the case when there is iron deficiency, chronic anemia associated with chronic infectious disorders, inflammatory or neoplastic diseases. It is one of the most common clinical syndromes in clinical practice and in hospitalized patients. In this case it was caused by the cancer or by the infection originated from the myiasis, characterized by the decreased survival of red blood cells, failure of the bone marrow to increase red blood cell production and disorder of the deposit iron mobilization of the phagocytic mononuclear system <ref type="bibr" target="#b23">23</ref> .</p><p>Concerning the increase in the rates of gamma-glutamyl transferase (GGT) and alkaline phosphatase, the first is an enzyme involved in the metabolism of glutathione and studies suggest that this enzyme has high activity in the lumen of the secretory and absorptive cells, for instance, the cells in the bile canaliculi and possibly mammary duct. It is also high in neoplastic transformation and proliferation <ref type="bibr" target="#b24">24</ref> . Alkaline phosphatases are relatively nonspecific enzymes that catalyze the hydrolysis of various phosphomonoesters at alkaline pH, being present mainly in the liver and bones, and becoming elevated in serum as the result of liver obstructions, expansive lesions such as metastasis and bone diseases such as fractures and osteoblastic tumors, such as the case of the patient <ref type="bibr" target="#b25">25,</ref><ref type="bibr" target="#b26">26</ref> .</p><p>Ki 67 protein markers and oncogene HER2 correlate with high mitotic activity, lack of cell differentiation, and tendency to invasion. In about 20% to 30% of the patients, the disease develops more severely than in patients with normal expression. Moreover, the oncogene HER2 is associated with resistance to chemotherapy and hormone therapy, increased local relapse and reduced survival of patients. Concluding, both Ki 67 protein marker and oncogene HER2 tend to indicate malignancy <ref type="bibr" target="#b27">27</ref> .</p><p>Myiasis is a neglected disease of relevance to public health <ref type="bibr" target="#b28">28</ref> , since its appearance is related to socio-economic issues, as well as the patient's understanding of the disease; in addition, issues such as personal hygiene are fundamental, since the lack of wound care facilitates the occurrence of myiases. Other appropriate prevention measures to reduce the population of flies are sanitation, insecticide use and animal health care.</p><p>From this report it can be concluded that the delay in seeking or getting medical care and chemotherapy treatment has severely and negatively worsened the prognosis of the breast cancer and myiasis treatments.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 -</head><label>1</label><figDesc>Figure 1 -(A)Cavitated lesion of the left breast with numerous larvae of Cochliomyia hominivorax; (B)Breast lesion after extraction of the larvae and treatment with ivermectin.</figDesc><graphic coords="3,64.72,70.28,214.98,448.63" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 -</head><label>2</label><figDesc>Figure 2 -(A)The New World screw-worm larva showing its dark dorsal tracheal trunks; (B)The metallic blue-green adult fly presenting the distinct bold black stripes on the presuturel and postsuturel areas of the thoracic scutum, and the typical angular vein M on the wing.</figDesc><graphic coords="3,126.84,564.87,341.52,136.56" type="bitmap" /></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><head>FINANCIAL SUPPORT</head><p>This work was supported by <rs type="funder">Universidade Federal do Estado do Rio de Janeiro (UNIRIO)</rs> and <rs type="funder">Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ)</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CONFLICT OF INTERESTS</head><p>All authors declare that there are no conflicts of interest.</p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Cancer patients, emergencies service and provision of palliative care</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Miranda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Vidal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Lima</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Rêgo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Pantaleão</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Assoc Med Bras</title>
+		<imprint>
+			<biblScope unit="volume">62</biblScope>
+			<biblScope unit="page" from="207" to="211" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Instituto Nacional de Câncer José Alencar Gomes da Silva. Estimativa 2016: incidência de câncer no Brasil</title>
+		<author>
+			<persName><forename type="middle">Ministério</forename><surname>Brasil</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">INCA</orgName>
+			</affiliation>
+		</author>
+		<author>
+			<persName><surname>Da Saúde</surname></persName>
+			<affiliation>
+				<orgName type="collaboration">INCA</orgName>
+			</affiliation>
+		</author>
+		<ptr target="http://www.inca.gov.br/estimativa/2016/estimativa-2016-v11.pdf" />
+		<imprint>
+			<date type="published" when="2015">2015. 2016 Aug 16</date>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Heterogeneity of breast cancer associations with five susceptibility loci by clinical and pathological characteristics</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Garcia-Closas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Nevanlinna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pooley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Morrison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Richesson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Genet</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1000054</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Erradicação ou manejo integrado das miíases neotropicais das Américas? Pesq Vet Bras</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Borja</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="131" to="138" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Miíases</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">P</forename><surname>Neves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Genaro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Linardi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<publisher>Atheneu</publisher>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Screw-worm fly: a tale of two species</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Spradbery</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agric Zoolog Rev</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="1" to="62" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Ivermectin: pharmacology and therapeutic applications</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Chhaiya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">S</forename><surname>Mehta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Kataria</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Basic Clin Pharmacol</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="132" to="139" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Uporaba ivermectina u potpornoj terapiji oralne mijaze</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Conto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Bortoli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Bordignon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Marcolin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Stobbe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Rovani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Stomatol Croat</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="246" to="252" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Tratamento da miíase humana cavitária com ivermectina oral</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Pereira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Alves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Marcon</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Otorrinolaringol</title>
+		<imprint>
+			<biblScope unit="volume">67</biblScope>
+			<biblScope unit="page" from="755" to="761" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Miíases associadas com alguns fatores sócio-econômicos em cinco áreas urbanas do Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Marquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mattos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nascimento</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Soc Bras Med Trop</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="175" to="180" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Miíases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera,Calliphoridae) em hospitais públicos da Cidade do Recife</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Santos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Entomol Vectores</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="37" to="51" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Pernambuco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francesconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lupi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Myiasis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Microbiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="79" to="105" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the neotropical region: bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Plêiade</publisher>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">Entomologia e acarologia na medicina veterinária</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<publisher>L.F. Livros de Veterinária</publisher>
+			<pubPlace>Rio de Janeiro</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chave para a identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Luz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">American Joint Committee on Cancer. AJCC cancer staging manual</title>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<publisher>Springer</publisher>
+			<pubPlace>Chicago</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">Ocorrência e manejo de feridas neoplásicas em mulheres com câncer de mama avançado</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">O</forename><surname>Gozzo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">P</forename><surname>Tahan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">G</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Prado</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2014</date>
+			<publisher>Esc Anna Nery</publisher>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="270" to="276" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">First record of human myiasis caused by association of the species Chrysomya megacephala (Diptera: Calliphoridae), Sarcophaga (Liopygia) ruficornis (Diptera: Sarcophagidae), and Musca domestica (Diptera: Muscidae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Proença</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Barbalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="487" to="490" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">World Organisation for Animal Health. Manual of diagnostic tests and vaccines for terrestrial animals</title>
+		<imprint/>
+	</monogr>
+	<note>mammals, birds and bees</note>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">World Organisation for Animal Health</title>
+		<imprint>
+			<date type="published" when="2008">2008</date>
+			<biblScope unit="volume">1</biblScope>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>th ed.</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Influência climática e antrópica na abundância e riqueza de Calliphoridae (Diptera) em fragmento florestal da Reserva Biológica do Tinguá</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Neotrop entomol</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="476" to="485" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Sinantropía de Calliphoridae (Diptera) del Municipio La Pintada, Antioquia -Colombia</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Montoya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Sánchez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Colomb Entomol</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="73" to="82" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Deficiência de ferro no paciente com câncer</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Calabrich</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Katz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Bras Hematol Hemoter</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">Supl</biblScope>
+			<biblScope unit="page" from="84" to="88" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Gamma glutamyl transferase of cancer cells at the crossroads of tumor progression, drug resistance and drug targeting</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Corti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Franzini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Paolicchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Pompella</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anticancer Res</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1169" to="1181" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">The measurement of serum alkaline phosphatase in clinical medicine</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Posen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><surname>Doherty</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Adv Clin Chem</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="163" to="245" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Multiple forms of human serum alkaline phosphatase: detection and quantitation</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">P</forename><surname>Price</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann Clin Biochem</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="355" to="372" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Marcadores moleculares em câncer de mama preditivos de metástases axilares</title>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">F</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Metze</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Sanches</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">F</forename><surname>Rocha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Gobbi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Assoc Med Bras</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="203" to="207" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Traumatic myiasis: a neglected disease in a changing world</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Wall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Entomol</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<biblScope unit="page" from="159" to="176" />
+			<date type="published" when="2016">2016</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Effect of bait decomposition on the attractiveness to species of Diptera of veterinary and forensic importance in a rainforest fragment in Brazil</title>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Científico e Tecnológico and Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-11-07">7 November 2015</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Diego</forename><forename type="middle">L</forename><surname>Oliveira</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Insects of Forensic Importance Research Group , Departamento de Zoologia , Universidade Federal de Pernambuco , Av. Professor Moraes Rego , Recife , Pernambuco , Brazil</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="laboratory">Insects of Forensic Importance Research Group</orgName>
+								<orgName type="institution">Universidade Federal de Pernambuco</orgName>
+								<address>
+									<addrLine>Av. Professor Moraes Rego</addrLine>
+									<settlement>Recife Pernambuco</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Thiago</forename><forename type="middle">F</forename><surname>Soares</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Insects of Forensic Importance Research Group , Departamento de Zoologia , Universidade Federal de Pernambuco , Av. Professor Moraes Rego , Recife , Pernambuco , Brazil</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="laboratory">Insects of Forensic Importance Research Group</orgName>
+								<orgName type="institution">Universidade Federal de Pernambuco</orgName>
+								<address>
+									<addrLine>Av. Professor Moraes Rego</addrLine>
+									<settlement>Recife Pernambuco</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Agência Estadual de Meio Ambiente de Pernambuco , Rua Santana , 367 , Recife , Pernambuco , Brazil</note>
+								<orgName type="institution" key="instit1">Agência Estadual de Meio Ambiente de Pernambuco</orgName>
+								<orgName type="institution" key="instit2">Rua Santana</orgName>
+								<address>
+									<postCode>367</postCode>
+									<settlement>Recife Pernambuco</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Simão</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Insects of Forensic Importance Research Group , Departamento de Zoologia , Universidade Federal de Pernambuco , Av. Professor Moraes Rego , Recife , Pernambuco , Brazil</note>
+								<orgName type="department">Departamento de Zoologia</orgName>
+								<orgName type="laboratory">Insects of Forensic Importance Research Group</orgName>
+								<orgName type="institution">Universidade Federal de Pernambuco</orgName>
+								<address>
+									<addrLine>Av. Professor Moraes Rego</addrLine>
+									<settlement>Recife Pernambuco</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Effect of bait decomposition on the attractiveness to species of Diptera of veterinary and forensic importance in a rainforest fragment in Brazil</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Parasitology Research</title>
+						<title level="j" type="abbrev">Parasitol Res</title>
+						<idno type="ISSN">0932-0113</idno>
+						<idno type="eISSN">1432-1955</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">115</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="449" to="455"/>
+							<date type="published" when="2015-11-07">7 November 2015</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">155741D3AE9B26D0F71CF4E5756C86BA</idno>
+					<idno type="DOI">10.1007/s00436-015-4811-6</idno>
+					<note type="submission">Received: 3 August 2015 / Accepted: 2 November 2015 /</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Forensic entomology</term>
+					<term>Myiasis</term>
+					<term>Disease vectors</term>
+					<term>Blowflies</term>
+					<term>Calliphoridae</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Insects associated with carrion can have parasitological importance as vectors of several pathogens and causal agents of myiasis to men and to domestic and wild animals. We tested the attractiveness of animal baits (chicken liver) at different stages of decomposition to necrophagous species of Diptera (Calliphoridae, Fanniidae, Muscidae, Phoridae and Sarcophagidae) in a rainforest fragment in Brazil. Five types of bait were used: fresh and decomposed at room temperature (26 °C) for 24, 48, 72 and 96 h. A positive correlation was detected between the time of decomposition and the abundance of Calliphoridae and Muscidae, whilst the abundance of adults of Phoridae decreased with the time of decomposition. Ten species of calliphorids were registered, of which Chrysomya albiceps, Chrysomya megacephala and Chloroprocta idioidea showed a positive significant correlation between abundance and decomposition. Specimens of Sarcophagidae and Fanniidae did not discriminate between fresh and highly decomposed baits. A strong female bias was registered for all species of Calliphoridae irrespective of the type of bait. The results reinforce the feasibility of using animal tissues as attractants to a wide diversity of dipterans of medical, parasitological and forensic importance in short-term surveys, especially using baits at intermediate stages of decomposition.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Field surveys of necrophagous species of Diptera have largely relied on the use of animal tissue baits, and they have provided substantial information on the geographical distribution of flies of medico-veterinary and forensic relevance <ref type="bibr" target="#b22">(Vasconcelos and Araújo 2012;</ref><ref type="bibr" target="#b17">Martín-Vega and Baz 2012)</ref>. Although, at first, these baits can be considered as less realistic substrates when compared to animal carcasses and cadavers, their use offers many advantages: low cost, reproducibility and suitability to short-term samplings and, most importantly, they involve relatively little logistical and ethical restraints. In fact, the diversity of species sampled on baits in several studies can be comparable to those registered on pig carcasses, which are the most widely used animal model in forensic entomology <ref type="bibr" target="#b10">(Farinha et al. 2014)</ref>.</p><p>Flies of the families Calliphoridae, Fanniidae, Muscidae, Phoridae and Sarcophagidae are regarded as the most important organisms in forensic entomology due to their intimate association with human cadavers <ref type="bibr" target="#b1">(Amendt et al. 2004</ref>). Additionally, several species can act as vectors of pathogens, such as viruses, bacteria and helminths, and can cause obligatory or facultative myiasis in wild and domestic animals and in humans <ref type="bibr" target="#b14">(Greenberg 1973)</ref>. Despite this importance, only recently has the status of dipteran species as causal agents of myiasis in Northeastern Brazil been investigated <ref type="bibr" target="#b5">(Barbosa and Vasconcelos 2015)</ref>.</p><p>In order to complete their vitellogenesis and be physiologically mature to mate, most female necrophagous flies need a protein-rich meal, as found in carcasses and cadavers, which justifies their forensic relevance. Concomitantly, males look after the same substrate in an attempt to find and copulate with mature females <ref type="bibr" target="#b2">(Archer and Elgar 2003)</ref>. The location of these substrates is primordially based on chemoreception of the volatile organic compounds (VOCs) released from decomposing tissues <ref type="bibr" target="#b3">(Ashworth and Wall 1994)</ref>. This process changes throughout the decomposition, so that the odoriferous profiles associated with each stage of the process influence the temporal succession of species on the resource <ref type="bibr" target="#b20">(Nuorteva 1977;</ref><ref type="bibr" target="#b25">Vass et al. 2008)</ref>.</p><p>Effective sampling of necrophagous insects can be benefitted from the combined information on the species ecology, physiology and behaviour. For instance, it is known that the size, shape and colour of traps can affect the capture of muscoid flies <ref type="bibr" target="#b18">(Mello et al. 2009)</ref>. Also, males and females can respond differently to baited traps, depending on their mating behaviour <ref type="bibr" target="#b17">(Martín-Vega and Baz 2012)</ref>. In this study, we aimed to investigate the effect of bait decomposition on the capture of necrophagous Diptera (Muscomorpha), with emphasis on Calliphoridae, in a peri-urban forest fragment, an area that harbours wild species of vertebrates and mimics sites for disposal of cadavers in Brazil. Specifically, we aimed to compare the abundance of adult flies collected on baits at different stages of decomposition and to investigate the sex ratio of adults trapped on differentially decomposed baits.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and methods</head><p>The experiments were carried out in the wildlife refuge Mata do Curado (08°4′ 14″ S; 34°57′ 46″ W), a set of rainforest fragments that totalizes 102 ha, located in the city of Recife, Northeastern Brazil. The area comprehends a high diversity of trees of the families Myrtaceae, Lauraceae, Mimosaceae and Fabaceae, resulting in a closed canopy with low direct sunlight penetration and only a few gaps. The fragment utilized is maintained by the Brazilian Army and is surrounded by industrial and residential buildings and roads. Local vertebrate fauna includes wild species of birds, amphibians, small reptiles and mammals, such as sloths, wild dogs and marmosets. The climate is classified as Köppens' As, with two seasons, dry (September-February) and rainy (March-August). The annual mean temperature is 25.5 °C, with annual rainfall of 2200 mm and mean relative humidity of 80 %.</p><p>Insects were collected using the traps described in <ref type="bibr" target="#b24">Vasconcelos et al. (2015)</ref> (Fig. <ref type="figure" target="#fig_0">1</ref>), which captures flying adults that are attracted to the baits without the interference of visual clues. Baits consisted of 150 g of liver extracted from recently killed chicken obtained from the same poultry farm. Five treatments (stages of decomposition) were used: fresh baits (0 day) and baits previously decomposed for 24, 48, 72 or 96 h at room temperature (26 °C) in the laboratory, protected from contamination. All types of bait were exposed simultaneously in the field separated equidistantly by 20 m. Sampling was performed from June 2012 to January 2013, so that both rainy and dry seasons were represented. We used 30 replicates of each treatment throughout six expeditions, totalling 150 independent samples. In order to detect collection of insects due to chance, five additional traps containing no baits were exposed simultaneously. All the traps remained in the field for 24 h, after which the insects were sexed and identified using taxonomical keys <ref type="bibr" target="#b8">(Carvalho and Ribeiro 2000;</ref><ref type="bibr" target="#b7">Carvalho and Mello-Patiu 2008)</ref>.</p><p>The association of insects and each decomposition stage was tested using Spearman's correlation. Differences in the abundance of adults among treatments were assessed by using the non-parametric analysis of variance of Kruskal-Wallis, with a posteriori Student-Newman-Keuls test. Simpson's dominance index was estimated for the families on each type of bait. All analyses were refined for species of Calliphoridae that had a minimum of 100 captured individuals. Additionally, the composition and structure of the Calliphoridae species were used for building Bray-Curtis' similarity matrices followed by analysis of similarity (ANOSIM) and nonmetric multidimensional scaling (NMDS), in order to detect the grouping at each type of bait. Finally, the sex ratio was analyzed according to the stage of bait decomposition using a chi-square test. The BioEstat 5.0 software, Statistica 7 software and Primer 6.0 software were used, with 5 % significance level.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>When all the treatments were combined, 10,000 adults of the families Calliphoridae, Fanniidae, Muscidae, Phoridae and Sarcophagidae were collected. Calliphoridae was by far the most abundant taxon, with 77.6 % of all specimens, followed by Phoridae (10.4 %), Sarcophagidae (5.7 %), Muscidae (4.7 %) and, lastly, Fanniidae with only 1.6 % of all adults (Table <ref type="table" target="#tab_0">1</ref>). No insects were collected in the traps that did not contain attractants.</p><p>The association of necrophagous species with baits at variable decomposition stages differed among the families. The abundance of Calliphoridae specimens varied significantly according to the time of decomposition (H = 13.62; P = 0.0086), particularly between the baits exposed for 0 and 24 h (P=0.0154), 0 and 72 h (P=0.0004) and 0 and 96 h (P=0.0086) and between baits exposed for 48 and 72 h (P= 0.0449). Overall, adults of Calliphoridae tended to be more abundant on decomposed animal substrates and this correlation was significant (P=0.0098) (Fig. <ref type="figure">2</ref>).</p><p>The abundance of Phoridae specimens differed significantly among the types of bait (H=16.30; P=0.0026), specifically between fresh baits (0 h) and 72 h-decomposed baits (P= 0.0025), 0 and 96 h (P = 0.0015) and 24 and 72 h (P = 0.0145) and, lastly, between baits exposed for 24 and 96 h (P=0.0009). Abundance of adults decreased significantly (P&lt;0.0001) as the time of the decomposition progressed (Fig. <ref type="figure">2</ref>).</p><p>The mean abundance of adults did not vary significantly across times of decomposition for Sarcophagidae (H=6.93; P=0.1398) and Fanniidae (H=3.46; P=0.4840) (Fig. <ref type="figure">2</ref>). Lastly, the abundance of Muscidae differed significantly (H=14.41; P=0.0061), particularly between baits at 0 h and those exposed for 72 h (P=0.0002) and between 0 and 96 h (P=0.0126). There was no significant correlation between the time of decomposition and the abundance of Sarcophagidae (P=0.5211) and Fanniidae (P=0.5156), whilst this correlation proved to be significantly positive for Muscidae (P=0.0007).</p><p>According to Simpson's dominance index, Calliphoridae did not present a clear dominance on fresh baits (0.41) but this value increased along the treatments: 0.56 (24 h), 0.65 (48 h), 0.64 (72 h) and 0.75 (96 h). Ten species of Calliphoridae were registered (Table <ref type="table" target="#tab_0">1</ref>), of which Chrysomya megacephala (Fabricius, 1794) (35.3 %) and Hemilucilia semidiaphana (Rondani, 1850) (30.9 %) were the most abundant in all types of baits. The MDS analysis revealed that no clear grouping was formed among species and time of decomposition, confirmed by the ANOSIM (R assemblage composition =-0.019, P= 0.638, and R assemblage structure =-0.040, P=0.770).</p><p>The overall abundance varied across the time of decomposition for Chrysomya albiceps (Wiedemann, 1819) (H = 11.3684; P = 0.0227), C. megacephala (H = 11.7416; P = 0.0194) and Mesembrinella bicolor (Fabricius, 1805) (H= </p><formula xml:id="formula_0">••• •••• •••• •••• •••• Chloroprocta idioidea (Robineau-Desvoidy, 1830) • • • • • • • 245 Chrysomya albiceps (Wiedemann, 1819) • •• ••• ••• ••• 949 Chrysomya megacephala (Fabricius, 1794) •• ••• ••• ••• ••• 2736 Chrysomya putoria (Wiedemann, 1818) - - • • • 8 Cochliomyia hominivorax (Coquerel, 1858) - - - - • 1 Cochliomyia macellaria (Fabricius, 1775) - - • • -<label>4</label></formula><p>Hemilucilia segmentaria (Fabricius, 1805) A significant correlation between abundance and time of decomposition was registered for C. albiceps (P=0.0003), C. megacephala (P=0.0044) and C. idioidea (P=0.0099) (Fig. <ref type="figure">3</ref>). For H. segmentaria, H. semidiaphana and M. bicolor, no significant correlation was observed (P&gt;0.05 for all) (Fig. <ref type="figure">3</ref>). In spite of the differences in the abundance, none of the Calliphoridae species was dominant over the others, as indicated by the Simpsons' dominance values between 0.22 and 0.33.</p><formula xml:id="formula_1">• • • • • • • • • 367 Hemilucilia semidiaphana (Rondani, 1850) •• ••• ••• ••• ••• 2397 Lucilia eximia (Wiedemann, 1819) • • • • • 47 Mesembrinella bicolor (Fabricius, 1805) •• ••• •• ••• ••• 1004 Fanniidae • • • • • • 164 Muscidae • • •• •• •• 467 Phoridae • ••• •• •• •• 1038 Sarcophagidae •• •• ••• •• ••<label>573</label></formula><p>Finally, the sex ratio was significantly biased towards females for the six species of Calliphoridae analyzed and this pattern was observed on all types of bait (P&lt;0.05 for all comparisons). The percentage of females ranged from a minimum of 64.1 % for M. bicolor on 96 h baits until 100.0 % for C. albiceps on fresh baits and for C. idioidea on 24 hdecomposed baits (Fig. <ref type="figure">4</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Usually, studies on the effect of ageing of substrates on the attractiveness to necrophagous Diptera rely on daily samplings throughout the decomposition of animal carcasses <ref type="bibr" target="#b26">(Voss et al. 2009;</ref><ref type="bibr" target="#b23">Vasconcelos et al. 2013)</ref>. Experiments that offer baits at different stages of decomposition simultaneously in the field, on the other hand, are scarce. This differentiation is crucial because the ageing of the substrate alters its nutritional quality, due to the breaking of tissues and microbial activity, which reflects on the attractiveness to late colonizers <ref type="bibr" target="#b13">(George et al. 2012)</ref>. For example, <ref type="bibr" target="#b6">Bunchu et al. (2008)</ref> showed that the effect of decomposition on the response of C. megacephala in wind tunnels varies according to the substrate and, for some animal tissues such as pork, to the sex of the adult individuals.</p><p>In this study, species of the five families most frequently used in forensic entomology were attracted to baits at all levels of decomposition, that is, from fresh to highly decomposed animal tissues. The lack of capture on control traps confirms Fig. <ref type="figure">2</ref> Abundance (mean, standard error and 95 % confidence interval) of adults of the families Calliphoridae, Fanniidae, Muscidae, Phoridae and Sarcophagidae. When significant, Spearman's correlation is depicted as a 'best fit' line that the adult flies were effectively attracted to the substrates. The response to the attractiveness was variable: for instance, specimens of Calliphoridae showed a preference for highly decomposed substrates. This pattern was observed for both native (M. bicolor) and exotic species (C. albiceps and C. megacephala), which contradicts studies that suggest a strong preference of blowflies, especially those of the invasive genus Chrysomya for fresh substrates <ref type="bibr" target="#b2">(Archer and Elgar 2003)</ref>.</p><p>The preference of adults of Phoridae for early stages of decomposition reported here has been documented in the literature, for example, for Megaselia scalaris (Loew, 1866), which is classified as an early colonizer of cadavers <ref type="bibr" target="#b9">(Disney 2008)</ref>. The lack of discrimination between fresh and highly Fig. <ref type="figure">3</ref> Abundance (mean, standard error and 95 % confidence interval) of adults of Calliphoridae. When significant, Spearman's correlation is depicted as a 'best fit' line Fig. <ref type="figure">4</ref> Sex ratio of six species of Calliphoridae, expressed in percentages: males=grey; females=white decomposed baits by adults of Sarcophagidae and Fanniidae suggests that they can exhibit a generalist behaviour regarding the source of food, a fact that has been demonstrated elsewhere <ref type="bibr" target="#b26">(Voss et al. 2009;</ref><ref type="bibr" target="#b0">Aballay et al. 2012)</ref>. The preference of Muscidae specimens for resources at advanced stages of decomposition reported here was also registered by <ref type="bibr" target="#b26">Voss et al. (2009)</ref>.</p><p>The type and the amount of VOCs released by decomposing animal tissues can vary with the type, size, temperature and stage of decomposition <ref type="bibr" target="#b25">(Vass et al. 2008)</ref>. The variety of VOCs-which includes sulphur and nitrogen compounds, alcohols, acids and esters-can surpass 400 substances on human cadavers <ref type="bibr" target="#b25">(Vass et al. 2008</ref>). Since similar compounds may be released by different substrates (baits and carcasses), generalist necrophagous species are likely to be collected on several types of attractants when seeking for feeding and ovi-larviposition sites. For example, <ref type="bibr" target="#b24">Vasconcelos et al. (2015)</ref> reported similar richness of species and abundance of necrophagous flies when pork, sardine and chicken liver were used as baits in different environments in Brazil.</p><p>Because females of necrophagous flies use decomposing substrates as a source of protein-rich food to find mating partners and to deposit eggs/larvae <ref type="bibr" target="#b4">(Avancini and Linhares 1988)</ref>, the expected female bias was observed in this study for all species and for baits at all stages of decomposition. This pattern was recorded in several environments for species of Calliphoridae, Muscidae and Sarcophagidae (Martín-Vega and Baz 2012; <ref type="bibr" target="#b21">Szpila et al. 2015)</ref>. According to <ref type="bibr" target="#b19">Mulieri et al. (2015)</ref>, the short duration of the copula of blowflies propels males to spend relatively shorter periods on the substrate, which reduces the likelihood of their capture.</p><p>Due to their high attractiveness to necrophagous arthropod fauna, bait traps facilitate surveys of species of medical and parasitological relevance for the development of strategies of monitoring and control. Synanthropic flies can carry a high range of pathogens, including some highly pathogenic strains of Escherichia coli, as reported by <ref type="bibr" target="#b11">Förster et al. (2007)</ref>.</p><p>According to <ref type="bibr" target="#b15">Hall and Wall (1995)</ref>, most myiasis-inducing species of Calliphoridae and Sarcophagidae deposit their eggs or larvae directly onto the host under some predisposition, such as a wound, necrosis or bacterial contamination. Some of the species reported here (such as C. albiceps and Cochliomyia hominivorax) are able to cause primary myiasis <ref type="bibr" target="#b12">(Francesconi and Lupi 2012)</ref>. In a recent review, <ref type="bibr" target="#b5">Barbosa and Vasconcelos (2015)</ref> compiled a list of myiasis-inducing Diptera species in Northeastern Brazil, some of which are listed here. H. segmentaria, for example, can be a vector of Dermatobia hominis (Oestridae) eggs <ref type="bibr" target="#b16">(Marinho et al. 2003)</ref>, a fact that raises concerns about the role of urban forest fragments as refuges for myiasis-inducing species.</p><p>In a study carried out in a similar rainforest fragment in Brazil, <ref type="bibr" target="#b23">Vasconcelos et al. (2013)</ref> recorded over 95 % of the diversity of species on the first 24 h of the decomposition of pig carcasses, which corresponded to the fresh stage. Because baits are smaller-and decompose faster-than carcasses, a large spectrum of species can be collected within a few days of difference in the putrefaction. Knowledge on the species association to different baits may offer valuable insights into patterns of resource use and on the potential breeding substrates and proper methods for sampling necrophagous species <ref type="bibr" target="#b19">(Mulieri et al. 2015)</ref>. The results reinforce the feasibility of using animal tissues as attractants to a wide diversity of dipterans of parasitological and forensic importance in short-term surveys, especially using baits at intermediate stages of decomposition.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1</head><label>1</label><figDesc>Fig. 1 Model of baited traps used in the field trials</figDesc><graphic coords="2,347.13,53.86,156.18,336.87" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><figDesc>•=1 to 49, ••=50 to 199, •••=200 to 999, ••••=1000 and over 11.4727; P=0.0217). For C. albiceps, the abundance on fresh baits (0 h) differed significantly when compared to 72 h (P= 0.0048) and 96 h (P=0.0064). Differences in the abundance of C. megacephala were registered between 0 and 48 h (P= 0.0475), 0 and 72 h (P = 0.0008) and 0 and 96 h (P = 0.0223). For M. bicolor, the abundance varied significantly between fresh baits (0 h) when compared to 24 h (P = 0.0052) and 72 h (P=0.0030). The abundance did not vary among differentially decomposed baits for Chloroprocta idioidea (Robineau-Desvoidy, 1830), Hemilucilia segmentaria (Fabricius, 1805) and H. semidiaphana (P&gt;0.05 for all).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="4,51.02,53.86,493.59,309.49" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="5,51.02,53.86,493.59,243.21" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="5,84.70,456.61,425.95,245.25" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1</head><label>1</label><figDesc>Overall abundance of necrophagous Diptera, with emphasis on Calliphoridae, according to the time of bait decomposition</figDesc><table><row><cell>Family/species</cell><cell cols="2">Time of decomposition</cell><cell></cell><cell></cell><cell>Total</cell></row><row><cell></cell><cell>0 h</cell><cell>24 h</cell><cell>48 h</cell><cell>72 h</cell><cell>96 h</cell></row><row><cell>Calliphoridae</cell><cell></cell><cell></cell><cell></cell><cell></cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments We thank the administration of the <rs type="affiliation">Comando Militar do Nordeste</rs> for the access to the experimental area, <rs type="person">Dr. Paulo Santos</rs> and <rs type="person">Dr. José Roberto Souza</rs> for their suggestions on the analyses and the <rs type="funder">Conselho Nacional de Desenvolvimento Científico e Tecnológico and Fundação de Amparo à Ciência e Tecnologia do Estado de Pernambuco</rs> for their financial support.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Adult Fanniidae associated to pig carcasses during the winter season in a semiarid environment: initial examination of their potential as complementary PMI indicators</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">H</forename><surname>Aballay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Domínguez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">F</forename><surname>Campón</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.forsciint.2011.11.019</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Sci Int</title>
+		<imprint>
+			<biblScope unit="volume">219</biblScope>
+			<biblScope unit="page" from="284" to="e285" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Forensic entomology</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Amendt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Krettek</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Zehner</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00114-003-0493-5</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Naturwissenschaften</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="51" to="65" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Effects of decomposition on carcass attendance in a guild of carrion-breeding flies</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Archer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Elgar</surname></persName>
+		</author>
+		<idno type="DOI">10.1046/j.1365-2915.2003.00430.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="263" to="271" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Responses of the sheep blowflies Lucilia sericata and L. cuprina to odour and the development of semiochemical baits</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Ashworth</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2915.1994.tb00093.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="303" to="309" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Selective attractiveness of rodentbaited traps for female blowflies</title>
+		<author>
+			<persName><forename type="first">Rmp</forename><surname>Avancini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2915.1988.tb00050.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="76" />
+			<date type="published" when="1988">1988</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">An updated checklist of myiasisinducing Diptera species in livestock in Northeastern Brazil</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Zootec</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="187" to="190" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Behavioral responses of Chrysomya megacephala to natural products</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bunchu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Sukontason</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">K</forename><surname>Olson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Kurahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sukontason</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00436-007-0780-8</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol Res</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="page" from="419" to="429" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Key to the adults of the most common forensic species of Diptera in South America</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Mello-Patiu</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0085-56262008000300012</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="390" to="406" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Chave de identificação de espécies de Calliphoridae (Diptera) do sul do Brasil</title>
+		<author>
+			<persName><forename type="first">Cjb</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Parasitol Vet</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="169" to="173" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Natural history of the scuttle fly, Megaselia scalaris</title>
+		<author>
+			<persName><forename type="first">Rhl</forename><surname>Disney</surname></persName>
+		</author>
+		<idno type="DOI">10.1146/annurev.ento.53.103106.093415</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Annu Rev Entomol</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="39" to="60" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Small baits traps as accurate predictors of Dipteran early colonizers in forensic studies</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Farinha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Dourado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Centeio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">T</forename><surname>Rebelo</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jis/14.1.77</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">77</biblScope>
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Pilot study on synanthropic flies (e.g. Musca, Sarcophaga, Calliphora, Fannia, Lucilia, Stomoxys) as vectors of pathogenic microorganisms</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Förster</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Klimpel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Mehlhorn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Sievert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Messler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pfeffer</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00436-007-0522-y</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol Res</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="page" from="243" to="246" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Myiasis</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francesconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lupi</surname></persName>
+		</author>
+		<idno type="DOI">10.1128/CMR.00010-11</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Microbiol Rev</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="79" to="105" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Effects of bait age, larval chemical cues and nutrient depletion on colonization by forensically important calliphorid and sarcophagid flies</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">A</forename><surname>George</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Archer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Toop</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1365-2915.2011.00996.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Med Vet Entomol</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="188" to="193" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title level="m" type="main">biology and disease transmission</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973">1973</date>
+			<publisher>Princeton University Press</publisher>
+			<biblScope unit="volume">2</biblScope>
+			<pubPlace>Princeton</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Flies and disease</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Myiasis in humans and domestic animals</title>
+		<author>
+			<persName><forename type="first">Mjr</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Advances in Parasitology</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Baker</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><surname>Muller</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><surname>Rollinson</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Academic</publisher>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="258" to="334" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Hemilucilia segmentaria (Fabricius, 1805) (Diptera: Calliphoridae) as New Biological Vector of Eggs of Dermatobia hominis (Linnaeus Jr., 1781) (Diptera: Oestridae) in Reserva Biológica do Tinguá</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Marinho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">S</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Acg</forename><surname>Azevedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Valgode</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Vma</forename><surname>Coelho</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0074-02762003000700013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">C r u z 9</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="9" to="12" />
+			<date type="published" when="2003">2003</date>
+			<pubPlace>Rio de Janeiro, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+	<note>3 8 . d o i : 1 0 . 1 5 9 0 / S 0 0 7 4 -02762003000700013</note>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Sex-biased captures of sarcosaprophagous Diptera in carrion-baited traps</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Martín-Vega</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Baz</surname></persName>
+		</author>
+		<idno type="DOI">10.1673/031.013.1401</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Calliphorid fly (Diptera, Calliphoridae) attraction to different colored traps in the Tingua Biological Reserve, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Nunes-Freitas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aguiar-Coelho</forename><surname>Vm</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0073-47212009000400013</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Iheringia Ser Zool</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="page" from="426" to="430" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Sex-biased patterns of saprophagous Calyptratae (Diptera) collected with different baits of animal origin</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">R</forename><surname>Mulieri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Patitucci</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Olea</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/jme/tjv031</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Med Entomol</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="386" to="393" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Sarcosaprophagous insects as forensic indicators</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Nuorteva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Forensic medicine: a study of trauma and environmental hazards</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">G</forename><surname>Tedeschi</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">W</forename><forename type="middle">G</forename><surname>Eckert</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Tedeschi</surname></persName>
+		</editor>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>WB Saunders</publisher>
+			<date type="published" when="1977">1977</date>
+			<biblScope unit="volume">II</biblScope>
+			<biblScope unit="page" from="1072" to="1095" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Flesh flies (Diptera: Sarcophagidae) colonising large carcasses in Central Europe</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Szpila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Madra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jarmusz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Matuszewski</surname></persName>
+		</author>
+		<idno type="DOI">10.1007/s00436-015-4431-1</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitol Res</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="page" from="2341" to="2348" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Necrophagous species of Diptera and Coleoptera in northeastern Brazil: state of the art and challenges for the forensic entomologist</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mcs</forename><surname>Araújo</surname></persName>
+		</author>
+		<idno type="DOI">10.1590/S0085-56262012005000014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Bras Entomol</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="7" to="14" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Dipterans associated with a decomposing animal carcass in a rainforest fragment in Brazil: notes on the early arrival and colonization by necrophagous species</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Cruz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Salgado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J</forename><surname>Thyssen</surname></persName>
+		</author>
+		<idno type="DOI">10.1673/031.013.14501</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page">145</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Diversity of forensically-important dipteran species in different environments in northeastern Brazil, with notes on the attractiveness of animal baits</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">D</forename><surname>Vasconcelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">M</forename><surname>Barbosa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tpb</forename><surname>Oliveira</surname></persName>
+		</author>
+		<idno type="DOI">10.1653/024.098.0256</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Fla Entomol</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<biblScope unit="page" from="770" to="775" />
+			<date type="published" when="2015">2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Odor analysis of decomposing buried human remains</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Vass</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">V</forename><surname>Thompson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">N</forename><surname>Burnett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Dulgerian</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Eckenrode</surname></persName>
+		</author>
+		<idno type="DOI">10.1111/j.1556-4029.2008.00680.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">J Forensic Sci</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="384" to="391" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Annual and seasonal patterns of insect succession on decomposing remains at two locations in Western Australia</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">C</forename><surname>Voss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Spafford</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">R</forename><surname>Dadour</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/j.forsciint.2009.08.014</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Forensic Sci Int</title>
+		<imprint>
+			<biblScope unit="volume">193</biblScope>
+			<biblScope unit="page" from="26" to="36" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Priscila</forename><forename type="middle">M S</forename><surname>Carmo</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária , Centro de Ciências Rurais (CCR) , Universidade Federal de Santa Maria (UFSM) , Camobi , Santa Maria , RS 97105-900 , Brasil.</note>
+								<orgName type="department">Centro de Ciências Rurais (CCR)</orgName>
+								<orgName type="institution" key="instit1">Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Santa Maria (UFSM)</orgName>
+								<address>
+									<postCode>97105-900</postCode>
+									<settlement>Camobi</settlement>
+									<region>Santa Maria RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Agueda</forename><forename type="middle">C</forename><surname>Vargas</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> Laboratório de Bacteriologia (Labac) , Centro de Ciências Rurais , UFSM , Santa Maria , RS.</note>
+								<orgName type="laboratory">Laboratório de Bacteriologia (Labac)</orgName>
+								<orgName type="institution" key="instit1">Centro de Ciências Rurais</orgName>
+								<orgName type="institution" key="instit2">UFSM</orgName>
+								<address>
+									<region>Santa Maria</region>
+									<country>RS</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Daniel</forename><forename type="middle">R</forename><surname>Rissi</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária , Centro de Ciências Rurais (CCR) , Universidade Federal de Santa Maria (UFSM) , Camobi , Santa Maria , RS 97105-900 , Brasil.</note>
+								<orgName type="department">Centro de Ciências Rurais (CCR)</orgName>
+								<orgName type="institution" key="instit1">Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Santa Maria (UFSM)</orgName>
+								<address>
+									<postCode>97105-900</postCode>
+									<settlement>Camobi</settlement>
+									<region>Santa Maria RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">C</forename><surname>Oliveira-Filho</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária , Centro de Ciências Rurais (CCR) , Universidade Federal de Santa Maria (UFSM) , Camobi , Santa Maria , RS 97105-900 , Brasil.</note>
+								<orgName type="department">Centro de Ciências Rurais (CCR)</orgName>
+								<orgName type="institution" key="instit1">Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Santa Maria (UFSM)</orgName>
+								<address>
+									<postCode>97105-900</postCode>
+									<settlement>Camobi</settlement>
+									<region>Santa Maria RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Felipe</forename><surname>Pierezan</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária , Centro de Ciências Rurais (CCR) , Universidade Federal de Santa Maria (UFSM) , Camobi , Santa Maria , RS 97105-900 , Brasil.</note>
+								<orgName type="department">Centro de Ciências Rurais (CCR)</orgName>
+								<orgName type="institution" key="instit1">Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Santa Maria (UFSM)</orgName>
+								<address>
+									<postCode>97105-900</postCode>
+									<settlement>Camobi</settlement>
+									<region>Santa Maria RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ricardo</forename><forename type="middle">B</forename><surname>Lucena</surname></persName>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>2</label> Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária , Centro de Ciências Rurais (CCR) , Universidade Federal de Santa Maria (UFSM) , Camobi , Santa Maria , RS 97105-900 , Brasil.</note>
+								<orgName type="department">Centro de Ciências Rurais (CCR)</orgName>
+								<orgName type="institution" key="instit1">Programa de Pós-Graduação em Medicina Veterinária, área de concentração em Patologia Veterinária</orgName>
+								<orgName type="institution" key="instit2">Universidade Federal de Santa Maria (UFSM)</orgName>
+								<address>
+									<postCode>97105-900</postCode>
+									<settlement>Camobi</settlement>
+									<region>Santa Maria RS</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Fernando</forename><forename type="middle">L</forename><surname>Leivas Leite</surname></persName>
+							<affiliation key="aff3">
+								<note type="raw_affiliation"><label>3</label> Laboratório de Bacteriologia (Labac) , Centro de Ciências Rurais , UFSM , Santa Maria , RS.</note>
+								<orgName type="laboratory">Laboratório de Bacteriologia (Labac)</orgName>
+								<orgName type="institution" key="instit1">Centro de Ciências Rurais</orgName>
+								<orgName type="institution" key="instit2">UFSM</orgName>
+								<address>
+									<region>Santa Maria</region>
+									<country>RS</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Claudio</forename><forename type="middle">S L</forename><surname>Barros</surname></persName>
+							<email>claudioslbarros@uol.com.br</email>
+							<affiliation key="aff4">
+								<note type="raw_affiliation"><label>4</label> Departamento de Patologia , Centro de Ciências da Saúde , UFSM , Santa Maria , RS 97105-900 . Pesquisador 1A do CNPq .</note>
+								<orgName type="department" key="dep1">Departamento de Patologia</orgName>
+								<orgName type="department" key="dep2">Centro de Ciências da Saúde</orgName>
+								<orgName type="institution">UFSM</orgName>
+								<address>
+									<addrLine>Pesquisador 1A do CNPq</addrLine>
+									<postCode>97105-900</postCode>
+									<region>Santa Maria RS</region>
+								</address>
+							</affiliation>
+							<affiliation key="aff5">
+								<note type="raw_affiliation"><label>*</label> Autor para</note>
+								<orgName type="department">Autor para</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Departamento de Patologia , Universidade Fe- deral de Santa Maria , Avenida Roraima 1000 , Camobi , Santa Maria , RS 97105-900 , Brazil.</note>
+								<orgName type="department">Departamento de Patologia</orgName>
+								<orgName type="institution">Universidade Fe- deral de Santa Maria</orgName>
+								<address>
+									<addrLine>Avenida Roraima 1000</addrLine>
+									<postCode>97105-900</postCode>
+									<settlement>Camobi</settlement>
+									<region>Santa Maria RS</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Recebido em 22 de setembro de 2010 . Aceito para publicação em 22 de novembro de 2010 .</note>
+								<address>
+									<postCode>2010</postCode>
+									<country></country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">BF53DD629357B72BE3874E0E86989C8C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>An outbreak of infectious bovine keratoconjunctivitis (IBK) with concomitant haemonchosis is described affecting a group of 116 yearling calves in southern Brazil. Twenty calves were affected and nine died. Clinical signs included wasting, marked oral mucosal pallor, serous ocular discharge, focal central corneal opacity, and reddening of the conjunctiva. More advanced stages displayed copious serous ocular discharge, corneal opacity, keratoconus, keratomalacia, and blindness. The diagnosis of IBK was based on the epidemiological, clinical, and pathological findings and confirmed by bacteriologic culture of a hemolytic strain of Moraxella bovis from the eye globe of two affected calves. The high lethality rate (45%) in this outbreak was caused by concomitant and severe haemonchosis.</p><p>INDEX TERMS: Diseases of cattle, conjunctivitis, bovine infectious keratoconjunctivitis, Moraxella bovis.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>RESUMO.-É descrito um surto de ceratoconjuntivite infecciosa bovina (CIB) e hemoncose intercorrente afetando um grupo de 116 bezerros de 1-2 anos de idade na região central do Rio Grande do Sul. Vinte bezerros foram afetados e nove morreram. Os sinais clínicos incluíam perda de peso, marcada palidez da mucosa oral, lacrimejamento, opacidade focal da córnea e avermelhamento da conjuntiva. Sinais mais avançados incluíam lacrimejamento copioso, opacidade da córnea, ceratocone, ceratomalacia e cegueira. O diagnóstico de CIB foi baseado nos achados epidemiológi-cos e clínico-patológicos e confirmado pela cultura de uma cepa hemolítica de Moraxella bovis dos olhos de dois terneiros afetados. O alto coeficiente de letalidade (45%) neste surto foi atribuído a grave hemoncose intercorrente.</p><p>TERMOS DE INDEXAÇÃO: Doenças de bovinos, conjuntivite, ceratoconjuntivite infecciosa bovina, Moraxella bovis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUÇÃO</head><p>A ceratoconjuntivite infecciosa bovina (CIB), causada por Moraxella bovis, é a doença ocular mais importante de bovinos em todo o mundo e, embora raramente fatal, causa consideráveis perdas na produção do rebanho <ref type="bibr" target="#b13">(Postma et al. 2008)</ref>. M. bovis é um bacilo aeróbico e Gram-negativo <ref type="bibr" target="#b10">(Kodjo et al. 1997</ref><ref type="bibr">, Angelos 2010a</ref>) que habita normalmente a conjuntiva de bovinos saudáveis <ref type="bibr" target="#b5">(Barber et al. 1986)</ref>. No entanto, cepas produtoras de hemolisina (toxina RTX-representing repeats in the structural toxin) e dotadas de fímbrias são patogênicas e responsáveis pela CIB <ref type="bibr" target="#b15">(Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b5">, Barber et al. 1986</ref><ref type="bibr">, Rogers et al. 1987a</ref><ref type="bibr">,b, Angelos 2010b)</ref>. A doença afeta principalmente Surto de ceratoconjuntivite infecciosa bovina e hemoncose causando mortalidade em bezerros 1 bovinos, mas ovinos e caprinos também podem ser infectados e apresentar doença clínica <ref type="bibr" target="#b21">(Wilcock 2007)</ref>.</p><p>Os sinais clínicos observados inicialmente são lacrimejamento, conjuntivite, blefaroespasmo e fotofobia <ref type="bibr" target="#b4">(Baptista 1979</ref><ref type="bibr" target="#b15">, Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b6">, Brown et al. 1998)</ref>. Após 2-4 dias do início dos sinais clínicos há edema de córnea associado ao aparecimento de um foco opaco e brancacento ou amarelo-azulado no centro da córnea. Esse foco estende-se centrifugamente de forma gradativa <ref type="bibr" target="#b4">(Baptista 1979</ref><ref type="bibr" target="#b15">, Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b0">, Aikman et al. 1985)</ref> e nessa fase pode ser observada ulceração da córnea <ref type="bibr" target="#b15">(Punch &amp; Slatter 1984)</ref>. As sequelas mais comuns em bovinos afetados pela CIB são ceratocone, hipópion e iridociclite <ref type="bibr" target="#b4">(Baptista 1979</ref><ref type="bibr" target="#b15">, Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b7">, Dziezyc &amp; Millichamp 2006)</ref>. O objetivo deste trabalho é descrever a epidemiologia e os achados clínico-patológicos de um surto de CIB em bezerros na região Central do Rio Grande do Sul.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>MATERIAL E MÉTODOS</head><p>Os dados epidemiológicos e os achados clínicos foram obtidos por meio de uma visita à propriedade e informações posteriores do veterinário que atendeu o surto. Na ocasião da nossa visita à propriedade, dois bezerros machos de um ano de idade foram submetidos à eutanásia e necropsiados. Fragmentos de vários órgãos dos dois bovinos necropsiados, incluindo os globos oculares, foram fixados em formol a 10%, processados rotineiramente para histologia e corados pela hematoxilina e eosina. Secções dos olhos foram coradas também pela técnica de Gram. Para comprovação do diagnóstico foram colhidas amostras de secreções oculares de sete bezerros afetados utilizando-se swabs estéreis friccionados no saco conjuntival inferior dos dois olhos. As amostras foram semeadas em meios base de ágar-sangue com 5% de sangue ovino e ágar-MacConkey e incubadas em aerobiose a 37°C por um período de 48 horas. Colônias isoladas foram caracterizadas fenotipicamente (morfologia colonial e celular, reação à coloração de Gram, catalase, oxidase, redução de nitrato, produção de indol, utilização da glicose e teste da deaminação da fenilanina) <ref type="bibr" target="#b12">(MacFaddin 1980</ref><ref type="bibr">, Angelos 2010a)</ref>. Os isolados após a identificação foram submetidos ao teste de suscetibilidade, aos antimicrobianos, in vitro, pelo método de difusão em disco, segundo o NCCLS (1999), com os seguintes antimicrobianos: estreptomicina (10mcg), gentamicina (10mcg), neomicina (30mcg), oxaciclina (1mcg), penicilina (10UI), sulfazotrim (25mcg), tetraciclina (30mcg).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RESULTADOS Epidemiologia e sinais clínicos</head><p>Em meados de dezembro de 2009, 116 bezerros cruza Hereford, com idades de 16-20 meses foram adquiridos de uma fazenda em Rio Pardo e transferidos para um estabelecimento localizado em Santa Cruz do Sul, região Central do Rio Grande do Sul, onde foram colocados em um campo com 135 hectares, onde não havia outros animais. Os bezerros não eram recolhidos para mangueira e não foram everminados ou receberam qualquer tipo de vacinação. No início de janeiro de 2010, alguns desses bezerros apresentaram sinais que consistiam inicialmente de lacrimeja-mento e aparecimento de pequenos focos opacos na porção central da córnea (Fig. <ref type="figure" target="#fig_0">1A</ref>). Com o tempo, esse foco estendia-se centrifugamente e, em alguns casos, passava a atingir quase toda a córnea (Fig. <ref type="figure" target="#fig_0">1B</ref>). Alguns bezerros também apresentavam úlceras, conificação (ceratocone, Fig. <ref type="figure" target="#fig_0">1C</ref>) e ruptura da córnea por enfraquecimento e necrose (ceratomalacia, Fig. <ref type="figure" target="#fig_0">1D</ref>). Três bezerros afetados apresentaram temperatura de 41,5°C, dois estavam cegos (chocavam-se contra obstáculos em seu caminho). Sinais clínicos adicionais incluíam taquipneia, salivação excessiva e mucosas marcadamente pálidas. Num período de aproximadamente quatro semanas, 20 bezerros foram afetados com sinais clínicos semelhantes e nove morreram.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Patologia</head><p>Ambos os bezerros necropsiados mostravam mucosa oral marcadamente pálida. A conjuntiva ocular estava hiperêmica. A córnea do olho direito do Bezerro 1 estava ulcerada e espessada por tecido de granulação. Em meio ao tecido de granulação, encontravam-se numerosas larvas de Cochliomyia hominivorax (Fig. <ref type="figure" target="#fig_1">2</ref>). O centro da córnea do olho esquerdo estava branco opaco e apresentava uma ulceração rasa. A córnea do olho esquerdo do Bezerro 2 estava ulcerada, levemente espessada e brancacenta. O olho direito tinha o centro da córnea branco e opaco. Além das lesões oculares, os dois bezerros apresentavam hidropericárdio, ascite e grande número de exemplares de Haemonchus sp. no abomaso. No intestino delgado havia numerosos exemplares de nematódeos adultos com morfologia compatível com Trichostrongylus sp. Histologicamente foi observado que as três camadas (túnica fibrosa, túnica vascular e túnica neural) do olho direito do Bezerro 1 estavam espessadas por proliferação acentuada de tecido de granulação em meio ao qual havia acentuado infiltrado inflamatório misto, grande quantidade de material fibrilar eosinofílico (fibrina) e larvas de moscas. Sobre a córnea havia grande quantidade de exsudato serocelular contendo numerosos agregados de bactérias Gram-negativas. Na conjuntiva bulbar e no estroma da córnea do olho esquerdo, observou-se infiltrado inflamatório multifocal moderado constituído predominantemente por plasmócitos e, em menor número, por linfócitos. Além disso, foram observados alguns vasos sanguíneos preenchidos por eritrócitos e proliferação leve de tecido conjuntivo fibroso no estroma da córnea desse globo ocular. No corpo ciliar e na íris, havia infiltrado inflamatório multifocal, leve a moderado, constituído por plasmócitos, linfócitos e eosinófilos. As alterações histológicas nos dois globos oculares do Bezerro 2 eram semelhantes às descritas no globo ocular esquerdo do Bezerro 1 (Fig. <ref type="figure" target="#fig_2">3</ref>). Não foram encontradas lesões indicativas de febre catarral maligna nos outros órgãos examinados. A partir do histórico, do exame físico e da necropsia foi realizado o diagnóstico clínico de CIB com hemoncose intercorrente. Nenhum dos bovinos que já estavam na propriedade adoeceram, mas esses animais não tinham contato direto com os 116 bezerros que chegaram em dezembro de 2009. Após o diagnóstico dos dois pro-  blemas, os bezerros foram tratados para hemoncose com sulfóxido de albendazol<ref type="foot" target="#foot_0">foot_0</ref> na dose de 5ml por cada 100 kg de peso. Nenhum tratamento foi instituído para CIB, embora tenha sido recomendado ao proprietário.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Bacteriologia</head><p>Moraxella bovis foi isolado em meio de ágar-sangue em duas das sete amostras de secreção ocular. Não houve crescimento bacteriano no meio ágar-MacConkey. Os isolados caracterizaram-se como colônias cinzas, friáveis e beta-hemolíticas, sendo Gram negativas e em forma de bastonete. As provas bioquímicas revelaram reações positivas para oxidase e catalase. Reações negativas foram observadas nos testes para produção de indol, fermentação da glicose, redução de nitrato e deaminação da fenilalanina. Os isolados de M. bovis foram sensíveis in vitro a todos os antimicrobianos testados.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSÃO</head><p>O diagnóstico de CIB baseou-se na epidemiologia e achados clínico-patológicos e foi confirmado pela presença da bactéria Gram negativa nas lesões e pelo isolamento de uma cepa hemolítica de Moraxella bovis nas amostras de secreções oculares dos bovinos afetados. Os sinais clínicos observados nesse surto caracterizavam a doença desde o seu estágio inicial, com lacrimejamento e formação de focos milimétricos brancos e opacos no centro da córnea, até os estágios mais avançados, caracterizados por ceratocone, ruptura e cegueira. Esses sinais são semelhantes aos descritos em outros casos de CIB <ref type="bibr" target="#b4">(Baptista 1979</ref><ref type="bibr" target="#b15">, Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b6">, Brown et al. 1998</ref><ref type="bibr" target="#b13">, Postma et al. 2008)</ref>.</p><p>A CIB é uma enfermidade altamente contagiosa de distribuição mundial e que geralmente ocorre na forma de surtos <ref type="bibr" target="#b4">(Baptista 1979</ref><ref type="bibr" target="#b15">, Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b21">, Wilcock 2007)</ref>. É considerada uma doença de mortalidade insignificante, mas com alta morbidade e pode afetar até 80% do rebanho <ref type="bibr" target="#b13">(Postma et al. 2008)</ref>. Excepcionalmente, no surto descrito aqui a mortalidade foi alta em razão da hemoncose intercorrente que afetou os bezerros. Bovinos de todas as idades podem ser afetados pela CIB. No entanto, a doença ocorre mais comumente em bovinos jovens, que usualmente apresentam as lesões mais graves <ref type="bibr" target="#b20">(Webber &amp; Selby 1981</ref><ref type="bibr" target="#b21">, Wilcock 2007</ref>). Há indícios de que exista uma predisposição racial para o desenvolvimento de CIB, já que bovinos Hereford e suas cruzas parecem ser mais susceptíveis <ref type="bibr" target="#b20">(Webber &amp; Selby 1981</ref><ref type="bibr" target="#b6">, Brown et al. 1998</ref><ref type="bibr" target="#b18">, Snowder et al. 2005</ref>) que as outras raças <ref type="bibr" target="#b4">(Baptista 1979</ref><ref type="bibr" target="#b20">, Webber &amp; Selby 1981</ref><ref type="bibr" target="#b15">, Punch &amp; Slatter 1984</ref><ref type="bibr" target="#b18">, Snowder et al. 2005)</ref>. No surto aqui relatado, a doença se disseminou rapidamente entre os bovinos mais jovens do rebanho, confirmando seu caráter altamente contagioso e a alta suscetibilidade dos bovinos jovens. A CIB pode ocorrer em qualquer época do ano, porém os surtos ocorrem principalmente no verão e outono <ref type="bibr" target="#b21">(Wilcock 2007)</ref>. A transmissão ocorre por contato direto <ref type="bibr" target="#b11">(Kopecky et al. 1986</ref>) e por meio de fômites e vetores mecânicos, como pastagens altas contaminadas e moscas que carreiam M. bovis <ref type="bibr" target="#b13">(Postma et al. 2008)</ref>. Alguns fatores ambientais contribuem para um aumento da incidência da CIB por causar lesão na córnea, incluindo radiação solar ultravioleta <ref type="bibr" target="#b9">(Hughes et al. 1965</ref><ref type="bibr">, Vogelweid et al.1986)</ref>, vento e poeira <ref type="bibr" target="#b6">(Brown et al. 1998)</ref>. Além disso, fatores estressantes, como transporte, podem agravar a doença <ref type="bibr">(Pugh Jr &amp; McDonald 1986)</ref>. O surto de CIB aqui relatado ocorreu no verão e após o transporte dos bezerros. Nessa época, ocorrem os maiores picos de radiação ultravioleta e altos índices pluviométricos, associados à grande quantidade de moscas e crescimento excessivo da pastagem na região onde ocorreu o surto. Esses fatores provavelmente influenciaram na disseminação do agente e na gravidade das lesões oculares.</p><p>Dentre os principais diagnósticos diferenciais de con- juntivite em bovinos está a conjuntivite causada pelo vírus da rinotraqueíte infecciosa bovina (BoHV-1). Nesses casos, normalmente não são observadas úlceras corneais, diferente do que ocorre na ceratoconjuntivite causada por M. bovis <ref type="bibr" target="#b7">(Dziezyc &amp; Millichamp 2006)</ref>. Outro diferencial é a ceratoconjuntivite causada pelo vírus da febre catarral maligna (OvHV-2). Nesses casos são observados outros sinais clínicos como ulceração das mucosas oral e nasal e manifestações neurológicas. Histologicamente há ulceração de mucosas e vasculite generalizada <ref type="bibr" target="#b8">(Garmatz et al. 2004)</ref>. A infestação ocular por Thelazia spp. usualmente causa lesões oculares brandas em bovinos, com conjuntivite e ceratite superficial. No entanto, essas lesões podem progredir para ulceração e vascularização da córnea.</p><p>A diferenciação da CIB é feita pela observação direta dos nematódeos adultos de Thelazia no saco conjuntival ou nos lavados nasolacrimais <ref type="bibr">(Dziezyc &amp; Millichamp</ref> Recentemente foi identificada uma nova espécie de Moraxella isolada de bovinos de leite e de corte com ceratoconjuntivite; essa espécie foi denominada Moraxella bovoculi <ref type="bibr" target="#b3">(Angelos et al. 2007)</ref>; pode ser encontrada em forma de coco ou diplococo e provavelmente por muito tempo foi erroneamente caracterizada como M. ovis ou como microrganismos relacionados a M. ovis <ref type="bibr">(Angelos 2010a)</ref>. Embora haja fortes indícios de sua participação na patogenia da CIB, como o isolamento de animais enfermos e a presença de material genético para fatores de virulência semelhantes aos encontrados em M. bovis, não se pôde ainda comprovar a participação de M. ovis na etiologia da CIB, sendo ainda M. bovis o único agente etiológico reconhecido para essa doença <ref type="bibr" target="#b2">(Angelos 2010b)</ref>.</p><p>Os bezerros afetados neste surto foram tratados especificamente para hemoncose e as mortes cessaram. Houve cura espontânea das lesões de CIB em cerca de duas semanas após o diagnóstico. A regressão das lesões de CIB não é incomum, à medida que o tamanho da úlcera é reduzido por tecido de granulação e sua superfície é reepitelizada, deixando uma pequena cicatriz. Em outros casos, no entanto, o processo pode tornar-se crônico e a opacidade leva 1-2 meses para resolver <ref type="bibr" target="#b13">(Postma et al. 2008)</ref>. Neste surto houve grandes prejuízos para o proprietário do rebanho devido à diminuição de peso dos bovinos, aos gastos com exames laboratoriais e à diminuição do valor comercial dos bovinos afetados, e a perda de animais; essas perdas deveram-se tanto à CB como à hemoncose intercorrente. Dessa forma, conclui-se que a CIB merece atenção pela sua ampla distribuição e importância econômica associadas ao seu caráter epidêmico, que está diretamente ligado à rápida disseminação de M. bovis entre os bovinos e à dificuldade de controle dos meios transmissores.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig.1. Bezerro afetado por ceratoconjuntivite infecciosa bovina. (A) Dois pequenos focos opacos, com úlceras rasas ao centro, são observados na porção central da córnea e há hiperemia da conjuntiva bulbar. (B) A opacidade atinge quase toda a superfície da córnea e é circundada por um halo vermelho de hiperemia. (C) Conificação da córnea (ceratocone) em um caso de ceratoconjuntivite infecciosa bovina. (D) Ulceração da córnea e ceratomalacia em um caso de ceratoconjuntivite infecciosa bovina.</figDesc><graphic coords="3,62.37,95.16,467.46,351.17" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig.2. Complicações oculares em um caso de ceratoconjuntivite infecciosa bovina. (A) Córnea ulcerada e espessada por tecido de granulação. Em meio ao tecido de granulação, encontravam-se numerosas larvas de Cochliomyia hominivorax. (B) Corte sagital do globo ocular mostrado em A. Observam-se larvas de C. hominivorax no interior do vítreo, espessamento da porção anterior do globo ocular por tecido brancacento firme (tecido de granulação) e necrose e perfuração da córnea (ceratomalacia).</figDesc><graphic coords="3,62.37,517.35,467.46,174.16" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig.3. Alterações histopatológicas na córnea de um bezerro afetado por ceratoconjuntivite infecciosa bovina. (A) Observam-se infiltrado linfoplasmocítico e vascularização. Essa lesão é responsável pela opacidade da córnea. HE, obj. 20x. (B) Maior aumento de lesão semelhante à mostrada em A. HE, obj.40x.</figDesc><graphic coords="4,64.87,95.26,467.46,170.06" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="5" xml:id="foot_0"><p>Albendathor 10®. Tortuga Companhia Zootécnica Agrária. Av. Brigadeiro Faria Lima, 2066, 13º andar, 01452-905 Pinheiros, São Paulo, SP.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_1"><p>Priscila M.S. Carmo et al.</p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Experimental production of infectious bovine keratoconjunctivitis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Aikman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Allan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">E</forename><surname>Selman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Rec</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="page" from="234" to="239" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">2010a. Moraxella bovoculi and infectious bovine keratoconjunctivitis: Cause or coincidence?</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Angelos</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Clin. North Am., Food Anim.Pract</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="73" to="78" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Angelos</surname></persName>
+		</author>
+		<title level="m">Pathogenesis of Bacterial Infections in Animals</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Gyles</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Prescott</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Songer</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Thoen</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Ames</addrLine></address></meeting>
+		<imprint>
+			<publisher>Wiley-Blackwell</publisher>
+			<date type="published" when="2010">2010b. Moraxella</date>
+			<biblScope unit="page" from="469" to="481" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Moraxella bovoculi sp. nov., isolated from calves with infectious bovine keratoconjunctivitis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Angelos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">Q</forename><surname>Spinks</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Ball</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">W</forename><surname>George</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. System. Evol. Microbiol</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="789" to="795" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Infectious bovine keratoconjunctivitis: A review</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">J H P</forename><surname>Baptista</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brit. Vet. J</title>
+		<imprint>
+			<biblScope unit="volume">135</biblScope>
+			<biblScope unit="page" from="225" to="242" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Microbial flora of the eyes of cattle</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M L</forename><surname>Barber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Jones</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Wood</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Rec</title>
+		<imprint>
+			<biblScope unit="volume">118</biblScope>
+			<biblScope unit="page" from="204" to="206" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Infectious bovine keratoconjunctivitis: A review</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">H</forename><surname>Brightman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">W</forename><surname>Fenwick</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Rider</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Vet. Intern. Med</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="259" to="266" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Doenças oculares infecciosas</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dziezyc</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">J</forename><surname>Millichamp</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medicina Interna de Grandes Animais</title>
+		<editor>
+			<persName><forename type="first">B</forename><forename type="middle">P</forename><surname>Smith</surname></persName>
+		</editor>
+		<meeting><address><addrLine>São Paulo</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+			<biblScope unit="page" from="1164" to="1178" />
+		</imprint>
+	</monogr>
+	<note>3ª ed. Manole</note>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Febre catarral maligna em bovinos no Rio Grande do Sul: transmissão experimental para bovinos e caracterização do agente etiológico</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Garmatz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">F</forename><surname>Irigoyen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Rech</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Zhang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S L</forename><surname>Barros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesq. Vet. Bras</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="93" to="106" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Ultraviolet radiation and Moraxella bovis in the etiology of bovine infectious keratoconjunctivitis</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">E</forename><surname>Hughes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Pugh</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Vet. Res</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="1331" to="1338" />
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Moraxella boevrei sp. nov., a new Moraxella species found in goats</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Kodjo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Richard</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Tonjum</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int. J. System. Bacteriol</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="115" to="121" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Infectious bovine keratoconjunctivitis: Contact transmission</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Kopecky</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Pugh</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Vet. Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="622" to="624" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Biochemical test for identification of medical bacteria</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Macfaddin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1980">1980</date>
+			<publisher>Williams and Wilkins Baltimore</publisher>
+			<biblScope unit="page">527</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Moraxella bovis pathogenicity: An update</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">C</forename><surname>Postma</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Carfagnini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Minatel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Comp. Immunol., Microbiol. Infect. Dis</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="449" to="458" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Identification of bovine carriers of Moraxella bovis by comparative cultural examinations of ocular and nasal secretions</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Pugh</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Mcdonald</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Vet. Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="2343" to="2345" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">A review of infectious bovine keratoconjunctivitis</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">I</forename><surname>Punch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">H</forename><surname>Slatter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Bull</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="193" to="207" />
+			<date type="published" when="1984">1984</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Pathogenesis of corneal lesions caused by Moraxella bovis in gnotobiotic calves</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Cheville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Pugh</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="287" to="295" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Conjunctival lesions caused by Moraxella bovis in gnotobiotic calves</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Rogers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">F</forename><surname>Cheville</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Pugh</surname><genName>Jr</genName></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vet. Pathol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="554" to="559" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Genetic and environmental factors associated with incidence of infectious bovine keratoconjunctivitis in preweaned beef calves</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">D</forename><surname>Snowder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D V</forename><surname>Vleck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Cundiff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">L</forename><surname>Bennett</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Anim. Sci</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="page" from="507" to="518" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Scanning electron microscopy of bovine corneas irradiated with sun lamps and challenge exposed with Moraxella bovis</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Vogelweid</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">N</forename><surname>Berg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Kinden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Am. J. Vet. Res</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="378" to="384" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Risk factors related to the prevalence of infectious bovine keratoconjunctivitis</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Webber</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">A</forename><surname>Selby</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Am. Vet. Med. Assoc</title>
+		<imprint>
+			<biblScope unit="volume">179</biblScope>
+			<biblScope unit="page" from="823" to="826" />
+			<date type="published" when="1981">1981</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Infectious bovine keratoconjuctivitis</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">P C</forename><surname>Wilcock</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Jubb, Kennedy, and Palmer&apos;s Pathology of Domestic Animals</title>
+		<editor>
+			<persName><forename type="first">M</forename><forename type="middle">G</forename><surname>Maxie</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Philadelphia</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2007">2007</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="492" to="493" />
+		</imprint>
+	</monogr>
+	<note>th ed. Saunders</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

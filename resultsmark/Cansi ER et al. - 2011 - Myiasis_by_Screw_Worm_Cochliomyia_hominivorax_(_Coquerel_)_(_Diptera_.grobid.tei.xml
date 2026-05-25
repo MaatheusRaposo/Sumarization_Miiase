@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Myiasis by Screw Worm Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) in a Wild Maned Wolf Chrysocyon brachyurus (Mammalia: Canidae), in Brasília, Brazil</title>
+				<funder>
+					<orgName type="full">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior -CAPES</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Conselho Nacional de Desenvolvimento Cientí ico e Tecnológico -CNPq</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Núcleo</forename><surname>De Entomologia</surname></persName>
+							<email>jrpujol@unb.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation">Núcleo de Entomologia Urbana e Forense , Depto de Zoologia , Ins tuto de Ciências Biológicas , Univ de Brasília , Brasília , DF , Brasil</note>
+								<orgName type="department" key="dep1">Núcleo de Entomologia Urbana e Forense</orgName>
+								<orgName type="department" key="dep2">Depto de Zoologia</orgName>
+								<orgName type="department" key="dep3">Ins tuto de Ciências Biológicas</orgName>
+								<orgName type="institution">Univ de Brasília</orgName>
+								<address>
+									<settlement>Brasília</settlement>
+									<region>DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Fundação Jardim Zoológico de Brasília , Brasília , DF , Brasil Urbana e Forense ,</note>
+								<orgName type="department">Fundação Jardim Zoológico de Brasília</orgName>
+								<orgName type="institution">Urbana e Forense</orgName>
+								<address>
+									<settlement>Brasília</settlement>
+									<region>DF</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Depto de Zoologia , Ins tuto de Ciências Biológicas , Univ de Brasília , Campus Darcy Ribeiro , Asa Norte , 70910-900 , Brasília , DF , Brasil;</note>
+								<orgName type="department" key="dep1">Depto de Zoologia</orgName>
+								<orgName type="department" key="dep2">Ins tuto de Ciências Biológicas</orgName>
+								<orgName type="institution">Univ de Brasília</orgName>
+								<address>
+									<addrLine>Campus Darcy Ribeiro Asa Norte</addrLine>
+									<postCode>70910-900</postCode>
+									<settlement>Brasília</settlement>
+									<region>DF</region>
+									<country>Brasil;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Myiasis by Screw Worm Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) in a Wild Maned Wolf Chrysocyon brachyurus (Mammalia: Canidae), in Brasília, Brazil</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1519-566X</idno>
+					</monogr>
+					<idno type="MD5">B9B6E883B291F7726E18CA0B017BC030</idno>
+					<note type="submission">Received 27 August 2009 and accepted 30 January 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cerrado</term>
+					<term>parasi sm</term>
+					<term>blowfl y</term>
+					<term>dipterous larva</term>
+					<term>veterinary medicine</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>In April 2009, a wild maned wolf, Chrysocyon brachyurus, was captured in an area of cerrado in Brasília, DF, Brazil, with screw worm maggots in external wounds. Fifty larvae were bred in the laboratory and eight adults of Cochliomyia hominivorax (Coquerel) emerged 10 days after pupation. This is the irst report of a myiasis by C. hominivorax in a free-living maned wolf in Brazil.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>According to <ref type="bibr" target="#b6">Zumpt (1965)</ref>, myiasis is an "infestation of live humans and other vertebrates caused by dipterous larvae that feed on the host´s dead or living tissue, liquid body-substances, or ingested food". There are two ways to classify myiasis according to the kind of parasitic relationship with their hosts: obligatory or facultative <ref type="bibr" target="#b6">(Zumpt 1965)</ref>. The obligatory parasites comprise those species of lies whose larvae only develop in or on the body of living vertebrates, e.g., Oestridae (Oestrus ovis L.); Hypodermatidae, Cuterebridae and Calliphoridae (Cochliomyia hominivorax Coquerel); Muscidae (Philornis spp.), and Gasterophilidae <ref type="bibr" target="#b2">(Guimarães &amp; Papavero 1999)</ref>, while the facultative parasites develop in decomposing organic matter, and may occasionally develop in necrotic tissues of living animals, e.g., some species in the families Calliphoridae, Sarcophagidae and Muscidae <ref type="bibr" target="#b6">(Zumpt 1965</ref><ref type="bibr" target="#b2">, Guimarães &amp; Papavero 1999)</ref>.</p><p>Cochliomyia hominivorax (Coquerel) is the ly that most frequently causes obligatory myiasis in the Americas. It is widespread in the Neartic and Neotropical regions and has been found in many parts of the Brazilian territory <ref type="bibr" target="#b2">(Guimarães &amp; Papavero 1999</ref><ref type="bibr" target="#b5">, Wyss 2000)</ref>. Recently, C. hominivorax was eradicated from the United States and most Central American countries by utilizing the sterile insect male technique <ref type="bibr" target="#b5">(Wyss 2000)</ref>, but it still represents an economic and health problem in South America <ref type="bibr" target="#b4">(Madeira et al 1998)</ref>. Cochliomyia hominivorax is also a problem for captive animals in Brazilian zoos <ref type="bibr" target="#b0">(Fowler &amp; Cubas 2001)</ref>.</p><p>Several infectious and parasitic diseases have been diagnosed in both the wild and captive maned wolf Chrysocyon brachyurus. Among the major parasites reported are the ectoparasites Ctenocephalides felis (Bouché), Rhipicephalus sanguineus (Latreille) <ref type="bibr" target="#b1">(Gilioli &amp; Silva 2000)</ref>, Amblyomma spp. and Rhipicephalus (Boophilus) microplus (Canestrini) <ref type="bibr" target="#b3">(Labruna et al 2005)</ref>.</p><p>An adult male maned wolf was captured in the vicinity of <ref type="bibr">Brasília,</ref><ref type="bibr">Distrito Federal,</ref><ref type="bibr">Brazil (15º48'25.63"S / 47º58'33.56"W)</ref>, and taken to the veterinary hospital of the Zoológico de Brasília for treatment on April 6 th , 2009. The animal was decumbent with a perforated injury in the buccinator muscle of the right mandible and did not present any fracture or internal injury diagnosed by X-ray. After a more detailed examination two open wounds of approximately 5 mm were found in the ventral portion of the right ulna and another at the back of the right humerus. Fifty larvae were removed from the wounds and reared under laboratory conditions (25°C / 60 RH) on meat (1g per larva) until the beginning of pupation on April 7 th , 2009. Only eight adults (two males and six females) were obtained after approximately 10 days, and all of them were deposited in the Coleção de Entomologia do Departamento de Zoologia da Universidade de Brasília (CEDZ/UNB), all of them identi ied as C. hominivorax. To our knowledge this is the irst report of myiasis in a free-living maned wolf C. brachyurus caused by the screw worm C. hominivorax in Brazil.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We wish to thank <rs type="person">Carlos E G Pinheiro</rs> (UnB) and <rs type="institution">Nelson Paravero (USP)</rs> for reviewing the manuscript, <rs type="funder">Conselho Nacional de Desenvolvimento Cientí ico e Tecnológico -CNPq</rs>, for the grants 308636/2007-4 and 474081/2007-9 to JRPL; the <rs type="funder">Coordenação de Aperfeiçoamento de Pessoal de Nível Superior -CAPES</rs> for the doctoral fellowship to ERC, and the <rs type="institution">Programa de Pós-Graduação em Biologia Animal do Instituto de Ciências Biológicas da Universidade de Brasília</rs> for their academic and scienti ic support.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title level="m" type="main">Biology, medicine and surgery of South American wild animals</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><forename type="middle">S</forename><surname>Cubas</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001">2001</date>
+			<publisher>Iowa State University Press</publisher>
+			<biblScope unit="page">536</biblScope>
+			<pubPlace>Iowa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Frequency of parasites and Salmonella infection in captive maned-wolf, Chrysocyon brachyurus, kept in zoos at the State of São Paulo, Brazil</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Gilioli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">A</forename><surname>Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arq Bras Med Vet Zootec</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="337" to="341" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region. Bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>FAPESP/ Editora Plêiade</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Labruna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Jorge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sana</forename><forename type="middle">Da</forename><surname>Jácomo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Kashivakura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">K</forename><surname>Furtado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Ferro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Perez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Silveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jts</forename><surname>Marques</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">R</forename><surname>Morato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nava</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Adania</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">H</forename><surname>Teixeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">F</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Conforti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">A</forename><surname>Azevedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C</forename><surname>Prada</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Batista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">F</forename><surname>Marvulo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">V</forename><surname>Morato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Alho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Pinter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Barros-Battesti</forename><surname>Dm</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ticks (Acari: Ixodida) on wild carnivores in Brazil. Exp Appl Acarol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="149" to="163" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Effect of management practices on screw-worm among sheep in Sao Paulo state</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Amarante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">R</forename><surname>Padovani</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Trop Anim Health Prod</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="149" to="157" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Screwworm eradication in the Americas</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Wyss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ann N Y Acad Sci</title>
+		<imprint>
+			<biblScope unit="volume">791</biblScope>
+			<biblScope unit="page" from="241" to="247" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Old World</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+			<pubPlace>London, Butterworth</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

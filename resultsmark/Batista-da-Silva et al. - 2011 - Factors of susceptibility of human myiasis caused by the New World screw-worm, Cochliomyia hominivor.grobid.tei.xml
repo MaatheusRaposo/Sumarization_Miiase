@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Factors of susceptibility of human myiasis caused by the New World screw-worm, Cochliomyia hominivorax in São Gonçalo, Rio de Janeiro, Brazil</title>
+				<funder>
+					<orgName type="full">IOC/Fiocruz and Papes V -APQ (Fiocruz/CNPq)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Universidade Federal Rural do Rio de Janeiro. Rod . BR 465 , Km 7 , Seropédica (RJ) , Brazil</note>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro. Rod</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>. BR 465</postBox>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Laboratório de Transmissores de Leishmaniose (Setor de Entomologia Médica e Forense ) do Instituto Oswaldo Cruz -IOC/FIOCRUZ , RJ , Brazil</note>
+								<orgName type="department">Transmissores de Leishmaniose (Setor de Entomologia Médica e Forense</orgName>
+								<orgName type="laboratory">Laboratório de</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz -IOC/FIOCRUZ</orgName>
+								<address>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gonzalo</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Universidade Federal Rural do Rio de Janeiro. Rod . BR 465 , Km 7 , Seropédica (RJ) , Brazil</note>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro. Rod</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postBox>. BR 465</postBox>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Margareth</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+							<email>cmmcqueiroz@uol.com.br</email>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Laboratório de Transmissores de Leishmaniose (Setor de Entomologia Médica e Forense ) do Instituto Oswaldo Cruz -IOC/FIOCRUZ , RJ , Brazil</note>
+								<orgName type="department">Transmissores de Leishmaniose (Setor de Entomologia Médica e Forense</orgName>
+								<orgName type="laboratory">Laboratório de</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz -IOC/FIOCRUZ</orgName>
+								<address>
+									<region>RJ</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Factors of susceptibility of human myiasis caused by the New World screw-worm, Cochliomyia hominivorax in São Gonçalo, Rio de Janeiro, Brazil</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1536-2442</idno>
+					</monogr>
+					<idno type="MD5">BFC73DE0F5655DE976E85907F4ECFD19</idno>
+					<note type="submission">Received: 23 November 2009, Accepted: 13 November 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>blowfly</term>
+					<term>Calliphoridae</term>
+					<term>parasite</term>
+					<term>public health</term>
+					<term>zoophagous</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This study was carried out between July 2007 and June 2008 and reports on the occurrence of human myiasis caused by the New World screwworm, Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) in São Gonçalo in the state of Rio de Janeiro, Brazil. Liquid or solid vaseline was used to suffocate the larvae, which were then preserved in 70% ethanol and sent to the Instituto Oswaldo Cruz for identification. C. hominivorax were identified in all 22 cases of myiasis. There were 12 male and 10 female patients with ages ranging from 03 to 71. Ethnically the highest incidence was among black people, with 17 cases. Open wounds were the main cause of the parasitosis, whereas poor personal hygiene, the low educational level, alcoholism, bedridden patients, and physical or mental disability were possibly secondary factors; in addition to all these factors the income of the patients was very low.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Myiasis is the infestation of living vertebrates by fly larvae that in their immature period, or part of it, feed on the host's dead or living tissue, body substances, or ingested food <ref type="bibr" target="#b15">(Serra-Freire and Mello 2006)</ref>. They are increasingly common in urban environments and according to <ref type="bibr" target="#b13">Queiroz et al. (2005)</ref> they are quite ordinary in rural areas, infesting humans and animals and causing serious economic and public health problems.</p><p>The prevalence of infestation by these ectoparasites is an important public health problem and the main predisposing factors associated with this parasite are considered socio-economic. Factors that contribute to the emergence of this parasite include low social condition, alcoholism, mental or neurological diseases, poor personal hygiene, patients with varicose ulcers, diabetes, malnutrition, advanced stages of cancer, pediculosis, immunosuppression, patients with STD, patients with gingivitis, and other lesions in the oral cavity and advanced age <ref type="bibr" target="#b0">(Albernaz 1933;</ref><ref type="bibr" target="#b7">Kaminsky 1993;</ref><ref type="bibr" target="#b18">Verettas et al. 2008)</ref>. Other factors such as the presence of domestic animals, mendicancy, and unhealthy environments also contribute to the emergence of new cases <ref type="bibr" target="#b2">(Batista-da-Silva et al. 2009)</ref>.</p><p>In humans, in South America, the most frequent species are restricted to Dermatobia hominis and Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae) whose larvae cause obligatory cutaneous myiasis in several mammal (zoophagous) species, including humans. The characteristics of infestation in humans are determined by anatomical, immunological, and pathological factors. Due to their devastating appearance they are also called traumatic myiasis (C. hominivorax) or furuncular myiasis (D. hominis). According to <ref type="bibr" target="#b6">Guimarães and Papavero (1999)</ref>, the type of infestation can be classified by the characteristics of the larva and the damage that it causes. For this reason, obligate species are those that are parasites on living tissues; and facultative species are those that parasitize necrotic tissues in living individuals. Injuries in the form of boils, with serous or purulent secretion, are characteristics of D. hominis infestations. Extensive chronic wounds are usually infested by C. hominivorax.</p><p>This study investigated the occurrence and epidemiological aspects of human myiasis by C. hominivorax in São Gonçalo, an urban area in Rio de Janeiro, Brazil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head><p>The study was carried out between July 2007 and June 2008 with 22 patients treated at the only public hospital in São Gonçalo, RJ that has trained professionals to carry out the collection of fly larvae, to identify and treat myiasis. All the 22 patients with myiasis who attended the outpatient clinic at the public hospital during this period were treated by the medical team that manually removed the larvae.</p><p>In order to make the collection of larvae easier, liquid or solid vaseline was used to suffocate the larvae with a dressing over the vaseline and then after one hour the larvae could be removed from the wound more easily, eliminating the use of larvicides (ivermectin). The use of ether, formaldehyde, creolin, tobacco, or sugar was avoided which, although they are effective in killing the larvae and also seen in literature, they are not recommended because they may cause harm to the exposed tissue, allergic reaction, promote bacteria cultures, discomfort, and pain to the patient. All larvae were collected with tweezers, transferred to a container containing 70% ethanol and sent to the Laboratório de Transmissores de Leishmaniose (Setor de Entomologia Médica e Forense) do Instituto Oswaldo Cruz -IOC/FIOCRUZ to be identified. In the laboratory, the larvae were clarified, mounted and then identified under a stereoscopic microscope with specific dichotomous keys.</p><p>An investigative questionnaire on patient identification, pathological history, social data (physical characteristics of the residence, family income, schooling, profession and alcohol, smoking, and drugs use), practice of recreation and tourist activities was obtained by the health professionals who had been previously trained to recognize the type of myiasis and to collect the fly larvae correctly. After that, the patients signed an informed assent form provided by a professional working at the clinic.</p><p>Chi-square ( 2 ) test was performed to determine if the proportions of men and woman parasitized were the same in relation to the patients' ethnic group (white or black), considering the scale for degree of freedom and significance of 5% (p &lt;0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head><p>Over the twelve month period of this study 22 cases of myiasis among men and women were recorded (Table <ref type="table">1</ref>). The larvae were identified using dichotomous keys as belonging to species C. hominivora. There were second instars in 9% of the patients and second and third instars in 91% of patients, of which 54.6% were recurrences and 36.4% were first time infections. The larvae of these cases were located as follows: nine (9) on the head; eleven (11) on the legs or feet; one (1) on the abdomen, and one (1) on the back (Table <ref type="table">2</ref>). The patients were between 3 and 71 years old (Table <ref type="table">3</ref>). The most prevalent age group was from 41 to 50 years old, with equal numbers of infected individuals for black and white ethnic groups. However there was a higher total number of cases among black people (77.27%) (Table <ref type="table">3</ref>). This is due mainly to the low level of education (41% of blacks were illiterate and 59% only had elementary school), low hygiene conditions observed (Table <ref type="table">2</ref>), and poor urban infrastructure (vacant lots, streets without paving, irregular collection of garbage, and poor distribution of piped water). These facts contribute to a higher incidence of C. hominivorax. Another important aspect is the location of patients' homes that was mainly in the São Gonçalo</p><p>Table 1. Frequency of human myiasis caused by larvae of Cochliomyia hominivorax (Diptera: Calliphoridae), between July 2007 and June 2008.</p><p>periphery, bordering on rural areas, where infected animals are abandoned frequently (dogs, cats, horses, cattle, and small wild animals).</p><p>The hottest months of the year indicate a greater occurrence of cases, possibly because people wear light clothes and because the flies find a set of favorable climatic conditions (temperature and humidity) to proliferate. The coldest months show a marked reduction of cases because people use warmer clothes that cover the entire body, and the climatic conditions are not ideal for C. hominivorax activity (Table <ref type="table">1</ref>).</p><p>There was no statistically significant difference between ethnic groups in the proportions of each gender infected ( 2 = 1.68, p &gt; 0.05).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Several species of fly larvae considered obligate or facultative parasites have been reported in different parts of the world by authors such as, <ref type="bibr" target="#b9">Lukin (1989)</ref> who recorded 14 cases in 36 months in Brisbane; <ref type="bibr" target="#b8">Kumarasingle et al. (2000)</ref> found 16 people parasitized over an 18 month period in hospitals in Sri Lanka; <ref type="bibr" target="#b17">Sherman (2000)</ref> identified 42 cases over 36 months in the United States; <ref type="bibr" target="#b12">Oliveira et al. (2004)</ref> recorded 68 cases in 12 months in the Baixada Fluminense (RJ); <ref type="bibr" target="#b11">Nascimento et al. (2005)</ref> reported 24 cases in 35 months in the city of Recife (PE); <ref type="bibr" target="#b4">Chan et al. (2005)</ref> reported 8 cases of human myiasis in 12 months in Hong Kong; <ref type="bibr" target="#b10">Marquez et al. (2007)</ref> identified 71 cases in 48 months in three towns in the state of Rio de Janeiro; and <ref type="bibr" target="#b5">Ferraz et al. (2010)</ref> recorded a rare case of multiple parasitism with three species of fly larvae causing facultative myiasis in a public hospital in Rio de Janeiro.</p><p>Among the main factors of susceptibility mentioned above, Table <ref type="table">2</ref> shows that open wounds were the main cause of the parasitosis whereas poor personal hygiene, the low educational level, alcoholism, bedridden patients, and physical or mental disability were possibly secondary factors that led these people to be infested by C. hominivorax. These factors corroborate <ref type="bibr" target="#b9">Lukin's (1989)</ref> report which drew attention to the fact that their patients were elderly, sick, and debilitated. Regarding the use of alcohol, <ref type="bibr" target="#b1">Basso (1939)</ref> described the insensitivity caused by it -linking it to myiasis. Another important factor was the ethnic group, since 17 (77.27%) of the observed cases occurred in black people and 5 (22.73%) occurred among white people.</p><p>There was no significant difference in terms of gender of the parasitized person (Table <ref type="table">1</ref>). However according to <ref type="bibr" target="#b10">Marquez et al. (2007)</ref>, the higher occurrence of myiasis was among men, a fact also observed by <ref type="bibr">Visciarelli et al. (2007)</ref> who also described that 76.5% of the cases took place during the summer corroborating the results of this research when the percentage of parasitized males was 54.5%, and emphasizing that most of these men were employed in construction, farming, or domestic activities (75%). Such activities promote greater contact with the flies that cause myiasis. The number of infected women was 45.5%, 90% of whom were black (70% performed housework and 20% were young students), whereas 66.6% of black women were using well water to do their chores and 33.4% used piped and treated water that had an irregular supply (only 1 or 2 times per week) as an aggravating factor confirming the precarious urban infrastructure which described a higher prevalence in the hotter summer months. In this research, the majority of cases of myiasis by C. hominivorax were reported as being associated with open wounds confirming the reports of <ref type="bibr">Nascimeto et al. (2005)</ref> that reported the presence of preexisting lesions in all cases of myiasis. This can be considered self-violence or neglect of one's health as well as loss of selfesteem due to socio-economic and psychological problems making the patient a temporary displaced person who takes refuge in a hospital until the larvae are removed.</p><p>The main areas parasitized were the legs or feet. And those who were parasitized in the head were short in stature, such as children or patients with psychiatric disorders, alcoholism, or the bedridden which shows that the parasites are more common on lower parts of the body. These results confirm those found by <ref type="bibr" target="#b11">Nascimento et al. (2005)</ref>, who reported in their studies at three public hospitals in Recife that these parts were affected more frequently. <ref type="bibr" target="#b10">Marquez et al. (2007)</ref> also described similar data, in his work at three towns in Rio de Janeiro state.</p><p>The social, cultural, and financial data demonstrated that the poorest groups with low incomes and low educational levels represented practically all the cases observed; 21 patients received the minimum wage, and only one patient with skin ulcer in the leg was parasitized by the larvae of C. hominivorax in the workplace. The patient was a 43 year old, white bar owner where he worked in shorts and light clothes and had an income of five minimum wages. Although this patient had a better socio-economic status, the presence of stray animals such as dogs, cats, horses, and cattle passing near his residence and workplace acted as reservoirs of parasitosis and effective dispersal of larvae of C. hominivorax in peri-urban area as described by <ref type="bibr" target="#b2">Batista-da-Silva et al. (2009)</ref>. <ref type="bibr" target="#b14">Rouquayrol (1994)</ref> reported that economically privileged social groups are less exposed to environmental factors that contribute to certain types of diseases compared with the economically less privileged groups. In addition all of the patients in this study had only completed primary education at the most. These data reinforce that ignorance about parasitosis leads the patient to seek medical help late (from the third day of parasitism) causing great pain, discomfort, and reduced productive capacity. Also, besides the low cultural level of all patients observed here, the distance between the patient's residence and the hospital is an additional reason for the delay in seeking the public health service for treatment.</p><p>The results presented here reflect a relative expansion of a neglected zoonosis in urban and peri-urban areas where the presence of ills in a modern society such as alcoholism, mendicancy, physical, and mental disabilities and the noticeable difference between ethnic groups that are socially distinct exist. All these factors provide opportunities for a parasite that does not respect the limits of progress, attacking the poorest people and mutilating them in a serious or even permanent way.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Table 2 .</head><label>2</label><figDesc>Distribution of human Myiasis cases caused by Cochliomyia hominivorax (Diptera: Calliphoridae), according to the origin of the lesion, the area of the body affected and other associated factors.Table3. Distribution of the number of cases and the percentage of human myiasis caused by Cochliomyia hominivorax (Diptera: Calliphoridae), according to age, gender and ethnic group.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="3,122.40,567.07,364.95,164.13" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Insect Science | www.insectscience.org</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors would like to thank to all the patients who agreed to participate in the study by signing an accordance term for the divulgation of data and images and so complying with the existing code of ethics. Thanks to <rs type="funder">IOC/Fiocruz and Papes V -APQ (Fiocruz/CNPq)</rs> for financial support.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">De algumas localizações raras de miíases</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">M</forename><surname>Albernaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Otolaringológica</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">226</biblScope>
+			<date type="published" when="1933">1933</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<author>
+			<persName><forename type="first">R</forename><surname>Basso</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E P R</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Frecuencia y naturaleza de las miasis em Mendoza. Observación n 0 7y n 0 10: investigaciones sobre dípteros argentinos Misión de Estudios de Patologia Regional Argentina</title>
+		<imprint>
+			<date type="published" when="1939">1939</date>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="61" to="65" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Abádio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<title level="m">Miíase humana por Dermatobia hominis (Linneaus Jr</title>
+		<meeting><address><addrLine>Diptera,Cuterebridae</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Cochliomyia hominivorax (Coquerel) (Diptera, Calliphoridae) em Sucessão Parasitária</title>
+		<ptr target="www.periodico.ebras.bio.br/ojs" />
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="61" to="63" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Unusual cases of human myiasis due to Old World screwworm fly acquired indoors in Hong Kong</title>
+		<author>
+			<persName><forename type="first">Jcm</forename><surname>Chan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jsw</forename><surname>Lee</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Dlk</forename><surname>Dai</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Woo</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transaction of the Royal Society of Tropical Medicine and Hygiene</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="914" to="918" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">First Record of Human Myiasis Caused by Association of the Species Chrysomya megacephalla (Diptera: Calliphoridae), Sarcophaga (Liopygia) ruficornis (Diptera: Sarcophagidae), and Musca domestica (Diptera: Muscidae)</title>
+		<author>
+			<persName><forename type="first">Acp</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Proença</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Faria</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mgm</forename><surname>Barbalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Css</forename><surname>Lessa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="487" to="490" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical región</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Plêiade</publisher>
+		</imprint>
+	</monogr>
+	<note>First Edition</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Nasocomial myiasis by Cochliomyia hominivorax in Honduras</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">G</forename><surname>Kaminsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transaction of the Royal Society of Tropical Medicine and Hygiene</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="199" to="200" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">A study of cutaneous myiasis in Sri Lanka</title>
+		<author>
+			<persName><forename type="first">Spw</forename><surname>Kumarasingle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">D</forename><surname>Karunaweera</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Ihaiamulla</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal Dermatologic</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="689" to="694" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Human cutaneous myiasis in Brisbane a prospective study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Lukin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Journal Australian</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="237" to="240" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Miíases associadas com alguns fatores sócio-econômicos em cinco áreas urbanas do Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Marquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mattos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nascimento</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista da Sociedade Brasileira de Medicina Tropical</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="175" to="180" />
+			<date type="published" when="2007">2007. 2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<author>
+			<persName><forename type="first">Emf</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ala</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ers</forename><surname>Júnior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Jlf</forename><surname>Leal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Moya-Borja</forename><surname>Ge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Miíases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera, Calliphoridae) em hospitais públicos na cidade do Recife</title>
+		<meeting><address><addrLine>Pernambuco, Brasil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="37" to="51" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Ocorrência de miíases humanas na região da Baixada Fluminense, estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">Jtm</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Bma</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">S</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Entomologia y Vectores</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="85" to="102" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Miíases Humanas por Cochliomyia hominivorax no Estado do Rio de Janeiro e Suas Conseqüências</title>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmo</forename><surname>Cabral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Norberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Parasitologia Latinoamericana</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page">167</biblScope>
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Santiago, Chile</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Rouquayrol</surname></persName>
+		</author>
+		<title level="m">Epidemiologia &amp; Saúde, 4ªed</title>
+		<imprint>
+			<publisher>MEDSI</publisher>
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m">Entomologia &amp; Acarologia na Medicina Veterinária. First ediiton. Editora L. F. Livros de Veterinária Ltda</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Wound myiasis in urban and suburban United States</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sherman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Archives of Internal Medicine</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="2004" to="2014" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Maggot infestation (myiasis) of external fixation pin sites in diabetic patients</title>
+		<author>
+			<persName><forename type="first">Daj</forename><surname>Verettas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">N</forename><surname>Chatzipapas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">I</forename><surname>Drosos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">C</forename><surname>Xarchas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Staikos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Chloropoulou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">I</forename><surname>Kazakos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ververidis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transaction of the Royal Society of Tropical Medicine and Hygiene</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="950" to="952" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><surname>Visciareli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Costamagna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Basabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Miasis Humana em Bahia Blanca</title>
+		<meeting><address><addrLine>Argentina</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2007. 2000/2005</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="605" to="611" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

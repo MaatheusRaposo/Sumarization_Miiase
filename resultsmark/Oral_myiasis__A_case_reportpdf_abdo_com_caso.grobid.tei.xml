@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Oral myiasis: A case report</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Evandro</forename><forename type="middle">Neves</forename><surname>Abdo</surname></persName>
+							<email>enabdo@uai.com.br</email>
+						</author>
+						<author>
+							<persName><forename type="first">César</forename><surname>Ausgusto</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Sette-Dias</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cláudio</forename><forename type="middle">Rômulo</forename><surname>Comunian</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Carlos</forename><forename type="middle">Eduardo Assis</forename><surname>Dutra</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Evandro</forename><surname>Guimarães De Aguiar</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>3</label> ( ) DDS, PHD. School of Dentistry of Federal Univesity from Minas Gerais - Brazil</note>
+								<orgName type="department">PHD. School of Dentistry of Federal</orgName>
+								<orgName type="institution">Univesity from Minas Gerais</orgName>
+								<address>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><roleName>Prof</roleName><forename type="first">Neves</forename><surname>Evandro</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Abdo</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Universidade Federal de Minas Gerais Faculdade de Odontologia Av: Antônio Carlos , 6627 sala 3204 Belo Horizonte , MG , Brasil. CEP 31270901 - Index Medicus /</note>
+								<orgName type="department">Index Medicus</orgName>
+								<orgName type="institution">Universidade Federal de Minas</orgName>
+								<address>
+									<addrLine>Gerais Faculdade de Odontologia Av: Antônio Carlos</addrLine>
+									<postCode>6627 3204 31270901</postCode>
+									<settlement>sala Belo Horizonte</settlement>
+									<region>MG</region>
+									<country>Brasil. CEP</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">MEDLINE / PubMed -EMBASE , Excerpta Medica -Indice Médico Español</note>
+								<orgName type="department">MEDLINE / PubMed -EMBASE</orgName>
+								<orgName type="institution">Excerpta Medica -Indice Médico Español</orgName>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Oral myiasis: A case report</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1698-6946</idno>
+					</monogr>
+					<idno type="MD5">21674665085CAA7790F98E8CA1BE3549</idno>
+					<note type="submission">Received: 10-07-2005 Accepted: 30-10-2005</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Myiasis</term>
+					<term>oral infestation</term>
+					<term>invermectin</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Oral Myiasis is a rare pathology in humans and is associated with poor oral hygiene, alcoholism, senility, supuranting lesions, severe halitosis and others conditions. The treatment is a mechanical removal of the maggots one by one but a systemic treatment with Ivermectin, a semi-synthetic macrolide antibiotic, have been used for treatment for oral myiasis. We present a case report of a 32-year-old man indigent, alcohol-dependent with an extensive necrotic area and acute swelling in upper lip and fetid odor. The patient's manegement included topic use of gencian violet, oral therapy with ivermectin (6 mg orally), surgical exploration to remove the larvae and necrotic tissue. After the complete larvae removal the swelling and the wounds were healing normally, the patients was referred to plastic surgery to repair tissue damage. The prevention of human myiasis is by education, but unfortunately in the developing countries some people live in low social condition, predisposing the occurrence of the infestation.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>INTRODUCTION</head><p>The term myiasis (Greek: myi= fly) is used for refer the infestation of living tissues of humans and animals, by diptereous eggs or larvae <ref type="bibr" target="#b0">(1)</ref>. The oral cavity is rarely affecting by this infestation (2) and the oral myiasis has been associated with poor oral hygiene, alcoholism, senility, supuranting lesions, severe halitosis and others conditions <ref type="bibr" target="#b0">(1)</ref><ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref>. The myiasis can be classified as obligatory, when larvae develop in living tissue, or facultative, when maggots feed on necrotic tissue. The obligatory myiasis is more harmful for the humans. The most common anatomic sites for myiais are the nose, eye, lung, ear, anus, vagina and more rarely, the mouth <ref type="bibr" target="#b2">(3)</ref>. The aim of this papers is to report an extensive case of myiasis in upper lip.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>REPORT OF CASE</head><p>A 32-year-old man indigent, alcohol-dependent, living on streets, was brought to Odilon Behrens Hospital (OBH), in Belo Horizonte -Brazil, and presented with acute upper lip swelling with an extensive necrotic area and fetid odor. The oral examination revealed a diffused indurated swelling nonfluctuant on palpation (Fig. <ref type="figure" target="#fig_1">1</ref>). In addition, general symptons including pain, fever and malaise were present. The patient was drunk, presenting a poor oral and general hygiene and was confused about the evolution time. The surface of the swelling revealed several orificies which lived a number of maggots, involving intra-orally mucolabial fold (Fig. <ref type="figure" target="#fig_2">2</ref>). The management was performed by Oral and Maxillofacial Surgeons from Surgery and Pathology Department of de School Dentistry of the Federal University from Minas Gerais-Brazil. Complementary treatment to the general symptons was carried out in the clinic internal medicine of the OBH. The patient's manegement included topic use of gencian violet, oral therapy with ivermectin (6 mg orally), surgical exploration to remove the larvae (Fig. <ref type="figure" target="#fig_3">3</ref>) and necrotic tissue. This procedure was carried out three times for remove the remaining maggots and was observed, in the last procedure after 5 days of hospitalization, which the larvae were mobile. After the complete larvae removal the swelling and the wounds were healing normally, the patients was referred to plastic surgery to repair tissue damage.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>DISCUSSION</head><p>Myiasis occurs by dipterous larvae developing in decaying tissues and the developmental transition via the larval stage requires an intermidiate host and the number of developing larvae depends on the number of viable eggs deposited (4). The late diagnostic and the number of maggots in this report, determined an extense tissue damage, have been necessary a esthetic surgery. The myiasis is diagnosed clinically based on presence of the maggots (5-7) but the classification of the larvae rarely has been made. In the present case was no possible to identify the larvae. The risk factors for oral myiasis include suppurative lesions, trauma in the face, mouth-breathers, extraction wonds and others conditions <ref type="bibr" target="#b5">(6)</ref><ref type="bibr" target="#b6">(7)</ref><ref type="bibr" target="#b7">(8)</ref><ref type="bibr" target="#b8">(9)</ref>. In this report it was not possible to identify a local condition in the upper lip, however is possible suppose that trauma was the most pro bable local condition in the development of myiasis in an alcoholics and abandoned person. The traditional management for myiasis is the mechanical removal of the maggots <ref type="bibr" target="#b5">(6,</ref><ref type="bibr" target="#b6">7)</ref>. When there are multiple larvae and in advanced stages of maggots development and tissue destruction, local application of several substances have been used to ensure complete removal of all larvae <ref type="bibr" target="#b1">(2)</ref><ref type="bibr" target="#b2">(3)</ref><ref type="bibr" target="#b3">(4)</ref><ref type="bibr" target="#b4">(5)</ref><ref type="bibr" target="#b6">7)</ref>. Recently a systemic treatment with Ivermectin, a semi-synthetic macrolide antibiotic, have been used for treatment for oral myiasis <ref type="bibr" target="#b9">(10)</ref>.</p><p>In the present case after 5 days, the maggots were mobile despite the ivermectin therapy. The careful surgical removal of the larvae and the adequate debridement of necrotic tissue were the efficient treatment. The prevention of human myiasis is by education, but unfortunately in the developing countries some people live in low condition, predisposing the occurrence of the infestation.   </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Oral Cir Bucal 2006;11:E130-1. � Oral myiasis</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Appearence of patient at presentation, showing a indurated swelling of the upper lip.</figDesc><graphic coords="3,43.19,56.69,244.52,170.08" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. A view of the upper lip showing the sockets after removal of the maggots and debridement of necrotic tissue.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. A number of lavae removed from the sockets.</figDesc></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">E</forename><surname>Millikan</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Myiasis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="191" to="195" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Atlas of Diseases of the Oral Mucosa. Philadelphia: PA, Sauders; 1992</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Pindborg</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="84" to="85" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<author>
+			<persName><forename type="first">Mjr</forename><surname>Hall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Wall</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Myiasis of Humans and Domestic Animals</title>
+		<imprint>
+			<date type="published" when="1995">1995</date>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="257" to="334" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Oral Myiasis: Report of Case and Review of Management</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Felices</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Kue</forename><surname>Ogbureke</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Oral Maxilofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="page" from="219" to="220" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Oral Myiasis by Screwworm Cochliomy Hominivorax</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Gomez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">F</forename><surname>Perdigão</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Pimenta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rios</forename><surname>Leite</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Tanos</forename><surname>De Lacerda</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Custódio</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Br J Oral Maxillofac Surg</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="115" to="116" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Oral Myiasis: a case report</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Bhatt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Jayakrishnan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Paediatr Dent</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="67" to="70" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Oral myiais: report of two cases</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Al-Ismaily</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Scully</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Paediatr Dent</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="177" to="179" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Oral Mucosa Myiasis Caused by Oestrus Ovis</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Hakimi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Yazdi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Iranian Med</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="194" to="196" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Noma (cancrum oris) Associated with Oral Myiasis in an Adult</title>
+		<author>
+			<persName><forename type="first">Amm</forename><surname>Aguiar</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">O</forename><surname>Enwonwu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">R</forename><surname>Pires</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oral Dis</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="158" to="159" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Oral Myiasis Treated with Ivermectin: Case Report</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Shinohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Martini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Oliveira</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">G</forename><surname>Takahashi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz Dent J</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="79" to="81" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,147 @@
+# Nim (Azadirachta indica): uma alternativa no controle de moscas na pecuária 1
+Cláudia Sayão
+R Deleito
+Gonzalo Moya Borja
+
+2 Programa de Pós-Graduação em Biologia Animal , Instituto de Bio- logia , Universidade Federal Rural do Rio de Janeiro (UFRRJ) , Seropédica , RJ 23890-000 , Brasil.
+Programa de Pós-Graduação em Biologia Animal
+Instituto de Bio- logia
+Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+
+23890-000
+Seropédica
+RJ
+Brasil, 3 Departamento de Parasitologia Animal , Instituto de Veterinária , UFRRJ , Seropédica , RJ.
+Departamento de Parasitologia Animal
+Instituto de Veterinária
+UFRRJ
+
+Seropédica
+RJ, Departamento de Parasitologia Animal , Instituto de Veterinária , Universidade Federal Rural do Rio de Janeiro , Seropédica , RJ 23890-000 , Brazil.
+Departamento de Parasitologia Animal
+Instituto de Veterinária
+Universidade Federal Rural do Rio de Janeiro
+
+23890-000
+Seropédica
+RJ
+Brazil
+
+Published on March 17, 2006
+
+RESUMO.-As moscas Lucilia cuprina, Chrysomya megacephala, Cochliomyia hominivorax e Musca domestica, estão entre as mais importantes pragas da pecuária causando miíases e como portadoras de microrganismos patogênicos. O propósito deste estudo foi testar a eficácia de várias concentrações do óleo de nim sobre pupas das moscas mencionadas em condições de laboratório e de campo. A redução da emergência das moscas das pupas tratadas com 0,6 por cento de óleo de nim foi de 95,6 por cento em condições de laboratório e 94,5 por cento quando aplicado ao solo onde descansam os animais durante a noite. A aplicação do óleo de nim a 0,6% no solo é uma alternativa viável para controle das pupas de L. cuprina, C. megacephala, C. hominivorax e M. domestica. TERMOS DE INDEXAÇÃO: Inseticida botânico, Lucilia cuprina, Chrysomya megacephala, Cochliomyia hominivorax, Musca domestica.
+
+Algumas moscas como Cochliomyia hominivorax, Lucilia cuprina, Chrysomya megacephala e Musca domestica, causadoras de miíases e potenciais carreadoras de microrganismos patogênicos para animais e seres humanos, são consideradas pragas na pecuária (Carvalho & Von Zuben 2006). Mesmo pequenas infestações de moscas podem ocasionar sérios problemas em criações de animais, podendo resultar em grandes perdas econômicas para os pecuaristas, principalmente quando os mesmos estão subnutridos ou estressados, sob condições inadequadas de manejo (Santos et al. 2002).
+
+O nim (Azadirachta indica A.Juss), árvore pertencente à família Meliaceae, é conhecida há mais de 2000 anos na Índia e em países da Ásia Meridional por suas propriedades medicinais (Martinez 1999). Alguns dos principais componentes biologicamente ativos do nim são azadiractina, meliantriol, limoneno, odoratone e outros triterpenóides, entre os mais de 100 compostos já isolados (Sidiqui et al. 2003). A azadiractina, o principal com-1 Recebido em 13 de dezembro 2007.
+
+Aceito para publicação em 14 de fevereiro de 2008.
+
+ponente do óleo de nim, é um tetranortriterpenóide limonóide que causa distúrbios fisiológicos, alterando o desenvolvimento e a funcionalidade de várias espécies de artrópodes-praga, principalmente devido a sua ação de repelência alimentar, inibição do crescimento e do processo reprodutivo (Saito 2004).
+
+Os inseticidas à base de nim apresentam baixo custo e podem ser produzidos de forma bastante simples. Em relação aos agrotóxicos, são considerados menos poluentes, com baixo poder residual e apresentam menor risco de intoxicação para mamíferos e aves (Quintela & Pinheiro 2004). Estes produtos podem ser utilizados no MIP (Manejo Integrado de Pragas) para controlar moscas ainda na fase de pupa, em propriedades nas quais o gado é recolhido no final da tarde para o pernoite em instalações protegidas como cercados, telheiros ou currais, podendo a aplicação no solo ser feita de manhã, após a saída do gado para o campo.
+
+Em vista do aumento do consumo de produtos de origem animal previsto para as próximas décadas e da extrema urgência minimizar o uso de inseticidas químicos, substituindo-os por produtos ecologicamente corretos no controle de moscas de importância médico-veterinária, o objetivo deste trabalho foi, em condições de laboratório e no campo, avaliar a ação biocida do óleo de nim em diversas concentrações sobre pupas das moscas C. hominivorax, C. megacephala, L. cuprina e M. domestica.
+
+### MATERIAL E MÉTODOS
+As moscas das espécies Cochliomyia hominivorax, Chrysomya megacephala, Lucilia cuprina e Musca domestica foram capturadas na "Estação Experimental para Pesquisas Parasitológicas W.O. Neitz" da Universidade Federal Rural do Rio de Janeiro (UFRRJ), município de Seropédica, RJ. Para a captura foram utilizadas iscas compostas de fígado bovino e carne bovina, após permanência por 48 horas à temperatura ambiente. Os espécimes foram capturados com o auxílio de redes entomológicas, sendo alocados individualmente em recipientes estéreis e, ao final da coleta, imediatamente levados à Estação Experimental do Instituto de Florestas da UFRRJ, onde foi realizada a criação das moscas em laboratório.
+
+Após a chegada ao laboratório, os exemplares de cada espécie foram alocados em recipientes de plástico transparente com 15cm de altura e 13cm de diâmetro, tendo no fundo uma camada de 2cm (50g) de serragem autoclavada. Na abertura de cada recipiente foi fixado com fita isolante resistente à água, um cilindro de tecido de cambraia de algodão, cuja abertura foi obstruída com um elástico, para facilitar o manejo dos insetos. As moscas adultas foram mantidas com solução aquosa de glicose a 20% e água, contidas em pequenos recipientes plásticos descartáveis, contendo tela de nylon no fundo para impedir o afogamento dos insetos.
+
+Como fonte de proteína e substrato para oviposição foram fornecidos às moscas pertencentes às espécies L. cuprina, C. megacephala e M. domestica, durante 5 horas, 20g de carne bovina moída, contidos em pequenos recipientes plásticos descartáveis. Após a oviposição, as massas de ovos foram retiradas com o auxílio de um pincel de cerdas macias, sendo os ovos separados em lotes homogêneos e depositados em placas de Petri contendo 20g de carne bovina fresca moída, estando as mesmas alocadas no interior de potes plásticos semelhantes aos utilizados para manutenção das moscas adultas.
+
+Para estimular a oviposição das fêmeas de C. hominivorax, foi utilizado um substrato composto por 20g de carne bovina moída fresca acrescida de sangue bovino, na proporção de 4:1. Os frascos foram mantidos em temperatura de 27°±2,5°C e sob a luminosidade natural existente no laboratório. As posturas assim obtidas foram mantidas no mesmo substrato, porém à temperatura de 27°C em BOD, até a eclosão dos ovos.
+
+Para a criação das larvas de C. megacephala, L. cuprina e M. domestica foi utilizado carne bovina moída como substrato, na proporção de 2g de carne por larva, contidos em placas de Petri de 10cm de diâmetro. Quarenta larvas de uma mesma espécie de mosca foram alocadas por placa, sendo cada placa depositada sobre 4cm de serragem autoclavada contida em recipientes redondos de plástico transparente, idênticos aos recipientes utilizados para a manutenção das moscas adultas em laboratório. Os potes plásticos foram identificados com o nome da espécie e a data da deposição das larvas no substrato.
+
+Após a eclosão dos ovos, as larvas de C. hominivorax foram transferidas para um novo substrato composto por 100g de carne bovina moída e 20mL de sangue bovino citratado (0,38%), contido em placas de Petri de 10cm de diâmetro. 40 larvas foram alocadas em cada placa, e as mesmas foram depositadas sobre serragem contida em bandejas plásticas de 40x28x8cm, cobertas por tela de nylon. As bandejas plásticas foram mantidas sob temperatura controlada de 37°C, em BOD.
+
+De acordo com a necessidade de cada espécie de mosca, o substrato foi renovado procedendo-se imediatamente ao transporte das larvas para o novo, de mesma composição. A renovação do substrato foi interrompida quando as larvas abandonaram o meio alimentício para pupação na serragem. As pupas foram retiradas da serragem por catação manual, sendo então contadas e separadas em grupos de 40 pupas de mesma espécie para distribuição nas parcelas experimentais. Após o término de cada fase do experimento, procedeu-se a esterilização da serragem e descarte da mesma em composteira onde foi, juntamente com outros materiais orgânicos procedentes da criação de animais, convertida em adubo para uso em hortas domésticas.
+
+Para testar o poder inseticida do óleo de nim sobre pupas de L. cuprina, C. megacephala, C. hominivorax e M. domestica em condições de laboratório, foram utilizadas caixas transparentes de polietileno (PET) medindo 22x15x7cm, com tampa finamente perfurada à quente, na qual foi fixada uma etiqueta especificando a espécie de mosca, o tratamento aplicado, a data e o número de cada parcela. No fundo de cada caixa foi colocado o substrato, composto por 1,5 kg de areia de rio lavada em água destilada e autoclavada. No substrato foram feitos, simetricamente, 40 orifícios de mesma profundidade (3,0cm) com o auxílio de um pequeno bastão de metal com 1cm de diâmetro. No fundo de cada orifício foi colocada uma pupa em posição horizontal, sendo a mesma coberta delicadamente pelo substrato.
+
+Na superfície da bancada onde as caixas ficaram apoiadas foi colocada uma camada de papel branco absorvente para evidenciar qualquer possível vazamento nas caixas ou respingos provenientes das pulverizações. Entre as caixas foi mantida a distância de 20cm, para evitar interferências entre os tratamentos. Para cada tratamento foram feitas seis repetições, perfazendo o total de 240 pupas de cada espécie de mosca por tratamento. O delineamento experimental utilizado foi o inteiramente casualizado.
+
+O óleo de nim emulsionado utilizado foi produzido pela firma Natural Rural ® , apresentando um teor de azadiractina de 1200ppm. Foi diluído em água destilada nas concentrações de 0,2%, 0,3%, 0,4%, 0,5% e 0,6% (respectivamente 2,4x10 -4 , 3,6x10 -4 , 4,8x10 -4 , 6,0x10 -4 e 7,2x10 -4 mL de azadiractina mL óleo -1 ) e as soluções foram imediatamente utilizadas para pulverização. Foram utilizados dois tratamentos-controle em laboratório, um deles composto por água destilada e o outro por uma solução de Neguvon® a 4,0%, equivalendo à aplicação de triclorfom (TCF) a 0,38% em água destilada. O Neguvon® é produzido pela Bayer Cropscience Ltda, sendo um inseticida organofosforado da classe toxicológica II, inibidor irreversível da acetilcolinesterase. O Neguvon®, cuja ação se dá por ingestão e contato, foi utilizado por apresentar grande poder de penetração pela membrana plasmática, podendo atingir a forma imatura do inseto dentro do pupário com alta eficiência, mesmo estando a pupa enterrada no substrato. Em cada parcela foram aplicados 280mL de cada tratamento, com o auxílio de um pulverizador manual com capacidade para 500mL de solução. Foi utilizado um pulverizador para cada tratamento. Após a aplicação dos tratamentos, as tampas das caixas foram vedadas em volta com fita plástica autocolante para impedir a saída dos após a emergência. Diariamente, as caixas foram observadas e as moscas foram contadas. Após o término do experimento, todas as caixas contendo as moscas vivas e/ou mortas foram autoclavadas em sacos plásticos resistentes ao calor e à pressão.
+
+Para testar no solo o poder inseticida do óleo de nim sobre pupas das moscas L. cuprina, C. megacephala, C. hominivorax e M. domestica, foram estabelecidas parcelas experimentais em uma área pertencente ao Instituto de Florestas da UFRRJ, Seropédica, RJ, com coordenadas 22°45'S e 43°42'W. Anteriormente ao início do experimento, a área era ocupada por vegetação rasteira espontânea, sofrendo capinas periódicas por métodos manuais, não apresentando compactação.
+
+O solo onde foi instalado o referido experimento foi classificado como Argissolo Vermelho-amarelo de textura franco areno-argilosa (16% de argila, 13% de silte, 66% de areia e 4,8% de matéria orgânica) de topografia plana, com as seguintes características físico-químicas: pH (em água) = 6,2; C orgânico = 0,67%; Al 3+ = 0,0cmol c /dm -3 ; Ca 2+ = 4,5cmol c /dm -3 ; Mg 2+ = 2,5cmol c /dm -3 ; P disponível = 1,6cmol c /dm -3 ; K + = 110,6cmol c / dm -3 , de acordo com a análise do solo realizada pelo Laboratório de Física e Classificação de Solos do Instituto de Agronomia da UFRRJ.
+
+As parcelas experimentais foram delimitadas por armações quadradas de madeira, com cada lado medindo 0,42m² e área interna de 0,16m². Cada armação de madeira foi guarnecida em sua parte superior com tela branca de nylon, fixada à estrutura de madeira por pequenas tachas de metal. Em sua parte inferior, para fixação ao solo, foram pregados pequenos sarrafos de madeira, os quais foram inseridos no solo com o auxílio de um martelo, sendo o solo em volta da estrutura cuidadosamente nivelado para evitar a fuga das moscas adultas. Entre as parcelas foi mantida a distância de 1,0m para evitar interferências entre os tratamentos. Na lateral de cada quadrado de madeira foi gravado, à quente, um número de identificação em algarismos arábicos, ao qual correspondeu, em cada experimento, à espécie de mosca e ao tratamento aplicado. Para cada tratamento foram utilizadas seis parcelas experimentais, perfazendo o total de 240 pupas de cada espécie de mosca. O delineamento experimental aplicado foi o inteiramente casualizado.
+
+No solo, de forma simétrica e com o auxílio de um pequeno bastão de metal com 1cm de diâmetro, foram feitos 40 orifícios de mesma profundidade. Em cada orifício, a 4cm da superfície do solo, foi colocada uma pupa em posição horizontal, coberta delicadamente pelo mesmo solo.
+
+Em cada parcela foram aplicados 1,2 litro de solução de óleo de nim para cada tratamento (7,5 L/m² solo), com o auxílio de regadores de plástico de dois litros. No solo foi utilizado como controle apenas a água destilada, já que o triclorfom é prejudicial ao meio ambiente, podendo intoxicar a fauna do solo e contaminar o lençol freático. Foi utilizado um regador para cada tratamento, sendo feita a distribuição da solução de forma simétrica a fim de se evitar o excesso ou escassez de molhamento na superfície do solo.
+
+Diariamente, as parcelas foram observadas e as moscas foram contadas. Após o término do experimento, as moscas foram mantidas presas no interior das estruturas de madeira até que a morte ocorresse por falta de alimento, após o quê os insetos foram recolhidos e autoclavados.
+
+Os valores das temperaturas mínima e máxima diárias e a umidade relativa do ar (UR) dentro do laboratório e na área do experimento foram obtidos utilizando-se um termo-higrômetro portátil da marca Incoterm Brasil ® . A temperatura interna no laboratório foi mantida a 26,5±1,6C° e a umidade relativa do ar (UR) a 87,4±3,2%, durante todo o experimento.
+
+O pH de todas as soluções testadas para controle das moscas, tanto em laboratório quanto no solo, foi medido para investigar a possibilidade de que o efeito inseticida das soluções aquosas de óleo de nim pudesse se manifestar apenas devido à acidez ou basicidade e não por efeito dos compostos químicos presentes nas mesmas. A medição eletroquímica da concentração efetiva de íons H + presente nas soluções utilizadas nos tratamentos, nas soluções de substrato e nas soluções de solo após aplicação dos tratamentos foi realizada com um medidor de pH portátil da marca RLNew ® , com compensação automática de temperatura, de acordo com a metodologia proposta por Silva (1999), adicionando-se 10cm³ de substrato (areia ou solo) a 100mL de água deionizada em copos descartáveis de plástico. Após ser agitada com bastão de vidro, a mistura ficou em repouso por uma hora, quando foi então novamente agitada, sendo o eletrodo mergulhado na solução homogeneizada e realizada a leitura do pH, após a padronização do aparelho com as soluções de pH 4,0 e 7,0.
+
+A condutividade elétrica (CE) de todas as soluções testadas para controle das moscas foi medida para investigar a possibilidade de que o efeito supressivo na emergência dos insetos pudesse se manifestar apenas devido à grande concentração de eletrólitos ou sais dissolvidos nas soluções e não pelo efeito dos compostos químicos presentes nos tratamentos. Foi utilizado um condutivímetro de bancada da marca Tecnopon ® , modelo CA 150, com compensação automática de temperatura, sendo a medição realizada de acordo com a metodologia proposta por Silva (1999), adicionando-se 10cm³ de substrato (areia ou solo) a 100mL de água deionizada em copos descartáveis de plástico. Após ser agitada com bastão de vidro, a mistura ficou em repouso por uma hora, quando foi então novamente agitada, sendo o eletrodo mergulhado na solução homogeneizada e realizada a leitura do pH, após a padronização do aparelho com a solução padrão que o acompanha.
+
+Os valores de mortalidade foram corrigidos pela fórmula de Abbott (1925): %M= (% mortalidade observada -% da mortalidade da testemunha / (100 -% da mortalidade da testemunha), após o quê os dados foram submetidos à análise estatística com o uso do programa Assistat ® , da Universidade Federal de Campina Grande. Não houve necessidade de se proceder à transformação dos dados, já que os mesmos apresentam distribuição aproximadamente normal.
+
+A análise de variância foi seguida por aplicação do teste de Tukey para comparação entre as médias, calculando-se o coeficiente de variação para verificar a precisão dos dados. Foi realizado também o estudo de regressão na análise de variância de acordo com as concentrações de óleo de nim testadas para o controle das moscas.
+
+### RESULTADOS E DISCUSSÃO
+Os valores médios do pH e da condutividade elétrica obtidos durante o experimento em laboratório estão representados no Quadro 1.
+
+O pH do extrato aquoso da areia antes da aplicação das soluções de óleo de nim apresentou o valor de 6,90, equivalente ao de um solo de acidez fraca (6,0-6,9), de acordo com Silva (1999). Após a aplicação dos tratamentos, o pH do substrato manteve-se dentro da mesma faixa, visto que apresentou o valor médio de 6,55±0,34. Esse fato evidencia que o efeito inseticida das soluções aquosas de óleo de nim não foi causado por acidez ou basicidade elevadas, mas sim pelo efeito dos compostos químicos presentes no óleo de nim.
+
+Os valores obtidos na medição da condutividade elétrica dos extratos aquosos do substrato foram muito baixos, deixando claro que a aplicação dos tratamentos com óleo de nim não causou um aumento na salinidade da areia, não sendo a mesma a responsável pela mortalidade das pupas das moscas durante o experimento em laboratório.
+
+O Quadro 1 contém os percentuais médios relativos ao controle alcançado pelo óleo de nim aplicado em diferentes concentrações sobre as pupas, em condições de laboratório.
+
+As pupas das quatro espécies de mosca apresentaram alta sensibilidade ao efeito inseticida do óleo de nim, já que mesmo a aplicação da menor concentração (0,2%) foi capaz de promover um controle acima de 30%. Esses resultados estão de acordo com os obtidos por Mognato (2000), que reporta que extratos de folhas e frutos de nim são capazes de prolongar a duração do estádio pupal de Chrysomya megacephala e Lucilia cuprina, quase sempre suprimindo sua capacidade de emergência. Ginarte (2003) relatou que o óleo de nim na concentração de 0,2% tem um forte efeito larvicida sobre Musca domestica, alcançando até 93% de controle, em condições de laboratório. No presente trabalho, este percentual não foi alcançado para M. domestica nem mesmo quando o óleo de nim foi aplicado na maior concentração, a 0,6%. Ressalta-se que o autor utilizou larvas de M. domestica e não pupas em seu experimento, sendo estas últimas mais resistentes a agentes físicos e químicos pela presença do pupário formado pela contração e endurecimento da pele larval. Provavelmente, a via de penetração da solução de óleo de nim no pupário se dá quase que exclusivamente pelas projeções dos opérculos presentes no pupário, restringindo sua ação tóxica contra as pupas.
+
+Durante a execução dos experimentos no campo, a temperatura na área experimental manteve-se a 29,3±3,76C° e a umidade relativa do ar (UR) a 86,9±3,8%, sem a ocorrência de chuvas.
+
+O Quadro 3 mostra que o pH do extrato aquoso do solo antes da aplicação das soluções de óleo de nim apresentou o valor de 6,91, indicativo desolo de acidez fraca (6,0-6,9), de acordo com Silva (1999). Após a aplicação dos tratamentos, o pH do solo manteve-se dentro da mesma faixa, visto que apresentou o valor médio de 6,49±0,20. Esse fato evidencia que o efeito inseticida das soluções aquosas de óleo de nim não foi causado por acidez ou basicidade elevadas, mas sim pelo efeito dos compostos químicos presentes no óleo de nim.
+
+Quadro 1. pH e condutividade elétrica CE) das soluções de óleo de nim e do substrato, em condições de laboratório
+
+*% (v/v) 0,0 0,2 0,3 0,4 0,*
+
+5 0,6 TCF a pH Solução 6,98 6,93 6,81 6,55 6,35 6,22 4,28 Substrato 6,90 6,90 6,79 6,54 6,32 6,21 4,23 CE (μScm -1 ) Solução 0,53 2,40 2,66 3,01 3,13 3,35 1,29 Substrato 0,54 2,44 2,68 3,03 3,13 3,36 1,33 a Triclorfom = Neguvon® a 4,0%. Quadro 2. Percentual de controle de pupas de moscas obtido pela aplicação de óleo de nim em diferentes concentrações, em condições de laboratório % (v/v) L. cuprina C. megacephala C. hominivorax M. domestica CV 0,0 7,9 A 5,4 B 8,7 A 3,7 C 19,75 0,2 35,7 dB 40,7 dA 34,4 eB 38,1 eAB 6,05 0,3 59,3 cAB 62,0 cA 55,7 dBC 53,7 dC 6,80 0,4 78,7 bB 86,4 bA 72,6 cC 77,5 cB 6,59 0,5 97,3 aAB 98,6 aA 93,8 bBC 90,9 bC 5,06 0,6 98,2 aA 99,5 aA 93,9 bB 90,9 bC 4,03 TCF 1 100,0 aA 100,0 aA 100,0 aA 100,0 aA 0,00 R² 0,97 0,97 0,96 0,97 Médias seguidas pela mesma letra maiúscula na linha e minúscula na coluna não diferem estatisticamente pelo teste de Tukey a 5%; 1 Triclorfom = Neguvon® a 4,0%. Quadro 3. pH e condutividade elétrica (CE) das soluções de óleo de nim e do solo
+
+Os valores obtidos na medição da condutividade elétrica dos extratos aquosos do solo pouco variaram com relação ao valor da CE do tratamento controle (78,54μScm 1 ), deixando claro que a aplicação dos tratamentos com óleo de nim não causou um aumento na salinidade do solo, não sendo a mesma a responsável pela mortalidade das pupas das moscas durante o experimento no campo.
+
+No Quadro 2 encontram-se representados os resultados de comparação das médias de eficiência de controle alcançada pelo óleo de nim aplicado em diferentes concentrações sobre as pupas enterradas no solo, sob condições de campo.
+
+O percentual de insetos mortos das quatro espécies de moscas no tratamento-controle, onde apenas água foi aplicada sobre as pupas enterradas, foi maior no solo do que em laboratório, onde o substrato utilizado foi areia de rio lavada. Este fato deve-se provavelmente à presença de microrganismos como fungos saprófitas e/ou entomopatogênicos no solo, os quais podem ter colonizado as pupas, impedindo a emergência dos insetos.
+
+É provável que a mortalidade observada durante o estágio de pupa para as quatro espécies de moscas, tanto no ensaio em laboratório quanto no ensaio realizado no solo, deva-se à ação da azadiractina, já que ela é, quantitativamente, o principal ingrediente ativo encontrado nas sementes de nim, das quais o óleo emulsionável é extraído. Pela sua semelhança química com o hormônio da ecdise, a azadiractina descontrola este processo, podendo ocasionar a morte da forma jovem pelo retardo no crescimento ou por deformações fisiológicas letais (Marçon 2003). Garcia (2000) observou o mesmo efeito sobre Stomoxys calcitrans (mosca dos estábulos), a qual não foi capaz de se desenvolver em esterco tratado com pulverizações de óleo de nim a 0,5% porque provavelmente a azadiractina penetra através da cutícula dos insetos e inibe a síntese de quitina, provocando desidratação e morte.
+
+Em todos os tratamentos com óleo de nim, tanto em laboratório quanto no solo, algumas poucas moscas adultas emergiram, porém morreram em no máximo duas horas após a emergência, todas apresentando deformidades corporais como ausência de pernas ou corpo muito achatado dorso-ventralmente, além da não expansão to-tal de suas asas. Okomu et al. (2007) observaram o mesmo fenômeno nos poucos adultos de mosquitos Anopheles gambiae que conseguiram emergir após o tratamento das larvas com óleo de nim a 0,2%, evidenciando que a azadiractina é capaz de provocar efeitos subletais, diminuindo o tempo de vida dos insetos adultos. Uma explicação para esses fatos, segundo Garcia (2001), seria a de que os limonóides como a azadiractina, presentes no óleo de nim, afetam o Corpus cardiacus do inseto, que controla a secreção de hormônios. Como a metamorfose requer uma perfeita sincronia de vários hormônios para ser bem sucedida, acaba por originar insetos adultos deformados.
+
+Ao contrário do ocorrido em laboratório, onde o efeito inseticida conseguido pela aplicação do óleo de nim na concentração de 0,5% foi estatisticamente semelhante ao obtido com a aplicação do produto a 0,6% para as quatro espécies de moscas, no solo o tratamento com óleo de nim a 0,6% foi o único que alcançou 90% de controle. Quando utilizado a 0,5%, foi capaz de controlar mais de 80% das moscas, o que já é um resultado plenamente aceitável para as condições de campo, sendo econômica e ambientalmente mais interessante o uso da menor concentração possível de um produto biocida para aplicação no solo.
+
+A aplicação de soluções de óleo de nim a partir de 0,5% no solo com o intuito de controlar moscas de importância médico-veterinária é plenamente viável, pois a azadiractina apresenta baixa toxicidade e alta degradabilidade, tendo meia vida de cerca de 20 dias. Como o efeito residual da azadiractina dura de 3-7 dias, uma aplicação por semana, ao entardecer, é o suficiente para controlar as pupas de L. cuprina, C. megacephala, C. hominivorax e M. domestica no solo, mesmo tendo em vista que a cada dia novas larvas dessas moscas procurarão o solo para pupar, o efeito inseticida do óleo de nim continuará atuando. Como a solução do óleo de nim já terá penetrado no solo ainda na ausência de luz solar, ao amanhecer já não será suscetível à degradação, visto que a atividade da azadiractina pode ser reduzida a aproximadamente 60% após exposição à luz solar por quatro horas (Martinez 2002).
+
+### CONCLUSÕES
+A aplicação do óleo de nim a 0,6% no solo é uma boa alternativa ao uso de inseticidas químicos para controle das pupas de Lucilia cuprina, Chrysomya megacephala, Cochliomyia hominivorax e Musca domestica. Maiores estudos são necessários para se elucidar os efeitos deste produto sobre a biota do solo, após o uso prolongado.
+
+Agradecimentos.-À Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ) pela concessão de bolsa de estudos à primeira autora.
+
+### REFERÊNCIAS
+Abbott W.S. 1925. A method of computing the effectiveness of an insecticide. J. Econ. Entomol. 18:265-266. Quadro 4. Percentual de controle de pupas de moscas obtido pela aplicação de óleo de nim no solo, em diferentes concentrações % (v/v) L. cuprina C. megacephala C. hominivorax M. domestica CV 0,0 12,5 A 10,4 AB 9,2 B 7,5 B 21,24 0,2 27,1 eA 23,3 eAB 17,8 eC 18,4 eBC 18,51 0,3 49,5 dA 43,7 dB 38,0 dC 27,4 dD 21,42 0,4 66,2 cA 53,5 cB 51,3 cB 45,9 cC 14,64 0,5 82,1 bA 84,6 bA 81,2 bA 81,5 bA 1,88 0,6 95,7 aA 96,3 aA 93,5 aA 92,3 aA 1,86 R² 0,99 0,97 0,96 0,93 Médias seguidas pela mesma letra maiúscula na linha e minúscula na coluna não diferem estatisticamente pelo teste de Tukey a 5%.
+
+
+## References
+**[1]** Demographic aspects of Chrysomya megacephala adults maintained under experimental conditions: reproductive rate estimates *M Carvalho and C Von Zuben* *Braz. Arch. Biol. Technol* (2006) 49 pp. 3.
+**[2]** A importância do nim indiano *J Garcia* (2000) 4 pp. 15.
+**[3]** O nim indiano. Revta Assoc. Agric. Orgânica *J Garcia* *O nim indiano. Revta Assoc. Agric. Orgânica* (2001) pp. 15.
+**[4]** Efeitos de extratos de plantas e inseticidas de segunda e terceira gerações em populações de M. domestica. Tese de Doutorado, Unicamp *C Ginarte* (2003) pp. 136.
+**[5]** Modo de ação de inseticidas e acaricidas *P Marçon* (2003) 21 pp. 7.
+**[6]** O nim, Azadiractha indica: natureza, usos múltiplos, produção. Iapar *S Martinez* (2002) pp. 142.
+**[7]** O nim, Azadirachta indica: um inseticida natural *S Martinez* *Comunicado Técnico* (1999) 21 pp. 5.
+**[8]** Avaliação do potencial inseticida das folhas de A. indica, M. azedarach e E. robusta sobre o controle dos dípteros L. cuprina e C. megacephala, em condições de laboratório *C Mognato* (2000) pp. 86.
+**[9]** Larvicidal effects of neem oil formulation on the malaria vector Anopheles gambiae *F Okumu et al.* *Malaria J* (2007) 63.
+**[10]** Efeito de extratos botânicos sobre a oviposição de Bemisia tabaci biótipo B em feijoeiro *E Quintela and P Pinheiro* *Embrapa Arroz e Feijão* (2004) 92.
+**[11]** As plantas praguicidas, alternativa para o controle de pragas na agricultura. Informativo Embrapa Meio Ambiente, Jaguariuna, SP, jul/ago *M Saito* (2004).
+**[12]** Princípios básicos para a produção sustentável de bovinos de corte no Pantanal *E Santos et al.* *Embrapa Pantanal* (2002) 37 pp. 30.
+**[13]** Tetracyclic triterpenoids from the leaves of Azadiractha indica and their insecticidal activities *B Sidiqui et al.* *Chem. Pharm. Bull* (2003) 51 (4).
+**[14]** Manual de Análises Químicas de Solos, Plantas e Fertilizantes *F Silva* (1999) pp. 83.

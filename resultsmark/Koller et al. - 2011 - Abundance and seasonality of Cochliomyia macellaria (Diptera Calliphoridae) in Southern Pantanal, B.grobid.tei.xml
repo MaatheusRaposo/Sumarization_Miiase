@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridae) in Southern Pantanal, Brazil Sazonalidade de Cochliomyia macellaria (Diptera: Calliphoridae) no Pantanal Sul-mato-grossense, Brasil</title>
+				<funder>
+					<orgName type="full">Brazilian Agricultural Research Corporation</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul (FUNDECT)</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Wilson</forename><forename type="middle">Werner</forename><surname>Koller</surname></persName>
+							<email>koller@cnpgc.embrapa.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Embrapa Gado de Corte , Empresa Brasileira de Pesquisa Agropecuária -EMBRAPA 2 Embrapa Pantanal , Empresa Brasileira de Pesquisa Agropecuária -EMBRAPA 3 Embrapa Pantanal ,</note>
+								<orgName type="institution">Embrapa Gado de Corte</orgName>
+								<address>
+									<addrLine>Empresa Brasileira de Pesquisa Agropecuária -EMBRAPA 2 Embrapa Pantanal Empresa Brasileira de Pesquisa Agropecuária -EMBRAPA 3 Embrapa Pantanal</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">;</forename><surname>Antonio</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Thadeu</forename><surname>Medeiros De Barros</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Elaine</forename><forename type="middle">Cristina</forename><surname>Corrêa</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<note type="raw_affiliation">Empresa Brasileira de Pesquisa Agropecuária -EMBRAPA , Bolsista ATP-A</note>
+								<orgName type="institution">Empresa Brasileira de Pesquisa Agropecuária -EMBRAPA</orgName>
+								<address>
+									<settlement>Bolsista ATP-A</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Embrapa Gado de Corte , BR 262 , Km 4, CP 154 , CEP 79002-970 ,</note>
+								<orgName type="institution">Embrapa Gado de Corte</orgName>
+								<address>
+									<addrLine>Km 4, CP 154</addrLine>
+									<postCode>262 79002-970</postCode>
+									<region>BR CEP</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Campo Grande -MS , Brazil;</note>
+								<orgName type="institution">Campo Grande -MS</orgName>
+								<address>
+									<country>Brazil;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridae) in Southern Pantanal, Brazil Sazonalidade de Cochliomyia macellaria (Diptera: Calliphoridae) no Pantanal Sul-mato-grossense, Brasil</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">0103-846X (impresso)</idno>
+					</monogr>
+					<idno type="MD5">12E426F361C081EA8FD4401E209665F7</idno>
+					<note type="submission">Received July 12, 2010 Accepted November 24, 2010</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Secondary screwworm</term>
+					<term>population dynamics</term>
+					<term>secondary myiasis Mosca-varejeira</term>
+					<term>dinâmica populacional</term>
+					<term>miíase secundária</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Cochliomyia macellaria (Diptera: Calliphoridae), known as the secondary screwworm, occurs in the Americas and has medical-veterinary and forensic importance. This study aimed to describe the seasonal fluctuation of this species in the Pantanal region, Central-Western Brazil. From December 2004 to November 2007 fly catches using four windoriented traps baited with decaying bovine liver were carried out at the Nhumirim ranch, Nhecolândia subregion, Southern Pantanal. Traps remained active throughout the study period and collections were carried out on a weekly basis. A total of 159,397 Calliphoridae were caught and C. macellaria (57.33%) was the most abundant species. C. macellaria occurred all over the year showing a bimodal behavior with peaks in May-July (late autumn/early winter) and October-December (spring).</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>Cochliomyia macellaria <ref type="bibr">(Fabricius, 1775)</ref>, known as the secondary screwworm, is widely distributed in the Americas, occurring in tropical and subtropical Western Hemisphere from Southern Canada to Patagonia, including the Galapagos Islands and West Indies <ref type="bibr" target="#b5">(FERREIRA, 1983;</ref><ref type="bibr">GUIMARÃES;</ref><ref type="bibr" target="#b8">PAPAVERO, 1999)</ref>.</p><p>This fly has a significant medical and veterinary importance causing secondary cutaneous myiasis and vectoring eggs of Dermatobia hominis (human bot fly), which causes significant economic losses to livestock in Brazil <ref type="bibr" target="#b7">(GRISI et al., 2002)</ref>.</p><p>Due to the scavenger habits of its larvae, C. macellaria has considerable ecological importance in the removal of carcasses and organic wastes in nature. It is also useful in forensic entomology in criminal investigation, providing pre-and post-mortem information <ref type="bibr" target="#b2">(CATTS;</ref><ref type="bibr" target="#b2">GOFF, 1992)</ref>.</p><p>After the introduction of Chrysomya flies in Brazil in 1970 and its gradual dispersion nationwide, C. macellaria began to compete with exotic species for similar ecological niches <ref type="bibr" target="#b5">(FURLANETTO et al., 1984)</ref> in the States of São Paulo <ref type="bibr" target="#b10">(LINHARES, 1981)</ref> and Goiás <ref type="bibr" target="#b5">(FERREIRA, 1983)</ref>.</p><p>There are relatively few studies on C. macellaria abundance and population dynamics in Brazil and information about its ecology in different biomes is scarce. This study described population fluctuation of C. macellaria in Southern Pantanal region, Central-Western Brazil.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material and Methods</head><p>A 3-year survey was conducted from December 2004 to November 2007 at Nhumirim cattle farm (18° 59' S and 56° 39' W, 98 m a.s.l.), an experimental station of the Brazilian Agricultural Research Corporation (Embrapa) Pantanal located in the subregion of Nhecolândia, Corumbá county, State of Mato Grosso do Sul, Central-Western Brazil. It is a tropical region characterized by seasonal flooding, with a well defined rainfall season from November to March, accounting for 72% of the total annual rainfall of about 1,200 mm, and a dry season from April to October. Average annual temperature is 25.5 °C and relative humidity is about 82% <ref type="bibr" target="#b15">(SORIANO et al., 1997)</ref>.</p><p>Fly catches were carried out with four-wind oriented traps, as described by <ref type="bibr" target="#b0">Broce, Goodenough and Coppedge (1977)</ref> modified by <ref type="bibr" target="#b13">Oliveira, Moya-Borja and Mello (1982)</ref>. The traps were suspended approximately 1.2 m above the ground and placed more than 1,200 m apart in four sites: Site 1 -trap placed about 50 m from corral in a pasture area with sparse trees; Site 2 -trap placed in an open area with native grasses about 30 m from a forested savanna edge; Site 3 -trap placed 15 m inside an area of forested savanna; and Site 4 -trap placed in an area of transition between an open area and forested savanna edge.</p><p>About 500 g of bovine liver placed in a plastic container protected by nylon net were used as bait inside each trap. Liver was previously left at room temperature for 24 hours before use and half of the rotting liver bait was replaced on a weekly basis.</p><p>The traps were kept active throughout the study period and were weekly replaced for collection of captured specimens and routine maintenance. Flies were removed from traps after killed with insecticide (pyrethroid) spray. The insects collected were placed into labeled plastic ziplock bags and brought to the Embrapa Pantanal Entomology Laboratory for sorting, counting and preliminary identification <ref type="bibr" target="#b12">(MELLO, 2003)</ref>. The samples were subsequently sent to the Embrapa Beef Cattle Entomology Laboratory for confirmation of species. The entomological material was deposited in both Embrapa Pantanal and Embrapa Beef Cattle reference collections.</p><p>Daily records of temperature, relative humidity, and rainfall were obtained from a weather station at the study site. Monthly average temperatures and relative humidity, as well as total monthly rainfall, were usaed in the analysis.</p><p>A descriptive statistical analysis was performed using data from monthly fly catches. The influence of climatic parameters on population dynamics was assessed by correlation analysis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>A total of 677,313 dipterans were caught during the study period. Calliphorids totalized 159,397 specimens from the following species: Cochliomyia macellaria (Fabricius, 1775), Cochliomyia hominivorax (Coquerel, 1858); Chloroprocta idioidea Robineau -Desvoidy, 1830; Chrysomya albiceps (Wiedemann, 1819); Chrysomya megacephala (Fabricius, 1794); Chrysomya putoria (Wiedmann, 1830), Lucilia cuprina (Wiedmann, 1830) and Lucilia eximia (Wiedmann, 1819). Specimens from other families were also sampled and included Fanniidae, Muscidae, Sarcophagidae, Syrphidae, and Ropalomeridae.</p><p>Cochliomyia macellaria (n = 91,386) was the most abundant species, accounting for 13.49% of all dipteran catches and 57.33% of the Calliphoridae. Yearly relative abundances of C. macellaria compared to other calliphorids were always above 50% (64.03, 50.46, and 52.25%, respectively for the three years of study). A high abundance of C. macellaria (76.09%) among Calliphoridae was also described by <ref type="bibr" target="#b5">Ferreira (1983)</ref> in a rural area of Goiânia. However, much lower relative abundances have been found in most studies conducted in different regions (OLIVEIRA; MOYA-BORJA; <ref type="bibr" target="#b13">MELLO, 1982;</ref><ref type="bibr" target="#b11">MADEIRA;</ref><ref type="bibr" target="#b11">DIAS;</ref><ref type="bibr" target="#b11">MASCARENHAS, 1982;</ref><ref type="bibr" target="#b4">D'ALMEIDA;</ref><ref type="bibr" target="#b4">LOPES, 1983;</ref><ref type="bibr" target="#b16">WIEGAND et al., 1991)</ref>. Several factors such as trap sites and bait attractiveness may influence the frequency of C. macellaria in catches <ref type="bibr" target="#b5">(FERREIRA, 1983)</ref>. However, competition with Chrysomya species has been considered a major factor for reduced abundance of C. macellaria (GUIMARÃES; PRADO; <ref type="bibr" target="#b9">BURALLI, 1979;</ref><ref type="bibr" target="#b4">D'ALMEIDA;</ref><ref type="bibr" target="#b4">LOPES, 1983)</ref>.</p><p>This interespecific competition with Chrysomya species did not seem to play a major role in this study since relative abundance of C. macellaria was consistently high during the three years studied, although its population peaks coincided with those found in Chrysomya species (CORRÊA; KOLLER; BARROS, 2010). Furthermore, no negative correlation was found between abundance of C. macellaria and Chrysomya flies, as it would be expected in the event of major competition, but rather a low positive correlation (r ≤ 0.18) was found between C. macellaria and the three species of Chrysomya (C. albiceps, C. megacephala, and C. putoria).</p><p>C. macellaria was caught in all sites but its abundance markedly varied among them. The highest number of individuals was caught in the open area (35.57%) whereas the lowest abundance was seen in the forested savanna (8.07%). The denser vegetation of the forested site may have reduced dispersion of the bait odor, thus reducing catches in that environment.</p><p>Remarkable differences have been described regarding abundance of C. macellaria in rural and urban areas. In this study, which was carried out in a rural area about 150 km away from the city of Corumbá, this species accounted for 57.33% of all calliphorids while a much lower abundance (7.26%) was reported in an urban area of Corumbá (CAMPOS; BARROS, 1995). D <ref type="bibr">'Almeida and Lopes (1983)</ref> studied preference of C. macellaria for ecological environments in Rio de Janeiro and reported that this species was practically restricted to rural areas (97.96%) when compared to urban (1.37%) and forested (0.69%) areas.</p><p>C. macellaria females (76.07%) were more frequently seen than males in the traps, which can be explained by the attractiveness of decaying liver as a potential substrate for oviposition. Similar results were reported by <ref type="bibr" target="#b13">Oliveira, Moya-Borja and Mello (1982)</ref> and <ref type="bibr" target="#b6">Gomes, Koller and Barros (2000)</ref> using liver baits.</p><p>In general, the weather was typical for the study region. Moderate temperatures occurred from May to August and the highest temperatures were recorded from October to March. The rainy season began in September-October and the heaviest rainfall period was December-February. The average relative humidity was lower in August-September during the dry season (Figure <ref type="figure" target="#fig_0">1</ref>). v. <ref type="bibr">20, n. 1, jan.-mar. 2011</ref> Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridae) in Southern <ref type="bibr">Pantanal,</ref><ref type="bibr">Brazil 29</ref> July (late autumn/early winter) coinciding with the beginning of the dry season in the region; the second peak occurred between October and December (spring), early rainy season. <ref type="bibr" target="#b13">Oliveira, Moya-Borja and Mello (1982)</ref> also reported greater abundance of this species during the winter and spring in Rio de Janeiro. However, <ref type="bibr" target="#b16">Wiegand et al. (1991)</ref> and <ref type="bibr" target="#b14">Ribeiro et al. (1993)</ref> described a single population growth in early summer in studies in Rio Grande do Sul. Variations in the seasonality of C. macellaria result from climatic conditions found in diff erent Brazilian regions -the central-western ans southern are quite diff erent regions. Low correlation (r &lt; 0.19) between population data and climatic records (temperature, relative humidity, and rainfall) indicated that seasonality of C. macellaria was not determined by a single climatic parameter but probably by an association of abiotic variables.</p><p>In conclusion, C. macellaria is the most abundant Calliphoridae in Southern Pantanal (subregion of Nhecolândia); it occurs throughout the year and shows a bimodal behavior with population peaks in late autumn/early winter and spring.  C. macellaria was caught throughout the year in Pantanal. Similar results were reported by <ref type="bibr" target="#b6">Gomes, Koller and Barros (2000)</ref> from ecological studies carried out in the same state in a highland region about 400 km apart.</p><p>Two yearly population peaks of C. macellaria were recorded in Pantanal (Figure <ref type="figure" target="#fig_1">2</ref>). Th e fi rst peak occurred between May and</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Climatic data at the Nhumirim cattle farm, Nhecolândia subregion, Pantanal, State of Mato Grosso do Sul, Brazil, December 2004 to November 2007.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 2 .</head><label>2</label><figDesc>Figure 2. Seasonal fl uctuation of Cochliomyia macellaria in the subregion of Nhecolândia, Pantanal, State of Mato Grosso do Sul, Brazil, December 2004 to November 2007.</figDesc></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Koller, W.W.; Barros, A.T.M.; Corrêa, E.C. Rev. Bras. Parasitol. Vet.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>We thank <rs type="funder">Fundação de Apoio ao Desenvolvimento do Ensino, Ciência e Tecnologia do Estado de Mato Grosso do Sul (FUNDECT)</rs> and the <rs type="funder">Brazilian Agricultural Research Corporation</rs> (<rs type="affiliation">Embrapa</rs>) for fi nancial support. We also thank <rs type="person">Luciana A. de Oliveira</rs>, <rs type="person">Ernande Ravaglia</rs>, <rs type="person">Marcos José M. Alves</rs>, <rs type="person">Waldno da Silva Aquino</rs>, <rs type="person">Sidney José Benício</rs>, and <rs type="person">Wibert Avellar</rs> for their help with fi eld and laboratory activities.</p></div>
+			</div>
+			<listOrg type="funding">
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">A wind oriented trap for screwworm fl ies</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Broce</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Goodenough</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Coppedge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Entomology</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="413" to="416" />
+			<date type="published" when="1977">1977</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Dípteros muscóides da área urbana de Corumbá</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Campos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="351" to="354" />
+			<date type="published" when="1995">1995</date>
+			<pubPlace>Mato Grosso do Sul, Brasil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Forensic entomology in criminal investigations</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">P</forename><surname>Catts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Goff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="253" to="272" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Abundância relativa e sazonalidade de espécies de Chrysomya (Diptera: Calliphoridae) no Pantanal sul-mato-grossense, Brasil. Revista Brasileira de Parasitologia Veterinária</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Corrêa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="85" to="88" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title level="m" type="main">Sinantropia de dípteros caliptratos (Calliphoridae) no estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">D'</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1983">1983</date>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+		</imprint>
+		<respStmt>
+			<orgName>Arquivo Universidade Federal Rural do Rio de Janeiro</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Microrganismos enteropatogênicos em moscas africanas pertencentes ao gênero Chrysomya (Diptera, Calliphoridae) no Brasil</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J M</forename><surname>Ferreira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">;</forename><surname>Sinantropia De Calliphoridae</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M P</forename><surname>Furlanetto</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Diptera) em Goiânia, Goiás. Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="170" to="174" />
+			<date type="published" when="1983">1983. 1984</date>
+		</imprint>
+	</monogr>
+	<note>Revista de Microbiologia</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title level="m" type="main">Sazonalidade da mosca-varejeira, Cochliomyia macellaria (Diptera: Calliphoridae), na região dos Cerrados</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Gomes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Koller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T M</forename><surname>Barros</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000">2000</date>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="125" to="128" />
+			<pubPlace>Campo Grande, MS</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Revista Brasileira de Parasitologia Veterinária</note>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title level="m" type="main">Impacto econômico das principais ectoparasitoses em bovinos no Brasil. A Hora Veterinária</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Grisi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002">2002</date>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="8" to="10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region; bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>Plêiade/ FAPESP</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Dispersal and distribution of three newly introduced species of Chrysomya Robineau-Desvoid in Brazil (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Buralli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+			<date type="published" when="1979">1979</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="189" to="215" />
+			<date type="published" when="1981">1981</date>
+			<pubPlace>São Paulo, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Contribuição ao conhecimento da fauna de Calliphoridae (Diptera) sinantrópicos da Pampulha</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">G</forename><surname>Madeira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S</forename><surname>Mascarenhas</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="137" to="140" />
+			<date type="published" when="1982">1982</date>
+			<pubPlace>Belo Horizonte, Minas Gerais</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">Chave de identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrapha) encontradas no Brasil. Entomologia Veterinária</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Flutuação populacional de Cochliomyia hominivorax no município de Itaguaí, Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pesquisa Agropecuária Brasileira</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="139" to="142" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Influência da temperatura na captura de califorídeos em armadilhas W. O. T. Cochliomyia hominivorax e C. macellaria. (Diptera -Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">B</forename><surname>Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Revista Brasileira de Parasitologia Veterinária</title>
+		<imprint>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="53" to="54" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">Plano de utilização da fazenda Nhumirim. Corumbá: EMBRAPA -CPAP</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M A</forename><surname>Soriano</surname></persName>
+		</author>
+		<ptr target="&lt;http://www.cpap.embrapa.br/publicacoes/online/DOC21.pdf&gt;" />
+		<imprint>
+			<date type="published" when="1997">1997. 2010</date>
+			<biblScope unit="page">26</biblScope>
+		</imprint>
+	</monogr>
+	<note>72 p. (Documentos, 21). Disponível em</note>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Flutuação populacional de Cochliomyia hominivorax e C. macellaria (Diptera: Calliphoridae) no Município do Capão do Leão</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Wiegand</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo Brasileiro Medicina Veterinária e Zootecnia</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="page" from="155" to="162" />
+			<date type="published" when="1991">1991</date>
+			<pubPlace>Rio Grande do Sul</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

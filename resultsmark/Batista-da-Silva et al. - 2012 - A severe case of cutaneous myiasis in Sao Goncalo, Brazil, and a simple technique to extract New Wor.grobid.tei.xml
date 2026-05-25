@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">A Severe Case of Cutaneous Myiasis in São Gonçalo, Brazil, and a Simple Technique to Extract New World Screw-Worm Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Springer Science and Business Media LLC</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2012-05-26">26 May 2012</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">José</forename><forename type="middle">Antonio</forename><surname>Batista-Da-Silva</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Instituto de Biologia , Univ Federal Rural do Rio de Janeiro , Seropédica , RJ , Brasil</note>
+								<orgName type="department">Instituto de Biologia</orgName>
+								<orgName type="institution">Univ Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Lab de Transmissores de Leishmanioses (Setor de Entomologia Médica e Forense ) do Instituto Oswaldo Cruz -IOC/FIOCRUZ , Rio de Janeiro , RJ , Brasil</note>
+								<orgName type="department">Transmissores de Leishmanioses (Setor de Entomologia Médica e Forense</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz -IOC/FIOCRUZ</orgName>
+								<address>
+									<settlement>Rio de Janeiro</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Gem</forename><forename type="middle">E M</forename><surname>Borja</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Instituto de Biologia , Univ Federal Rural do Rio de Janeiro , Seropédica , RJ , Brasil</note>
+								<orgName type="department">Instituto de Biologia</orgName>
+								<orgName type="institution">Univ Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<settlement>Seropédica</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Mmc</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Lab de Transmissores de Leishmanioses (Setor de Entomologia Médica e Forense ) do Instituto Oswaldo Cruz -IOC/FIOCRUZ , Rio de Janeiro , RJ , Brasil</note>
+								<orgName type="department">Transmissores de Leishmanioses (Setor de Entomologia Médica e Forense</orgName>
+								<orgName type="institution">Instituto Oswaldo Cruz -IOC/FIOCRUZ</orgName>
+								<address>
+									<settlement>Rio de Janeiro</settlement>
+									<region>RJ</region>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Programa de Pós-Graduação em Biologia Animal Universidade Federal Rural do Rio de Janeiro , Rodovia BR-465 , Km 7 , 23890-000 ,</note>
+								<orgName type="department">Programa de Pós-Graduação em Biologia Animal</orgName>
+								<orgName type="institution">Universidade Federal Rural do Rio de Janeiro</orgName>
+								<address>
+									<addrLine>Km 7</addrLine>
+									<postCode>BR-465 23890-000</postCode>
+									<region>Rodovia</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Seropédica (RJ) , Rio de Janeiro , Brasil;</note>
+								<orgName type="institution">Seropédica (RJ)</orgName>
+								<address>
+									<settlement>Rio de Janeiro</settlement>
+									<country>Brasil;</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">A Severe Case of Cutaneous Myiasis in São Gonçalo, Brazil, and a Simple Technique to Extract New World Screw-Worm Cochliomyia hominivorax (Coquerel) (Diptera: Calliphoridae)</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Neotropical Entomology</title>
+						<title level="j" type="abbrev">Neotrop Entomol</title>
+						<idno type="ISSN">1519-566X</idno>
+						<idno type="eISSN">1678-8052</idno>
+						<imprint>
+							<publisher>Springer Science and Business Media LLC</publisher>
+							<biblScope unit="volume">41</biblScope>
+							<biblScope unit="issue">4</biblScope>
+							<biblScope unit="page" from="341" to="342"/>
+							<date type="published" when="2012-05-26">26 May 2012</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">521ED89F36FCF9B0B191D91BAA34AD60</idno>
+					<idno type="DOI">10.1007/s13744-012-0038-8</idno>
+					<note type="submission">Received 18 October 2011 and accepted 17 April 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Blowfly</term>
+					<term>public health</term>
+					<term>vaseline</term>
+				</keywords>
+			</textClass>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>This work describes a severe case of myiasis by Cochliomyia hominivorax (Coquerel) in a 59-year-old patient living in an urban area of São Gonçalo, Rio de Janeiro. The patient had an open wound on the right shoulder parasitized by 287 larvae. In order to remove the larvae, the wound was washed with NaCl and solid vaseline was applied onto the wound and covered with gauze and adhesive tape. After 90 min, the larvae were killed by asphyxiation and were removed using sterile forceps and NaCl. This procedure left the wound completely clean.</p><p>Calliphoridae is one of the main muscoid families that are causal agents of myiasis to men and domestic animals in both rural and urban areas during their immature period <ref type="bibr" target="#b5">(Zumpt 1965</ref><ref type="bibr" target="#b2">, Guimarães &amp; Papavero 1999)</ref>. The infestation can be obligate or facultative according to the damage they cause. The obligate species parasitize living tissues and the facultative ones parasitize necrotic tissues <ref type="bibr" target="#b5">(Zumpt 1965</ref><ref type="bibr" target="#b2">, Guimarães &amp; Papavero 1999)</ref>. The species commonly involved in cases of obligate myiasis in Brazil is Cochliomyia hominivorax (Coquerel) <ref type="bibr" target="#b2">(Guimarães &amp; Papavero 1999)</ref>.</p><p>This paper is a case report of severe cutaneous myiasis recidivism and a description of a simple technique for the extraction of C. hominivorax larvae.</p><p>A 59-year-old man from an urban area of São Gonçalo, Rio de Janeiro, Brazil, had a recidivistic open wound on the right shoulder in January 2008 (summer) infested by fly larvae, which over a period of 7 days caused a skin lesion 12×7 cm.</p><p>In order to make the collection of larvae easier, the wound was washed with 500 mL of 0.9% NaCl solution at room temperature to clean and remove any potential eggs of the fly. Solid vaseline was applied onto the wound and covered with a dressing (gauze and adhesive tape) to suffocate the larvae. After 90 min, the larvae could be easily removed from the wound, demonstratin the technique could be used in substitution to the use of larvicides (ivermectin) or surgical extraction. The larvae that were not caught in the gauze were removed using sterile forceps and 0.9% NaCl solution, leaving the wound completely clean (method modified from Batista-da-Silva et al 2009).</p><p>All larvae were collected at the São Gonçalo Alberto Torres State Hospital, which is the only one in the city with professionals trained to remove fly larvae and to identify and treat myiasis. All larvae were transferred to a container with 70% ethanol and sent to the "Laboratório de Vetores de Leishmaniose" ("Departamento de Entomologia Médica e Forense") at the "Instituto Oswaldo Cruz-IOC/FIOCRUZ", RJ, Brazil for identification. In the laboratory, the larvae were clarified with 10% KOH for 24 h, and then identified according to <ref type="bibr" target="#b2">Guimarães and Papavero (1999)</ref>.</p><p>A total of 287 first (79 larvae), second (141 larvae), and third instars (67 larvae) were identified as C. hominivorax, which featured several ovipositions by the females of this species.</p><p>According to <ref type="bibr" target="#b3">Robbins &amp; Khachemoune (2010)</ref>, myiasis is the fourth most common parasitosis found in travelers. In South America, especially in Brazil, C. hominivorax is the most frequent species <ref type="bibr" target="#b2">(Guimarães &amp; Papavero 1999</ref><ref type="bibr" target="#b1">, Batista-da-Silva et al 2011)</ref>. Strategies to kill or remove fly larvae from human parasitized tissue include the application of ether, formaldehyde, Creolin, tobacco and sugar, but are not recommended (Batista-da-Silva et al 2011); other strategies include the use of ivermectin or surgical extraction.</p><p>According to <ref type="bibr" target="#b4">Shinohara et al (2004)</ref>, ivermectin is an antibiotic and its use was well documented for the control of fly larvae. Despite this effective control of parasites, ivermectin takes several hours to act, in which time irreversible muscle damage could occur to a patient (with a possible reduction of limb movements), especially if there are a large number of larvae. Surgical extraction, despite being highly efficient, has a high cost, and also requires the presence of a surgeon.</p><p>The occurrence of a parasitic disease where the individual has a large number of larvae in a single wound is rare and needs careful and fast extraction of the larvae, so the use of NaCl solution to wash the wound and remove the eggs, solid vaseline and dressing using gauze and adhesive tape to kill the larvae by suffocation is simple and can be applied by any health professional, reducing the time for extraction of the larvae and eliminating the costs of larvicides (ivermectin) or surgery.</p></div>		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><p>Acknowledgments To the patient, for his participation in this study, by signing a term of accordance for the divulgation of data and so complying with the existing code of ethics and to <rs type="person">David Graham Straker</rs> for the English revision.</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Human myiasis by Dermatobia hominis (Linnaeus Jr.) (Diptera, Cuterebridae) and Cochliomyia hominivorax (Cocquerel) (Diptera, Calliphoridae) in parasitic succession</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">C</forename><surname>Abádio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EntomoBrasilis</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="61" to="63" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Factors of susceptibility of human myiasis caused by the New World screw-worm, Cochliomyia hominivorax in São Gonçalo</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2011">2011</date>
+			<pubPlace>Rio de Janeiro, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region. Bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>FAPESP/Editora Plêiade</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Cutaneous myiasis: a review of the common types of myiasis</title>
+		<author>
+			<persName><forename type="first">K</forename><surname>Robbins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Khachemoune</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Int J Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="1092" to="1098" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Oral myiasis treated with ivermectin: case report</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">H</forename><surname>Shinohara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">Z</forename><surname>Martini</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Hgo</forename><surname>Neto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Takahashi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Braz Dent J</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="79" to="81" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in man and animals in the Old World. Butterworth</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Wing morphometry as a tool for correct identification of primary and secondary New World screwworm fly</title>
+				<funder ref="#_PGjpzdq">
+					<orgName type="full">International Atomic Energy Agency (IAEA</orgName>
+				</funder>
+				<funder ref="#_FvXPrNB #_rYVACZq">
+					<orgName type="full">Fundac ¸a ˜o de Amparo a `Pesquisa do Estado de Sa ˜o Paulo FAPESP</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">FAPESP</orgName>
+				</funder>
+				<funder>
+					<orgName type="full">CNPq</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Cambridge University Press (CUP)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2009-03-23">23 March 2009</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Laborato ´rio de Gene ´tica Animal , Centro de Biologia Molecular e Engenharia Gene ´tica e Instituto de Biologia , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil:</note>
+								<orgName type="department" key="dep1">Laborato ´rio de Gene ´tica Animal</orgName>
+								<orgName type="department" key="dep2">Centro de Biologia Molecular e Engenharia Gene ´tica e Instituto de Biologia</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Gene ´tica e Evoluc ¸a ˜o , Instituto de Biologia , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Departamento de Gene ´tica e Evoluc ¸a ˜o</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biologia</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Hatadani</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Gene ´tica e Evoluc ¸a ˜o , Instituto de Biologia , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Departamento de Gene ´tica e Evoluc ¸a ˜o</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biologia</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>De Azeredo-Espin</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Laborato ´rio de Gene ´tica Animal , Centro de Biologia Molecular e Engenharia Gene ´tica e Instituto de Biologia , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil:</note>
+								<orgName type="department" key="dep1">Laborato ´rio de Gene ´tica Animal</orgName>
+								<orgName type="department" key="dep2">Centro de Biologia Molecular e Engenharia Gene ´tica e Instituto de Biologia</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Gene ´tica e Evoluc ¸a ˜o , Instituto de Biologia , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Departamento de Gene ´tica e Evoluc ¸a ˜o</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biologia</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Gene ´tica e Evoluc ¸a ˜o , Instituto de Biologia , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Departamento de Gene ´tica e Evoluc ¸a ˜o</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biologia</orgName>
+								<orgName type="institution" key="instit2">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Wing morphometry as a tool for correct identification of primary and secondary New World screwworm fly</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Bulletin of Entomological Research</title>
+						<title level="j" type="abbrev">Bull. Entomol. Res.</title>
+						<idno type="ISSN">0007-4853</idno>
+						<idno type="eISSN">1475-2670</idno>
+						<imprint>
+							<publisher>Cambridge University Press (CUP)</publisher>
+							<biblScope unit="volume">100</biblScope>
+							<biblScope unit="issue">1</biblScope>
+							<biblScope unit="page" from="19" to="26"/>
+							<date type="published" when="2009-03-23">23 March 2009</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">821F8F55FE33AE9CC627A25FE0A8EF73</idno>
+					<idno type="DOI">10.1017/s0007485309006762</idno>
+					<note type="submission">(Accepted 18 December 2008</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>Cochliomyia sp.</term>
+					<term>species identification</term>
+					<term>wing morphometry</term>
+					<term>sexual dimorphism</term>
+					<term>populations</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Cochliomyia hominivorax and Cochliomyia macellaria are endemic Neotropical Calliphoridae species. The former causes severe myiasis in hosts while the latter is Sarcosaprophagous, but commonly found as a second invader in wounds. Due to the morphological similarity between them and the potential losses that C. hominivorax represents for cattle breeders, the rapid and correct identification of these two species is very important. In addition to a correct identification of these species, a good knowledge of C. hominivorax biology can be helpful for designing control programs. We applied geometric morphometric methods to assess wing differences between C. hominivorax and C. macellaria and conduct a preliminary analysis of wing morphological variation in C. hominivorax populations. Canonical variate analysis, using wing shape data, correctly classified 100% of the individuals analyzed according to sex and species. This result demonstrates that wing morphometry is a simple and reliable method for identifying C. hominivorax and C. macellaria samples and can be used to monitor C. hominivorax. Both species show sexual dimorphism, but in C. hominivorax it is magnified. We suggest that this may reflect different histories of selection pressures operating on males and females. Significant differences in wing size and shape were obtained among C. hominivorax populations, with little correlation with latitude. This result suggests that wing variation is also a good morphological marker for studying population variation in C. hominivorax.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The genus Cochliomyia Townsend is now considered to consist of four endemic new world Calliphoridae species, C. hominivorax <ref type="bibr">(Coquerel, 1858)</ref>, C. macellaria (Fabrı ´cius, 1775), C. aldrichi <ref type="bibr">(Del Ponte, 1938)</ref> and C. minima <ref type="bibr">(Shannon, 1926)</ref>  <ref type="bibr">(FAO, 1993)</ref>.</p><p>Cochliomyia hominivorax, commonly called the New World screwworm fly or primary screwworm, is the only species of the genus known to be of great economic importance. The larvae of this species are obligatory wound parasites of mammals and are only able to develop in nature on living tissues, causing severe myiasis in hosts <ref type="bibr" target="#b21">(Guimara ˜es &amp; Papavero, 1999)</ref>. The historical range of this insect extended from southern United States to Argentina, with seasonal fluctuations and with the greatest abundance in the Neotropical region; but it has been successfully eradicated from North and most of Central America by the sterile insect technique-SIT (IAEA/ <ref type="bibr" target="#b26">FAO, 2000;</ref><ref type="bibr" target="#b54">Wyss, 2000)</ref>.</p><p>Cochliomyia macellaria, the secondary screwworm, is morphologically similar to C. hominivorax; and it is widely distributed and abundant in the new world, ranging from southern Canada to Argentina <ref type="bibr" target="#b2">(Baumgartner &amp; Greenberg, 1985;</ref><ref type="bibr" target="#b13">Dear, 1985)</ref>. Cochliomyia macellaria is a sarcosaprophagous species that develops primarily on carrion but are commonly confused with C. hominivorax in cases of myiasis because it tends to be a secondary invader. Old records of myiasis attributed to this species most certainly should be transferred to C. hominivorax <ref type="bibr" target="#b21">(Guimara ˜es &amp; Papavero, 1999)</ref>, but few cases of myiasis in humans by this species have been recorded (e.g. <ref type="bibr">Smith &amp; Clevenger, 1986;</ref><ref type="bibr" target="#b31">Josephson &amp; Krajden, 1993)</ref>. This species has also been reported to be a mechanical vector of human and animal diseases due to its synanthropic behaviour <ref type="bibr" target="#b19">(Greenberg et al., 1963)</ref>.</p><p>Little is known about the habits or relative abundance of the other two species of the genus, C. aldrich and C. minima. They both have a restricted geographical distribution to some Caribbean islands and to Florida <ref type="bibr" target="#b13">(Dear, 1985)</ref>. The immature stage of both species is undescribed and the flies are rarely considered, if at all, in identification guides to myiasis species <ref type="bibr">(FAO, 1993)</ref>. Adults are apparently attracted to fresh horse manure and carrion but a single case of C. minima myiasis has been reported in a dog in Puerto Rico <ref type="bibr" target="#b12">(De Leo ´n &amp; Fox, 1980)</ref>.</p><p>The taxonomic status of the species in the genus has been very controversial, mainly due to misidentification of and misapplications of names to C. hominivorax and C. macellaria. This, allied to the morphological similarity between the two species, their geographical overlap and the potential losses that C. hominivorax represents for cattle breeders, give great importance to the rapid and correct identification of these two species.</p><p>Different methods based on molecular markers for the characterization of the two species have been successfully investigated <ref type="bibr" target="#b42">(Pomonis, 1989;</ref><ref type="bibr" target="#b51">Taylor et al., 1996;</ref><ref type="bibr" target="#b35">Litjens et al., 2001)</ref>. But the current methods for species identification based on morphology are relatively restricted to specialists since, in adults, identification characters are mainly based on male genitalia, female basicostal coloration and pollinosity differences in the fifth tergite <ref type="bibr">(FAO, 1993)</ref>.</p><p>In addition to a correct identification of these species, a good knowledge of C. hominivorax biology can contribute to the design of control programs (IAEA/ <ref type="bibr" target="#b26">FAO, 2000;</ref><ref type="bibr" target="#b33">Krafsur, 2005)</ref>. In the New World screwworm fly, molecular markers have also been used and have provided important information about population structure and genetic variability (e.g. <ref type="bibr" target="#b44">Roehrdanz, 1989;</ref><ref type="bibr" target="#b29">Infante-Vargas &amp; Azeredo-Espin, 1995;</ref><ref type="bibr" target="#b51">Taylor et al., 1996;</ref><ref type="bibr" target="#b37">Lyra et al., 2005</ref><ref type="bibr">, Torres et al., 2007, Lyra et al., in press</ref>). However, although phenotypic traits might provide interesting results that could not be obtained with neutral markers at the molecular level, there are no well-characterized morphological markers; and little is known about morphological variation in natural populations of C. hominivorax <ref type="bibr" target="#b17">(Gagne ´&amp; Peterson, 1982;</ref><ref type="bibr" target="#b43">Richardson et al., 1982;</ref><ref type="bibr" target="#b1">Azeredo-Espin, 1987)</ref>.</p><p>The purpose of the present study is: (i) to provide a morphological analysis of wing size and shape variation of C. hominivorax and C. macellaria; (ii) to assess how suitable geometric morphometric methods are for identification of these species and for studies of population morphological variation; and (iii) to conduct a preliminary analysis of population variation in C. hominivorax.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data acquisition</head><p>Cochliomyia hominivorax were obtained as third instar larvae found in wounded sheep, dogs or cattle from 12 different localities, six in Brazil and six in Uruguay, totalling 476 individuals. A total of 119 individuals of C. macellaria were obtained as third instar larvae in carcasses of dead animals (horse and cattle) from three different localities, two from Brazil and one from Uruguay. Geographic locations of the sampled areas and the number of individuals analyzed are shown in table 1. All collections were carried out in the summer months between January 2003 and March 2005.</p><p>Collected larvae were brought into the laboratory for species identification and allowed to pupate in sawdust. The pupae were maintained at constant temperature (25 C) and humidity (70%), and the adults were frozen 24 h after emergence. Sex identification was carried out after emergence, considering that in this genus, like some other Calliphoridae, males are holoptic or subholoptic, and females are dichoptic <ref type="bibr" target="#b13">(Dear, 1985)</ref>.</p><p>The right wing of each fly was removed and mounted in water on a slide under a coverslip (Bitner-Mathe ´&amp; <ref type="bibr" target="#b2">Klaczko, 1999)</ref>. Wing images were captured with a video camera attached to a microcomputer and slide preparations were retained. TpsDig version 2.11 <ref type="bibr" target="#b47">(Rohlf, 2006)</ref> was used to obtain Cartesian coordinate data for 16 landmarks (fig. <ref type="figure" target="#fig_0">1</ref>).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Data analyses</head><p>Centroid size (CS) was used as an overall measure of wing size. This was calculated as the square root of the sum of the squared distances between the centroid and its landmarks <ref type="bibr" target="#b5">(Bookstein, 1991)</ref> using tpsRegr version 1.31 <ref type="bibr">(Rohlf, 2005a)</ref>. Analysis of variance (ANOVA) was conducted to ascertain the effects of species, sex or locality on size.</p><p>Partial warps and uniform component scores were calculated with the program tpsRelw version 1.42 <ref type="bibr" target="#b46">(Rohlf, 2005b)</ref> (no weights assigned to any of the landmarks), and the matrix obtained was then interpreted as the set of shape variables <ref type="bibr" target="#b55">(Zelditch et al., 2004)</ref>. Effects of species, sex or locality on shape were evaluated by multivariate analysis of variance (MANOVA) on partial warps and uniform components scores. In order to account for allometric effects, we performed a multivariate regression of shape variables on size (CS).</p><p>The matrix of shape variables was used for canonical variate analysis (CVA) to examine the pattern of amongspecies/-sexes variation in total shape space and to obtain a classification matrix. Regression analysis of shape variable 20 M.L. <ref type="bibr">Lyra et al.</ref> on CVA roots (CVA1 and CVA2) was used to illustrate shape changes by constructing the thin plate spline distortion graphics.</p><p>Multivariate or linear regressions were used as an exploratory analysis to examine the association between C. hominivorax population traits and a geographic variable, latitude.</p><p>Linear regression of size in latitude, ANOVA and MANOVA were conducted in Minitab14 (Ó 2004 by Minitab Inc.). Multivariate regression of shape variables on size, latitude and CVA roots was performed in the tpsRegr 1.31 <ref type="bibr">(Rohlf, 2005a)</ref>. Canonical variate analysis was conducted in Statistica for Windows (version 6.0).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interspecific variation</head><p>The ANOVA on the centroid size of the wings showed a highly significant difference, according to sex and species (table 2). In C. hominivorax, male wings were approximately 12% larger than in females: CS males = 753.06+3.56 (CI 95%: 746.02-760.09) and CS females = 675.77+2.99 (CI 95%: 670.14-681.40). In contrast, in C. macellaria males were approximately 2% smaller than females: CS males = 690.85+2.32 (CI 95%: 686.46-695.23) and CS females = 704.57+2.75 (CI 95%: 699.10-710.04). Wing size alone was not sufficient to reliably identify the two species, but the overlap between the groups was small.</p><p>A significant variation was found between species and a striking sexual dimorphism for wing shape. Table <ref type="table" target="#tab_1">2</ref> shows the results of MANOVA on wing shape for C. hominivorax and C. macellaria. In general, male wings were narrower than female wings in both species (fig. <ref type="figure" target="#fig_1">2</ref>).</p><p>Variation in wing shape was significantly correlated to size in both females and in C. hominivorax males (C. hominivorax females: R 2 = 0.028, P &lt; 0.001; C. macellaria females: R 2 = 0.042, P &lt; 0.001; C. hominivorax males: R 2 = 0.031; P &lt; 0.001) but was not significant in C. macellaria males (C. macellaria males: R 2 = 0.023, P = 0.071). However only a small proportion (&lt; 5%) of shape variation was due to size, indicating a negligible allometric effect.</p><p>Canonical variate analysis (CVA) conducted on the shape variables showed that all individuals of C. hominivorax and C. macellaria (100% of samples, according classification matrix) were correctly classified according to sex and species. The first canonical root (CVA1) accounted for 77% of total variation and completely separated the sexes in C. hominivorax and most males and females in C. macellaria. The CVA2 accounted for 21% of total variation and could roughly separate the two species (fig. <ref type="figure" target="#fig_1">2</ref>). The CVA3 accounted for the last 2% of total variation.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cochliomyia hominivorax population variation</head><p>C. hominivorax populations were significantly differentiated for both wing size and shape. ANOVA and MANOVA results for effects of localities on size and shape are shown in table 2. Since sexual dimorphism was present in C. hominivorax, a linear regression was performed separately for each sex. We were not able to find any obvious geographic pattern for the variation observed. Figure <ref type="figure" target="#fig_2">3</ref> represents observed variation of size for males and females in populations. The regression of size on latitude was  significant for both females and males, but the percentage of explained variation was very small (females: R 2 = 0.043, P = 0.01; males: R 2 = 0.023, P = 0.01). The results from multivariate regression of shape on latitude were very similar to those obtained for size (females: R 2 = 0.016, P &lt; 0.001; males R 2 = 0.009, P &lt; 0.001).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Interspecific variation and sexual dimorphism</head><p>Differences between males and females are common in animals. Since <ref type="bibr" target="#b8">Darwin's (1871)</ref> first investigations, these differences have been the subject of discussion by numerous evolutionary biologists (e.g. <ref type="bibr" target="#b39">Maynard Smith, 1978;</ref><ref type="bibr" target="#b0">Andersson, 1994;</ref><ref type="bibr" target="#b15">Fairbairn, 1997)</ref>. Sexual dimorphism has been studied in relation to physiology, ecology and behavior. The two major explanations for its evolution are intraspecific niche divergence and natural (and/or sexual) selection <ref type="bibr" target="#b34">(Lande, 1980;</ref><ref type="bibr" target="#b49">Shine, 1989;</ref><ref type="bibr" target="#b9">David et al., 2003)</ref>.</p><p>In insects, females are usually larger than males (e.g. <ref type="bibr" target="#b25">Huey et al., 2006)</ref>, probably due to the fecundity advantage for larger females (but see <ref type="bibr" target="#b9">David et al., 2003)</ref>. A larger male size is rare and is believed to be favored in cases of competition among males, such as fight for females or territory, or when they carry females during nuptial flight <ref type="bibr" target="#b0">(Andersson, 1994;</ref><ref type="bibr">David et al., 2006a)</ref>.</p><p>In C. macellaria, we found that females are larger than males and that this size difference may be interpreted as a fecundity advantage, as in some Drosophila species. On the  22 M.L. Lyra et al.</p><p>other hand, C. hominivorax males are significantly larger than females, suggesting the existence of selective pressures probably related to male behaviour. Even though adult flies of C. hominivorax are often difficult to observe in nature, <ref type="bibr" target="#b20">Guillot et al. (1978)</ref> and <ref type="bibr" target="#b32">Krafsur (1978)</ref> were able to observe an aggressive behaviour in field C. hominivorax males, showing that they are territorial and have a striking behaviour towards screwworms, and even towards other species of small insects. The observation of larger males than females would agree with adaptive interpretations mentioned previously although other factors are probably related to the dimorphism. For example, different sexual behavior of females in the two species may be considered, since C. hominivorax females mate only once <ref type="bibr" target="#b7">(Crystal, 1967)</ref>, a fact that could reinforce sexual selection and increase competition among the males of this species. Furthermore, to our knowledge, there is no record of monandry for C. macellaria in the literature.</p><p>Results reported here also found a significant sexual dimorphism for wing shape in C. hominivorax and C. macellaria (males have narrower wings when compared to females in both species). Sexual shape dimorphism is poorly understood, and it is believed to arise from ecological causes or natural selection, that is, the adaption of each sex to different ecological niches <ref type="bibr" target="#b49">(Shine, 1989;</ref><ref type="bibr" target="#b0">Andersson, 1994;</ref><ref type="bibr" target="#b4">Bonduriansky, 2006)</ref>. Although there is no direct evidence for the functional significance of shape variation in the species analyzed, it seems reasonable to suppose that the differences in foraging habitats and behavior, reproductive activities and flight agility or resistance may influence the shape dimorphism observed, as has been proposed for other species (e.g. <ref type="bibr" target="#b50">Sivinski &amp; Dodson, 1992;</ref><ref type="bibr" target="#b4">Bonduriansky, 2006)</ref>.</p><p>The observed sex dimorphism in C. hominivorax is consistent with a hypothesis that males engage in combat, either for territory or for females, when larger males would be favoured. However, more detailed studies of social behaviour and life history are needed to understand the meaning of the variation found and to confirm and/or generalize these tentative conclusions.</p><p>Wing morphometry as a tool for species identification Geometric morphometrics methods applied to wing venation have been successfully used in previous studies to discriminate between different insect species <ref type="bibr" target="#b14">(Dujardin et al., 2003;</ref><ref type="bibr" target="#b24">Houle et al., 2003;</ref><ref type="bibr" target="#b53">Villemant et al., 2007;</ref><ref type="bibr" target="#b22">Hatadani &amp; Klaczko, 2008;</ref><ref type="bibr" target="#b36">Ludoski et al., 2008)</ref>. The results described herein demonstrate that wing morphometrics is a simple and reliable method for differentiating C. hominivorax and C. macellaria samples, since canonical variate analysis of wing shape variables presented a 100% good match for sexes and species. Our results suggest that the partial warp scores could be used as the basis of a test to distinguish C. hominivorax and C. macellaria to monitor the expansion and control of C. hominivorax throughout infested and noninfested countries.</p><p>A major advantage of a wing shape test is the ease and speed of collecting test material. Data collection for wing shape analysis is both relatively cheap (requiring only a digitized image) and faster than DNA-based markers; several hundred wings can be digitized and analyzed on the same day (e.g. <ref type="bibr" target="#b24">Houle et al., 2003)</ref>. It can also be easily collected from both live individuals and long-dead specimens. However, since the landmarks used in this study were distributed over the entire wing area, the major disadvantage of a wing shape test is that it requires non-damaged wings.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Cochliomyia hominivorax population variation among localities</head><p>Most of the literature on dipteran wing morphology variation concentrates on the genus Drosophila, in which latitudinal clines have been observed for body size in several Wing geometry in Screwworm species (e.g. <ref type="bibr" target="#b27">Imasheva et al., 1994;</ref><ref type="bibr" target="#b3">Bitner-Mathe ´et al., 1995;</ref><ref type="bibr" target="#b18">Gilchrist et al, 2004;</ref><ref type="bibr" target="#b6">Collinge et al., 2006;</ref><ref type="bibr">David et al., 2006b)</ref>. Although alternative explanations have been proposed <ref type="bibr" target="#b48">(Santos et al., 2006)</ref>, it is generally believed that the selective pressures acting on the formation of these clines are due to, or related to, temperature variation along latitude transects <ref type="bibr" target="#b27">(Imasheva et al., 1994)</ref>. Phenotypic plasticity occurs in the same direction of temperature and is expected to produce larger sizes in flies developing under lower temperatures than in those growing under higher temperatures <ref type="bibr" target="#b40">(Partridge et al., 1994;</ref><ref type="bibr" target="#b28">Imasheva et al., 2000;</ref><ref type="bibr" target="#b41">Pe ´tavy et al., 2001;</ref><ref type="bibr">David et al. 2006b</ref>). In fact, in various papers, about 50% of the total variation can be explained by a regression on latitude <ref type="bibr" target="#b30">(James et al., 1995;</ref><ref type="bibr" target="#b18">Gilchrist et al., 2004)</ref>.</p><p>Cochliomyia hominivorax is an obligate parasite of endothermic animals, and all larval stages develop in an almost constant environment inside the host. Hence, if temperature variation in developmental time of flies is one hypothetical explanation for size variation, it should not be surprising that we find little correlation between wing size and latitude, since latitude would probably influence size through environmental temperature, which is kept relatively constant during the larval stages development of C. hominivorax. Nonetheless, there is still a residual correlation that explains about 2 to 4% of the total variation. The comparison to previous studies is difficult because most of them focus on species whose larval development is influenced by variations in local temperature. Drosophila larvae often feed on rotting materials (such as fruit or cacti) and are subject to most of the environmental temperature fluctuations and also depend on larval crowding conditions.</p><p>Nevertheless, there are shape and size differences among populations that are not related to latitude. Due to its larval habit, we should expect little variation in developmental temperature or crowding conditions for C. hominivorax, regardless of its geographical location. Thus, we suggest that other aspects, such as seasonality (e.g. humidity and precipitation) and host characteristics, such as host nutritional aspects and body temperature, would have to be considered to understand the size and shape variation in this species. Naturally, we cannot ignore the possible effect of genetic drift and historic phenomena.</p><p>Based on the preliminary results presented here, we suggest that wing variation is a good morphological marker for studying population variation in C. hominivorax. Nevertheless, although our results showed morphological differences between C. hominivorax populations, they should be considered carefully when studying population structure. In order to address questions such as how much of the variation is due to plasticity or genetic differences, or how seasonality, temperature and/or host characteristics affect morphological variation, we need to conduct more detailed, specific and controlled experiments.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Wing of Cochliomyia sp. showing landmarks.</figDesc><graphic coords="3,45.59,315.41,221.04,98.22" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Scatterplot of individual scores from canonical variate analysis. The amount of variation expressed for each CVA is in parentheses. Grids represent the consensus and negative and positive deformations over the CVA1 and CVA2. Groups: ChF ( ), C. hominivorax females; ChM (&amp;), C. hominivorax males; CmF ( ), C. macellaria females; CmM (K); C. macellaria males.</figDesc><graphic coords="4,62.76,210.04,441.60,273.60" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Fig. 3 .</head><label>3</label><figDesc>Fig. 3. Graphic of centroid size (mean CS+SE) vs. latitude for Cochliomyia hominivorax (Ch) populations. L, the mean CS for females; &amp;, the mean CS for males.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head>Table 1 .</head><label>1</label><figDesc>Geographic locations of the sampled areas and number of analyzed individuals of Cochliomyia hominivorax and Cochliomyia macellaria (F, females; M, males).</figDesc><table><row><cell>Species</cell><cell></cell><cell>Locality</cell><cell>Latitude (S)</cell><cell>Longitude (W)</cell><cell>F</cell><cell>M</cell><cell>Total</cell></row><row><cell>C. hominivorax</cell><cell>Brazil</cell><cell>Caiapo ˆnia -GO Sa ˜o Seb. do Paraı ´so -MG Caraguatatuba -SP Carambeı ´-PR Fagundes Varela -RS Pinheiro Machado -RS</cell><cell>16 57 0 20 55 0 23 38 0 24 57 0 28 31 0 31 34 0</cell><cell>51 48 0 46 59 0 45 28 0 50 06 0 55 14 0 53 23 0</cell><cell>19 17 22 11 23 22</cell><cell>23 15 19 11 25 15</cell><cell>42 32 41 22 48 37</cell></row><row><cell></cell><cell>Uruguay</cell><cell>Ban ˜ados de Medina -C.L. Cerro Colorado -Flo. Colonia -Col. Juaquı ´n Suarez -Can. San Antonio -Sal. Paso Mun ˜oz -Sal.</cell><cell>32 23 0 33 52 0 34 20 0 34 44 0 31 23 0 31 27 0</cell><cell>54 21 0 55 33 0 57 44 0 56 05 0 57 51 0 56 23 0</cell><cell>20 22 25 15 19 17</cell><cell>21 23 21 20 23 28</cell><cell>41 45 46 35 42 45</cell></row><row><cell></cell><cell></cell><cell>Subtotal</cell><cell></cell><cell></cell><cell>232</cell><cell>244</cell><cell>476</cell></row><row><cell>C. macellaria</cell><cell>Brazil</cell><cell>Goia ˆnia -GO Mogi-Guac ¸u -SP</cell><cell>16 43 0 22 22 0</cell><cell>49 15 0 46 56 0</cell><cell>20 19</cell><cell>20 20</cell><cell>40 39</cell></row><row><cell></cell><cell>Uruguay</cell><cell>Colonia -Col.</cell><cell>34 20 0</cell><cell>57 44 0</cell><cell>20</cell><cell>20</cell><cell>40</cell></row><row><cell></cell><cell></cell><cell>Subtotal</cell><cell></cell><cell></cell><cell>59</cell><cell>60</cell><cell>119</cell></row><row><cell></cell><cell></cell><cell>Total</cell><cell></cell><cell></cell><cell>293</cell><cell>305</cell><cell>595</cell></row></table></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_1"><head>Table 2 .</head><label>2</label><figDesc>Results of ANOVA on centroid size and MANOVA on non-uniform components of partial warps for Cochliomyia hominivorax (Ch) and C. macellaria (Cm) and for C. hominivorax populations.</figDesc><table><row><cell>Ch X Cm</cell><cell></cell><cell>Centroid size (ANOVA)</cell><cell></cell><cell></cell><cell>Partial warps (MANOVA)</cell><cell></cell></row><row><cell></cell><cell>df</cell><cell>F</cell><cell>P</cell><cell>df</cell><cell>F</cell><cell>P</cell></row><row><cell>Species</cell><cell>1</cell><cell>15.78</cell><cell>&lt; 0.0001</cell><cell>28</cell><cell>99.26</cell><cell>&lt; 0.0001</cell></row><row><cell>Sex</cell><cell>1</cell><cell>48.49</cell><cell>&lt; 0.0001</cell><cell>28</cell><cell>104.59</cell><cell>&lt; 0.0001</cell></row><row><cell>Sex X species</cell><cell>1</cell><cell>86.97</cell><cell>&lt; 0.0001</cell><cell>28</cell><cell>27.46</cell><cell>&lt; 0.0001</cell></row><row><cell>Ch populations</cell><cell>df</cell><cell>F</cell><cell>P</cell><cell>df</cell><cell>F</cell><cell>P</cell></row><row><cell>Sex</cell><cell>1</cell><cell>293.04</cell><cell>&lt; 0.0001</cell><cell>28</cell><cell>281.36</cell><cell>&lt; 0.0001</cell></row><row><cell>Local</cell><cell>11</cell><cell>9.78</cell><cell>&lt; 0.0001</cell><cell>308</cell><cell>4.82</cell><cell>&lt; 0.0001</cell></row><row><cell>Sex X Local</cell><cell>11</cell><cell>1.13</cell><cell>0.332</cell><cell>308</cell><cell>1.56</cell><cell>&lt; 0.0001</cell></row></table></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>https://doi.org/10.1017/S0007485309006762 Published online by Cambridge University Press</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgements</head><p>The authors thank <rs type="person">R.A. Rodrigues</rs> for valuable technical and laboratorial assistance, <rs type="person">M.S. Couto</rs> for maintaining the screwworm colonies and <rs type="person">P. Fresia</rs> for help in collecting the samples from Uruguay. M.L.L. was supported by a fellowship from <rs type="funder">Fundac ¸a ˜o de Amparo a `Pesquisa do Estado de Sa ˜o Paulo FAPESP</rs> (grants <rs type="grantNumber">01/12528-2</rs> and <rs type="grantNumber">03/13598-0</rs>). This work was supported by grants from <rs type="funder">FAPESP</rs>, <rs type="funder">CNPq</rs> and the <rs type="funder">International Atomic Energy Agency (IAEA</rs>, grant <rs type="grantNumber">11822/RO</rs>).</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_FvXPrNB">
+					<idno type="grant-number">01/12528-2</idno>
+				</org>
+				<org type="funding" xml:id="_rYVACZq">
+					<idno type="grant-number">03/13598-0</idno>
+				</org>
+				<org type="funding" xml:id="_PGjpzdq">
+					<idno type="grant-number">11822/RO</idno>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Andersson</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994">1994</date>
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, N</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">Ana ´lise cariotı ´pica, morfome ´trica e de compatibilidade sexual em linhagens brasileiras de Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1987">1987</date>
+			<pubPlace>Campinas, SP, Brazil</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>University of Campinas (UNICAMP</orgName>
+		</respStmt>
+	</monogr>
+	<note type="report_type">PhD dissertation</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Plasticity of Drosophila melanogaster wing morphology: effects of sex, temperature and density</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Baumgartner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´</forename><surname>Bitner-Mathe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="203" to="210" />
+			<date type="published" when="1985">1985. 1999</date>
+		</imprint>
+	</monogr>
+	<note>Distribution and medical ecology of the blow flies (Diptera: Calliphoridae) of Peru Genetica</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Morphological variation in natural population of Drosophila mediopunctara: altitudinal cline, temporal changes and influence chromosome inversions</title>
+		<author>
+			<persName><forename type="first">´</forename><surname>Bitner-Mathe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Peixoto</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heredity</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="54" to="61" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Convergent Evolution of Sexual Shape Dimorphism in Diptera</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Bonduriansky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Morphology</title>
+		<imprint>
+			<biblScope unit="volume">267</biblScope>
+			<biblScope unit="page" from="602" to="611" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">Morphometric Tools for Landmark Data</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">L</forename><surname>Bookstein</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991">1991</date>
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Altitudinal patterns for latitudinally varying traits and polymorphic markers in Drosophila melanogaster from eastern Australia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">E</forename><surname>Collinge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">W</forename><surname>Mckechnie</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Evolutionary Biology</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="473" to="482" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Reprodutive behavior of laboratory reared screwworm flies (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Crystal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="443" to="450" />
+			<date type="published" when="1967">1967</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">The Descent of Man and Selection in Relation to Sex</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Darwin</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1871">1871</date>
+			<biblScope unit="volume">620</biblScope>
+			<pubPlace>London, UK, John Murray</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Genetic variability of sexual size dimorphism in natural population of Drosophila melanogaster: an isofemale-line approach</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gibert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Mignon-Grasteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Legout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pe ´tavy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Beaumont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moreteau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Genetics</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="79" to="88" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">a) Sexual dimorphism of body size and sternopleural bristle number: a comparison of geographic populations of an invasive cosmopolitan dosophilid</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">O</forename><surname>Araripe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´</forename><surname>Bitner-Mathe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Capy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gon ˜i</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Legout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Martins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Vouidibio</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Yassin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Moreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetica</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="page" from="109" to="122" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Phenotypic plasticity of body size in a temperate population of Drosophila melanogaster: when the temperature-size rule does not apply</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>David</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Legout</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moreteau</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Genetics</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="page" from="9" to="23" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Canine minima myiasis in Puerto Rico -a case report</title>
+		<author>
+			<persName><forename type="first">De</forename><surname>Leo ´n</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Agriculture of University of Puerto Rico</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="126" to="128" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">A revision of New World Crysomiini (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Dear</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="109" to="169" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Geographical versus interspecific differentiation of sand flies (Diptera: Psychodidae): a landmark data analysis</title>
+		<author>
+			<persName><forename type="first">J.-P</forename><surname>Dujardin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Le Pont</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Baylac</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bulletin of Entomological Research</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="87" to="90" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Allometry for sexual size dimorphism: patterns and process in coevolution of body size in males and females</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Fairbairn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Ecology and Systematic</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="659" to="687" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Guide for the identification of flies in the genus Cochliomyia (Diptera: Calliphoridae)</title>
+	</analytic>
+	<monogr>
+		<title level="m">Manual for the Control of the Screwworm Fly Cochliomyia hominivorax (Coquerel)</title>
+		<meeting><address><addrLine>Rome, Italy, FAO</addrLine></address></meeting>
+		<imprint>
+			<publisher>FAO: Food and Agriculture Organization of United Nations</publisher>
+			<date type="published" when="1993">1993</date>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Physical changes in the genitalia of males of the screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae), caused by mating</title>
+		<author>
+			<persName><forename type="first">´</forename><surname>Gagne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">J</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="574" to="578" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Time series of evolution in action: a latitudinal cline in wing size in South American Drosophila subosbscura</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Gilchrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Huey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Balanya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Pascual</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Serra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="768" to="780" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Salmonellae from flies in a Mexican slaughterhouse</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Varela</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Bornstein</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Hernandez</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Hygiene</title>
+		<imprint>
+			<biblScope unit="volume">77</biblScope>
+			<biblScope unit="page" from="177" to="183" />
+			<date type="published" when="1963">1963</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Behavior of sexually active male screwworm flies</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Guillot</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">E</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">B</forename><surname>Broce</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the Entomological Society of America</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="199" to="201" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimara ˜es</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<title level="m">Myiasis in Man and Animals in the Neotropical Region. 308 pp. Sa ˜o Paulo</title>
+		<meeting><address><addrLine>Brazil</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+	<note>Ple ˆiade/FAPESP</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Shape and size variation on the wing of Drosophila mediopunctata: influence of chromosome inversions and genotype-environment interaction</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Hatadani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetica</title>
+		<imprint>
+			<biblScope unit="volume">133</biblScope>
+			<biblScope unit="page" from="335" to="342" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Geographic variation for wing shape in Drosophila serrata</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">A</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Shirriffs</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1068" to="1073" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Automated measurement of Drosophila wings</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Houle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mezey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Galpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Carter</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Evolutionary Biology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="25" to="37" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Sexual size dimorphism in a Drosophila clade, the D. obscura group</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B</forename><surname>Huey</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Moreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gibert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">W</forename><surname>Gilchrist</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">R</forename><surname>Ives</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Garland</surname><genName>Jr</genName></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>David</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zoology</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<biblScope unit="page" from="318" to="330" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Genetic sexing and population genetics of screwworms</title>
+		<author>
+			<persName><surname>Iaea/Fao</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Atomic Energy Agency</title>
+		<imprint>
+			<biblScope unit="page" from="7" to="11" />
+			<date type="published" when="2000-08">2000. August 2000</date>
+			<publisher>International Atomic Energy Agency/Food and Agriculture Organization</publisher>
+			<pubPlace>Vienna, Austria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Variation in wing length in Eurasian natural populations of Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Imasheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">A</forename><surname>Bubli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><forename type="middle">E</forename><surname>Lazebny</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Heredity</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="page" from="508" to="514" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Growth temperature and genetic variability of wing dimensions in Drosophila: opposite trends in two sibling species</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Imasheva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>David</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetical Research</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="page" from="237" to="247" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Genetic Variability in Mitochondrial DNA of Screwworm Cochliomyia hominivorax (Diptera: Calliphoridae) from Brazil</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">E</forename><surname>Infante-Vargas</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemical Genetics</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="737" to="756" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Cellular basis and developmental timing in a size cline of Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>James</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">B R</forename><surname>Azevedo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">140</biblScope>
+			<biblScope unit="page" from="659" to="666" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">An unusual nosocomial infection: nasotracheal myiasis</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Josephson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Krajden</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Otolaryngology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="46" to="47" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Aggregation of male screwworm flies, Cochliomyia hominivorax (Coquerel) in South Texas (Diptera-Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Krafsur</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the Entomological Society of Washington</title>
+		<imprint>
+			<biblScope unit="volume">80</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="164" to="170" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title level="m" type="main">Sterile Insect Technique: Principles and Practice in Area-Wide Integrated Pest Management</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Krafsur</surname></persName>
+		</author>
+		<editor>Dyck, V.A., Hendrichs, J. &amp; Robinson, A.S.</editor>
+		<imprint>
+			<date type="published" when="2005">2005</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="389" to="406" />
+			<pubPlace>Dordrecht, The Netherlands</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Role of population genetics in the sterile insect technique</note>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Sexual dimorphism, sexual selection and adaptation in phylogenic characters</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lande</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="292" to="305" />
+			<date type="published" when="1980">1980</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Characterization of screwworm flies Cochliomyia hominivorax and Cochliomyia macellaria by PCR-RFLP of mitochondrial DNA</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Litjens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Lessinger</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="183" to="188" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">The Cheilosia canicularis group (Diptera: Syrphidae): species delimitation and evolutionary relationships based on wing geometric morphometrics</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Ludoski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Francuski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Vujic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Milankov</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<imprint>
+			<biblScope unit="volume">1825</biblScope>
+			<biblScope unit="page" from="40" to="50" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Analysis of Mitochondrial DNA Variability and Genetic Structure in Populations of New World Screwworm Flies (Diptera: Calliphoridae) from Uruguay</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Gama</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Cristina</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Medical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="589" to="595" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Complex pattern of genetic variability in populations of the New World Screwworm fly revealed by mitochondrial DNA markers</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">B</forename><surname>Klaczko</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint/>
+	</monogr>
+	<note>in press</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">The Evolution of Sex</title>
+		<author>
+			<persName><forename type="first">Maynard</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1978">1978</date>
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page">242</biblScope>
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Evolution and development of body size and cell size in Drosophila melanogaster in response to temperature</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Partridge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Barrie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Fowler</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>French</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Evolution</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1269" to="1276" />
+			<date type="published" when="1994">1994</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">Phenotypic plasticity of body size in Drosophila: effects of a daily periodicity of growth temperature in two sibling species</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Pe ´tavy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Moreteau</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Gibert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Morin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>David</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Physiological Entomology</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="351" to="361" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<analytic>
+		<title level="a" type="main">Cuticular hydrocarbons of the screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">G</forename><surname>Pomonis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Chemical Ecology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="2301" to="2317" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title level="a" type="main">Mating types in Screwworm populations?</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Richardson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Ellison</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">W</forename><surname>Averhoff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Reply Science</title>
+		<imprint>
+			<biblScope unit="volume">218</biblScope>
+			<biblScope unit="page" from="1143" to="1145" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<analytic>
+		<title level="a" type="main">Intraspecific Genetic Variability in Mitochondrial DNA of the Screwworm Fly (Cochliomyia hominivorax)</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">L</forename><surname>Roehrdanz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemical Genetics</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">9-10</biblScope>
+			<biblScope unit="page" from="551" to="569" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">TPSRegr software for windows version 1.31. Stony Book</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Rohlf</surname></persName>
+		</author>
+		<ptr target="http://life.bio.sunysb.edu/morph/" />
+		<imprint>
+			<date type="published" when="2005-06">2005. June 2008</date>
+		</imprint>
+		<respStmt>
+			<orgName>NY, Department of Ecology and Evolution, State University of New York</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title level="m" type="main">TPSrelw software for windows version 1.42. Stony Book</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Rohlf</surname></persName>
+		</author>
+		<ptr target="http://life.bio.sunysb.edu/morph/" />
+		<imprint>
+			<date type="published" when="2005-06">2005b. June 2008</date>
+		</imprint>
+		<respStmt>
+			<orgName>NY, Department of Ecology and Evolution, State University of New York</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title level="m" type="main">TPSDig software for windows version 2.11. Stony Book</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">J</forename><surname>Rohlf</surname></persName>
+		</author>
+		<ptr target="http://life.bio.sunysb.edu/morph/" />
+		<imprint>
+			<date type="published" when="2006-06">2006. June 2008</date>
+		</imprint>
+		<respStmt>
+			<orgName>NY, Department of Ecology and Evolution, State University of New York</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<analytic>
+		<title level="a" type="main">Temperature-related genetic changes in laboratory populations of Drosophila subobscura: evidence against simple climatic-based explanations for latitudinal clines</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Cespedes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Balanya</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Trotta</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">C F</forename><surname>Calboli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Fontdevila</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Serra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Naturalist</title>
+		<imprint>
+			<biblScope unit="volume">165</biblScope>
+			<biblScope unit="page" from="258" to="273" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<analytic>
+		<title level="a" type="main">Ecological causes for the evolution of sexual dimorphism: a review of the evidence</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Shine</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Review of Biology</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="419" to="461" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<analytic>
+		<title level="a" type="main">Sexual Dimorphism in Anastrepha suspense (Loew) and other Tephitid fruit flies (Diptera: Tephritidae): Possible rule of developmental rate, fecundity and dispersal</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Sivinski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Dodson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Insect Behavior</title>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Clevenger</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="439" to="440" />
+			<date type="published" when="1986">1992. 1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<analytic>
+		<title level="a" type="main">A polymerase chain reaction -restriction fragment length polymorphism technique for identification of screwworms (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">B</forename><surname>Taylor</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Szalanski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">I</forename><surname>Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="63" to="70" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title level="m" type="main">Assessing Genetic Variation in the New World Screwworm, Cochliomyia hominivorax, populations from Uruguay</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Lyra</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Fresia</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M L</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<editor>Vreysen, M.J.B., Robinson, A.S. &amp; Hendrichs, J.</editor>
+		<imprint>
+			<date type="published" when="2007">2007</date>
+			<publisher>Springer</publisher>
+			<biblScope unit="page" from="183" to="191" />
+		</imprint>
+	</monogr>
+	<note>Research to Field Implementation. Dordrecht, The Netherlands</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<analytic>
+		<title level="a" type="main">Discrimination of Eubazus (Hymenoptera, Braconidae) sibling species using geometric morphometrics analysis of wing venation</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Villemant</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simbolotti</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kenis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Systematic Entomology</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="page" from="625" to="634" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<analytic>
+		<title level="a" type="main">Screwworm Eradication in the Americas</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Wyss</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of the New York Academy of Science</title>
+		<imprint>
+			<biblScope unit="volume">791</biblScope>
+			<biblScope unit="page" from="241" to="247" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">Geometric Morphometrics for Biologists: A Primer</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Zelditch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Swiderski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Sheets</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">L</forename><surname>Fink</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004">2004</date>
+			<publisher>Elsevier Academic Press</publisher>
+			<biblScope unit="page">443</biblScope>
+			<pubPlace>London, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

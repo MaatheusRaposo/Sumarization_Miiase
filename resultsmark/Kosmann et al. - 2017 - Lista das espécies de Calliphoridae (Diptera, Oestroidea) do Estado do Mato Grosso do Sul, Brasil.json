@@ -1,0 +1,1356 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Lista das espécies de Calliphoridae (Diptera, Oestroidea) do Estado do Mato Grosso do Sul, Brasil",
+    "authors": [
+      "Cecília Kosmann",
+      "Anna Prestes",
+      "Karla Tepedino",
+      "Ana Franco",
+      "Cristiane Pujol-Luz",
+      "José Pujol-Luz"
+    ],
+    "doi": "10.1590/1678-4766e2017140",
+    "hash": "C0A092CF8D57EC1E3297C2EBDF701404",
+    "publication_date": "2017",
+    "publication_year": 2017,
+    "publisher": "FapUNIFESP (SciELO)",
+    "journal": "Iheringia. Série Zoologia",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Checklist of the Calliphoridae (Diptera, Oestroidea) from Mato Grosso do Sul, Brazil state. In this paper it is provided a checklist of the Calliphoridae species registered in the state of Mato Grosso do Sul. Calliphoridae is represented by 13 species distributed in seven genera: Chloroprocta Wulp (1), Chrysomya Robineau-Desvoidy (3), Cochliomyia Townsend (2), Hemilucilia Brauer (2), Paralucilia Brauer & Bergenstamm (1), Lucilia Robineau-Desvoidy (2), and Mesembrinella Giglio-Tos (2).",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_d31a6045",
+      "text": "Os adultos e imaturos de Calliphoridae possuem hábitos diversos, sendo o mais comum o desenvolvimento em carcaças de animais (Vargas & Wood, 2010). Este hábito torna as espécies desta família importantes na cadeia de reciclagem de nutrientes (Byrd & Castner, 2001) e serve como ferramenta para estimativa do intervalo pósmorte (IPM) em investigações criminais (Benecke, 2001;Amendt et al., 2007;Pujol-Luz et al., 2008). Adultos são ainda encontrados alimentando-se em fezes, néctar e secreções açucaradas, bem como polinizando diversas espécies de plantas (Jirón & Hedström, 1985). Além do desenvolvimento em carcaças, as larvas podem utilizar fezes e material vegetal em decomposição como substrato de criação, bem como ser parasitas de répteis (Koskela et al., 1974), gastrópodes e anelídeos (Rognes, 1991). Espécies de três gêneros são conhecidas por alimentarem-se de sangue humano e de outros animais (Vargas & Wood, 2010). A biologia das espécies brasileiras é bem estudada, com exceção da sufamília Mesembrinellinae.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "(Vargas & Wood, 2010)",
+          "offset_start": 125,
+          "offset_end": 146
+        },
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Byrd & Castner, 2001)",
+          "offset_start": 242,
+          "offset_end": 264
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Benecke, 2001;",
+          "offset_start": 360,
+          "offset_end": 375
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "Amendt et al., 2007;",
+          "offset_start": 375,
+          "offset_end": 395
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "Pujol-Luz et al., 2008)",
+          "offset_start": 395,
+          "offset_end": 418
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "(Jirón & Hedström, 1985)",
+          "offset_start": 556,
+          "offset_end": 580
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(Koskela et al., 1974)",
+          "offset_start": 746,
+          "offset_end": 768
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "(Rognes, 1991)",
+          "offset_start": 794,
+          "offset_end": 808
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "(Vargas & Wood, 2010)",
+          "offset_start": 906,
+          "offset_end": 927
+        }
+      ]
+    },
+    {
+      "id": "p_c30487d1",
+      "text": "O elevado número de estudos relacionados à família deve-se, em grande parte, à importância médico-veterinária apresentada por muitas de suas espécies, reportadas como causadoras de miíases (Zumpt, 1965;Guimarães et al., 1983;Hall & Wall, 1995) e vetores mecânicos de patógenos aos animais e ao homem (Greenberg, 1971). Os danos econômicos na criação de gado devido às miíases são extensivos, levando inclusive a medidas para erradicação total de algumas espécies (e.g. Cochliomyia macellaria Fabricius nos Estados Unidos da América, México, Belize e Costa Rica).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": "(Zumpt, 1965;",
+          "offset_start": 189,
+          "offset_end": 202
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "Guimarães et al., 1983;",
+          "offset_start": 202,
+          "offset_end": 225
+        },
+        {
+          "type": "bibr",
+          "target": "#b20",
+          "text": "Hall & Wall, 1995)",
+          "offset_start": 225,
+          "offset_end": 243
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "(Greenberg, 1971)",
+          "offset_start": 300,
+          "offset_end": 317
+        }
+      ]
+    },
+    {
+      "id": "p_0acc2461",
+      "text": "A fauna brasileira de califorídeos é consideravelmente bem conhecida se comparada à de outros grupos. Estudos relacionados à associação das espécies com o ambiente urbano -sinantropia -, bem como relatos de miíases causadas por califorídeos são frequentes (Linhares, 1981;D'Almeida & Lopes, 1982;Guimarães & Papavero, 1999;Thyssen et al., 2012).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Linhares, 1981;",
+          "offset_start": 256,
+          "offset_end": 272
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "D'Almeida & Lopes, 1982;",
+          "offset_start": 272,
+          "offset_end": 296
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Guimarães & Papavero, 1999;",
+          "offset_start": 296,
+          "offset_end": 323
+        },
+        {
+          "type": "bibr",
+          "target": "#b58",
+          "text": "Thyssen et al., 2012)",
+          "offset_start": 323,
+          "offset_end": 344
+        }
+      ]
+    },
+    {
+      "id": "p_f167b32a",
+      "text": "Para o estado do Mato Grosso do Sul, poucos são os trabalhos com califorídeos (Campos & Barros, 1995), sendo a maioria deles realizados em locais associados à criação de gado (Gomes et al., 2000;Corrêa et al., 2010;Koller et al., 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Campos & Barros, 1995)",
+          "offset_start": 78,
+          "offset_end": 101
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Gomes et al., 2000;",
+          "offset_start": 175,
+          "offset_end": 195
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Corrêa et al., 2010;",
+          "offset_start": 195,
+          "offset_end": 215
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Koller et al., 2011)",
+          "offset_start": 215,
+          "offset_end": 235
+        }
+      ]
+    },
+    {
+      "id": "p_ab0b7363",
+      "text": "A lista das espécies de califorídeos que ocorrem no Estado do Mato Grosso do Sul foi elaborada com base na literatura disponível entre os anos 1960 e 2013. Destacam-se Mello (1961Mello ( , 1962Mello ( , 1965Mello ( , 1967Mello ( , 1968Mello ( , 1969aMello ( ,b, 1972aMello ( ,b, 1974Mello ( , 1978Mello ( , 1996Mello ( , 2003)), James (1970), Dear (1979Dear ( , 1985)), Guimarães (1977), Kosmann et al. (2013), Lopes & Albuquerque (1982), Mariluis (1979Mariluis ( , 1980Mariluis ( , 1983)), Mariluis & Peris (1984), Peris & Mariluis (1984), Shannon (1926) e Whitworth (2006Whitworth ( , 2010Whitworth ( , 2012)). Os catálogos de Stone et al. (1965), Kurahashi (1989) e Pont (1980) também foram consultados.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "Mello (1961",
+          "offset_start": 168,
+          "offset_end": 179
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "Mello ( , 1962",
+          "offset_start": 179,
+          "offset_end": 193
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "Mello ( , 1965",
+          "offset_start": 193,
+          "offset_end": 207
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "Mello ( , 1967",
+          "offset_start": 207,
+          "offset_end": 221
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": "Mello ( , 1968",
+          "offset_start": 221,
+          "offset_end": 235
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Mello ( , 1969a",
+          "offset_start": 235,
+          "offset_end": 250
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Mello ( ,b, 1972a",
+          "offset_start": 250,
+          "offset_end": 267
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Mello ( ,b, 1974",
+          "offset_start": 267,
+          "offset_end": 283
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "Mello ( , 1978",
+          "offset_start": 283,
+          "offset_end": 297
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "Mello ( , 1996",
+          "offset_start": 297,
+          "offset_end": 311
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "Mello ( , 2003))",
+          "offset_start": 311,
+          "offset_end": 327
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "James (1970)",
+          "offset_start": 329,
+          "offset_end": 341
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Dear (1979",
+          "offset_start": 343,
+          "offset_end": 353
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "Dear ( , 1985))",
+          "offset_start": 353,
+          "offset_end": 368
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães (1977)",
+          "offset_start": 370,
+          "offset_end": 386
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "Kosmann et al. (2013)",
+          "offset_start": 388,
+          "offset_end": 409
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Lopes & Albuquerque (1982)",
+          "offset_start": 411,
+          "offset_end": 437
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "Mariluis (1979",
+          "offset_start": 439,
+          "offset_end": 453
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "Mariluis ( , 1980",
+          "offset_start": 453,
+          "offset_end": 470
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "Mariluis ( , 1983))",
+          "offset_start": 470,
+          "offset_end": 489
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Mariluis & Peris (1984)",
+          "offset_start": 491,
+          "offset_end": 514
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Peris & Mariluis (1984)",
+          "offset_start": 516,
+          "offset_end": 539
+        },
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "Shannon (1926)",
+          "offset_start": 541,
+          "offset_end": 555
+        },
+        {
+          "type": "bibr",
+          "target": "#b61",
+          "text": "Whitworth (2006",
+          "offset_start": 558,
+          "offset_end": 573
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "Whitworth ( , 2010",
+          "offset_start": 573,
+          "offset_end": 591
+        },
+        {
+          "type": "bibr",
+          "target": "#b63",
+          "text": "Whitworth ( , 2012))",
+          "offset_start": 591,
+          "offset_end": 611
+        },
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "Stone et al. (1965)",
+          "offset_start": 629,
+          "offset_end": 648
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "Kurahashi (1989)",
+          "offset_start": 650,
+          "offset_end": 666
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "Pont (1980)",
+          "offset_start": 669,
+          "offset_end": 680
+        }
+      ],
+      "head_section": "MATERIAL E MÉTODOS"
+    },
+    {
+      "id": "p_6f216350",
+      "text": "Neste trabalho consideramos Mesembrinellinae como uma subfamília baseada nas contribuições de Rognes (1986) e Toma & Carvalho (1995), em detrimento a Guimarães (1977). As espécies exóticas foram assinaladas com (*E).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "Rognes (1986)",
+          "offset_start": 94,
+          "offset_end": 107
+        },
+        {
+          "type": "bibr",
+          "target": "#b59",
+          "text": "Toma & Carvalho (1995)",
+          "offset_start": 110,
+          "offset_end": 132
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães (1977)",
+          "offset_start": 150,
+          "offset_end": 166
+        }
+      ],
+      "head_section": "MATERIAL E MÉTODOS"
+    },
+    {
+      "id": "p_ea6e1f10",
+      "text": "Existem registros de sete gêneros e 13 espécies de califorídeos no Mato Grosso do Sul, distribuídas em três subfamílias: Chrysomyinae (cinco gêneros e nove espécies), Luciliinae (um gênero e duas espécies) e Mesembrinellinae (um gênero e duas espécies).",
+      "coords": [],
+      "refs": [],
+      "head_section": "RESULTADOS E DISCUSSÃO"
+    },
+    {
+      "id": "p_7dc7b424",
+      "text": "Apesar de haver o registro de 43 espécies no Brasil, apenas 13 são encontradas no estado do Mato Grosso do Sul. Este número reduzido deve-se, em parte, ao fato de que os esforços de coleta e estudos da família ficam restritos ao âmbito agropecuário e veterinário, visto ser esta uma das bases da economia local. A grande importância médicaveterinária que as espécies apresentam acaba por direcionar os estudos, levando a lacunas no conhecimento da fauna do estado.",
+      "coords": [],
+      "refs": [],
+      "head_section": "RESULTADOS E DISCUSSÃO"
+    },
+    {
+      "id": "p_4c9b97f9",
+      "text": "Calliphoridae do Estado do Mato Grosso do Sul CHRYSOMYINAE Chloroprocta Wulp, 1896 idioidea (Robineau-Desvoidy, 1830). Localidade-tipo: Brasil. Distribuição: Argentina, Bahamas, Brasil, Colômbia, Costa Rica, Cuba, El Salvador, Equador, EUA, Guatemala, Guiana, Guiana Francesa, México, Nicarágua, Panamá, Paraguai, Peru, Trindade e Tobago, Venezuela. Chrysomya Robineau-Desvoidy, 1830 albiceps (Wiedemann, 1819). (*E) Localidade-tipo: África do Sul, Cabo da Boa Esperança. Distribuição na Região Neotropical: Argentina, Bolívia, Brasil, Colômbia, Dominica, Guatemala, Nicarágua, Paraguai, Peru, Porto Rico, Uruguai, Venezuela. megacephala (Fabricius, 1794). (*E) Localidade-tipo: \"Guinea\", [error =? \"Ex. Ind. Or.\"]. Distribuição na Região Neotropical: Argentina, Brasil, Colômbia, Dominica, Grandes Antilhas, Jamaica, Porto Rico, Peru, República Dominicana. putoria (Wiedemann, 1818). (*E) Localidade-tipo: Serra Leoa. Distribuição na Região Neotropical: Argentina, Bolívia, Brasil, Colômbia, Panamá, Paraguai, Peru. Cochliomyia Townsend, 1915 hominivorax (Coquerel, 1858). Localidade-tipo: \"Guiana\". Distribuição: Argentina, Brasil, Chile, Colômbia, Costa Rica, Cuba, Grandes Antilhas, Guatemala, Guiana Francesa, Jamaica, México, Nicarágua, Panamá, Peru, Porto Rico, República Dominicana, Trindade e Tobago, Uruguai. macellaria (Fabricius, 1775). Localidade-tipo: \"West Indies\". Distribuição: Argentina, Bahamas, Belize, Bermudas, Bolívia, Brasil, Caribe, Chile, Colômbia, Costa Rica, Cuba, Equador, Grandes Antilhas, Guatemala, Guiana, Honduras, Jamaica, México, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Trindade e Tobago, Uruguai, Venezuela. Hemilucilia Brauer, 1895 segmentaria (Fabricius, 1805). Localidade-tipo: \"América do Sul\". Distribuição: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, El Salvador, Equador, Guatemala, Guiana, México, Panamá, Paraguai, Peru, Trindade e Tobago.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Lista de espécies de"
+    }
+  ],
+  "figures_and_tables": [],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Localidade-tipo",
+      "authors": [
+        "Série Iheringia",
+        "Zoologia"
+      ],
+      "publisher": "Paralucilia Brauer & Bergenstamm",
+      "publication_date": "1850",
+      "pages": "1891"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Localidade-tipo: \"Brasil",
+      "authors": [
+        "Santa Mello ; Brasil",
+        "Nova Catarina",
+        "Teutônia ; Argentina",
+        "Bolívia",
+        "Brasil",
+        "Paraguai Colômbia",
+        "Lucilia Luciliinae",
+        "Robineau-Desvoidy ; *e) Localidade-Tipo"
+      ],
+      "publication_date": "1830",
+      "pages": "1819",
+      "notes": "Localidade-tipo Distribuição: Argentina"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "authors": "Mesembrinella Giglio-Tos",
+      "publication_date": "1893"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Distribuição na Região Neotropical: México ao Panamá. América do Sul, exceto Chile e sul da Argentina. Agradecimentos. Os autores agradecem a Fundação de Apoio ao Desenvolvimento do Ensino, Ciências e Tecnologia do Estado de Mato Grosso do Sul (Fundect) e a Superintendência de Ciências e Tecnologia do Estado de Mato Grosso do Sul (Sucitec/MS) pelo convite de participação neste fascículo especial da Iheringia, Série Zoologia e o suporte financeiro para sua publicação",
+      "authors": "Aldrich Batesi",
+      "publication_date": "1922",
+      "year": 1922,
+      "notes": "Localidade-tipo: \"America meridionalis e às seguintes agências de fomento à pesquisa: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "journal": "Pesquisa do Distrito Federal (FAPDF"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "journal": "Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Pró-Reitoria de Pesquisa e Pós-Graduação da Universidade Católica de Brasília (UCB)",
+      "notes": "REFERÊNCIAS BIBLIOGRÁFICAS"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Best practice in forensic entomology -Standards and guidelines",
+      "authors": [
+        "J Amendt",
+        "C Campobasso",
+        "E Gaudry",
+        "C Reiter",
+        "H Leblanc",
+        "M Hall"
+      ],
+      "journal": "International Journal of Legal Medicine",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "121",
+      "page_start": "90",
+      "page_end": "104"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "A brief history of forensic entomology",
+      "authors": "M Benecke",
+      "journal": "Forensic Science International",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "120",
+      "page_start": "2",
+      "page_end": "14"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Insects of forensic importance",
+      "authors": [
+        "J Byrd",
+        "J Castner"
+      ],
+      "editors": [
+        "J Byrd",
+        "J Castner"
+      ],
+      "publisher": "CRC Press LLC",
+      "publication_date": "2001",
+      "year": 2001,
+      "page_start": "43",
+      "page_end": "80"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Dípteros muscóides da área urbana de Corumbá",
+      "authors": [
+        "C Campos",
+        "A Barros"
+      ],
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "55",
+      "page_start": "347",
+      "page_end": "350"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Abundância relativa e sazonalidade de espécies de Chrysomya (Diptera: Calliphoridae) no Pantanal Sul-Mato-Grossense",
+      "authors": [
+        "E Corrêa",
+        "W Koller",
+        "A Barros"
+      ],
+      "journal": "Revista Brasileira de Parasitologia Veterinária",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "19",
+      "page_start": "85",
+      "page_end": "88"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Sinantropia de dípteros caliptrados (Calliphoridae) no Estado do Rio de Janeiro",
+      "authors": [
+        "J D'almeida",
+        "H Lopes",
+        "De"
+      ],
+      "journal": "Arquivos da Universidade Federal Rural do Rio de Janeiro",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "6",
+      "page_start": "31",
+      "page_end": "38"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "A revision of the Toxotarsinae (Diptera: Calliphoridae)",
+      "authors": "J Dear",
+      "journal": "Papéis Avulsos de Zoologia",
+      "publication_date": "1979",
+      "year": 1979,
+      "volume": "32",
+      "page_start": "145",
+      "page_end": "182"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "A revision of the new world Chrysomyini (Diptera: Calliphoridae)",
+      "authors": "J Dear",
+      "journal": "Revista Brasileira de Zoologia",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "3",
+      "page_start": "109",
+      "page_end": "169"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Sazonalidade da mosca-varejeira, Cochliomyia macellaria (Diptera: Calliphoridae), na região dos Cerrados",
+      "authors": [
+        "A Gomes",
+        "W Koller",
+        "A Barros"
+      ],
+      "journal": "Revista Brasileira de Parasitologia Veterinária",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "page_start": "125",
+      "page_end": "128"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Flies and disease",
+      "authors": "B Greenberg",
+      "journal": "Ecology, Classification and Biotic Associations. New Jersey",
+      "publisher": "Princeton University Press",
+      "publication_date": "1971",
+      "year": 1971,
+      "volume": "1",
+      "pages": "856"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "A Systematic revision of the Mesembrinellidae, stat. nov. (Diptera, Cyclorrahapha)",
+      "authors": "J Guimarães",
+      "journal": "Arquivos de Zoologia",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "29",
+      "page_start": "1",
+      "page_end": "109"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Myiasis in man and animals in the Neotropical Region, bibliographic database",
+      "authors": [
+        "J Guimarães",
+        "N Papavero"
+      ],
+      "publication_date": "1999",
+      "year": 1999,
+      "pages": "308"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "As miíases na região Neotropical (Identificação, biologia, bibliografia)",
+      "authors": [
+        "J Guimarães",
+        "N Papavero",
+        "A Prado"
+      ],
+      "journal": "Revista Brasileira de Zoologia",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "1",
+      "page_start": "239",
+      "page_end": "416"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Myiasis of humans and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Advanced in Parasitology",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "257",
+      "page_end": "334"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "A catalogue of the Diptera of Americas south of the United States",
+      "authors": "M James",
+      "editors": "N Papavero",
+      "journal": "Secretaria de Agricultura",
+      "publisher": "Departamento de Zoologia",
+      "publication_date": "1970",
+      "year": 1970,
+      "volume": "102",
+      "page_start": "1",
+      "page_end": "28",
+      "notes": "Family Calliphoridae"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Pollination ecology of mango (Mangifera indica L.) (Anacardiaceae) in the Neotropic region",
+      "authors": [
+        "L Jirón",
+        "I Hedström"
+      ],
+      "journal": "Turrialba",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "35",
+      "page_start": "269",
+      "page_end": "277"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridaea) in Southern Pantanal",
+      "authors": [
+        "W Koller",
+        "A Barros",
+        "E Correa"
+      ],
+      "journal": "Brazil. Revista Brasileira de Parasitologia Veterinária",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "20",
+      "page_start": "27",
+      "page_end": "30"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Lucilia bufonivora Moniez (Dipt., Calliphoridae), a lethal parasite in Rana temporaria L. (Anura)",
+      "authors": [
+        "P Koskela",
+        "J Itämies",
+        "S Pasane"
+      ],
+      "journal": "Annales Zoologici Fennici",
+      "publication_date": "1974",
+      "year": 1974,
+      "volume": "11",
+      "page_start": "105",
+      "page_end": "106"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "A List of Current Valid Blow Fly Names (Diptera: Calliphoridae) in the",
+      "authors": [
+        "C Kosmann",
+        "R Mello",
+        "E Harterreiten-Souza",
+        "J Pujol-Luz"
+      ],
+      "journal": "Americas South of Mexico with Key to the Brazilian Species. EntomoBrasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "74",
+      "page_end": "85"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Family Calliphoridae",
+      "authors": "H Kurahashi",
+      "editors": "N Evenhuis",
+      "publisher": "Special Publications of Bernice P., Bishop Museum",
+      "publication_date": "1989",
+      "year": 1989,
+      "page_start": "702",
+      "page_end": "718"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas",
+      "authors": "A Linhares",
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "25",
+      "page_start": "189",
+      "page_end": "215"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Notes on Neotropical Calliphoridae (Diptera)",
+      "authors": [
+        "H Lopes",
+        "S De",
+        "D Albuquerque"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "42",
+      "page_start": "63",
+      "page_end": "69"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Notas sobre algunas especies del genero Hemilucilia Brauer, 1895 (Diptera: Calliphoridae)",
+      "authors": "J Mariluis",
+      "journal": "Physis",
+      "publication_date": "1979",
+      "year": 1979,
+      "volume": "38",
+      "pages": "97"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Contribuition al conocimiento del genero Hemilucilia Brauer (Calliphoridae, Chrysomyinae, Chrysomyiini)",
+      "authors": "J Mariluis",
+      "journal": "Revista de la Sociedad Entomológica Argentina",
+      "publication_date": "1980",
+      "year": 1980,
+      "volume": "39",
+      "page_start": "83",
+      "page_end": "87"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Presencia del género Chrysomya Robineau-Desvoidy, 1830 en la région Neotropical (Calliphoridae, Chrysomyinae, Hemiluciliini)",
+      "authors": "J Mariluis",
+      "journal": "Revista de la Sociedad Entomológica Argentina",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "42",
+      "page_start": "141",
+      "page_end": "142"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Datos para una sinopsis de los Calliphoridae Neotropicales",
+      "authors": [
+        "J Mariluis",
+        "S Peris"
+      ],
+      "journal": "Eos",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "60",
+      "page_start": "67",
+      "page_end": "86"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "First record of calyptratae flies in the Mesozoic era (Diptera: Calliphoridae)",
+      "authors": "J Mcalpine",
+      "journal": "The Canadian Entomologist",
+      "publication_date": "1970",
+      "year": 1970,
+      "volume": "102",
+      "page_start": "342",
+      "page_end": "346"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Contribuição ao estudo do gênero Phaenicia (R. D., 1830) (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Memórias do Instituto Oswaldo Cruz",
+      "publication_date": "1961",
+      "year": 1961,
+      "volume": "59",
+      "page_start": "259",
+      "page_end": "278"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Contribuição ao estudo do gênero Calliphora R.D., 1830 (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Memórias do Instituto Oswaldo Cruz",
+      "publication_date": "1962",
+      "year": 1962,
+      "volume": "60",
+      "page_start": "263",
+      "page_end": "274"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "authors": [
+        "Série Iheringia",
+        "Zoologia"
+      ],
+      "publication_date": "2017",
+      "year": 2017,
+      "volume": "107"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Contribuição ao estudo do gênero Callitrogopsis Townsend (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Studia Entomologica",
+      "publication_date": "1965",
+      "year": 1965,
+      "volume": "8",
+      "page_start": "435",
+      "page_end": "440"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Contribuição ao estudo dos Mesembrinellinae sulamericanos (Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Studia Entomologica",
+      "publication_date": "1967",
+      "year": 1967,
+      "volume": "10",
+      "page_start": "1",
+      "page_end": "80"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Contribuição ao estudo do gênero \"Paralucilia\" Brauer & Bergenstamm, 1891 (Calliphoridae, Diptera)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1968",
+      "year": 1968,
+      "volume": "28",
+      "page_start": "177",
+      "page_end": "192"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "1969a. Notes on Laneella brunnipes (Surcouf, 1919) (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "volume": "29",
+      "page_start": "243",
+      "page_end": "247"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Contribuição ao estudo do gênero Myiolucilia Hall (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Studia Entomologica",
+      "publication_date": "1969",
+      "year": 1969,
+      "volume": "12",
+      "page_start": "297",
+      "page_end": "316"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Contribuição ao estudo do gênero Sarconesia Bigot, 1857 (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1972",
+      "year": 1972,
+      "volume": "32",
+      "page_start": "533",
+      "page_end": "537"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Revisão das espécies do gênero Hemilucilia Brauer, 1895 (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1972",
+      "year": 1972,
+      "volume": "32",
+      "page_start": "539",
+      "page_end": "554"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "title": "Nova espécie do gênero Calliphora Robineau-Desvoidy, 1830. (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "publication_date": "1974",
+      "year": 1974,
+      "volume": "4",
+      "page_start": "59",
+      "page_end": "63"
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Contribuição ao conhecimento do gênero Roraimomusca Townsend, 1935 (Diptera, Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Revista Brasileira de Biologia",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "32",
+      "page_start": "895",
+      "page_end": "898"
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Revisão das espécies sul americanas de Paralucilia Brauer & Bergenstamm (Diptera: Calliphoridae)",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Entomología y Vectores",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "3",
+      "page_start": "137",
+      "page_end": "143"
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "Chave para a identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil",
+      "authors": [
+        "R Mello",
+        "De"
+      ],
+      "journal": "Entomología y Vectores",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "Phylogeny of the Tachinidae family-group (Diptera: Calyptratae)",
+      "authors": "T Pape",
+      "journal": "Tijdschrift voor Entomologie",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "135",
+      "page_start": "43",
+      "page_end": "86"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "authors": [
+        "S Peris",
+        "J Mariluis"
+      ],
+      "journal": "Notes on Mesembrinellidae. Eos",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "60",
+      "page_start": "251",
+      "page_end": "265"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "Catalogue of the Diptera of the Afrotropical Region",
+      "authors": "A Pont",
+      "editors": "Crosskey, R. M",
+      "publisher": "London, British Museum (Natural History",
+      "publication_date": "1980",
+      "year": 1980,
+      "page_start": "779",
+      "page_end": "800",
+      "notes": "Family Calliphoridae"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "Cem anos da entomologia forense no Brasil",
+      "authors": [
+        "J Pujol-Luz",
+        "L Arantes",
+        "R Constantino"
+      ],
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "485",
+      "page_end": "492"
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "The systematic position of the genus Helicobosca Bezzi with a discussion of the monophyly of the calyptratae family's Calliphoridae, Rhinophoridae, Sarcophagidae and Tachinidae (Diptera)",
+      "authors": "K Rognes",
+      "journal": "Entomologica Scandinavica",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "17",
+      "page_start": "75",
+      "page_end": "92"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "Blowflies (Diptera, Calliphoridae) of Fennoscandia and Denmark",
+      "authors": "K Rognes",
+      "journal": "Fauna Entomologica Scandinavica",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "24",
+      "page_start": "1",
+      "page_end": "272"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "title": "The Calliphoridae (blowflies) (Diptera: Oestroidea) are not a monophyletic group",
+      "authors": "K Rognes",
+      "journal": "Cladistics",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "13",
+      "page_start": "27",
+      "page_end": "66"
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "Synopsis of the American Calliphoridae (Diptera)",
+      "authors": "R Shannon",
+      "journal": "Proceedings of the Entomological Society of Washington",
+      "publication_date": "1926",
+      "year": 1926,
+      "volume": "28",
+      "page_start": "115",
+      "page_end": "139"
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "Calliphoridae",
+      "authors": [
+        "G Shewell",
+        "J Mcalpine",
+        "B Peterson",
+        "G Shewell",
+        "H Teskey"
+      ],
+      "editors": [
+        "J Vockeroth",
+        "D Wood"
+      ],
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "2",
+      "page_start": "1113",
+      "page_end": "1145"
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "A catalog of the Diptera of America north of Mexico. Washington, Agriculture Handbook",
+      "authors": [
+        "A Stone",
+        "C Sabrosky",
+        "W Wirth",
+        "R Foote",
+        "J Coulson"
+      ],
+      "publisher": "United States Department of Agriculture",
+      "publication_date": "1965",
+      "year": 1965,
+      "pages": "1696"
+    },
+    {
+      "id": "b59",
+      "target": "b58",
+      "title": "Record of oral myiasis by Cochliomyia hominivorax (Diptera: Calliphoridae): case evidencing negligence in the treatment of incapable",
+      "authors": [
+        "P Thyssen",
+        "M Nassu",
+        "A Costella",
+        "M Costella"
+      ],
+      "journal": "Parasitology Research",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "111",
+      "page_start": "957",
+      "page_end": "959"
+    },
+    {
+      "id": "b60",
+      "target": "b59",
+      "title": "Estudo filogenético de Mesembrinellinae com ênfase no gênero Eumesembrinella Townsend (Diptera, Calliphoridae)",
+      "authors": [
+        "R Toma",
+        "C Carvalho",
+        "De"
+      ],
+      "journal": "Revista Brasileira de Zoologia",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "12",
+      "page_start": "127",
+      "page_end": "144"
+    },
+    {
+      "id": "b61",
+      "target": "b60",
+      "title": "Calliphoridae",
+      "authors": [
+        "J Vargas",
+        "D Wood",
+        "B Brown",
+        "A Borkent",
+        "J Cumming",
+        "D Wood",
+        "N Woodley",
+        "Zumbado"
+      ],
+      "publisher": "NCR Research Press",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "2",
+      "page_start": "1297",
+      "page_end": "1304"
+    },
+    {
+      "id": "b62",
+      "target": "b61",
+      "title": "Keys to the genera and species of blow flies (Diptera: Calliphoridae) of America north of Mexico",
+      "authors": "T Whitworth",
+      "journal": "Proceedings of the Entomological Society of Washington",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "108",
+      "page_start": "689",
+      "page_end": "725"
+    },
+    {
+      "id": "b63",
+      "target": "b62",
+      "title": "Keys to the genera and species of blow flies (Diptera: Calliphoridae) of the West Indies and description of a new species of Lucilia Robineau-Desvoidy",
+      "authors": "T Whitworth",
+      "journal": "Zootaxa",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "2663",
+      "page_start": "1",
+      "page_end": "35"
+    },
+    {
+      "id": "b64",
+      "target": "b63",
+      "title": "Identification of Neotropical blow flies of the genus Calliphora Robineau-Desvoidy (Diptera: Calliphoridae) with the description of a new species",
+      "authors": "T Whitworth",
+      "journal": "Zootaxa",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "3209",
+      "page_start": "1",
+      "page_end": "27"
+    },
+    {
+      "id": "b65",
+      "target": "b64",
+      "title": "Myiasis in man and animals in the Old World. A textbook for physicians, veterinarians and zoologists",
+      "authors": "F Zumpt",
+      "publication_date": "1965",
+      "year": 1965,
+      "pages": "267"
+    }
+  ]
+}

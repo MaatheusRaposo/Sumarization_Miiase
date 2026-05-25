@@ -1,0 +1,2572 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Genetic Structure and Demographic History of New World Screwworm Across Its Current Geographic Range",
+    "authors": [
+      "Pablo Fresia",
+      "Mariana Lyra",
+      "Alfredo Coronado",
+      "Ana De Azeredo-Espin"
+    ],
+    "doi": "10.1603/me10153",
+    "hash": "882CCD67B80CAA44E4DD54B453FF6620",
+    "publication_date": "2011-03-01",
+    "publication_year": 2011,
+    "publisher": "Oxford University Press (OUP)",
+    "journal": "Journal of Medical Entomology",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "The phylogeographical history of the pest ßy screwworm, Cochliomyia hominivorax (Coquerel), was studied using partial mitochondrial DNA sequences of the control region, Cytochrome c oxidase (CO) subunit I and CO subunit II from 361 individuals collected across its current geographic range. Analyses showed marked genetic differentiation on a macrogeographic scale. The genetic diversity in the species is structured into four main \"regional groups,\" corresponding to Cuba, the Dominican Republic, and the North and South Amazon region. Results indicated that the distribution of screwworm genetic diversity was mainly shaped by historical events, i.e., colonization of Caribbean islands, vicariance in the Amazon region and population expansion. Demographic history analyses revealed that the population expansion started Ϸ20 Ð25,000 yr ago and recently increased exponentially. We hypothesized that the initial period of expansion was probably associated with environmental amelioration in the late Pleistocene and the exponential increase with resource availability in recent times. The population expansion is probably responsible for the low divergence and the lack of genetic and geographic correlation in the South Amazon region but did not erase the genetic structure pattern on a continental scale. The screwworm is one of the most damaging livestock pests in South and Central America, and the pattern of genetic variability distribution reported here suggests that the Caribbean area and the North and South Amazon regions could be considered as independent units for future pest control programs.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_c7532a3d",
+      "text": "The increasing demand for protein by the growing human population makes animal production a high priority in world agriculture (Delgado et al. 1999, Vargas-Tera ´n et al. 2005). To satisfy this demand, mechanisms that increase production efÞciencies must be found, to prevent further deteriorate of the environment (FAO 2000). Part of the productivity efÞciency increase can be carried out through improvements in animal health (Vargas-Tera ´n et al. 2005), by controlling ectoparasites that cause severe losses to livestock systems and that are considered a major limiting factor in production.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Delgado et al. 1999",
+          "offset_start": 127,
+          "offset_end": 147
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": ", Vargas-Tera ´n et al. 2005)",
+          "offset_start": 147,
+          "offset_end": 176
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(FAO 2000)",
+          "offset_start": 315,
+          "offset_end": 325
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "(Vargas-Tera ´n et al. 2005)",
+          "offset_start": 428,
+          "offset_end": 456
+        }
+      ]
+    },
+    {
+      "id": "p_fadb78fa",
+      "text": "The screwworm, Cochliomyia hominivorax (Coquerel), is one of the most damaging pests for livestock production, causing damage to leather and a decline in meat and milk production (Hall and Wall 1995, IAEA/ FAO 2000, Vargas-Tera ´n et al. 2005, Robinson et al. 2009). In its larval stages, this myasis-causing ßy is an obligate ectoparasite of a wide range of warm-blooded hosts, ranging from wildlife to humans. Gravid female ßies are attracted to wounds, where they lay their eggs. Emerging larvae invade and feed on the living tissues, possibly leading to host mortality unless adequate treatment is provided. When they reach maturity, larvae fall to the ground, where they burrow to pupate, and the adults emerge in few days (Guimara ˜es et al. 1983, IAEA/FAO 2000).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(Hall and Wall 1995",
+          "offset_start": 179,
+          "offset_end": 198
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", IAEA/ FAO 2000",
+          "offset_start": 198,
+          "offset_end": 214
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": ", Vargas-Tera ´n et al. 2005",
+          "offset_start": 214,
+          "offset_end": 242
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": ", Robinson et al. 2009)",
+          "offset_start": 242,
+          "offset_end": 265
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Guimara ˜es et al. 1983",
+          "offset_start": 728,
+          "offset_end": 752
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", IAEA/FAO 2000)",
+          "offset_start": 752,
+          "offset_end": 768
+        }
+      ]
+    },
+    {
+      "id": "p_60414c49",
+      "text": "Formerly, the geographic distribution of the screwworm was throughout the southern United States to central Argentina, including some Caribbean islands; however the species has been eradicated from North America and continental Central America by using an areawide integrated pest management approach (AW-IPM) based on the sterile insect technique (Klassen and Curtis 2005). Since 2001, sterile screwworm adults are being released in the Darien Gap, Panama, in an effort to protect the pest-free areas from reinfestation from South America (Robinson et al. 2009).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Klassen and Curtis 2005)",
+          "offset_start": 348,
+          "offset_end": 373
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "(Robinson et al. 2009)",
+          "offset_start": 540,
+          "offset_end": 562
+        }
+      ]
+    },
+    {
+      "id": "p_ad0dd89c",
+      "text": "The screwworm is still a great problem for livestock production in South America and Caribbean, and the only current control strategy is strongly based on in-secticide use (except for Jamaica; Vargas-Tera ´n et al. 2005). This type of control is independently applied by breeders, in accordance with individual and shortterm necessity, without any coordinated program. The wide range of insecticides used to control pests can cause problems, such as environmental contamination (see Porretta et al. 2007) and the selection of insecticide resistant strains (Cassida andGary 1998, Hemingway andRanson 2000). In the screwworm, Carvalho et al. (2009) and Silva and Azeredo-Espin (2009) found mutations that are correlated with insecticide resistance. Thus, the necessity to reduce the use of chemicals and adopt control programs with enhanced speciÞcity for the target species, on the appropriate geographic scale, has been highlighted as a more suitable alternative (Kongan 1998, Porretta et al. 2007).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": "Vargas-Tera ´n et al. 2005)",
+          "offset_start": 193,
+          "offset_end": 220
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Porretta et al. 2007",
+          "offset_start": 483,
+          "offset_end": 503
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Cassida and",
+          "offset_start": 556,
+          "offset_end": 568
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Gary 1998, Hemingway and",
+          "offset_start": 568,
+          "offset_end": 592
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "Ranson 2000)",
+          "offset_start": 592,
+          "offset_end": 604
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "Carvalho et al. (2009)",
+          "offset_start": 624,
+          "offset_end": 646
+        },
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "Silva and Azeredo-Espin (2009)",
+          "offset_start": 651,
+          "offset_end": 681
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Kongan 1998",
+          "offset_start": 963,
+          "offset_end": 975
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Porretta et al. 2007)",
+          "offset_start": 975,
+          "offset_end": 998
+        }
+      ]
+    },
+    {
+      "id": "p_2dab28a7",
+      "text": "IdentiÞcation of regions with isolated populations, or groups of populations connected by current gene ßow, is of utmost importance to the design of effective control programs for insect pests (Krafsur 2005, Porretta et al. 2007). These \"target management units\" identiÞcation requires a clear understanding of the speciesÕ spatial dynamics, speciÞcally the migration patterns and dispersion abilities (i.e., population structure). However, this information is often difÞcult to obtain for species by using classical direct methods based on mark recapture trials (Roderick 1996). As such, the importance of the use of genetic markers and the study of the levels and patterns of genetic diversity in insect vectors and pests is growing (David et al. 2003, Conn and Mirabello 2007, Porretta et al. 2007).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "(Krafsur 2005",
+          "offset_start": 193,
+          "offset_end": 206
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Porretta et al. 2007",
+          "offset_start": 206,
+          "offset_end": 228
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "(Roderick 1996)",
+          "offset_start": 563,
+          "offset_end": 578
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "(David et al. 2003",
+          "offset_start": 735,
+          "offset_end": 753
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": ", Conn and Mirabello 2007",
+          "offset_start": 753,
+          "offset_end": 778
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Porretta et al. 2007)",
+          "offset_start": 778,
+          "offset_end": 801
+        }
+      ]
+    },
+    {
+      "id": "p_86433e55",
+      "text": "Contemporary population structure is determined by both dispersal ability and demographic history, for this reason historical demography of a species should be taken into account when interpreting its breeding structure and gene ßow among demes (Bossart and Prowell 1998). Phylogeography has been providing considerable information about the historical processes responsible for current geographic distribution of genetic diversity (Avise et al. 1987, reviewed in Avise 2009). The most widely used genetic marker for phylogeographic studies has so far been mitochondrial DNA (mtDNA), because it allows the chance of recovering the pattern and tempo of historical events (Avise 2009).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(Bossart and Prowell 1998)",
+          "offset_start": 245,
+          "offset_end": 271
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "(Avise et al. 1987",
+          "offset_start": 432,
+          "offset_end": 450
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", reviewed in Avise 2009)",
+          "offset_start": 450,
+          "offset_end": 475
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Avise 2009)",
+          "offset_start": 670,
+          "offset_end": 682
+        }
+      ]
+    },
+    {
+      "id": "p_5a1623cb",
+      "text": "Various studies have recently attempted to assess the structure of screwworm populations by using molecular markers (Roehrdanz 1989, Taylor et al. 1996, Lyra et al. 2005, Torres et al. 2007, Lyra et al. 2009, Torres and Azeredo-Espin 2009). These studies have provided valuable insights into the population genetics of screwworm, showing that the species has both structured and undifferentiated populations throughout its current range. Such studies, however, have led to few insights about the historical and current processes that inßuence the distribution of screwworm genetic diversity.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "(Roehrdanz 1989",
+          "offset_start": 116,
+          "offset_end": 131
+        },
+        {
+          "type": "bibr",
+          "target": "#b54",
+          "text": ", Taylor et al. 1996",
+          "offset_start": 131,
+          "offset_end": 151
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": ", Lyra et al. 2005",
+          "offset_start": 151,
+          "offset_end": 169
+        },
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": ", Torres et al. 2007",
+          "offset_start": 169,
+          "offset_end": 189
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": ", Lyra et al. 2009",
+          "offset_start": 189,
+          "offset_end": 207
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Torres and Azeredo-Espin 2009)",
+          "offset_start": 207,
+          "offset_end": 239
+        }
+      ]
+    },
+    {
+      "id": "p_7fb0c339",
+      "text": "The present work was aimed at unraveling the phylogeographical history of screwworm by using mtDNA markers. The objectives were 1) to explore the genetic population structure of screwworm in its current geographic range and 2) to investigate historical demo-graphic events that might have inßuenced the current spatial distribution of genetic variability.",
+      "coords": [],
+      "refs": []
+    },
+    {
+      "id": "p_f7111e58",
+      "text": "Sampling and DNA Protocols. Larvae of screwworm were collected from 38 geographic sites from South America and the Caribbean (Table 1; Fig. 1), encompassing almost all of the speciesÕ current range. Four to 18 individuals were sampled per location, following procedures described in Lyra et al. (2009). Thirty-four sites included in this study were previously analyzed using a polymerase chain reaction (PCR)-restriction fragment length polymorphismbased approach by Lyra et al. (2009).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "Lyra et al. (2009)",
+          "offset_start": 283,
+          "offset_end": 301
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "Lyra et al. (2009)",
+          "offset_start": 467,
+          "offset_end": 485
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_eb208e2e",
+      "text": "Total DNA was extracted by the phenol: chloroform method, adapted for microcentrifuge tubes (Lyra et al. 2009), and resuspended in 100 l of TE buffer and stored at Ϫ20ЊC. Three mitochondrial DNA fragments, corresponding to the B domain of the control region (CR) (Lessinger and Azeredo-Espin 2000) and partial sequences of the genes cytochrome c oxidase subunit I (COI) and subunit II (COII) were ampliÞed by PCR and sequenced from 361 individuals. The CR fragment was ampliÞed using the primers CRc-N-BVII-R (Duarte et al. 2008) and SR-J-14875 (5Ј-AAGTCACACAAAAATTTAC-3Ј; this work); the COI fragment was ampliÞed with primers, TW-J1287 (Lyra et al. 2009) and C1-N2320 (5ЈAATCCTAATAATC-CAATAGC-3Ј; this work); and COII was ampliÞed with primers TL2-J3034 and TK-N3785 (Simon et al. 1994). The PCRs were conducted separately and the PCR cocktails contained 1 l of extracted DNA, 10ϫ PCR buffer, 1.0 mM MgCl 2 , 10 g of bovine serum albumin, 0.2 M of each dNTPs, 0.4 M of each primer, and 0.5 U of TaqDNA polymerase (Fermentas International Inc., Burlington, ON, Canada) in a total volume of 25 l. The cycling conditions for all reactions consisted of an initial denaturation at 94ЊC for 4 min, followed by 35 cycles of 94ЊC for 30 s, 50ЊC for 30 s, and 60ЊC for 1:30 s, plus a Þnal extension at 60ЊC for 7 min. PCR products were puriÞed using the QIAquick PCR puriÞcation kit, according to the sup-plierÕs protocol (QIAGEN GmbH, Hilden, Germany). Sequencing reactions were conducted with the ABI BigDye Terminator cycle sequencing kit version 3.1 and run on an ABI 3700 automatic sequencer (Applied Biosystems, Foster City, CA).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "(Lyra et al. 2009)",
+          "offset_start": 92,
+          "offset_end": 110
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "(Lessinger and Azeredo-Espin 2000)",
+          "offset_start": 263,
+          "offset_end": 297
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "(Duarte et al. 2008",
+          "offset_start": 509,
+          "offset_end": 528
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "(Lyra et al. 2009",
+          "offset_start": 638,
+          "offset_end": 655
+        },
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "(Simon et al. 1994)",
+          "offset_start": 769,
+          "offset_end": 788
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(QIAGEN GmbH, Hilden, Germany)",
+          "offset_start": 1415,
+          "offset_end": 1445
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_e57a21a1",
+      "text": "Sequence Analysis. The COI fragments were sequenced bidirectionally and sequences were assembled into a contig for each individual by using CAP3 software (Huang and Madan 1999), considering Phred values (Ewing andGreen 1998, Ewing et al. 1998). CR and COII fragments had one strand sequenced. All sequences were aligned for each of the three fragments by using the automatic multiple sequences alignment algorithm implemented in ClustalX (Thompson et al. 1997). Protein coding sequences (COI and COII) were checked for open reading frames in MEGA software version 4.0 (Tamura et al. 2007). For the CR fragment, each insertion/deletion (indel) was considered as a single mutational step, and",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "(Huang and Madan 1999)",
+          "offset_start": 154,
+          "offset_end": 176
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Ewing and",
+          "offset_start": 203,
+          "offset_end": 213
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Green 1998, Ewing et al. 1998)",
+          "offset_start": 213,
+          "offset_end": 243
+        },
+        {
+          "type": "bibr",
+          "target": "#b56",
+          "text": "(Thompson et al. 1997)",
+          "offset_start": 438,
+          "offset_end": 460
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(COI and COII)",
+          "offset_start": 487,
+          "offset_end": 501
+        },
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "(Tamura et al. 2007)",
+          "offset_start": 568,
+          "offset_end": 588
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_f647d5ba",
+      "text": "Table 1. Screwworm sampled sites, haplotype distribution, and genetic variability indices ID Geographic location Latitude Longitude N Nhp Haplotype (no. individuals) H ˆ Group CB CPR Pinar del Rio 22Њ 25Ј N 83Њ 41Ј W 6 3 95(1) 196(1) 204(4) 0.600 0.0040 CG CCA Ciego de A ´vila 21Њ 50Ј N 78Њ 46Ј W 15 7 195(1) 201(1) 202(2) 207(1) 210(1) 211(7) 214(2) 0.781 0.0024 CG CLT Las Tunas 21Њ 04Ј N 77Њ 05Ј W 6 5 91(1) 92(1) 202(2) 209(1) 213(1) 0.933 0.0075 CG CSC Santiago de Cuba 20Њ 01Ј N 75Њ 49Ј W 9 7 202(1) 203(1) 205(1) 206(2) 208(1) 212(1) 214(2) 0.944 0.0029 CG CCR Ciro Redondo 21Њ 53Ј N 82Њ 54Ј W 10 4 197(1) 198(7) 199(1) 200(1) 0.533 0.0010 CG DR DRP Santo Domingo 18Њ 28Ј N 59Њ 53Ј W 13 7 7(1) 18(1) 45(1) 46(1) 47(1) 48(6) 109(2) 0.795 0.0016 DRG JM JAM Kingston 17Њ 59Ј N 76Њ 47Ј W 9 6 32(1) 33(1) 35(1) 38(2) 54(1) 61(3) 0.889 0.0022 NAG TT TPE Puerto Espan ˜a 1 0 Њ 40Ј N 61Њ 28Ј W 5 4 17(1) 40(1) 153(1) 173(2) 0.900 0.0035 NAG TSF San Fernando 10Њ 16Ј N 61Њ 27Ј W 6 4 17(2) 89(1) 90(1) 153(2) 0.867 0.0045 NAG VE VBA Barquisimeto 10Њ 03Ј N 69Њ 19Ј W 10 6 28(1) 36(1) 84(1) 89(3) 106(2) 174(2) 0.889 0.0046 NAG VEN Encontrados 09Њ 03Ј N 72Њ 14Ј W 11 10 26(1) 38(2) 58(1) 87(1) 94(1) 102(1) 106(1) 156(1) 157(1) 158(1) 0.982 0.0048 NAG CO COT Turbo 08Њ 05Ј N 76Њ 43Ј W 12 6 34(2) 37(1) 39(2) 54(5) 89(1) 93(1) 0.818 0.0038 NAG EC ERV Rio Verde 02Њ 19Ј S 80Њ 42Ј W 4 3 44(1) 58(1) 60(2) 0.833 0.0012 NAG BR BTO Touros 05Њ 17Ј S 35Њ 33Ј W 10 7 53(1) 64(2) 78(1) 140(3) 159(1) 166(1) 175(1) 0.933 0.0045 SAG BSM Sta. Ma. das Barreiras 08Њ 52Ј S 49Њ 42Ј W 11 11 3(1) 4(1) 13(1) 50(1) 62(1) 121(1) 124(1) 132(1) 140(1) 163(1) 175(1) 1.000 0.0040 SAG BCO Cocalinhos 14Њ 22Ј S 51Њ 00Ј W 6 6 10(1) 11(1) 29(1) 57(1) 69(1) 168(1) 1.000 0.0037 SAG BGN Goianira 16Њ 32Ј S 49Њ 22Ј W 8 8 43(1) 59(1) 66(1) 80(1) 96(1) 131(1) 134(1) 165(1) 1.000 0.0051 SAG BGO Goia ˆnia 16Њ 43Ј S 49Њ 15Ј W 9 8 1(2) 73(1) 88(1) 107(1) 111(1) 164(1) 185(1) 191(1) 0.972 0.0039 SAG BCA Caiapo ˆnia 16Њ 57Ј S 51Њ 48Ј W 18 11 1(1) 8(1) 19(2) 24(1) 51(2) 140(6) 145(1) 150(1) 155(1) 169(1) 183(1) 0.882 0.0031 SAG BCR Costa Rica City 18Њ 32Ј S 53Њ 07Ј W 7 6 30(1) 120(1) 125(1) 140(1) 143(2) 146(1) 0.952 0.0022 SAG BAQ Aquidauana 19Њ 35Ј S 56Њ 05Ј W 6 5 112(2) 140(1) 141(1) 142(1) 189(1) 0.933 0.0043 SAG BCG Campo Grande 20Њ 27Ј S 54Њ 36Ј W 10 6 76(1) 129(1) 140(5) 160(1) 172(1) 184(1) 0.778 0.0036 SAG BSS Sa ˜o Seb. Paraõ ´so 20Њ 55Ј S 46Њ 59Ј W 7 5 41(2) 118(1) 140(2) 187(1) 190(1) 0.905 0.0040 SAG BES Estiva 22Њ 27Ј S 46Њ 01Ј W 18 12 15(1) 50(3) 56(1) 77(1) 103(1) 110(1) 123(1) 133(1) 140(3) 184(1) 187(3) 192(1) 0.954 0.0039 SAG BCP Campinas 22Њ 48Ј S 47Њ 03Ј W 11 11 20(1) 55(1) 70(1) 116(1) 117(1) 126(1) 127(1) 135(1) 149(1) 151(1) 181(1) 1.000 0.0043 SAG BCI Carambeõ ´24Њ 55Ј S 50Њ 05Ј W 13 9 51(1) 123(1) 130(1) 140(4) 147(1) 154(1) 169(1) 187(2) 193(1) 0.949 0.0037 SAG BFV Fagundes Varela 28Њ 52Ј S 51Њ 41Ј W 5 5 14(1) 23(1) 78(1) 82(1) 145(1) 1.000 0.0045 SAG BSA Sto. Ant. Misso ˜es 29Њ 04Ј S 56Њ 19Ј W 10 10 21(1) 65(1) 67(1) 83(1) 115(1) 140(1) 170(1) 171(1) 178(1) 187(1) 1.000 0.0052 SAG BPM Pinheiro Machado 31Њ 34Ј S 53Њ 23Ј W 9 9 2(1) 67(1) 78(1) 85(1) 100(1) 122(1) 139(1) 186(1) 188(1) 1.000 0.0052 SAG PY PYB Ybytymi 25Њ 46Ј S 56Њ 41Ј W 17 14 9(1) 43(1) 49(1) 63(1) 78(2) 137(1) 140(3) 147(1) 148(1) 167(1) 169(1) 176(1) 188(1) 194(1) 0.971 0.0050 SAG UY UPM Paso Mun ˜oz 31Њ 27Ј S 56Њ 23Ј W 7 4 75(2) 78(1) 99(1) 140(3) 0.810 0.0033 SAG UST San Antonio 31Њ 24Ј S 57Њ 58Ј W 8 6 42(2) 50(1) 67(1) 81(1) 114(1) 140(2) 0.929 0.0036 SAG UDA Dayma ´n 3 1 Њ 33Ј S 57Њ 57Ј W 9 9 79(1) 101(1) 104(1) 105(1) 119(1) 140(1) 144(1) 152(1) 169(1) 1.000 0.0043 SAG UBM Ban ˜. Medina 32Њ 23Ј S 54Њ 21Ј W 12 9 12(1) 25(1) 31(1) 74(1) 78(2) 86(1) 111(1) 140(3) 176(1) 0.939 0.0051 SAG UCC Cer. Colorado 33Њ 52Ј S 55Њ 33Ј W 16 14 2(2) 27(2) 43(1) 97(1) 98(1) 108(1) 113(1) 136(1) 138(1) 140(1) 161(1) 162(1) 177(1) 180(1) 0.983 0.0057 SAG UCO Colonia 34Њ 28Ј S 57Њ 51Ј W 7 7 1(1) 16(1) 22(1) 140(1) 159(1) 179(1) 182(1) 1.000 0.0053 SAG UJS Juaquõ ´n Suarez 34Њ 44Ј S 56Њ 02Ј W 6 6 5(1) 6(1) 71(1) 72(1) 121(1) 128(1) 1.000 0.0051 SAG AR APL Lezama 35Њ 52Ј S 57Њ 53Ј W 5 4 52(1) 68(2) 78(1) 140(1) 0.900 0.0038 SAG Total 361 214 haplotypes 0.909 0.0039 ID, site identiÞcation code; N, number of individuals analyzed; Nhp, number of haplotypes found in each locality; H ˆ, haplotype diversity; , nucleotide diversity and geographic groups (CG, Cuban group; DRG, Dominican Republic group; NAG, North Amazon group; SAG, South Amazon Group). CB, Cuba; DR, Dominican Republic; JM, Jamaica; TT, Trinidad & Tobago; VE, Venezuela; CO, Colombia; EC, Ecuador; BR, Brazil; PY, Paraguay; UY, Uruguay; AY, Argentina.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_1f986399",
+      "text": "all indels were recoded as single positions in the Þnal alignment.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_2c121c23",
+      "text": "The three different sequence data sets were Þrst analyzed separately then combined. Individual sequences were collapsed in haplotypes for all data sets. Haplotype frequencies, nucleotide diversity () and haplotype diversity (H ˆ), as deÞned by Nei (1987), were estimated using Arlequin version 3.1 (ExcofÞer et al. 2005).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "Nei (1987)",
+          "offset_start": 244,
+          "offset_end": 254
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(ExcofÞer et al. 2005)",
+          "offset_start": 298,
+          "offset_end": 320
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_89e86109",
+      "text": "Phylogeographic Analyses. Genetic differentiation among populations was determined using pairwise F ST statistics (Reynolds et al. 1983, Slatkin 1995). Statistical signiÞcance was assessed by 10,000 permutations. Based on haplotype distribution and pairwise F ST a priori population groupings were constructed and tested by hierarchical analysis of molecular variance (AMOVA; ExcofÞer et al. 1992). The partition that maximized the among-group variance component was considered the best-Þt divergence scenario. Nonhierarchical AMOVA also was conducted within groups of populations to explore group heterogeneity. The AMOVAs, as well as pairwise F ST , were conducted using Arlequin version 3.1 (ExcofÞer et al. 2005).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Reynolds et al. 1983",
+          "offset_start": 114,
+          "offset_end": 135
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": ", Slatkin 1995)",
+          "offset_start": 135,
+          "offset_end": 150
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "ExcofÞer et al. 1992",
+          "offset_start": 376,
+          "offset_end": 396
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(ExcofÞer et al. 2005)",
+          "offset_start": 694,
+          "offset_end": 716
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_6a1e2475",
+      "text": "Partial Mantel tests (Smouse et al. 1986, Sokal et al. 1997) were used to partition the contemporary (isolation by distance [IBD]) and historical effects of the divergence between groups of populations from South America. This procedure was carried out using a third matrix that included a categorical variable, in which the value one indicates that populations belong to the same group and 0 elsewhere, in addition to the genetic distance matrix (SlatkinÕs linearized F ST s, Slatkin 1995) and geographic distance matrix (linear distance between two localities in kilometers). Partial Mantel tests were conducted in Arlequin version 3.1 (Ex-cofÞer et al. 2005).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "(Smouse et al. 1986",
+          "offset_start": 21,
+          "offset_end": 40
+        },
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": ", Sokal et al. 1997)",
+          "offset_start": 40,
+          "offset_end": 60
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Ex-cofÞer et al. 2005)",
+          "offset_start": 638,
+          "offset_end": 661
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_9d4880c3",
+      "text": "A haplotype network was inferred for concatenated sequences by using TCS version 1.21 (Clement et al. 2000). Statistical parsimony analysis was used to establish the links among pairs of haplotypes by the Fig. 1. Geographical distribution of screwworm ßy sampled. Each site belongs to one of the four regional groups, according to results (see Table 1 for population ID). Triangles, CG; star, DRG; squares, NAG; and circles, SAG.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Clement et al. 2000)",
+          "offset_start": 86,
+          "offset_end": 107
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_08086480",
+      "text": "smallest number of differences, deÞned by 95% CL. The ambiguities in the haplotype network were resolved following the guidelines proposed by Crandall and Templeton (1993). A second network was constructed based only on the Þrst and second codon positions of concatenated COI and COII sequences, following the same procedure as described above. This approach was used to examine long-term historical processes by removing sequence polymorphism saturation of the third codon position.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Crandall and Templeton (1993)",
+          "offset_start": 142,
+          "offset_end": 171
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_b580577d",
+      "text": "To examine the dynamics of population size ßuctuations over time, a Bayesian skyline plot (BSP) was generated using Beast software version 1.5.3 (Drummond et al. 2005, Drummond andRambaut 2007). This Bayesian approach incorporates the uncertainty in the genealogy by using Markov chain Monte Carlo (MCMC) integration under a coalescence model in which the timing of dates provides information about effective population sizes over time (Drummond et al. 2005). The MCMC chains were run three times for 50 million generations, parameters were sampled every 5,000 steps, and with the Þrst 10% were discarded as the burn-in. The HKYϩGϩI evolutionary substitution model was used, as selected in Modeltest 3.7 (Posada and Crandall 1998) following both the likelihood ratio test and Akaike information criterion. Only COI sequences were used because there is a better understanding of the molecular evolution of this gene; because the substitution rate of screwworm COI is unknown, a rate of 2% per million years was applied based on that estimated for Drosophila COI (DeSalle et al. 1987).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "(Drummond et al. 2005, Drummond and",
+          "offset_start": 145,
+          "offset_end": 180
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "Rambaut 2007)",
+          "offset_start": 180,
+          "offset_end": 193
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "(Drummond et al. 2005)",
+          "offset_start": 436,
+          "offset_end": 458
+        },
+        {
+          "type": "bibr",
+          "target": "#b44",
+          "text": "(Posada and Crandall 1998",
+          "offset_start": 704,
+          "offset_end": 729
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "(DeSalle et al. 1987)",
+          "offset_start": 1061,
+          "offset_end": 1082
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_d4a37d84",
+      "text": "Genetic Diversity and Haplotype Distribution. The lengths of CR, COI, and COII fragments were 510 bp, 731 bp and 511 bp, deÞning 91, 72, and 66 haplotypes, respectively (GenBank accessions for CR are HM185642, HM185644 ÐHM185678, HM185680 Ð HM185691, HM185693ÐHM185706, HM185708ÐHM18-5736; for COI are HM185498, HM185500 ÐHM185509, HM185512ÐHM185558, HM185560ÐHM185568, HM18-5570 ÐHM185574; and for COII are HM185575-HM185590, HM185592ÐHM185641). The mean genetic distance (uncorrected p-distance) among haplotypes was 0.00909 (range, 0 Ð 0.024) for CR, 0.0053 (range, 0.001Ð 0.011) for COI and 0.0078 (range, 0.001Ð 0.019) for COII. The three fragments were concatenated and a total of 214 haplotypes were deÞned in a 1752-bp mtDNA fragment from 361 screwworm individuals (Table 1). The mean genetic distance among concatenated haplotypes was 0.0057 (range, 0Ð0.0148).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_e75191aa",
+      "text": "Nucleotide diversity () and haplotype diversity (H ˆ) estimated from the concatenated mtDNA fragments are shown in Table 1. In general, low nucleotide diversity (-mean ϭ 0.39%, range, 0.1Ð 0.75%) and high haplotype diversity (H ˆ-mean ϭ 0.90; range, 0.53Ð 1.0) was observed for the locations analyzed. Lowest diversity indices were found for the location of Ciro Redondo-CCR in Cuba ( CCR ϭ 0.001, H ˆCCR ϭ 0.533).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_059923f5",
+      "text": "Approximately 77% (165/214) of the haplotypes were rare (single individuals). Just 27 haplotypes (12.6%) occurred in more than one sampling location and the other 22 (10.4%) were site private (Table 1). Haplotype mapping (data not shown) illustrated four \"regional groups,\" corresponding to samples from 1) Cuba (Cuban group [CG]), 2) the Dominican Republic (Dominican Republic group [DRG]), 3) Jamaica, Trinidad & Tobago, Colombia, Ecuador, and Venezuela (North Amazon group [NAG]), and 5) south of the Amazon region (South Amazon group [SAG]) (Fig. 1). No haplotype was shared between groups. The haplotype composition of each sampling location and group allocation are given in Table 1.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_c25f6477",
+      "text": "Phylogeographic Analyses. The pairwise F ST estimated for the 38 sampled locations of screwworm are shown in Table 2. Comparisons among the Cuban or the Dominican Republic sites, with all other sites showed signiÞcant and the highest F ST values. Most comparisons among locations from the South and the North of the Amazon region were also signiÞcant (150/175 pairwise comparisons). In concordance with haplotype distribution, the same four \"regional groups\" (CG, DRG, NAG, and SAG; Table 2) were identiÞed. In the CG group, most of the comparisons had signiÞcant values (6/10), largely due to the sample from Ciro Redondo, which was signiÞcantly different to all other sites (Table 2). Most comparisons at the intra-group level for NAG and SAG were nonsigniÞcant (12/20 and 234/276, respectively), but some differentiations were observed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_4c82034c",
+      "text": "Hierarchical AMOVA tests for the four group scenario were statistically signiÞcant and attributed 45.3% of the total variance to among group comparison, 4.3% of the variance to within group, and 50.4% to the within sampling locations comparison. Results revealed that screwworm has genetic structure (AMOVA: ⌽ ST ϭ 0.496, P Ͻ 0.001) over the current geographic distribution. Nonhierarchical AMOVA within groups revealed a different degree of intragroup variation, where 4.8% in SAG, 14.9% in NAG, and 18.7% in CG total variance was attributed to among sampling locations comparisons. The partial Mantel test for the South American locations (NAG plus SAG) showed that genetic variance was not correlated with geographic distance (r ϭ Ϫ0.07, P ϭ 0.9) but rather with the grouping of the sampling locations (r ϭ 0.46, P Ͻ 0.001). Therefore, in total 38% of variance found in the genetic matrix was due to the presence of barriers rather than IBD.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_85c9a1d0",
+      "text": "The 214 concatenated mtDNA haplotypes were linked in a unique parsimony network (Fig. 2). The general topology of the network showed one clade containing almost all haplotypes from CG (20/23), separated by 11 steps from a group that contained haplotypes from NAG, SAG, and DRG and the three remaining haplotypes from CG (Fig. 2). Haplotypes from NAG and DRG are located in the outer arms of this group. The majority of haplotypes were tip alleles and geographically restricted (Fig. 2) and would be considered to be more recently derived (Crandall andTempleton 1993, Castelloe andTempleton 1994). Common haplotypes (haplotypes that appear in at least Þve individuals) were always interior haplotypes (Table 1; Fig. 2) and are most likely to be ancestral (Castelloe and Templeton 1994).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Crandall and",
+          "offset_start": 538,
+          "offset_end": 551
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Templeton 1993, Castelloe and",
+          "offset_start": 551,
+          "offset_end": 580
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "Templeton 1994)",
+          "offset_start": 580,
+          "offset_end": 595
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Castelloe and Templeton 1994)",
+          "offset_start": 754,
+          "offset_end": 784
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_fdb3c246",
+      "text": "For the Þrst and second codon positions of the COI and COII sequences, in total 22 haplotypes were found that linked in a star-like network (Fig. 3). Haplotype h1, was the hub of this network, was the most frequent (286/361 individuals) and was present in all sampling locations, except in DRG. In this haplotype (h1), the most frequent haplotypes of DRG and CG are linked, the Jamaican private haplotypes (h12 and h13) and the low frequency mainland haplotypes. Haplotype h8 was present in 36 individuals, 35 from Cuban locations and one from Rio Verde (Ecuador). Haplotype h15 was present in 10 individuals, nine from Santo Domingo (Dominican Republic), and one from Cerro Colorado (Uruguay). The remaining haplotypes are found at low frequencies among the sampling locations.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_2dbfb7d7",
+      "text": "The demographic history of screwworm samples was estimated using a BSP, and the results suggest a population expansion for this species that started Ϸ20 Ð25,000 yr ago and exponentially increased recently (Fig. 4). The star-like topology of both haplotype networks also suggests population expansion for the screwworm. Bayesian Skyline Plots, obtained for the COII and CR sequences, were concordant with COI results and diagrams were very similar in shape, indicating the same two periods of population expansion (data not shown). When a 2% molecular clock rate was applied to COII sequences, the time of demographic expansion was also similar.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_5630b165",
+      "text": "The range-wide phylogeographical structure of the screwworm is characterized by island colonization, geographic isolation, and population expansion. Results of the pairwise F ST , hierarchical AMOVA, and haplotype distribution showed that screwworm is structured over its current geographical distribution. The general distribution pattern of genetic variability was characterized by the presence of four \"regional groups,\" a Cuban group (CG), a Dominican Republic group (DRG), a North of Amazon region group (NAG), and a South of Amazon region group (SAG). The divergence between screwworm locations from the North and South Amazon region (NAG and SAG) are reported here for the Þrst time.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_8655cfcd",
+      "text": "The Caribbean (CG and DRG) was the major area of divergence between populations of screwworm.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_15d5c60e",
+      "text": "Our results are in accordance with previous studies of screwworm based on mtDNA PCR-restriction fragment length polymorphism markers and microsatellites (Lyra et al. 2009, Torres andAzeredo-Espin 2009), supporting the hypothesis that the Caribbean Sea is a geographic barrier that limits gene ßow in this species. Although, from the data presented here, three haplotypes from Cuba and one from the Dominican Republic were genetically distant from the frequent haplotypes of the same sampling location, the presence of these haplotypes in these locations was interpreted as anthropogenic migration rather than natural migration. Molina-Cruz et al. (2004) suggested that Caribbean Sea also represents a partial barrier to gene ßow in the mosquito Anopheles albimanus Wiedemann. Examples of large bodies of water (including seas) acting as geographic barriers to shape the population structure of a terrestrial species were also found for the bumblebee Bombus terrestris (L.) between the European continent and some Mediterranean islands (Estoup et al. 1996) and for the ßies Ceratitis rosa Karsch and Ceratitis fasciventris (Bezzi) in Africa (Baliraine et al. 2004).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Lyra et al. 2009, Torres and",
+          "offset_start": 153,
+          "offset_end": 182
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Azeredo-Espin 2009)",
+          "offset_start": 182,
+          "offset_end": 201
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "Molina-Cruz et al. (2004)",
+          "offset_start": 628,
+          "offset_end": 653
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "(Estoup et al. 1996)",
+          "offset_start": 1035,
+          "offset_end": 1055
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "(Baliraine et al. 2004)",
+          "offset_start": 1140,
+          "offset_end": 1163
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_fa09bd63",
+      "text": "The site of Ciro Redondo (Isla de la Juventud), in CG, does not share haplotypes with Cuba Island and signiÞcant pairwise F ST values were observed between it and other Cuban sites. These results further support the hypothesis that the Caribbean Sea is a geographic barrier to gene ßow in the screwworm. As Ciro Redondo showed the lowest variability indices, we suppose that this could be a result of the effective suppression program in the Isla de la Juventud (Garcia et al. 2007) that occurred just before collecting the samples analyzed here. The suppression may have induced a population bottleneck that explains the low variability found.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Garcia et al. 2007",
+          "offset_start": 462,
+          "offset_end": 481
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_99668541",
+      "text": "The tip positions of most haplotypes from Caribbean locations in both networks, CR/COI/COII (Fig. 2) and COI/COII (Fig. 3), suggest colonization of islands from mainland. The deep divergence (11 mutational steps) observed between the Cuban haplotypes and all others in the CR/COI/COII network indicates different colonization histories for the Caribbean region. The haplotype distance and high pairwise F ST values (Fig. 2; Table 2) among Cuban and the remaining Caribbean sites suggest a North American colonization, Central American colonization, or both of Cuba, in contrast to the other Caribbean populations that were colonized from South America. Unfortunately, the colonization of Cuba is now difÞcult to test because screwworm has been eradicated from North and Central America. Yet, analyzing strains from North, Central America and Jamaica, Roehrdanz (1989) found the highest pairwise genetic distance between the Jamaican strain and the others. In concordance, Taylor et al. (1996) found that the screwworm strains of South American, Jamaican, and Trinidad & Tobago were closely related, whereas Cuban samples were more similar to Costa Rican strains. This phylogeographic break between Central and South America is consistent with studies of other Neotropical taxa, such as a mosquito (Mirabello and Conn 2006), Neotropical butterßies (Brower 1994), toads (Slade and Moritz 1998), bats (Hoffmann and Baker 2003), and even a tropical rain forest tree (Dick et al. 2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "Roehrdanz (1989)",
+          "offset_start": 851,
+          "offset_end": 867
+        },
+        {
+          "type": "bibr",
+          "target": "#b54",
+          "text": "Taylor et al. (1996)",
+          "offset_start": 972,
+          "offset_end": 992
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Brower 1994)",
+          "offset_start": 1347,
+          "offset_end": 1360
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "(Slade and Moritz 1998)",
+          "offset_start": 1368,
+          "offset_end": 1391
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "(Hoffmann and Baker 2003)",
+          "offset_start": 1398,
+          "offset_end": 1423
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Dick et al. 2003)",
+          "offset_start": 1462,
+          "offset_end": 1480
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_9e347ff0",
+      "text": "In South America, the two \"regional groups\" of screwworm populations (NAG and SAG) do not share haplotypes. However, the low genetic divergence found among the haplotypes and non signiÞcant differentiation among some SAG and NAG populations suggest that these \"regional groups\" were recently separated. The partial Mantel test indicated that historical effects explain this genetic divergence, suggesting the presence of a barrier that limits current gene ßow. The Amazon rain forest represents this putative geographic barrier. Because the screwworm inhabits the interface between savannah and forest borders (Thomas 1993, Phillips et al. 2004, Garcia et al. 2007), processes involved in this forest fragmentation and recover (Clapperton 1993, Haffer andPrance 2001) might be responsible for the observed geographic structure of screwworm populations.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "(Thomas 1993",
+          "offset_start": 610,
+          "offset_end": 622
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": ", Phillips et al. 2004",
+          "offset_start": 622,
+          "offset_end": 644
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": ", Garcia et al. 2007)",
+          "offset_start": 644,
+          "offset_end": 665
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Clapperton 1993, Haffer and",
+          "offset_start": 727,
+          "offset_end": 755
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Prance 2001",
+          "offset_start": 755,
+          "offset_end": 766
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_4e1954c3",
+      "text": "The among populations variance found in NAG is mainly correlated with the inclusion of Jamaica and Trinidad & Tobago in this group. Kingston (Jamaica) and San Fernando (Trinidad & Tobago) present the majority of the signiÞcant pairwise F ST values, within the group, but share common haplotypes with the mainland. The location of Puerto Espan ˜a (Trinidad & Tobago) does not share haplotypes with mainland localities. The observed pattern seems to be the effect of the Caribbean Sea acting as a barrier and similarities are probably due to the maintenance of ancestral haplotypes (incomplete lineage sorting), anthropogenic migration, or both, instead of current gene ßow.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a921f675",
+      "text": "Low population differentiation, with no geographic pattern, was detected at the intragroup level for SAG, despite the large area studied. Although this result could be interpreted as extent gene ßow among demes, the demographic analysis presented here shows signiÞcant population expansion in screwworm. This historical demographic process (i.e., population expansion) is probably responsible for the low genetic divergence and the lack of geographical association of mitochondrial haplotypes at the intragroup level, instead of current gene ßow. In fact, low but signiÞcant differentiation among Uruguayan populations was reported previously by using microsatellites markers (Torres et al. 2007).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "(Torres et al. 2007)",
+          "offset_start": 676,
+          "offset_end": 696
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_57f4a125",
+      "text": "The population expansion detected in the BSP started Ϸ20 Ð25,000 yr ago. The Þrst period of expansion seems to be related to the climatic oscillations that occurred in the late Pleistocene, which could have permitted the screwworm range and demographic expansion. The exponential period of demographic expansion detected using BSP may be closely associated with the availability of resources. Livestock introduction to the Americas, Ϸ500 yr ago, may have contributed to screwworm population expansion by increasing resource availability. This resource availability should be more evident in the central and southern areas of South America, because these regions are the most important areas of livestock breeding on the continent (GLiPHA 2010). Livestock introduction also could have inßuenced species migration by natural and anthropogenic host movement, confounding the current geographic structure of the screwworm. The identiÞcation of screwworm strains in Libya at the end of the 1980s (Vargas-Tera ´n et al. 1994) is an example of anthropogenic migration.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(GLiPHA 2010)",
+          "offset_start": 730,
+          "offset_end": 743
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_c256d58d",
+      "text": "The characterization of the spatial genetic structure and connectivity among populations, using molecular markers, can help in the design of a screwworm control program. Data presented here show that the Caribbean islands should be considered as isolated management units in control efforts. This Þnding is in accordance with previous population genetic studies (Lyra et al. 2009, Torres andAzeredo-Espin, 2009). The current study is the Þrst report of isolation between the North and South Amazon region. Although results show that these regions could be managed independently in AW-IPM programs, target management units still need to be found within each of these large geographic groups.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Lyra et al. 2009, Torres and",
+          "offset_start": 362,
+          "offset_end": 391
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Azeredo-Espin, 2009)",
+          "offset_start": 391,
+          "offset_end": 411
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_ac945731",
+      "text": "The mitochondrial molecular markers properly characterize the population genetic structure and the historical demography of the screwworm on a continental scale. However, the population expansion detected here suggests that similarities among populations are probably due to this historical event, rather than current gene ßow among demes preventing local differentiation.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2c0772d8",
+      "text": "This result points out the necessity of understanding population structure and demographic dynamics on a Þner spatial scale. The genetic diversity distribution pattern of screwworm reported here represents a critical step toward the management unit identiÞcation of this pest and is necessary for a more effective and preventive pest management strategy for the Caribbean and South America.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0afd8f9c",
+      "text": "We thank Rosangela A. Rodrigues, Alessandra Staffocker, and Maria Salete Couto for technical and laboratory assistance. We are also grateful to Rene ´Garcia for providing samples from the Caribbean islands, Colombia, and Ecuador and to FAO/IAEA (Division of Vienna) for helping with the sample collection. We thank Jessica Morgan and two anonymous reviewers for helpful comments and improvements on an earlier version of this manuscript. P.F. was supported by a fellowship from the Coordenac ¸a ˜o de Aperfeic ¸oamento de Pessoal de Nõ ´vel Superior (CAPES). M.L.L. was supported by a fellowship from Fundac ¸a ˜o de Amparo a `Pesquisa do Estado de Sa ˜o Paulo (FAPESP grant 03/13598-0). This work was supported by grants from FAO/IAEA (11822/RO) and FA-PESP.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgments"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "2",
+      "head": "Fig. 2 .",
+      "type": "figure",
+      "desc": "Fig. 2. Haplotype network of CR/COI/COII concatenated sequence data. In black, haplotypes from CG; in dark gray, haplotypes from DRG; in gray, haplotypes from NAG; and in white, haplotypes from SAG. Lines between haplotypes represent one mutational step. Dots along lines are presumptive intermediate haplotypes that were not observed.",
+      "note": "",
+      "coords": [
+        {
+          "x": 7.0,
+          "y": 38.04,
+          "width": 53.91,
+          "height": 418.0
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "3",
+      "head": "Fig. 3 .",
+      "type": "figure",
+      "desc": "Fig. 3. Haplotype network for the Þrst and second codon position of COI/COII concatenated sequences. The haplotypes are represented by circles, and n within circles indicates the number of individuals per haplotype. Circles without n represent haplotypes found in one individual. Lines between haplotypes represent one mutational step. The colored sectors represent the proportion of individuals with the haplotype in the respective regional groups (black, CG; dark gray, DRG; gray, NAG; and white, SAG).",
+      "note": "",
+      "coords": [
+        {
+          "x": 7.0,
+          "y": 271.32,
+          "width": 479.2,
+          "height": 168.0
+        }
+      ]
+    },
+    {
+      "id": "fig_2",
+      "label": "4",
+      "head": "Fig. 4 .",
+      "type": "figure",
+      "desc": "Fig. 4. Bayesian skyline plot by using COI sequences of the screwworm. The x-axis is in units of thousand years and the y-axis is equal to relative population size (Ne; the product of the effective population size and the generation length in years). The dark solid line is the median estimate, and the gray lines show the 95% highest posterior density limits. Shaded bar corresponds to the Last Glacial Maximum (Ϸ18Ð 23,000 yr ago).",
+      "note": "",
+      "coords": [
+        {
+          "x": 8.0,
+          "y": 55.32,
+          "width": 53.43,
+          "height": 168.0
+        }
+      ]
+    },
+    {
+      "id": "2744aa04",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 67.1,
+          "width": 54.04,
+          "height": 360.0
+        }
+      ]
+    },
+    {
+      "id": "tab_1",
+      "label": "2",
+      "head": "Table 2 . Pairwise F ST estimates among 38 populations of screwworm",
+      "type": "table",
+      "desc": "ID) correspond to geographic locations given onTable 1. Rectangles in black lines represent intragroup comparisons. Rectangles in dashed lines represent intergroup comparisons. CG, Cuban group; DRG, Dominican Republic group; NAG, North Amazon group; SAG, South Amazon group. Gray boxes indicate values that are signiÞcant P Ͻ 0.05; other values are nonsigniÞcant.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "CPR",
+            "CCA CLT CSC CCR DRP JAM TPE TSF VBA VEN COT ERV BTO",
+            "BSM",
+            "BCO BGN BGO"
+          ],
+          [
+            "CPR",
+            "0.00",
+            "CG",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "CCA",
+            "0.19",
+            "0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "CLT Ϫ0.05",
+            "0.14 0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "CSC",
+            "0.12 Ϫ0.02 0.09 0.00",
+            "",
+            "DRG",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "CCR",
+            "0.41",
+            "0.37 0.28 0.35 0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "DRP",
+            "0.75",
+            "0.82 0.65 0.81 0.89",
+            "0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "JAM",
+            "0.70",
+            "0.78 0.57 0.76 0.86",
+            "0.65",
+            "0.00",
+            "NAG",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "TPE",
+            "0.63",
+            "0.76 0.47 0.73 0.84",
+            "0.62",
+            "0.06 0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "TSF",
+            "0.57",
+            "0.74 0.41 0.70 0.81",
+            "0.56",
+            "0.40 0.15 0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "VBA",
+            "0.54",
+            "0.69 0.41 0.66 0.76",
+            "0.44",
+            "0.20 0.08 0.00 0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "VEN",
+            "0.56",
+            "0.69 0.44 0.65 0.74",
+            "0.43",
+            "0.18 0.14 0.18 0.02 0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "COT",
+            "0.61",
+            "0.72 0.49 0.69 0.78",
+            "0.48",
+            "0.13 0.12 0.22 0.05 0.00",
+            "0.00",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "ERV",
+            "0.67",
+            "0.77 0.47 0.75 0.89",
+            "0.66",
+            "0.54 0.50 0.42 0.22 0.08",
+            "0.20",
+            "0.00",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BTO",
+            "0.54",
+            "0.70 0.42 0.66 0.76",
+            "0.41",
+            "0.41 0.30 0.13 0.08 0.12",
+            "0.20",
+            "0.25",
+            "0.00",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BSM",
+            "0.58",
+            "0.70 0.44 0.67 0.76",
+            "0.46",
+            "0.38 0.31 0.26 0.14 0.10",
+            "0.20",
+            "0.24",
+            "0.02",
+            "0.00",
+            "",
+            "",
+            ""
+          ],
+          [
+            "BCO",
+            "0.56",
+            "0.72 0.39 0.68 0.80",
+            "0.50",
+            "0.44 0.32 0.16 0.08 0.10",
+            "0.20",
+            "0.30 Ϫ0.05 Ϫ0.01",
+            "0.00",
+            "",
+            ""
+          ],
+          [
+            "BGN",
+            "0.52",
+            "0.69 0.39 0.65 0.75",
+            "0.44",
+            "0.38 0.26 0.11 0.07 0.10",
+            "0.19",
+            "0.22 Ϫ0.05",
+            "0.03 Ϫ0.04",
+            "0.00",
+            ""
+          ],
+          [
+            "BGO",
+            "0.58",
+            "0.72 0.44 0.68 0.78",
+            "0.54",
+            "0.46 0.36 0.21 0.16 0.20",
+            "0.27",
+            "0.33",
+            "0.07",
+            "0.09",
+            "0.05",
+            "0.00",
+            "0.00"
+          ],
+          [
+            "BCA",
+            "0.64",
+            "0.73 0.53 0.71 0.79",
+            "0.52",
+            "0.47 0.43 0.40 0.27 0.20",
+            "0.30",
+            "0.32",
+            "0.10",
+            "0.01",
+            "0.08",
+            "0.12",
+            "0.23"
+          ],
+          [
+            "BCR",
+            "0.67",
+            "0.76 0.52 0.74 0.85",
+            "0.65",
+            "0.60 0.55 0.52 0.37 0.28",
+            "0.40",
+            "0.54",
+            "0.23",
+            "0.13",
+            "0.24",
+            "0.25",
+            "0.39"
+          ],
+          [
+            "BAQ",
+            "0.58",
+            "0.72 0.42 0.68 0.80",
+            "0.55",
+            "0.45 0.37 0.30 0.20 0.16",
+            "0.26",
+            "0.30",
+            "0.05 Ϫ0.01",
+            "0.03",
+            "0.03",
+            "0.07"
+          ],
+          [
+            "BCG",
+            "0.60",
+            "0.72 0.47 0.69 0.79",
+            "0.53",
+            "0.48 0.41 0.34 0.22 0.18",
+            "0.29",
+            "0.33",
+            "0.04 Ϫ0.01",
+            "0.02",
+            "0.07",
+            "0.18"
+          ],
+          [
+            "BSS",
+            "0.60",
+            "0.73 0.46 0.69 0.80",
+            "0.61",
+            "0.53 0.44 0.36 0.29 0.28",
+            "0.37",
+            "0.42",
+            "0.15",
+            "0.13",
+            "0.09",
+            "0.09",
+            "0.05"
+          ],
+          [
+            "BES",
+            "0.58",
+            "0.69 0.46 0.66 0.74",
+            "0.46",
+            "0.39 0.33 0.27 0.17 0.16",
+            "0.23",
+            "0.25",
+            "0.06",
+            "0.02 Ϫ0.02",
+            "0.01",
+            "0.00"
+          ],
+          [
+            "BCP",
+            "0.57",
+            "0.69 0.45 0.66 0.75",
+            "0.49",
+            "0.43 0.36 0.32 0.21 0.15",
+            "0.25",
+            "0.27",
+            "0.07",
+            "0.01",
+            "0.03",
+            "0.06",
+            "0.17"
+          ],
+          [
+            "BCI",
+            "0.60",
+            "0.71 0.49 0.68 0.77",
+            "0.52",
+            "0.44 0.40 0.37 0.26 0.19",
+            "0.29",
+            "0.31",
+            "0.10",
+            "0.02",
+            "0.06",
+            "0.08",
+            "0.15"
+          ],
+          [
+            "BFV",
+            "0.53",
+            "0.71 0.37 0.67 0.80",
+            "0.53",
+            "0.45 0.32 0.12 0.09 0.13",
+            "0.23",
+            "0.30 Ϫ0.09 Ϫ0.01 Ϫ0.11 Ϫ0.07",
+            "0.00"
+          ],
+          [
+            "BSA",
+            "0.53",
+            "0.68 0.41 0.63 0.73",
+            "0.43",
+            "0.31 0.24 0.20 0.11 0.08",
+            "0.16",
+            "0.15",
+            "0.05",
+            "0.03",
+            "0.01",
+            "0.02",
+            "0.09"
+          ],
+          [
+            "BPM",
+            "0.54",
+            "0.69 0.41 0.65 0.75",
+            "0.48",
+            "0.41 0.31 0.20 0.17 0.20",
+            "0.27",
+            "0.28",
+            "0.07",
+            "0.11",
+            "0.04 Ϫ0.01 Ϫ0.05"
+          ],
+          [
+            "PYB",
+            "0.52",
+            "0.65 0.41 0.61 0.70",
+            "0.38",
+            "0.31 0.24 0.18 0.09 0.08",
+            "0.16",
+            "0.16 Ϫ0.01 Ϫ0.01 Ϫ0.04 Ϫ0.04",
+            "0.03"
+          ],
+          [
+            "UPM",
+            "0.60",
+            "0.73 0.43 0.70 0.82",
+            "0.55",
+            "0.47 0.36 0.17 0.09 0.11",
+            "0.22",
+            "0.32 Ϫ0.07 Ϫ0.02 Ϫ0.05 Ϫ0.05",
+            "0.04"
+          ],
+          [
+            "UST",
+            "0.61",
+            "0.73 0.47 0.70 0.80",
+            "0.52",
+            "0.43 0.37 0.35 0.20 0.13",
+            "0.22",
+            "0.31",
+            "0.08",
+            "0.00",
+            "0.07",
+            "0.10",
+            "0.24"
+          ],
+          [
+            "UDA",
+            "0.57",
+            "0.70 0.44 0.66 0.76",
+            "0.45",
+            "0.36 0.30 0.28 0.15 0.08",
+            "0.18",
+            "0.21",
+            "0.05 Ϫ0.02",
+            "0.02",
+            "0.05",
+            "0.18"
+          ],
+          [
+            "UBM",
+            "0.51",
+            "0.67 0.39 0.63 0.72",
+            "0.39",
+            "0.34 0.25 0.11 0.06 0.09",
+            "0.16",
+            "0.18 Ϫ0.06",
+            "0.00 Ϫ0.07 Ϫ0.06",
+            "0.01"
+          ],
+          [
+            "UCC",
+            "0.51",
+            "0.65 0.40 0.61 0.69",
+            "0.39",
+            "0.34 0.26 0.15 0.12 0.13",
+            "0.19",
+            "0.19",
+            "0.00",
+            "0.03 Ϫ0.01 Ϫ0.04 Ϫ0.03"
+          ],
+          [
+            "UCO",
+            "0.54",
+            "0.69 0.40 0.64 0.76",
+            "0.48",
+            "0.38 0.29 0.23 0.16 0.12",
+            "0.22",
+            "0.22",
+            "0.03 Ϫ0.01 Ϫ0.02 Ϫ0.02",
+            "0.01"
+          ],
+          [
+            "UJS",
+            "0.54",
+            "0.71 0.39 0.67 0.78",
+            "0.52",
+            "0.44 0.30 0.13 0.11 0.13",
+            "0.24",
+            "0.29 Ϫ0.03",
+            "0.00",
+            "0.02 Ϫ0.01",
+            "0.06"
+          ],
+          [
+            "APL",
+            "0.56",
+            "0.74 0.38 0.70 0.83",
+            "0.53",
+            "0.47 0.32 0.04 0.02 0.12",
+            "0.21",
+            "0.37 Ϫ0.07",
+            "0.09 Ϫ0.01 Ϫ0.04",
+            "0.09"
+          ],
+          [
+            "IdentiÞcation codes (",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 40,
+          "column_count": 5,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_2",
+      "label": "2",
+      "head": "Table 2 .",
+      "type": "table",
+      "desc": "ContinuedBCA BCR BAQ BCG BSS BES BCP BCI BFV BSA BPM PYB UPM UST UDA UBM UCC UCO UJS APL",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "0.00",
+            ""
+          ],
+          [
+            "0.05 0.00",
+            ""
+          ],
+          [
+            "0.01 0.10",
+            "0.00"
+          ]
+        ],
+        "metadata": {
+          "row_count": 3,
+          "column_count": 2,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Phylogeography: retrospect and prospect",
+      "authors": "J Avise",
+      "journal": "J. Biogeogr",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "36",
+      "page_start": "3",
+      "page_end": "15"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "IntraspeciÞc phylogeography: the mitochondrial DNA bridge between population genetics and systematics",
+      "authors": [
+        "J Avise",
+        "J Arnold",
+        "R Ball",
+        "E Bermingham",
+        "T Lamb",
+        "J Neigel",
+        "C Reed",
+        "N Saunders"
+      ],
+      "journal": "Annu. Rev. Ecol. Syst",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "18",
+      "page_start": "489",
+      "page_end": "522"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Population genetics of the potentially invasive African fruit ßy species, Ceratitis rosa and Ceratitis fasciventris (Diptera: Tephritidae)",
+      "authors": [
+        "F Baliraine",
+        "M Bonizzoni",
+        "C Guglielmino",
+        "E Osir",
+        "S Lux",
+        "F Mulaa",
+        "L Gomulski",
+        "L Zheng",
+        "S Quilici",
+        "G Gasperi"
+      ],
+      "journal": "Mol. Ecol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "13",
+      "page_start": "683",
+      "page_end": "695"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Genetic estimates of population structure and gene ßow: limitations, lessons and new directions",
+      "authors": [
+        "J Bossart",
+        "D Prowell"
+      ],
+      "journal": "Trends Ecol. Evol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "13",
+      "page_start": "202",
+      "page_end": "206"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Rapid morphological radiation and convergence among races of the butterßy Heliconius erato inferred from patterns of mitochondrial DNA evolution",
+      "authors": "A Brower",
+      "journal": "Proc. Natl. Acad. Sci. U.S.A",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "91",
+      "page_start": "6491",
+      "page_end": "6495"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Molecular characterization of esterase E3 gene associated with organophosphorus insecticide resistance in the New World screwworm ßy, Cochliomyia hominivorax",
+      "authors": [
+        "R Carvalho",
+        "T Torres",
+        "M Paniago",
+        "M",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med. Vet. Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "page_start": "86",
+      "page_end": "91"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Golden age of insecticide research: past, present and future",
+      "authors": [
+        "J Cassida",
+        "B Gary"
+      ],
+      "journal": "Annu. Rev. Entomol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "43",
+      "page_start": "1",
+      "page_end": "16"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Root probabilities for intraspeciÞc gene trees under neutral coalescent theory",
+      "authors": [
+        "J Castelloe",
+        "A Templeton"
+      ],
+      "journal": "Mol. Phylogenet. Evol",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "3",
+      "page_start": "102",
+      "page_end": "113"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Nature of environmental change in South America at the Last Glacial Maximum",
+      "authors": "C Clapperton",
+      "journal": "Palaeogeogr. Palaeoclim. Palaeoecol",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "101",
+      "issue": "189",
+      "pages": "208"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "TCS: a computer program to estimate gene genealogies",
+      "authors": [
+        "M Clement",
+        "D Posada",
+        "K Crandall"
+      ],
+      "journal": "Mol. Ecol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "page_start": "1657",
+      "page_end": "1660"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "The biogeography and population genetics of Neotropical vector species",
+      "authors": [
+        "J Conn",
+        "L Mirabello"
+      ],
+      "journal": "Heredity",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "99",
+      "page_start": "245",
+      "page_end": "256"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Empirical tests of some predictions from coalescent theory with applications to intraspeciÞc phylogeny reconstruction",
+      "authors": [
+        "K Crandall",
+        "A Templeton"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "134",
+      "page_start": "959",
+      "page_end": "969"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "The role of environment in shaping the genetic diversity of the subalpine mosquito, Aedes rusticus (Diptera, Culicidae)",
+      "authors": [
+        "J David",
+        "K Huber",
+        "A Failloux",
+        "D Rey",
+        "J Meyran"
+      ],
+      "journal": "Mol. Ecol",
+      "publication_date": "1951",
+      "year": 1951,
+      "volume": "12"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Livestock to 2020: the next food revolution. Food, agriculture, and the environment. Discussion Paper 28",
+      "authors": [
+        "C Delgado",
+        "M Rosegrant",
+        "H Steinfeld",
+        "C Ehui",
+        "C Courbois"
+      ],
+      "publication_date": "1999",
+      "year": 1999
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Tempo and mode of sequence evolution in mitochondrial DNA of Hawaiian Drosophila",
+      "authors": [
+        "R Desalle",
+        "T Freedman",
+        "E Prager",
+        "A Wilson"
+      ],
+      "journal": "J. Mol. Evol",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "26",
+      "page_start": "157",
+      "page_end": "164"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Molecular systematics reveals cryptic Tertiary diversiÞcation of a widespread tropical rainforest tree",
+      "authors": [
+        "C Dick",
+        "K Abdul-Salim",
+        "E Bermingham"
+      ],
+      "journal": "Am. Nat",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "162",
+      "page_start": "691",
+      "page_end": "703"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "BEAST: Bayesian evolutionary analysis by sampling trees",
+      "authors": [
+        "A Drummond",
+        "A Rambaut"
+      ],
+      "journal": "BMC Evol. Biol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "7",
+      "pages": "214"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Bayesian coalescent inference of past population dynamics from molecular sequences",
+      "authors": [
+        "A Drummond",
+        "A Rambaut",
+        "B Shapiro",
+        "O Pybus"
+      ],
+      "journal": "Mol. Biol. Evol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "22",
+      "page_start": "1185",
+      "page_end": "1192"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "The mitochondrial control region of blowßies (Diptera: Calliphoridae): a hot spot for mitochondrial genome rearrangements",
+      "authors": [
+        "G Duarte",
+        "A Azeredo-Espin",
+        "A Junqueira"
+      ],
+      "journal": "J. Med. Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "45",
+      "page_start": "667",
+      "page_end": "676"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Genetic differentiation of continental and island populations of Bombus terrestris (Hymenoptera: Apidae) in Europe",
+      "authors": [
+        "A Estoup",
+        "M Solignac",
+        "J Cornuet",
+        "J Goudet",
+        "A Scholl"
+      ],
+      "journal": "Mol. Ecol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "5",
+      "page_start": "19",
+      "page_end": "31"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Phred. Base calling of automated sequencer traces using phred. II. Error probabilities",
+      "authors": [
+        "B Ewing",
+        "P Green"
+      ],
+      "journal": "Gen. Res",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "8",
+      "page_start": "186",
+      "page_end": "194"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Base calling of automated sequencer traces using phred",
+      "authors": [
+        "B Ewing",
+        "L Hillier",
+        "M Wendl",
+        "P Green"
+      ],
+      "journal": "I. Accuracy assessment. Gen. Res",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "8",
+      "page_start": "175",
+      "page_end": "185"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Analysis of molecular variance inferred from metric distances among DNA haplotypes: application to human mitochondrial DNA restriction data",
+      "authors": [
+        "L Excoffier",
+        "P Smouse",
+        "J Quattro"
+      ],
+      "journal": "Genetics",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "131",
+      "page_start": "479",
+      "page_end": "491"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Arlequin ver. 3.0: an integrated software package for population genetics data analysis",
+      "authors": [
+        "L Excoffier",
+        "G Laval",
+        "S Schneider"
+      ],
+      "journal": "Evol. Bioinform",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "1",
+      "page_start": "47",
+      "page_end": "50"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Food and Agriculture Organization of United Nations. 2000. The Strategic Framework for FAO 2000 Ð 2015. Food and Agriculture Organization of United Nations"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Insecticidal wound treatment of livestock on Isla de la Juventud, Cuba: an efÞcient suppression method of New World screwworm Cochliomyia hominivorax prior to the release of sterile insect",
+      "authors": [
+        "R Garcia",
+        "L Mendez",
+        "E Serrano",
+        "T Morales",
+        "M Vreysen"
+      ],
+      "editors": [
+        "M Vreysen",
+        "A Robinson",
+        "J Hendrichs"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2007",
+      "year": 2007,
+      "page_start": "393",
+      "page_end": "403"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Global Livestock Production and Health Atlas. 2010. Global livestock production and health atlas",
+      "urls": [
+        "http://kids.fao.org/glipha/)",
+        "http://kids.fao.org/glipha/)"
+      ]
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "As miõ ´ases na regia ˜o neotropical (identiÞcac ¸a ˜o, biologia, bib-liograÞa)",
+      "authors": [
+        "J Guimara ˜es",
+        "N Papavero",
+        "A Prado"
+      ],
+      "journal": "Rev. Bras. Zool",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "1",
+      "page_start": "239",
+      "page_end": "416"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Climatic forcing of evolution in Amazonia during the Cenozoic: on the refuge theory of biotic differentiation",
+      "authors": [
+        "J Haffer",
+        "G Prance"
+      ],
+      "journal": "Amazoniana",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "16",
+      "page_start": "579",
+      "page_end": "607"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Myiasis of human and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Adv. Parasitol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "256",
+      "page_end": "333"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Insecticide resistance in insect vectors of human disease",
+      "authors": [
+        "J Hemingway",
+        "H Ranson"
+      ],
+      "journal": "Annu. Rev. Entomol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "45",
+      "page_start": "371",
+      "page_end": "391"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Comparative phylogeography of short-tailed bats (Carollia: Phyllostomidae)",
+      "authors": [
+        "F Hoffmann",
+        "R Baker"
+      ],
+      "journal": "Mol. Ecol",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "12",
+      "page_start": "3403",
+      "page_end": "3414"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Genetic sexing and population genetics of screwworms",
+      "authors": [
+        "X Huang",
+        "A Madan"
+      ],
+      "journal": "Gen. Res",
+      "publisher": "International Atomic Energy Agency",
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "9",
+      "page_start": "868",
+      "page_end": "877",
+      "notes": "CAP3: a DNA sequence assembly program"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Sterile insect technique: principles and practice in area-wide integrated pest management",
+      "authors": [
+        "W Klassen",
+        "C Curtis"
+      ],
+      "editors": [
+        "V Dyck",
+        "J Hendrichs",
+        "A Robinson"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "3",
+      "page_end": "36",
+      "notes": "History of the sterile insect technique"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Integrated pest management: historical perspectives and contemporary developments",
+      "authors": "M Kongan",
+      "journal": "Annu. Rev. Entomol",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "43",
+      "page_start": "243",
+      "page_end": "270"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Role of population genetics in the sterile insect technique",
+      "authors": "E Krafsur",
+      "editors": [
+        "V Dyck",
+        "J Hendrichs",
+        "A Robinson"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "389",
+      "page_end": "406",
+      "notes": "The Netherlands"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Evolution and structural organization of mitochondrial DNA control region of myiasis-causing ßies",
+      "authors": [
+        "A Lessinger",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med. Vet. Entomol",
+      "publication_date": "2000",
+      "year": 2000,
+      "identifiers": {
+        "analytic_identifiers_unknown": "14: 71Ð 80",
+        "biblstruct_identifiers_unknown": "14: 71Ð 80"
+      }
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Analysis of mitochondrial DNA variability and genetic structure in populations of new world screwworm ßies (Diptera: Calliphoridae) from Uruguay",
+      "authors": [
+        "M Lyra",
+        "P Fresia",
+        "S Gama",
+        "J Cristina",
+        "L Klaczko",
+        "A Azeredo-Espin"
+      ],
+      "journal": "J. Med. Entomol",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "42",
+      "page_start": "589",
+      "page_end": "595"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Complex pattern of genetic distribution in populations of the New World screwworm ßy revealed by mitochondrial DNA markers",
+      "authors": [
+        "M Lyra",
+        "L Klaczko",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med. Vet. Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "page_start": "32",
+      "page_end": "42"
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Molecular population genetics of the malaria vector Anopheles darlingi in central and South America",
+      "authors": [
+        "L Mirabello",
+        "J Conn"
+      ],
+      "journal": "Heredity",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "96",
+      "page_start": "311",
+      "page_end": "321"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Gene ßow among Anopheles albimanus populations in Central America, South America, and the Caribbean assessed by microsatellites and mitochondrial DNA",
+      "authors": [
+        "A Molina-Cruz",
+        "A Me ´rida",
+        "K Mills",
+        "F Rodrı ´guez",
+        "C Schoua",
+        "M Yurrita",
+        "E Molina",
+        "M Palmieri",
+        "W Black",
+        "Iv"
+      ],
+      "journal": "Am. J. Trop. Med. Hyg",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "71",
+      "page_start": "350",
+      "page_end": "359"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Molecular evolutionary genetics",
+      "authors": "M Nei",
+      "publisher": "Columbia University Press",
+      "publication_date": "1987",
+      "year": 1987
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Seasonal and spatial and distributions of adult screwworms (Diptera: Calliphoridae) in the Panama Canal area, Republic of Panama",
+      "authors": [
+        "P Phillips",
+        "J Welch",
+        "M Kramer"
+      ],
+      "journal": "J. Med. Entomol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "41",
+      "page_start": "121",
+      "page_end": "129"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Improving insect pest management through population genetic data: a case study of the mosquito Ochlerotatus caspius (Pallas)",
+      "authors": [
+        "D Porretta",
+        "D Canestrelli",
+        "R Bellini",
+        "G Celli",
+        "S Urbanelli"
+      ],
+      "journal": "J. Appl. Ecol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "44",
+      "page_start": "682",
+      "page_end": "691"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "title": "Estimation for the coancestry coefÞcient: basis for a shortterm genetic distance",
+      "authors": [
+        "D Posada",
+        "K Crandall"
+      ],
+      "editors": [
+        "J Reynolds",
+        "B Weir",
+        "C Cockerham"
+      ],
+      "journal": "Bioinformatics",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "14",
+      "page_start": "767",
+      "page_end": "779",
+      "notes": "MODELTEST: testing the model of DNA substitution Genetics"
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Enabling technologies to improve areawide integrated pest management programmes for the control of screwworms",
+      "authors": [
+        "A Robinson",
+        "M Vreysen",
+        "J Hendrichs",
+        "U Feldmann"
+      ],
+      "journal": "Med. Vet. Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "issue": "1Ð7"
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Geographic structure of insect populations: gene ßow, phylogeography, and their uses",
+      "authors": "G Roderick",
+      "journal": "Annu. Rev. Entomol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "41",
+      "page_start": "325",
+      "page_end": "352"
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "IntraspeciÞc genetic variability in mitochondrial DNA of the screwworm ßy (Cochliomyia hominivorax)",
+      "authors": "R Roehrdanz",
+      "journal": "Biochem. Genet",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "27",
+      "page_start": "551",
+      "page_end": "569"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "Investigation of mutations associated with pyrethroid resistance in populations of the New World screwworm ßy, Cochliomyia hominivorax (Diptera: Calliphoridae)",
+      "authors": [
+        "N Silva",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Genet. Mol. Res",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "8",
+      "page_start": "1067",
+      "page_end": "1078"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "Evolution, weighting and phylogenetic utility of mitochondrial gene sequences and compilation of conserved polymerase chain reaction primers",
+      "authors": [
+        "C Simon",
+        "F Frati",
+        "A Beckenbach",
+        "B Crespi",
+        "H Liu",
+        "P Flook"
+      ],
+      "journal": "Ann. Entomol. Soc. Am",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "87",
+      "page_start": "651",
+      "page_end": "701"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "Phylogeography of Bufo marinus from its natural and introduced range",
+      "authors": [
+        "R Slade",
+        "C Moritz"
+      ],
+      "journal": "Proc. R. Soc. B Biol. Sci",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "265",
+      "page_start": "769",
+      "page_end": "777"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "Multiple regression and correlation extensions of the Mantel test of matrix correspondence",
+      "authors": [
+        "M Slatkin",
+        "P Smouse",
+        "J Long",
+        "R Sokal"
+      ],
+      "journal": "Syst. Zool",
+      "publication_date": "1986",
+      "year": 1986,
+      "volume": "139",
+      "page_start": "627",
+      "page_end": "632",
+      "notes": "A measure of population subdivision based on microsatellite allele frequencies Genetics"
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "Using distance matrices to choose between competing theories and an application to the origin of modern humans",
+      "authors": [
+        "R Sokal",
+        "N Oden",
+        "J Walker",
+        "D Waddle"
+      ],
+      "journal": "J. Hum. Evol",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "32",
+      "page_start": "501",
+      "page_end": "522"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0",
+      "authors": [
+        "K Tamura",
+        "J Dudley",
+        "M Nei",
+        "S Kumar"
+      ],
+      "journal": "Mol. Biol. Evol",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "24",
+      "page_start": "1596",
+      "page_end": "1599"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "title": "A polymerase chain reaction-restriction fragment length polymorphism technique for identiÞcation of screwworms (Diptera: Calliphoridae)",
+      "authors": [
+        "D Taylor",
+        "A Szalanski",
+        "R Peterson",
+        "I"
+      ],
+      "journal": "Med. Vet. Entomol",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "10",
+      "page_start": "63",
+      "page_end": "70"
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "Behavioral aspects of screwworm ecology",
+      "authors": "D Thomas",
+      "journal": "J. Kans. Entomol. Soc",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "66",
+      "issue": "13",
+      "pages": "30"
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "The ClustalX windows interface: ßexible strategies for multiple sequence alignment aided by quality analysis tools",
+      "authors": [
+        "J Thompson",
+        "T Gibson",
+        "F Plewniak",
+        "F Jeanmougin",
+        "D Higgins"
+      ],
+      "journal": "Nucleic Acids Res",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "24",
+      "page_start": "4876",
+      "page_end": "4882"
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "Assessing Genetic Variation in the New World Screwworm Cochliomyia hominivorax populations from Uruguay",
+      "authors": [
+        "T Torres",
+        "M Lyra",
+        "P Fresia",
+        "A Azeredo-Espin"
+      ],
+      "editors": [
+        "M Vreysen",
+        "A Robinson",
+        "J Hendrichs"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2007",
+      "year": 2007,
+      "page_start": "183",
+      "page_end": "191"
+    },
+    {
+      "id": "b59",
+      "target": "b58",
+      "title": "Population structuring in new world screw-worm populations from the Caribbean: insights from microsatellite data",
+      "authors": [
+        "T Torres",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Med. Vet. Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "23",
+      "page_start": "23",
+      "page_end": "31"
+    },
+    {
+      "id": "b60",
+      "target": "b59",
+      "title": "Eradication of the screw-worm from Libya using the sterile insect technique",
+      "authors": [
+        "M Vargas-Tera ´n",
+        "B Hursey",
+        "E Cunningham"
+      ],
+      "journal": "Parasitol. Today",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "10",
+      "page_start": "119",
+      "page_end": "122"
+    },
+    {
+      "id": "b61",
+      "target": "b60",
+      "title": "Impact of Screwworm eradication programmes using insect sterile technique",
+      "authors": [
+        "M Vargas-Tera ´n",
+        "H Hofmann",
+        "N Tweddle"
+      ],
+      "editors": [
+        "V Dyck",
+        "J Hendrichs",
+        "A Robinson"
+      ],
+      "publisher": "Springer",
+      "publication_date": "2005",
+      "year": 2005,
+      "page_start": "629",
+      "page_end": "650",
+      "notes": "The Netherlands"
+    }
+  ]
+}

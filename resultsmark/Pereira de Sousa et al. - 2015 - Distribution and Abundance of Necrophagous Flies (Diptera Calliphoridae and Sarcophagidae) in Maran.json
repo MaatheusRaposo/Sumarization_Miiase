@@ -1,0 +1,3983 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Distribution and Abundance of Necrophagous Flies (Diptera: Calliphoridae and Sarcophagidae) in Maranhao, Northeastern Brazil",
+    "authors": [
+      "J Pereira De Sousa",
+      "F Carvalho-Filho",
+      "Maria Esposito"
+    ],
+    "doi": "10.1093/jisesa/iev054",
+    "hash": "60C71609FD807085DFA308AE017314E7",
+    "publication_date": "2015-06-15",
+    "publication_year": 2015,
+    "publisher": "Oxford University Press (OUP)",
+    "journal": "Journal of Insect Science",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "This study aimed at surveying the local calliphorid and sarcophagid species in Maranha ˜o State (Brazil) to determine their distribution and abundance, as well as the distribution of exotic Chrysomya species. In total, 18,128 calliphorid specimens were collected, distributed in 7 genera and 14 species. The species Hemilucilia semidiaphana (Rondani, 1850) and Paralucilia paraensis (Mello, 1969)  were new state records. Chrysomya albiceps (Wiedemann, 1819) and Cochliomyia macellaria (F., 1775) were the most abundant species, and the exotic species of Chrysomya together contributed more than 50% of total blow fly abundance. The abundance distribution of the calliphorid community conformed to a log series model, characterized by a steep curve that reflects an assemblage with a high degree of dominance. For the Sarcophagidae, a total of 14,810 specimens were collected and distributed in 15 genera, 11 subgenera, and 52 species. Tricharaea (Sarcophagula) occidua (F., 1794) and Peckia (Sarcodexia) lambens (Wiedemann, 1830) were the most abundant species. The abundance distribution of the species followed a log normal model, with a gentler slope, consistent with a more uniform community. The cumulative species curve for the sarcophagids did not reach the asymptote. Forty-three sarcophagid species were new state records and 22 were new records for the Brazilian northeast, which emphasizes the need for a continued survey in this region.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_49f1c84c",
+      "text": "Flies of the families Calliphoridae and Sarcophagidae are ecologically and forensically important, due to the fact that the larvae of many species feed on dead organic matter, acting as decomposers and potential indicators of the postmortem interval (Rivers and Dahlem 2014). From a medical and sanitary viewpoint, the adults are potential vectors of pathogens (Greenberg 1971), while the larvae of some species parasitize humans and other vertebrates, causing myiasis, known as blowfly strike (Zumpt 1965, Hall and Wall 1995, Guimara ˜es and Papavero 1999).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b72",
+          "text": "(Rivers and Dahlem 2014)",
+          "offset_start": 250,
+          "offset_end": 274
+        },
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Greenberg 1971)",
+          "offset_start": 361,
+          "offset_end": 377
+        },
+        {
+          "type": "bibr",
+          "target": "#b90",
+          "text": "(Zumpt 1965",
+          "offset_start": 494,
+          "offset_end": 505
+        },
+        {
+          "type": "bibr",
+          "target": "#b39",
+          "text": ", Hall and Wall 1995",
+          "offset_start": 505,
+          "offset_end": 525
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": ", Guimara ˜es and Papavero 1999)",
+          "offset_start": 525,
+          "offset_end": 557
+        }
+      ]
+    },
+    {
+      "id": "p_383a989e",
+      "text": "There are 1,525 known calliphorid species belonging to 97 genera (Pape et al. 2011), of which 130 species are known to occur in the Neotropical Region (Carvalho and Mello-Patiu 2008) and 38 in Brazil (Mello 2003, Kosmann et al. 2013). During the 1970s, the composition of the calliphorid fauna of the Americas was affected by the invasion of three exotic species of the genus Chrysomya, originally from the Old World (Ferreira 1978, Guimara ˜es et al. 1978, Linhares 1981, Paraluppi and Castello ´n 1994). Since this time, these species, Chrysomya albiceps (Wiedemann), C. megacephala (F., 1794), and C. putoria (Wiedemann, 1818), have become very abundant in Brazil and have come to predominate in both urban environments and forest fragments, where they have even displaced native species, such as Cochliomyia macellaria (F., 1775) and Lucilia eximia (Wiedemann, 1819) (Ferreira 1979(Ferreira , 1983;;Guimara ˜es et al. 1979;Paraluppi and Castello ´n 1994;Esposito 1997). A fourth species of Chrysomya, C. rufifacies (Macquart, 1843), has been discovered in Brazil, in the states of Maranha ˜o (Silva et al. 2012a) and Rio de Janeiro (Ribeiro et al. 2013). However, Grella et al. (2015) concluded that the specimens identified as C. rufifacies represent a polymorphic form of the species C. albiceps and that C. rufifacies does not yet occur in Brazil.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": "(Pape et al. 2011)",
+          "offset_start": 65,
+          "offset_end": 83
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Carvalho and Mello-Patiu 2008)",
+          "offset_start": 151,
+          "offset_end": 182
+        },
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "(Mello 2003",
+          "offset_start": 200,
+          "offset_end": 211
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Kosmann et al. 2013)",
+          "offset_start": 211,
+          "offset_end": 233
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Ferreira 1978",
+          "offset_start": 417,
+          "offset_end": 431
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": ", Guimara ˜es et al. 1978",
+          "offset_start": 431,
+          "offset_end": 456
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": ", Linhares 1981",
+          "offset_start": 456,
+          "offset_end": 471
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Paraluppi and Castello ´n 1994)",
+          "offset_start": 471,
+          "offset_end": 504
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Wiedemann, 1818)",
+          "offset_start": 612,
+          "offset_end": 629
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(F., 1775)",
+          "offset_start": 823,
+          "offset_end": 833
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Ferreira 1979",
+          "offset_start": 871,
+          "offset_end": 885
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Ferreira , 1983;;",
+          "offset_start": 885,
+          "offset_end": 903
+        },
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "Guimara ˜es et al. 1979;",
+          "offset_start": 903,
+          "offset_end": 927
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Paraluppi and Castello ´n 1994;",
+          "offset_start": 927,
+          "offset_end": 958
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "Esposito 1997",
+          "offset_start": 958,
+          "offset_end": 971
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Macquart, 1843)",
+          "offset_start": 1019,
+          "offset_end": 1035
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Silva et al. 2012a",
+          "offset_start": 1096,
+          "offset_end": 1115
+        },
+        {
+          "type": "bibr",
+          "target": "#b71",
+          "text": "(Ribeiro et al. 2013)",
+          "offset_start": 1136,
+          "offset_end": 1157
+        },
+        {
+          "type": "bibr",
+          "target": "#b32",
+          "text": "Grella et al. (2015)",
+          "offset_start": 1168,
+          "offset_end": 1188
+        }
+      ]
+    },
+    {
+      "id": "p_58b19d44",
+      "text": "The sarcophagids are a more diverse group, with a total of 3,094 species, distributed in 173 genera (Pape et al. 2011) and three subfamilies (Miltogrammatinae, Paramacronychiinae, and Sarcophaginae). Approximately 800 species are known to occur in the Neotropics, and 350 have been recorded in Brazil (Pape 1996, Amorim et al. 2002). The subfamily Sarcophaginae is the richest in species and the most diverse, in biological terms, with approximately 1,800 known species and 51 genera, which have been recorded in all biogeographic regions and are common in the New World (Shewell 1987, Pape 1996, Pape et al. 2006). Most species are most effectively identified based on the characteristics of the male genitalia (Carvalho and Mello-Patiu 2008).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": "(Pape et al. 2011",
+          "offset_start": 100,
+          "offset_end": 117
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Miltogrammatinae, Paramacronychiinae, and Sarcophaginae)",
+          "offset_start": 141,
+          "offset_end": 198
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "(Pape 1996",
+          "offset_start": 301,
+          "offset_end": 311
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": ", Amorim et al. 2002)",
+          "offset_start": 311,
+          "offset_end": 332
+        },
+        {
+          "type": "bibr",
+          "target": "#b73",
+          "text": "(Shewell 1987",
+          "offset_start": 571,
+          "offset_end": 584
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": ", Pape 1996",
+          "offset_start": 584,
+          "offset_end": 595
+        },
+        {
+          "type": "bibr",
+          "target": "#b63",
+          "text": ", Pape et al. 2006",
+          "offset_start": 595,
+          "offset_end": 613
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Carvalho and Mello-Patiu 2008)",
+          "offset_start": 712,
+          "offset_end": 743
+        }
+      ]
+    },
+    {
+      "id": "p_49feed0e",
+      "text": "Most of the available studies of the geographic distribution and occurrence of calliphorid and sarcophagid species in Brazil have focused on the southern and southeastern regions (Viana and Pinheiro 1998;Leandro and D'Almeida 2005;Furusawa and Cassino 2006;Ferraz et al. 2009Ferraz et al. , 2010b;;Souza and Von Zuben 2012;Cabrini et al. 2013;Ribeiro et al. 2013), as well as the northern region (Carvalho and Couri 1991;Paraluppi and Castello ´n 1994;Paraluppi 1996;Couri et al. 2000;Esposito et al. 2009Esposito et al. , 2010;;Sousa et al. 2010Sousa et al. , 2011)), while few studies are available for the other Brazilian regions, as the midwest (Gomes et al. 2000, Barros et al. 2008, Corre ˆa et al. 2010, Koller et al. 2011) and the northeast (Vasconcelos and Araujo 2012, Silva et al. 2012b, Vasconcelos et al. 2013, Vasconcelos and Salgado 2014) and many areas have yet to be surveyed.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b87",
+          "text": "(Viana and Pinheiro 1998;",
+          "offset_start": 179,
+          "offset_end": 204
+        },
+        {
+          "type": "bibr",
+          "target": "#b44",
+          "text": "Leandro and D'Almeida 2005;",
+          "offset_start": 204,
+          "offset_end": 231
+        },
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "Furusawa and Cassino 2006;",
+          "offset_start": 231,
+          "offset_end": 257
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "Ferraz et al. 2009",
+          "offset_start": 257,
+          "offset_end": 275
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Ferraz et al. , 2010b;;",
+          "offset_start": 275,
+          "offset_end": 298
+        },
+        {
+          "type": "bibr",
+          "target": "#b77",
+          "text": "Souza and Von Zuben 2012;",
+          "offset_start": 298,
+          "offset_end": 323
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "Cabrini et al. 2013;",
+          "offset_start": 323,
+          "offset_end": 343
+        },
+        {
+          "type": "bibr",
+          "target": "#b71",
+          "text": "Ribeiro et al. 2013)",
+          "offset_start": 343,
+          "offset_end": 363
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Carvalho and Couri 1991;",
+          "offset_start": 396,
+          "offset_end": 421
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Paraluppi and Castello ´n 1994;",
+          "offset_start": 421,
+          "offset_end": 452
+        },
+        {
+          "type": "bibr",
+          "target": "#b65",
+          "text": "Paraluppi 1996;",
+          "offset_start": 452,
+          "offset_end": 467
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Couri et al. 2000;",
+          "offset_start": 467,
+          "offset_end": 485
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Esposito et al. 2009",
+          "offset_start": 485,
+          "offset_end": 505
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Esposito et al. , 2010;;",
+          "offset_start": 505,
+          "offset_end": 529
+        },
+        {
+          "type": "bibr",
+          "target": "#b78",
+          "text": "Sousa et al. 2010",
+          "offset_start": 529,
+          "offset_end": 546
+        },
+        {
+          "type": "bibr",
+          "target": "#b79",
+          "text": "Sousa et al. , 2011))",
+          "offset_start": 546,
+          "offset_end": 567
+        },
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "(Gomes et al. 2000",
+          "offset_start": 649,
+          "offset_end": 667
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": ", Barros et al. 2008",
+          "offset_start": 667,
+          "offset_end": 687
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Corre ˆa et al. 2010",
+          "offset_start": 687,
+          "offset_end": 709
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": ", Koller et al. 2011",
+          "offset_start": 709,
+          "offset_end": 729
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Vasconcelos and Araujo 2012",
+          "offset_start": 749,
+          "offset_end": 777
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Silva et al. 2012b",
+          "offset_start": 777,
+          "offset_end": 797
+        },
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": ", Vasconcelos et al. 2013",
+          "offset_start": 797,
+          "offset_end": 822
+        },
+        {
+          "type": "bibr",
+          "target": "#b85",
+          "text": ", Vasconcelos and Salgado 2014)",
+          "offset_start": 822,
+          "offset_end": 853
+        }
+      ]
+    },
+    {
+      "id": "p_9fc50a4b",
+      "text": "The Brazilian state of Maranha ˜o not only covers a vast area but is also characterized by a remarkable diversity of habitats due to its location in the transition zone between the Amazon, Cerrado, and Caatinga biomes (Ab'Saber 1977, Muniz 2006), a scenario that has stimulated considerable interest from zoologists. Given the lack of data on the fauna of calliphorids and sarcophagids found in Maranha ˜o, this study aimed to survey the local species and determine their distribution and abundance, as well as the distribution and abundance of the exotic Chrysomya species found in the state.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Ab'Saber 1977",
+          "offset_start": 218,
+          "offset_end": 232
+        },
+        {
+          "type": "bibr",
+          "target": "#b60",
+          "text": ", Muniz 2006",
+          "offset_start": 232,
+          "offset_end": 244
+        }
+      ]
+    },
+    {
+      "id": "p_a97c690a",
+      "text": "Study Area. The survey was conducted at 105 sites located in 19 municipalities distributed throughout the state of Maranha ˜o (Table 1; Fig. 1), in northeastern Brazil, between the coordinates 01 01' to 10 21' S and 41 48' to 48 40' W. The specimens were collected in traps designed specifically for the capture of saprophagous dipterans, containing 50 g of cow's lung as bait (Ferreira 1978). The traps were set at three to nine sites in each municipality in July-October 2009, August-October 2010, January, April, and October 2011, and February, May, and November 2012. Between 15 and 30 traps were set at each site, which was considered to be a sampling unit, and were replicated at a minimum distance of 2 km from one another.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Ferreira 1978",
+          "offset_start": 377,
+          "offset_end": 391
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "July-October 2009",
+          "offset_start": 460,
+          "offset_end": 477
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", August-October 2010",
+          "offset_start": 477,
+          "offset_end": 498
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", January, April, and October 2011",
+          "offset_start": 498,
+          "offset_end": 532
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", and February, May, and November 2012.",
+          "offset_start": 532,
+          "offset_end": 571
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_541e0e78",
+      "text": "The calliphorid specimens were identified using the taxonomic keys of Guimara ˜es (1977), Dear (1985), Carvalho and Ribeiro (2000), Mello (2003), Carvalho and Mello-Patiu (2008), and Kosmann et al. (2013). The sarcophagid specimens were identified using the specific keys for the genera Oxysarcodexia (Lopes 1946, Lopes andTibana 1987) and Peckia (Buenaventura and Pape 2013), as well as other studies, which despite not presenting identification keys as such, do provide illustrations of the genitalia of some genera, that permit an accurate identification of the taxa (Lopes 1939(Lopes , 1958(Lopes , 1976(Lopes , 1989;;Tibana 1976Tibana , 1981;;Lopes and Tibana 1982;Tibana and Xerez 1985;Guimara ˜es 2004). This process was further refined by comparisons with voucher specimens deposited in the entomological collection of the Museu Paraense Emı ´lio Goeldi (MPEG) in Bele ´m, Para ´(Brazil).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(1977)",
+          "offset_start": 82,
+          "offset_end": 88
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Dear (1985)",
+          "offset_start": 90,
+          "offset_end": 101
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "Carvalho and Ribeiro (2000)",
+          "offset_start": 103,
+          "offset_end": 130
+        },
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "Mello (2003)",
+          "offset_start": 132,
+          "offset_end": 144
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "Carvalho and Mello-Patiu (2008)",
+          "offset_start": 146,
+          "offset_end": 177
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Kosmann et al. (2013)",
+          "offset_start": 183,
+          "offset_end": 204
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "(Lopes 1946, Lopes and",
+          "offset_start": 301,
+          "offset_end": 323
+        },
+        {
+          "type": "bibr",
+          "target": "#b52",
+          "text": "Tibana 1987)",
+          "offset_start": 323,
+          "offset_end": 335
+        },
+        {
+          "type": "bibr",
+          "target": "#b46",
+          "text": "(Lopes 1939",
+          "offset_start": 570,
+          "offset_end": 581
+        },
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "(Lopes , 1958",
+          "offset_start": 581,
+          "offset_end": 594
+        },
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "(Lopes , 1976",
+          "offset_start": 594,
+          "offset_end": 607
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "(Lopes , 1989;;",
+          "offset_start": 607,
+          "offset_end": 622
+        },
+        {
+          "type": "bibr",
+          "target": "#b80",
+          "text": "Tibana 1976",
+          "offset_start": 622,
+          "offset_end": 633
+        },
+        {
+          "type": "bibr",
+          "target": "#b81",
+          "text": "Tibana , 1981;;",
+          "offset_start": 633,
+          "offset_end": 648
+        },
+        {
+          "type": "bibr",
+          "target": "#b51",
+          "text": "Lopes and Tibana 1982;",
+          "offset_start": 648,
+          "offset_end": 670
+        },
+        {
+          "type": "bibr",
+          "target": "#b82",
+          "text": "Tibana and Xerez 1985;",
+          "offset_start": 670,
+          "offset_end": 692
+        },
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "Guimara ˜es 2004)",
+          "offset_start": 692,
+          "offset_end": 709
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_9ed2b7dd",
+      "text": "The specimens collected in this study were deposited in the MPEG entomological collection, in the Museu de Zoologia da Universidade Federal do Para ´, also in Bele ´m, and in the teaching collection of the Prof. Cle ´sio Fonseca Laboratory of Zoology at the Universidade Estadual do Maranha ˜o in Imperatriz, Maranha ˜o (Brazil).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_ce22e9ac",
+      "text": "Data Analysis. The efficiency of the sampling of the calliphorid and sarcophagid species in the study area was verified using cumulative species curves derived from a first-order nonparametric Jackknife procedure (Colwell and Coddington 1994), with one thousand randomizations based on the number of study sites (Colwell 2013). The Jackknife 1 estimator is based on the richness of the rarest species, using the formula Jackknife ¼ Sobs þ L (n À 1/n), where Sobs ¼ the number of species observed overall, L ¼ the number of species found in a single sample, and n ¼ the number of samples (Palmer 1991, Colwell 2013).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Colwell and Coddington 1994)",
+          "offset_start": 213,
+          "offset_end": 242
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Colwell 2013)",
+          "offset_start": 312,
+          "offset_end": 326
+        },
+        {
+          "type": "bibr",
+          "target": "#b61",
+          "text": "(Palmer 1991",
+          "offset_start": 587,
+          "offset_end": 599
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": ", Colwell 2013)",
+          "offset_start": 599,
+          "offset_end": 614
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_2c8e404c",
+      "text": "The estimates of species richness were calculated in EstimateS, version 9.0 (Colwell 2013).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Colwell 2013)",
+          "offset_start": 76,
+          "offset_end": 90
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_217abf2c",
+      "text": "The calliphorid and sarcophagid species were classified in three categories (common, intermediate, and rare), based on their occurrence at the study sites surveyed in Maranha ˜o. The analysis of the records was based on indices of frequency and constancy (Silveira-Neto et al. 1976).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b76",
+          "text": "(Silveira-Neto et al. 1976)",
+          "offset_start": 255,
+          "offset_end": 282
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_f3c6902d",
+      "text": "The Frequency Index (FI) is the proportion of individuals of a given species in relation to the total sample, FI ¼ n i /N, where n i ¼ the number of specimens of species i and N ¼ the total number of specimens collected. Based on the FI values, the species were classified as dominant (D) or nondominant (ND). Dominant species were those with a FI value higher than 1/S, where S is species richness, i.e., the total number of species in the community.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_7f107f9a",
+      "text": "The Constancy Index (CI) is the percentage of samples in which a given species was present, CI ¼ p*100/N, where p ¼ the number of samples in which the species was recorded and N ¼ the total number of samples. This analysis considered the 105 study sites as individual samples. Based on their CI values, the species were classified as constant (CT), when present in more than 50% of the samples (CI > 0.50), accessory (AS) when present in 25-50% of the samples (CI ¼ 0.25-0.50), and accidental (AC) when found in fewer than 25% of samples (CI < 0.25). The species were classified based on the combination of these two indices, as common (DþCT), intermediate (DþAS; DþAC; NDþCT; NDþAS), and rare (NDþAC).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_998b7c06",
+      "text": "The species were classified in decreasing order of abundance and these data were compared with four mathematical models of abundance distribution, i.e., geometric, log series, log-normal, and broken stick, to determine the best fit of the data collected. The fit was determined using Chi-square, considering P < 0.05 (Magurran 1988). These analyses were run in the program Species Diversity and Richness 3.0 (Henderson and Seaby 2002) and the graphs were produced in Past (Hammer et al. 2001).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "(Magurran 1988",
+          "offset_start": 317,
+          "offset_end": 331
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "(Henderson and Seaby 2002)",
+          "offset_start": 408,
+          "offset_end": 434
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Hammer et al. 2001)",
+          "offset_start": 472,
+          "offset_end": 492
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_891b5f3f",
+      "text": "In total, 18,128 calliphorid specimens were collected during this study, representing 3 subfamilies (Chrysomyinae, Luciliinae, and Mesembrinellinae), 7 genera, and 14 species, 10 of which were chrysomyines. The species Hemilucilia semidiaphana (Rondani, 1850) and Paralucilia paraensis (Mello, 1969) were recorded for the first time in the state of Maranha ˜o (Table 2 the most abundant species, and the exotic species of the genus Chrysomya together contributed more than 50% of total abundance. The abundance distribution of the calliphorid community produced a best fit with the log series distribution (Fig. 2a: v 2 ¼ 12.185; P ¼ 0.430; df ¼ 12). In contrast, the abundance values recorded for the species of this family did not adjust to the geometric (Fig. 2b: v 2 ¼ 995.511; P < 0.05; df ¼ 14), broken stick (Fig. 2c: v 2 ¼ 246.508; P < 0.05; df ¼ 14) or log normal (Fig. 2d: v 2 ¼ 6.191; P < 0.05; df ¼ 12) models.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mello, 1969)",
+          "offset_start": 286,
+          "offset_end": 299
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_7459c8cf",
+      "text": "The cumulative species curve based on the total sample of the calliphorids had reached the asymptote by the end of the study (Fig. 3), with sampling efficiency (observed species richness divided by estimated 1 1 4 2 7 4 0 5 3 6 6 7 9 9 2 1 0 5 Samples (Areas) 0 5 10 15 20 25 30 Observed (Mao tau) and estimated (Jackknife 1) richness Mao Tau Jackknife 1 Fig. 3. Cumulative species richness curves (observed, Mao Tau, and estimated, Jackknife 1) for the calliphorids sampled in Maranha ˜o, Brazil, 2009-2012.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_3678b0d2",
+      "text": "richness) of 94%, which indicates that sampling effort was sufficient for the reliable measurement of the species richness of the Calliphoridae in the study area.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_db670ce7",
+      "text": "Based on the classification of the frequency and constancy of the different species, four calliphorids (28.5% of the total fauna) were considered to be common in Maranha ˜o, two species (14.3%) were classified as intermediate, and eight (57.2%) as rare (Table 1). The species C. albiceps, Co. macellaria, C. megacephala, and Chloroprocta idioidea (Robineau-Desvoidy, 1830) were all considered to be common, given that they were both dominant and constant, being found at more than half of the sites surveyed.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_7cba3a01",
+      "text": "The species L. eximia and C. putoria were classified as intermediate, due to the fact that they were not considered to be dominant. The rare group (nondominant and accidental) included three species of the genus Hemilucilia: H. semidiaphana, H. segmentaria (F., 1805), and H. benoisti Se ´guy, 1925 and two of the genus Mesembrinella Giglio-Tos 1893: Mesembrinella bicolor (F., 1805) and Mesembrinella batesi (Aldrich, 1922).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Aldrich, 1922)",
+          "offset_start": 409,
+          "offset_end": 424
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_ef8a2e2e",
+      "text": "In the case of the Sarcophagidae, a total of 14,810 specimens were collected, all of which were sarcophagines, distributed in 15 genera, 11 subgenera, and 52 species. Forty-three of these species had not previously been recorded in Maranha ˜o and 22 were not known to occur in the Brazilian northeast. Tricharaea (Sarcophagula) occidua (F., 1794) and Peckia (Sarcodexia) lambens (Wiedemann, 1830) were the most abundant species (Table 3).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_998cc276",
+      "text": "The best fit for the abundance distribution of the sarcophagids was the log normal model (Fig. 4a: v 2 ¼ 2.289; P ¼ 0.999; df ¼ 13), whereas the data were not consistent with the geometric (Fig. 4b: v 2 ¼ 24,864.8; P < 0.05; df ¼ 50), log series (Fig. 4c: v 2 ¼ 40.261; P < 0.05; df ¼ 13), or broken stick (Fig. 4d: v 2 ¼ 2.153; P < 0.05; df ¼ 13) models.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_b3216975",
+      "text": "The cumulative species curve for the sarcophagids did not reach the asymptote and was still rising at the end of the study period (Fig. 5). However, sampling efficiency (observed species richness divided by estimated richness) was 78%, indicating that the sampling effort was sufficient for the measurement of the species richness of necrophagous sarcophagids in the study area.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_100ff858",
+      "text": "Three sarcophagid species (6% of the total) were considered to be common, 5 (9%) intermediate, and the remaining 44 (85%) rare. The common species, T. (S.) occidua, Pe. (S.) lambens, and Pe. (Peckia) chrysostoma (Wiedemann), 1830, were both dominant and constant, being not only abundant but also recorded at a high proportion of the study sites (Table 2). Even though Oxysarcodexia intona (Curran and Walley, 1934) and O. thornax (Walker, 1849) were dominant species, they were classified as intermediate due to their accessory status, being recorded at between 25% and 50% of the study sites. Pe. (Squamatodes) ingens (Walker, 1849) and Pe. (Peckia) pexata (Wulp, 1895), both considered to be accessory, and Pe. (Euboettcheria) collusor (Curran and Walley 1934), which was constant, were all classified as intermediate species because they were not dominant.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_1f5e2c1a",
+      "text": "The known calliphorid fauna of Maranha ˜o represents 35% of the total number of species predicted to occur in Brazil by Mello (2003) and Kosmann et al. (2013). The estimates of the species richness of the calliphorids (Jackknife 1 and Mao Tau) indicate that the sampling effort was sufficient for the inventory of the full diversity of necrophagous species present within the study area. The number of species recorded was similar to that found in other Brazilian states, such as Para (Esposito et al. 2009, 17 species), Amazonas (Sousa et al. 2010, 16 species), Rio Grande do Sul (Viana and Pinheiro 1998, 13 species), Sa ˜o Paulo (Cabrini et al. 2013, 13 species), Roraima (Carvalho and Couri 1991, nine species), Mato Grosso (Esposito and Carvalho-Filho 2009, seven species), and Pernambuco (Vasconcelos and Salgado 2014, six species). In the state of Rio de Janeiro, however, Ferraz et al. (2010) recorded the highest species richness (26 species), equivalent to 68% of the total found in Brazil.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b57",
+          "text": "Mello (2003)",
+          "offset_start": 120,
+          "offset_end": 132
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Kosmann et al. (2013)",
+          "offset_start": 137,
+          "offset_end": 158
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Esposito et al. 2009, 17 species)",
+          "offset_start": 485,
+          "offset_end": 519
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Sousa et al. 2010, 16 species)",
+          "offset_start": 530,
+          "offset_end": 561
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Viana and Pinheiro 1998, 13 species)",
+          "offset_start": 581,
+          "offset_end": 618
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Cabrini et al. 2013, 13 species)",
+          "offset_start": 632,
+          "offset_end": 665
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Carvalho and Couri 1991",
+          "offset_start": 675,
+          "offset_end": 699
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "Ferraz et al. (2010)",
+          "offset_start": 880,
+          "offset_end": 900
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_649e5b3d",
+      "text": "Low species richness of the calliphorid fauna was registered in other regions of South America, such as Argentina, where Centeno et al. (2004) recorded 12 species in Hudson, and Mariluis et al. (2008) and Patitucci et al. (2011) recorded four and six species, respectively, in Patagonia. Beltran et al. (2012) recorded six species in Bogota",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "Centeno et al. (2004)",
+          "offset_start": 121,
+          "offset_end": 142
+        },
+        {
+          "type": "bibr",
+          "target": "#b56",
+          "text": "Mariluis et al. (2008)",
+          "offset_start": 178,
+          "offset_end": 200
+        },
+        {
+          "type": "bibr",
+          "target": "#b67",
+          "text": "Patitucci et al. (2011)",
+          "offset_start": 205,
+          "offset_end": 228
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "Beltran et al. (2012)",
+          "offset_start": 288,
+          "offset_end": 309
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_8202bc8d",
+      "text": "´, Colombia.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0b0ac5fd",
+      "text": "Of the 14 calliphorid species collected in this study, 10 were chrysomyines, 59% of the 17 species of this subfamily known to occur in Brazil (Kosmann et al. 2013). Similarly, of the four species of Hemilucilia found in Brazil (Dear 1985, Kosmann et al. 2013), three (H. semidiaphana, H. segmentaria, and H. benoisti) were recorded in Maranha ˜o. In contrast, only one of the four species of the genus Paralucilia known to occur in Brazil (P. paraensis) was collected in this study.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "(Kosmann et al. 2013)",
+          "offset_start": 142,
+          "offset_end": 163
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "(Dear 1985",
+          "offset_start": 227,
+          "offset_end": 237
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Kosmann et al. 2013)",
+          "offset_start": 237,
+          "offset_end": 259
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_c076c482",
+      "text": "In the Neotropical region, the only calliphorid species that is an obligate parasite of live tissue (i.e., a source of primary myiasis) is Co. hominivorax (Coquerel, 1858) (Guimara ˜es et al. 1983, Dear 1985). Despite this habit, Co. hominivorax also been captured using this type of bait in a number of previous studies (Viana and Pinheiro 1998, Esposito et al. 2009, Ferraz et al. 2010, Sousa et al. 2010).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "(Guimara ˜es et al. 1983",
+          "offset_start": 172,
+          "offset_end": 196
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": ", Dear 1985)",
+          "offset_start": 196,
+          "offset_end": 208
+        },
+        {
+          "type": "bibr",
+          "target": "#b87",
+          "text": "(Viana and Pinheiro 1998",
+          "offset_start": 321,
+          "offset_end": 345
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Esposito et al. 2009",
+          "offset_start": 345,
+          "offset_end": 367
+        },
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": ", Ferraz et al. 2010",
+          "offset_start": 367,
+          "offset_end": 387
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Sousa et al. 2010)",
+          "offset_start": 387,
+          "offset_end": 407
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b2ff8bd3",
+      "text": "The subfamily Luciliinae was represented by only two species, of which, L. eximia is a common species in Brazil, being found in rural areas and forests (Ferreira 1978, Linhares 1981, Madeira et al. 1982, Sousa et al. 2010). Six species of the genus Lucilia are known to occur in Brazil (Carvalho and Ribeiro 2000, Kosmann et al. 2013, Whitworth 2014).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Ferreira 1978",
+          "offset_start": 152,
+          "offset_end": 166
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": ", Linhares 1981",
+          "offset_start": 166,
+          "offset_end": 181
+        },
+        {
+          "type": "bibr",
+          "target": "#b54",
+          "text": ", Madeira et al. 1982",
+          "offset_start": 181,
+          "offset_end": 202
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Sousa et al. 2010)",
+          "offset_start": 202,
+          "offset_end": 222
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "(Carvalho and Ribeiro 2000",
+          "offset_start": 286,
+          "offset_end": 312
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Kosmann et al. 2013",
+          "offset_start": 312,
+          "offset_end": 333
+        },
+        {
+          "type": "bibr",
+          "target": "#b88",
+          "text": ", Whitworth 2014)",
+          "offset_start": 333,
+          "offset_end": 350
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_3364b84e",
+      "text": "The subfamily Mesembrinellinae was represented by the species M. bicolor and M. batesi. The mesembrinelline flies are found exclusively in the Neotropics, where they are represented by 30 species, 14 of which occur in Brazil (Guimara ˜es 1977, Kosmann et al. 2013). These flies are found in natural habitats, such as dense, humid forests (Peris and Mariluis 1984).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Guimara ˜es 1977",
+          "offset_start": 225,
+          "offset_end": 242
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": ", Kosmann et al. 2013",
+          "offset_start": 242,
+          "offset_end": 263
+        },
+        {
+          "type": "bibr",
+          "target": "#b68",
+          "text": "(Peris and Mariluis 1984)",
+          "offset_start": 338,
+          "offset_end": 363
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_79d8ba6a",
+      "text": "The calliphorid fauna recorded in Maranha ˜o was similar to that found in other Brazilian states, especially given that two of the four common species were exotic members of the genus Chrysomya (C. albiceps and C. megacephala), with a third member of this genus (C. putoria) being found among the intermediate species. However, C. albiceps predominated considerably over C. megacephala and C. putoria at most study sites.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_bafdfab3",
+      "text": "The abundance distribution of the calliphorid community conformed to a log series model, characterized by a steep curve that reflects an assemblage with a high degree of dominance. The log series model (Fisher et al. 1943) implies that the communities are not independent and require high rates of immigration to maintain their high number of rare species (Preston 1948). In these communities characterized by a high degree of dominance and low levels of abundance in the majority of species, the model predicts a smaller number of species than that observed (Magurran 1988).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(Fisher et al. 1943)",
+          "offset_start": 202,
+          "offset_end": 222
+        },
+        {
+          "type": "bibr",
+          "target": "#b70",
+          "text": "(Preston 1948)",
+          "offset_start": 356,
+          "offset_end": 370
+        },
+        {
+          "type": "bibr",
+          "target": "#b55",
+          "text": "(Magurran 1988)",
+          "offset_start": 559,
+          "offset_end": 574
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2ec4c3f0",
+      "text": "The predominance of C. albiceps in comparison with other Chrysomya species has been attributed to the feeding behavior of its larvae, which are predators of the immature stages of other dipterans (Mello et al. 1997), as well as their short development period, with the larvae incorporating the maximum possible quantity of food during the shortest possible period of time (Prado and Guimara ˜es 1982).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b58",
+          "text": "(Mello et al. 1997)",
+          "offset_start": 196,
+          "offset_end": 215
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Prado and Guimara ˜es 1982)",
+          "offset_start": 372,
+          "offset_end": 400
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_aa1b8cae",
+      "text": "The species Co. macellaria (common) and L. eximia (intermediate) are important components of the necrophilous fly fauna of South America, although the presence of Chrysomya species has been shown to interfere with their abundance. A number of studies have indicated that the exotic species C. albiceps may be responsible for the displacement or reduction in the abundance of the native species through competition (Guimara ˜es et al. 1979, Prado and Guimara ˜es 1982, D'Almeida and Fraga 2007). The species Ch. idioidea, which is also considered to be common, is also an important component of the calliphorid fauna and has been collected at a number of different sites in Brazil (Esposito et al. 2009(Esposito et al. , 2010;;Ferraz et al. 2009;Sousa et al. 2010).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b38",
+          "text": "(Guimara ˜es et al. 1979",
+          "offset_start": 414,
+          "offset_end": 438
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", Prado and Guimara ˜es 1982",
+          "offset_start": 438,
+          "offset_end": 466
+        },
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": ", D'Almeida and Fraga 2007)",
+          "offset_start": 466,
+          "offset_end": 493
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Esposito et al. 2009",
+          "offset_start": 680,
+          "offset_end": 701
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "(Esposito et al. , 2010;;",
+          "offset_start": 701,
+          "offset_end": 726
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "Ferraz et al. 2009;",
+          "offset_start": 726,
+          "offset_end": 745
+        },
+        {
+          "type": "bibr",
+          "target": "#b78",
+          "text": "Sousa et al. 2010)",
+          "offset_start": 745,
+          "offset_end": 763
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_ce0fbe07",
+      "text": "The rare calliphorid species include two members of the genus Hemilucilia Brauer, 1985, which are typical of forest habitats (D'Almeida and Lopes 1983). The species H. semidiaphana is considered to be hemisynanthropic (Viana and Pinheiro 1998). The species M. bicolor and M. batesi and all the other mesembrinellines are considered to be asynanthropic, in contrast, due to the fact that they are found exclusively in forest and apparently do not breed in any of the decomposing substrates so common in anthropogenic environments (Guimara ˜es 1977, Ferreira 1978). They were recorded in the Amazon forest zone in this study.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "Lopes 1983)",
+          "offset_start": 140,
+          "offset_end": 151
+        },
+        {
+          "type": "bibr",
+          "target": "#b87",
+          "text": "(Viana and Pinheiro 1998)",
+          "offset_start": 218,
+          "offset_end": 243
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Guimara ˜es 1977",
+          "offset_start": 529,
+          "offset_end": 546
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": ", Ferreira 1978)",
+          "offset_start": 546,
+          "offset_end": 562
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_55e7b735",
+      "text": "The number of sarcophagid species recorded in Maranha ˜o represents only around 15% of the total number of species predicted for Brazil. The estimates of species richness (Jackknife 1 and Mao Tau) indicate that the sampling effort was not sufficient for a reliable estimate of sarcophagid species richness, based on the criteria of Toti et al. (2000). However, the sampling efficiency of 78% indicates that a large proportion of the local species were recorded, at least the necrophagous species. Even so, given the large number of species known to occur in the Neotropical region, including Brazil (Pape 1996, Pape et al. 2011), and the fact that the members of this family occupy an ample diversity of habitats and are members of several different guilds (not all species are regular visitors of decomposing meat), it seems likely that 1 1 4 2 7 4 0 5 3 6 6 7 9 9 2 1 0 5 Samples (Areas) 0 10 20 30 40 50 60 70 80 Observed (Mao tau) and estimated (Jackknife 1) richness Mao Tau Jackknife 1 Fig. 5. Cumulative species richness curves (observed, Mao Tau, and estimated, Jackknife 1) for the sarcophagids sampled in Maranha ˜o, Brazil, 2009-2012.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b83",
+          "text": "Toti et al. (2000)",
+          "offset_start": 332,
+          "offset_end": 350
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "(Pape 1996",
+          "offset_start": 599,
+          "offset_end": 609
+        },
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": ", Pape et al. 2011)",
+          "offset_start": 609,
+          "offset_end": 628
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2eec199f",
+      "text": "additional sampling within the study area will result in an increase in the number of sarcophagid species known to occur in Maranha ˜o. The confirmation of new records of 43 species for Maranha ˜o and 22 for the Brazilian Northeast reinforces the need for further surveys in this region. The sarcophagid fauna of the New World is more diverse than that of the Old World, in terms of the number of species and genera, and the Neotropical region is the most diverse of all (Shewell 1987, Pape 1996, Pape et al. 2011). Approximately 800 species have been recorded in the Neotropics, of which, 350 are known to occur in Brazil (Pape 1996, Amorim et al. 2002). Even so, it seems likely that these numbers will continue to grow as new surveys are conducted.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b73",
+          "text": "(Shewell 1987",
+          "offset_start": 471,
+          "offset_end": 484
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": ", Pape 1996",
+          "offset_start": 484,
+          "offset_end": 495
+        },
+        {
+          "type": "bibr",
+          "target": "#b64",
+          "text": ", Pape et al. 2011)",
+          "offset_start": 495,
+          "offset_end": 514
+        },
+        {
+          "type": "bibr",
+          "target": "#b62",
+          "text": "(Pape 1996",
+          "offset_start": 623,
+          "offset_end": 633
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": ", Amorim et al. 2002)",
+          "offset_start": 633,
+          "offset_end": 654
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_17d2a3f6",
+      "text": "Considering that the common sarcophagid species, T. (S.) occidua and Pe. (S.) lambens, predominate over all other species, including the other common species, Pe. (Peckia) chrysostoma, reinforces their importance as components of the necrophagous sarcophagid fauna of Maranha ˜o. However, the abundance distribution of the species followed a log normal model, with a gentler slope, consistent with a more uniform community.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_e434b6d0",
+      "text": "The species Pe. (S.) lambens was also the most abundant sarcophagid on Maraca ´Island in the Brazilian state of Roraima (Lopes and Tibana 1991) and in the Serra do Navio in Amapa ´ (Couri et al. 2000), whereas T. (S.) occidua was the most abundant species at the sites surveyed in Argentina (Mulieri et al. 2008). These two species are able to adapt to a diversity of environments and have been recorded in both open habitats and forests (Mulieri et al. 2008, Sousa et al. 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b53",
+          "text": "(Lopes and Tibana 1991)",
+          "offset_start": 120,
+          "offset_end": 143
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Couri et al. 2000",
+          "offset_start": 181,
+          "offset_end": 199
+        },
+        {
+          "type": "bibr",
+          "target": "#b59",
+          "text": "(Mulieri et al. 2008)",
+          "offset_start": 291,
+          "offset_end": 312
+        },
+        {
+          "type": "bibr",
+          "target": "#b59",
+          "text": "(Mulieri et al. 2008",
+          "offset_start": 438,
+          "offset_end": 458
+        },
+        {
+          "type": "bibr",
+          "target": "#b79",
+          "text": ", Sousa et al. 2011)",
+          "offset_start": 458,
+          "offset_end": 478
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_501a4034",
+      "text": "The sarcophagid species classified as intermediate included Pe. (E.) collusor and Pe. (S.) ingens, which are capable of adapting to an ample diversity of environments. For example, Pe. (E.) collusor has been collected in areas of forest (Linhares 1981, D'Almeida 1984, Dias et al. 1984, Yepes-Gaurisas et al. 2013) as well as more open habitats (Sousa et al. 2011). Similarly, Pe. (S.) ingens has been found in both forests (Vasconcelos et al. 2013) and more open areas, such as clearings (Sousa et al. 2011).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "(Linhares 1981",
+          "offset_start": 237,
+          "offset_end": 251
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": ", D'Almeida 1984",
+          "offset_start": 251,
+          "offset_end": 267
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": ", Dias et al. 1984",
+          "offset_start": 267,
+          "offset_end": 285
+        },
+        {
+          "type": "bibr",
+          "target": "#b89",
+          "text": ", Yepes-Gaurisas et al. 2013)",
+          "offset_start": 285,
+          "offset_end": 314
+        },
+        {
+          "type": "bibr",
+          "target": "#b79",
+          "text": "(Sousa et al. 2011)",
+          "offset_start": 345,
+          "offset_end": 364
+        },
+        {
+          "type": "bibr",
+          "target": "#b86",
+          "text": "(Vasconcelos et al. 2013",
+          "offset_start": 424,
+          "offset_end": 448
+        },
+        {
+          "type": "bibr",
+          "target": "#b79",
+          "text": "(Sousa et al. 2011)",
+          "offset_start": 489,
+          "offset_end": 508
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a1e08a08",
+      "text": "The large proportion of rare species (85% of the total) found in the sample reinforces the need for further surveys, which should increase the number of necrophagous sarcophagid species known to occur in the state of Maranha ˜o.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b37e4bbe",
+      "text": "We are grateful to the Reforestation Program for the Area of Permanent Preservation of the Estreito hydroelectric reservoir in the municipality of Estreito in Maranha ˜o, coordinated by Dr. Paulo Henrique Araga ˜o Catunda of the Agronomy course at the Universidade Estadual do Maranha ˜o in Imperatriz, Maranha ˜o (Brazil). This work was supported by the Fundac ¸a ˜o de Pesquisa do estado do Maranha ˜o, Process: Universal APP-01180/2010. Thanks also to Universidade Estadual do Maranha ˜o for providing a doctoral stipend to the first author.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgments"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig. 1 .",
+      "type": "figure",
+      "desc": "Fig. 1. Location of the municipalities surveyed in the different mesoregions of the Brazilian state of Maranha ˜o between 2009 and 2012.",
+      "note": "",
+      "coords": [
+        {
+          "x": 3.0,
+          "y": 137.71,
+          "width": 132.95,
+          "height": 336.69
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "23",
+      "head": "Fig. 2 .Fig. 3 .",
+      "type": "figure",
+      "desc": "Fig. 2. Models of the abundance distribution of calliphorid species in Maranha ˜o: (a) log series, (b) geometric, (c) broken stick, and (d) log normal.",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 101.65,
+          "width": 55.79,
+          "height": 408.68
+        }
+      ]
+    },
+    {
+      "id": "fig_2",
+      "label": "45",
+      "head": "Fig. 4 .Fig. 5 .",
+      "type": "figure",
+      "desc": "Fig. 4. Models of the abundance distribution of saprophagid species in Maranha ˜o: (a) log series, (b) geometric, (c) broken stick, and (d) log normal.",
+      "note": "",
+      "coords": [
+        {
+          "x": 7.0,
+          "y": 77.61,
+          "width": 55.79,
+          "height": 456.92
+        }
+      ]
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1 .",
+      "type": "table",
+      "desc": "). C. albiceps and Co. macellaria were Municipalities surveyed in the different mesoregions (Fig.1) of the Brazilian state of Maranha ˜o between 2009 and 2012",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Municı ´pio",
+            "Geographic coordinates",
+            "Mesoregion",
+            "Study sites",
+            "Number of traps"
+          ],
+          [
+            "",
+            "South",
+            "West",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Carolina",
+            "07 12' 58.8''",
+            "47 25' 54.6''",
+            "South Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Riacha ˜o",
+            "07 25' 40.1''",
+            "46 45' 3.06''",
+            "South Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Balsas",
+            "07 27' 4.44\"",
+            "46 24' 57.02\"",
+            "South Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Estreito",
+            "06 33' 39\"",
+            "47 27' 0.3\"",
+            "South Maranha ˜o",
+            "9",
+            "18"
+          ],
+          [
+            "Esperantino ´polis",
+            "04 55' 09.02''",
+            "44 57' 09.43''",
+            "Central Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Poc ¸a ˜o de Pedras",
+            "04 49' 10.95''",
+            "44 55' 35.55''",
+            "Central Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Lago do Junco",
+            "04 36' 14.3''",
+            "45 01' 03.44''",
+            "Central Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Cajari",
+            "03 19' 18.03''",
+            "44 52' 13.06''",
+            "North Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Cajapio ´0 2 50' 19.98''",
+            "44 40' 42.72''",
+            "North Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Viana",
+            "03 12' 39.7''",
+            "44 56' 59.3''",
+            "North Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Cedral",
+            "01 57' 44.3''",
+            "44 30' 41.6''",
+            "North Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Guimaraes",
+            "02 05' 20.3''",
+            "44 33' 11.7''",
+            "North Maranha ˜o",
+            "6",
+            "30"
+          ],
+          [
+            "Ca ˆndido Mendes",
+            "01 25' 54.39''",
+            "45 30' 45.12''",
+            "West Maranha ˜o",
+            "3",
+            "15"
+          ],
+          [
+            "Turiac ¸u ´0 1 31' 07.4''",
+            "45 25' 47.2''",
+            "West Maranha ˜o",
+            "3",
+            "15"
+          ],
+          [
+            "Centro Novo do Maranha ˜o",
+            "03 37' 09.1''",
+            "46 43' 22.6''",
+            "West Maranha ˜o",
+            "9",
+            "45"
+          ],
+          [
+            "Bom Jardim",
+            "04 00' 53.04''",
+            "46 46' 48.99''",
+            "West Maranha ˜o",
+            "3",
+            "15"
+          ],
+          [
+            "Cidela ˆndia",
+            "05 07' 39.9''",
+            "47 45' 37.0''",
+            "West Maranha ˜o",
+            "3",
+            "15"
+          ],
+          [
+            "Vila Nova dos Martı ´rios",
+            "05 11' 09.4''",
+            "47 56' 41.1''",
+            "West Maranha ˜o",
+            "3",
+            "15"
+          ],
+          [
+            "Imperatriz",
+            "05 31' 33''",
+            "47 28' 38''",
+            "West Maranha ˜o",
+            "6",
+            "36"
+          ],
+          [
+            "Total",
+            "",
+            "",
+            "",
+            "105",
+            "504"
+          ]
+        ],
+        "metadata": {
+          "row_count": 22,
+          "column_count": 5,
+          "has_headers": false
+        }
+      },
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_1",
+      "label": "2",
+      "head": "Table 2 .",
+      "type": "table",
+      "desc": "Composition and total abundance of the calliphorid species found in the study area inMaranha ˜o,  Brazil, between 2009 and 2012    ",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Species",
+            "",
+            "Frequency index",
+            "",
+            "",
+            "CI",
+            "",
+            "Category",
+            "New occurrence a"
+          ],
+          [
+            "",
+            "AA",
+            "FI %",
+            "1/S %",
+            "C",
+            "O",
+            "CI%",
+            "C",
+            "",
+            ""
+          ],
+          [
+            "C. albiceps",
+            "7,326",
+            "40.41",
+            "7.14",
+            "D",
+            "101",
+            "96.19",
+            "CT",
+            "Common",
+            ""
+          ],
+          [
+            "Co. macellaria",
+            "4,787",
+            "26.41",
+            "7.14",
+            "D",
+            "99",
+            "94.29",
+            "CT",
+            "Common",
+            ""
+          ],
+          [
+            "C. megacephala",
+            "2,199",
+            "12.13",
+            "7.14",
+            "D",
+            "72",
+            "68.57",
+            "CT",
+            "Common",
+            ""
+          ],
+          [
+            "Ch. idioidea",
+            "1,910",
+            "10.54",
+            "7.14",
+            "D",
+            "65",
+            "61.90",
+            "CT",
+            "Common",
+            ""
+          ],
+          [
+            "L. eximia",
+            "1,065",
+            "5.87",
+            "7.14",
+            "ND",
+            "61",
+            "58.10",
+            "CT",
+            "Intermediate",
+            ""
+          ],
+          [
+            "C. putoria",
+            "363",
+            "2.00",
+            "7.14",
+            "ND",
+            "51",
+            "48.57",
+            "AS",
+            "Intermediate",
+            ""
+          ],
+          [
+            "M. bicolor",
+            "242",
+            "1.33",
+            "7.14",
+            "ND",
+            "14",
+            "13.33",
+            "AC",
+            "Rare",
+            ""
+          ],
+          [
+            "H. semidiaphana",
+            "190",
+            "1.05",
+            "7.14",
+            "ND",
+            "17",
+            "16.19",
+            "AC",
+            "Rare",
+            "X"
+          ],
+          [
+            "P. paraensis",
+            "17",
+            "0.09",
+            "7.14",
+            "ND",
+            "8",
+            "7.62",
+            "AC",
+            "Rare",
+            "X"
+          ],
+          [
+            "Co. hominivorax",
+            "11",
+            "0.06",
+            "7.14",
+            "ND",
+            "8",
+            "7.62",
+            "AC",
+            "Rare",
+            ""
+          ],
+          [
+            "L. sericata",
+            "10",
+            "0.06",
+            "7.14",
+            "ND",
+            "3",
+            "2.86",
+            "AC",
+            "Rare",
+            ""
+          ],
+          [
+            "H. segmentaria",
+            "6",
+            "0.03",
+            "7.14",
+            "ND",
+            "4",
+            "3.81",
+            "AC",
+            "Rare",
+            ""
+          ],
+          [
+            "H. benoisti",
+            "1",
+            "0.01",
+            "7.14",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            ""
+          ],
+          [
+            "M. batesi",
+            "1",
+            "0.01",
+            "7.14",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            ""
+          ],
+          [
+            "Total",
+            "18,128",
+            "100",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "2"
+          ],
+          [
+            "AA, absolute abundance",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 18,
+          "column_count": 9,
+          "has_headers": false
+        }
+      },
+      "note": "; FI, Frequency Index; S, observed species richness; C, class; O, occurrence; D, dominant; ND, not dominant; CT, constant; AS, accessory; AC, accidental.a New occurrence of species in Maranha ˜o.",
+      "coords": []
+    },
+    {
+      "id": "tab_2",
+      "label": "3",
+      "head": "Table 3 .",
+      "type": "table",
+      "desc": "Composition and total abundance of the sarcophagid species found in the study area inMaranha ˜o, Brazil, between 2009 and 2012    ",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Species",
+            "",
+            "Frequency index",
+            "",
+            "",
+            "CI",
+            "",
+            "Category",
+            "New occurrence (NO)"
+          ],
+          [
+            "",
+            "AA",
+            "FI %",
+            "1/S %",
+            "C",
+            "O",
+            "CI%",
+            "C",
+            "",
+            "NO a",
+            "NO b"
+          ],
+          [
+            "Tricharaea (Sarcophagula) occidua",
+            "8,452",
+            "57.07",
+            "1.92",
+            "D",
+            "70",
+            "66.67",
+            "CT",
+            "Common",
+            "",
+            ""
+          ],
+          [
+            "Pe. (Sarcodexia) lambens",
+            "2,562",
+            "17.30",
+            "1.92",
+            "D",
+            "84",
+            "80.00",
+            "CT",
+            "Common",
+            "",
+            ""
+          ],
+          [
+            "Pe. (Peckia) chrysostoma",
+            "1,249",
+            "8.43",
+            "1.92",
+            "D",
+            "92",
+            "87.62",
+            "CT",
+            "Common",
+            "X",
+            ""
+          ],
+          [
+            "O. intona",
+            "905",
+            "6.11",
+            "1.92",
+            "D",
+            "45",
+            "42.86",
+            "AS",
+            "Intermediate",
+            "",
+            ""
+          ],
+          [
+            "Oxysarcoxia thornax",
+            "358",
+            "2.42",
+            "1.92",
+            "D",
+            "41",
+            "39.05",
+            "AS",
+            "Intermediate",
+            "X",
+            ""
+          ],
+          [
+            "Pe. (Euboettcheria) collusor",
+            "266",
+            "1.80",
+            "1.92",
+            "ND",
+            "53",
+            "50.48",
+            "CT",
+            "Intermediate",
+            "X",
+            ""
+          ],
+          [
+            "Pe. (Squamatodes) ingens",
+            "146",
+            "0.99",
+            "1.92",
+            "ND",
+            "35",
+            "33.33",
+            "AS",
+            "Intermediate",
+            "X",
+            ""
+          ],
+          [
+            "Pe. (Pattonella) intermutans",
+            "129",
+            "0.87",
+            "1.92",
+            "ND",
+            "20",
+            "19.05",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Sarcofahrtiopsis cuneata",
+            "109",
+            "0.74",
+            "1.92",
+            "ND",
+            "8",
+            "7.62",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "O. fringidea",
+            "105",
+            "0.71",
+            "1.92",
+            "ND",
+            "16",
+            "15.24",
+            "AC",
+            "Rare",
+            "",
+            ""
+          ],
+          [
+            "Pe. (Peckia) pexata",
+            "86",
+            "0.58",
+            "1.92",
+            "ND",
+            "28",
+            "26.67",
+            "AS",
+            "Intermediate",
+            "X",
+            ""
+          ],
+          [
+            "O. amorosa",
+            "67",
+            "0.45",
+            "1.92",
+            "ND",
+            "17",
+            "16.19",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "O. modesta",
+            "53",
+            "0.36",
+            "1.92",
+            "ND",
+            "17",
+            "16.19",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "O. timida",
+            "53",
+            "0.36",
+            "1.92",
+            "ND",
+            "18",
+            "17.14",
+            "AC",
+            "Rare",
+            "",
+            ""
+          ],
+          [
+            "Ravinia effrenata",
+            "49",
+            "0.33",
+            "1.92",
+            "ND",
+            "11",
+            "10.48",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Pe. (Euboettcheria) anguilla",
+            "28",
+            "0.19",
+            "1.92",
+            "ND",
+            "16",
+            "15.24",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Helicobia morionella",
+            "27",
+            "0.18",
+            "1.92",
+            "ND",
+            "12",
+            "11.43",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Helicobia pilifera",
+            "25",
+            "0.17",
+            "1.92",
+            "ND",
+            "13",
+            "12.38",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "O. avuncula",
+            "14",
+            "0.09",
+            "1.92",
+            "ND",
+            "5",
+            "4.76",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Pe. (Squamatodes) trivittata",
+            "13",
+            "0.09",
+            "1.92",
+            "ND",
+            "5",
+            "4.76",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Tricharaea (Sarcophagula) canuta",
+            "13",
+            "0.09",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Retrocitomyia mizuguchiana",
+            "12",
+            "0.08",
+            "1.92",
+            "ND",
+            "10",
+            "9.52",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Ravinia belforti",
+            "9",
+            "0.06",
+            "1.92",
+            "ND",
+            "7",
+            "6.67",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Retrocitomyia urumajoensis",
+            "9",
+            "0.06",
+            "1.92",
+            "ND",
+            "6",
+            "5.71",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Pe. (Peckia) uncinata",
+            "8",
+            "0.05",
+            "1.92",
+            "ND",
+            "5",
+            "4.76",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Argoravinia rufiventris",
+            "6",
+            "0.04",
+            "1.92",
+            "ND",
+            "3",
+            "2.86",
+            "AC",
+            "Rare",
+            "",
+            ""
+          ],
+          [
+            "O. bakeri",
+            "6",
+            "0.04",
+            "1.92",
+            "ND",
+            "4",
+            "3.81",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Helicobia rapax",
+            "5",
+            "0.03",
+            "1.92",
+            "ND",
+            "3",
+            "2.86",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Villegasia almeidai",
+            "5",
+            "0.03",
+            "1.92",
+            "ND",
+            "5",
+            "4.76",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "O. admixta",
+            "4",
+            "0.03",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Titanogrypa (Cucullomyia) larvicida",
+            "4",
+            "0.03",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Helicobia aurescens",
+            "3",
+            "0.02",
+            "1.92",
+            "ND",
+            "3",
+            "2.86",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Malacophagomyia filamenta",
+            "3",
+            "0.02",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "O. vilosa",
+            "3",
+            "0.02",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Blaesoxipha (Gigantotheca) stallengi",
+            "2",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Dexosarcophaga (Bezzisca) tupinamba",
+            "2",
+            "0.01",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "",
+            ""
+          ],
+          [
+            "Dexosarcophaga (Farrimyia) carvalhoi",
+            "2",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "",
+            ""
+          ],
+          [
+            "Helicobia pilipleura",
+            "2",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Helicobia setinervis",
+            "2",
+            "0.01",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Sarcophaga (Lipoptilocnema) misella",
+            "2",
+            "0.01",
+            "1.92",
+            "ND",
+            "2",
+            "1.90",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Dexosarcophaga hugoi",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Helicobia borgmeieri",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "O. aurea",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Oxysarcodexia sp1",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "",
+            ""
+          ],
+          [
+            "Pe. (Euboettcheria) subducta",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Pe. (Pattonella) pallidipilosa",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Peckiamyia abnormalis",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Retrocitomyia retrocita",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Sarcophaga (Lipoptilocnema) crispula",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            ""
+          ],
+          [
+            "Sarcophaga (Neobellieria) polistensis",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Titanogrypa (Airypel) cryptopyga",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Titanogrypa (Cucullomyia) luculenta",
+            "1",
+            "0.01",
+            "1.92",
+            "ND",
+            "1",
+            "0.95",
+            "AC",
+            "Rare",
+            "X",
+            "X"
+          ],
+          [
+            "Total",
+            "14,810",
+            "100",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "43",
+            "22"
+          ],
+          [
+            "AA, absolute abundance; FI, frequency index; S, observed species richness; C, class; O, occurrence; D, dominant; ND, not dominant; CT, constant; AS, acces-"
+          ],
+          [
+            "sory; AC, accidental.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 57,
+          "column_count": 9,
+          "has_headers": false
+        }
+      },
+      "note": "a New occurrence of species in Maranha ˜o. b New occurrence of species in Northeast Brazil.",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Os domı ´nios morfoclima ´ticos na Ame ´rica do Sul",
+      "authors": "A Ab'saber",
+      "journal": "Geomorfologia",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "52",
+      "page_start": "1",
+      "page_end": "21"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Estado do Conhecimento dos Diptera Neotropicais",
+      "authors": [
+        "D Amorim",
+        "V Silva",
+        "M Balbi"
+      ],
+      "editors": "C. Costa, S. A. Vanin, J. M. Lobo, and A. Melic",
+      "publisher": "PRIBES. Sociedad Entomolo ´gica Aragoneza",
+      "publication_date": "2002",
+      "year": 2002,
+      "page_start": "29",
+      "page_end": "36"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Sarcophagidae (Insecta, Diptera) associados a? decomposic ¸a ˜o de carcac ¸as de Sus scrofa Linnaeus (Suidae) em a ´rea de Cerrado do Distrito Federal",
+      "authors": [
+        "R Barros",
+        "C Mello-Patiu",
+        "J Pujol-Luz"
+      ],
+      "journal": "Brasil. Rev. Bras. Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "606",
+      "page_end": "609"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in Bogota ´, Colombia",
+      "authors": [
+        "Y Beltran",
+        "N Segura",
+        "F Bello"
+      ],
+      "journal": "Neotrop. Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "41",
+      "page_start": "237",
+      "page_end": "242"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Revision of the New World genus Peckia Robineau-Desvoidy (Diptera: Sarcophagidae)",
+      "authors": [
+        "E Buenaventura",
+        "T Pape"
+      ],
+      "journal": "Zootaxa",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "3622",
+      "page_start": "1",
+      "page_end": "87"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Richness and composition of Calliphoridae in an Atlantic Forest fragment: implication for the use of dipteran species as bioindicators",
+      "authors": [
+        "I Cabrini",
+        "M Grela",
+        "C Andrade",
+        "P Thyssen"
+      ],
+      "journal": "Biodivers. Conserv",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "22",
+      "page_start": "2635",
+      "page_end": "2643"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "Muscidae, Fanniidae and Calliphoridae (Dı ´ptera) do Projeto Maraca ´, Roraima",
+      "authors": [
+        "C Carvalho",
+        "M Couri"
+      ],
+      "journal": "Brasil. Acta Amaz",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "21",
+      "page_start": "35",
+      "page_end": "43"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Keys to the adults of the most common forensic species of Diptera in South America",
+      "authors": [
+        "C Carvalho",
+        "C Mello-Patiu"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "52",
+      "page_start": "390",
+      "page_end": "406"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Chave de identificac ¸a ˜o das espe ´cies de Calliphoridae (Diptera) do sul do Brasil",
+      "authors": [
+        "C Carvalho",
+        "P Ribeiro"
+      ],
+      "journal": "Rev. Bras. Parasitol",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Diversity of Calliphoridae (Insecta: Diptera) in Hudson",
+      "authors": [
+        "N Centeno",
+        "D Almorza",
+        "C Arnillas"
+      ],
+      "journal": "Neotrop. Entomol",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "33",
+      "page_start": "387",
+      "page_end": "390"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Estimates: statistical estimation of species richness and shared species from samples. Version 9",
+      "authors": "R Colwell",
+      "publication_date": "2013",
+      "year": 2013,
+      "urls": [
+        "http://purl.oclc.org/estimates",
+        "http://purl.oclc.org/estimates"
+      ]
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Estimating terrestrial biodiversity through extrapolation",
+      "authors": [
+        "R Colwell",
+        "J Coddington"
+      ],
+      "journal": "Philos. Trans. R. Soc. Lond. B Biol. Sci",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "345",
+      "page_start": "101",
+      "page_end": "118"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Abundancia relativa e sazonalidade de espe ´cies de Chrysomya (Diptera: Calliphoridae) no Pantanal Sul Mato -Grossense",
+      "authors": [
+        "E Correa",
+        "W Koller",
+        "A Barros"
+      ],
+      "journal": "Brasil. Rev. Bras. Parasitol. Vet",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "19",
+      "page_start": "85",
+      "page_end": "88"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Dı ´pteros da Serra do Navio (Amapa ´, Brasil): Asilidae, Bolbilidae, Calliphoridae, Micropezidae, Muscidae, Sarcophagidae, Stratiomyiidae, Syrphidae, Tabanidae and Tachinidae",
+      "authors": [
+        "M Couri",
+        "C Lamas",
+        "C Aires",
+        "C Mello-Patiu",
+        "V Maia",
+        "D Pamplona",
+        "P Magno"
+      ],
+      "journal": "Rev. Bras. Zoocie ˆnc",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "2",
+      "page_start": "91",
+      "page_end": "100"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "authors": "J D'almeida",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "7",
+      "page_start": "101",
+      "page_end": "110"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Efeito de diferentes iscas na atrac ¸a ˜o de califorı ´deos (Diptera) no Campus do Valonguinho",
+      "authors": [
+        "J D'almeida",
+        "M Fraga"
+      ],
+      "journal": "Brasil. Rev. Bras. Parasitol. Vet",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "16",
+      "page_start": "199",
+      "page_end": "204",
+      "notes": "RJ Nitero ´i"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Sinantropia de dı ´pteros caliptratos (Calliphoridae) no Estado do Rio de Janeiro",
+      "authors": [
+        "J D'almeida",
+        "H Lopes"
+      ],
+      "journal": "Arq. Univ. Fed. Rural Rio de Janeiro",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "6",
+      "page_start": "39",
+      "page_end": "48"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "A revision of the new world Chrysomyini (Diptera: Calliphoridae)",
+      "authors": "J Dear",
+      "journal": "Rev. Bras. Zool",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "3",
+      "page_start": "109",
+      "page_end": "169"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Estudos sobre a fauna de Sarcophagidae (Diptera) de Belo Horizonte, Minas Gerais. I. Levantamento taxono ˆmico e sinantro ´pico",
+      "authors": [
+        "E Dias",
+        "D Neves",
+        "H Lopes"
+      ],
+      "journal": "Mem. Inst. Oswaldo Cruz",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "79",
+      "page_start": "83",
+      "page_end": "91"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "The exotic species of Chrysomya (Diptera, Calliphoridae) in the Amazonia: why they don't occur in the Ferreira Penna Cientific Station",
+      "authors": "M Esposito",
+      "editors": "P Lisboa",
+      "publication_date": "1997",
+      "year": 1997,
+      "page_start": "361",
+      "page_end": "367"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Moscas Varejeiras",
+      "authors": [
+        "M Esposito",
+        "F Carvalho-Filho"
+      ],
+      "publication_date": "2009",
+      "year": 2009,
+      "page_start": "30",
+      "page_end": "32"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Os Animais da Tanguro Mato Grosso-Diversidade na Zona de Transic ¸a ˜o entre Floresta Amazo ˆnica e o Cerrado. Museu Paraense Emı ´lio Goeldi, Bele ´m",
+      "editors": "A.C.M. Oliveira, J. B. Santos, and M. C. Santos"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Diversidade de Calliphoridae (Insecta, Diptera) em ambientes de matas e pro ´ximos de habitac ¸o ˜es da Estac ¸a ˜o Cientı ´fica Ferreira Penna (ECFPn)",
+      "authors": [
+        "M Esposito",
+        "J Sousa",
+        "F Carvalho-Filho"
+      ],
+      "editors": "P Lisboa",
+      "publication_date": "2009",
+      "year": 2009,
+      "page_start": "461",
+      "page_end": "469",
+      "notes": "Melgac ¸o/PA, e da cidade de Portel/PA"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Diversidade de Calliphoridae (Insecta: Diptera) na base de extrac ¸a ˜o petrolı ´fera da Bacia do Rio Urucu, na Amazo ˆnia brasileira",
+      "authors": [
+        "M Esposito",
+        "J Sousa",
+        "F Carvalho Filho"
+      ],
+      "journal": "Acta Amaz",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "40",
+      "page_start": "579",
+      "page_end": "584"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Ana ´lise faunı ´stica de Calliphoridae (Diptera) da Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u, Rio de Janeiro",
+      "authors": [
+        "A Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "2009",
+      "year": 2009,
+      "volume": "53",
+      "page_start": "620",
+      "page_end": "628"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biolo ´gica do Tingua ´, Nova Iguac ¸u",
+      "authors": [
+        "A Ferraz",
+        "B Gadelha",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "RJ. Braz. J. Biol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "70",
+      "page_start": "55",
+      "page_end": "63"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Sinantropia de dı ´pteros musco ´ides de Curitiba, Parana ´. I. Calliphoridae",
+      "authors": "M Ferreira",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "38",
+      "page_start": "445",
+      "page_end": "454"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Sinantropia de dı ´pteros musco ´ides de Curitiba, Parana ´. II. Sarcophagidae",
+      "authors": "M Ferreira",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1979",
+      "year": 1979,
+      "volume": "39",
+      "page_start": "773",
+      "page_end": "781"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Sinantropia de Calliphoridae (Diptera) em Goia ˆnia, Goia ´s",
+      "authors": "M Ferreira",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "43",
+      "page_start": "199",
+      "page_end": "210"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "The relation between the number of species and the number of individuals in a random sample of an animal population",
+      "authors": [
+        "R Fisher",
+        "A Corbet",
+        "C Williams"
+      ],
+      "journal": "J. Anim. Ecol",
+      "publication_date": "1943",
+      "year": 1943,
+      "volume": "12",
+      "page_start": "42",
+      "page_end": "58"
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Ocorre ˆncia e distribuic ¸a ˜o da Calliphoridae (Dı ´ptera, Oestroidea) em um fragmento de Mata Atla ˆntica secunda ´ria no municı ´pio de Engenheiro Paulo de Frontin, Me ´dio Paraı ´ba",
+      "authors": [
+        "G Furusawa",
+        "P Cassino"
+      ],
+      "journal": "RJ. Rev. Biol. Cie ˆnc. Terra",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "6",
+      "page_start": "152",
+      "page_end": "164"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Sazonalidade da moscavarejeira, Cochliomyia macellaria (Dı ´ptera: Calliphoridae) na regia ˜o dos cerrados",
+      "authors": [
+        "A Gomes",
+        "W Koller",
+        "A Barros"
+      ],
+      "journal": "Rev. Bras. Parasitol. Vet",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "page_start": "125",
+      "page_end": "128"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Phenotypic polymorphism of Chrysomya albiceps (Wiedemann) (Diptera: Calliphoridae) may lead to species misidentification",
+      "authors": [
+        "M Grella",
+        "A Savino",
+        "D Paulo",
+        "F Mendes",
+        "A Azeredo-Espin",
+        "M Queiroz",
+        "P Thyssen",
+        "A Linhares"
+      ],
+      "journal": "Acta Trop",
+      "publication_date": "2015",
+      "year": 2015,
+      "volume": "141",
+      "page_start": "60",
+      "page_end": "72"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "Flies and disease-ecology, classification and biotic association",
+      "authors": "B Greenberg",
+      "publisher": "University Press",
+      "publication_date": "1971",
+      "year": 1971,
+      "volume": "1",
+      "pages": "856"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "A systematic revision of the Mesembrinellidae, stat. nov. (Diptera, Cyclorrapha)",
+      "authors": "J Guimara ˜es",
+      "journal": "Arq. Zool",
+      "publication_date": "1977",
+      "year": 1977,
+      "volume": "29",
+      "page_start": "1",
+      "page_end": "109"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Redescric ¸a ˜o dos machos de dez espe ´cies Neotropicais de Ravinia Robineau-Desvoidy, 1863 (Diptera, Sarcophagidae)",
+      "authors": "J Guimara ˜es",
+      "journal": "Arq. Mus. Nac. Rio de Janeiro",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "62",
+      "page_start": "45",
+      "page_end": "66"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Myasis of man and animals in the neotropical region, 380 p. Editora Ple ˆiade",
+      "authors": [
+        "J Guimara ˜es",
+        "N Papavero"
+      ],
+      "publisher": "Sa ˜o Paulo",
+      "publication_date": "1999",
+      "year": 1999
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Three newly introduced blowfly species in southern Brazil (Diptera, Calliphoridae)",
+      "authors": [
+        "J Guimara ˜es",
+        "A Prado",
+        "A Linhares"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "22",
+      "page_start": "53",
+      "page_end": "60"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "Dispersal and distribution of three newly introduced species of Chrysomya Robineau-Desvoidy in Brazil (Diptera: Calliphoridae)",
+      "authors": [
+        "J Guimara ˜es",
+        "A Prado",
+        "G Buralli",
+        "J",
+        "N Papavero",
+        "A Prado"
+      ],
+      "publication_date": "1979",
+      "year": 1979,
+      "volume": "23",
+      "page_start": "239",
+      "page_end": "416",
+      "notes": "As miı ´ases na regia ˜o Neotropical: identificac ¸a ˜o, biologia e bibliografia Rev. Bras. Zool."
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "title": "Myiasis of human and domestic animals",
+      "authors": [
+        "M Hall",
+        "R Wall"
+      ],
+      "journal": "Adv. Parasitol",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "35",
+      "page_start": "257",
+      "page_end": "334"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "PAST. Paleontological statistics software package for education and data analysis",
+      "authors": [
+        "O Hammer",
+        "D Harper",
+        "P Ryan"
+      ],
+      "journal": "Palaeontol. Electron",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "41",
+      "page_start": "1",
+      "page_end": "9"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Species diversity and richness III v 3.0.2. Pisces Conservation Inc",
+      "authors": [
+        "P Henderson",
+        "R Seaby"
+      ],
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Abundance and seasonality of Cochliomyia macellaria (Diptera: Calliphoridae) in Southern Pantanal",
+      "authors": [
+        "W Koller",
+        "A Barros",
+        "E Corre ˆa"
+      ],
+      "journal": "Brazil. Rev. Bras. Parasitol. Vet",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "20",
+      "page_start": "27",
+      "page_end": "30"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "A list of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with key to the Brazilian species",
+      "authors": [
+        "C Kosmann",
+        "R Mello",
+        "E Harterreiten-Souza",
+        "J Pujol-Luz"
+      ],
+      "journal": "EntomoBrasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "74",
+      "page_end": "85"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "title": "Levantamento de Calliphoridae, Fanniidae, Muscidae e Sarcophagidae em um fragmento de mata na Ilha do Governador",
+      "authors": [
+        "M Leandro",
+        "J D'almeida"
+      ],
+      "journal": "Brasil. Iheringia Ser. Zool",
+      "publisher": "Rio de Janeiro",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "95",
+      "page_start": "377",
+      "page_end": "381"
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Synanthropy of Calliphoridae and Sarcophagidae (Diptera) in the city of Campinas, Sa ˜o Paulo",
+      "authors": "A Linhares",
+      "journal": "Brasil. Rev. Bras. Entomol",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "25",
+      "page_start": "189",
+      "page_end": "215"
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Contribuic ¸a ˜o ao conhecimento do ge ˆnero Helicobia Coquillett (Diptera, Sarcophagidae)",
+      "authors": "H Lopes",
+      "journal": "Rev. Entomol",
+      "publication_date": "1939",
+      "year": 1939,
+      "volume": "10",
+      "page_start": "497",
+      "page_end": "517"
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "Contribuic ¸a ˜o ao conhecimento das espe ´cies do ge ˆnero Oxysarcodexia Townsend, 1917 (Diptera, Sarcophagidae)",
+      "authors": "H Lopes",
+      "journal": "Bol. Esc. Nac. Vet",
+      "publication_date": "1946",
+      "year": 1946,
+      "volume": "1",
+      "page_start": "62",
+      "page_end": "134"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "Considerac ¸o ˜es sobre as espe ´cies de Peckia Desvoidy, 1830 e de ge ˆneros afins. (Diptera, Sarcophagidae)",
+      "authors": "H Lopes",
+      "journal": "An. Acad. Bras. Cienc",
+      "publication_date": "1958",
+      "year": 1958,
+      "volume": "30",
+      "page_start": "211",
+      "page_end": "239"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "On the holotypes, mostly females of Sarcophagidae (Diptera) described by Francis Walker",
+      "authors": "H Lopes",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1976",
+      "year": 1976,
+      "volume": "36",
+      "page_start": "629",
+      "page_end": "146"
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "title": "On American Sarcophagidae (Diptera) with revision of Pekiamyia Dodge",
+      "authors": "H Lopes",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "49",
+      "page_start": "837",
+      "page_end": "845"
+    },
+    {
+      "id": "b52",
+      "target": "b51",
+      "title": "Sarcophagid flies (Diptera) from Sinop, state of Mato Grosso",
+      "authors": [
+        "H Lopes",
+        "R Tibana"
+      ],
+      "journal": "Brazil. Mem. Inst. Oswaldo Cruz",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "77",
+      "page_start": "285",
+      "page_end": "298"
+    },
+    {
+      "id": "b53",
+      "target": "b52",
+      "title": "On Oxysarcodexia (Diptera, Sarcophagidae), with descriptions of five new species, key, list and geographic distribution of the species",
+      "authors": [
+        "H Lopes",
+        "R Tibana"
+      ],
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "47",
+      "page_start": "329",
+      "page_end": "347"
+    },
+    {
+      "id": "b54",
+      "target": "b53",
+      "title": "Sarcophagidae (Dı ´ptera) de Roraima",
+      "authors": [
+        "H Lopes",
+        "R Tibana"
+      ],
+      "journal": "Brasil. Acta Amaz",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "21",
+      "page_start": "151",
+      "page_end": "159"
+    },
+    {
+      "id": "b55",
+      "target": "b54",
+      "title": "Contribuic ¸a ˜o ao conhecimento da fauna de Calliphoridae (Diptera) sinantro ´picos de Pampulha",
+      "authors": [
+        "N Madeira",
+        "E Dias",
+        "C Mascarenhas"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "26",
+      "page_start": "137",
+      "page_end": "140"
+    },
+    {
+      "id": "b56",
+      "target": "b55",
+      "title": "Ecological diversity and its measurement",
+      "authors": "A Magurran",
+      "publisher": "Princeton University Press",
+      "publication_date": "1988",
+      "year": 1988,
+      "pages": "179"
+    },
+    {
+      "id": "b57",
+      "target": "b56",
+      "title": "Calliphoridae (Diptera) from wild, suburban, and urban sites at three Southeast Patagonian localities",
+      "authors": [
+        "J Mariluis",
+        "J Schnack",
+        "P Mulieri",
+        "L Patitucci"
+      ],
+      "journal": "Rev. Soc. Entomol. Argent",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "67",
+      "page_start": "107",
+      "page_end": "114"
+    },
+    {
+      "id": "b58",
+      "target": "b57",
+      "title": "Chave para identificac ¸a ˜o das formas adultas das espe ´cies da famı ´lia Calliphoridae (Dı ´ptera, Brachycera, Cyclorrhapha) encontradas no Brasil",
+      "authors": "R Mello",
+      "journal": "Entomol. Vectores",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "page_start": "255",
+      "page_end": "268"
+    },
+    {
+      "id": "b59",
+      "target": "b58",
+      "title": "Relac ¸o ˜es tro ´ficas entre dı ´pteros caliptrados (Calliphoridae, Faniidae, Muscidae and Sarcophagidae) encontrados no Brasil",
+      "authors": [
+        "R Mello",
+        "J D'almeida",
+        "S Oliveira"
+      ],
+      "journal": "Entomol. Vectores",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "4",
+      "page_start": "111",
+      "page_end": "121"
+    },
+    {
+      "id": "b60",
+      "target": "b59",
+      "title": "Flesh flies species (Diptera: Sarcophagidae",
+      "authors": [
+        "P Mulieri",
+        "J Schnack",
+        "J Mariluis",
+        "J Torretta"
+      ],
+      "journal": "Nature Reserve of Buenos Aires",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "56",
+      "page_start": "1287",
+      "page_end": "1294",
+      "notes": "Argentina. Rev. Biol. Trop."
+    },
+    {
+      "id": "b61",
+      "target": "b60",
+      "title": "A vegetac ¸a ˜o de transic ¸a ˜o entre a Amazo ˆnia e o nordeste: diversidade e estrutura",
+      "authors": "F Muniz",
+      "journal": "Se ´rie Agroecol. UEMA",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "2",
+      "page_start": "53",
+      "page_end": "69"
+    },
+    {
+      "id": "b62",
+      "target": "b61",
+      "title": "Estimating species richness: the second-order jackknife reconsidered",
+      "authors": "M Palmer",
+      "journal": "Ecology",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "72",
+      "page_start": "1512",
+      "page_end": "1513"
+    },
+    {
+      "id": "b63",
+      "target": "b62",
+      "title": "Catalogue of the Sarcophagidae of the World (Insecta: Diptera)",
+      "authors": "T Pape",
+      "journal": "Mem. Entomol. Int",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "8",
+      "page_start": "1",
+      "page_end": "558"
+    },
+    {
+      "id": "b64",
+      "target": "b63",
+      "title": "The world of flesh flies (Diptera: Sarcophagidae)",
+      "authors": [
+        "T Pape",
+        "G Dahlem",
+        "C Mello Patiu",
+        "M Giroux"
+      ],
+      "publication_date": "2006",
+      "year": 2006,
+      "urls": [
+        "http://www.zmuc.dk/entoweb/sarco-web/sarcweb/Intro/Intro.htm",
+        "http://www.zmuc.dk/entoweb/sarco-web/sarcweb/Intro/Intro.htm"
+      ]
+    },
+    {
+      "id": "b65",
+      "target": "b64",
+      "title": "Animal biodiversity: an outline of higher-level classification and survey of taxonomic richness",
+      "authors": [
+        "T Pape",
+        "V Blagoderov",
+        "M Mostovski"
+      ],
+      "editors": "Z Zhang",
+      "publication_date": "1758",
+      "volume": "3148",
+      "page_start": "1",
+      "page_end": "237"
+    },
+    {
+      "id": "b66",
+      "target": "b65",
+      "title": "Calliphoridae (Diptera) da Bacia do Alto Rio Urucu, Amazo ˆnia Central",
+      "authors": "N Paraluppi",
+      "journal": "Brasil. Rev. Bras. Zool",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "13",
+      "page_start": "553",
+      "page_end": "559"
+    },
+    {
+      "id": "b67",
+      "target": "b66",
+      "title": "Castello ´n. 1994. Calliphoridae (Diptera) em Manaus. I. Levantamento taxono ˆmico e sazonalidade",
+      "authors": [
+        "N Paraluppi",
+        "E"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "volume": "38",
+      "page_start": "661",
+      "page_end": "668"
+    },
+    {
+      "id": "b68",
+      "target": "b67",
+      "title": "Species composition and heterogeneity of blowflies assemblages (Diptera: Calliphoridae) in urban-rural gradients at regional scale in Argentinean Patagonia",
+      "authors": [
+        "L Patitucci",
+        "P Mulieri",
+        "J Schnack",
+        "J Mariluis"
+      ],
+      "journal": "Stud. Neotrop. Fauna Environ",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "46",
+      "page_start": "49",
+      "page_end": "58"
+    },
+    {
+      "id": "b69",
+      "target": "b68",
+      "title": "Notes on Mesembrinellidae",
+      "authors": [
+        "S Peris",
+        "J Mariluis"
+      ],
+      "journal": "EOS Rev. Esp. Entomol",
+      "publication_date": "1984",
+      "year": 1984,
+      "volume": "60",
+      "page_start": "251",
+      "page_end": "265"
+    },
+    {
+      "id": "b70",
+      "target": "b69",
+      "title": "Estado atual de dispersa ˜o e distribuic ¸a ˜o do ge ˆnero Chrysomya Robineau-Desvoidy na Regia ˜o Neotropical (Diptera: Calliphoridae)",
+      "authors": [
+        "A Prado",
+        "J"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "26",
+      "page_start": "225",
+      "page_end": "231",
+      "notes": "Guimara ˜es"
+    },
+    {
+      "id": "b71",
+      "target": "b70",
+      "title": "The commonness, and rarity, of species",
+      "authors": "F Preston",
+      "journal": "Ecology",
+      "publication_date": "1948",
+      "year": 1948,
+      "volume": "29",
+      "page_start": "254",
+      "page_end": "283"
+    },
+    {
+      "id": "b72",
+      "target": "b71",
+      "title": "First Record of Chrysomya rufifacies (Macquart) (Diptera, Calliphoridae) in Southeastern Brazil",
+      "authors": [
+        "A Ribeiro",
+        "D Cardoso",
+        "C Lessa",
+        "G Moya-Borja",
+        "V Aguiar"
+      ],
+      "journal": "EntomoBrasilis",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "6",
+      "page_start": "245",
+      "page_end": "247"
+    },
+    {
+      "id": "b73",
+      "target": "b72",
+      "title": "The science of forensic entomology",
+      "authors": [
+        "D Rivers",
+        "G Dahlem"
+      ],
+      "publisher": "John Wiley & Sons",
+      "publication_date": "2014",
+      "year": 2014,
+      "pages": "382"
+    },
+    {
+      "id": "b74",
+      "target": "b73",
+      "title": "Manual of Neartic Diptera",
+      "authors": "G Shewell",
+      "editors": "J Mcalpine",
+      "publication_date": "1987",
+      "year": 1987,
+      "page_start": "1159",
+      "page_end": "1186",
+      "notes": "Sarcophagidae"
+    },
+    {
+      "id": "b75",
+      "target": "b74",
+      "title": "First record of Chrysomya rufifacies (Macquart) (Diptera, Calliphoridae) from Brazil",
+      "authors": [
+        "J Silva",
+        "F Carvalho-Filho",
+        "M Esposito",
+        "G Reis"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "56",
+      "page_start": "115",
+      "page_end": "118"
+    },
+    {
+      "id": "b76",
+      "target": "b75",
+      "title": "Califorı ´deos (Diptera) de interesse forense colonizadores de cada ´veres de suı ´nos (Sus scrofa Linnaeus, 1758) em a ´rea de cerrado na A ´rea de Protec ¸a ˜o Ambiental (APA) Municipal do Inhamum",
+      "authors": [
+        "J Silva",
+        "F Carvalho-Filho",
+        "M Esposito"
+      ],
+      "editors": "M Barros",
+      "journal": "Editora da Universidade Estadual do Maranha ˜o",
+      "publication_date": "2012",
+      "year": 2012,
+      "page_start": "43",
+      "page_end": "58",
+      "notes": "Biodiversidade na a ´rea de protec ¸a ˜o ambiental municipal do Inhamum"
+    },
+    {
+      "id": "b77",
+      "target": "b76",
+      "authors": [
+        "S Silveira-Neto",
+        "O Nakano",
+        "D Barbin",
+        "N Villa",
+        "Nova"
+      ],
+      "journal": "Manual de Ecologia de Insetos",
+      "publisher": "Sa ˜o Paulo",
+      "publication_date": "1976",
+      "year": 1976,
+      "pages": "419"
+    },
+    {
+      "id": "b78",
+      "target": "b77",
+      "title": "Diversity and synanthropy of Calliphoridae (Diptera) in the region of Rio Claro, SP, Brazil",
+      "authors": [
+        "C Souza",
+        "C Von Zuben"
+      ],
+      "journal": "Neotrop. Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "41",
+      "page_start": "243",
+      "page_end": "248"
+    },
+    {
+      "id": "b79",
+      "target": "b78",
+      "title": "A fauna de califorı ´deos (Dı ´ptera) das matas e clareiras com diferentes coberturas vegetais da Base de Extrac ¸a ˜o Petrolı ´fera, bacia do Rio Urucu",
+      "authors": [
+        "J Sousa",
+        "M Esposito",
+        "F Carvalho-Filho"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "54",
+      "page_start": "270",
+      "page_end": "276"
+    },
+    {
+      "id": "b80",
+      "target": "b79",
+      "title": "Composition, abundance and richness of Sarcophagidae (Diptera: Oestroidea) in forests and forest gaps with different vegetation cover",
+      "authors": [
+        "J Sousa",
+        "M Esposito",
+        "F Carvalho-Filho"
+      ],
+      "journal": "Neotrop. Entomol",
+      "publication_date": "2011",
+      "year": 2011,
+      "volume": "40",
+      "page_start": "20",
+      "page_end": "27"
+    },
+    {
+      "id": "b81",
+      "target": "b80",
+      "title": "Duas redescric ¸o ˜es e uma descric ¸a ˜o de espe ´cie nova do ge ˆnero Helicobia (Diptera, Sarcophagidae)",
+      "authors": "R Tibana",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1976",
+      "year": 1976,
+      "volume": "36",
+      "page_start": "723",
+      "page_end": "729"
+    },
+    {
+      "id": "b82",
+      "target": "b81",
+      "title": "Estudo sobre 7 espe ´cies de Helicobia Coquillett, 1895. (Diptera, Sarcophagidae)",
+      "authors": "R Tibana",
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1981",
+      "year": 1981,
+      "volume": "41",
+      "page_start": "625",
+      "page_end": "634"
+    },
+    {
+      "id": "b83",
+      "target": "b82",
+      "title": "Uma nova espe ´cie de Retrocitomyia Lopes, 1982, (Diptera, Sarcophagidae)",
+      "authors": [
+        "R Tibana",
+        "R Xerez"
+      ],
+      "journal": "Rev. Bras. Biol",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "45",
+      "page_start": "485",
+      "page_end": "488"
+    },
+    {
+      "id": "b84",
+      "target": "b83",
+      "title": "A Structured inventory of Appalachian grass bald and heath bald spider assemblages and a test of species richness estimator performance",
+      "authors": [
+        "D Toti",
+        "F Coyle",
+        "J Miller"
+      ],
+      "journal": "J. Arachn",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "28",
+      "page_start": "329",
+      "page_end": "345"
+    },
+    {
+      "id": "b85",
+      "target": "b84",
+      "title": "Necrophagous species of Diptera and Coleoptera in northeastern Brazil: state of the art and challenges for the forensic entomologist",
+      "authors": [
+        "S Vasconcelos",
+        "M Arau ´jo"
+      ],
+      "journal": "Rev. Bras. Entomol",
+      "publication_date": "2012",
+      "year": 2012,
+      "volume": "56",
+      "page_start": "7",
+      "page_end": "14"
+    },
+    {
+      "id": "b86",
+      "target": "b85",
+      "title": "First record of six calliphoridae (diptera) species in a seasonally dry tropical forest in brazil: evidence for the establishment of invasive species",
+      "authors": [
+        "S Vasconcelos",
+        "R Salgado"
+      ],
+      "journal": "Fla. Entomol",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "97",
+      "page_start": "814",
+      "page_end": "816"
+    },
+    {
+      "id": "b87",
+      "target": "b86",
+      "title": "Dipterans associated with a decomposing animal carcass in a rainforest fragment in Brazil: notes on the early arrival and colonization by necrophagous species",
+      "authors": [
+        "S Vasconcelos",
+        "T Cruz",
+        "R Salgado",
+        "P Thyssen"
+      ],
+      "journal": "J. Insect Sci",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "13",
+      "pages": "145"
+    },
+    {
+      "id": "b88",
+      "target": "b87",
+      "title": "Conservac ¸a ˜o da biodiversidade em fragmentos florestais",
+      "authors": [
+        "M Viana",
+        "L Pinheiro"
+      ],
+      "journal": "Se ´rie Te ´cnica IPEF",
+      "publication_date": "1998",
+      "year": 1998,
+      "volume": "12",
+      "page_start": "25",
+      "page_end": "42"
+    },
+    {
+      "id": "b89",
+      "target": "b88",
+      "title": "A revision of the Neotropical species of Lucilia Robineau-Desvoidy (Diptera: Calliphoridae)",
+      "authors": "T Whitworth",
+      "journal": "Zootaxa",
+      "publication_date": "2014",
+      "year": 2014,
+      "volume": "3810",
+      "page_start": "1",
+      "page_end": "76"
+    },
+    {
+      "id": "b90",
+      "target": "b89",
+      "title": "Synanthropy of Sarcophagidae (Diptera) in La Pintada, Antioquia-Colombia",
+      "authors": [
+        "D Yepes-Gaurisas",
+        "J Sanchez-Rodriguez",
+        "C Mello-Patiu",
+        "E Wolff"
+      ],
+      "journal": "Rev. Biol. Trop",
+      "publication_date": "2013",
+      "year": 2013,
+      "volume": "61",
+      "page_start": "1275",
+      "page_end": "1287"
+    },
+    {
+      "id": "b91",
+      "target": "b90",
+      "title": "Myiasis in man and animals in the Old World",
+      "authors": "F Zumpt",
+      "publication_date": "1965",
+      "year": 1965,
+      "pages": "267"
+    }
+  ]
+}

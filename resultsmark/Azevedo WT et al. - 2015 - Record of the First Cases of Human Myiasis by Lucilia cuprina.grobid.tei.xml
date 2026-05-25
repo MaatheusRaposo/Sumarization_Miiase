@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Record of the First Cases of Human Myiasis by&lt;i&gt;Lucilia cuprina&lt;/i&gt;(Diptera: Calliphoridae), Rio de Janeiro, Brazil</title>
+				<funder ref="#_cavz9JY">
+					<orgName type="full">Financiadora de Estudos e Projetos and Universidade Federal do Estado do Rio de Janeiro</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Oxford University Press (OUP)</publisher>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2015-09-01">2015-09-01</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Wellington</forename><forename type="middle">Thadeu De Alcantara</forename><surname>Azevedo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Adriana</forename><forename type="middle">Leal De</forename><surname>Figueiredo</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Rafaela</forename><forename type="middle">Pereira De</forename><surname>Carvalho</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Gustavo</forename><forename type="middle">Abrantes</forename><surname>Lemos</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Pôla</forename><forename type="middle">Francine Cassiano Morais</forename><surname>Silva</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Taís</forename><forename type="middle">Auricchio De</forename><surname>Miranda</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Cláudia</forename><forename type="middle">Soares Santos</forename><surname>Lessa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Valéria</forename><forename type="middle">Magalhães</forename><surname>Aguiar</surname></persName>
+						</author>
+						<title level="a" type="main">Record of the First Cases of Human Myiasis by&lt;i&gt;Lucilia cuprina&lt;/i&gt;(Diptera: Calliphoridae), Rio de Janeiro, Brazil</title>
+					</analytic>
+					<monogr>
+						<title level="j" type="main">Journal of Medical Entomology</title>
+						<title level="j" type="abbrev">J Med Entomol</title>
+						<idno type="ISSN">0022-2585</idno>
+						<idno type="eISSN">1938-2928</idno>
+						<imprint>
+							<publisher>Oxford University Press (OUP)</publisher>
+							<biblScope unit="volume">52</biblScope>
+							<biblScope unit="issue">6</biblScope>
+							<biblScope unit="page" from="1368" to="1373"/>
+							<date type="published" when="2015-09-01" />
+						</imprint>
+					</monogr>
+					<idno type="MD5">DA95423A29D6BA66DF3D51C28D10A64D</idno>
+					<idno type="DOI">10.1093/jme/tjv130</idno>
+					<note type="submission">Received 23 January 2015; accepted 4 August 2015.</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>epidemiology</term>
+					<term>first report</term>
+					<term>risk factor</term>
+					<term>screwworm</term>
+					<term>secondary myiasis</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Myiasis is a disease caused by an infestation of the tissues of vertebrates by developing fly larvae. We document the first cases of human myiasis by Lucilia cuprina (Wiedemann, 1830) in Rio de Janeiro, Brazil, analyzed the epidemiological and clinical profiles of the patients, and their risk factors associated with the occurrence of the disease. Between May 2008 to July 2013, six cases of myiasis caused by larvae of L. cuprina were reported in patients treated in the Federal Hospital of Andaraı ´, Rio de Janeiro, Brazil. The six patients ranged between 13 and 72 yr old, belonged to various ethnic groups, and both sexes were represented. The affected individuals were relatively uneducated, had low income and poor hygiene habits. Infections were more common in the legs. The following factors were found to predispose individuals to myiasis: trauma, pediculosis, erysipelas, skin infections, and wounds resulting from congestive heart failure. Myiasis by L. cuprina occurred predominantly in the summer when there is abundant rainfall.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Myiasis is a disease characterized by maggots infesting the living or dead tissues of a live vertebrate. During at least part of their life cycle, myiasis-causing fly (Diptera) larvae feed on the living or dead tissues of live vertebrates, their body fluids, or the food digested by them <ref type="bibr" target="#b20">(Zumpt, 1965)</ref>. Myiasis can be classified due to the biology of the larvae into two types: obligatory or primary when caused by biontophagous flies, which feed on living tissues, usually developing in dermal and subdermal tissues of mammals; and facultative or secondary when caused by necrobiontophagous flies, which develop in necrotic tissues. Another classification commonly used in cases of myiasis is the anatomical classification, which is based on the location of the body affected by the disease. <ref type="bibr">(Zumpt 1965, Francesconi and</ref><ref type="bibr" target="#b5">Lupi 2012)</ref>.</p><p>Lucilia cuprina (Wiedemann, 1830) has been widely studied in Australia, where it is the main cause of myiasis in sheep (&gt;90% of cases), and in South Africa (between 60 and 90% of the cases), where it causes great damage to livestock <ref type="bibr" target="#b2">(Fernandes et al. 2003)</ref>. Human myiasis caused by L. cuprina is rare. For example, it was found in only 10 patients over the course of 2 yr of study in Brisbane, Australia <ref type="bibr" target="#b12">(Luking 1989)</ref>. There was also an isolated case in Phoenix, United States <ref type="bibr" target="#b17">(Sherman 2000)</ref>. No case of human myiasis associated with L. cuprina in Rio de Janeiro, Brazil, has been reported in the literature. This report calls attention to the fact that human myiasis caused by this species may not be as rare as the literature shows, due to a lack of clinical and epidemiological studies, the primary condition for notification, and control of this parasitic skin disease.</p><p>Here we report cases of human myiasis caused by L. cuprina in patients treated at the Federal Hospital of Andaraı ´, Rio de Janeiro, Brazil. We also analyze the epidemiological and clinical profiles of these patients, their risk factors, and the influence of abiotic factors (temperature, rainfall, and relative humidity) associated with the occurrence of the disease.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head><p>The patients with myiasis were treated at the Federal Hospital of Andaraı ´, located in the North Zone of the city of Rio de Janeiro, Brazil, between May 2008 and July 2013. Laboratory analysis was conducted in the Laborato ´rio de Estudo de Dı ´pteros (LED), Departamento de Microbiologia e Parasitologia, Instituto Biome ´dico do Centro de Cie ˆncias Biolo ´gicas e da Sau ´de, Universidade Federal do Estado do Rio de Janeiro (UNIRIO), and was approved by the Ethics Committee of the UNIRIO-protocol number 056/2006.</p><p>Once the myiases case was diagnosed, the patient became aware of the research objectives and allowed the use of his data for exclusively scientific purposes by signing the Terms of Consent, required for approval of this project by the Ethics Committee. The infected wounds were washed with soap and water and saline solution diluted to 0.9%. The larvae were removed with the aid of anatomical tweezers. In the case of furunculosis (berne), petroleum gel was applied in order to stifle the larvae, thus making it easier to remove them. Larvae up to 10 mm were stored in 70% alcohol and larvae above this size were put in a container with sterile sawdust.</p><p>The patients were instructed to care for the wound with soap and water and occlusive dressing, besides a daily application of antibiotic ointment. When it was not possible to remove the larvae entirely, the physician responsible for the treatment prescribed a single dose of Ivermectin (150-200 mcg/Kg/oral). During treatment, photographic records of the lesion were made and epidemiological and clinical forms were filled. These forms contained information on gender, age, and ethnicity of the patient, as well as socioeconomic aspects such as housing conditions (water and sewage treatment, proximity to pits), schooling, and family income. Drug (legal or not) dependence, chronic diseases, comorbidity, family history, accidents, and aspects of the lesion with myiasis were ascertained. Patient files and infecting larvae were forwarded to the LED.</p><p>Diptera larvae were identified using the taxonomic key of Serra-Freire and de <ref type="bibr" target="#b16">Mello (2006)</ref>. The larvae that were kept alive were maintained in sawdust at room temperature (not under controlled conditions) until they completed their development and metamorphosed into adults. The latter were identified following the taxonomic keys of <ref type="bibr" target="#b14">Mello (2003)</ref>, <ref type="bibr" target="#b0">Amat (2008)</ref>, and <ref type="bibr" target="#b11">Kosmann et al. (2013)</ref>. The morphological characteristics of L. cuprina were illustrated with the help of an Olympus SZX7.</p><p>The data were deployed to a database (Access 2010) and descriptive analysis were performed to understand the epidemiological and clinical profiles of patients affected by myiasis caused by L. cuprina, as well as the main risk factors related to the occurrence of myiasis.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results and Discussion</head><p>We recorded 293 cases of myiasis between May 2008 and July 2013, in patients treated at the Federal Hospital of Andaraı ´. Six of these patients were infected with L. cuprina.</p><p>Case 1. C. S., male, 57 yr old, black, homeless, complaining of pain in the right leg. His general condition was poor; he felt sleepy and his hygiene was poor. He was a carrier of Koch's bacillus and declared having been a smoker and an alcoholic for 40 yr. Clinical examination revealed a deep, 10-cm-wide wound in the lateral region of the lower third of his leg (Fig. <ref type="figure" target="#fig_0">1A</ref>). The lesion had a fetid odor and a large number of larvae, predominantly in the third instar. The subject related that he had suffered a trauma 4 d before, which caused a small wound, and that the larvae appeared on the next day; from that the wound progressed and became worse. Sixteen third-instar larvae were collected, which were preserved in sterilized sawdust and reared to adults. Fourteen individuals were identified as L. cuprina and the other two as Chrysomya megacephala (F., 1794).</p><p>Case 2. G. M., female, 68 yr old, African descent, came for treatment with sepsis originating in the respiratory tract. Larvae were present in a sacral bedsore. The patient was on a mechanical ventilation, had nasoenteral tubes, was hypertensive, diabetic, and suffering the aftermath of a stroke. There are no further data on the case, because the patient was unattended and under sedation. One single third-instar larva was removed from the wound, preserved in alcohol 70%, and identified as L. cuprina.</p><p>Case 3. J.S.V., male, 52 yr old, black, came for treatment complaining of larvae in a deep lesion on the lower portion of his left leg, which caused itch and pain. The wound was filled with third-instar larvae, had a fetid odor and exudate. The general condition of the patient was bad. He was lucid and his hygiene was precarious. He denied smoking, drinking, and using illegal drugs. According to his report, he was injured with a cut-blunt metal and after 3 d he noted the presence of larvae in the wound. He had suffered from congestive heart failure for a long time, and his edema had worsened in the last two years. He was the single resident of a brick house that offered regular hygienic and sanitary conditions, and a sanitary pit was available outside. There were also peridomestic animals. Two third-instar larvae were collected and preserved in alcohol, both identified as L. cuprina.</p><p>Case 4. F. R. M. R., male, 29 yr old, white, came for treatment complaining of "a burn with worms" on the anterior portion of his forearm. His general condition was poor, his hygiene was precarious, but there were no comorbidities. The lesion was 4 cm wide, had a fetid odor, exudate and was causing pain. The subjected admitted to drinking but said that he did not smoke or use illegal drugs. His wound started as a gasoline burn. He had noticed the larvae 4 d before he came to the hospital. He lived with three more people in a brick house, and a sanitary pit was available outside. Peridomestic animals were present in the vicinities. We identified two third-instar larvae of L. cuprina, which were preserved in alcohol 70%.</p><p>Case 5. L. A., female, 72 yr old, white, hypertensive, smoker and drinker, her general condition was fair and her hygiene was regular. She was cooperative and came for treatment complaining of larvae in her leg, which had a deep lesion with a fetid odor. She related having a history of erysipelas. The week before coming to the hospital she experienced bleeding and difficulty walking. She lived on her own in a house with appropriate hygienic and sanitary conditions. Thirteen third-instar larvae were removed from the wound and preserved in alcohol 70%; 12 of them were identified as Cochliomyia hominivorax and one L. cuprina. Case 6. A. G. C. M., female, 13 yr old, white, good general health, lucid, had a good sense of time and space, and was clean. No comorbidities were identified. She complained of pediculosis and larvae in a superficial lesion in her left parietal region, and in a deep lesion in her left frontal region (Fig. <ref type="figure" target="#fig_0">1B</ref>). Both wounds exhaled fetid odor and exudate; they itched and hurt. According to her, she had had pediculosis a month ago, with lesions resulting from scoring the head, and larvae had invaded the injury three days ago. She lived with four more people in a brick house, which did not have a sanitary pit. She denied the presence of peridomestic animals. Fifty-one third-instar larvae were removed from the wound. Only one belonged to the species L. cuprina and the other 50 were C. hominivorax individuals.</p><p>Details pertaining the taxonomic identification of larvae can be visualized in Fig. <ref type="figure" target="#fig_1">2A</ref>, <ref type="figure">B</ref>, <ref type="figure">C</ref>, D agreeing with Serra-Freire and <ref type="bibr" target="#b16">Mello (2006)</ref>, <ref type="bibr" target="#b4">Florez and</ref><ref type="bibr" target="#b4">Wolff (2009), and</ref><ref type="bibr" target="#b19">Wells et al. (1999)</ref>; and the morphological characters used for identification of the adult are represented in Figs. <ref type="figure">3A</ref>, <ref type="figure">B</ref>, <ref type="figure">C</ref>, D agreeing with <ref type="bibr" target="#b11">Kosmann et al. (2013)</ref> and <ref type="bibr" target="#b6">Holloway (1991)</ref>.</p><p>Out of the 293 patients with myiasis recorded during 5 yr, most (208 cases; 70.98%) were infected with C. hominivorax. By contrast, D. hominis (0.34%) and C. megacephala (0.34%) were the least common infection agents, each being recorded in only one patient. Cochliomyia macellaria (F., 1775) (1.70%) was identified in five patients. L. cuprina, previously not reported to cause myiasis in humans in Rio de Janeiro, was identified in six patients (2.04%). The identification of the material was not possible for 72 patients (24.6%), because their larvae had been previously removed or damaged. The fact that L. cuprina has occurred more frequently than some other species indicates that more cases may occur in the city but have not been properly reported or correctly identified.</p><p>The age of the patients treated in this study ranged from 13 to 72 yr. All male patients were adults, but in the female group there were a child and two elderly women. Literature records indicate that the age-group that poses more concerns is children (0-14 yr) and adults between 45 and 59 yr of age <ref type="bibr" target="#b17">(Sherman 2000</ref><ref type="bibr" target="#b13">, Marquez et al. 2007</ref><ref type="bibr" target="#b3">, Ferraz et al. 2011</ref><ref type="bibr" target="#b1">, Batista-da-Silva et al. 2011)</ref>. Myiasis is also common in the elderly <ref type="bibr" target="#b18">(Visciarelli et al. 2007</ref>). Due to our small sample, it was not possible to draw conclusions about the favored agegroup.</p><p>The level of education of the patient can also be considered relevant. The low socio-economic status of individuals, combined with the lack of knowledge about the disease and the difficulties in obtaining medical care from public hospitals and health centers help to exacerbate fly larvae infestations and their consequences <ref type="bibr" target="#b15">(Nascimento et al. 2005</ref>). When patients become more informed about a particular disease, they become empowered to seek treatment without becoming embarrassed by their condition. The level of schooling of the patients investigated was higher than the average of Brazil's southeastern population that has a percentage of 5% illiteracy (Instituto Brasileiro de Geografia e Estatı ´stica <ref type="bibr">[IBGE]</ref>, 2010). Only one patient was attending college. Their general lack of education concurs with data published in the literature <ref type="bibr" target="#b3">(Ferraz et al. 2011</ref><ref type="bibr" target="#b1">, Batista-da-Silva et al. 2011)</ref> showing that most myiasis patients are not educated beyond elementary school.</p><p>The majority of patients in this study lived in brick houses (4/6) with poor sanitation, a sanitary pit open to the sky next to the residence (4/6), and lived with animals <ref type="bibr">(3/6)</ref>. Only one patient reported that his house had sewage pipes. Some factors facilitate the occurrence of myiasis. In this study we observed traumatic injury, erysipelas, pediculosis, and cutaneous infections, which attract the flies for oviposition. Excessive consumption of alcohol and conditions that interfere with personal hygiene are directly related to the occurrence of myiasis. Systemic disease, such as congestive heart failure, favored the disease, in agreement with the results of other authors, who mention chronic conditions such as diabetes and vascular diseases as facilitators of ectoparasitic infections <ref type="bibr" target="#b15">(Nascimento et al. 2005</ref><ref type="bibr" target="#b13">, Marquez et al. 2007</ref><ref type="bibr" target="#b3">, Ferraz et al. 2011)</ref>.</p><p>The behavior of L. cuprina is necrobiontophagous; it causes optional myiasis. In sheep, this fly favors dark and wet crevices in the host, and the presence of other females adds attraction to the oviposition site. Of the six patients treated, there was no regularity in the larval observation period after the injury happening. One patient reported the larvae infestation 1 d after the trauma, one patient reported 3 d after the trauma, and it was not possible to assess this period of the other patients. In the patients in this study, the wounds were extensive and the occurrence of L. cuprina was simultaneous to C. hominivorax in two patients and to C. megacephala in one patient. In the other three cases L. cuprina was the only species colonizing the wound. Probably the old, necrotic lesion with fetid odor attracted the L. cuprina females to oviposit in the wound. The hot and humid climate, the geographic region characterized by urban area lacking basic sanitation, associated with the lack of education of the patients and their poor hygiene were factors that probably contributed to the infestation. Knowing the species causing myiasis is the first step toward the establishment of prophylactic measures for this neglected and emerging disease in urban areas.</p><p>In conclusion, L. cuprina was recorded for the first time in Rio de Janeiro, Brazil, associated with human myiasis. It occurred predominantly in individuals with low educational level, low income, poor hygiene habits, and disabilities. The lower limbs were the most affected body parts. The predisposing factors to myiasis were trauma, pediculosis, erysipelas, skin infections, and wounds resulting as consequence of congestive heart failure. Myiasis by L. cuprina occurred predominantly in the summer and was associated with heavy rainfall. </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Fig. 1 .</head><label>1</label><figDesc>Fig. 1. Myiasis in the lateral region of the lower third of the right leg (case 1) (A) and myiasis in the scalp in a patient with pediculosis (case 6) (B) of patients treated in Hospital Federal do Andaraı ´, Rio de Janeiro.</figDesc><graphic coords="3,43.14,53.80,408.92,193.72" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Fig. 2 .</head><label>2</label><figDesc>Fig. 2. Larvae of L. cuprina from patient with myiasis at the Federal Hospital of Andaraı ´, indicating the taxonomically important characteristics. (A) Ventral surfaces and lateral segments without papilliform projections; (B) Respiratory spiracle with complete perithrem; (C) Accessory oral tuft absent; (D) Inner tubercles of the upper margin of posterior cavity separated by a distance similar to the distance between inner and outer tubercles on each side.</figDesc><graphic coords="4,42.97,53.80,409.31,324.34" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="5,43.09,53.80,408.91,382.51" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_0"><p>Universidade Federal do Estado do Rio de Janeiro, Instituto de Biocie ˆncias, Programa de Po ´s Graduac ¸a ˜o em Biodiversidade Neotropical. Av., Pasteur 458, Urca, Rio de Janeiro, Brazil, CEP:22.290-240.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2" xml:id="foot_1"><p>Universidade Federal do Estado do Rio de Janeiro, Instituto Biome ´dico, Departamento de Microbiologia e Parasitologia, Rua Frei Caneca, 94 -Centro, Rio de Janeiro, Brazil, CEP: 20211-040.</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="3" xml:id="foot_2"><p>CNPq fellow</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="4" xml:id="foot_3"><p>Corresponding author, e-mail: valeria@unirio.br.</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We thank <rs type="person">Conselho Nacional de Desenvolvimento Cientı</rs></p><p>´fico e Tecnolo ´gico; <rs type="programName">Fundac ¸a ˜o Carlos Chagas Filho de Amparo a `Pesquisa do Estado do Rio de Janeiro</rs>; <rs type="funder">Financiadora de Estudos e Projetos and Universidade Federal do Estado do Rio de Janeiro</rs> for financial support and the medical staff of the <rs type="institution">Hospital Federal do Andaraı ´for collaboration</rs>.</p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funding" xml:id="_cavz9JY">
+					<orgName type="program" subtype="full">Fundac ¸a ˜o Carlos Chagas Filho de Amparo a `Pesquisa do Estado do Rio de Janeiro</orgName>
+				</org>
+			</listOrg>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Clave ilustrada para la identificacio ´n de los ge ´neros y las espe ´cies de califorı ´deos (Diptera: Calliphoridae) de Colombia</title>
+		<author>
+			<persName><forename type="first">E</forename><surname>Amat</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">C</forename><surname>Ve</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Caldasia</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="231" to="244" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Factors of susceptibility of human myiasis caused by the New World Screw-Worm, Cochliomyia hominivorax in Sa ˜o Gonc ¸alo</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M C</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Insect Sci</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="7" />
+			<date type="published" when="2011">2011</date>
+			<pubPlace>Rio de Janeiro, Brazil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Curva de sobrevive ˆncia e estimativa de entropia em Lucilia cuprina (Diptera, Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">M</forename><surname>Fernandes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lapola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Neregato</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">H</forename><surname>Varvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J V</forename><surname>Zuben</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Iheringia</title>
+		<imprint>
+			<biblScope unit="volume">93</biblScope>
+			<biblScope unit="page" from="319" to="324" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Epidemiological study of myiases in the Hospital do Andaraı ´, Rio de Janeiro, including reference to an exotic etiological agent</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C P</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">R G</forename><surname>Almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Jesus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">N</forename><surname>Rotatori</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Nunes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Proenc ¸a</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">S S</forename><surname>Lessa</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="393" to="397" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">E</forename><surname>Florez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolff</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotrop. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="418" to="429" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">F</forename><surname>Francesconi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Lupi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Myiasis. Clin. Microbiol. Rev</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="79" to="105" />
+			<date type="published" when="2012">2012</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Morphological characters to identify adult Lucilia sericata (Meigen, 1826) and L. cuprina (Wiedemann, 1830) (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">A</forename><surname>Holloway</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">N. Z. J. Zool</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="413" to="420" />
+			<date type="published" when="1991">1991</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Fig</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Morphological characters used for the identification of L. cuprina adults. (A) Wing with vein M distinctly angular</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title level="m" type="main">Stem vein (base of vein R) without setulae on dorsal view; (C) Lower calypter bare on dorsal surface; (D) Three (3) postsutural acrostichal setae</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Vamos conhecer o Brasil, nosso povo, educac ¸a ˜o</title>
+		<ptr target="http://censo2010.ibge.gov.br/en/" />
+	</analytic>
+	<monogr>
+		<title level="m">Instituto Brasileiro de Geografia e Estatı ´stica</title>
+		<imprint>
+			<date type="published" when="2010-05">2010. May 2015</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">List of current valid blow fly names (Diptera: Calliphoridae) in the Americas South of Mexico with Key to the Brazilian Species</title>
+		<author>
+			<persName><forename type="first">C</forename><surname>Kosmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">O</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">S</forename><surname>Harterreiten-Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Pujol-Luz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol. Brasilis</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="74" to="85" />
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Human cutaneous myiasis in Brisbane: a prospective study</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">G</forename><surname>Luking</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Med. J. Aust</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="237" to="240" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Miı ´ases associadas com alguns fatores so ´cio-econo ˆmicos em cinco a ´reas urbanas do Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">T</forename><surname>Marquez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Mattos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">B</forename><surname>Nascimento</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev. Soc. Bras. Med. Trop</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="175" to="180" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Chave para a identificac ¸a ˜o das formas adultas das espe ´cies da famı ´lia Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomol. Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Miı ´ases humanas por Cochliomyia hominivorax (Coquerel, 1858) (Diptera, Calliphoridae) em hospitais pu ´blicos na cidade do Recife</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">M</forename><surname>Nascimento</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">B</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Paes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Lobo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L A</forename><surname>Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">R S</forename><surname>Junior</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L F</forename><surname>Leal</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Entomol. Vectores</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="37" to="59" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Pernambuco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">M</forename><surname>Serra-Freire</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<title level="m">Entomologia e Acarologia na Medicina Veterina ´ria</title>
+		<editor>
+			<persName><forename type="middle">L F</forename><surname>Livros</surname></persName>
+		</editor>
+		<imprint>
+			<publisher>Rio de Janeiro</publisher>
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Wound Myiasis in Urban and Suburban United States</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Sherman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch. Internal Med</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="2004" to="2014" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<author>
+			<persName><forename type="first">E</forename><surname>Visciarelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Costamagna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Lucchi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Basabe</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Miasis humana en Bahı ´a Blanca</title>
+		<meeting><address><addrLine>Argentina</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2000">2007. 2000 / 2005</date>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="605" to="611" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Key to third-instarChrysomyinae (Diptera: Calliphoridae) from carrion in the continental United States</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Wells</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Byrd</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><surname>Tantawi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J. Med. Entomol</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="635" to="611" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myasis in man and animals in the World</title>
+		<meeting><address><addrLine>London, United Kingdom</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1965">1965</date>
+			<biblScope unit="page">267</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

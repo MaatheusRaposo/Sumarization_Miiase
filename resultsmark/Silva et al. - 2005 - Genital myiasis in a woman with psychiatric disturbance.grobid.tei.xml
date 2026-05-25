@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Genital myiasis in a woman with psychiatric disturbance</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><roleName>Dr</roleName><forename type="first">Benedito</forename><surname>Borges Da Silva</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Department of Gynecology , Federal University of Piauı ´ , Teresina , Brazil</note>
+								<orgName type="department">Department of Gynecology</orgName>
+								<orgName type="institution">Federal University of Piauı ´</orgName>
+								<address>
+									<region>Teresina</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Sabas</forename><forename type="middle">Carlos</forename><surname>Vieira</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Department of General Surgery , Federal University of Piauı ´ , Hospital Getu ´lio Vargas , Teresina , Brazil</note>
+								<orgName type="department">Department of General Surgery</orgName>
+								<orgName type="institution" key="instit1">Federal University of Piauı ´</orgName>
+								<orgName type="institution" key="instit2">Hospital Getu ´lio Vargas</orgName>
+								<address>
+									<settlement>Teresina</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Eid</forename><surname>Gonc</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Coelho</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Department of General Surgery , Federal University of Piauı ´ , Hospital Getu ´lio Vargas , Teresina , Brazil</note>
+								<orgName type="department">Department of General Surgery</orgName>
+								<orgName type="institution" key="instit1">Federal University of Piauı ´</orgName>
+								<orgName type="institution" key="instit2">Hospital Getu ´lio Vargas</orgName>
+								<address>
+									<settlement>Teresina</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Vanielle</forename><surname>Machado</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>b</label> Department of General Surgery , Federal University of Piauı ´ , Hospital Getu ´lio Vargas , Teresina , Brazil</note>
+								<orgName type="department">Department of General Surgery</orgName>
+								<orgName type="institution" key="instit1">Federal University of Piauı ´</orgName>
+								<orgName type="institution" key="instit2">Hospital Getu ´lio Vargas</orgName>
+								<address>
+									<settlement>Teresina</settlement>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Umbelina</forename><surname>Soares Borges</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Department of Gynecology , Federal University of Piauı ´ , Teresina , Brazil</note>
+								<orgName type="department">Department of Gynecology</orgName>
+								<orgName type="institution">Federal University of Piauı ´</orgName>
+								<address>
+									<region>Teresina</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Marcos</forename><surname>Anto</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Guedes</forename><surname>Da</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Silveira</forename><surname>Filho</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>a</label> Department of Gynecology , Federal University of Piauı ´ , Teresina , Brazil</note>
+								<orgName type="department">Department of Gynecology</orgName>
+								<orgName type="institution">Federal University of Piauı ´</orgName>
+								<address>
+									<region>Teresina</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<note type="raw_affiliation">Avenida Elias Joa ˜o Tajra , 1260, Apt. 600 , Edifı ´cio Oscar Niemeyer ,</note>
+								<orgName type="institution">Avenida Elias Joa ˜o Tajra</orgName>
+								<address>
+									<addrLine>1260, Apt. 600 Edifı ´cio Oscar Niemeyer</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<note type="raw_affiliation">Bairro Jockey Club , CEP: 64.049-300 , Teresina , Piauı ´, Brazil.</note>
+								<orgName type="institution">Bairro Jockey Club</orgName>
+								<address>
+									<addrLine>CEP: 64.049-300</addrLine>
+									<settlement>Teresina</settlement>
+									<region>Piauı</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Genital myiasis in a woman with psychiatric disturbance</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">87D6C94E084785C85CAC87BF04184287</idno>
+					<idno type="DOI">10.1111/j.1471-0528.2005.00556.x</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:35+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>A 56-year-old Brazilian woman with psychiatric disturbance was found unconscious in a forested rural area in a state of precarious general hygiene with multiple scratches all over her body and a fracture of her left collarbone. Gynaecological examination revealed areas of vulvar-perineal necrosis secondary to infestation by fly larvae (Fig. <ref type="figure">1</ref>). Speculum examination revealed an epithelised cervix and a Papanicolaou smear showed no signs of malignancy. Due to the presence of areas of necrosis in the vulvar and perineal areas, the patient was submitted to surgical debridement of the region during which a great quantity of larvae was removed and the area was cleaned with antiseptic solution. During surgical debridement, we observed that the anal canal and sphincter musculature were also affected. A sigmoid loop colostomy was carried out. The patient remained in the hospital for 10 days during which she was given antibiotics, analgesics and anti-inflammatory medication, and was submitted to daily local asepsis of the area with an antiseptic solution. Larvae had to be removed up to the fourth day of hospitalisation. The fracture was treated expectantly and routine laboratory tests presented no abnormal results. The larvae were identified as Cochliomyia hominivorax. The woman's lesions were completely healed after two months and the colostomy was closed after one year.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Myiasis is a zoonosis resulting from an infestation of the skin, mucosa, orifices or natural cavities of humans or animals by larvae of flying dipterous insects that, at least during a certain period, feed from the live or necrotic tissue of the host in order to complete partial or total development of their evolutive cycle. <ref type="bibr">1 -5</ref> It is an important problem in medical and veterinary science. Larvae or maggots are capable of infesting and inducing myiasis in skin wounds ('cutanaeous myiasis') or in the body ('deep myiasis') or complicate surgical wounds ('surgical myiasis'). They can invade human natural cavities such as the nasal fossae or eyes. They may penetrate further, causing urinary tract or gastrointestinal myiasis. <ref type="bibr" target="#b1">2</ref> Infestation is rarely seen in the vulvar area. <ref type="bibr" target="#b3">4</ref> Myiasis occurs all over the world, with more cases being reported in tropical, subtropical and warm temperate areas. <ref type="bibr" target="#b4">5</ref> The incidence is probably under-estimated as it occurs principally in rural areas where cases are not registered.</p><p>The presence of suppurative lesions that attract and stimulate the deposit of eggs or larvae by female insects, as well as traumatic lesions, acquired immunodeficiency, comatose conditions, the habit of some populations of sitting on the ground, for example, during certain religious rites, precarious conditions of hygiene, principally among residents of rural areas and among people with psychiatric disturbances, and certain climatic conditions that favour the flies are all considered predisposing factors. <ref type="bibr" target="#b0">1,</ref><ref type="bibr" target="#b3">4,</ref><ref type="bibr" target="#b5">6</ref> Fig. <ref type="figure">1</ref>. Extensive areas of necrosis in the vulvar and perineal areas and one extracted larva.</p><p>Entomologically, the flies can be classified into three myiasis-producing groups: obligatory, facultative or accidental. <ref type="bibr" target="#b6">7</ref> Obligatory myiasis, formerly known as biophagous, involves flies that are dependent on an animal host. The principal species are Cochliomyia hominivorax and Dermatobia hominis. The facultative or necrophagous organisms usually grow in dead or decomposing tissue. They may occasionally attack dead tissue in live organisms, in which they complete their life cycle. This group includes Sarcophaga sp. and C. macellaria, among others. Accidental or pseudomyiasis is caused by the ingestion of eggs of obligatory myiasis-producing flies, such as Hermetia illucens or Ceratitis capitata. <ref type="bibr" target="#b6">7</ref> C. hominivorax is locally known as varejeira fly and is the principal cause of primary myiasis in the northeast of Brazil. In other countries, Wohlfahrtia magnifica has been reported as a cause of human vulvar myiasis, <ref type="bibr" target="#b4">5</ref> and of vaginal myiasis in female camels. <ref type="bibr" target="#b7">8</ref> In Brazil, to our knowledge, only one case of vulvar myiasis has been published. <ref type="bibr" target="#b3">4</ref> </p></div>		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Human myiasis in Middle Europe</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Granz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Schneider</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schumann</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Z Gesamte Inn Med</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="293" to="301" />
+			<date type="published" when="1975">1975</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Myiasis: facial location. Apropos of a case of Dermatobia hominis infection</title>
+		<author>
+			<persName><forename type="first">F</forename><surname>Nderagakura</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Smail</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Chardonnier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Devauchelle</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Stomatol Chir Maxillofac</title>
+		<imprint>
+			<biblScope unit="volume">90</biblScope>
+			<biblScope unit="page" from="7" to="16" />
+			<date type="published" when="1989">1989</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Idı ´goras P, Urbieta M, Pe ´rez Trallero E. Human genital myiasis by sarcophaga</title>
+		<author>
+			<persName><forename type="first">G</forename><surname>Cilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">´f</forename><surname>Pico</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rev Clin Esp</title>
+		<imprint>
+			<biblScope unit="volume">190</biblScope>
+			<biblScope unit="page" from="189" to="190" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Vulvar myiasis</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">R</forename><surname>Passos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">V</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">L</forename><surname>Dutra</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Infect Dis Obstet Gynecol</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="69" to="71" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Vulvar myiasis due to Wohlfahrtia magnifica</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Delir</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Handjani</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Emad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Ardehali</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Clin Exp Dermatol</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="279" to="280" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Traumatic myiasis of horses caused by Wohlfahrtia magnifica</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Farkas</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ke ´pes G</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Acta Vet Hung</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="311" to="318" />
+			<date type="published" when="2001">2001</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">A</forename><surname>Burns</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Myiasis</surname></persName>
+		</author>
+		<title level="m">Textbook of Dermatology</title>
+		<editor>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Champion</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Burton</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">Fjg</forename><surname>Ebling</surname></persName>
+		</editor>
+		<meeting><address><addrLine>Oxford</addrLine></address></meeting>
+		<imprint>
+			<publisher>Blackwell Scientific Publications</publisher>
+			<date type="published" when="1992">1992</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="1272" to="1275" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Myiasis in domesticated twohumped camels in the Mongolian People&apos;s Republic</title>
+		<author>
+			<persName><forename type="first">H</forename><surname>Schumann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Ribbeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Beulig</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arch Exp Vet Med</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="799" to="806" />
+			<date type="published" when="1976">1976</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

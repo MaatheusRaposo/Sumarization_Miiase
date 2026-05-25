@@ -1,0 +1,2007 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biológica do Tinguá, Nova Iguaçu, RJ",
+    "authors": [
+      "Acp Ferraz",
+      "Moya Gadelha",
+      "G -Borja"
+    ],
+    "hash": "B49D423BE805AF6296D805CAFB84D94D",
+    "publisher": "",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Samples were collected every month in three different sites of the Reserva Biológica do Tinguá, Brazil: site A was located on the border of the forest and sites B and C were located 1,000 and 500 m, respectively, towards the forest interior. The objective was to determine edge effects on a fragment of the Atlantic Forest. The greatest species richness was observed in sites A and B (23 species), compared with site C (16 species). Site A showed the greatest abundance and constancy, independent of the degree of synanthropy. Asynanthropic species were more abundant and constant in sites B and C. Site B showed the greatest diversity; and sites A and B showed the greatest similarity of populations. There was no significant correlation between Calliphoridae richness and canopy openness except in site C. Richness and abundance were positively correlated with subwood density, except for richness in site B.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_93565883",
+      "text": "Habitat fragmentation drastically affects forest ecossystems, creating different microenvironments on the edge and inside the fragment producing an abrupt transition between the forest and the habitat around it. The most important consequences of fragmentation are the reduction of the area available for habitats and the increased levels of exposure to light, variations in temperature and wind (Bierregaard et al., 1992;Rodrigues, 1998). These edge effects are sometimes evident up to 500 m towards the forest interior (Laurance, 1991). However, they are frequently more intense in the first 35 m (Rodrigues, 1998).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "(Bierregaard et al., 1992;",
+          "offset_start": 396,
+          "offset_end": 422
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "Rodrigues, 1998)",
+          "offset_start": 422,
+          "offset_end": 438
+        },
+        {
+          "type": "bibr",
+          "target": "#b19",
+          "text": "(Laurance, 1991)",
+          "offset_start": 521,
+          "offset_end": 537
+        },
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Rodrigues, 1998)",
+          "offset_start": 599,
+          "offset_end": 616
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_27d2bbf0",
+      "text": "The width edge effects may vary among forest fragments, due to different aspects, such as microclimate, tree species composition, and plant density. Width estimations should take into account the possibility that edge effects may be more intense at a certain distance from the edge than on the edge of the fragment itself (Rodrigues, 1998).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b40",
+          "text": "(Rodrigues, 1998)",
+          "offset_start": 322,
+          "offset_end": 339
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_b9c41782",
+      "text": "Many species may be eliminated by forest fragmentation. The loss of area may immediately exclude some species, if they are rare and found in specific spots. Habitat fragmentation may also divide one large population into subpopulations located in small areas, making them more vulnerable to endogamic depression, genetic changes, and increasing their chance of extinction. These changes may enable the proliferation of species adapted to the new environmental conditions, where these would compete with the original species found in the area (Laurance et al., 2001).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "(Laurance et al., 2001)",
+          "offset_start": 542,
+          "offset_end": 565
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_a2146d68",
+      "text": "Invertebrate populations are potential indicators of environment quality in fragmented habitats due to their short life cycle and low resistance to environmental imbalances (Brown and Hutchings, 1997).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "(Brown and Hutchings, 1997)",
+          "offset_start": 173,
+          "offset_end": 200
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_44571a48",
+      "text": "Forest degradation is more pronounced in the tropics because of growing deforestation rates. However, because of the great biodiversity and complex biotic interactions found in tropical forests, concerns should be even greater than they are now (Didham et al., 1996). The Atlantic Forest is considered to be an area of extraordinary diversity and is known to concentrate a large number of endemic species, endangered due to the rapid and significant loss of habitat (Myers et al., 2000).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Didham et al., 1996)",
+          "offset_start": 245,
+          "offset_end": 266
+        },
+        {
+          "type": "bibr",
+          "target": "#b34",
+          "text": "(Myers et al., 2000)",
+          "offset_start": 466,
+          "offset_end": 486
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_c0beb9d1",
+      "text": "Human effects in the Reserva Biológica do Tinguá have previously been reported by Marinho et al. (2006), and this analysis drew attention to the need for further studies in the area. The parameters of interest include an estimation of forest conservation and human effect on dipterans in the Calliphoridae family; predominance and diversity of species on the edge and forest interior; better understanding of population dynamics; current dispersion of exotic species; identification of bioindicator species and, of paramount importance, in order to support preservation and conservation of the Atlantic Forest.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Marinho et al. (2006)",
+          "offset_start": 82,
+          "offset_end": 103
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_d33f2cc9",
+      "text": "The objectives of this study were to determine border effects on the richness and abundance of Calliphoridae species found in artificial edges and preserved forest interiors. The study also aimed to identify resident and migrant species; to estimate the similarity between populations, as well as their diversity; to correlate subwood density and canopy openness with abundance and richness; and to group the species found as a function of their habitat.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_ec9e4de8",
+      "text": "The Reserva Biológica do Tinguá is a protected area of approximately 26,000 ha that presents a very diverse fauna, with large mammals, such as the mountain lion (Puma concolor Linnaeus, 1771) and other endangered species of the Atlantic Forest; as well as flora including an abundance of jequitibás (Cariniana sp. Casar, 1842), jatobás (Hymenaea courbaril Linnaeus, 1753) and orchids (Orchidaceae). The area provides water for part of the city of Rio de Janeiro and the Baixada Fluminense. Its main access (22° 58.559' S and 43° 43.809' W), as well as its widest area, is located in the Baixada Fluminense range (JBRJ, 2002;Braz et al., 2004). It has two deforested corridors that potentially submit this fragment to edge effects. Two subterranean ducts cross these corridors: Orbel 1 (PUC- RIO, 2006) and old Estrada do Comércio.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Cariniana sp. Casar, 1842)",
+          "offset_start": 299,
+          "offset_end": 326
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(22° 58.559' S and 43° 43.809' W)",
+          "offset_start": 506,
+          "offset_end": 539
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(JBRJ, 2002;",
+          "offset_start": 612,
+          "offset_end": 624
+        },
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "Braz et al., 2004)",
+          "offset_start": 624,
+          "offset_end": 642
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "RIO, 2006)",
+          "offset_start": 791,
+          "offset_end": 801
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_a8bef140",
+      "text": "Insects were captured every month, from June 2006 to May 2007, using black traps according to the protocol proposed by Mello et al. (2007) (Ferraz and Aguiar-Coelho, 2008). Three sites of capture were determined on the edge and the forest interior based on the analysis of Laurance (2000), in the Amazon, who considered that edge effects in plant communities may range from 400 m to several kilometres towards the interior of the forest. Thus, one of the sites chosen was located on the edge, and the others more than 500 m away from it.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "Mello et al. (2007)",
+          "offset_start": 119,
+          "offset_end": 138
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "(Ferraz and Aguiar-Coelho, 2008)",
+          "offset_start": 139,
+          "offset_end": 171
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Laurance (2000)",
+          "offset_start": 273,
+          "offset_end": 288
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_f4cc547e",
+      "text": "The bait comprised 400 g of sardines thawed for 24 hours at refrigeration temperatures. Two traps were placed in each site, 5 metres apart and 1.5 m high (Neto et al., 1995). Canopy openness was determined using a manual forest densiometer (Guilherme, 2000). Density of the subwood (mean number of medium-sized plants located in a one-metre radius of each trap) was also recorded.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b35",
+          "text": "(Neto et al., 1995)",
+          "offset_start": 154,
+          "offset_end": 173
+        },
+        {
+          "type": "bibr",
+          "target": "#b16",
+          "text": "(Guilherme, 2000)",
+          "offset_start": 240,
+          "offset_end": 257
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_9634149c",
+      "text": "Site A (22° 58.788' S and 43° 43.459' W) was located 500 metres from the entrance of the Reserve, showing mean canopy openness equal to 32% and subwood density equal to 12.25 (ind.m -1 ). This site exhibited cactuses (Cactaceae), jackfruit (Artocarpus heterophyllus Lamarck) and bromeliads (Bromeliaceae). Site B (22° 58.523' S and 43° 44.540' W) was located 1,200 m away from the entrance of the Reserve, on the Estrada do Comércio, and 1,000 m towards the interior of the forest. This site displayed primarily bamboo (Bambusoideae), mean canopy openness equal to 24.50% and subwood density of 16.25. Site C (22° 58.350' S and 43° 44.678' W) was located 1,700 m away from the entrance of the Reserve, on the Estrada do Comércio, 500 m towards the forest interior. The presence of bromeliads was extensive; mean canopy openness was equal to 21.50% and subwood density was equal to 7.00.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(22° 58.523' S and 43° 44.540' W)",
+          "offset_start": 313,
+          "offset_end": 346
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "16.25. Site C (22° 58.350' S and 43° 44.678' W)",
+          "offset_start": 595,
+          "offset_end": 642
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_bce7eb44",
+      "text": "After 48 hours, traps were removed and the insects therein were taken to the Laboratório de Estudo de Dípteros (LED) at the Departamento de Microbiologia e Parasitologia in Universidade Federal do Estado do Rio de Janeiro (UNIRIO). Samples remained frozen until submitted to the identification protocol proposed by Mello (2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "Mello (2003)",
+          "offset_start": 315,
+          "offset_end": 327
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_0d2e15dc",
+      "text": "ANOVA was used to compare insect richness among the areas, followed by Tukey's test (SYSTAT software). The resident and migrant species in each site were determined by calculating a constancy index. Similarity among Calliphoridae populations in the different sites was determined by Jaccard's coefficient (Dajoz, 1983). Diversity in each site was estimated by the Shannon Index (Rodrigues, 2004). In order to prove the null hypothesis that samples from sites A, B and C were similar, we followed the protocol suggested by Hutcheson (1970) (cited by Zar 1999). A weighted diversity index (Hp) was calculated for each sample, as a function of the frequency of each species: Hp = (N log N) -(Σfi log fi)/N, where fi = frequency (number of individuals) recorded for species i. Variance of the weighted diversity index was: var = [Σ f i log 2 f i -(Σ f i log f i) 2 ] /N/N 2 . The difference between variances obtained for each sample was calculated: D var = √(var 1 + var 2), and the t value was obtained: t = Hp 1 -Hp 2 / D var . The degree of freedom associated with the t value was calculated: g.l.= (var 1 + var 2 ) 2 / (var 1 2 / N 1 ) + (var 2 2 / N 2 ). After this, the t value calculated was compared with t values from a table.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Dajoz, 1983)",
+          "offset_start": 305,
+          "offset_end": 318
+        },
+        {
+          "type": "bibr",
+          "target": "#b41",
+          "text": "(Rodrigues, 2004)",
+          "offset_start": 378,
+          "offset_end": 395
+        },
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "Zar 1999)",
+          "offset_start": 549,
+          "offset_end": 558
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_77a91ed1",
+      "text": "Species observed in the three sites were also compared using quantitative cluster analysis in order to assess if grouping was a function of habitat type (Zar, 1999); we used Euclidean metrics as a way to measure the distance (STATISTICA software, 1999 edition). Pearson's correlation coefficient was used to assess the correlation between subwood density and canopy openness with abundance or richness in each of the sites.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b50",
+          "text": "(Zar, 1999)",
+          "offset_start": 153,
+          "offset_end": 164
+        }
+      ],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_2354311d",
+      "text": "Data on temperature, relative humidity and precipitation were obtained in the Estação Experimental de Itaguaí/PESAGRO-RIO, Seropédica-RJ (22° 45' and 43° 41' W) (Figure 1).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Materials and Methods"
+    },
+    {
+      "id": "p_7fb202a0",
+      "text": "A total of 8,516 Calliphoridae individuals from 11 genera and 26 species were captured (as shown in Table 1). Figure 2 shows the nine most abundant species. Species richness did not vary among the different sites (F = 3,112, DF = 2, P = 0.058). Paired analysis of richness in the different months showed that species collected in sites A and B were not different (P = 0.694). However, sites A and B were significantly different from site C (P = 0.001 and P = 0.002, respectively). The three most abundant species were: site A) Chrysomya albiceps (Wiedemann, 1819), Hemilucilia semidiaphana (Rondani, 1850) and Chrysomya megacephala (Fabricius, 1794); site B) Mesembrinella bellardiana (Aldrich, 1922), H. semidiaphana and Laneela nigripes (Guimarães, 1977); and site C) L. nigripes, M. bellardiana and H. semidiaphana.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Aldrich, 1922)",
+          "offset_start": 685,
+          "offset_end": 700
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Guimarães, 1977)",
+          "offset_start": 739,
+          "offset_end": 756
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_d6eb752f",
+      "text": "The following species were considered to be constant: H. semidiaphana, L. nigripes, M. bellardiana and Lucilia eximia (Wiedemann, 1819). Only Mesembrinella bicolor (Fabricius, 1805) was accessory in the three sites. Paralucilia nigrofacialis (Mello, 1969) and Lucilia sericata (Meigen, 1826) were accidental species. C. megacephala was classified as constant only in site A. Chrysomya putoria (Wiedemann, 1818), Cochliomyia hominivorax (Coquerel, 1858), Cochliomyia macellaria (Fabricius, 1775) and Huascaromusca aeneiventris (Wiedemann, 1830) were classified as accessory; Paralucilia borgmeieri (Mello, 1969) and Paralucilia paraense (Mello, 1969) were considered to be accidental. Mesembrinella semihyalina (Mello, 1967) was the only species exclusively constant at site B; C. megacephala was classified as accessory only in this site. Calliphora vicina (Robineau-Desvoidy, 1830), Chloroprocta idioidea (Robineau-Desvoidy, 1830), C. macellaria and C. putoria were considered accidental only in site B. None of the species were constant or accidental only in site C, but C. albiceps, Eumesembrinella pauciseta (Aldrich, 1922) and Hemilucilia segmentaria (Fabricius, 1805) were considered accessory only in this site. The similarity coefficient showed greater correspondence between the populations in sites A and B (0.76), followed by B and C (0.53), and finally A and C (0.44).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Wiedemann, 1819)",
+          "offset_start": 118,
+          "offset_end": 135
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mello, 1969)",
+          "offset_start": 242,
+          "offset_end": 255
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mello, 1969)",
+          "offset_start": 597,
+          "offset_end": 610
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mello, 1969)",
+          "offset_start": 636,
+          "offset_end": 649
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mello, 1967)",
+          "offset_start": 710,
+          "offset_end": 723
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Aldrich, 1922)",
+          "offset_start": 1112,
+          "offset_end": 1127
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_945eb9fa",
+      "text": "Shannon Diversity indexes calculated for each site showed that site B was the most diverse (2.01 nats.ind -1 ), followed by site A (1.87 nats.ind -1 ), and site C (1.61 nats.ind -1 ). Total diversity was equal to 2.08 nats.ind -1 . The null hypothesis that the samples (sites A, B and C, as measured by the Shannon Index) were similar was proven false (according to Hutcheson, 1970, cited by Zar, 1999).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Hutcheson, 1970",
+          "offset_start": 366,
+          "offset_end": 381
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": ", cited by Zar, 1999)",
+          "offset_start": 381,
+          "offset_end": 402
+        }
+      ],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_15ec4837",
+      "text": "The dendogram (Figure 3) showed similarity between the ten most frequently collected species. The following cluster patterns were observed: L. nigripes, separated from the rest, was the main species in site C; M. bellardiana showed high abundance in all sites, but mainly in site B; C. albiceps, H. semidiaphana and C. megacephala, the most frequent species found in site A, formed a cluster; another cluster was formed by the species abundant in site B (E. pauciseta, H. segmentaria, L. eximia, M. bicolor, M. semihyalina).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_baf9a0f4",
+      "text": "In site A, subwood density showed significant correlation and inverse with canopy openness (r = -0.652; P = 0.034), abundance (r = 0.860; P = 0.014) and richness (r = 0.850; P = 0.015). Canopy openness did not show significant correlation with abundance (r = -0.289; P = 0.361) or richness (r = -0.167; P = 0.603). In site B, subwood density was significantly correlated with canopy openness (r = 0.583; P = 0.041) and abundance (r = 0.567; P = 0.043), but not with richness (r = -0.170; P = 0.830). Canopy openness was not correlated with abundance (r = 0.374; P = 0.231) or richness (r = 0.415; P = 0.179) in this site. In site C, subwood density was significantly and inversely correlated with canopy openness (r = -0.667; P = 0.033) and positively correlated with abundance (r = 0.752; P = 0.024) and richness (r = 0.795; P = 0.020). Canopy openness did not show significant correlation with abundance (r = -0.254; P = 0.426), but it was significantly and inversely correlated with richness (r = -0.511; P = 0.008).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Results"
+    },
+    {
+      "id": "p_c69b6432",
+      "text": "While twenty-six species were collected in this study, Mello et al. (2007) and Marinho et al. (2006), in other locations of the same Reserve, captured 13 and 10 species, respectively. All the species collected by these two authors were also cited in this study. Climate conditions and type of bait used, as well as the model, colour and location of the traps may all have influenced these results.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b31",
+          "text": "Mello et al. (2007)",
+          "offset_start": 55,
+          "offset_end": 74
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Marinho et al. (2006)",
+          "offset_start": 79,
+          "offset_end": 100
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b09b9178",
+      "text": "Sites A and B showed the greater richness, aside from being submitted to edge effects, and being located closer to human populations. Laurance and Bierregaard (1997) noted that the richness of birds, primates and several insects decreased as a function of the proximity to the edge, whereas richness of small mammals, amphibians and butterflies increased. Among beetles, richness is influenced by the shape of the fragment, whereas for spiders, the level of isolation of the fragment is the most important factor (Usher et al., 1993).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "Laurance and Bierregaard (1997)",
+          "offset_start": 134,
+          "offset_end": 165
+        },
+        {
+          "type": "bibr",
+          "target": "#b47",
+          "text": "(Usher et al., 1993)",
+          "offset_start": 513,
+          "offset_end": 533
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_c05c85ea",
+      "text": "Although the three sites have significantly different diversity indexes, all of them were very similar when Jaccard's coefficient was considered. High similarity determined by this coefficient may be explained by the proximity of the sites and by the fact that all of them were in the same environment. Seldom does this coefficient reach values over 60% (Mantovani, 1987), and results above 25% are considered to be similar (Mueller-Dombois and Ellenberg, 1974).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Mantovani, 1987)",
+          "offset_start": 354,
+          "offset_end": 371
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mueller-Dombois and Ellenberg, 1974)",
+          "offset_start": 424,
+          "offset_end": 461
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_1fe5b0a5",
+      "text": "The largest canopy openness in Site A, indicates the presence of few high trees in the site, and possibly revealing an area of deforestation. This site probably suffers the greatest influence of abiotic factors, according to the study by Melo (2006), who reported that trees on the edges of the forest showed greater mortality, probably because they are submitted to a rigid increase in abiotic events. However, this author showed that, due to the old age of Orbel 1, the tree community and forest interior are similarly preserved. This fact was supported by other authors, such as Laurance (2000), who suggested that longer fragmentation times minimize impact due to the establishment of protective plant cover, such as vines and bamboos on the edges of forest fragments (Saunders et al., 1991). This protective cover was, in fact, found in site A.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "Melo (2006)",
+          "offset_start": 238,
+          "offset_end": 249
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Laurance (2000)",
+          "offset_start": 582,
+          "offset_end": 597
+        },
+        {
+          "type": "bibr",
+          "target": "#b45",
+          "text": "(Saunders et al., 1991)",
+          "offset_start": 772,
+          "offset_end": 795
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_1600e0f3",
+      "text": "Edge effects are considered to be the main factors affecting fragments of tropical forests. The intensity and rapidity of changes produced by edge effects are influenced by factors such as plant cover, as well as shape, size and age of the fragment (Laurance and Bierregaard, 1997). Differences in the richness and abundance of Calliphoridae specimens observed among the sites studied may be due to edge effects.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "(Laurance and Bierregaard, 1997)",
+          "offset_start": 249,
+          "offset_end": 281
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_6fd3feb9",
+      "text": "The finding of few constant aspects in the Reserva Biológica do Tinguá is probably due to the absence of agricultural practices and to the use of fire in the Reserve. However, its deforesting, constantly maintained corridors show the effects of human actions, such as hunting and selective cutting (Melo, 2006;Rodrigues and Nascimento, 2006), mainly caused by illegal palm heart harvesting (Euterpe edulis) (Melo, 2006). Habitat fragmentation increases the access to forest resources and facilitates hunting, wood extraction and agricultural practices (Tabarelli et al., 2004).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(Melo, 2006;",
+          "offset_start": 298,
+          "offset_end": 310
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "Rodrigues and Nascimento, 2006)",
+          "offset_start": 310,
+          "offset_end": 341
+        },
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(Melo, 2006)",
+          "offset_start": 407,
+          "offset_end": 419
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Tabarelli et al., 2004)",
+          "offset_start": 552,
+          "offset_end": 576
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a2ebf0f6",
+      "text": "Chrysomya megacephala is a highly synanthropic species, as evidenced by the studies by Vianna et al. (2004) in Pelotas, Rio Grande do Sul, and D'Almeida, as well as those performed by D'Almeida and Lopes (1983) and Guimarães (2006) in Rio de Janeiro. In fact, this species was considered to be exclusively constant in site A, the most affected by human activities. C. megacephala is an r-strategist species (Prado and Guimarães, 1982) and responds better to environmental changes, as do generalist and opportunistic species (Didham et al., 1996). This fly may be considered an indicator of the humanmodified environment.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b48",
+          "text": "Vianna et al. (2004)",
+          "offset_start": 87,
+          "offset_end": 107
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(1983)",
+          "offset_start": 204,
+          "offset_end": 210
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães (2006)",
+          "offset_start": 215,
+          "offset_end": 231
+        },
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "(Prado and Guimarães, 1982)",
+          "offset_start": 407,
+          "offset_end": 434
+        },
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Didham et al., 1996)",
+          "offset_start": 524,
+          "offset_end": 545
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_33ba2064",
+      "text": "C. albiceps that was also extremely abundant and constant, was reported by Ferreira (1978), Linhares (1979), D'Almeida andLopes (1983) being in humaninfluenced areas. Both C. megacephala and C. albiceps were constant in the study by Rodrigues-Guimarães et al. (2004) in a reforestation area in Nova Iguaçu, Rio de Janeiro.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Ferreira (1978)",
+          "offset_start": 75,
+          "offset_end": 90
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Linhares (1979), D'Almeida and",
+          "offset_start": 92,
+          "offset_end": 122
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "Lopes (1983)",
+          "offset_start": 122,
+          "offset_end": 134
+        },
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Rodrigues-Guimarães et al. (2004)",
+          "offset_start": 233,
+          "offset_end": 266
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_39f7b959",
+      "text": "Paralucilia fulvinota (Bigot, 1877), collected only in site A but considered to be an accidental species, is endemic in Brazil and a typical forest inhabitant in neotropical regions (Mariluis and Mulieri, 2003).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Mariluis and Mulieri, 2003)",
+          "offset_start": 182,
+          "offset_end": 210
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a0413637",
+      "text": "Site A exhibited constant species considered by other authors as synanthropic (C. albiceps, C. megacephala, L. eximia) (Ferreira, 1978;D'Almeida and Lopes, 1983) and asynanthropic (H. semidiaphana -D' Almeida and Lopes, 1983;Paraluppi, 1996;Guimarães, 2006;H. segmentaria -D'Almeida and Lopes, 1983;Ferreira, 1983;Guimarães, 2006;L. nigripes -Mello, 2003;M. bellardiana -D'Almeida and Lopes, 1983;Marinho et al., 2006;Guimarães, 2006;and Eumesembrinella sp. -Guimarães, 2006). This finding demonstrated that although this site was influenced by human actions, it is still suitable for the establishment of forest species. The dendogram also pointed to the association between asynanthropic and synanthropic species.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "(Ferreira, 1978;",
+          "offset_start": 119,
+          "offset_end": 135
+        },
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "D'Almeida and Lopes, 1983)",
+          "offset_start": 135,
+          "offset_end": 161
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Almeida and Lopes, 1983;",
+          "offset_start": 201,
+          "offset_end": 225
+        },
+        {
+          "type": "bibr",
+          "target": "#b36",
+          "text": "Paraluppi, 1996;",
+          "offset_start": 225,
+          "offset_end": 241
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães, 2006;",
+          "offset_start": 241,
+          "offset_end": 257
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "H. segmentaria -D'Almeida and Lopes, 1983;",
+          "offset_start": 257,
+          "offset_end": 299
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Ferreira, 1983;",
+          "offset_start": 299,
+          "offset_end": 314
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães, 2006;",
+          "offset_start": 314,
+          "offset_end": 330
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "L. nigripes -Mello, 2003;",
+          "offset_start": 330,
+          "offset_end": 355
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "M. bellardiana -D'Almeida and Lopes, 1983;",
+          "offset_start": 355,
+          "offset_end": 397
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Marinho et al., 2006;",
+          "offset_start": 397,
+          "offset_end": 418
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães, 2006;",
+          "offset_start": 418,
+          "offset_end": 434
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "and Eumesembrinella sp. -Guimarães, 2006)",
+          "offset_start": 434,
+          "offset_end": 475
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_faea1f3c",
+      "text": "In site B, asynanthropic species, such as M. bellardiana and M. semihyalina, predominated due to the rare presence of humans and a location towards the interior of the forest, which is less affected by climatic variations. However, synanthropic C. albiceps was found in this site, showing the great adaptive potential of this exotic species in Brazil.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a0fd358d",
+      "text": "Site C, the most preserved site, showed the least diversity of Calliphoridae specimens. Site C, as well as sites A and B, showed asynanthropic species such as H. semidiaphana, M. bellardiana, L. nigripes, and synanthropic species, such as L. eximia. Other authors reported the movement of L. eximia towards the interior of forests and suggested a possible competition with species in the Chrysomya genus (Prado and Guimarães, 1982;Ferreira, 1983).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b37",
+          "text": "(Prado and Guimarães, 1982;",
+          "offset_start": 404,
+          "offset_end": 431
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Ferreira, 1983)",
+          "offset_start": 431,
+          "offset_end": 446
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a9f7a803",
+      "text": "The genus Eumesembrinella is only found in forest areas (Mello, 2003), and in this study it was considered accidental in the three sites.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b30",
+          "text": "(Mello, 2003)",
+          "offset_start": 56,
+          "offset_end": 69
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_d10ae7c5",
+      "text": "Hemilucilia semidiaphana was constant in the three sites, whereas in the study by Rodrigues-Guimarães et al. (2004) in a reforestation area, the species was considered to be accessory.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b43",
+          "text": "Rodrigues-Guimarães et al. (2004)",
+          "offset_start": 82,
+          "offset_end": 115
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_c829d499",
+      "text": "A survey in a fragment of the forest in Ilha do Governador, carried out by Leandro and D'Almeida (2005), also showed Chloroprocta idioidea as accidental. These insects were collected at extremely irregular frequencies and the authors observed that the bionomy of the species is still unknown. D' Almeida and Lopes (1983) and Guimarães (2006) considered it to be an asynanthropic species. Centeno et al. (2004) considered that the decreasing abundance of Paralucilia pseudo-lyrcea (Mello, 1969) was an indicator of human actions. This study in Argentina showed this species as an asynanthropic one, of high diversity in natural areas. Marinho et al. (2006) observed peaks in dipteran capture in May, June, September and January. May, June and September peaks were probably consequences of the presence of grumixama fruits (Eugenia brasiliensis), while the January peak resulted from guava fructification. Santos (1995) and Azevedo (2001) also observed that the presence of fruit trees influenced dipteran capture. In the present study, the greatest abundance of dipterans occurred in September and November 2006 for the majority of species, which may also be related to the fructification of grumixama and jackfruits.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "Leandro and D'Almeida (2005)",
+          "offset_start": 75,
+          "offset_end": 103
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "Almeida and Lopes (1983)",
+          "offset_start": 296,
+          "offset_end": 320
+        },
+        {
+          "type": "bibr",
+          "target": "#b17",
+          "text": "Guimarães (2006)",
+          "offset_start": 325,
+          "offset_end": 341
+        },
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "Centeno et al. (2004)",
+          "offset_start": 388,
+          "offset_end": 409
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Mello, 1969)",
+          "offset_start": 480,
+          "offset_end": 493
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "Marinho et al. (2006)",
+          "offset_start": 634,
+          "offset_end": 655
+        },
+        {
+          "type": "bibr",
+          "target": "#b44",
+          "text": "Santos (1995)",
+          "offset_start": 904,
+          "offset_end": 917
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "Azevedo (2001)",
+          "offset_start": 922,
+          "offset_end": 936
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a49a1105",
+      "text": "The differences between sites A and C in relation to the Calliphoridae community reflected the differences among the tree community and climatic variables of these sites. Seasonal distribution of Calliphoridae specimens is highly influenced by variations in climatic conditions (Ferreira and Lacerda, 1993).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "(Ferreira and Lacerda, 1993)",
+          "offset_start": 278,
+          "offset_end": 306
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_9e5de273",
+      "text": "Subwood density and canopy openness were directly correlated only in site B possibly due to the massive presence of bamboo in this site, showing that the greater the abundance of bamboo (dense subwood), the lower the number of tall trees (larger canopy openness).",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_c241bd70",
+      "text": "Site A showed a significant relationship between subwood density and Calliphoridae abundance and richness. In site B, only subwood density was correlated with abundance. In site C, it was observed that the greater the subwood density, the greater Calliphoridae abundance and richness; larger canopy openness was correlated with less richness. Except in site A, abundance and richness were correlated with vegetation: the denser the subwood, the smaller the canopy openness and the greater the abundance and richness of Calliphoridae. However, in the study by Furusawa and Cassino (2006), the greatest diversity and abundance were observed in sites where edge effects were still observed.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "Furusawa and Cassino (2006)",
+          "offset_start": 559,
+          "offset_end": 586
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_2b413be7",
+      "text": "According to Vieira and Mendel (2002), arthropod diversity is related to structural complexity of the habitat. Structurally more complex environments show greater numbers of species because they offer greater availability of habitats, refuge against predators, places for nidification and food resources. Therefore, greater richness and abundance are more likely to occur in denser forests.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b49",
+          "text": "Vieira and Mendel (2002)",
+          "offset_start": 13,
+          "offset_end": 37
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_27846c0f",
+      "text": "Most of these species are highly susceptible to extinction in tropical forests, because they occur in very low densities and show close ecological interactions with other species (Myers, 1987). This explains the low number of individuals of some species that were collected in this study, such as C. idioidea.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b33",
+          "text": "(Myers, 1987)",
+          "offset_start": 179,
+          "offset_end": 192
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_007c49d2",
+      "text": "Although different results were obtained in the Amazon by Laurance et al. (2002), and in other longterm studies (Debinski and Holt, 2000), no satisfactory concepts have been able to explain edge effects in tropical forests (Rodrigues and Nascimento, 2006). Esposito and Filho (2006) believe that some fly species are more closely associated with pristine environments, whereas others are more connected to affected environments. Therefore, further studies are necessary to determine a new paradigm for understanding these phenomena.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Laurance et al. (2002)",
+          "offset_start": 58,
+          "offset_end": 80
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Debinski and Holt, 2000)",
+          "offset_start": 112,
+          "offset_end": 137
+        },
+        {
+          "type": "bibr",
+          "target": "#b42",
+          "text": "(Rodrigues and Nascimento, 2006)",
+          "offset_start": 223,
+          "offset_end": 255
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "Esposito and Filho (2006)",
+          "offset_start": 257,
+          "offset_end": 282
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0fc1118a",
+      "text": "Acknowledgements -The authors would like to thank CAPES, CNPQ, FINEP and UNIRIO for the grants for the study and IOC-FIOCRUZ for transportation to the Reserve. We are grateful to the team at the Reserva Biológica do Tinguá (Nova Iguaçu office); to IBAMA for the study license and to Prof. André Felipe Nunes (IF/UFRRJ) for assistance in recording data on the tree community.",
+      "coords": [],
+      "refs": []
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Figure 1 .",
+      "type": "figure",
+      "desc": "Figure 1. Climatic variables from June 2006 to May 2007, obtained in the Estação Experimental de Itaguaí/PESAGRO-RIO, Seropédica -Rio de Janeiro (22° 45' S and 43° 41' W); mean temperature (°C), relative humidity (%) and total precipitation during the three days the traps were exposed in each month of collection.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_1",
+      "label": "2",
+      "head": "Figure 2 .",
+      "type": "figure",
+      "desc": "Figure 2. The nine most abundant Calliphoridae species collected in the Reserva Biológica do Tinguá from June 2006 to May 2007, in the different collection sites: Site A, located 500 m from the entrance of the Reserve (edge); Site B and Site C, located respectively 1,000 and 500 m towards the interior of the forest.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_2",
+      "label": "3",
+      "head": "Figure 3 .",
+      "type": "figure",
+      "desc": "Figure 3. Dendogram comparing the ten most common species, grouped according to the habitat.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1 .",
+      "type": "table",
+      "desc": "Absolute number of individuals and relative frequency (f) of Calliphoridae species, captured in three different sites at Reserva Biológica do Tinguá, RJ, in three sites, from June 2006 to May 2007.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Species",
+            "",
+            "Site*",
+            "",
+            "Total",
+            "f (%)"
+          ],
+          [
+            "",
+            "A",
+            "B",
+            "C",
+            "",
+            ""
+          ],
+          [
+            "Calliphora vicina",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0.01"
+          ],
+          [
+            "Chloroprocta idioidea",
+            "18",
+            "3",
+            "8",
+            "29",
+            "0.34"
+          ],
+          [
+            "Chrysomya albiceps",
+            "1161",
+            "256",
+            "67",
+            "1484",
+            "17.43"
+          ],
+          [
+            "Chrysomya megacephala",
+            "729",
+            "49",
+            "40",
+            "818",
+            "9.61"
+          ],
+          [
+            "Chrysomya putoria",
+            "10",
+            "2",
+            "0",
+            "12",
+            "0.14"
+          ],
+          [
+            "Cochliomyia hominivorax",
+            "7",
+            "2",
+            "1",
+            "10",
+            "0.12"
+          ],
+          [
+            "Cochliomyia macellaria",
+            "59",
+            "13",
+            "0",
+            "72",
+            "0.85"
+          ],
+          [
+            "Eumesembrinella besnoiti",
+            "3",
+            "1",
+            "0",
+            "4",
+            "0.05"
+          ],
+          [
+            "Eumesembrinella pauciseta",
+            "13",
+            "52",
+            "10",
+            "75",
+            "0.88"
+          ],
+          [
+            "Eumesembrinella quadrilineata",
+            "0",
+            "2",
+            "4",
+            "6",
+            "0.07"
+          ],
+          [
+            "Eumesembrinella randa",
+            "0",
+            "2",
+            "1",
+            "3",
+            "0.04"
+          ],
+          [
+            "Hemilucilia segmentaria",
+            "147",
+            "122",
+            "29",
+            "298",
+            "3.50"
+          ],
+          [
+            "Hemilucilia semidiaphana",
+            "1045",
+            "572",
+            "195",
+            "1812",
+            "21.28"
+          ],
+          [
+            "Huascaromusca aeneiventris",
+            "8",
+            "24",
+            "0",
+            "32",
+            "0.38"
+          ],
+          [
+            "Huascaromusca purpurata",
+            "1",
+            "1",
+            "0",
+            "2",
+            "0.02"
+          ],
+          [
+            "Laneela nigripes",
+            "302",
+            "479",
+            "860",
+            "1641",
+            "19.27"
+          ],
+          [
+            "Mesembrinella bellardiana",
+            "214",
+            "874",
+            "293",
+            "1381",
+            "16.22"
+          ],
+          [
+            "Mesembrinella bicolor",
+            "10",
+            "17",
+            "11",
+            "38",
+            "0.45"
+          ],
+          [
+            "Mesembrinella semihyalina",
+            "51",
+            "109",
+            "70",
+            "230",
+            "2.70"
+          ],
+          [
+            "Paralucilia borgmeieri",
+            "2",
+            "0",
+            "0",
+            "2",
+            "0.02"
+          ],
+          [
+            "Paralucilia fulvinota",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0.01"
+          ],
+          [
+            "Paralucilia nigrofacialis",
+            "3",
+            "1",
+            "2",
+            "6",
+            "0.07"
+          ],
+          [
+            "Paralucilia paraense",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0.01"
+          ],
+          [
+            "Paralucilia pseudo-lyrcea",
+            "34",
+            "12",
+            "0",
+            "46",
+            "0.54"
+          ],
+          [
+            "Lucilia eximia",
+            "62",
+            "331",
+            "86",
+            "479",
+            "5.62"
+          ],
+          [
+            "Lucilia sericata",
+            "9",
+            "19",
+            "5",
+            "33",
+            "0.39"
+          ],
+          [
+            "Total",
+            "3890",
+            "2944",
+            "1682",
+            "8516",
+            "-"
+          ]
+        ],
+        "metadata": {
+          "row_count": 29,
+          "column_count": 6,
+          "has_headers": false
+        }
+      },
+      "note": "*Site A, located 500 m from the entrance of the Reserve (edge); Site B and Site C, located respectively 1,000 and 500 m towards the interior of the forest;",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Dinâmica Populacional de califorídeos (Diptera: Calliphoridae) em área urbana do Rio de Janeiro, Cascadura -RJ",
+      "authors": "Acg Azevedo",
+      "publication_date": "2001",
+      "year": 2001
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "The biological dynamics of tropical rainforest fragments",
+      "authors": [
+        "R Bierregaard",
+        "T Lovejoy",
+        "V Kapos",
+        "A Santos",
+        "R Hutchings"
+      ],
+      "journal": "BioScience",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "42",
+      "issue": "11",
+      "page_start": "859",
+      "page_end": "866"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Chave de identificação para espécies de Dicotiledôneas arbóreas da Reserva Biológica do Tinguá, RJ, com base em caracteres vegetativos",
+      "authors": [
+        "D Braz",
+        "Mvlp Moura",
+        "E Simabukuro"
+      ],
+      "journal": "Acta Botânica Brasilica",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "18",
+      "issue": "2",
+      "page_start": "225",
+      "page_end": "240"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Disturbance, fragmentation, and the dynamics of diversity in Amazonian forest butterfflies",
+      "authors": [
+        "K Brown",
+        "R Hutchings"
+      ],
+      "editors": "LAURANCE, WF. and BIERREGAARD Jr., RO.",
+      "publication_date": "1997",
+      "year": 1997,
+      "page_start": "91",
+      "page_end": "110",
+      "notes": "Tropical forest remnants: ecology, management, and conservation of fragmented communities"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "Diversity of Calliphoridae (Insecta: Diptera) in Hudson",
+      "authors": [
+        "N Centeno",
+        "D Almorza",
+        "C Arnillas"
+      ],
+      "journal": "Neotropical Entomology",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "33",
+      "issue": "3",
+      "page_start": "387",
+      "page_end": "390"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "Sinantropia de Dípteros Muscóides (Calliphoridae) no Estado do Rio de Janeiro",
+      "authors": [
+        "D'almeida",
+        "J Lopes",
+        "H"
+      ],
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "6",
+      "page_start": "39",
+      "page_end": "48"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "A survey and overview of habitat fragmentation experiments",
+      "authors": [
+        "R Dajoz",
+        "D Debinski",
+        "R Holt"
+      ],
+      "journal": "Conservation Biology",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "14",
+      "issue": "2",
+      "page_start": "342",
+      "page_end": "355",
+      "notes": "Ecologia geral. 4 ed. Petrópolis: Vozes"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Insects in fragmented forests: a functional approach",
+      "authors": [
+        "R Didham",
+        "J Ghazoul",
+        "N Stork",
+        "A Davis"
+      ],
+      "journal": "Trends in Ecology and Evolution",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "11",
+      "issue": "6",
+      "page_start": "255",
+      "page_end": "260"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Composição e abundância de califorídeos e mesembrinelídeos",
+      "authors": [
+        "M Esposito",
+        "Fsc Filho"
+      ],
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "70",
+      "page_start": "55",
+      "page_end": "63",
+      "notes": "Insecta"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "nas clareiras e matas da base de extração petrolífera, Bacia do Rio Urucu",
+      "authors": "Diptera",
+      "publisher": "INPA"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Desenvolvimento e avaliação de novas metodologias para testar a atratividade de Chrysomya megacephala (Fabricius) (Diptera: Calliphoridae) a estímulo visual por cores em condições laboratoriais",
+      "authors": [
+        "Acp Ferraz",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Neotropical Entomology",
+      "publication_date": "2008",
+      "year": 2008,
+      "volume": "37",
+      "issue": "3",
+      "page_start": "334",
+      "page_end": "337"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Sinantropia de dípteros muscóides de Curitiba, Paraná. I. Calliphoridae",
+      "authors": "Mjm Ferreira",
+      "journal": "Revista Brasileira de Biologia = Brazilian Journal of Biology",
+      "publication_date": "1978",
+      "year": 1978,
+      "volume": "38",
+      "issue": "2",
+      "page_start": "45",
+      "page_end": "454"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "Sinantropia de Calliphoridae (Diptera) em Goiânia, Goiás",
+      "authors": "______",
+      "journal": "Revista Brasileira de Biologia = Brazilian Journal of Biology",
+      "publication_date": "1983",
+      "year": 1983,
+      "volume": "43",
+      "issue": "2",
+      "page_start": "199",
+      "page_end": "210"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Muscóides sinantrópicos associados ao lixo urbano em Goiânia",
+      "authors": [
+        "Mjm Ferreira",
+        "P Lacerda"
+      ],
+      "journal": "Revista Brasileira de Zoologia",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "10",
+      "issue": "2",
+      "page_start": "185",
+      "page_end": "195"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "authors": [
+        "G Furusawa",
+        "Pcr Cassino"
+      ],
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "authors": [
+        "Médio Frontin",
+        "Paraíba"
+      ],
+      "journal": "RJ. Revista de Biologia e Ciências da Terra",
+      "volume": "6",
+      "issue": "1",
+      "page_start": "152",
+      "page_end": "164"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Efeitos da cobertura de dossel na densidade e estatura de gramíneas e da regeneração natural de plantas lenhosas em mata de galeria",
+      "authors": "Fag Guilherme",
+      "journal": "Cerne",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "6",
+      "issue": "1",
+      "page_start": "60",
+      "page_end": "66"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "Sazonalidade da fauna califorídica (Insecta, Diptera: Calliphoridae) e de microhimnópteros parasitóides (Insecta, Hymnoptera) associados a Cochliomyia hominivorax (Coquerel, 1858) na região da Baixada Fluminense",
+      "authors": "R Guimarães",
+      "publisher": "Universidade Federal Rural do Rio de Janeiro",
+      "publication_date": "2006",
+      "year": 2006,
+      "notes": "Tese de Doutorado"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Projeto Tinguá. Rio de Janeiro: Instituto de Pesquisas Jardim Botânico do Rio de Janeiro",
+      "publication_date": "2002",
+      "year": 2002,
+      "notes": "Relatório técnico-científico"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Edge effects in tropical Forest fragments: applications of a model for the design of nature reserves",
+      "authors": "W Laurance",
+      "journal": "Biological Conservation",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "57",
+      "issue": "2",
+      "page_start": "205",
+      "page_end": "219"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Do edge effects occur over large spatial scales?",
+      "authors": "______",
+      "journal": "Trends in Ecology and Evolution",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "15",
+      "issue": "4",
+      "page_start": "134",
+      "page_end": "135"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Tropical Forest Remnants: ecology, management and conservation of fragmented communities",
+      "authors": [
+        "Laurance",
+        "W Bierregaard",
+        "Ro"
+      ],
+      "publisher": "Chicago University Press",
+      "publication_date": "1997",
+      "year": 1997,
+      "pages": "616"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "The future of the Brazilian Amazon",
+      "authors": [
+        "W Laurance",
+        "M Cochrane",
+        "S Bergen",
+        "P Fearnside",
+        "P Delamônica",
+        "C Barber",
+        "S D'angelo",
+        "T Fernandes"
+      ],
+      "journal": "Science Magazine",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "291",
+      "issue": "5503",
+      "pages": "438"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "Ecosystem decay of Amazonian forest fragments: a 22-year investigation",
+      "authors": [
+        "W Laurance",
+        "T Lovejoy",
+        "H Vasconcelos",
+        "E Bruna",
+        "R Didham",
+        "P Stouffer",
+        "C Gascon",
+        "R Bierregaard",
+        "S Laurance",
+        "E Sampaio"
+      ],
+      "journal": "Conservation Biology",
+      "publication_date": "2002",
+      "year": 2002,
+      "volume": "16",
+      "issue": "3",
+      "page_start": "605",
+      "page_end": "618"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Calliphoridae, Fanniidae, Muscidae and Sarcophagidae in a rainforest fragment in Ilha do Governador, Rio de Janeiro",
+      "authors": [
+        "Mjf Leandro",
+        "J Almeida"
+      ],
+      "journal": "Brasil. Iheringia, Série Zoologia",
+      "publication_date": "2005",
+      "year": 2005,
+      "volume": "95",
+      "issue": "4",
+      "page_start": "377",
+      "page_end": "381"
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Sinantropia de dípteros muscóides de Campinas. Campinas: Universidade Estadual de Campinas",
+      "authors": "A Linhares",
+      "publication_date": "1979",
+      "year": 1979,
+      "pages": "139",
+      "notes": "Dissertação de Mestrado"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Estudo florístico e fitossociológico do estrato herbáceo-subarbustivo na reserva biológica de Mogi Guaçu e em Itirapina. Campinas: Universidade Estadual de Campinas",
+      "authors": "W Mantovani",
+      "publication_date": "1987",
+      "year": 1987,
+      "notes": "Tese de Doutorado"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "The distribution of the Calliphoridae in Argentina (Diptera)",
+      "authors": [
+        "J Mariluis",
+        "Mulieri Pr"
+      ],
+      "journal": "Revista de La Sociedad Entomológica Argentina",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "62",
+      "issue": "1/2",
+      "page_start": "85",
+      "page_end": "97"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Diversity of Calliphoridae (Diptera) in Brazil's Tinguá Biological Reserve",
+      "authors": [
+        "C Marinho",
+        "L Barbosa",
+        "Acg Azevedo",
+        "Mmc Queiroz",
+        "M Valgode",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Revista Brasileira de Biologia = Brazilian Journal of Biology",
+      "publication_date": "2006",
+      "year": 2006,
+      "volume": "66",
+      "issue": "1A",
+      "page_start": "95",
+      "page_end": "100"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Efeito de Borda sobre a dinâmica e estrutura das comunidades de árvores na Mata Atlântica da Reserva Biológica do Tinguá -RJ",
+      "authors": "L Melo",
+      "publisher": "Universidade Federal do Estado do Rio de Janeiro",
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b31",
+      "target": "b30",
+      "title": "Chave para a identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil",
+      "authors": "R Mello",
+      "journal": "Entomologia y Vectores",
+      "publication_date": "2003",
+      "year": 2003,
+      "volume": "10",
+      "issue": "2",
+      "page_start": "55",
+      "page_end": "268"
+    },
+    {
+      "id": "b32",
+      "target": "b31",
+      "title": "Population fluctuations of calliphorid species (Diptera, Calliphoridae) in the Biological Reserve of Tinguá, state of Rio de Janeiro",
+      "authors": [
+        "R Mello",
+        "Mmc Queiroz",
+        "V Aguiar-Coelho"
+      ],
+      "journal": "Brazil. Iheringia, Série Zoologia",
+      "publication_date": "2007",
+      "year": 2007,
+      "volume": "97",
+      "issue": "4",
+      "page_start": "1",
+      "page_end": "5"
+    },
+    {
+      "id": "b33",
+      "target": "b32",
+      "title": "Aims and methods for vegetation ecology",
+      "authors": [
+        "D Muller-Dombois",
+        "H Ellemberg"
+      ],
+      "publisher": "John Wiley & Sons",
+      "publication_date": "1974",
+      "year": 1974,
+      "pages": "547"
+    },
+    {
+      "id": "b34",
+      "target": "b33",
+      "title": "The extinction spasm impending: synergisms at work",
+      "authors": "N Myers",
+      "journal": "Conservation Biology",
+      "publication_date": "1987",
+      "year": 1987,
+      "volume": "1",
+      "issue": "1",
+      "page_start": "14",
+      "page_end": "21"
+    },
+    {
+      "id": "b35",
+      "target": "b34",
+      "title": "Biodiversity hotspots for conservation priorities",
+      "authors": [
+        "N Myers",
+        "R Mittermeier",
+        "C Mittermeier",
+        "Gab Fonseca",
+        "J Kents"
+      ],
+      "journal": "Nature",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "403",
+      "page_start": "853",
+      "page_end": "845"
+    },
+    {
+      "id": "b36",
+      "target": "b35",
+      "title": "Uso da análise faunística de insetos na avaliação impacto ambiental",
+      "authors": [
+        "S Neto",
+        "R Monteiro",
+        "R Zucchi",
+        "Rcb Moraes"
+      ],
+      "journal": "Scientia Agricola",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "52",
+      "issue": "1",
+      "page_start": "9",
+      "page_end": "15"
+    },
+    {
+      "id": "b37",
+      "target": "b36",
+      "title": "Calliphoridae (Diptera) da Bacia do Alto Bacia do Rio Urucu",
+      "authors": "N Paraluppi",
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "13",
+      "issue": "3",
+      "page_start": "553",
+      "page_end": "559"
+    },
+    {
+      "id": "b38",
+      "target": "b37",
+      "title": "Estado atual de dispersão e distribuição do gênero Chrysomya Robineau-Desvoidy na região neotropical (Diptera, Calliphoridae)",
+      "authors": [
+        "A Prado",
+        "J Guimarães"
+      ],
+      "journal": "Revista Brasileira de Entomologia",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "26",
+      "issue": "3/4",
+      "page_start": "225",
+      "page_end": "231"
+    },
+    {
+      "id": "b39",
+      "target": "b38",
+      "title": "EXE/7742_4.PDF? NrOcoSis=22728&CdLinPrg=em>. Access in: 21 de Fevereiro de",
+      "publication_date": "2006",
+      "year": 2006
+    },
+    {
+      "id": "b40",
+      "target": "b39",
+      "journal": "Braz. J. Biol",
+      "publication_date": "2010",
+      "year": 2010,
+      "volume": "70",
+      "issue": "1",
+      "page_start": "55",
+      "page_end": "63"
+    },
+    {
+      "id": "b41",
+      "target": "b40",
+      "title": "Edge effects on the regeneration of forest fragments in south Brazil",
+      "authors": "E Rodrigues",
+      "publication_date": "1998",
+      "year": 1998,
+      "notes": "Tese de Doutorado"
+    },
+    {
+      "id": "b42",
+      "target": "b41",
+      "title": "Homópteros (Homoptera: Sternorrhyncha) Associados à Tangerina cv. Poncã (Citrus reticulata Blanco) em cultivo orgânico e a interação com predadores e formigas",
+      "authors": "W Rodrigues",
+      "publisher": "Universidade Federal Rural do Rio de Janeiro",
+      "publication_date": "2004",
+      "year": 2004,
+      "pages": "63",
+      "notes": "Tese de Doutorado"
+    },
+    {
+      "id": "b43",
+      "target": "b42",
+      "title": "Fragmentação florestal: breves considerações teóricas sobre efeitos de borda. Rodriguésia",
+      "authors": [
+        "Pjfp Rodrigues",
+        "M Nascimento"
+      ],
+      "publication_date": "2006",
+      "year": 2006,
+      "notes": "No prelo"
+    },
+    {
+      "id": "b44",
+      "target": "b43",
+      "title": "Constance coefficient of blowflies (Diptera: Calliphoridae) in Nova Iguaçu, Rio de Janeiro",
+      "authors": [
+        "R Rodrigues-Guimarães",
+        "G Moya-Borja",
+        "E Pile",
+        "R Guimarães",
+        "F Sampaio"
+      ],
+      "journal": "Brasil. Boletin de La Sociedad Entomológica Aragonesa",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "35",
+      "page_start": "251",
+      "page_end": "255"
+    },
+    {
+      "id": "b45",
+      "target": "b44",
+      "title": "Contribuição ao conhecimento da Família Calliphoridae (Diptera: Cyclorrhapha) na Reserva Biológica do Tinguá",
+      "authors": "A Santos",
+      "publisher": "Fundação Oswaldo Cruz",
+      "publication_date": "1995",
+      "year": 1995,
+      "notes": "28 p. [Monografia"
+    },
+    {
+      "id": "b46",
+      "target": "b45",
+      "title": "Biological consequences of ecosystem fragmentation: a review",
+      "authors": [
+        "D Saunders",
+        "R Hobbs",
+        "C Margules"
+      ],
+      "journal": "Conservation Biology",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "5",
+      "issue": "1",
+      "page_start": "18",
+      "page_end": "32"
+    },
+    {
+      "id": "b47",
+      "target": "b46",
+      "title": "Forest fragmentation, synergisms and the impoverishment of neotropical forest",
+      "authors": [
+        "; Statsoft",
+        "Jmc Silva",
+        "C Gascon"
+      ],
+      "publication_date": "1999",
+      "year": 1999,
+      "volume": "13",
+      "page_start": "1419",
+      "page_end": "1425"
+    },
+    {
+      "id": "b48",
+      "target": "b47",
+      "title": "Biogeography and diversity of ground-dwelling arthropods in farm woodlands",
+      "authors": [
+        "M Usher",
+        "J Field",
+        "S Bedford"
+      ],
+      "journal": "Biodiversity Letters",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "1",
+      "page_start": "54",
+      "page_end": "62"
+    },
+    {
+      "id": "b49",
+      "target": "b48",
+      "title": "Abundância e flutuação populacional das espécies de Chrysomya (Diptera, Calliphoridae) em Pelotas",
+      "authors": [
+        "Ees Vianna",
+        "Prp Costa",
+        "A Fernandes",
+        "P Ribeiro"
+      ],
+      "journal": "Brasil. Iheringia, Série Zoologia",
+      "publication_date": "2004",
+      "year": 2004,
+      "volume": "94",
+      "issue": "3",
+      "page_start": "231",
+      "page_end": "234"
+    },
+    {
+      "id": "b50",
+      "target": "b49",
+      "title": "Riqueza de artrópodes relacionada à complexidade estrutural da vegetação: uma comparação entre métodos",
+      "authors": [
+        "L Vieira",
+        "S Mendel"
+      ],
+      "editors": [
+        "E Venticique",
+        "M Hopkins"
+      ],
+      "publisher": "UFMS",
+      "publication_date": "2002",
+      "year": 2002
+    },
+    {
+      "id": "b51",
+      "target": "b50",
+      "authors": "J Zar",
+      "publisher": "Prentice Hall",
+      "publication_date": "1999",
+      "year": 1999,
+      "notes": "3 ed."
+    }
+  ]
+}

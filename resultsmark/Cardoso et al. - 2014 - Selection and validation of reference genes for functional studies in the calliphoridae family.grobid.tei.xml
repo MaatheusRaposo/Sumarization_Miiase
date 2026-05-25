@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Selection and validation of reference genes for functional studies in the Calliphoridae family</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability  status="unknown">
+					<licence/>
+				</availability>
+				<date type="published" when="2014-01-02">2 January 2014</date>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Gisele</forename><forename type="middle">Antoniazzi</forename><surname>Cardoso</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Genética , Evolução e Bioagentes , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department" key="dep1">Departamento de Genética</orgName>
+								<orgName type="department" key="dep2">Evolução e Bioagentes</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Cleverson</forename><forename type="middle">Carlos</forename><surname>Matiolli</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Genética , Evolução e Bioagentes , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department" key="dep1">Departamento de Genética</orgName>
+								<orgName type="department" key="dep2">Evolução e Bioagentes</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Ana</forename><forename type="middle">Maria</forename><surname>Lima De Azeredo- Espin</surname></persName>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<author role="corresp">
+							<persName><forename type="first">Tatiana</forename><forename type="middle">Teixeira</forename><surname>Torres</surname></persName>
+							<email>atttorres@ib.usp.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Centro de Biologia Molecular e Engenharia Genética (CBMEG) , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department">Centro de Biologia Molecular e Engenharia Genética (CBMEG)</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>2</label> Departamento de Genética , Evolução e Bioagentes , Universidade Estadual de Campinas (UNICAMP) , Campinas , SP , Brazil</note>
+								<orgName type="department" key="dep1">Departamento de Genética</orgName>
+								<orgName type="department" key="dep2">Evolução e Bioagentes</orgName>
+								<orgName type="institution">Universidade Estadual de Campinas (UNICAMP)</orgName>
+								<address>
+									<settlement>Campinas</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+							<affiliation key="aff2">
+								<note type="raw_affiliation"><label>3</label> Departamento de Genética e Biologia Evolutiva , Instituto de Biociências , Universidade de São Paulo (USP) , São Paulo , SP , Brazil</note>
+								<orgName type="department">Departamento de Genética e Biologia Evolutiva</orgName>
+								<orgName type="institution" key="instit1">Instituto de Biociências</orgName>
+								<orgName type="institution" key="instit2">Universidade de São Paulo (USP)</orgName>
+								<address>
+									<settlement>São Paulo</settlement>
+									<region>SP</region>
+									<country key="BR">Brazil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Selection and validation of reference genes for functional studies in the Calliphoridae family</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">1536-2442</idno>
+						<imprint>
+							<date type="published" when="2014-01-02">2 January 2014</date>
+						</imprint>
+					</monogr>
+					<idno type="MD5">ED7A4B851691D7AA0EB45AF662414958</idno>
+					<note type="submission">Received: 11 May 2012 Accepted: 13 August 2012</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>BestKeeper</term>
+					<term>Cochliomyia</term>
+					<term>Chrysomya</term>
+					<term>gene expression</term>
+					<term>geNorm</term>
+					<term>NormFinder</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>The genera Cochliomyia and Chrysomya contain both obligate and saprophagous flies, which allows the comparison of different feeding habits between closely related species. Among the different strategies for comparing these habits is the use of qPCR to investigate the expression levels of candidate genes involved in feeding behavior. To ensure an accurate measure of the levels of gene expression, it is necessary to normalize the amount of the target gene with the amount of a reference gene having a stable expression across the compared species. Since there is no universal gene that can be used as a reference in functional studies, candidate genes for qPCR data normalization were selected and validated in three Calliphoridae (Diptera) species, Cochliomyia hominivorax Coquerel, Cochliomyia macellaria Fabricius, and Chrysomya albiceps Wiedemann. The expression stability of six genes (Actin, Gapdh, Rp49, Rps17, α-tubulin, and GstD1) was evaluated among species within the same life stage and between life stages within each species. The expression levels of Actin, Gapdh, and Rp49 were the most stable among the selected genes. These genes can be used as reliable reference genes for functional studies in Calliphoridae using similar experimental settings.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The Calliphoridae family contains flies of economic, veterinary, and sanitary importance. Flies of this family feed on different sources, such as living tissues of a vertebrate host (obligate parasites) or decaying organic matter (saprophagous behavior). These infestations, known as myiasis, are caused by Calliphoridae species in the larval stage <ref type="bibr" target="#b39">(Zumpt 1965)</ref>. The evolutionary origins of parasitic behavior in Calliphoridae are unknown. However, given the evolutionary history of this family, it probably occurred in at least three independent events <ref type="bibr" target="#b34">(Stevens and Wallman 2006)</ref>. It has been proposed that this division between feeding behaviors reflects the progressive evolution of parasitism in Calliphoridae <ref type="bibr" target="#b33">(Stevens 2003</ref>).</p><p>An interesting approach for investigating this biological question is to compare the expression of genes related to feeding behavior in closely related species, correlating their expression levels with the different feeding behaviors. Within Calliphoridae, the genera Cochliomyia and Chrysomya contain both obligate and saprophagous flies, which allows the comparison of the different feeding habits between closely related species. Due to its high sensitivity for the detection of PCR products with a fluorescence reporter, real-time qPCR has become the gold standard method for measuring mRNA levels <ref type="bibr" target="#b38">(Wong and Medrano 2005;</ref><ref type="bibr" target="#b37">VanGuilder et al. 2008)</ref> and therefore an appropriate technique to compare expression levels between the different Calliphoridae species.</p><p>To ensure an accurate measure of the level of gene expression, it is compulsory to normalize the amount of the target gene with the amount of a reference gene. The normal-ization step is important to reduce experimental variability caused by factors such as the initial amount of total RNA, the integrity of the RNA, and the efficiency of the reverse transcriptase <ref type="bibr" target="#b38">(Wong and Medrano 2005)</ref>.</p><p>Since there is no universal gene that can be used as reference in functional studies, and as part of an effort to understand the evolution of parasitic behavior in Calliphoridae, 10 candidate genes were selected for qPCR data normalization. The expression stability was evaluated for six genes in three different species of the Calliphoridae (Diptera) family, Cochliomyia hominivorax Coquerel (parasite), Cochliomyia macellaria Fabricius (saprophagous), and Chysomya albiceps Wiedemann (saprophagous). Here, a stable expression level among different Calliphoridae species and between two different lifestages within each species is provided. To our knowledge, this is the first cross-species validation study of reference genes for qPCR experiments in an evolutionary framework. A set of candidate genes (and primers to amplify them) that can be tested in different experimental settings is also provided. These are important resources for functional studies in the Calliphoridae family.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Materials and Methods</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Fly collection and maintenance</head><p>Cochliomyia macellaria and C. albiceps were collected respectively in Campinas and Sorocaba, both in São Paulo State, Brazil. Adult flies were captured using a hand net and decaying meat or fish as bait. Cochliomyia hominivorax larvae were collected directly from wounds of infested animals in cattle breeding farms in Caiapônia, Goiás, Brazil. Larvae of the three species were reared at 30° C ± 5° C. Cochliomyia hominivorax larvae were maintained in a medium consisting of fresh ground beef supplemented with blood and water (2:1). Cochliomyia macellaria and C. albiceps larvae were fed on rats donated by the São Leopoldo Mandic College in Campinas, São Paulo, Brazil. These rats were euthanized with a lethal dose of anesthetic (1 mL of 50% chloral hydrate) before they were received. Mature larvae of the three species were allowed to pupate in sawdust. Adults were maintained in cages (34 x 50 x 26 cm) at 25° C and fed a diet composed of dried milk, sugar, and yeast ferment.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reference gene selection and primer design</head><p>Candidate reference genes were selected from previous insect studies. These candidates were chosen from functional studies using qPCR, in which they were used as reference genes, or from studies validating the stability of mRNA levels across different samples in which they showed a stable mRNA level. Actin was used as an endogenous control in a study comparing mRNA levels of genes involved in host specialization in Drosophila melanogaster, Drosophila sechellia, and Drosophila simulans <ref type="bibr" target="#b15">(Dworkin and Jones 2009)</ref>. The genes α-tub, Gapdh, GstD1, Rp49, RpL13A, and RpS18 were selected from a validation study in heads of the western honeybee, Apis mellifera, with a bacterial challenge <ref type="bibr" target="#b31">(Scharlaken et al. 2008)</ref>. Finally, the stability of α-tub, Gapdh, Rp49, and Ef1α100E in qPCR experiments was evaluated in brains of nymphs and adults of the locust Schistocerca gregaria <ref type="bibr" target="#b35">(Van Hiel et al. 2009)</ref>. Two additional housekeeping genes were selected, RpS17 and SdhA. The sequences of the candidate genes were recovered from the Flybase (<ref type="url" target="www.flybase.org">www.flybase.org</ref>) and GenBank (<ref type="url" target="www.ncbi.nlm.nih.gov/genbank">www.ncbi.nlm.nih.gov/genbank</ref>) databases.</p><p>The sequences from the transcriptome of Co. hominivorax <ref type="bibr" target="#b8">(Carvalho et al. 2010)</ref> were aligned against the sequences of D. melanogaster using the program tblastx <ref type="bibr" target="#b0">(Altschul et al. 1990</ref>) to search for possible orthologs of the genes Actin, α-tub, Ef1α100E, Gapdh, GstD1, RpL13A, Rp49, RpS17, RpS18, and SdhA.</p><p>The mapped reads were used to perform a global alignment <ref type="bibr" target="#b13">(Chenna et al. 2003)</ref> against the sequences of the 12 Drosophila species with whole genome sequences using the Clustal W program <ref type="bibr" target="#b14">(Clark et al. 2007</ref>). The alignments were used to identify conserved regions, whereas primer pairs for each candidate gene were designed using Primer3 <ref type="bibr" target="#b30">(Rozen and Skaletsky 2000)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Amplification of the selected genes</head><p>A PCR was performed using genomic DNA of five Calliphoridae (Diptera) species, C. albiceps, Chrysomya Megacephala Fabricius, Chrysomya putoria Wiedemann, Co. hominivorax, and Co. macellaria, to test the primers designed for the selected candidate genes.</p><p>PCR amplifications were performed in a GeneAmp PCR system 9700 (Applied Biosystems, Life Technologies, <ref type="url" target="www.lifetechnologies.com">www.lifetechnologies.com</ref>) with a 20 µL final volume. All reactions contained MgCl 2 in a final concentration of 2.0 mM, 0.6 mM of primers, dNTPs in a final concentration of 200 µM, and 1 unit of Taq DNA polymerase (Fermentas, <ref type="url" target="www.thermoscientificbio.com/fermentas">www.thermoscientificbio.com/fermentas</ref>) with 5-30 ng of DNA. After an initial denaturing step of 3 min at 94° C, 35 cycles were performed, each consisting of 50 sec at 94° C, 30 sec at 60° C, and 30 sec at 72° C. A final extension was performed at 72° C for 5 min.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>RNA isolation and cDNA synthesis</head><p>The main motivation for this study was the investigation of feeding habits in Calliphoridae. The larval stages were initially chosen because the different feeding habits are exhibited during this stage. However, adult females are responsible for choosing the oviposition sites and, consequently, can play a major role in the evolution of feeding behavior (once the eggs hatch, the larvae have to feed on any resource the female has chosen). Hence, larvae and adult female samples were chosen for the evaluation of the reference genes.</p><p>Total RNA was extracted from adult females and 3rd instar larvae of the three species from two different generations. Three separate individuals of each generation were used, resulting in a total of six biological replicates. The Trizol reagent (Invitrogen, Life Technologies) was used according to the manufacturer's protocol to extract total RNA. RNA integrity was confirmed through agarose gel electrophoresis.</p><p>All samples were treated with Turbo DNase (Ambion, Life Technologies) to avoid DNA contamination. The Turbo DNase inactivation was performed by heating the samples at 75° C for 10 min. To avoid RNA degradation when heated, EDTA was added to a final concentration of 2.5 mM. The RNA was quantified using the Qubit fluorometer (Invitrogen) with the Qubit RNA assay kit (Invitrogen) according to the manufacturer's protocol.</p><p>PCRs were performed in a 20 µL final volume using 1 µL of each treated sample. Rp49 primer pairs were used in a final concentration of 0.4 mM and an annealing temperature of 60° C in the same conditions previously described to check if any of the samples were still contaminated with DNA after the Turbo DNase treatment.</p><p>The cDNA syntheses were performed using 0.4 µg of total RNA with the First Strand cDNA Synthesis Kit (Fermentas) according to the manufacturer's protocol. After the cDNA synthesis, all samples were diluted 10 times for the qPCR assays. mRNA levels quantification qPCRs were performed in a 12.5 µL reaction volume following the manufacturer's instructions for SYBR Green PCR Master Mix (Applied Biosystems). In each reaction, 1.5 µL of the cDNA sample were used and the primers were in a final concentration of 0,4 µM. The qPCRs were run in technical replicates to assess the intra-assay variation on an ABI 7500 PCR Real Time System (Applied Biosystems) using the following cycling conditions: 2 min at 50° C, 10 min at 95° C, and 40 cycles consisting of 15 min at 95° C and 60 sec at 60° C. To check for possible non-specific amplification and primer-dimer formation, after the 40 cycles, samples were submitted to a dissociation step consisting of an increase in temperature from 60° C to 95° C (increasing 1° C per minute for 35 min) to obtain the dissociation curve. PCR efficiencies were calculated using the equation E = 10 1/slope . To measure the expression stability of the selected genes, the ΔCt method <ref type="bibr" target="#b36">(Vandesompele et al. 2002)</ref> was used to calculate the calibrated data. A control sample (a Co. hominivorax larva sample) with Rp49 primers was used in each qPCR run to account for inter-run variations. The inter-run variation in the Ct of the control sample was used to correct all raw Cts values. For each gene, 3-fold serial dilutions (six dilutions) of cDNA samples were used to construct a standard curve from Ct measures against the log of template quantity.</p><p>Table 1. Candidate reference genes. 1 Genbank accession number of Cochliomyia hominivorax sequence used for primer design 2 Primer sequences (F: forward; R: reverse)</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Gene stability analysis</head><p>The software geNorm <ref type="bibr" target="#b36">(Vandesompele et al. 2002)</ref>, NormFinder <ref type="bibr" target="#b1">(Andersen et al. 2004</ref>), and BestKeeper <ref type="bibr" target="#b28">(Pfaffl et al. 2004</ref>) were used to establish suitable reference genes for qPCR data normalization. These three programs have different statistical approaches that can be used to measure how stable a gene expression is between distinct conditions or among different species and develdevelopmental stages.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Results</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Selection and amplification of the candidate genes</head><p>Ten candidate genes (Table <ref type="table">1</ref>) were selected from previous studies in insects: Apis mellifera <ref type="bibr" target="#b31">(Scharlaken et al. 2008)</ref>, Drosophila melanogaster <ref type="bibr" target="#b15">(Dworkin and Jones 2009)</ref>, and Schistocerca gregaria <ref type="bibr" target="#b35">(Van Hiel et al. 2009</ref>). Using the sequence information from the Co. hominivorax transcriptome <ref type="bibr" target="#b8">(Carvalho et al. 2010</ref>) it was possible to search for orthologs of these candidate genes and design specific primer pairs for Co. hominivorax (Table <ref type="table">1</ref>).</p><p>The primers were designed using the sequence information from Co. hominivorax.</p><p>Consequently, all primer pairs were specific to this species. To show the utility of the designed primer pairs for a wider range of species, the selected genes were amplified from genomic DNA of five Calliphoridae species <ref type="bibr">(C. albiceps, C. megacephala, C. putoria, Co. hominivorax, and Co. macellaria)</ref>. Samples of C. megacephala and C. putoria were not used in qPCR, as colonies of these species were not maintained and it was not possible to obtain RNA.</p><p>The genes Actin, Ef1α100E, Gapdh, GstD1, RpL13A, Rp49, RpS17, and RpS18 were amplified from genomic DNA in all five species. SdhA was amplified in only two species, Co. hominivorax and Co. macellaria, while α-tub was only amplified in Co. hominivorax.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Quantitative PCR</head><p>Gene expression analyses were performed in three species, C. albiceps, Co. hominivorax and Co. macellaria.</p><p>The PCR efficiency ranged from 88 to 97% (Table <ref type="table">2</ref>). The gene with the lowest efficiency was GstD1 (88%) in Co. hominivorax and Co. macellaria. The melting/dissociation curve showed that all qPCRs generated a single specific product. The coefficient of</p><p>Table 2. Reaction efficiency and expression of the reference genes. Table 3. Stability ranking of the reference genes by GeNorm, NormFinder and BestKeeper. determination, R 2 , from standard curves generated for each gene ranged from 0.988 to 0.997, confirming that there were no inhibition contaminants present in the cDNA samples.</p><p>The expression of Ef1α100E, RpL13A, RpS18, and, SdhA was not detected in any of the three species, probably due to low mRNA levels. The amplification product for the gene α-tub was only detected in Co. hominivorax, and GstD1 had low PCR efficiency in C. albiceps. Therefore, the suitable genes for comparing gene expression among the three different species were Actin, Gapdh, Rp49, and RpS17.</p><p>The Ct values (calibrated Cts, see Methods) in all samples ranged from 8.94 (Actin in Co. macellaria larvae) to 28.09 (GstD1 in Co. macellaria larvae). The gene with the lowest variation in all dataset was Rp49, and the one with the highest variation was GstD1 (Figure <ref type="figure" target="#fig_1">1a</ref>). Comparing the Cts within each life stage, Rp49 had the lowest while RpS17 the highest variation (Figure <ref type="figure" target="#fig_1">1b</ref>). Among larval samples, the gene with the lowest variation was Rp49 and the gene with the highhighest variation was RpS17 (Figure <ref type="figure" target="#fig_1">1b</ref>).</p><p>Cts between life-stages within species were also compared. In C. albiceps and Co. macellaria, the gene with the lowest variation was Rp49 and the highest was RpS17 (Figure <ref type="figure" target="#fig_1">1c</ref>). In Co. hominivorax, Rp49 had the lowest variation and GtsD1 the highest (Figure <ref type="figure" target="#fig_1">1c</ref>). The Ct difference between gene-specific replicates was used to calculate the intra-run variation. The mean intra-run variation was 0.21. The variation was higher than 1 (higher than 2-fold) only in the C. albiceps sample amplified using primers for the Rp49 gene, for which the variation was 1.41.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparison among species within the same life stage</head><p>The expression stability of the candidate reference genes was evaluated among the different species within each life stage to select reference genes for qPCR experiments for the comparison of different species.</p><p>The suitable reference genes for normalization were ranked based on their expression stability (M) in a combined dataset of Co. hominivorax, Co. macellaria, and C. albiceps using geNorm (Table <ref type="table">3</ref>). Gapdh and Rp49 were the two most stable genes in samples of adult females.</p><p>By analyzing the gene expression stability using NormFinder in adult females, a similar result as geNorm was observed (Table <ref type="table">3</ref>). The best combination of two genes was Rp49 and Gapdh, with a stability value of 0.332. The software geNorm ranked RpS17 as the least stable gene, while NormFinder ranked Actin as the least stable. Using Bestkeeper, Gapdh was the candidate reference gene with the least variation, having an SD of 0.74, which represents a change in gene expression lower than 2-fold (SD smaller than 1 (Wong and Medrano 2005)). Gapdh was followed by Rp49, which had an SD of 0.78. The variation in the expression of the other candidate reference genes was greater than 2-fold. The pair-wise correlation between genes and the correlation between each gene and the BestKeeper index was also calculated (Table <ref type="table">3</ref>). The best correlation between the BestKeeper index and the candidate reference gene in females was obtained for Gapdh (r = 0.805, p = 0.001).</p><p>In larvae, geNorm ranked Gapdh and Actin (M = 0.917) as the best reference genes with higher stability values (Table <ref type="table">3</ref>). Based on the intra-and inter-group variation in NormFinder, Actin (0.461) and Gapdh (0.553) were identified as the most expression-stable, and RpS17 (0.868) as the least stable.</p><p>The analysis of BestKeeper results revealed that only Rp49 had an acceptable variation in gene expression (SD of 0.84), but it was ranked third according to its correlation with the BestKeeper index (Table <ref type="table">3</ref>). Even though the variation in their expression exceeded 2-fold, Actin and Gapdh had the highest correlation with the BestKeeper index. Hence, there was a consensus among the three different algorithms suggesting the same two genes with the highest expression stability among larval samples of different species.</p><p>The results for larvae were similar to those found for adult females. The suitable genes for normalization given by the three programs were Gapdh, Actin, and Rp49.</p><p>It was not possible to determine the expression levels of GstD1 in C. albiceps. Hence, the tests were repeated without the C. albiceps samples to validate the stability of this gene between Co. hominivorax and Co. macellaria (Table <ref type="table">3</ref>). Regardless of the algorithm, GstD1 was among the least stable in both larval and adult female samples. Only RpS17 had a performance worse than GstD1.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Comparison between life stages within species</head><p>The stability of the candidate reference genes between larvae and adult females within each species was also tested. Genes with the highest stability values between stages can be used as good reference genes in developmental studies aimed at comparing gene expression among different stages of Calliphoridae flies.</p><p>In C. albiceps, there was a consensus between NormFinder, geNorm, and BestKeeper results, allowing the identification of two good candidates, Gapdh and Rp49 (Table <ref type="table">3</ref>). In BestKeeper, both had a variation lower than 2-fold (SD of 0.42 for Rp49 and 0.67 for Gapdh). Actin was ranked second (Table <ref type="table">3</ref>) but it had a higher variation (SD of 1.08). RpS17 was the least expression-stable gene regardless of the algorithm employed.</p><p>In Co. hominivorax, Actin and Gapdh are the best choices based on the geNorm results (Table <ref type="table">3</ref>), while NormFinder ranked Gapdh and Rp49 as the most expression-stable genes. BestKeeper ranked the genes differently; GstD1 and Gapdh had the best correlation with the BestKeeper index (Table <ref type="table">3</ref>) but only Rp49 and Actin had an acceptable level of variation (SD of 1.01 and 1.05, respectively).</p><p>Finally, comparing different stages in Co. macellaria, the best reference genes according to geNorm and NormFinder results were Actin and Gapdh (Table <ref type="table">3</ref>). Gapdh and Rp49 had the best correlations with BestKeeper index, but again, only Rp49 had a variation in gene expression lower than 2-fold (SD of 0.75).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussion</head><p>Although qPCR is widely used, there is no consensus as to which gene or gene set should be used for data normalization, and the selection of genes that are expressed in the same levels across all samples and different conditions of a study is still one of the challenges of this technique <ref type="bibr" target="#b5">(Bustin 2000;</ref><ref type="bibr" target="#b6">Bustin 2002</ref>). Differences in mRNA levels were observed in several housekeeping genes originally considered stable in their expression levels <ref type="bibr" target="#b29">(Radonic et al. 2004;</ref><ref type="bibr" target="#b6">Bustin 2002)</ref>. Therefore, using non-validated reference genes for normalization may result in an erroneous expression data interpretation. Thus, it is recommended to validate a set of candidate reference genes for each qPCR experiment <ref type="bibr" target="#b7">(Bustin et al. 2010</ref>). The validation of reference genes is a difficult task, as the amount of the reference gene itself requires normalization for an accurate measure. An alternative is to use a combined set of candidate reference genes and their pair-wise variation in gene expression to evaluate the expression stability of each reference gene <ref type="bibr" target="#b21">(Kubista et al. 2006;</ref><ref type="bibr" target="#b26">Nolan et al. 2006)</ref>.</p><p>Recently, with the growing concern over an accurate normalization for qPCR data, there was an increase in the number of validation studies <ref type="bibr" target="#b24">(Mallona et al. 2010)</ref>. In insect research, there are only a limited number of efforts. Reference genes for qPCR were val-idated in A. mellifera <ref type="bibr" target="#b23">(Lourenço et al. 2008;</ref><ref type="bibr" target="#b31">Scharlaken et al. 2008)</ref>, ticks, Rhipicephalus appendiculatus and Rhipicephalus microplus <ref type="bibr" target="#b25">(Nijhof et al. 2009)</ref>, the locust S. gregaria <ref type="bibr" target="#b35">(Van Hiel et al. 2009)</ref>, and the psocid Liposcelis bostsrychophila <ref type="bibr" target="#b20">(Jiang et al., 2010)</ref>. In Diptera, reference genes were validated in the fruit fly Bactrocera dorsalis <ref type="bibr" target="#b32">(Shen et al. 2010)</ref> and in the blowfly Lucilia cuprina <ref type="bibr" target="#b4">(Bagnall and Kotze 2010)</ref>.</p><p>Here, the first effort of a cross-species validation of reference genes for evolutionary studies using qPCR is described. This crossspecies approach presents some challenges for the selection of reference genes. First, it is necessary to design primers in conserved regions of orthologous genes. For non-model species, as in this study, conserved regions can be found by comparing divergent species. Cochliomyia hominivorax sequences were aligned to different species of Drosophila. However, not all primers designed recovered the desired product; SdhA was amplified only in two species, Co. hominivorax and Co. macellaria, α-tub was amplified only in Co. hominivorax, while primers for GstD1 had a low efficiency of amplification in C. albiceps. A second challenge is the selection of genes with a stable expression across the different species. The divergence in the gene expression levels is correlated with the sequence divergence between species <ref type="bibr" target="#b9">(Castillo-Davis et al. 2004;</ref><ref type="bibr" target="#b27">Nuzhdin et al. 2004;</ref><ref type="bibr" target="#b22">Lemos et al. 2005</ref>). For housekeeping genes there is, in general, a higher conservation in both regulatory and coding regions <ref type="bibr" target="#b18">(Hurst et al. 2002;</ref><ref type="bibr" target="#b16">Farre et al. 2007</ref>). Hence, 10 housekeeping genes commonly used in previous insect studies <ref type="bibr" target="#b31">(Scharlaken et al. 2008;</ref><ref type="bibr" target="#b15">Dworkin and Jones 2009;</ref><ref type="bibr" target="#b35">Van Hiel et al. 2009</ref>) were selected, and primer pairs for these genes were designed based on the sequence information from the Co. hom-inivorax transcriptome <ref type="bibr" target="#b8">(Carvalho et al. 2010)</ref>.</p><p>To evaluate the gene expression stability of the selected genes among different species, the most widely used programs were employed. Each program has its own statistical approach and each calculate a value for the expression stability of each gene. The Excelbased program geNorm <ref type="bibr" target="#b36">(Vandesompele et al. 2002)</ref> uses the pair-wise variation of every reference gene as the standard deviation of the expression values and calculates a stability value. By using the geNorm algorithm Gapdh, Rp49, and Actin were identified as the most stable candidate genes in this experimental setting.</p><p>Similarly, BestKeeper <ref type="bibr" target="#b28">(Pfaffl et al. 2004</ref>) calculates an index (BestKeeper index) using the geometric mean of each candidate reference gene. The pair-wise correlation is calculated with the BestKeeper index compared to each individual. The genes with best ranking among data in our study were Actin and Gapdh.</p><p>NormFinder <ref type="bibr" target="#b1">(Andersen et al. 2004</ref>), however, estimates expression stabilities according to the intra-and inter-group expression variation, suggesting the most expression-stable genes. With NormFinder's algorithm, Gapdh, Rp49, and Actin had the best stability values among the selected genes, both within and among the different species and developmental stages.</p><p>Several entomological studies demonstrated that Actin, Rp49, and Gapdh are stably expressed and, therefore, are good reference genes in experiments where normalization is required. <ref type="bibr" target="#b31">Scharlaken et al. 2008</ref> compared the expression stability of six reference genes, Actin, α-tub, Gapdh, Rpl13A, RpS18, and Ubq (UbiQuitin family member; ubq-1), between honeybees with and without a bacterial challenge. Actin and Gapdh were two of the best reference genes suggested by these authors. RpL13A and RpS18 had higher expression stability values in the honeybee study but the expression of these genes was not detected in our samples.</p><p>In the locust S. gregaria <ref type="bibr" target="#b35">(Van Hiel et al. 2009)</ref>, the gene expression stability of nine candidate reference genes in the brain of nymphs and adults were compared. Actin, Ef1α100E, Gapdh, and Rp49 were selected in this study and were also identified as stable reference genes to be used for accurate normalization. <ref type="bibr" target="#b25">Nijhof et al. 2009</ref> studied the stability of gene expression of nine candidate genes: Actb (beta actin), Btub (beta tubulin), Ef1α100E, Gapdh, GstD1, H3F3A (H3 histone family 3A), PPIA (Cyclophilin), RpL4 (Risbosomal protein L4), and Tbp (TATA box binding protein) among life-stages of two species, R. appendiculatus and R. microplus. Gapdh was among the most expression-stable genes in the comparison using the combined data of both species. In line with the results of our study, GstD1 was the least expression-stable gene. However, Gapdh did not perform well in all validation studies. In the fruit fly B. dorsalis, the expression stability of 10 genes, including Actin, α-tub, Gapdh, and Ef1α100E, was analyzed in different tissues <ref type="bibr" target="#b32">(Shen et al. 2010)</ref>. Actin performed well as a reference gene, but Gapdh did not.</p><p>Recently, Bagnall and Koteze (2010) evaluated the stability of reference genes in different life stages of a closely related species in the Calliphoridae family, L. cuprina. Three of the 11 genes tested (Actin, Gapdh, and GstD1) overlapped with the genes selected in our study. One of the most expression-stable genes in our study, Gapdh, was ranked by geNorm and NormFinder as the worst reference gene in the L. cuprina study, with M values ranging from 0.121 to 0.643 and NormFinder stability values ranging from 0.195 to 0.724 <ref type="bibr" target="#b4">(Bagnall and Kotze 2010)</ref>. The authors hypothesized that as Gapdh is involved in metabolism, the individuals could have been in different energetic states during sampling. Combined, these results highlight the requirement of validation studies for each experimental setting. Although Gapdh performed well in our study and some others, it was also among the least stable genes in some experimental settings.</p><p>Commonly used reference genes are involved in essential biological functions, such as cellular transport, translation, structural constitution, and metabolism, because they are thought to have stable expression. However, several studies demonstrated that such housekeeping genes could also vary according to experimental settings <ref type="bibr" target="#b17">(Huitorel and Pantaloni 1985;</ref><ref type="bibr" target="#b12">Chang et al. 1998;</ref><ref type="bibr" target="#b36">Vandesompele et al. 2002;</ref><ref type="bibr" target="#b3">Axtner and Sommer 2009;</ref><ref type="bibr" target="#b25">Nijhof et al. 2009;</ref><ref type="bibr" target="#b4">Bagnall and Kotze 2010)</ref>. This expression variation is probably a result of the involvement of these genes in additional cellular functions <ref type="bibr" target="#b19">(Jain et al. 2006</ref>).</p><p>The genes RpS17 and GstD1 were the least stable genes in our study. RpS17 is involved in translation and encodes a protein related to lipid droplet formation <ref type="bibr" target="#b10">(Cermelli et al. 2006)</ref>. This lipid component is important for energy storage and utilization <ref type="bibr" target="#b2">(Arrese and Soulages 2010)</ref>. Furthermore, lipids play important roles in multiple metabolic functions during insect development <ref type="bibr" target="#b2">(Arrese and Soulages 2010)</ref>. The large variation of the expression of this gene may be related to individual differences in lipid storage between life-stages, but also may reflect different lipid requirements among the studied species. GstD1 encodes a glutathione-Stransferase involved in detoxification metabolism. This gene is regulated when an insect is exposed to a variety of organic compounds <ref type="bibr" target="#b11">(Chahine and O'Donnell 2011)</ref>. The compared species have different feeding preferences and were fed in different media. While we did not formally test the differences in gene expression of GstD1 among the different species, this was an interesting observation and further experiments should be performed to test the association of GstD1 with feeding habits.</p><p>Although several commonly used reference genes displayed a stable expression in many studies, reference genes must be validated for each experimental setting. In our study, the expression stability of six candidate reference genes was tested aiming at future functional studies in the Calliphoridae family. In our analyses, Actin, Rp49, and Gapdh had a stable expression level among different Calliphoridae species and between two different life-stages within each species. Hence, they can be used as reliable reference genes for functional studies in Calliphoridae using similar experimental settings. These reference genes will be critical in studies involving behavior, development, and other biological processes in Calliphoridae species and will be an important resource for other validation studies in Calliphoridae and other insects. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Disclosure</head><p>Gisele Antoniazzi Cardoso carried out all experiments and data analysis. Cleverson Carlos Matiolli helped with qPCR experiments. Ana Maria Lima de Azeredo-Espin contributed materials and analysis tools and helped in the project supervision. Tatiana Teixeira Torres conceived of the study, supervised the project, and coordinated all activities. Gisele Antoniazzi Cardoso and Tatiana Teixeira Torres designed the experiments and wrote the manuscript. All authors read and approved the final manuscript.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>1</head><figDesc>Gene stability measure as calculated by geNorm. 2 Stability of gene expression among the three different species within each life stage 3 Stability of gene expression in Cochliomyia hominivorax and Cochliomyia macellaria including GstD1 4 Stability of gene expression between the two life stages within each species 5 Stability value as calculated by Normfinder 6 Stability index as calculated by Bestkeeper. p &lt; 0.05 Genes in bold had a standard deviation lower than 1</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figure 1 .</head><label>1</label><figDesc>Figure 1. Distribution of the expression levels of the candidate reference genes in different datasets. The distribution of Cts (after inter-run calibration) for each gene is represented using box plots The bold line indicates the median The lower hinge gives the 25% and the upper hinge the 75%. Whiskers (dashed lines) extend to the maximum and minimum sizes. The outliers are marked with circles. (A) Ct distribution in the whole dataset, (B) Ct distribution among species within each life stage and (C) Ct distribution between life stages within species. High quality figures are available online.</figDesc><graphic coords="7,125.85,56.97,360.00,329.28" type="bitmap" /></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><figDesc>Rosângela A. Rodrigues for valuable technical assistance. This work was supported by grants to T. T. Torres from Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP, grant 2008/58106-0) and from the Brazilian National Council for Scientific and Technological Development (CNPq, 477335/2009-8). T. T. Torres received a research fellowship from Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). G. A. Cardoso was supported by a fellowship from FAPESP (2009/13463-3).</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0"><graphic coords="5,70.65,537.93,470.64,173.28" type="bitmap" /></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Journal of Insect Science | http://www.insectscience.org</p></note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1" xml:id="foot_1"><p>A control sample (Cochliomyia hominivorax larva with Rp49 primers) was used in each qPCR run to correct raw Cts for inter-run variation</p></note>
+		</body>
+		<back>
+
+			<div type="acknowledgement">
+<div><head>Acknowledgments</head><p>We are very grateful to <rs type="person">Maria Salete Couto</rs> for maintaining the screwworm colonies and</p></div>
+			</div>			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Basic local alignment search tool</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">F</forename><surname>Altschul</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Gish</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Miller</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">W</forename><surname>Myers</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Lipman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Jounal of Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">215</biblScope>
+			<biblScope unit="page" from="403" to="410" />
+			<date type="published" when="1990">1990</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Normalization of real-time quantitative reverse transcription-PCR data: a modelbased variance estimation approach to identify genes suited for normalization, applied to bladder and colon cancer data sets</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">L</forename><surname>Andersen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Jensen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">F</forename><surname>Orntoft</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Cancer Research</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="5245" to="5250" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Insect fat body: energy, metabolism, and regulation</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Arrese</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">L</forename><surname>Soulages</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Entomology</title>
+		<imprint>
+			<biblScope unit="volume">55</biblScope>
+			<biblScope unit="page" from="207" to="225" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Validation of internal reference genes for quantitative realtime PCR in a non-model organism, the yellow-necked mouse, Apodemus flavicollis</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Axtner</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Sommer</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">BMC Research Notes</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">264</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Evaluation of reference genes for real-time PCR quantification of gene expression in the Australian sheep blowfly, Lucilia cuprina</title>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">H</forename><surname>Bagnall</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Kotze</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="176" to="181" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Absolute quantification of mRNA using real-time reverse transcription polymerase chain reaction assays</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bustin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Molecular Endocrinology</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="169" to="193" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Quantification of mRNA using real-time reverse transcription PCR RT-PCR.: trends and problems</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bustin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal Molecular Endocrinology</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page" from="23" to="39" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">MIQE precis: Practical implementation of minimum standard guidelines for fluorescence-based quantitative real-time PCR experiments</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bustin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Beaulieu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Huggett</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Jaggi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Kibenge</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Olsvik</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">C</forename><surname>Penning</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Toegel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">74</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Deep sequencing of New World screw-worm transcripts to discover genes involved in insecticide resistance</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">A</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Aml</forename><surname>Azeredo-Espin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">T</forename><surname>Torres</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Genomics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">695</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">cis-Regulatory and protein evolution in orthologous and duplicate genes</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">I</forename><surname>Castillo-Davis</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hartl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Achaz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Research</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="1530" to="1536" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">The lipid-droplet proteome reveals that droplets are a protein-storage depot</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Cermelli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><surname>Guo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">P</forename><surname>Gross</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Welte</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Current Biology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="1783" to="1795" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Interactions between detoxification mechanisms and excretion in Malpighian tubules of Drosophila melanogaster</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Chahine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O'donnell</forename><surname>Mj</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Biology</title>
+		<imprint>
+			<biblScope unit="volume">214</biblScope>
+			<biblScope unit="page" from="462" to="468" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Up-regulation of beta-actin, cyclophilin and GAPDH in N1S1 rat hepatoma</title>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Chang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">C</forename><surname>Juan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">H</forename><surname>Yin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">W</forename><surname>Chi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Tsay</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oncology Reports</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="469" to="471" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Multiple sequence alignment with the Clustal series of programs</title>
+		<author>
+			<persName><forename type="first">R</forename><surname>Chenna</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Sugawara</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Koike</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Lopez</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">J</forename><surname>Gibson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">G</forename><surname>Higgins</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">D</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nucleic Acids Research</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="3497" to="3500" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Evolution of genes and genomes on the Drosophila phylogeny</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">G</forename><surname>Clark</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Eisen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">R</forename><surname>Smith</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Bergman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Oliver</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature</title>
+		<imprint>
+			<biblScope unit="volume">450</biblScope>
+			<biblScope unit="page" from="203" to="218" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Genetic changes accompanying the evolution of host specialization in Drosophila sechellia</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Dworkin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Jones</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genetics</title>
+		<imprint>
+			<biblScope unit="volume">181</biblScope>
+			<biblScope unit="page" from="721" to="736" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Housekeeping genes tend to show reduced upstream sequence conservation</title>
+		<author>
+			<persName><forename type="first">D</forename><surname>Farre</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Bellora</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Mularoni</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><surname>Messeguer</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">M</forename><surname>Alba</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">140</biblScope>
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Bundling of microtubules by glyceraldehyde-3-phosphate dehydrogenase and its modulation by ATP</title>
+		<author>
+			<persName><forename type="first">P</forename><surname>Huitorel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Pantaloni</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Europe of Journal Biochemistry</title>
+		<imprint>
+			<biblScope unit="volume">150</biblScope>
+			<biblScope unit="page" from="265" to="269" />
+			<date type="published" when="1985">1985</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Natural selection promotes the conservation of linkage of co-expressed genes</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Hurst</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">J</forename><surname>Williams</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Pal</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Genetics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page" from="604" to="606" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Validation of housekeeping genes as internal control for studying gene expression in rice by quantitative real-time PCR</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Jain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nijhawan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">K</forename><surname>Tyagi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">P</forename><surname>Khurana</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemical and Biophysical Research Communications</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="page" from="646" to="651" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Validation of endogenous reference genes for insecticide-induced and developmental expression profiling of Liposcelis bostsrychophila Psocoptera: Liposcelididae</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Y</forename><forename type="middle">H</forename><surname>Liu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">A</forename><surname>Tang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">W</forename><surname>Zhou</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology Reports</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="page" from="1019" to="1029" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">The real-time polymerase chain reaction</title>
+		<author>
+			<persName><forename type="first">M</forename><surname>Kubista</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Andrade</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Bengtsson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Forootan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Jonak</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Lind</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sindelka</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Sjoback</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Sjogreen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Strombom</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Stahlberg</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Zoric</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Aspects of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="95" to="125" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<analytic>
+		<title level="a" type="main">Evolution of proteins and gene expression levels are coupled in Drosophila and are independently associated with mRNA abundance, protein length, and number of protein-protein interactions</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Lemos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">R</forename><surname>Bettencourt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">D</forename><surname>Meiklejohn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">L</forename><surname>Hartl</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="1345" to="1354" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title level="a" type="main">Validation of reference genes for gene expression studies in the honey bee, Apis mellifera, by quantitative real-time RT-PCR</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Lourenço</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Mackert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Cristino</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Z</forename><surname>Simões</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Apidolology</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="372" to="385" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Validation of reference genes for quantitative real-time PCR during leaf and flower development in Petunia hybrida</title>
+		<author>
+			<persName><forename type="first">I</forename><surname>Mallona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Lischewski</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Weiss</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Hause</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Egea-Cortines</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Plant Biology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">4</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">Selection of reference genes for quantitative RT-PCR studies in Rhipicephalus Boophilus microplus and Rhipicephalus appendiculatus ticks and determination of the expression profile of Bm86</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Nijhof</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Balk</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Postigo</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jongejan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">112</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Quantification of mRNA using real-time RT-PCR</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Nolan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">E</forename><surname>Hands</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">A</forename><surname>Bustin</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Protocols</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="1559" to="1582" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Common pattern of evolution of gene expression level and protein sequence in Drosophila</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">V</forename><surname>Nuzhdin</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Wayne</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">L</forename><surname>Harmon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">M</forename><surname>Mcintyre</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Molecular Biology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="1308" to="1317" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">Determination of stable housekeeping genes differentially regulated target genes and sample integrity: BestKeeper--Excel-based tool using pairwise correlations</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">W</forename><surname>Pfaffl</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Tichopad</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Prgomet</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><forename type="middle">P</forename><surname>Neuvians</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechnology Letters</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="509" to="515" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Guideline to reference gene selection for quantitative real-time PCR</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Radonic</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Thulke</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">I</forename><forename type="middle">M</forename><surname>Mackay</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">O</forename><surname>Landt</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Siegert</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Nitsche</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biochemical and Biophysical Research Communications</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page" from="856" to="862" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Primer3 on the WWW for general users and for biologist programmers</title>
+		<author>
+			<persName><forename type="first">S</forename><surname>Rozen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Skaletsky</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Methods in Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">132</biblScope>
+			<biblScope unit="page" from="365" to="386" />
+			<date type="published" when="2000">2000</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Reference gene selection for insect expression studies using quantitative realtime PCR: The head of the honeybee, Apis mellifera, after a bacterial challenge</title>
+		<author>
+			<persName><forename type="first">B</forename><surname>Scharlaken</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Graaf</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Goossens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Brunain</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Peelman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Jacobs</surname></persName>
+		</author>
+		<ptr target="www.insectscience.org/8.33" />
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Insect Science</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">33</biblScope>
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Evaluation of endogenous references for gene expression profiling in different tissues of the oriental fruit fly Bactrocera dorsalis, Diptera: Tephritidae</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Shen</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">B</forename><surname>Jiang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">X</forename><forename type="middle">N</forename><surname>Wang</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">J</forename><surname>Wang</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">76</biblScope>
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">The evolution of myiasis in blowflies Calliphoridae</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="1105" to="1113" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">The evolution of myiasis in humans and other animals in the Old and New Worlds part I: phylogenetic analyses</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Stevens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Wallman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Parasitology</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="129" to="136" />
+			<date type="published" when="2006">2006</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Identification and validation of housekeeping genes in brains of the desert locust Schistocerca gregaria under different developmental conditions</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Van Hiel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><surname>Van Wielendaele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Temmerman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><surname>Van Soest</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Vuerinckx</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Huybrechts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">V</forename><surname>Broeck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Simonet</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BMC Molecular Biology</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">56</biblScope>
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Accurate normalization of real-time quantitative RT-PCR data by geometric averaging of multiple internal control genes</title>
+		<author>
+			<persName><forename type="first">J</forename><surname>Vandesompele</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Preter</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><surname>Pattyn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><surname>Poppe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><surname>Van Roy</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename></persName>
+		</author>
+		<author>
+			<persName><forename type="first">De</forename><surname>Paepe</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Speleman</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename></persName>
+		</author>
+		<idno>RESEARCH0034</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Genome Biology</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Twenty-five years of quantitative PCR for gene expression analysis</title>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">D</forename><surname>Vanguilder</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">E</forename><surname>Vrana</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><forename type="middle">M</forename><surname>Freeman</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechniques</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="619" to="626" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Real-time PCR for mRNA quantitation</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">L</forename><surname>Wong</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Medrano</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biotechniques</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="75" to="85" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<author>
+			<persName><forename type="first">F</forename><surname>Zumpt</surname></persName>
+		</author>
+		<title level="m">Myiasis in Man and Animals in the Old World</title>
+		<imprint>
+			<publisher>Butterworths</publisher>
+			<date type="published" when="1965">1965</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,1142 @@
+{
+  "level": "paragraph",
+  "biblio": {
+    "title": "Methods for the recovery of mitochondrial DNA sequences from museum specimens of myiasis‐causing flies",
+    "authors": [
+      "A Junqueira",
+      "A Lessinger",
+      "A Azeredo‐espin"
+    ],
+    "doi": "10.1046/j.0269-283x.2002.00336.x",
+    "hash": "A0DC3C39B682E7EF7377FA0A8F8E17AF",
+    "publication_date": "2002-03",
+    "publication_year": 2002,
+    "publisher": "Wiley",
+    "journal": "Medical and Veterinary Entomology",
+    "abstract": [
+      {
+        "id": 0,
+        "text": "Mitochondrial DNA (mtDNA) sequences from eight species of myiasis-causing flies, stored for up to 50 years, were amplified successfully. Universal primers were used to amplify six specific regions from total genomic DNA, including five mtDNA genes. The comparison of phenol=chloroform, DNAzol 1 and Chelex techniques for DNA extraction showed that the DNAzol 1 reagent was the most efficient in retrieving DNA from museum specimens, although the Chelex extraction procedure is currently the most frequently reported method. Comparison of the universal primer sequences with the homologous sequences of Cochliomyia hominivorax Coquerel and Chrysomya putoria Wiedemann (Diptera: Calliphoridae) revealed mismatches that could contribute to the low recovery of a short sequence from subunit II of cytochrome oxidase. The ability to characterize mtDNA markers from museum specimens should be useful in comparative studies of contemporary samples and should help in elucidating species introduction, colonization and dispersal.",
+        "coords": [],
+        "refs": []
+      }
+    ]
+  },
+  "body_text": [
+    {
+      "id": "p_2f091a5a",
+      "text": "Until recently, morphological analysis was the only tool available for scientists to determine the relationships of museum specimens. However, the improvement in techniques of molecular biology over the past two decades has allowed the retrieval of DNA from well-preserved specimens. Studies with damaged DNA have shown that genetic information can be recovered from preserved specimens, but such samples are reduced to a few hundred base pairs because of oxidative and hydrolytic damage. Hydrolysis results in the deamination of nucleotide bases and cleavage of base-sugar bonds, creating baseless sites (Lindahl, 1993). When the base is lost, the chain is weakened and eventually cleaved (Cano, 1996). Oxidation leads to the chemical modification of nucleotide bases and eventual destruction of the ring structure of base and sugar residues in the DNA molecule (PaÈ aÈ bo, 1989;Lindahl, 1993).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "(Lindahl, 1993)",
+          "offset_start": 605,
+          "offset_end": 620
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "(Cano, 1996)",
+          "offset_start": 690,
+          "offset_end": 702
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(PaÈ aÈ bo, 1989;",
+          "offset_start": 863,
+          "offset_end": 880
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Lindahl, 1993)",
+          "offset_start": 880,
+          "offset_end": 894
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_08f963a7",
+      "text": "The molecular approaches applied to museum material are based mainly on the enzymatic amplification of short, high copy number DNA sequences, such as those of mitochondrial DNA (mtDNA), using the polymerase chain reaction (PCR). The use of molecular markers for comparing the genetic information of live and preserved organisms could provide some idea of the population genetic changes that have occurred and of the mechanisms behind these processes (Cano, 1996;Roy et al., 1994).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "(Cano, 1996;",
+          "offset_start": 450,
+          "offset_end": 462
+        },
+        {
+          "type": "bibr",
+          "target": "#b23",
+          "text": "Roy et al., 1994)",
+          "offset_start": 462,
+          "offset_end": 479
+        }
+      ],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_4a6b926c",
+      "text": "In this work, we compared the efficiency of three techniques for DNA extraction based on the recovery of specific PCR products from preserved specimens of Calliphoridae and Oestridae (Diptera). These are the main families of myiasis-causing flies, which contain species of economic, medical, veterinary and forensic importance, including obligate or facultative livestock parasites. We also undertook an analysis of the universal primers used for amplifying mtDNA fragments and describe the difficulties of recovering and storing DNA under appropriate conditions.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Introduction"
+    },
+    {
+      "id": "p_78ad76f9",
+      "text": "Dried pinned specimens of Cochliomyia hominivorax Coquerel, C. macellaria Fabricius, Chrysomya albiceps Wiedemann, C. megacephala Fabricius, C. putoria Wiedemann, Lucilia eximia Wiedemann, Hemilucilia segmentaria Fabricius and Dermatobia hominis Linnaeus Jr., were provided by six entomological collections. Alcohol-preserved specimens (adults and larvae) of C. hominivorax, C. putoria and D. hominis were also obtained from three entomological collections. Fresh specimens were collected and maintained in the laboratory (Leal et al., 1982;Infante & Azeredo-Espin, 1995) or frozen at À70 C and used as extraction and PCR controls.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b15",
+          "text": "(Leal et al., 1982;",
+          "offset_start": 522,
+          "offset_end": 541
+        },
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Infante & Azeredo-Espin, 1995)",
+          "offset_start": 541,
+          "offset_end": 571
+        }
+      ],
+      "head_paragraph": "Materials and methods",
+      "head_section": "Specimens"
+    },
+    {
+      "id": "p_ee2d9ceb",
+      "text": "The three techniques used in this work were based in different principles for DNA extraction. The DNAzol 1 reagent (Gibco BRL=Life Technologies, Gaithersburg, MD, U.S.A.) contains the chaotropic agent guanidine thiocyanate and a detergent mixture in a lysing solution which permits selective precipitation of DNA from a cell lysate (Chomczynski et al., 1997). The Chelex 1 100 (Bio-Rad, Hercules, CA, U.S.A.) is a chelating resin that protects the DNA during the boiling step and sequesters divalent heavy metals that could introduce DNA damages (Walsh et al., 1991). The phenol=chloroform procedure is based in two different organic solvents for deproteinization, including several separation and purification steps (Sambrook et al., 1989).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b5",
+          "text": "(Chomczynski et al., 1997)",
+          "offset_start": 332,
+          "offset_end": 358
+        },
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Walsh et al., 1991)",
+          "offset_start": 546,
+          "offset_end": 566
+        },
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(Sambrook et al., 1989)",
+          "offset_start": 717,
+          "offset_end": 740
+        }
+      ],
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_6b01935b",
+      "text": "Fresh, pinned and alcohol-preserved adult specimens were washed in sterile distilled water and the wings were removed with sterile pincers. The specimens were transferred to sterile, screw-capped 1.5 mL microcentrifuge tubes.",
+      "coords": [],
+      "refs": [],
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_b236ff70",
+      "text": "For extractions using the DNAzol 1 procedure, each sample was ground in 500 mL of DNAzol 1 with a sterile pestle. A further 500 mL of DNAzol 1 was added and the contents were mixed twice by inversion. After centrifugation at 16 000 g for 10 min, 500 mL of ice-cold absolute ethanol were added to the supernatants for DNA precipitation. After 5 min at room temperature, the samples were again centrifuged at 16 000 g for 5 min. The DNA pellets were washed once in 95% ethanol. After air drying for 10 min, the DNA was resuspended in 50 mL of sterile 1 ÂTE (1 mM Tris-HCl, 0.1 mM EDTA, pH 7.0). For DNA extractions of thorax, abdomen and legs, the initial volume of DNAzol 1 was reduced to 250 mL, and the volumes of absolute and 95% ethanol were also reduced proportionally.",
+      "coords": [],
+      "refs": [],
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_0c555af7",
+      "text": "DNA extraction with Chelex 100 consisted of grinding the samples in 100 mL of 10% Chelex 100 and incubating at 56 C overnight. Then the samples were mixed with vortex at high speed for 10 s, incubated in boiling water for 5 min and mixed again in vortex for 10 s. The tubes were centrifuged at 15 000 g and the supernatants were transferred to new screw-capped tubes (Walsh et al., 1991;Cano et al., 1992).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b28",
+          "text": "(Walsh et al., 1991;",
+          "offset_start": 367,
+          "offset_end": 387
+        },
+        {
+          "type": "bibr",
+          "target": "#b3",
+          "text": "Cano et al., 1992)",
+          "offset_start": 387,
+          "offset_end": 405
+        }
+      ],
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_de5d98cc",
+      "text": "The phenol=chloroform DNA extraction was done as reported in Infante & Azeredo-Espin (1995). The specimens were homogenized in 100 mL of grinding buffer (2 M Tris, 5 M NaCl, 50% sucrose, 0.5% EDTA) pH 7.5 using a sterile pestle. A further 100 mL of lysis buffer (2 M Tris, 10% SDS, 0.5% EDTA, 2% DEPC) pH 9.0 were added. The lysate was incubated in ice for 15 min, after which an equal volume of phenol pH 7.6 was added, mixed with vortex and incubated in ice for 2 min. The tubes were centrifuged at 2600 g for 5 min and the supernatant was transferred to a new tube. An equal volume of phenol=chloroform: isoamyl alcohol 24 : 1 were added, mixed with vortex, incubated for 2 min in ice and centrifuged at 2600 g for 5 min. The supernatant was transferred to a new tube and an equal volume of chloroform : isoamyl alcohol 24 : 1 was added, mixed in vortex, incubated in ice for 2 min and centrifuged at 2600 g for 5 min. After the last centrifugation, 100 mL of 1 Â TE, 0.05 volumes of 3M sodium acetate (20 mL) and 2.5 volumes (900 mL) of ice-cold absolute ethanol were added to the supernatant, mixed by inversion and incubated at À20 C for 2 h to precipitate the DNA. After a centrifugation at 15 000 g for 30 min, the supernatant was discarded and the pellet resuspended in 50 mL of 1 Â TE. All the DNA extractions were stored at À20 C.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b13",
+          "text": "Infante & Azeredo-Espin (1995)",
+          "offset_start": 61,
+          "offset_end": 91
+        }
+      ],
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_c4e764d7",
+      "text": "Extracted DNA was diluted 1 : 5, 1 : 10 and 1 : 20 in sterile 1 Â TE and 5 mL were used as a template in PCR reactions. The PCR amplifications were done with 1 Â PCR buffer (200 mM Tris-HCl pH 8.4, 500 mM KCl), 1.25 mM MgCl 2 , 200 mM of each deoxynucleoside triphosphate (dNTP), 0.5 mM of each primer, and 1.25 U of Taq DNA polymerase (Gibco-BRL=Life Technologies), in a final volume of 25 mL. These PCR conditions have been optimized for fresh and frozen samples and then used for dried and alcohol 80% preserved specimens, guaranteeing that the reactions were not suboptimal for different techniques used during the DNA extraction. The amplification reactions from thorax and legs DNA were conducted with 5 mL of the extract, without dilutions.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Amplification"
+    },
+    {
+      "id": "p_b6bfddf7",
+      "text": "The primers used were mainly from the UBC Insect mtDNA oligonucleotide set (Simon et al., 1994). Five regions of the mtDNA were analysed: subunit I of cytochrome oxidase (COI) with the primers C1-J-2195 and C1-N-2329, subunit II of cytochrome oxidase (COII) with the primers C2-J-3400, C2-N-3494 and C2-N-3661, cytochrome b (Cyt. b) with the primers CB-J-10612 and CB-N-10920, a region including the partial sequence of ribosomal RNA 16S and subunit I of NADH genes (16S=ND1) amplified with the primers N1-J-12585 and LR-N-12866, and the control region using the primers TI-N-24 and CR-J-433. This last primer was designed based on the C. megacephala sequence (Lessinger & Azeredo-Espin, 2000). These regions were selected based on the total length of the sequences to be amplified and were limited to a few hundred base pairs to provide more reliable PCR products as the DNA of these samples was highly degraded and fragmented.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Simon et al., 1994)",
+          "offset_start": 75,
+          "offset_end": 95
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(Lessinger & Azeredo-Espin, 2000)",
+          "offset_start": 660,
+          "offset_end": 693
+        }
+      ],
+      "head_section": "Amplification"
+    },
+    {
+      "id": "p_a1485a8e",
+      "text": "The PCR reactions were run on a model 9600 Thermocycler (Perkin Elmer, Foster City, CA, U.S.A.). During the first cycle, the DNA templates were denatured at 94 C for 3 min, followed by 40 cycles consisting of a 1-min denaturation at 94 C, annealing for 1 min 15 s at 42±50 C, depending on the primer pair used, and an elongation step at 72 C for 2 min. The final cycle involved an extended elongation at 72 C for 7 min. The amplification of the control region fragment required a modification of the elongation temperature to 60 C. In all amplifications, a control reaction with no template was included to ensure that contaminating DNA would not be amplified instead of the museum specimen target molecules. The products of the PCR reactions were evaluated by electrophoresis in 2.0% agarose gels in 1 Â TAE (40 mM Tris ± Acetate, 1 mM EDTA) buffer.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Amplification"
+    },
+    {
+      "id": "p_c24c0732",
+      "text": "An aliquot of each amplification product was purified by dialysis in 1 Â TE buffer, pH 7.4 on a VM 0.05 mm filter (Millipore, Bedford, MA, U.S.A.) for 20 min. The products were then cloned into the vector pUC 18 SmaI=BAP using a SureClone ligation kit (Amersham Pharmacia Biotech Inc., Piscataway, NJ, U.S.A.), according to the manufacturer's instructions. After preparation of plasmid DNA by alkaline lysis (Sambrook et al., 1989), the recombinant clones were confirmed and used as templates for automatic sequencing with the Big Dye TM terminator kit (Perkin Elmer) according to the manufacturer's instructions. A total of 45 cycles were performed during the PCR reaction for sequencing. The sequences obtained were analysed in BLASTN using the GenBank (Altschul et al., 1997) database and aligned with ClustalW (Thompson et al., 1994).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b24",
+          "text": "(Sambrook et al., 1989)",
+          "offset_start": 408,
+          "offset_end": 431
+        },
+        {
+          "type": "bibr",
+          "target": "#b0",
+          "text": "(Altschul et al., 1997)",
+          "offset_start": 755,
+          "offset_end": 778
+        },
+        {
+          "type": "bibr",
+          "target": "#b27",
+          "text": "(Thompson et al., 1994)",
+          "offset_start": 814,
+          "offset_end": 837
+        }
+      ],
+      "head_section": "Cloning and sequencing"
+    },
+    {
+      "id": "p_0da40e24",
+      "text": "Of the three methods for DNA extraction evaluated, the DNAzol and Chelex techniques provided consistent and well-resolved PCR products from museum specimens. Dried and alcohol-preserved samples yielded no PCR products when extracted with phenol=chloroform. For this reason, this technique was not used for subsequent DNA extractions from museum specimens. Fresh and frozen specimens yielded PCR products with all three methods.",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_cce60238",
+      "text": "To establish which technique was the most efficient in recovering DNA from museum specimens, three alcoholpreserved larvae of D. hominis were sectioned longitudinally into two identical parts. One half was extracted with DNAzol and the another with Chelex. The results showed that DNAzol provided the best recovery of DNA from preserved specimens (Table 1).",
+      "coords": [],
+      "refs": [],
+      "head_paragraph": "Results",
+      "head_section": "DNA extraction"
+    },
+    {
+      "id": "p_843b6faa",
+      "text": "Low (1 : 5) dilutions of DNA extracts from museum specimens provided well-resolved PCR products when compared to dilutions of 1 : 10 and 1 : 20. The size of the amplified products varied from 137 to 404 bp, depending on the primers and regions used (Fig. 1, Table 2). DNAzol extraction recovered specific PCR products from specimens stored for up to 50 years (Table 2), indicating that the genetic information of well-preserved organisms can be accessed and used for comparative studies.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Amplification"
+    },
+    {
+      "id": "p_92ca9ebf",
+      "text": "Although most of the amplifiable DNA was derived from the entire specimen, DNA extractions from specific parts of the dried samples were also tried in order to reduce the destruction of specimens and preserve important morphological traits. Thoracic DNA extractions with DNAzol and Chelex yielded PCR products, but from legs DNA resulting in a detectable PCR product was obtained only with the DNAzol technique. Extracts from the abdominal region yielded no amplification products.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Amplification"
+    },
+    {
+      "id": "p_d58e8c5e",
+      "text": "The comparative analysis between sequences of the universal primers used in this work and its homologous regions of C. hominivorax and C. putoria (Fig. 2) allowed the evaluation of these primers for recovering the genetic information of museum specimens, considering the mutational events on the annealing sites and the total length to be amplified. As discussed below, this analysis could provide the most adequate primers pair to be used in initial attempts on amplifying DNA from preserved samples.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Amplification"
+    },
+    {
+      "id": "p_d7b32bfb",
+      "text": "Extractions from museum specimens usually contain sheared and interstrand cross-linked DNA, compromising the continuity and the denaturation of DNA strands during the PCR amplification (Dean & Ballard, 2001). Hydrolytic and oxidative damages also have major effects on DNA recovery by PCR, reducing the number of intact DNA molecules. For these reasons, short PCR products from museum specimens were expected to be recovered more efficiently than larger fragments. Generally, the smaller the region, the better the retrieval of DNA from damaged specimens (PaÈ aÈ bo et al., 1989;Lindahl, 1993;Cano, 1996). However, amplification of the 305 bp fragment of the COII region was much more reliable than that of the 155 bp fragment of the same gene (Table 2). The low recovery of this shorter product may reflect the occurrence of mismatches between the primers and the target sequence, which would in turn compromise the annealing step of the PCR reaction.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b7",
+          "text": "(Dean & Ballard, 2001)",
+          "offset_start": 185,
+          "offset_end": 207
+        },
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(PaÈ aÈ bo et al., 1989;",
+          "offset_start": 555,
+          "offset_end": 579
+        },
+        {
+          "type": "bibr",
+          "target": "#b18",
+          "text": "Lindahl, 1993;",
+          "offset_start": 579,
+          "offset_end": 593
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "Cano, 1996)",
+          "offset_start": 593,
+          "offset_end": 604
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_0db0b892",
+      "text": "Comparison of the COII sequence of C. hominivorax (Lessinger et al., 2000; GenBank accession number AF260826), C. putoria (Junqueira et al. unpublished; GenBank accession number AF352790) and the homologous sequences of the universal primers (Simon et al., 1994) used for amplification of the 155 bp fragment revealed five mutational events involving three transversions and two transitions in the C2-J-3279 primer (Fig. 2), originally derived from the Drosophila yakuba mtDNA sequence (Clary & Wolstenholme, 1985). The low recovery of the Cyt b 357 bp fragment may also have been caused by mismatches between the primers and the homologous sequences of the species analysed, as the primer CB-J-10612 was the most variable (Fig. 2).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b25",
+          "text": "(Simon et al., 1994)",
+          "offset_start": 242,
+          "offset_end": 262
+        },
+        {
+          "type": "bibr",
+          "target": "#b6",
+          "text": "(Clary & Wolstenholme, 1985)",
+          "offset_start": 486,
+          "offset_end": 514
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_a7c6ed0f",
+      "text": "Based on sequence analysis of the primer pairs, the pairs C2-J-3400=C2-N-3494 (137 bp) and C2-J-3400=C2-N-3661 (305 bp) showed few nucleotide substitutions (Fig. 2) and yielded reliable PCR products from different species and samples preserved over a wide period of time (Table 2). These results suggest that the 137 bp region of CO II should be used in initial attempts at recovering DNA from insect museum specimens, as the universal primers for this region are conserved and amplify a short sequence. In addition, the CO II gene may be very useful for comparative analysis because it has been sequenced for a wide variety of insects, thus providing direct comparisons among them (Caterino et al., 2000).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b4",
+          "text": "(Caterino et al., 2000)",
+          "offset_start": 682,
+          "offset_end": 705
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_7401db12",
+      "text": "As reported previously (PaÈ aÈ bo, 1989;Post et al., 1993;Handt et al., 1994;Hauswirth, 1994;Phillips & Simon, 1995;Cano, 1996;HoÈ ss et al., 1996;Kelman & Moran, 1996), and based on the data in Table 2, the extent of the reduction in the size and genetic information of the retrieved fragments did not correlate with the age of the specimen, but was related to the environmental conditions under which the specimen was preserved. Other extrinsic factors, such as the type of fixation and its method of application, also have considerable effects, but vary according to the curator's collecting habits (Thomas, 1994).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "",
+          "text": "(PaÈ aÈ bo, 1989;",
+          "offset_start": 23,
+          "offset_end": 40
+        },
+        {
+          "type": "bibr",
+          "target": "#b22",
+          "text": "Post et al., 1993;",
+          "offset_start": 40,
+          "offset_end": 58
+        },
+        {
+          "type": "bibr",
+          "target": "#b10",
+          "text": "Handt et al., 1994;",
+          "offset_start": 58,
+          "offset_end": 77
+        },
+        {
+          "type": "bibr",
+          "target": "#b11",
+          "text": "Hauswirth, 1994;",
+          "offset_start": 77,
+          "offset_end": 93
+        },
+        {
+          "type": "bibr",
+          "target": "#b21",
+          "text": "Phillips & Simon, 1995;",
+          "offset_start": 93,
+          "offset_end": 116
+        },
+        {
+          "type": "bibr",
+          "target": "#b1",
+          "text": "Cano, 1996;",
+          "offset_start": 116,
+          "offset_end": 127
+        },
+        {
+          "type": "bibr",
+          "target": "#b12",
+          "text": "HoÈ ss et al., 1996;",
+          "offset_start": 127,
+          "offset_end": 147
+        },
+        {
+          "type": "bibr",
+          "target": "#b14",
+          "text": "Kelman & Moran, 1996)",
+          "offset_start": 147,
+          "offset_end": 168
+        },
+        {
+          "type": "bibr",
+          "target": "#b26",
+          "text": "(Thomas, 1994)",
+          "offset_start": 602,
+          "offset_end": 616
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_75c0438b",
+      "text": "Rapid desiccation after death, the chelation of copper and other metal ions, protection against exposure to UV light and storage at low temperatures in an alkaline environment favour the preservation of DNA (Eglinton & Logan, 1991). The method by which specimens are killed can also affect the yield and quality of DNA. Dillon et al. (1996) showed that specimens killed in ethyl acetate vapour gave very low yields of DNA, which could not be amplified by PCR. Although speculative, the climate could be a major problem accelerating the DNA degradation and fragmentation when collections and specimens are not stored appropriately in dried environments with a stable temperature. Of the 55 dried specimens from Rio de Janeiro, Manaus and BeleÂ m used for DNA extraction, only 12 have been successfully amplified. These cities are located in coastal and=or rain forest areas, where the high humidity and temperatures could accelerate the degradation of DNA.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b9",
+          "text": "(Eglinton & Logan, 1991)",
+          "offset_start": 207,
+          "offset_end": 231
+        },
+        {
+          "type": "bibr",
+          "target": "#b8",
+          "text": "Dillon et al. (1996)",
+          "offset_start": 320,
+          "offset_end": 340
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_60712a70",
+      "text": "The sequenced fragments showed high nucleotide sequence identity with homologous regions of mtDNA from other Calliphoridae species in GenBank, thus indicating that contamination had been effectively avoided. Contamination is a particular problem in the analysis of DNA from museum specimens, as DNA from other organisms may be preferentially amplified.",
+      "coords": [],
+      "refs": [],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_9f75ff41",
+      "text": "In preliminary studies with fresh samples, the DNAzol technique also yielded suitable DNA for restriction fragment length polymorphism, random amplified polymorphism DNA and microsatellite analysis. DNA obtained by DNAzol can be stored for long periods of time and amplified after more than 3 years when stored at À20 C. This finding is particularly important because DNA extracted by Chelex shows a rapid degradation (Cano & Poinar, 1993).",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b2",
+          "text": "(Cano & Poinar, 1993)",
+          "offset_start": 418,
+          "offset_end": 439
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_b65178c5",
+      "text": "The isolation and analysis of DNA from dried and alcohol-preserved specimens adds a direct temporal dimension to genetic and evolutionary studies (Wayne et al., 1999), as the genetic variability over time and the geographical distribution of inaccessible populations can be studied. Access to temporal changes in living organisms allows the reconstruction of their genetic past and provides important insights into a species' pattern of introduction, distribution and colonization.",
+      "coords": [],
+      "refs": [
+        {
+          "type": "bibr",
+          "target": "#b29",
+          "text": "(Wayne et al., 1999)",
+          "offset_start": 146,
+          "offset_end": 166
+        }
+      ],
+      "head_section": "Discussion"
+    },
+    {
+      "id": "p_daa42dc8",
+      "text": "The authors thank Drs M.C.F. do Val, D. Pamplona, C.J.B. Carvalho, N.D. Parallupi, M.C. Esposito, A. Harada and M.J.R. Hall for kindly providing specimens from entomological collections. M.C. Arias provided help-",
+      "coords": [],
+      "refs": [],
+      "head_section": "Acknowledgements"
+    }
+  ],
+  "figures_and_tables": [
+    {
+      "id": "fig_0",
+      "label": "1",
+      "head": "Fig. 1 .",
+      "type": "figure",
+      "desc": "Fig. 1. Agarose gel (2.0%) with mtDNA PCR products. Lane 1 137 bp fragment of the COII gene from a C. putoria leg extracted with DNAzol; lane 3 155 bp fragment of the COII gene from an alcohol-preserved larva of D. hominis extracted with DNAzol; lane 5 180 bp fragment of the COI gene from a pinned adult of C. hominivorax extracted with DNAzol; lane 7 305 bp fragment of the COII gene from a pinned adult D. hominis extracted with DNAzol; lane 9 320 bp of the A T region of a pinned adult of C. putoria extracted with DNAzol; lane 11 315 bp fragment including sequences of the 16S and ND1 genes from a C. macellaria thorax extracted with Chelex; lane 13 357 bp fragment of the cytochrome b gene from a pinned adult of C. putoria extracted with DNAzol; lane 15 404 bp fragment of the A T region from a pinned adult of C. putoria extracted with DNAzol. Lanes 2, 4, 6, 8, 10, 12, 14 and 16 are PCR controls and Lane S contains the molecular size markers. Small bands (below 118 bp) correspond to primer dimers.",
+      "note": "",
+      "coords": [
+        {
+          "x": 4.0,
+          "y": 163.57,
+          "width": 66.92,
+          "height": 295.18
+        }
+      ]
+    },
+    {
+      "id": "fig_1",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "ful comments on the Chelex procedure, and R.A. Rodrigues, M.S. Couto and M. Constantino Filho gave valuable technical assistance. We are grateful to Dr F.A.H. Sperling for constructive comments on the manuscript and to two anonymous referees for their critical review. This research ..T..T..C..T........ CCATCCAACATCTCAGCATGATGAAA CCCTCAGAATGATATTTGTCCTCA ..TAGT..T..T.............. A.....A..A.............. T....................... ........G..G........ ............A.....T..... ......C.....A.......... .A.....C..G........... ....T............... .....T..C............ ....................... .....T.....AAT......... .....GC............. ..A.....T.....AAT......... ......C............. .................. ....................T..G .....T..C............ ....................T... .....C.....C........A... ...................... ..A.....T.................. .....................",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_2",
+      "label": "2",
+      "head": "Fig. 2 .",
+      "type": "figure",
+      "desc": "Fig. 2. Sequences of the universal primers from Drosophila yakuba, compared with the homologous regions of Cochliomyia hominivorax and Chrysomya putoria.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "fig_3",
+      "label": "",
+      "head": "",
+      "type": "figure",
+      "desc": "was supported by FundacË aÄ o de Amparo aÁ Pesquisa do Estado de SaÄ o Paulo (FAPESP, grant 99=07355-0) and by a PADCT=CNPq grant 620097=95-7 to A.M.L.A.E. A.C.L. was supported by a fellowship from CoordenacË aÄ o de AperfeicË oamento de Pessoal de NõÂ vel Superior (CAPES, Brazil). A.C.M.J. was supported by a fellowship from FAPESP.",
+      "note": "",
+      "coords": []
+    },
+    {
+      "id": "tab_0",
+      "label": "1",
+      "head": "Table 1 .",
+      "type": "table",
+      "desc": "Comparison of DNA recovery with DNAzol and Chelex.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "",
+            "",
+            "Size of amplified mtDNA regions",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "Extraction",
+            "COII",
+            "COII",
+            "COI",
+            "COII",
+            "16S=ND1",
+            "Cyt b"
+          ],
+          [
+            "Samples",
+            "",
+            "method",
+            "137 bp",
+            "155 bp",
+            "180 bp",
+            "305 bp",
+            "315 bp",
+            "357 bp"
+          ],
+          [
+            "D. hominis",
+            "(A 155)",
+            "Chelex",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±"
+          ],
+          [
+            "",
+            "(A 156)",
+            "DNAzol",
+            "",
+            "",
+            "±",
+            "",
+            "",
+            "±"
+          ],
+          [
+            "D. hominis",
+            "(A 157)",
+            "Chelex",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±"
+          ],
+          [
+            "",
+            "(A 158)",
+            "DNAzol",
+            "",
+            "",
+            "±",
+            "",
+            "±",
+            "±"
+          ],
+          [
+            "D. hominis",
+            "(A 159)",
+            "Chelex",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±"
+          ],
+          [
+            "",
+            "(A 160)",
+            "DNAzol",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±",
+            "±"
+          ],
+          [
+            "successful amplification; ± unsuccessful amplification.",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ],
+        "metadata": {
+          "row_count": 10,
+          "column_count": 7,
+          "has_headers": false
+        }
+      },
+      "note": "# 2002 The Royal Entomological Society, Medical and Veterinary Entomology, 16, 39±45 13652915, 2002, 1, Downloaded from https://resjournals.onlinelibrary.wiley.com/doi/10.1046/j.0269-283x.2002.00336.x by UFMA -Universidade Federal do Maranhao, Wiley Online Library on [21/01/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License",
+      "coords": []
+    },
+    {
+      "id": "tab_1",
+      "label": "2",
+      "head": "Table 2 .",
+      "type": "table",
+      "desc": "Museum specimens and size of mitochondrial DNA regions used in this study.Zoology Museum, University of SaÄ o Paulo, 2 National Museum, Rio de Janeiro, 3 Emilio Goeldi Paraense Museum, 4 Entomological Collection, Federal University of Amazonas, 5 Entomological Collection, State University of Campinas, 6 Dr Carlos G. MalbraÂ n National Institute of Microbiology ± Buenos Aires, Argentina,7 The Natural History Museum of London. AM ± Amazonas, Brazil, BA ± Bahia, Brazil, RJ ± Rio de Janeiro, Brazil, SP ± SaÄ o Paulo, Brazil, RS ± Rio Grande do Sul, Brazil, MG ± Minas Gerais, Brazil, AR ± Argentina, FG ± French Guiana.",
+      "content": {
+        "headers": [],
+        "rows": [
+          [
+            "Size of amplified mtDNA regions"
+          ]
+        ],
+        "metadata": {
+          "row_count": 1,
+          "column_count": 1,
+          "has_headers": false
+        }
+      },
+      "note": "1",
+      "coords": []
+    }
+  ],
+  "references": [
+    {
+      "id": "b1",
+      "target": "b0",
+      "title": "Gapped BLAST and PSI-BLAST: a new generation of protein data base search programs",
+      "authors": [
+        "S Altschul",
+        "T Madden",
+        "A Schaè Ffer",
+        "J Zhang",
+        "Z Zhang",
+        "W Miller",
+        "D Lipman"
+      ],
+      "journal": "Nucleic Acids Research",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "3389",
+      "pages": "3402"
+    },
+    {
+      "id": "b2",
+      "target": "b1",
+      "title": "Analysing ancient DNA",
+      "authors": "R Cano",
+      "journal": "Endeavour",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "20",
+      "pages": "167"
+    },
+    {
+      "id": "b3",
+      "target": "b2",
+      "title": "Rapid isolation of DNA from fossil and museum specimens suitable for PCR",
+      "authors": [
+        "R Cano",
+        "H Poinar"
+      ],
+      "journal": "Biotechniques",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "15",
+      "pages": "435"
+    },
+    {
+      "id": "b4",
+      "target": "b3",
+      "title": "Enzymatic amplification and nucleotide sequencing of portions of the 18S rRNA gene of the bee Proplebeia dominicana (Apidae: Hymenoptera) isolated from 25 to 40 million year old Dominican Amber",
+      "authors": [
+        "R Cano",
+        "H Poinar",
+        "D Roubik",
+        "G Poinar"
+      ],
+      "journal": "Medical Science Research",
+      "publication_date": "1992",
+      "year": 1992,
+      "volume": "20",
+      "page_start": "619",
+      "page_end": "622"
+    },
+    {
+      "id": "b5",
+      "target": "b4",
+      "title": "The current state of insect molecular systematics: a thriving tower of babel",
+      "authors": [
+        "M Caterino",
+        "S Cho",
+        "F Sperling"
+      ],
+      "journal": "Annual Review of Entomology",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "45",
+      "pages": "54"
+    },
+    {
+      "id": "b6",
+      "target": "b5",
+      "title": "DNAzol 1 : a reagent for the rapid isolation of genomic DNA",
+      "authors": [
+        "P Chomczynski",
+        "K Mackey",
+        "R Drews",
+        "W Wilfinger"
+      ],
+      "journal": "Biotechniques",
+      "publication_date": "1997",
+      "year": 1997,
+      "volume": "22",
+      "pages": "553"
+    },
+    {
+      "id": "b7",
+      "target": "b6",
+      "title": "The mitochondrial DNA molecule of Drosophila yakuba: nucleotide sequence, gene organization and genetic code",
+      "authors": [
+        "D Clary",
+        "D Wolstenholme"
+      ],
+      "journal": "Journal of Molecular Evolution",
+      "publication_date": "1985",
+      "year": 1985,
+      "volume": "22",
+      "pages": "271"
+    },
+    {
+      "id": "b8",
+      "target": "b7",
+      "title": "Factors affecting mitochondrial DNA quality from museum preserved Drosophila simulans",
+      "authors": [
+        "M Dean",
+        "W Ballard"
+      ],
+      "journal": "Entomologia Experimentalis et Applicata",
+      "publication_date": "2001",
+      "year": 2001,
+      "volume": "98",
+      "pages": "283"
+    },
+    {
+      "id": "b9",
+      "target": "b8",
+      "title": "Comparison of preservation techniques for DNA extraction from hymenopterous insects",
+      "authors": [
+        "N Dillon",
+        "A Austin",
+        "E Bartowsky"
+      ],
+      "journal": "Insect Molecular Biology",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "5",
+      "pages": "24"
+    },
+    {
+      "id": "b10",
+      "target": "b9",
+      "title": "Molecular preservation",
+      "authors": [
+        "G Eglinton",
+        "G Logan"
+      ],
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "333",
+      "pages": "328"
+    },
+    {
+      "id": "b11",
+      "target": "b10",
+      "title": "Ancient DNA: methodological challenges",
+      "authors": [
+        "O Handt",
+        "M Hoè Ss",
+        "M Krings",
+        "S Paè Aè Bo"
+      ],
+      "journal": "Experientia",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "50",
+      "pages": "529"
+    },
+    {
+      "id": "b12",
+      "target": "b11",
+      "title": "Ancient DNA: an introduction. Experientia",
+      "authors": "W Hauswirth",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "50",
+      "pages": "523"
+    },
+    {
+      "id": "b13",
+      "target": "b12",
+      "title": "DNA damage and DNA sequence retrieval from ancient tissues",
+      "authors": [
+        "M Hoè Ss",
+        "P Jaruga",
+        "T Zastawny",
+        "M Dizdaroglu",
+        "S Paè Aè Bo"
+      ],
+      "journal": "Nucleic Acids Research",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "24",
+      "pages": "1307"
+    },
+    {
+      "id": "b14",
+      "target": "b13",
+      "title": "Genetic variability in mitochondrial DNA of screwworm, Cochliomyia hominivorax (Diptera: Calliphoridae), from Brazil",
+      "authors": [
+        "M Infante",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Biochemical Genetics",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "33",
+      "pages": "756"
+    },
+    {
+      "id": "b15",
+      "target": "b14",
+      "title": "Degradation of ancient DNA",
+      "authors": [
+        "Z Kelman",
+        "L Moran"
+      ],
+      "journal": "Current Biology",
+      "publication_date": "1996",
+      "year": 1996,
+      "volume": "6",
+      "pages": "223"
+    },
+    {
+      "id": "b16",
+      "target": "b15",
+      "title": "Rearing the larvae of the blowfly Chrysomya chloropyga (Wiedmann) (Diptera: Calliphoridae) on oligidic diets",
+      "authors": [
+        "T Leal",
+        "A Prado",
+        "A Antunes"
+      ],
+      "journal": "Revista Brasileira de Zoologia",
+      "publication_date": "1982",
+      "year": 1982,
+      "volume": "1",
+      "page_start": "41",
+      "page_end": "44"
+    },
+    {
+      "id": "b17",
+      "target": "b16",
+      "title": "Evolution and structural organisation of mitochondrial DNA control region of myiasis-causing flies",
+      "authors": [
+        "A Lessinger",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Medical and Veterinary Entomology",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "14",
+      "pages": "80"
+    },
+    {
+      "id": "b18",
+      "target": "b17",
+      "title": "The mitochondrial genome of the primary screwworm fly Cochliomyia hominivorax (Diptera: Calliphoridae)",
+      "authors": [
+        "A Lessinger",
+        "A Junqueira",
+        "T Lemos",
+        "E Kemper",
+        "F Da Silva",
+        "A Vettore",
+        "P Arruda",
+        "A Azeredo-Espin"
+      ],
+      "journal": "Insect Molecular Biology",
+      "publication_date": "2000",
+      "year": 2000,
+      "volume": "9",
+      "pages": "529"
+    },
+    {
+      "id": "b19",
+      "target": "b18",
+      "title": "Instability and decay of the primary structure of DNA",
+      "authors": "T Lindahl",
+      "journal": "Nature",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "362",
+      "pages": "715"
+    },
+    {
+      "id": "b20",
+      "target": "b19",
+      "title": "Ancient DNA: extraction, characterization, molecular cloning and enzymatic amplification",
+      "authors": [
+        "Bo Paè Aè",
+        "S"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences",
+      "publication_date": "1939",
+      "year": 1939,
+      "volume": "86",
+      "pages": "43"
+    },
+    {
+      "id": "b21",
+      "target": "b20",
+      "title": "Ancient DNA and the polymerase chain reaction",
+      "authors": [
+        "S Paè Aè Bo",
+        "R Higuschi",
+        "A Wilson"
+      ],
+      "journal": "Journal of Biological Chemistry",
+      "publication_date": "1989",
+      "year": 1989,
+      "volume": "264",
+      "pages": "9712"
+    },
+    {
+      "id": "b22",
+      "target": "b21",
+      "title": "Simple, efficient and nondestructive DNA extraction protocol for arthropods",
+      "authors": [
+        "A Phillips",
+        "C Simon"
+      ],
+      "journal": "Annals of the Entomological Society of America",
+      "publication_date": "1995",
+      "year": 1995,
+      "volume": "88",
+      "pages": "283"
+    },
+    {
+      "id": "b23",
+      "target": "b22",
+      "title": "Methods for the preservation of insects for DNA studies",
+      "authors": [
+        "R Post",
+        "P Flook",
+        "A Millest"
+      ],
+      "journal": "Biochemical Systematics and Ecology",
+      "publication_date": "1993",
+      "year": 1993,
+      "volume": "21",
+      "pages": "92"
+    },
+    {
+      "id": "b24",
+      "target": "b23",
+      "title": "The use of museum specimens to reconstruct the genetic variability and relationships of extinct populations",
+      "authors": [
+        "M Roy",
+        "D Girman",
+        "A Taylor",
+        "R Wayne"
+      ],
+      "journal": "Experientia",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "50",
+      "pages": "557"
+    },
+    {
+      "id": "b25",
+      "target": "b24",
+      "title": "Molecular Cloning: a Laboratory Manual, 2nd edn",
+      "authors": [
+        "J Sambrook",
+        "T Maniatis",
+        "E Fritsch"
+      ],
+      "publisher": "Cold Spring Harbor Laboratory Press",
+      "publication_date": "1989",
+      "year": 1989
+    },
+    {
+      "id": "b26",
+      "target": "b25",
+      "title": "Evolution, weighting and phylogenetic utility of DNA sequences and compilation of conserved polymerase chain reaction primers",
+      "authors": [
+        "C Simon",
+        "F Frati",
+        "A Beckenbach",
+        "B Crespi",
+        "H Lin",
+        "P Flook"
+      ],
+      "journal": "Annals of the Entomological Society of America",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "87",
+      "page_start": "651",
+      "page_end": "701"
+    },
+    {
+      "id": "b27",
+      "target": "b26",
+      "title": "Analysis of DNA from natural history museum collections",
+      "authors": "R Thomas",
+      "journal": "EXS",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "311",
+      "pages": "321"
+    },
+    {
+      "id": "b28",
+      "target": "b27",
+      "title": "Clustal W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice",
+      "authors": [
+        "J Thompson",
+        "D Higgins",
+        "T Gibson"
+      ],
+      "journal": "Nucleic Acids Research",
+      "publication_date": "1994",
+      "year": 1994,
+      "volume": "22",
+      "pages": "4680"
+    },
+    {
+      "id": "b29",
+      "target": "b28",
+      "title": "Chelex 100 as a medium for simple extraction of DNA for PCR-based typing from forensic material",
+      "authors": [
+        "P Walsh",
+        "D Metzger",
+        "R Higuchi"
+      ],
+      "journal": "Biotechniques",
+      "publication_date": "1991",
+      "year": 1991,
+      "volume": "10",
+      "pages": "513"
+    },
+    {
+      "id": "b30",
+      "target": "b29",
+      "title": "Full of sound and fury: the recent history of ancient DNA",
+      "authors": [
+        "R Wayne",
+        "J Leonard",
+        "A Cooper"
+      ],
+      "journal": "Annual Review of Ecology and Systematics",
+      "publication_date": "1999-09-17",
+      "year": 1999,
+      "volume": "30",
+      "pages": "457"
+    }
+  ]
+}

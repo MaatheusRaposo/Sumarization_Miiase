@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Efeito da poluição causada por óleo mineral sobre a comunidade de Calliphoridae (Diptera, Oestroidea) em manguezal</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">José</forename><forename type="middle">Antonio</forename><surname>Batista-Da-Silva</surname></persName>
+							<email>zeize@uol.com.br</email>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>1</label> Universidade do Estado do Rio de Janeiro (UERJ-FFP) . Rua Dr. Francisco Portela , 1470 -Patronato. Cep: 24435-005-São Gonçalo-RJ , Brasil.</note>
+								<orgName type="institution">Universidade do Estado do Rio de Janeiro (UERJ-FFP)</orgName>
+								<address>
+									<addrLine>Rua Dr. Francisco Portela 1470 -Patronato. Cep: 24435-005-São Gonçalo-RJ</addrLine>
+									<country key="BR">Brasil</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Efeito da poluição causada por óleo mineral sobre a comunidade de Calliphoridae (Diptera, Oestroidea) em manguezal</title>
+					</analytic>
+					<monogr>
+						<idno type="ISSN">2443-437X (electrónico)</idno>
+					</monogr>
+					<idno type="MD5">C65396D3EFB21040ED334153B45A1976</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>
+					<term>APA Guapi-Mirim</term>
+					<term>poluição</term>
+					<term>pressão antrópica Anthropogenic pressure</term>
+					<term>APA Guapi-Mirim</term>
+					<term>pollution</term>
+				</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Este trabalho foi realizado com o propósito de conhecer os Calliphoridae (Diptera) em um manguezal no distrito de Itambi, Itaboraí, Rio de Janeiro, Brasil e quantificar a flutuação das espécies antes e após impacto ambiental provocado por óleo mineral naftênico. As moscas foram capturadas durante dois anos, usando peixe em decomposição. Um total de 2 192 moscas pertencentes a 9 espécies foram capturadas: Chrysomya megacephala (Fabricius, 1794) (81,75 %), Chrysomya albiceps (Wiedemann, 1819) (6,30 %), Chrysomya putoria (Wiedemann, 1818) (2,37 %), Cochliomyia macellaria (Fabricius, 1775) (8,49 %), Lucilia eximia (Wiedemann, 1819) (0,36 %), Chloroprocta idioidea (Robineau-Desvoidy, 1830) (0,18 %), Cochliomyia hominivorax (Cocquerel, 1858) (0,36 %), Hemilucilia semidiaphana (Rondani, 1850) (0,09 %) e Lucilia cuprina (Wiedemann,1830) (0,09 %). Apenas C. albiceps mostrou-se mais adaptada a poluição causada por óleo mineral naftênico.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introdução</head><p>Os Diptera da família Calliphoridae são moscas que se destacam tanto pela sua importância médica <ref type="bibr" target="#b12">(Queiroz et al. 2005)</ref> e forense <ref type="bibr" target="#b14">(Salviano et al. 1996)</ref> quanto pela sua importância ecológica, pois também podem atuar como agentes decompositores da matéria orgânica. Estes insetos estão amplamente distribuídos em toda região Neotropical, tanto em áreas ocupadas pela atividade humana, quanto em áreas de mata protegidas <ref type="bibr" target="#b10">(Mello et al. 2007</ref><ref type="bibr" target="#b2">, Batista-da-Silva et al. 2011)</ref>.</p><p>Os manguezais estão entre os ecossistemas mais antigos e antropizados do planeta, e estão também incluídos entre os ambientes plenamente ocupados pela família Calliphoridae <ref type="bibr" target="#b6">(Gonçalves et al. 2011</ref><ref type="bibr" target="#b1">, Batista-da-Silva 2014)</ref>. O manguezal é um ambiente de solo instável e responsável pela reprodução, abrigo ou criadouro de muitas espécies marinhas e terrestres, e que ao longo do tempo vem sofrendo intensa interferência humana por causa do valor comercial do solo, a caça ilegal, a pesca predatória e a coleta indiscriminada do caranguejo. Além destes problemas, algumas cidades litorâneas brasileiras são responsáveis pela grande quantidade de poluentes domésticos e industriais lançados diretamente nos rios que chegam a este ecossistema, provocando mudanças físicas, químicas e biológicas no ambiente que, de acordo com <ref type="bibr" target="#b4">Ellison (1998)</ref>, podem causar a morte de diversas espécies pelos efeitos acumulativos.</p><p>De acordo com <ref type="bibr">Johnston e Keough (2002)</ref>, o impacto provocado por poluição passageira provoca mudanças nas populações de invertebrados podendo persistir por algum tempo após o agente causador do distúrbio ter sido removido. De acordo com <ref type="bibr" target="#b13">Roberts et al. (2003)</ref>, a manutenção de um ecossistema é o principal objetivo da conservação, por esta razão, estudos relacionados a acidentes ambientais provocados por humanos devem ser iniciados imediatamente após o fato.</p><p>A APA de Guapi-Mirim destaca-se como a última área de manguezais preservados no entorno da Baia de Guanabara, Rio de Janeiro, Brasil. Além de sua importância ecológica, vital para manutenção da fauna e flora da região costeira do Rio de Janeiro, tem papel relevante na economia local, pois diversas famílias de pescadores sobrevivem do produto da pesca artesanal (peixes e crustáceos) de forma sustentável. Por estas razões, este estudo foi conduzido com o propósito de avaliar se o derramamento de óleo mineral no interior deste manguezal poderia alterar a biodiversidade de moscas da família Calliphoridae em um período de pós-impacto, e ainda saber se tais informações poderiam ser utilizadas em posteriores estudos de impactos ambientais em áreas de manguezais.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material e Métodos</head><p>Todas as coletas foram realizadas em manguezal na Área de Proteção Ambiental de Guapi-Mirim (APA de Guapi-Mirim), localizada geograficamente nas coordenadas 22 0 39' 30" -22 0 46' 50" S de latitude e 42 0 57' 00" -43 0 06' 40" W de longitude, em Itaboraí, Rio de Janeiro, Brasil, dentro dos limites do distrito de Itambi (Figura 1).</p><p>Foram realizadas coletas quinzenais durante dois anos, 2009/2010 (ano 1 -pré impacto) e 2010/2011 (ano 2 -pós impacto), em uma área de manguezal que sofreu forte ação antrópica pelo derrame de óleo mineral naftênico (6 000 litros) no mês de março de 2010 e criou uma mancha de 10 km ao longo do rio Caceribu, cessando as atividades pesqueiras por dez dias e causando enormes prejuízos financeiros à comunidade local (ICMBio 2010). Para as coletas das moscas, foram utilizadas 4 armadilhas plásticas, com 35 cm altura e 15 cm diâmetro a uma distância de 100 m uma da outra, armadilhas de acordo com <ref type="bibr" target="#b5">Ferreira (1978)</ref> e modificada de acordo com <ref type="bibr" target="#b0">Batista-da-Silva et al. (2010)</ref>.</p><p>As armadilhas, contendo 100 g de peixe (sardinha) em decomposição, foram suspensas a uma altura de 1,20 m acima do solo por um período de 48 horas. Após as coletas, todos os exemplares capturados foram mortos por asfixia no interior das armadilhas, utilizandose algodão umedecido com etanol 70 %, e em seguida todos os indivíduos foram separados, contados e identificados a partir de chave para gênero e espécie de acordo com <ref type="bibr" target="#b9">Mello (2003)</ref>.</p><p>Foi calculado o índice de diversidade de acordo com Shannon-Wiener (Shannon e Weaver 1949) para cada ano de coleta, o índice de uniformidade de <ref type="bibr" target="#b11">Pielou (1966)</ref> e o índice de similaridade de Bray e Curtis (1957) entre os dois anos.</p><p>Foi realizado o teste de Mann-Whitney (p&lt; 0,05) para saber se o poluente derramado temporariamente no manguezal teve efeito sobre a abundância das espécies. Foi realizado o teste de Qui-quadrado (x 2 ) (p&lt; 0,05) para verificar as proporções de machos e fêmeas capturadas em cada ano.</p><p>A salinidade da água foi monitorada durante os dois anos, e as médias diárias da temperatura e da umidade do ar foram analisadas através do teste de Kendall Tau (p&lt; 0,05) para saber se estas poderiam interferir na abundância das moscas, durante o período de coletas. Foi realizado o teste de Mann-Whitney para saber se o poluente derramado temporariamente no manguezal teve efeito sobre a abundância de alguma das espécies observadas, e foi constatado que apenas C. albiceps apresentou diferença significativa do ano 1 para o ano 2 (Z= -2,33; p= 0,019). Em nenhuma das outras espécies foi encontrada diferença significativa.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resultados e Discussão</head><p>No ano 1, foram coletados 190 machos e 636 fêmeas; no ano 2, foram coletados 332 machos e 1 034 fêmeas. A proporção entre o número de machos e fêmeas em cada ano foi testada através do teste de Qui-quadrado e foi constatado que não houve diferença significativa (X 2 = 0,48; DF = 1; p&lt; 0,92).</p><p>Durante o período de coletas, foram observadas a temperatura e a umidade médias, e encontrados os seguintes valores: a temperatura média no ano 1 foi 30,75 ± 5,36 0 C e a umidade relativa do ar média foi de 65,06 ± 12,47 %; no ano 2, a temperatura média foi de 31,75 ± 4,63 0 C e a umidade reativa do ar foi 63,70 ± 11,81%. Nenhuma destas variáveis apresentou valor significante para as espécies capturadas e a salinidade da água manteve uma média em torno de 13 %.</p><p>Fatores abióticos como temperatura, umidade e pluviosidade contribuem para as variações na abundância e na riqueza de moscas da família Calliphoridae <ref type="bibr" target="#b0">(Batista-da-Silva et al. 2010</ref><ref type="bibr" target="#b1">, Batista-da-Silva 2014)</ref>, no entanto, alterações antrópicas também têm a capacidade de provocar modificações em manguezais, principalmente quando ocorrem liberações de metais pesados <ref type="bibr" target="#b8">(Machado et al. 2002)</ref>.</p><p>Os manguezais são ecossistemas de transição entre a terra e o mar que sofrem constante interferência antrópica, principalmente, pelo despejo de grandes quantidades de esgoto industrial e doméstico, provocando mudanças na composição da água e do solo no ambiente, que, de acordo com <ref type="bibr" target="#b4">Ellison (1998)</ref>, podem causar a morte de diversas espécies pelos efeitos acumulativos de poluentes. <ref type="bibr">Johnston e Keough (2002)</ref> destacaram que o impacto provocado por poluição passageira proporciona mudança nas populações de invertebrados e isto foi observado neste trabalho, pois no ano 2 houve um aumento de 65,37 % de moscas capturadas e um amento de 80 % de espécies de moscas (Tabela 1). Quando ocorrem mudanças no ambiente, pode ocorrer perda ou fragmentação de hábitat, e, de acordo com <ref type="bibr" target="#b13">Roberts et al. (2003)</ref>, estas mudanças dificultam a manutenção de um ecossistema.</p><p>O aumento da riqueza e da abundância de Calliphoridae em área de manguezal no ano 2 pode ter proporcionado um bom indicador sobre estudos de impactos ambientais em manguezais, pois o agente causador do distúrbio (óleo mineral naftênico) em área de manguezal, apesar de ter sido temporário, provocou alterações ao ecossistema, o que pode ser observado com o aumento da diversidade da família Calliphoridae no ano 2, confirmando os dados observados por Johnston e Keough (2002) que relataram que mudanças provocadas por agentes poluidores alteraram as populações de invertebrados (esponjas, cnidários, poliquetas, dentre outros) em duas áreas em Port Phillip Bay, Victoria, Austrália. As alterações nas populações Tabela 1. Número de moscas da família Calliphoridae (N) capturadas com seus respectivos percentuais (%) por espécie, distribuídos no ano 1 (pré-impacto ambiental) e no ano 2 (pós-impacto ambiental), em área de manguezal no Município de Itaboraí, RJ, Brasil: (ano 1: 2009/2010); (ano 2: 2010/2011).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Espécies</head><p>Ano 1 Ano 2 Total N % N % N % Chloroprocta idioidea (Robineau-Desvoidy, 1830) 0 0,00 4 0,29 4 0,18 Chrysomya albiceps (Wiedemann, 1819) 14 1,69 124 9,08 138 6,30 Chrysomya megacephala (Fabricius, 1794) 756 91,53 1 036 75,84 1 792 81,75 Chrysomya putoria (Wiedemann, 1818) 20 2,42 32 2,34 52 2,37 Cochliomyia hominivorax (Cocquerel, 1858) 0 0,00 8 0,59 8 0,36 Cochliomyia macellaria (Fabricius, 1775) 34 4,12 152 11,13 186 8,49 Hemilucilia semidiaphana (Rondani, 1850) 0 0,00 2 0,15 2 0,09 Lucilia cuprina (Wiedemann,1830) 0 0,00 2 0,15 2 0,09 Lucilia eximia (Wiedemann, 1819) 2 0,24 6 0,44 8 0,36 Total 826 100 1 366 100 2 192 100 de Calliphoridae observadas em manguezal parecem ter sido bastante positivas para esta família, demonstrando que estes muscóides são bastante versáteis e extremamente oportunistas. A espécie C. albiceps se destacou entre as demais espécies aumentando a sua abundância, o que demonstra que esta espécie pode ser capaz de resistir melhor que as demais espécies diante de variações impactantes em ecossistema de manguezal. O número de machos e fêmeas capturados no ano 2 demonstrou um aumento não significativo, o que significa que machos e fêmeas tiveram suas proporções mantidas. É importante a avaliação do ambiente no pré e no pós-impacto, observando os efeitos e a recuperação do ambiente e o nível do impacto provocado através do tempo (Wiens e Parker <ref type="bibr">1995)</ref>, no entanto isto é possível quando um determinado ambiente é monitorado por longos períodos, como ocorre com os manguezais da APA de Guapi-Mirim, proporcionando confiabilidade nos resultados apresentados.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusão</head><p>A forte pressão antrópica provocada pelo derramamento de óleo mineral naftênico na área de manguezal parece ter sido um fator importante no aumento da abundância e da riqueza de muscóides da família Calliphoridae no ano 2, no entanto apenas a espécie C. albiceps mostrou-se estatisticamente mais adaptada a poluição causada pelo óleo, o que contribui com maiores informações sobre o comportamento destes insetos em manguezais, diante de impactos ambientais provocados pela ação humana.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos</head><p>A Prefeitura Municipal de Itaboraí por proporcionar recursos materiais para a pesquisa e ao Instituto Chico Mendes (MMA) que forneceu as autorizações para todas as coletas de espécimes. Autorizações SISBIO: 14517-2 e 14517-3.</p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><figDesc>Durante um ano de coletas foram capturadas 2 192 moscas pertencentes a nove espécies da família Calliphoridae (Tabela 1). Os valores apresentados na Tabela 1 mostram que houve um aumento na abundância de 65,37 % e um aumento na riqueza de 80 % no ano 2. As espécies C. idioidea, C. hominivorax, H. semidiaphana e L. cuprina foram aquelas que contribuíram com o aumento da riqueza no período pós-impacto. As espécies C. albiceps, C. megacephala, C. putoria, C. macellaria e L. eximia foram aquelas que contribuíram com aumento na abundância também no período pós-impacto. Os valores para o índice de diversidade e o índice de uniformidade para o ano 1 -pré-impacto (2009/2010) foram H= 0,168 e e= 0,240; no ano 2 -pós impacto (2010/ 2011),equivalente a H= 0,369 e e= 0,386, e o índice de similaridade entre os dois anos calculado de acordo com Bray e Curtis (1957) foi de 0,233.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head>Figura 1 .</head><label>1</label><figDesc>Figura 1. Mapa de localização da APA de Guapi-Mirim no Estado do Rio de Janeiro, Brasil (Fonte: ICMBio 2010).</figDesc><graphic coords="3,80.67,116.67,222.99,160.53" type="bitmap" /></figure>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Ocorrência e Sazonalidade de Muscóides (Diptera, Calliphoridae) de Importância Sanitária no Município de Itaboraí</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ, Brasil. Entomobrasilis</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="16" to="21" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Effect of Lunar Phases, Tides, and Wind Speed on the Abundance of Diptera Calliphoridae in a Mangrove Swamp</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Neotropical Entomology</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="48" to="52" />
+			<date type="published" when="2014">2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Abundance and richness of Calliphoridae (Diptera) of public health importance in the Tinguá Biological Reserve</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Batista-Da-Silva</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nova Iguaçu (RJ), Brazil. Entomotropica</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="137" to="142" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">An ordination of the upland Forest communities of sourthern Wisconsin</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Bray</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">T</forename><surname>Curtis</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Monographs</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page" from="325" to="349" />
+			<date type="published" when="1957">1957</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Impacts of sediment burial on mangrove</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Ellison</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Pollution Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">8-12</biblScope>
+			<biblScope unit="page" from="420" to="426" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Sinantropia de dípteros muscóides de Curitiba, Paraná. I: Calliphoridae</title>
+		<author>
+			<persName><forename type="first">Mjm</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="445" to="454" />
+			<date type="published" when="1978">1978</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Inventário de Calliphoridae (Diptera) em manguezal e fragmento de Mata Atlântica na região de Barra de Guaratiba</title>
+		<author>
+			<persName><forename type="first">L</forename><surname>Gonçalves</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Dias</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">B</forename><surname>Espindola</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">F</forename><forename type="middle">S</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Revista Brasileira de Biociências</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="50" to="55" />
+			<date type="published" when="2011">2011</date>
+			<publisher>Rio de Janeiro</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Direct and indirect effects of repeated pollution events on marine hardsubstrate assemblages</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">L</forename><surname>Johnston</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">J</forename><surname>Keough</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="1212" to="1228" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Trace metal retention in mangrove ecosystems in Guanabara Bay, SE Brazil</title>
+		<author>
+			<persName><forename type="first">W</forename><surname>Machado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">V</forename><surname>Silva-Filho</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">D</forename><surname>Lacerda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Pollution Bulletin</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="1277" to="1280" />
+			<date type="published" when="2002">2002</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Chave para identificação das formas adultas das espécies da família Calliphoridae (Díptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Entomologia y Vectores</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title level="a" type="main">Population fluctuations of calliphorid species (Diptera, Calliphoridae) in the Biological Reserve of Tinguá, state of Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">S</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Iheringia</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="481" to="485" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">The measurement of diversity in different types of biological collections</title>
+		<author>
+			<persName><forename type="first">E</forename><forename type="middle">C</forename><surname>Pielou</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Theoretical Biology</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="131" to="144" />
+			<date type="published" when="1966">1966</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Miíases Humanas por Cochliomyia hominivorax no Estado do Rio de Janeiro e Suas Conseqüências</title>
+		<author>
+			<persName><forename type="first">Mmc</forename><surname>Queiroz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">P</forename><forename type="middle">C</forename><surname>Ribeiro</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mmo</forename><surname>Cabral</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Moya-Borja</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">N</forename><surname>Norberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">XVII Congresso Latinoamericano de Parasitologia</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="page" from="167" to="168" />
+			<date type="published" when="2005">2005</date>
+			<pubPlace>Mar Del Plata, Argentina</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Parasitologia Latinoamericana(Chile)</note>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">Application of ecological criteria in selecting marine reserves and developing reserve networks</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">M</forename><surname>Roberts</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><surname>Branch</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">H</forename><surname>Bustamante</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Castilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Dugan</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">S</forename><surname>Halpern</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">D</forename><surname>Lafferty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><surname>Leslie</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Lubchenco</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><surname>Mcardle</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Ruckelshaus</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">R</forename><surname>Warner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="215" to="228" />
+			<date type="published" when="2003">2003</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Calliphoridae (Diptera) associated with human corpses in Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">Rjb</forename><surname>Salviano</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Rfs</forename><surname>Santos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Lcnh</forename><surname>Beck</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ferreira</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brazil. Entomologia y Vectores</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="145" to="146" />
+			<date type="published" when="1996">1996</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title level="m" type="main">The Mathematical Theory of Communication</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">E</forename><surname>Shannon</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">W</forename><surname>Weaver</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1949">1949</date>
+			<publisher>University of Illinois Press</publisher>
+			<biblScope unit="page">117</biblScope>
+			<pubPlace>Urbana, Illinois</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Analyzing the effects of accidental environmental impacts: approaches and assumptions</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Wiens</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Parker</surname></persName>
+		</author>
+		<idno>Recibido: 15-03-2014. Aceptado: 29-01-2015</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Applications</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1069" to="1083" />
+			<date type="published" when="1995">1995</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

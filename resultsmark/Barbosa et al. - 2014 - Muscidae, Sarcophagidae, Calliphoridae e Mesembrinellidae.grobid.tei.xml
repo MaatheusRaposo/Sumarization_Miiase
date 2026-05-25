@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="pt">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Muscidae, Sarcophagidae, Calliphoridae e Mesembrinellidae (Diptera) da Estação Biológica de Santa Lúcia (Santa Teresa, Espírito Santo, Brasil)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author role="corresp">
+							<persName><forename type="first">Leandro</forename><surname>Silva Barbosa</surname></persName>
+							<email>leanbarbosa@gmail.com</email>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Diptera , Departamento de Entomologia , Museu Nacional /UFRJ. Apoio: CAPES , CNPq</note>
+								<orgName type="department">Departamento de Entomologia</orgName>
+								<orgName type="laboratory">Laboratório de Diptera</orgName>
+								<orgName type="institution">Museu Nacional /UFRJ. Apoio: CAPES</orgName>
+								<address>
+									<country>CNPq</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">André</forename><forename type="middle">Mallemont</forename><surname>Cunha</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Diptera , Departamento de Entomologia , Museu Nacional /UFRJ. Apoio: CAPES , CNPq</note>
+								<orgName type="department">Departamento de Entomologia</orgName>
+								<orgName type="laboratory">Laboratório de Diptera</orgName>
+								<orgName type="institution">Museu Nacional /UFRJ. Apoio: CAPES</orgName>
+								<address>
+									<country>CNPq</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Márcia</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Diptera , Departamento de Entomologia , Museu Nacional /UFRJ. Apoio: CAPES , CNPq</note>
+								<orgName type="department">Departamento de Entomologia</orgName>
+								<orgName type="laboratory">Laboratório de Diptera</orgName>
+								<orgName type="institution">Museu Nacional /UFRJ. Apoio: CAPES</orgName>
+								<address>
+									<country>CNPq</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<persName><forename type="first">Valéria</forename><surname>Cid</surname></persName>
+							<affiliation key="aff1">
+								<note type="raw_affiliation"><label>1</label> Laboratório de Diptera , Departamento de Entomologia , Museu Nacional /UFRJ. Apoio: CAPES , CNPq</note>
+								<orgName type="department">Departamento de Entomologia</orgName>
+								<orgName type="laboratory">Laboratório de Diptera</orgName>
+								<orgName type="institution">Museu Nacional /UFRJ. Apoio: CAPES</orgName>
+								<address>
+									<country>CNPq</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<note type="raw_affiliation"><label>e</label> RESUMO: O primeiro registro de dípteros das famílias Muscidae , Sarcophagidae , Calliphoridae Mesembrinellidae da Estação Biológica de Santa Lúcia</note>
+								<orgName type="department">Mesembrinellidae da Estação Biológica de Santa Lúcia</orgName>
+								<orgName type="institution">RESUMO: O primeiro registro de dípteros das famílias Muscidae</orgName>
+								<address>
+									<settlement>Sarcophagidae</settlement>
+									<country>Calliphoridae</country>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Muscidae, Sarcophagidae, Calliphoridae e Mesembrinellidae (Diptera) da Estação Biológica de Santa Lúcia (Santa Teresa, Espírito Santo, Brasil)</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">56AF62B527CFCA012A1B57F6E6747527</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2" ident="GROBID" when="2026-03-17T22:34+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<label type="revision">a91ee48</label>
+					<label type="parameters">startPage=-1, endPage=-1, consolidateCitations=0, consolidateHeader=1, consolidateFunders=0, includeRawAffiliations=true, includeRawCitations=false, includeRawCopyrights=false, generateTeiIds=false, generateTeiCoordinates=[], sentenceSegmentation=false, flavor=null</label>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p> O primeiro registro de dípteros das famílias Muscidae, Sarcophagidae, Calliphoridae e Mesembrinellidae da Estação Biológica de Santa Lúcia (EBSL) é apresentado e discutido, baseado em coletas realizadas no ano de 2007. Os exemplares foram capturados com o auxílio de armadilha Van Someren-Rydon (utilizando sardinha como isca) e Malaise, além de coleta com rede entomológica. Foram obtidos 1.253 espécimes, com destaque para as famílias Calliphoridae, Muscidae, Sarcophagidae e Mesembrinellidae. É discutida a dualidade gerada pela presença de espécies com baixo grau de sinantropia e outras altamente sinantrópicas, caracterizando a área de coleta como uma região de transição entre áreas rural e florestal. A observação de espécies sinantrópicas está provavelmente correlacionada ao efeito de borda. Os resultados evidenciam a importância da criação de uma zona de amortecimento no entorno da EBSL com intuito de minimizar os impactos gerados às espécies nativas. Palavras-chave: efeito de borda, sinantropia e zona de amortecimento.</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>species is probably related to the edge effect. The results show the importance of creating a buffer zone around the EBSL to minimize the impacts on the native species. Key-words: buffer zone, edge effect, sinantropy,</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introdução</head><p>A Estação Biológica de Santa Lúcia (EBSL) é um remanescente de Mata Atlântica com área de aproximadamente 440 ha, localizado no município de Santa Teresa, região serrana do Estado do Espírito Santo. Estudos botânicos e faunísticos indicam uma rica biodiversidade nessa região, mesmo em comparação com outras áreas de Mata Atlântica <ref type="bibr" target="#b23">(Mendes &amp; Padovan, 2000)</ref>.</p><p>Os dípteros compõem uma das quatro ordens megadiversas de insetos, com mais de 160 mil espécies <ref type="bibr" target="#b32">(Pape et al. 2011)</ref>; possuem grande relevância ambiental devido à diversidade de estratégias de vida encontradas dentro da ordem. Existem espécies predadoras, parasitas, galhadoras, minadoras, parasitóides, dentre outras. Estudos mostram a importância desse táxon no que diz respeito a processos como polinização <ref type="bibr" target="#b3">(Clement et al., 2007;</ref><ref type="bibr" target="#b37">Ssymank et al., 2008)</ref> e decomposição <ref type="bibr" target="#b1">(Carvalho et al., 2005)</ref>, vitais para a manutenção do meio ambiente.</p><p>Devido à especificidade ambiental diferenciada dos táxons, aliada à rapidez de resposta em termos populacionais, as moscas podem ser utilizadas como importantes bioindicadores da qualidade ambiental <ref type="bibr" target="#b9">(Gadelha et al., 2009)</ref>.</p><p>Com exceção de Mesembrinellidae, as famílias abordadas no presente estudo possuem grande importância médica-sanitária, pois algumas espécies são causadoras de miíases, possuindo assim grande relevância para pecuária, podendo também atuar na dispersão mecânica de agentes patogênicos como bactérias, fungos, vírus, protozoários e ovos de helmintos <ref type="bibr" target="#b10">(Greenberg, 1971;</ref><ref type="bibr" target="#b11">Guimarães &amp; Papavero, 1999)</ref>.</p><p>Muscidae é uma família conhecidamente diversificada, com aproximadamente 840 espécies conhecidas apenas para região Neotropical <ref type="bibr" target="#b1">(Carvalho et al., 2005)</ref>. Seus representantes estão adaptados a uma ampla variedade de habitats e modos de vida, podendo ser encontrados em quase todos os ambientes, exceto nos mais áridos <ref type="bibr" target="#b1">(Carvalho, 2002)</ref>. As larvas são, em sua maioria, saprófagas, coprófagas ou predadoras de larvas de insetos e outros invertebrados. Os adultos são predadores de outros insetos, polenófagos, hematófagos ou de hábito saprófago em fezes, matéria vegetal ou tecido animal em decomposição e seus exudatos. Muitos estão relacionados com a transmissão de patógenos e são importantes vetores de parasitas <ref type="bibr" target="#b21">(McAlpine, 1981)</ref>. Apesar de a família ser mais conhecida pelas espécies que causam prejuízos econômicos e a saúde humana, os Muscidae também possui representantes que desempenham importante papel ambiental, sejam como decompositores de matéria orgânica ou como predadores de outros insetos <ref type="bibr" target="#b0">(Brown et al., 2010)</ref>.</p><p>Com mais de 3.000 espécies descritas <ref type="bibr" target="#b31">(Pape et al., 2009)</ref>, os membros da família Sarcophagidae são geralmente reconhecidos pelo padrão de três listras negras longitudinais no tórax. São, em sua grande maioria, ovovivíparos, com os ovos eclodindo em larva no momento da postura, o que provavelmente pode ser considerado uma adaptação para utilizar recursos efêmeros de alimentos ou hospedeiros evasivos no caso de espécies parasitóides <ref type="bibr" target="#b0">(Brown et al., 2010)</ref>.</p><p>Calliphoridae são conhecidos popularmente como moscas varejeiras, possuem geralmente corpo com coloração verde ou azul metálico. É provavelmente uma das famílias que mais causa prejuízos em termos econômicos à humanidade <ref type="bibr" target="#b21">(McAlpine, 1981)</ref>. Com 1.600 espécies, essa família possui vários hábitos de vida, apresentando larvas predadoras, necrobiontófagas e até biontófagas <ref type="bibr" target="#b0">(Brown et al., 2010)</ref>. Pelo abundante número de suas larvas em cadáveres são considerados de extrema importância para os estudos de entomologia forense <ref type="bibr" target="#b36">(Souza &amp; Linhares, 1997)</ref>.</p><p>Mesembrinellidae, com aproximadamente 50 espécies descritas, foi tratada por muito tempo como uma subfamília de Calliphoridae <ref type="bibr" target="#b15">(Kutty et al., 2010)</ref>. As moscas desta família são comumente robustas, com abdômen metálico e tórax marrom. As fêmeas produzem um único grande ovo por vez, que eclode em larva no interior do útero, onde é alimentada <ref type="bibr" target="#b0">(Brown et al., 2010)</ref>. Geralmente são encontradas em matas bem preservadas <ref type="bibr" target="#b9">(Gadelha et al., 2009)</ref>.</p><p>O objetivo do presente trabalho foi realizar o primeiro registro de Calliphoridae, Muscidae, Sarcophagidae e Mesembrinellidae da Estação Ecológica de Santa Lúcia (Espírito Santo).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Material e métodos</head><p>O material analisado se refere à coleta realizada pela equipe do laboratório de Diptera do Museu Nacional, UFRJ na Estação Biológica de Santa Lúcia (EBSL) (19 0 58'11" S, 40 0 32'11" W), no período de 22 a 25 de junho de 2007. A ESBL possui uma área aproximada de 440 ha, e três trilhas principais: Indaiá-açu, Tapinoã e Rio, com 250m; 950m e 1.950m de extensão, respectivamente.</p><p>A área amostrada possui a fitossocionomia típica de Mata Atlântica, porém apresenta estágios avançados de sucessão ecológica como também pontos de impacto antrópico. Seu clima é caracterizado pelo IBGE como "Tropical Subsequente superúmido com subseca" <ref type="bibr" target="#b23">(Mendes &amp; Padovan, 2000)</ref>.</p><p>Para captura dos insetos, duas armadilhas Van Someren-Rydon, utilizando sardinha como isca foram dispostas nas trilhas Tapinoã e Rio, permanecendo por 120 horas; uma armadilha Malaise foi disposta na trilha Indaiá-açu, permanecendo por 120 horas. Coletas com rede entomológicas foram realizadas diariamente por dois integrantes da equipe, totalizando 40 horas. O conteúdo de cada armadilha com espécimes vivos foi sacrificado com éter e acondicionado em recipientes plásticos com naftalina para posterior triagem e identificação. Os gêneros e espécies foram identificados com base nos seguintes autores: <ref type="bibr" target="#b1">Carvalho (2002)</ref> para Muscidae, <ref type="bibr" target="#b22">Mello (2003)</ref> para Calliphoridae e Mesembrinellidae. Os Fanniidae não puderam ser identificados por incluírem apenas fêmeas. Os Sarcophagidae foram identificados com a colaboração do biólogo Wallace Faria Soares do laboratório de Diptera Sarcophagidae do Museu Nacional. Uma parte da amostra de cada espécie foi montada em alfinete entomológico e os espécimes excedentes foram acondicionados em envelopes entomológicos. Todo o material coletado foi depositado na coleção de Diptera do Museu Nacional/Universidade Federal do Rio de Janeiro (MNRJ).</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Resultados</head><p>Foram coletados 1.253 espécimes de dípteros, tendo se destacado os Calliphoridae com 864 indivíduos, representando cerca de 69% do total obtido, seguidos dos Muscidae (n=75; 5,9%), Sarcophagidae (n=60; 4,7%) e Mesembrinelidae (n=12; 0,9%), além de 242 indivíduos pertencentes a outras sete famílias (sendo 225 Fanniidae) (Tabela 1).</p><p>Trabalhos anteriores sobre a fauna de Muscidae registraram 15 espécies para o Espírito Santo <ref type="bibr" target="#b18">(Lopes, 1978</ref><ref type="bibr" target="#b20">(Lopes, , 1992;;</ref><ref type="bibr" target="#b19">Lopes &amp; Couri 1987;</ref><ref type="bibr" target="#b25">Nihei, 2005;</ref><ref type="bibr" target="#b26">Nihei &amp; Carvalho, 2005;</ref><ref type="bibr">Pamplona,1986a</ref><ref type="bibr">Pamplona, ,b, 1987;;</ref><ref type="bibr" target="#b35">Schuehli &amp; Carvalho, 2005)</ref>: Hemichlora scordalus (Walker, 1861); Limnophora saeva (Wiedemann, 1830); Lispe serotina Wulp, 1896; Morellia concacata Pamplona,1986a; Morellia dalcyi Pamplona, 1986a; Morellia lopesae Pamplona, 1986b; Morellia nigricosta Hough, 1900; Myospila fluminensis Couri &amp; Lopes, 1988; Polietina major Albuquerque, 1956; Polietina orbitalis (Stein, 1904); Polietina steini (Enderlein, 1927); Pseudoptilolepis crocina Schuehli &amp; Carvalho, 2005; Pseudoptilolepis nigripoda Snyder, 1949; Pseudoptilolepis nudapleura Snyder, 1949; Sarcopromusca pruna (Shannon &amp; Del Ponte, 1926). O presente trabalho acrescentou seis registros novos para o Estado: Biopyrellia bipuncta (Wiedemann, 1830), Psilochaeta pampiana Shannon &amp; Del Ponte, 1926, Neomuscina sp., Ophyra aenescens Wiedemann, 1830, O. solitaria Tabela 1: Listagem das espécies de dípteros Mesembrinellidae, Calliphoridae, Muscidae e Sarcophagidae coletadas na Estação Biológica de Santa Lúcia (Santa Teresa, Espírito Santo, Brasil) em junho de 2007. Família Subfamília Espécie Quantidade Mesembrinellidae Mesembrinellinae Mesembrinella bellardiana Aldrich, 1922 3 M. peregrina Aldrich, 1922 1 Laneellinae Laneela nigripes Guimarães, 1977 8 Calliphoridae Chrysominae Chrysomya albiceps Wiedemann, 1819 48 C. putoria (Wiedemann, 1830) 5 Cochliomyia hominivorax (Coquerel, 1858) 1 Hemilucilia semidiaphana (Rondani, 1850) 45 H. souzalopesi Mello, 1972 5 H. segmentaria (Fabricius, 1805) 205 Hemilucilia sp. Brauer, 1895 196 Paralucilia nigrofacialis (Mello, 1969) 60 Calliphorinae Phaenicia eximia (Wiedemann, 1819) 299 Muscidae Muscinae Biopyrellia bipuncta (Wiedemann, 1830) 5 Cyrtoneurininae Neomuscina sp. Townsend, 1919 9 Azeliinae Ophyra aenescens (Wiedemann, 1830) 19 O. solitaria Albuquerque, 1958 6 O. chalcogaster (Wiedemann, 1824) 1 O. sp. Robineau-Desvoidy 8 Psilochaeta pampiana Shannon &amp; Del Ponte, 1926 3 Cyrtoneurininae Pseudoptilolepis sp. Snyder, 1949 24 Sarcophagidae Sarcophaginae Engelimya inops (Walker, 1849) 14 Oxysarcodexia angrensis (Lopes, 1933) 1 Ox. admixta (Lopes, 1933) 4 Ox. amorosa (Schiner, 1868 ) 1 Ox. fluminensis Lopes, 1946 1 Ox. sp. Townsend, 1917 1 Peckia (Panttonella) intermutans (Walker, 1861) 2 P. (Panttonella) resona (Lopes, 1935) 1 P. (Euboetcheria) collusor (Curran &amp; Walley, 1934) 2 P. (Euboettcheria) subducta (Lopes, 1935) 1 Sarcodexia lambens (Wiedemann, 1830) 19 Tricharaea (Sarcophagula) occidua (Fabricius, 1794) 13 Total 32 1011</p><p>Albuquerque <ref type="bibr">, 1958</ref><ref type="bibr">, e O. chalcogaster (Wiedemann, 1824))</ref>.</p><p>Os Sarcophagidae foram representados por: Oxysarcodexia angrensis <ref type="bibr">(Lopes, 1933)</ref>, O. admixta <ref type="bibr">(Lopes, 1933)</ref>, O. amorosa (Schiner, 1868), O. fluminensis <ref type="bibr">Lopes, 1946, Peckia (Pattonella)</ref> intermutans (Walker, 1861), P. (Pattonella) resona <ref type="bibr">(Lopes, 1935)</ref>, P. (Euboetcheria) collusor <ref type="bibr">(Curran &amp; Walley, 1934)</ref>, P. (Euboetcheria) subducta <ref type="bibr">(Lopes, 1935)</ref>, Tricharaea (Sarcophagula) occidua (Fabricius, 1794), Engelimya inops (Walker, 1849), Sarcodexia lambens <ref type="bibr">(Wiedemann, 1830)</ref>.</p><p>Dentre os Mesembrinellidae e os Calliphoridae foram identificadas, respectivamente, Mesembrinella bellardiana <ref type="bibr">Aldrich, 1922</ref><ref type="bibr">, M. peregrina Aldrich, 1922</ref><ref type="bibr">, Laneela nigripes Guimarães, 1977</ref> e Chrysomya albiceps (Wiedemann, 1819), C. putoria (Wiedemann, 1830), Phaenicia eximia (Wiedemann, 1819), Paralucillia nigrofacialis <ref type="bibr">(Mello, 1969)</ref>, Cochliomyia homnivorax (Coquerel, 1858), Hemilucilia semidiaphana (Rondani, 1850), H. souzalopesi <ref type="bibr">Mello, 1972</ref><ref type="bibr">e H. segmentaria (Fabricius, 1805)</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Discussão</head><p>Dentre os grupos coletados, a família Mesembrinellidae é considerada como bioindicadora de áreas bem preservadas <ref type="bibr" target="#b7">(D'Almeida &amp; Lopes, 1983;</ref><ref type="bibr" target="#b8">Ferraz et al., 2010;</ref><ref type="bibr" target="#b9">Gadelha et al., 2009)</ref>. Embora tenha sido encontrado um pequeno número de espécimes, 12 indivíduos distribuídos em três espécies, a presença desse grupo já pode ser considerada como relevante informação para a qualidade ambiental da área.</p><p>Em contrapartida também foram registradas espécies de Calliphoridae pertencentes ao gênero Chrysomya Robineau-Desvoid 1830, as quais possuem altos índices de sinantropia, estando relacionadas à ambientes muito antropomorfizados. Esse gênero exótico possui alta capacidade de dispersão <ref type="bibr" target="#b34">(Prado &amp; Guimarães, 1982;</ref><ref type="bibr">Baumgartner, 1988)</ref>, diversificação do hábito alimentar dos adultos e grande habilidade competitiva, o que possibilita sua sobrevivência em diversos ambientes e utilização de uma grande variedade de substratos para oviposição <ref type="bibr" target="#b5">(D'Almeida, 1986;</ref><ref type="bibr" target="#b6">D'Almeida &amp; Almeida, 1998)</ref>. Essas características ficaram bem demonstradas pela rápida colonização que ocorreu no Brasil por espécies do gênero Chrysomya <ref type="bibr" target="#b12">(Guimarães et al., 1979)</ref>.</p><p>Os dados referentes à Muscidae corroboram os verificados para Mesembrinellidae e Calliphoridae. No trabalho de <ref type="bibr" target="#b38">Uribe-M et al. (2010)</ref> Ophyra aenescens apresentou um indíce de sinantropia de 96,15, mostrando uma alta relação com ambientes antropomorfizados. Enquanto Biopyrellia bipuncta, -20,86, mostrou preferência por áreas inabitadas. A dualidade gerada pela presença de espécies com baixo grau de sinantropia e outras altamente sinantrópicas representou a área de coleta, caracterizada pela transição entre a região rural e florestal.</p><p>As espécies exóticas normalmente geram efeitos deletérios aos ecossistemas <ref type="bibr" target="#b27">(Oliveira &amp; Machado, 2009</ref>) como a redução da diversidade <ref type="bibr" target="#b17">(Lodge, 1993)</ref>, poluição genética e extinção de espécies nativas <ref type="bibr" target="#b4">(Crooks, 1998;</ref><ref type="bibr" target="#b14">Huxel, 1999)</ref>, além da alteração do habitat <ref type="bibr" target="#b4">(Crooks, 1998;</ref><ref type="bibr" target="#b2">Castilla et al., 2004)</ref>.</p><p>A presença de espécies exóticas e/ou sinantrópicas no interior da EBSL, provavelmente correlacionadas ao efeito de borda <ref type="bibr" target="#b16">(Lima-Ribeiro, 2008;</ref><ref type="bibr" target="#b8">Ferraz et al., 2010)</ref>, sugere a necessidade de estratégias de proteção da fauna nativa. Logo uma alternativa seria a criação de uma zona de amortecimento no entorno da EBSL com o intuito de minimizar os impactos ambientais gerados a partir de atividades externas a ela, tais como: poluição, espécies exóticas e ocupação irregular <ref type="bibr" target="#b24">(Miller, 1997)</ref>. <ref type="bibr" target="#b33">Penariol and Madi-Ravazzi (2013)</ref> observaram que uma distância de 200 metros da borda foi suficiente para delinear um gradiente de espécies de Drosophilidae, porém essa distância sempre será correlacionada com o poder de dispersão das espécies, como observado por <ref type="bibr" target="#b8">Ferraz et al., 2010.</ref> Esses impactos presentes na EBSL já foram previamente apontados por <ref type="bibr" target="#b23">Mendes &amp; Padovan (2000)</ref>.</p><p>Considerando que se utilizou apenas um único tipo de isca e o período restrito de coleta, os novos registros encontrados para o Espírito Santo no presente trabalho, reforçam a importância de novas coletas com maior diversificação de estratégias.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Agradecimentos</head><p>Os autores são gratos ao suporte oferecido pelo Museu Nacional/ UFRJ e Museu de Biologia Professor Mello Leitão, como também ao biólogo Eduardo Barros (Museu Nacional/UFRJ) e ao Sr. José Luís Molino (Museu Nacional/ UFRJ) pela ajuda nos procedimentos de coleta. Ao biólogo Wallace Faria Soares pela identificação dos sarcofagídeos. À Elaine Soares e Frederico Salles pelas correções, sugestões e contribuições com o trabalho.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Literatura citada</head><p>Baumgartner, D. L. 1988. Diffusion of introduced Chrysomya (Diptera:</p><p>Calliphoridae) in the Tropics with new data from Venezuela. Biotropica, 20: 167-168.</p></div>			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" xml:id="foot_0"><p>Bol. Mus. Biol. Mello leitão (N. sér.) 33. 2014   </p></note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>Brown</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><surname>Borkent</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>Cumming</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">E</forename><surname>Woodley</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Zumbado</surname></persName>
+		</author>
+		<title level="m">Manual of Central American Diptera</title>
+		<meeting><address><addrLine>Ottawa</addrLine></address></meeting>
+		<imprint>
+			<publisher>NRC Research Press</publisher>
+			<date type="published" when="2010">2010</date>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">728</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Muscidae (Diptera) of the Neotropical Region: Taxonomy. Curitiba</title>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Couri</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ms</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C</forename><surname>Pont</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Pamplona</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<editor>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</editor>
+		<editor>
+			<persName><surname>De</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">860</biblScope>
+			<biblScope unit="page" from="1" to="282" />
+			<date type="published" when="2002">2002. 2005</date>
+		</imprint>
+		<respStmt>
+			<orgName>Editora Universidade Federal do Paraná</orgName>
+		</respStmt>
+	</monogr>
+	<note>A catalogue of the Muscidae (Diptera) of the Neotropical Region</note>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<analytic>
+		<title level="a" type="main">Marine ecosystem engineering: effects of the alien ascidian Pyura praeputialis upon species richness, distribution and spatial turnover in the mid-intertidal rocky shores of northern Chile</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">C</forename><surname>Castilla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><forename type="middle">A</forename><surname>Lagos</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Cerda</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Ecology Progress Series</title>
+		<imprint>
+			<biblScope unit="volume">268</biblScope>
+			<biblScope unit="page" from="119" to="130" />
+			<date type="published" when="2004">2004</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<analytic>
+		<title level="a" type="main">Flies (Diptera: Muscidae: Calliphoridae) are efficient pollinators of Allium ampeloprasum L. (Alliaceae) in Field Cages</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Clement</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">C</forename><surname>Hellier</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">R</forename><surname>Elberson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">T</forename><surname>Staska</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">A</forename><surname>Evans</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Entomology</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="131" to="135" />
+			<date type="published" when="2007">2007</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Habitat alteration and community-level effects of an exotic mussel, Musculista senhousia</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">A</forename><surname>Crooks</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Marine Ecology Progress Series</title>
+		<imprint>
+			<biblScope unit="volume">162</biblScope>
+			<biblScope unit="page" from="137" to="152" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Substratos utilizados para a criação de dípteros caliptrados em uma área rural do Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo da Universidade Federal Rural do Rio de Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="13" to="22" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">Nichos tróficos em dípteros caliptratos no Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Almeida</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="563" to="570" />
+			<date type="published" when="1998">1998</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Sinantropia de Dípteros Muscóides (Calliphoridae) no Estado do Rio de Janeiro</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">M</forename><surname>D'almeida</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">S</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Arquivo da Universidade Federal Rural do Rio de Janeiro</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="page" from="39" to="48" />
+			<date type="published" when="1983">1983</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<analytic>
+		<title level="a" type="main">Effects of forest fragmentation on dipterofauna (Calliphoridae) at the Reserva Biológica do Tinguá</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C P</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M</forename><surname>Aguiar-Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RJ. Brazilian Journal of Biology</title>
+		<imprint>
+			<biblScope unit="volume">70</biblScope>
+			<biblScope unit="page" from="55" to="63" />
+			<date type="published" when="2010">2010</date>
+			<pubPlace>Nova Iguaçu</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">A importância dos Mesembrinelíneos (Diptera: Calliphoridae) e seu potencial como indicadores de preservação ambiental</title>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">Q</forename><surname>Gadelha</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">C P</forename><surname>Ferraz</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><forename type="middle">M A</forename><surname>Coelho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oecologia brasiliensis</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="661" to="665" />
+			<date type="published" when="2009">2009</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">B</forename><surname>Greenberg</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Flies and disease</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">856</biblScope>
+			<date type="published" when="1971">1971</date>
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title level="m" type="main">Myiasis in man and animals in the Neotropical region. Bibliographic database</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">N</forename><surname>Papavero</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999">1999</date>
+			<publisher>FAPESP/ Editora Plêiade</publisher>
+			<biblScope unit="page">308</biblScope>
+			<pubPlace>São Paulo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<analytic>
+		<title level="a" type="main">Dispersal and distribution of the three newly introduced species of Chrysomya Robineau-Desvoidy Bol</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">H</forename><surname>Guimarães</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">M</forename><surname>Buralli</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Mus. Biol. Mello leitão</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<date type="published" when="1979">1979. 2014</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<analytic>
+		<title level="a" type="main">in Brazil (Diptera: Calliphoridae)</title>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="245" to="255" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Rapid displacement of native species by invasive species: effects of hybridization</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">R</forename><surname>Huxel</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biological Conservation</title>
+		<imprint>
+			<biblScope unit="volume">89</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="143" to="152" />
+			<date type="published" when="1999">1999</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Molecular phylogeny of the Calyptratae (Diptera: Cyclorrhapha), with an emphisis on the superfamily Oestroidea and the position of Mystacinobiidae and McAlpine&apos;s fly</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">T</forename><surname>Kutty</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">M</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Wiegmann</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meier</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Systematic Entomology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="614" to="635" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Efeitos de borda sobre a vegetação e estruturação populacional em fragmentos de Cerradão no Sudoeste Goiano</title>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Lima-Ribeiro</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brasil. Acta Botanica Brasilica</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="535" to="545" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">Biological invasions: lessons for ecology</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Lodge</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Trends in Ecology and Evolution</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="133" to="137" />
+			<date type="published" when="1993">1993</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<analytic>
+		<title level="a" type="main">Sobre alguns Muscidae novos e pouco conhecidos (Diptera)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="1978">1978</date>
+			<pubPlace>Nova Série</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Boletim do Museu Paraense Emílio Goeldi</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Estudo sobre Limnophorinae -IV -Contribuição ao conhecimento de Limnophora Robineau-Desvoidy, 1830 (Diptera, Muscidae)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">S</forename><surname>Couri</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="647" to="655" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Lispe Latreille, 1796, redescrição e notas sinonímicas de cinco espécies neotropicais (Diptera, Muscidae, Coenosiinae, Limnophorini)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">M</forename><surname>Lopes</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">352</biblScope>
+			<biblScope unit="page" from="1" to="19" />
+			<date type="published" when="1992">1992</date>
+		</imprint>
+	</monogr>
+	<note>Boletim do Museu Nacional, Nova série</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Morphology and terminology -adults</title>
+		<author>
+			<persName><forename type="first">J</forename><forename type="middle">F</forename><surname>Mcalpine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Mcalpine</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">B</forename><forename type="middle">V</forename><surname>F; Peterson</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">E</forename><surname>Shewell</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">H</forename><forename type="middle">J</forename><surname>Teskey</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Manual of Neartic Diptera, Ottawa: Research Branch Agriculture Canada</title>
+		<editor>
+			<persName><forename type="first">J</forename><forename type="middle">R</forename><surname>Vockeroth</surname></persName>
+		</editor>
+		<editor>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Wood</surname></persName>
+		</editor>
+		<imprint>
+			<date type="published" when="1981">1981</date>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="9" to="63" />
+		</imprint>
+	</monogr>
+	<note>Monograph 27</note>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title level="m" type="main">Chave para a identificação das formas adultas das espécies da família Calliphoridae (Diptera, Brachycera, Cyclorrhapha) encontradas no Brasil</title>
+		<author>
+			<persName><forename type="first">R</forename><forename type="middle">P</forename><surname>Mello</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003">2003</date>
+			<publisher>Entomologia y Vectores</publisher>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="255" to="268" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">L</forename><surname>Mendes</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">P</forename><surname>Padovan</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Boletim do Museu de Biologia Mello Leitão</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="7" to="34" />
+			<date type="published" when="2000">2000</date>
+			<pubPlace>Santa Tereza Espírito Santo</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>A Estação Biológica de Santa Lúcia</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<analytic>
+		<title level="a" type="main">Evolução do conceito de áreas de proteção: oportunidades para o século XXI</title>
+		<author>
+			<persName><forename type="first">K</forename><forename type="middle">R</forename><surname>Miller</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Anais do I Congresso Brasileiro de Unidades de Conservação. Curitiba: IAP</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="3" to="21" />
+			<date type="published" when="1997">1997</date>
+			<publisher>UNILIVRE</publisher>
+		</imprint>
+		<respStmt>
+			<orgName>Rede Nacional Pró Unidades de Conservação</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<analytic>
+		<title level="a" type="main">A review of the Neotropical genus Sarcopromusca Townsend (Diptera, Muscidae) with a key to species and a redescription of S. sarcophagina (Wulp)</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Nihei</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<imprint>
+			<biblScope unit="volume">1004</biblScope>
+			<biblScope unit="page" from="51" to="64" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">Distributional patterns of the Neotropical fly genus Polietina Schnabl &amp; Dziedzicki (Diptera, Muscidae): a phylogeny-supported track analysis</title>
+		<author>
+			<persName><forename type="first">S</forename><forename type="middle">S</forename><surname>Nihei</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+		<author>
+			<persName><surname>De</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papéis Avulsos de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="313" to="326" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<analytic>
+		<title level="a" type="main">Quem é quem diante da presença de espécies exóticas no Brasil? Uma leitura do arcabouço institucional-legal voltada para a formulação de uma Política Pública Nacional</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">E S</forename><surname>Oliveira</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J S</forename><surname>Machado</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ambiente &amp; Sociedade</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="373" to="387" />
+			<date type="published" when="2009">2009</date>
+			<pubPlace>Campinas</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<analytic>
+		<title level="a" type="main">On Neotropical Morellia Robineau Desvoidy 1830ii. Description of five new species (Diptera: Muscidae:Muscinae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Pamplona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="633" to="650" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Sobre Morellia RobineauDesvoidy,1830 neotropicais I: caracterização do gênero e descrição de três espécies novas (Diptera, Muscidae, Muscinae)</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Pamplona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="651" to="665" />
+			<date type="published" when="1986">1986</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<title level="a" type="main">Morellia nitida Wiedemann,1830, uma nova combinação</title>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">M</forename><surname>Pamplona</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Biologia</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">1/2</biblScope>
+			<biblScope unit="page" from="217" to="218" />
+			<date type="published" when="1987">1987</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">D</forename><forename type="middle">J</forename><surname>Bickel</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">R</forename><surname>Meier</surname></persName>
+		</author>
+		<title level="m">Diptera diversity: status, challenges and tools</title>
+		<meeting><address><addrLine>Leiden, The Netherlands, Brill</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009">2009</date>
+			<biblScope unit="page">459</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Animal biodiversity: An outline of higherlevel classification and survey of taxonomic richness</title>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">V</forename><surname>Blagoderov</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><forename type="middle">B</forename><surname>Mostovski</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Zootaxa</title>
+		<editor>
+			<persName><forename type="first">Z</forename><forename type="middle">Q</forename><surname>Zhang</surname></persName>
+		</editor>
+		<imprint>
+			<biblScope unit="volume">3148</biblScope>
+			<biblScope unit="page" from="1" to="237" />
+			<date type="published" when="2011">2011</date>
+		</imprint>
+	</monogr>
+	<note>Order DIPTERA Linnaeus, 1758</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Edge-interior differences in the species richness and abundance of drosophilids in a semideciduous forest fragment</title>
+		<author>
+			<persName><forename type="first">L</forename><forename type="middle">V</forename><surname>Penariol</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">L</forename><surname>Madi-Ravazzi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SpringerPlus</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">114</biblScope>
+			<date type="published" when="2013">2013</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<analytic>
+		<title level="a" type="main">Estado atual da distribuição e dispersão das espécies do gênero Chrysomya R-D na região Neotropical (Diptera: Calliphoridae)</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">P</forename><surname>Prado</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">J</forename><surname>Guimarães</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3-4</biblScope>
+			<biblScope unit="page" from="225" to="231" />
+			<date type="published" when="1982">1982</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">Revision and cladistics of the Neotropical genus Pseudoptilolepis Snyder (Diptera, Muscidae)</title>
+		<author>
+			<persName><forename type="first">G</forename><forename type="middle">S</forename><surname>Schuehli</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>De Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Zoologia</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="23" to="34" />
+			<date type="published" when="2005">2005</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<analytic>
+		<title level="a" type="main">Diptera and Coleoptera of potential forensic importance in southern Brazil: relative abundance and seasonality</title>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">M</forename><surname>Souza</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">A</forename><forename type="middle">X</forename><surname>Linhares</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical and Veterinary Entomology</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="8" to="12" />
+			<date type="published" when="1997">1997</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Pollinating Flies (Diptera): A major contribution to plant diversity and agricultural production</title>
+		<author>
+			<persName><forename type="first">A</forename><surname>Ssymank</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">A</forename><surname>Kearns</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">T</forename><surname>Pape</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><surname>Thompson</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biodiversity</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1-2</biblScope>
+			<biblScope unit="page" from="86" to="89" />
+			<date type="published" when="2008">2008</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<analytic>
+		<title level="a" type="main">Synanthropy and ecological aspects of Muscidae (Diptera) in a tropical dry forest ecosystem in Colombia</title>
+		<author>
+			<persName><forename type="first">N</forename><surname>Uribe-M</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">M</forename><surname>Wolff</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">C</forename><forename type="middle">J B</forename><surname>Carvalho</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Revista Brasileira de Entomologia</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="462" to="470" />
+			<date type="published" when="2010">2010</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
